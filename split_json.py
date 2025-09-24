@@ -1,13 +1,16 @@
-from pathlib import Path
 import json
+from pathlib import Path
+import sys
 
-input_file = Path("mapped-tvdb-ids.json")
-if not input_file.exists():
-    print(f"[ERROR] {input_file} not found. Run merge_json_files.py first.")
-    exit(1)
+mapped_file = Path("mapped-tvdb-ids.json")
+
+# If the file doesn't exist, skip gracefully
+if not mapped_file.exists():
+    print("No mapped-tvdb-ids.json found. Skipping split_json.py.")
+    sys.exit(0)
 
 # Load full JSON
-with input_file.open("r", encoding="utf-8") as f:
+with mapped_file.open("r", encoding="utf-8") as f:
     data = json.load(f)
 
 mal_dir = Path("api/myanimelist")
@@ -30,10 +33,12 @@ for entry in data:
 
 # Write MAL entries
 for mal_id, entries in mal_map.items():
-    with open(mal_dir / f"{mal_id}.json", "w", encoding="utf-8") as f:
+    with (mal_dir / f"{mal_id}.json").open("w", encoding="utf-8") as f:
         json.dump(entries, f, indent=4, ensure_ascii=False)
 
 # Write TVDB entries
 for tvdb_id, entries in tvdb_map.items():
-    with open(tvdb_dir / f"{tvdb_id}.json", "w", encoding="utf-8") as f:
+    with (tvdb_dir / f"{tvdb_id}.json").open("w", encoding="utf-8") as f:
         json.dump(entries, f, indent=4, ensure_ascii=False)
+
+print(f"Split complete. Wrote {len(mal_map)} MAL files and {len(tvdb_map)} TVDB files.")
