@@ -1,0 +1,12 @@
+# _config.yml
+exclude:
+  - .github
+  - anime_data
+  - debug
+  - get_total_pages.py
+  - mal_mapper.py
+  - merge_json_files.py
+  - split_json.py
+  - thetvdb_scraper.py
+  - requirements.txt
+  - README.md
