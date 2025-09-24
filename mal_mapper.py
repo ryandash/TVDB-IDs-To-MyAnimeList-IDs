@@ -321,11 +321,13 @@ def map_anime():
                     anime_type = type_mapping.get(ep_data.get("TYPE"))
 
                     EpisodeMALID = None
-                    search_term = ep_title
+                    search_term = None
+                    all_titles = None
                     if Season0Mal:
                         EpisodeMALID = Season0Mal
                         print(f"\nUsing {EpisodeMALID} for {series_title} {ep_title}")
                     elif ep_title:
+                        search_term = ep_title
                         if anime_type != "movie" and series_title.lower() not in ep_title.lower():
                             search_term = f"{series_title} {ep_title}"
 
