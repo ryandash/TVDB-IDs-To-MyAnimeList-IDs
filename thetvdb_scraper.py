@@ -335,33 +335,22 @@ async def scrape_anime_page_async(page: Page, anime_url: str, page_num: int, ava
     if not series_id:
         return
 
-    existing  = lookup.get(series_id)
-    existing_date = None
-    if existing and "Modified" in existing:
-        existing_modified = existing.get("Modified")
-        if existing_modified:
-            try:
-                existing_date = datetime.fromisoformat(existing_modified).date()
-            except Exception:
-                pass
-    
-    if existing_date and modified_date and modified_date <= existing_date:
-        return
+    existing  = lookup.get(series_id)    
+    if not existing:
+        translations = await extract_translations_async(page)
+        titles = {lang: data.get("title") for lang, data in translations.items()}
+        summaries = {lang: data.get("summary") for lang, data in translations.items()}
 
-    translations = await extract_translations_async(page)
-    titles = {lang: data.get("title") for lang, data in translations.items()}
-    summaries = {lang: data.get("summary") for lang, data in translations.items()}
-
-    aliases = []
-    sections = await page.query_selector_all("#translations > div")
-    for section in sections:
-        heading = await section.query_selector("h5")
-        if heading:
-            text = (await heading.inner_text()).strip()
-            if text.lower() == "aliases":
-                alias_items = await section.query_selector_all("ul li")
-                aliases = await asyncio.gather(*[li.inner_text() for li in alias_items])
-                break
+        aliases = []
+        sections = await page.query_selector_all("#translations > div")
+        for section in sections:
+            heading = await section.query_selector("h5")
+            if heading:
+                text = (await heading.inner_text()).strip()
+                if text.lower() == "aliases":
+                    alias_items = await section.query_selector_all("ul li")
+                    aliases = await asyncio.gather(*[li.inner_text() for li in alias_items])
+                    break
     
     anime_data = deepcopy(existing) if existing else {
         "URL": anime_url,
@@ -375,6 +364,19 @@ async def scrape_anime_page_async(page: Page, anime_url: str, page_num: int, ava
         "Modified": modified_date.isoformat() if modified_date else None,
         "Seasons": {}
     }
+
+    existing_date = None
+    if existing and "Modified" in existing:
+        existing_modified = existing.get("Modified")
+        if existing_modified:
+            try:
+                existing_date = datetime.fromisoformat(existing_modified).date()
+            except Exception:
+                pass
+
+    if existing_date and modified_date and modified_date <= existing_date:
+        enqueue_save_anime(series_id, anime_data, page_num)
+        return
 
     # --- Collect seasons ---
     season_rows = (await page.query_selector_all('#seasons-official table tbody tr'))[1:-1]
@@ -412,8 +414,7 @@ async def scrape_anime_page_async(page: Page, anime_url: str, page_num: int, ava
 
     anime_data["Seasons"] = dict(sorted(anime_data["Seasons"].items(), key=lambda x: int(x[0])))
     
-    if not existing or anime_data != existing:
-        enqueue_save_anime(series_id, anime_data, page_num)
+    enqueue_save_anime(series_id, anime_data, page_num)
 
 
 # -------------------
