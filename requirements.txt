@@ -1,0 +1,5 @@
+playwright>=1.45.0
+rapidfuzz>=3.14.1
+httpx>=0.28.1
+tqdm>=4.67.1
+nest_asyncio>=1.6.0

@@ -1,0 +1,186 @@
+name: "Daily Anime JSON Update"
+
+on:
+  workflow_dispatch:
+    inputs:
+      manual_total_pages:
+        description: "Override total number of pages (leave empty to auto-detect)"
+        required: false
+        default: ""
+  schedule:
+    - cron: "0 7 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "requirements.txt"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: "anime-json-update"
+  cancel-in-progress: true
+
+jobs:
+  determine_total_pages:
+    name: Determine Total Pages
+    runs-on: ubuntu-latest
+    outputs:
+      total: ${{ steps.set_pages.outputs.total }}
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Setup Python & Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m playwright install
+        shell: bash
+
+      - name: Decide Total Pages
+        id: set_pages
+        run: |
+          if [ -n "${{ github.event.inputs.manual_total_pages }}" ]; then
+            total="${{ github.event.inputs.manual_total_pages }}"
+            echo "Using manual override: $total pages"
+          else
+            total=$(python get_total_pages.py | grep -oP '\d+')
+            echo "Detected: $total pages"
+          fi
+          echo "total=${total}" >> $GITHUB_OUTPUT
+
+  generate_page_list:
+    name: Generate Page List
+    needs: determine_total_pages
+    runs-on: ubuntu-latest
+    outputs:
+      pages: ${{ steps.generate_pages.outputs.pages }}
+    steps:
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Generate Page List
+        id: generate_pages
+        run: |
+          total=${{ needs.determine_total_pages.outputs.total }}
+          total=${total:-1}
+          pages=$(seq 1 $total | jq -R . | jq -s .)
+          echo "pages<<EOF" >> $GITHUB_OUTPUT
+          echo "${pages}" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+  scrape_pages:
+    name: Scrape Pages
+    needs: generate_page_list
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 5
+      matrix:
+        page: ${{ fromJson(needs.generate_page_list.outputs.pages) }}
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Setup Python & Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m playwright install
+        shell: bash
+
+      - name: Clean API folder
+        run: rm -rf api
+
+      - name: Scrape Page ${{ matrix.page }}
+        run: python thetvdb_scraper.py --page ${{ matrix.page }} --delete-folder
+
+      - name: Map MAL IDs for Page ${{ matrix.page }}
+        run: python mal_mapper.py --page ${{ matrix.page }}
+
+      - name: Run Split JSON
+        run: python split_json.py
+
+      - name: Upload API folder
+        uses: actions/upload-artifact@v4
+        with:
+          name: api-page-${{ matrix.page }}-artifacts
+          path: |
+            api/
+            anime_data/
+            unmapped-tvdb-ids.json
+            mapped-tvdb-ids.json
+          if-no-files-found: warn
+          overwrite: true 
+
+  combine_and_commit:
+    name: Combine FILES & Commit
+    needs: scrape_pages
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Download all artifacts
+        uses: actions/download-artifact@v5
+        with:
+          path: artifacts/
+          merge-multiple: true 
+
+      - name: Move folders if they exist
+        run: |
+          rsync -a artifacts/api/ api/
+          rsync -a artifacts/anime_data/ anime_data/
+      
+      - name: Setup Python & Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+        shell: bash
+
+      - name: Merge mapped/unmapped JSON files
+        run: python merge_json_files.py
+
+      - name: Delete artifacts folder
+        run: |
+          rm -rf artifacts/
+
+      - name: Commit Changes if Needed
+        shell: pwsh
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions Bot"
+          git add .
+
+          if (-not (git diff --cached --quiet)) {
+            $date = Get-Date -Format "yyyy-MM-dd"
+            $time = Get-Date -Format "HH:mm:ss"
+            git commit -m "Update JSON at $date $time"
+            git push
+            Write-Host "JSON updated and changes pushed."
+          } else {
+            Write-Host "No changes detected, skipping commit."
+          }
+
+  cleanup_artifacts:
+  runs-on: ubuntu-latest
+  needs: combine_and_commit
+  steps:
+    - name: Delete all workflow artifacts
+      run: |
+        for artifact in $(gh run artifacts --json id --jq '.[].id'); do
+          gh run artifact delete $artifact
+        done
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
