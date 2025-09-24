@@ -61,9 +61,6 @@ jobs:
     outputs:
       pages: ${{ steps.generate_pages.outputs.pages }}
     steps:
-      - name: Install jq
-        run: sudo apt-get update && sudo apt-get install -y jq
-
       - name: Generate Page List
         id: generate_pages
         run: |
