@@ -1,8 +1,13 @@
-import json
 from pathlib import Path
+import json
+
+input_file = Path("mapped-tvdb-ids.json")
+if not input_file.exists():
+    print(f"[ERROR] {input_file} not found. Run merge_json_files.py first.")
+    exit(1)
 
 # Load full JSON
-with open("mapped-tvdb-ids.json", "r", encoding="utf-8") as f:
+with input_file.open("r", encoding="utf-8") as f:
     data = json.load(f)
 
 mal_dir = Path("api/myanimelist")
