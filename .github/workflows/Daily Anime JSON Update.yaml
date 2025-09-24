@@ -173,14 +173,13 @@ jobs:
           }
 
   cleanup_artifacts:
-  runs-on: ubuntu-latest
-  needs: combine_and_commit
-  steps:
-    - name: Delete all workflow artifacts
-      run: |
-        for artifact in $(gh run artifacts --json id --jq '.[].id'); do
-          gh run artifact delete $artifact
-        done
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+    runs-on: ubuntu-latest
+    needs: combine_and_commit
+    steps:
+      - name: Delete all workflow artifacts
+        run: |
+          for artifact in $(gh run artifacts --json id --jq '.[].id'); do
+            gh run artifact delete $artifact
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
