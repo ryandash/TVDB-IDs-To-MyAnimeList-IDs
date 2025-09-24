@@ -1,8 +1,8 @@
 # MyAnimeList-IDs-To-TVDB-IDs
 
-To use include 
+To use for myanimelist to thetvdb\
 https://ryandash.github.io/MyAnimeList-IDs-To-TVDB-IDs/api/myanimelist/{myanimelist id}.json
-For myanimelist to thetvdb or
 
+To use for thetvdb to myanimelist\
 https://ryandash.github.io/MyAnimeList-IDs-To-TVDB-IDs/api/thetvdb/{thetvdb id}.json
-for thetvdb to myanimelist
+
