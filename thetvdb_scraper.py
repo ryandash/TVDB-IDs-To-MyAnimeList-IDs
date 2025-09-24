@@ -24,18 +24,12 @@ deleteFolder = args.delete_folder
 SAVE_INTERVAL = args.save_interval
 
 BASE_URL_TEMPLATE = "https://www.thetvdb.com/genres/anime?page={page_num}"
-LOG_FILE = "anime_scrape.log"
 DATA_DIR = Path("anime_data")
 DATA_DIR.mkdir(exist_ok=True)
 
 # -------------------
-# Logging & Persistence
+# Persistence
 # -------------------
-
-def log(message: str) -> None:
-    with open(LOG_FILE, "a", encoding="utf-8") as f:
-        f.write(message + "\n")
-    print(message)
 
 def safe_load_json(path: str) -> dict:
     try:
@@ -104,7 +98,7 @@ def save_anime(series_id: str, anime_info: dict, page_num: int):
             json.dump(anime_info, f, indent=4, ensure_ascii=False)
         os.replace(tmp_file, final_file)
     except Exception as e:
-        log(f"[ERROR] Failed saving anime {series_id}: {e}")
+        print(f"[ERROR] Failed saving anime {series_id}: {e}")
 
 def enqueue_save_anime(series_id: str, anime_info: dict, page_num: int):
     save_queue.put((series_id, deepcopy(anime_info), page_num))
@@ -473,7 +467,7 @@ async def scrape_all_async():
                         try:
                             await with_page(page_pool_available, scrape_anime_page_async, url, page_num)
                         except Exception as e:
-                            log(f"[ERROR] Failed scraping {url}: {e}")
+                            print(f"[ERROR] Failed scraping {url}: {e}")
                             raise
 
                 # Launch all tasks concurrently
@@ -487,7 +481,7 @@ async def scrape_all_async():
 
             # --- Cleanup ---
             await browser.close()
-            log("Scraping complete!")
+            print("Scraping complete!")
         finally:
             for p in pages:
                 await p.close()
@@ -497,8 +491,6 @@ async def scrape_all_async():
 # -------------------
 
 if __name__ == "__main__":
-    Path(LOG_FILE).write_text("", encoding="utf-8")
-
     saver_thread = threading.Thread(target=save_worker, daemon=True)
     saver_thread.start()
 
@@ -507,12 +499,12 @@ if __name__ == "__main__":
             asyncio.run(scrape_all_async())
             break
         except Exception as e:
-            log(f"[FATAL] Scraper crashed: {e}\n{traceback.format_exc()}")
-            log("Restarting in 5 minutes...")
+            print(f"[FATAL] Scraper crashed: {e}\n{traceback.format_exc()}")
+            print("Restarting in 5 minutes...")
             time.sleep(300)
         finally:
             pass
 
     stop_saver.set()
     save_queue.join()
-    log("Saver thread stopped, exiting.")
+    print("Saver thread stopped, exiting.")
