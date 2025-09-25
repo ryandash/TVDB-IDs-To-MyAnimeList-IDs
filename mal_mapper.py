@@ -248,10 +248,10 @@ def map_anime():
             malid = lookup[series_id]
         else:
             if series_title:
-                malid, all_titles = get_best_mal_id(series_title, None, False)
+                malid, all_titles = get_best_mal_id(series_title, "tv", False)
             if not malid:
                 for alias in aliases:
-                    aliasMalID, all_titles = get_best_mal_id(alias, None, False)
+                    aliasMalID, all_titles = get_best_mal_id(alias, "tv", False)
                     if aliasMalID:
                         malid = aliasMalID
                         break
