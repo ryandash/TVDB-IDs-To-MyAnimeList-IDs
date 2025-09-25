@@ -249,12 +249,17 @@ def map_anime():
             # Already mapped series: populate only needed variables
             malid = lookup[series_id]
         else:
-            malid, all_titles = get_best_mal_id(series_title, None, False) if series_title else None
+            if series_title:
+                titleMalID, all_titles = get_best_mal_id(series_title, None, False)
+                if titleMalID:
+                    malid, all_titles = titleMalID
+                else:
+                    malid, all_titles = None, []
             if not malid:
                 for alias in aliases:
-                    candidate_id, all_titles = get_best_mal_id(alias, None, False)
-                    if candidate_id:
-                        malid = candidate_id
+                    aliasMalID, all_titles = get_best_mal_id(alias, None, False)
+                    if aliasMalID:
+                        malid = aliasMalID
                         break
             if malid:
                 record = {"tvdb url": f"https://www.thetvdb.com/dereferrer/series/{series_id}", "myanimelist url":f"https://myanimelist.net/anime/{malid}"}
