@@ -321,7 +321,7 @@ def map_anime():
                         print(f"\nUsing {EpisodeMALID} for {series_title} {ep_title}")
                     elif ep_title:
                         search_term = ep_title
-                        if anime_type != "movie" and series_title.lower() not in ep_title.lower():
+                        if anime_type != "movie" and series_title and series_title.lower() not in ep_title.lower():
                             search_term = f"{series_title} {ep_title}"
 
                         EpisodeMALID, all_titles = get_best_mal_id(search_term, anime_type, True)
