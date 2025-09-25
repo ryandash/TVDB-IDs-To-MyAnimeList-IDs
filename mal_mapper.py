@@ -271,8 +271,6 @@ def map_anime():
         episode_offset = 0
         mal_eps = 0
         seasons = series.get("Seasons") or {}
-        Season0Mal = None 
-
         for season_num, season_data in tqdm(seasons.items(), desc=f"  {series_id} seasons", unit="season", leave=False):
             season_id = season_data.get("ID")
             episodes = season_data.get("Episodes") or {}
@@ -295,6 +293,7 @@ def map_anime():
                             record["thetvdb"] = season_id
                         mapped.append(record)
  
+            Season0Mal = None 
             for ep_num, ep_data in tqdm(episodes.items(), desc=f"    {season_id} Season {season_num} episodes", unit="ep", leave=False):
                 ep_id = ep_data.get("ID")
                 ep_title = ep_data.get("TitleEnglish")
