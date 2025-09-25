@@ -163,7 +163,12 @@ jobs:
             $date = Get-Date -Format "yyyy-MM-dd"
             $time = Get-Date -Format "HH:mm:ss"
             git commit -m "Update JSON at $date $time"
-            git push
+
+            # Rebase onto latest remote main before pushing
+            git fetch origin main
+            git rebase origin/main
+
+            git push origin HEAD:main
             Write-Host "JSON updated and changes pushed."
           } else {
             Write-Host "No changes detected, skipping commit."
