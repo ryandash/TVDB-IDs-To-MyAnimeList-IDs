@@ -140,11 +140,14 @@ async def async_safe_goto(page: Page, url: str, retries=3, delay=3):
                 print(f"Failed on page {getattr(page, 'url', 'unknown')}")
                 raise
 
-async def async_wait_for_selector(page: Page, selector: str, retries=3, delay=3):
+async def async_wait_for_selector(page: Page, selector: str, retries=3, delay=3) -> bool:
     for attempt in range(1, retries + 1):
         try:
+            content = await page.content()
+            if "Whoops, looks like something went wrong." in content:
+                return False
             await page.wait_for_selector(selector, state="attached")
-            return
+            return True
         except Exception as e:
             if attempt > 2:
                 print(f"[Retry {attempt}/{retries}] Failed {page.url}: {e}")
@@ -157,7 +160,8 @@ async def async_wait_for_selector(page: Page, selector: str, retries=3, delay=3)
                 raise
 
 async def get_total_pages(page: Page) -> int:
-    await async_wait_for_selector(page, 'xpath=//*[@id="app"]/div[3]/div[3]/div[1]/ul')
+    if not await async_wait_for_selector(page, 'xpath=//*[@id="app"]/div[3]/div[3]/div[1]/ul'):
+        return 1
     li_elements = await page.query_selector_all('xpath=//*[@id="app"]/div[3]/div[3]/div[1]/ul/li')
     if len(li_elements) < 2:
         return 1
@@ -204,7 +208,9 @@ async def scrape_episode_async(page: Page, ep_info, season_eps: dict, available:
         return
 
     await async_safe_goto(page, ep_url)
-    await async_wait_for_selector(page, "#translations")
+    if not await async_wait_for_selector(page, "#translations"):
+        print(f"[SKIP] Skipping {ep_id} due to error page")
+        return
 
     translations = await extract_translations_async(page)
     titles = {lang: data.get("title") for lang, data in translations.items()}
@@ -256,7 +262,10 @@ async def scrape_season_async(page:Page, season_url: str, numEpisodes: int, seas
     await async_safe_goto(page, season_url)
 
     if not season_dict.get("ID"):
-        await async_wait_for_selector(page, "#general")
+        if not await async_wait_for_selector(page, "#general"):
+            print(f"[SKIP] Skipping Season: {season_url} due to error page")
+            return
+
         season_id_elem = await page.query_selector('#general ul li span')
         season_dict.update({
             "ID": (await season_id_elem.inner_text() if season_id_elem else "N/A"),
@@ -264,7 +273,9 @@ async def scrape_season_async(page:Page, season_url: str, numEpisodes: int, seas
             "# Episodes": int(numEpisodes)
         })
 
-    await async_wait_for_selector(page, "#episodes")
+    if not await async_wait_for_selector(page, "#episodes"):
+        print(f"[SKIP] Skipping Season: {season_url} due to error page")
+        return
     ep_rows = await page.query_selector_all("#episodes table tbody tr")
     ep_infos = []
     for erow in ep_rows or []:
@@ -302,7 +313,9 @@ def parse_date(date_str: str):
 
 async def scrape_anime_page_async(page: Page, anime_url: str, available: Queue):
     await async_safe_goto(page, anime_url)
-    await async_wait_for_selector(page, "#series_basic_info")
+    if not await async_wait_for_selector(page, "#series_basic_info"):
+        print(f"[SKIP] Skipping Anime: {anime_url} due to error page")
+        return
 
     series_id = None
     modified_date = None
@@ -438,13 +451,14 @@ async def scrape_all_async():
 
             for page_num in page_nums:
                 if deleteFolder and DATA_DIR.exists():
-                    if deleteFolder and DATA_DIR.exists():
-                        shutil.rmtree(DATA_DIR)
-                        DATA_DIR.mkdir(exist_ok=True)
+                    shutil.rmtree(DATA_DIR)
+                    DATA_DIR.mkdir(exist_ok=True)
 
                 page = await context.new_page()
                 await async_safe_goto(page, BASE_URL_TEMPLATE.format(page_num=page_num))
-                await async_wait_for_selector(page, "table tbody tr")
+                if not await async_wait_for_selector(page, "table tbody tr"):
+                    print(f"[SKIP] Failed to find anime on page: {page_num} due to error page")
+                    return
                 rows = (await page.query_selector_all("table tbody tr"))[1:]
                 anime_urls = []
                 for r in rows:

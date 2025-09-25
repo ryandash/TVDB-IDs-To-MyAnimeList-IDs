@@ -1,0 +1,61 @@
+{
+    "URL": "https://www.thetvdb.com/series/hero-ball",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Sport"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt33306193/"
+    ],
+    "TitleEnglish": "Hero Ball",
+    "SummaryEnglish": "The battle for the face of the league begins. Who will come out on top?",
+    "TitleJapanese": null,
+    "SummaryJapanese": null,
+    "Aliases": [],
+    "Modified": "2025-07-03",
+    "Seasons": {
+        "1": {
+            "ID": "2194653",
+            "URL": "https://www.thetvdb.com/series/hero-ball/seasons/official/1",
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11226502",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-ball/episodes/11226502",
+                    "TitleEnglish": "E1: 2022-23 Season",
+                    "SummaryEnglish": "The battle for the face of the league begins. Who will come out on top?",
+                    "TitleJapanese": null,
+                    "SummaryJapanese": null
+                }
+            }
+        },
+        "2": {
+            "ID": "2194656",
+            "URL": "https://www.thetvdb.com/series/hero-ball/seasons/official/2",
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "11226506",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-ball/episodes/11226506",
+                    "TitleEnglish": "E1: 2023-24 Season",
+                    "SummaryEnglish": "A new In-Season Tournament emerges and the hierarchy of power is changed forever in Portland and Minnesota.",
+                    "TitleJapanese": null,
+                    "SummaryJapanese": null
+                },
+                "2": {
+                    "ID": "11226507",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-ball/episodes/11226507",
+                    "TitleEnglish": "E2: 2023-24 Season Part II",
+                    "SummaryEnglish": "The race to Playoff Mountain is on. Who will enter at full strength?",
+                    "TitleJapanese": null,
+                    "SummaryJapanese": null
+                }
+            }
+        }
+    }
+}
