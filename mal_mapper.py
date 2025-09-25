@@ -34,12 +34,6 @@ HTTP_CLIENT = httpx.Client(timeout=30)
 LAST_REQUEST_TIME = 0.0
 
 # Regex patterns
-SEASON_REGEX = re.compile(r"(\s|\.)S[0-9]{1,2}")
-ALT_NAME_REGEX = re.compile(r"\s*~(\w|[0-9]|\s)+~")
-NATIVE_NAME_REGEX = re.compile(r"\((\w|[0-9]|\s)+\)$")
-AMPERSAND_REGEX = re.compile(r"\s?&\s?")
-HASH_REGEX = re.compile(r"#")
-JELLYFIN_FOLDER_REGEX = re.compile(r"\([0-9]{4}\)\s*\[(\w|[0-9]|-)+\]$")
 NORMALIZE_REGEX = re.compile(r"[:.!]")
 
 # ----------------------
@@ -114,12 +108,6 @@ def normalize_text(name: str) -> str:
     """Normalize anime title for better fuzzy matching."""
     if not name:
         return ""
-    name = SEASON_REGEX.sub("", name)
-    name = ALT_NAME_REGEX.sub("", name)
-    name = NATIVE_NAME_REGEX.sub("", name)
-    name = AMPERSAND_REGEX.sub(" and ", name)
-    name = HASH_REGEX.sub(" ", name)
-    name = JELLYFIN_FOLDER_REGEX.sub("", name)
     name = NORMALIZE_REGEX.sub("", name)
     return name.strip().lower()
 
@@ -176,8 +164,16 @@ def get_mal_episode_count(mal_id: int) -> int | None:
         return eps if isinstance(eps, int) else None
     return None
 
-def get_mal_relations(mal_id: int, offset_eps: int) -> int | None:
+def get_mal_relations(mal_id: int, offset_eps: int, visited = None) -> int | None:
     """Find valid sequel ID (skips specials)."""
+    if visited is None:
+        visited = set()
+    
+    if mal_id in visited:
+        return None
+    
+    visited.add(mal_id)
+
     data = rate_limited_get(f"https://api.jikan.moe/v4/anime/{mal_id}/relations")
     if not data:
         return None
@@ -195,7 +191,7 @@ def get_mal_relations(mal_id: int, offset_eps: int) -> int | None:
     if not mal_eps:
         return None
     if mal_eps < offset_eps and mal_eps == 1:
-        return get_mal_relations(sequel_id, offset_eps)
+        return get_mal_relations(sequel_id, offset_eps, visited)
     return sequel_id
 
 def get_cross_ids(mal_id: int, tvdb_id: str) -> dict | None:
@@ -245,6 +241,8 @@ def map_anime():
         series_title = series.get("TitleEnglish")
         aliases = series.get("Aliases") or []
 
+        malid = None
+        all_titles = None
         if series_id in lookup:
             # Already mapped series: populate only needed variables
             malid = lookup[series_id]
@@ -259,9 +257,11 @@ def map_anime():
                         break
             if malid:
                 record = {"tvdb url": f"https://www.thetvdb.com/dereferrer/series/{series_id}", "myanimelist url":f"https://myanimelist.net/anime/{malid}"}
-                cross_ids = get_cross_ids(malid, series_id) or {"thetvdb": series_id}
+                cross_ids = get_cross_ids(malid, series_id)
                 if cross_ids:
                     record.update(cross_ids)
+                else:
+                    record["thetvdb"] = series_id
                 mapped.append(record)
             else:
                 unmapped.append({"tvdb url":f"https://www.thetvdb.com/dereferrer/series/{series_id}", "thetvdb": series_id, "myanimelist": None, "myanimelist url": None, "search term": series_title, "aliases": aliases, "Jikan titles": all_titles})
@@ -271,6 +271,7 @@ def map_anime():
         episode_offset = 0
         mal_eps = 0
         seasons = series.get("Seasons") or {}
+        Season0Mal = None 
 
         for season_num, season_data in tqdm(seasons.items(), desc=f"  {series_id} seasons", unit="season", leave=False):
             season_id = season_data.get("ID")
@@ -287,12 +288,13 @@ def map_anime():
 
                     if SeasonMalID not in lookup:
                         record = {"season": season_num, "tvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}", "myanimelist url": f"https://myanimelist.net/anime/{SeasonMalID}"}
-                        cross_ids = get_cross_ids(SeasonMalID, season_id) or {"thetvdb": season_id}
+                        cross_ids = get_cross_ids(SeasonMalID, season_id)
                         if cross_ids:
                             record.update(cross_ids)
+                        else:
+                            record["thetvdb"] = season_id
                         mapped.append(record)
-
-            Season0Mal = None    
+ 
             for ep_num, ep_data in tqdm(episodes.items(), desc=f"    {season_id} Season {season_num} episodes", unit="ep", leave=False):
                 ep_id = ep_data.get("ID")
                 ep_title = ep_data.get("TitleEnglish")
@@ -343,9 +345,11 @@ def map_anime():
                             record["myanimelist url"] = f"https://myanimelist.net/anime/{EpisodeMALID}/episodes/{episode_offset}"
                         else:
                             record["myanimelist url"] = f"https://myanimelist.net/anime/{EpisodeMALID}"
-                        cross_ids = get_cross_ids(EpisodeMALID, ep_id)
+                        cross_ids = get_cross_ids(SeasonMalID, ep_id)
                         if cross_ids:
                             record.update(cross_ids)
+                        else:
+                            record["thetvdb"] = ep_id
                         mapped.append(record)
                     else:
                         record["myanimelist url"] = None
@@ -370,22 +374,26 @@ def map_anime():
                         if SeasonMalID:
                             mal_eps = get_mal_episode_count(SeasonMalID)
                             episode_offset = 1
-
-                    api_url = (
-                        f"https://api.jikan.moe/v4/anime/{SeasonMalID}"
-                        if total_episodes == 1
-                        else f"https://api.jikan.moe/v4/anime/{SeasonMalID}/episodes/{episode_offset}"
-                    )
-                    data = rate_limited_get(api_url)
-                    episodeMALURL = data.get("data", {}).get("url") if data else None
-                    record["myanimelist url"] = episodeMALURL
-                    record["thetvdb"] = ep_id
-
+                    
+                    episodeMALURL = None
+                    if SeasonMalID:
+                        api_url = (
+                            f"https://api.jikan.moe/v4/anime/{SeasonMalID}"
+                            if total_episodes == 1
+                            else f"https://api.jikan.moe/v4/anime/{SeasonMalID}/episodes/{episode_offset}"
+                        )
+                        data = rate_limited_get(api_url)
+                        episodeMALURL = data.get("data", {}).get("url") if data else None
+                    
                     if episodeMALURL:
+                        record["myanimelist url"] = episodeMALURL
+                        record["thetvdb"] = ep_id
                         mapped.append(record)
                     else:
+                        record["myanimelist url"] = None
+                        record["thetvdb"] = ep_id
                         unmapped.append(record)
-                        print(f"Missing MAL mapping for {api_url}")
+                        print(f"Missing MAL mapping for {ep_id}")
 
         # Save progress after each series
         with open(MAPPED_OUT, "w", encoding="utf-8") as f:
