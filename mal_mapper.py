@@ -252,9 +252,9 @@ def map_anime():
             if series_title:
                 titleMalID, all_titles = get_best_mal_id(series_title, None, False)
                 if titleMalID:
-                    malid, all_titles = titleMalID
+                    malid = titleMalID
                 else:
-                    malid, all_titles = None, []
+                    malid = None
             if not malid:
                 for alias in aliases:
                     aliasMalID, all_titles = get_best_mal_id(alias, None, False)
