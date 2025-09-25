@@ -64,19 +64,16 @@ def safe_load_json(path: str) -> dict:
             print(f"[ERROR] Salvage failed: {e2}")
             return {}
 
-def build_lookup_table(page_num: int) -> dict:
+def build_lookup_table() -> dict:
     """
-    Loads all existing JSONs (from DATA_DIR/*json and DATA_DIR/Page #/*json)
-    into a flat lookup table keyed by series ID, season ID, or episode ID.
+    Loads all existing JSONs from DATA_DIR/*.json
+    into a flat lookup table keyed by series ID.
     """
     lookup = {}
-    page_dir = DATA_DIR / f"Page {page_num}"
-    page_dir.mkdir(exist_ok=True)
-    for file in page_dir.glob("*.json"): 
-        anime_info = safe_load_json(file) 
-        if anime_info: 
+    for file in DATA_DIR.glob("*.json"):
+        anime_info = safe_load_json(file)
+        if anime_info:
             lookup[file.stem] = anime_info
-
     return lookup
 
 # -------------------
@@ -86,13 +83,11 @@ def build_lookup_table(page_num: int) -> dict:
 save_queue = Queue()
 stop_saver = threading.Event()
 
-def save_anime(series_id: str, anime_info: dict, page_num: int):
+def save_anime(series_id: str, anime_info: dict):
     if not anime_info:
         return
-    page_dir = DATA_DIR / f"Page {page_num}"
-    page_dir.mkdir(parents=True, exist_ok=True)
-    tmp_file = page_dir / f"{series_id}.json.tmp"
-    final_file = page_dir / f"{series_id}.json"
+    tmp_file = DATA_DIR / f"{series_id}.json.tmp"
+    final_file = DATA_DIR / f"{series_id}.json"
     try:
         with open(tmp_file, "w", encoding="utf-8") as f:
             json.dump(anime_info, f, indent=4, ensure_ascii=False)
@@ -100,16 +95,16 @@ def save_anime(series_id: str, anime_info: dict, page_num: int):
     except Exception as e:
         print(f"[ERROR] Failed saving anime {series_id}: {e}")
 
-def enqueue_save_anime(series_id: str, anime_info: dict, page_num: int):
-    save_queue.put((series_id, deepcopy(anime_info), page_num))
+def enqueue_save_anime(series_id: str, anime_info: dict):
+    save_queue.put((series_id, deepcopy(anime_info)))
 
 def save_worker():
     while not stop_saver.is_set() or not save_queue.empty():
         try:
-            series_id, data_copy, page_num = save_queue.get(timeout=1)
+            series_id, data_copy = save_queue.get(timeout=1)
         except:
             continue
-        save_anime(series_id, data_copy, page_num)
+        save_anime(series_id, data_copy)
         save_queue.task_done()
 
 async def create_page_pool(context, pool_size: int) -> tuple[list[Page], asyncio.Queue]: 
@@ -294,7 +289,7 @@ async def scrape_season_async(page:Page, season_url: str, numEpisodes: int, seas
     season_dict["Episodes"] = dict(sorted(existing_eps.items(), key=lambda x: int(x[0])))
 
 
-lookup = {}
+lookup = build_lookup_table()
 MAX_SEASON_CONCURRENT = None
 
 def parse_date(date_str: str):
@@ -305,7 +300,7 @@ def parse_date(date_str: str):
             continue
     raise ValueError(f"Could not parse date: {date_str}")
 
-async def scrape_anime_page_async(page: Page, anime_url: str, page_num: int, available: Queue):
+async def scrape_anime_page_async(page: Page, anime_url: str, available: Queue):
     await async_safe_goto(page, anime_url)
     await async_wait_for_selector(page, "#series_basic_info")
 
@@ -373,9 +368,10 @@ async def scrape_anime_page_async(page: Page, anime_url: str, page_num: int, ava
                 existing_date = datetime.fromisoformat(existing_modified).date()
             except Exception:
                 pass
-
+    
     if existing_date and modified_date and modified_date <= existing_date:
-        enqueue_save_anime(series_id, anime_data, page_num)
+        print(f"Skipped {series_id}")
+        enqueue_save_anime(series_id, anime_data)
         return
 
     # --- Collect seasons ---
@@ -414,7 +410,7 @@ async def scrape_anime_page_async(page: Page, anime_url: str, page_num: int, ava
 
     anime_data["Seasons"] = dict(sorted(anime_data["Seasons"].items(), key=lambda x: int(x[0])))
     
-    enqueue_save_anime(series_id, anime_data, page_num)
+    enqueue_save_anime(series_id, anime_data)
 
 
 # -------------------
@@ -441,12 +437,10 @@ async def scrape_all_async():
             await page.close()
 
             for page_num in page_nums:
-                global lookup
-                lookup = build_lookup_table(page_num)
                 if deleteFolder and DATA_DIR.exists():
-                    for child in DATA_DIR.iterdir():
-                        if child.is_dir() and child.name.startswith("Page "):
-                            shutil.rmtree(child)
+                    if deleteFolder and DATA_DIR.exists():
+                        shutil.rmtree(DATA_DIR)
+                        DATA_DIR.mkdir(exist_ok=True)
 
                 page = await context.new_page()
                 await async_safe_goto(page, BASE_URL_TEMPLATE.format(page_num=page_num))
@@ -463,16 +457,16 @@ async def scrape_all_async():
 
                 await page.close()
 
-                async def limited_scrape_anime(url, page_num):
+                async def limited_scrape_anime(url):
                     async with MAX_ANIME_CONCURRENT:
                         try:
-                            await with_page(page_pool_available, scrape_anime_page_async, url, page_num)
+                            await with_page(page_pool_available, scrape_anime_page_async, url)
                         except Exception as e:
                             print(f"[ERROR] Failed scraping {url}: {e}")
                             raise
 
                 # Launch all tasks concurrently
-                tasks = [asyncio.create_task(limited_scrape_anime(anime_url, page_num)) for anime_url in anime_urls]
+                tasks = [asyncio.create_task(limited_scrape_anime(anime_url)) for anime_url in anime_urls]
                 for coro in tqdm_asyncio.as_completed(tasks, desc=f"Page {page_num}/{total_pages}", total=len(tasks)):
                     await coro
 
@@ -480,12 +474,9 @@ async def scrape_all_async():
                     # polite pause between pages (don't block the event loop)
                     await asyncio.sleep(60)
 
-            # --- Cleanup ---
-            await browser.close()
             print("Scraping complete!")
         finally:
-            for p in pages:
-                await p.close()
+            await browser.close()
 
 # -------------------
 # Entry Point

@@ -24,11 +24,6 @@ from tqdm import tqdm
 # Config / Constants
 # ----------------------
 
-parser = argparse.ArgumentParser()
-parser.add_argument("--page", type=int, help="Page number to scrape")
-args = parser.parse_args()
-page_to_scrape = args.page
-
 MAPPED_OUT = "mapped-tvdb-ids.json"
 UNMAPPED_OUT = "unmapped-tvdb-ids.json"
 LOG_FILE = "mapping.log"
@@ -77,18 +72,13 @@ def safe_load_json(path: Path) -> dict:
         print("[ERROR] Could not salvage JSON.")
         return {}
 
-def load_data(page_num: int | None = None) -> dict:
-    """Load anime data from disk, either one page or all pages."""
+def load_data() -> dict:
+    """Load anime data from disk (all JSONs in DATA_DIR)."""
     anime_data = {}
-    dirs = [DATA_DIR / f"Page {page_num}"] if page_num else DATA_DIR.glob("Page *")
-
-    for page_dir in dirs:
-        if not page_dir.is_dir():
-            continue
-        for file in page_dir.glob("*.json"):
-            anime_info = safe_load_json(file)
-            if anime_info:
-                anime_data[file.stem] = anime_info
+    for file in DATA_DIR.glob("*.json"):
+        anime_info = safe_load_json(file)
+        if anime_info:
+            anime_data[file.stem] = anime_info
     return anime_data
 
 def fetch_json(url: str) -> dict | None:
@@ -248,7 +238,7 @@ def map_anime():
 
     mapped = []
     unmapped = []
-    anime_data = load_data(page_to_scrape)
+    anime_data = load_data()
     total_series = len(anime_data)
 
     for series_id, series in tqdm(anime_data.items(), total=total_series, desc=f"Mapping series", unit="series"):
@@ -411,4 +401,7 @@ def map_anime():
 # ----------------------
 
 if __name__ == "__main__":
-    map_anime()
+    try:
+        map_anime()
+    finally:
+        HTTP_CLIENT.close()
