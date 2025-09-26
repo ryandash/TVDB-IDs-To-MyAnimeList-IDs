@@ -16,5 +16,22 @@
         "2200-nen Neko no Kuni Nippon"
     ],
     "Modified": "2025-09-20",
-    "Seasons": {}
+    "Seasons": {
+        "1": {
+            "ID": "2207362",
+            "URL": "https://www.thetvdb.com/series/2200nian-nekonoguo-nitsupon/seasons/official/1",
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11360989",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/2200nian-nekonoguo-nitsupon/episodes/11360989",
+                    "TitleEnglish": "TBA",
+                    "SummaryEnglish": null,
+                    "TitleJapanese": null,
+                    "SummaryJapanese": null
+                }
+            }
+        }
+    }
 }
