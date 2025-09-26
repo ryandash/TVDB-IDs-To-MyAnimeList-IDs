@@ -32,49 +32,104 @@ DATA_DIR.mkdir(exist_ok=True)
 # -------------------
 
 def safe_load_json(path: str) -> dict:
+    """
+    Robust JSON loader that attempts to salvage truncated/corrupted JSON files.
+
+    - Tries normal json.load first.
+    - On JSONDecodeError or UnicodeDecodeError tries to read forgivingly (errors='ignore'),
+      then truncates to the last '}' or ']' and tries to json.loads.
+    - If that fails, falls back to your previous line-based truncated-anime approach.
+    - If salvage succeeds it rewrites the file atomically.
+    - Always returns a dict (empty dict on failure).
+    """
+    p = Path(path)
     try:
-        with open(path, "r", encoding="utf-8") as f:
+        with p.open("r", encoding="utf-8") as f:
             return json.load(f)
-    except json.JSONDecodeError as e:
-        print(f"[WARN] JSON corrupted at pos {e.pos}, attempting salvage by truncating last anime...")
-        with open(path, "r", encoding="utf-8") as f:
-            lines = f.readlines()
-        anime_start_pattern = re.compile(r'^ {4}"\d+"\s*:\s*{$')
-        for i in range(len(lines)-1, -1, -1):
-            line = lines[i].rstrip()
-            if anime_start_pattern.match(line):
-                if i > 0:
-                    prev_line = lines[i-1].rstrip()
-                    if prev_line.endswith("},"):
-                        lines[i-1] = prev_line[:-2] + "}\n"
-                    else:
-                        lines[i-1] = prev_line + "\n"
-                lines = lines[:i] + ["}\n"]
-                break
-        else:
-            print("[ERROR] Could not salvage JSON. Returning empty dict.")
-            return {}
+    except (json.JSONDecodeError, UnicodeDecodeError) as exc:
+        print(f"[WARN] JSON corrupted at {path} ({exc}). Attempting salvage...")
+
+        # Read forgivingly to avoid UnicodeDecodeError on truncated multibyte chars
         try:
-            data = json.loads("".join(lines))
-            with open(path, "w", encoding="utf-8") as f:
-                f.writelines(lines)
-            print("[INFO] Salvage successful, last anime truncated.")
-            return data
-        except Exception as e2:
-            print(f"[ERROR] Salvage failed: {e2}")
+            raw = p.read_text(encoding="utf-8", errors="ignore")
+        except Exception as e:
+            print(f"[ERROR] Could not read file forgivingly: {e}")
             return {}
+
+        # Strategy 1: cut to last top-level close brace/bracket
+        last_close = max(raw.rfind("}"), raw.rfind("]"))
+        if last_close != -1:
+            candidate = raw[: last_close + 1]
+            try:
+                data = json.loads(candidate)
+                # write back salvaged content atomically
+                tmp_file = p.with_suffix(p.suffix + ".salvage.tmp")
+                try:
+                    with tmp_file.open("w", encoding="utf-8") as tf:
+                        tf.write(candidate)
+                    os.replace(tmp_file, p)
+                    print("[INFO] Salvage successful by truncating to last '}' or ']'.")
+                except Exception as e:
+                    print(f"[WARN] Could not write salvaged file atomically: {e}")
+                return data
+            except Exception:
+                # fall through to next strategy
+                pass
+
+        # Strategy 2: fallback to original line-based truncation (search for start of last anime)
+        try:
+            lines = raw.splitlines(True)
+            anime_start_pattern = re.compile(r'^\s*"\d+"\s*:\s*{\s*$')  # looser whitespace
+            for i in range(len(lines) - 1, -1, -1):
+                if anime_start_pattern.match(lines[i].rstrip()):
+                    # try to close previous object's trailing comma / bracket
+                    if i > 0:
+                        prev_line = lines[i - 1].rstrip()
+                        if prev_line.endswith("},"):
+                            lines[i - 1] = prev_line[:-1] + "\n"  # replace "}," -> "}"
+                        else:
+                            lines[i - 1] = prev_line + "\n"
+                    # Keep everything up to the start of the problematic object, then close JSON
+                    truncated = "".join(lines[:i]) + "}\n"
+                    try:
+                        data = json.loads(truncated)
+                        # persist truncated JSON atomically
+                        tmp_file = p.with_suffix(p.suffix + ".salvage.tmp")
+                        try:
+                            with tmp_file.open("w", encoding="utf-8") as tf:
+                                tf.write(truncated)
+                            os.replace(tmp_file, p)
+                            print("[INFO] Salvage successful by truncating last object.")
+                        except Exception as e:
+                            print(f"[WARN] Could not write truncated file atomically: {e}")
+                        return data
+                    except Exception:
+                        # can't salvage here, continue
+                        break
+        except Exception as e:
+            print(f"[WARN] Line-based salvage attempt failed: {e}")
+
+        print("[ERROR] Could not salvage JSON. Returning empty dict.")
+        return {}
 
 def build_lookup_table() -> dict:
     """
-    Loads all existing JSONs from DATA_DIR/*.json
-    into a flat lookup table keyed by series ID.
+    Loads all existing JSONs from DATA_DIR/*.json into a flat lookup table keyed by series ID.
+    If a file cannot be salvaged, skip it and continue.
     """
     lookup = {}
     for file in DATA_DIR.glob("*.json"):
-        anime_info = safe_load_json(file)
-        if anime_info:
-            lookup[file.stem] = anime_info
+        try:
+            anime_info = safe_load_json(str(file))
+            if anime_info:
+                lookup[file.stem] = anime_info
+            else:
+                # empty dict indicates salvage/read failure; skip but warn
+                print(f"[WARN] Skipping {file} due to unreadable/corrupted content.")
+        except Exception as e:
+            print(f"[WARN] Unexpected error loading {file}: {e}")
     return lookup
+
 
 # -------------------
 # Threaded Saving
