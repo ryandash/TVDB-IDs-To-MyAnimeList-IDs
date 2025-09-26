@@ -265,13 +265,14 @@ def map_anime():
                 mapped.append(record)
             else:
                 unmapped.append({"tvdb url":f"https://www.thetvdb.com/dereferrer/series/{series_id}", "thetvdb": series_id, "myanimelist": None, "myanimelist url": None, "search term": series_title, "aliases": aliases, "Jikan titles": all_titles})
+                continue
 
         # Initialize episode tracking
         SeasonMalID = malid
-        episode_offset = 0
         mal_eps = 0
         seasons = series.get("Seasons") or {}
         for season_num, season_data in tqdm(seasons.items(), desc=f"  {series_id} seasons", unit="season", leave=False):
+            episode_offset = 0
             season_id = season_data.get("ID")
             episodes = season_data.get("Episodes") or {}
             total_episodes = len(episodes)
@@ -344,7 +345,7 @@ def map_anime():
                             record["myanimelist url"] = f"https://myanimelist.net/anime/{EpisodeMALID}/episodes/{episode_offset}"
                         else:
                             record["myanimelist url"] = f"https://myanimelist.net/anime/{EpisodeMALID}"
-                        cross_ids = get_cross_ids(SeasonMalID, ep_id)
+                        cross_ids = get_cross_ids(EpisodeMALID, ep_id)
                         if cross_ids:
                             record.update(cross_ids)
                         else:
@@ -366,6 +367,7 @@ def map_anime():
                         Season0Mal = None
 
                 elif SeasonMalID:
+                    print(SeasonMalID)
                     # Regular episodes
                     episode_offset += 1
                     if mal_eps and mal_eps < episode_offset:
