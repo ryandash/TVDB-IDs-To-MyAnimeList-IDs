@@ -221,11 +221,15 @@ def load_mapped_lookup(mapped: list) -> dict[str, int | None]:
 
 def find_mal_id(title: str, is_season0: bool = False) -> tuple[int | None, list[str]]:
     """Try to resolve a MAL ID for a given title, trying tv → ona."""
+    all_titles: list[str] = []
+    
     for anime_type in ("tv", "ona"):
-        malid, all_titles = get_best_mal_id(title, anime_type, is_season0)
+        malid, titles = get_best_mal_id(title, anime_type, is_season0)
+        all_titles.extend(titles)
         if malid:
-            return malid, all_titles
-    return None, []
+            return malid, []
+
+    return None, all_titles
 
 # ----------------------
 # Mapping
@@ -248,23 +252,33 @@ def map_anime():
         series_title = series.get("TitleEnglish")
         aliases = series.get("Aliases") or []
 
-        malid, all_titles = None, []
+        malid = None
+        all_titles: list[str] = []
+
         if series_id in lookup:
             malid = lookup[series_id]
         else:
             # Try main title first
             if series_title:
-                malid, all_titles = find_mal_id(series_title)
+                mid, titles = find_mal_id(series_title)
+                if mid:
+                    malid = mid
+                all_titles.extend(titles)
 
             # Try aliases if main title failed
             if not malid:
                 for alias in aliases:
-                    malid, all_titles = find_mal_id(alias)
-                    if malid:
+                    mid, titles = find_mal_id(alias)
+                    all_titles.extend(titles)
+                    if mid:
+                        malid = mid
                         break
             
             if malid:
-                record = {"tvdb url": f"https://www.thetvdb.com/dereferrer/series/{series_id}", "myanimelist url":f"https://myanimelist.net/anime/{malid}"}
+                record = {
+                    "tvdb url": f"https://www.thetvdb.com/dereferrer/series/{series_id}",
+                    "myanimelist url":f"https://myanimelist.net/anime/{malid}"
+                }
                 cross_ids = get_cross_ids(malid, series_id)
                 if cross_ids:
                     record.update(cross_ids)
@@ -272,7 +286,13 @@ def map_anime():
                     record["thetvdb"] = series_id
                 mapped.append(record)
             else:
-                unmapped.append({"tvdb url":f"https://www.thetvdb.com/dereferrer/series/{series_id}", "thetvdb": series_id, "myanimelist": None, "myanimelist url": None, "search term": series_title, "aliases": aliases, "Jikan titles": all_titles})
+                unmapped.append({
+                    "tvdb url":f"https://www.thetvdb.com/dereferrer/series/{series_id}",
+                    "thetvdb": series_id,
+                    "search term": series_title,
+                    "aliases": aliases,
+                    "Jikan titles": all_titles
+                })
                 continue
 
         # Initialize episode tracking
