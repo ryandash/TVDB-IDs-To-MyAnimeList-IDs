@@ -412,7 +412,10 @@ async def scrape_anime_page_async(page: Page, anime_url: str, available: Queue):
                 text = (await heading.inner_text()).strip()
                 if text.lower() == "aliases":
                     alias_items = await section.query_selector_all("ul li")
-                    aliases = await asyncio.gather(*[li.inner_text() for li in alias_items])
+                    aliases = await asyncio.gather(
+                        *[li.text_content() for li in alias_items]
+                    )
+                    aliases = [a.strip() for a in aliases if a]
                     break
     
     anime_data = deepcopy(existing) if existing else {

@@ -320,13 +320,24 @@ def map_anime():
                         EpisodeMALID = Season0Mal
                         print(f"\nUsing {EpisodeMALID} for {series_title} {ep_title}")
                     elif ep_title:
-                        search_term = ep_title
-                        if anime_type != "movie" and series_title and series_title.lower() not in ep_title.lower():
-                            search_term = f"{series_title} {ep_title}"
+                        search_terms = [ep_title]
 
-                        EpisodeMALID, all_titles = get_best_mal_id(search_term, anime_type, True)
+                        if series_title and series_title.lower() not in ep_title.lower():
+                            search_terms.append(f"{series_title} {ep_title}")
+
+                        if aliases:
+                            for alias in aliases:
+                                search_terms.append(f"{alias} {ep_title}" if ep_title else alias)
+
+                        EpisodeMALID, all_titles = None, None
+                        for term in search_terms:
+                            EpisodeMALID, all_titles = get_best_mal_id(term, anime_type, True)
+                            if EpisodeMALID:
+                                print(f"\nMatched using search term: {term}")
+                                break
+
                         if EpisodeMALID is None:
-                            print(f"\nFailed to get anime {search_term}")
+                            print(f"\nFailed to get anime. Tried search terms: {search_terms}")
                         else:
                             mal_eps = get_mal_episode_count(EpisodeMALID)
                             if mal_eps is None:
