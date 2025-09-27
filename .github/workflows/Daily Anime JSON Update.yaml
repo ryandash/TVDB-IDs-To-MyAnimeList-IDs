@@ -190,8 +190,8 @@ jobs:
     steps:
       - name: Delete all workflow artifacts
         run: |
-          for artifact in $(gh run artifacts --json id --jq '.[].id'); do
-            gh run artifact delete $artifact
+          for artifact in $(gh artifact list --json name --jq '.[].name'); do
+            gh artifact delete "$artifact" --confirm
           done
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
