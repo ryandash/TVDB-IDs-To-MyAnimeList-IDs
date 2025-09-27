@@ -314,7 +314,7 @@ def map_anime():
                     anime_type = type_mapping.get(ep_data.get("TYPE"))
 
                     EpisodeMALID = None
-                    search_term = None
+                    search_terms = None
                     all_titles = None
                     if Season0Mal:
                         EpisodeMALID = Season0Mal
@@ -364,7 +364,7 @@ def map_anime():
                         mapped.append(record)
                     else:
                         record["myanimelist url"] = None
-                        record["search term"] = search_term
+                        record["search terms"] = search_terms
                         record["Jikan titles"] = all_titles
                         unmapped.append(record)
                     
