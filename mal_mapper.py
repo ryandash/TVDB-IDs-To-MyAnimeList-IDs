@@ -219,6 +219,14 @@ def load_mapped_lookup(mapped: list) -> dict[str, int | None]:
             lookup[tvdb_id] = None
     return lookup
 
+def find_mal_id(title: str, is_season0: bool = False) -> tuple[int | None, list[str]]:
+    """Try to resolve a MAL ID for a given title, trying tv → ona."""
+    for anime_type in ("tv", "ona"):
+        malid, all_titles = get_best_mal_id(title, anime_type, is_season0)
+        if malid:
+            return malid, all_titles
+    return None, []
+
 # ----------------------
 # Mapping
 # ----------------------
@@ -235,26 +243,26 @@ def map_anime():
     mapped = []
     unmapped = []
     anime_data = load_data()
-    total_series = len(anime_data)
 
-    for series_id, series in tqdm(anime_data.items(), total=total_series, desc=f"Mapping series", unit="series"):
+    for series_id, series in tqdm(anime_data.items(), total=len(anime_data), desc=f"Mapping series", unit="series"):
         series_title = series.get("TitleEnglish")
         aliases = series.get("Aliases") or []
 
-        malid = None
-        all_titles = None
+        malid, all_titles = None, []
         if series_id in lookup:
-            # Already mapped series: populate only needed variables
             malid = lookup[series_id]
         else:
+            # Try main title first
             if series_title:
-                malid, all_titles = get_best_mal_id(series_title, "tv", False)
+                malid, all_titles = find_mal_id(series_title)
+
+            # Try aliases if main title failed
             if not malid:
                 for alias in aliases:
-                    aliasMalID, all_titles = get_best_mal_id(alias, "tv", False)
-                    if aliasMalID:
-                        malid = aliasMalID
+                    malid, all_titles = find_mal_id(alias)
+                    if malid:
                         break
+            
             if malid:
                 record = {"tvdb url": f"https://www.thetvdb.com/dereferrer/series/{series_id}", "myanimelist url":f"https://myanimelist.net/anime/{malid}"}
                 cross_ids = get_cross_ids(malid, series_id)
@@ -378,7 +386,6 @@ def map_anime():
                         Season0Mal = None
 
                 elif SeasonMalID:
-                    print(SeasonMalID)
                     # Regular episodes
                     episode_offset += 1
                     if mal_eps and mal_eps < episode_offset:
