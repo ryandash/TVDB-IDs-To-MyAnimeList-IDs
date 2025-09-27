@@ -132,21 +132,31 @@ jobs:
         uses: actions/download-artifact@v5
         with:
           path: artifacts/
-          merge-multiple: true 
 
       - name: Move folders if they exist
         run: |
-          rsync -a artifacts/api/ api/
-          rsync -a artifacts/anime_data/ anime_data/
-      
-      - name: Setup Python & Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-        shell: bash
+          mkdir -p api anime_data
+          
+          # Copy all api/ folders
+          find artifacts -type d -path "*/api" -exec rsync -a {}/ api/ \;
+          
+          # Copy all anime_data/ folders
+          find artifacts -type d -path "*/anime_data" -exec rsync -a {}/ anime_data/ \;
 
       - name: Merge mapped/unmapped JSON files
-        run: python merge_json_files.py
+        run: |
+          for name in mapped-tvdb-ids.json unmapped-tvdb-ids.json; do
+            files=$(find artifacts -type f -name "$name")
+
+            if [ -f "$name" ]; then
+              files="$name $files"
+            fi
+
+            if [ -n "$files" ]; then
+              jq -s '[.[] | if type=="array" then .[] else . end]' $files > "$name"
+              echo "Merged $name"
+            fi
+          done
 
       - name: Delete artifacts folder
         run: |
