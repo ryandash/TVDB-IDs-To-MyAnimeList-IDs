@@ -11,6 +11,8 @@ from copy import deepcopy
 import time
 import traceback
 import shutil
+import signal
+import uuid
 from tqdm.asyncio import tqdm_asyncio
 from playwright.async_api import Page, async_playwright
 
