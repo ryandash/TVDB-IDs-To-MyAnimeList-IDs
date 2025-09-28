@@ -329,7 +329,6 @@ async def scrape_episode_async(page: Page, ep_info, season_eps: dict, available:
     # Fallback English
     if not titles.get("eng"):
         titles["eng"], summaries["eng"] = titles.get("jpn"), summaries.get("jpn")
-        titles["jpn"], summaries["jpn"] = None, None
 
     eng_title = (titles.get("eng") or "").lower()
     type_text = None
@@ -362,9 +361,7 @@ async def scrape_episode_async(page: Page, ep_info, season_eps: dict, available:
         "TYPE": type_text,
         "URL": ep_url,
         "TitleEnglish": titles.get("eng"),
-        "SummaryEnglish": summaries.get("eng"),
-        "TitleJapanese": titles.get("jpn"),
-        "SummaryJapanese": summaries.get("jpn")
+        "SummaryEnglish": summaries.get("eng")
     }
 
 async def scrape_season_async(page:Page, season_url: str, numEpisodes: int, season_dict: dict, season_number: str, available: Queue):
@@ -479,8 +476,6 @@ async def scrape_anime_page_async(page: Page, anime_url: str, available: Queue):
         "Other Sites": other_sites,
         "TitleEnglish": titles.get("eng"),
         "SummaryEnglish": summaries.get("eng"),
-        "TitleJapanese": titles.get("jpn"),
-        "SummaryJapanese": summaries.get("jpn"),
         "Aliases": aliases,
         "Modified": modified_date.isoformat() if modified_date else None,
         "Seasons": {}
