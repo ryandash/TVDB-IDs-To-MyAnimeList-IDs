@@ -76,7 +76,7 @@ jobs:
     needs: generate_page_list
     runs-on: ubuntu-latest
     strategy:
-      max-parallel: 5
+      max-parallel: 10
       matrix:
         page: ${{ fromJson(needs.generate_page_list.outputs.pages) }}
     steps:

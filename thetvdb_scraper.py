@@ -541,9 +541,9 @@ async def scrape_anime_page_async(page: Page, anime_url: str, available: Queue):
 async def scrape_all_async():
     # create semaphores inside the event loop so they're bound to the correct loop
     global MAX_SEASON_CONCURRENT
-    MAX_ANIME_CONCURRENT = asyncio.Semaphore(3)
+    MAX_ANIME_CONCURRENT = asyncio.Semaphore(2)
     MAX_SEASON_CONCURRENT = asyncio.Semaphore(2)
-    MAX_PAGES = 16
+    MAX_PAGES = 10
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
