@@ -138,29 +138,82 @@ def build_lookup_table() -> dict:
 save_queue = Queue()
 stop_saver = threading.Event()
 
-def save_anime(series_id: str, anime_info: dict):
+def save_anime(series_id: str, anime_info: dict, max_replace_attempts: int = 3):
+    """Atomically save anime_info to DATA_DIR/{series_id}.json using a unique tmp file and fsync."""
     if not anime_info:
         return
-    tmp_file = DATA_DIR / f"{series_id}.json.tmp"
     final_file = DATA_DIR / f"{series_id}.json"
+    # create a unique temporary file name in same dir (important for os.replace atomicity)
+    tmp_name = f"{series_id}.json.tmp.{uuid.uuid4().hex}"
+    tmp_file = DATA_DIR / tmp_name
+
     try:
-        with open(tmp_file, "w", encoding="utf-8") as f:
+        # Use open() and write, flush and fsync to avoid partial writes
+        with tmp_file.open("w", encoding="utf-8") as f:
             json.dump(anime_info, f, indent=4, ensure_ascii=False)
-        os.replace(tmp_file, final_file)
+            f.flush()
+            os.fsync(f.fileno())
+
+        # Attempt atomic replace (retry on rare transient issues)
+        for attempt in range(1, max_replace_attempts + 1):
+            try:
+                os.replace(tmp_file, final_file)
+                break
+            except Exception as e:
+                if attempt >= max_replace_attempts:
+                    raise
+                time.sleep(0.1 * attempt)
+        # Optionally: verify file is readable right after replace (quick sanity)
+        try:
+            with final_file.open("r", encoding="utf-8") as vf:
+                json.load(vf)
+        except Exception as verify_exc:
+            print(f"[WARN] Verification failed for {final_file}: {verify_exc}")
     except Exception as e:
         print(f"[ERROR] Failed saving anime {series_id}: {e}")
+        # try to cleanup orphan tmp file (best-effort)
+        try:
+            if tmp_file.exists():
+                tmp_file.unlink()
+        except Exception:
+            pass
 
 def enqueue_save_anime(series_id: str, anime_info: dict):
-    save_queue.put((series_id, deepcopy(anime_info)))
+    """Put a deepcopy on the queue (like before) but guard against exploding memory."""
+    try:
+        save_queue.put((series_id, deepcopy(anime_info)))
+    except Exception as e:
+        print(f"[ERROR] enqueue_save_anime failed for {series_id}: {e}")
 
 def save_worker():
-    while not stop_saver.is_set() or not save_queue.empty():
+    """Consume save_queue until stop_saver set AND queue empty."""
+    while True:
+        # exit condition: stop flag set and queue empty
+        if stop_saver.is_set() and save_queue.empty():
+            break
         try:
             series_id, data_copy = save_queue.get(timeout=1)
-        except:
+        except Exception:
             continue
-        save_anime(series_id, data_copy)
-        save_queue.task_done()
+        try:
+            save_anime(series_id, data_copy)
+        except Exception as e:
+            print(f"[ERROR] Unhandled error saving {series_id}: {e}\n{traceback.format_exc()}")
+        finally:
+            try:
+                save_queue.task_done()
+            except Exception:
+                pass
+
+def _signal_handler(signum, frame):
+    print(f"[INFO] Received signal {signum}. Stopping saver after draining queue...")
+    stop_saver.set()
+
+signal.signal(signal.SIGINT, _signal_handler)
+try:
+    signal.signal(signal.SIGTERM, _signal_handler)
+except Exception:
+    pass
 
 async def create_page_pool(context, pool_size: int) -> tuple[list[Page], asyncio.Queue]: 
     pages: list[Page] = [await context.new_page() for _ in range(pool_size)]
@@ -569,6 +622,9 @@ if __name__ == "__main__":
         finally:
             pass
 
+    # signal the saver to stop, wait for queue to drain
     stop_saver.set()
+    print("[INFO] Waiting for save queue to drain...")
     save_queue.join()
+    saver_thread.join(timeout=10)
     print("Saver thread stopped, exiting.")
