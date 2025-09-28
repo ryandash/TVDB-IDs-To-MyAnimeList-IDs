@@ -250,7 +250,7 @@ async def async_safe_goto(page: Page, url: str, retries=3, delay=3):
                 print(f"Failed on page {getattr(page, 'url', 'unknown')}")
                 raise
 
-async def async_wait_for_selector(page: Page, selector: str, retries=3, delay=3) -> bool:
+async def async_wait_for_selector(page: Page, selector: str, retries=3, delay=5) -> bool:
     for attempt in range(1, retries + 1):
         try:
             content = await page.content()
