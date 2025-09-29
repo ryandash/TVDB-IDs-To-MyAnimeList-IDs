@@ -299,7 +299,7 @@ async def extract_translations_async(page: Page) -> Tuple[dict[str, dict[str, st
         "eng": {"title": None, "summary": None},
         "jpn": {"title": None, "summary": None},
     }
-    aliases = []
+    aliases: set[str] = set()
 
     divs = await page.query_selector_all("#translations > div")
     for div in divs:
@@ -320,9 +320,9 @@ async def extract_translations_async(page: Page) -> Tuple[dict[str, dict[str, st
         # Aliases (flat list, not per language)
         alias_items = await div.query_selector_all("ul li")
         alias_texts = await asyncio.gather(*[li.text_content() for li in alias_items])
-        aliases.extend([a.strip() for a in alias_texts if a and a.strip()])
+        aliases.update(a.strip() for a in alias_texts if a and a.strip())
 
-    return translations, aliases
+    return translations, list(aliases)
 
 # -------------------
 # Episode / Season / Anime
