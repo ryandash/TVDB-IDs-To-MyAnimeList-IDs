@@ -1,0 +1,36 @@
+{
+    "URL": "https://www.thetvdb.com/series/a-dog-of-flanders",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Children"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/45657"
+    ],
+    "TitleEnglish": "A Dog of Flanders",
+    "SummaryEnglish": "Dog of Flanders is a 1975 Japanese animated television series adaptation of Maria Louise Ramé's novel of the same name, produced by Nippon Animation.",
+    "Aliases": [
+        "Flanders no Inu"
+    ],
+    "Modified": "2025-01-11",
+    "Seasons": {
+        "0": {
+            "ID": "541369",
+            "URL": "https://www.thetvdb.com/series/a-dog-of-flanders/seasons/official/0",
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "4906026",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/a-dog-of-flanders/episodes/4906026",
+                    "TitleEnglish": "Flanders No Inu - The movie",
+                    "SummaryEnglish": null
+                }
+            }
+        },
+        "1": {
+            "Episodes": {}
+        }
+    }
+}
