@@ -127,15 +127,18 @@ def get_best_mal_id(search_term: str, anime_type: str, isSeason0: bool) -> tuple
             search_lower.split(":", 1)[1].strip()
         )
 
-    base_url = "https://api.jikan.moe/v4/anime?limit=3"
+    base_url = "https://api.jikan.moe/v4/anime?limit=5"
     api_url = f"{base_url}&type={anime_type}&q={normalized_search}" if anime_type else f"{base_url}&q={normalized_search}"
     data = rate_limited_get(api_url)
     search_results = data.get("data", []) if data else []
 
     all_titles_seen = []
+    best_match = (None, 0)
+
     for anime in search_results:
         titles = [t["title"].lower() for t in anime.get("titles", []) if "title" in t]
         all_titles_seen.extend(titles)
+
         for title in titles:
             if isSeason0:
                 similarity = fuzz.ratio(
@@ -145,17 +148,23 @@ def get_best_mal_id(search_term: str, anime_type: str, isSeason0: bool) -> tuple
                 similarity = fuzz.ratio(
                     normalize_text(title), normalized_search
                 )
-            if similarity >= 85:
-                return anime["mal_id"], all_titles_seen
+            if similarity >= 85 and similarity > best_match[1]:
+                best_match = (anime["mal_id"], similarity)
+
             if split_normalized_search and anime_type == "movie":
                 parts = title.split(":", 1)
                 if len(parts) > 1:
                     split_title = normalize_text(parts[1].strip())
-                    if fuzz.ratio(split_title, split_normalized_search) >= 90:
-                        return anime["mal_id"], all_titles_seen
+                    split_similarity = fuzz.ratio(split_title, split_normalized_search)
+                    if split_similarity >= 90 and split_similarity > best_match[1]:
+                        best_match = (anime["mal_id"], split_similarity)
+
+    if best_match[0] is not None:
+        return best_match[0], all_titles_seen
 
     print(f"Failed to find MAL ID for {normalized_search}")
     return None, all_titles_seen
+
 
 def get_mal_episode_count(mal_id: int) -> int | None:
     data = rate_limited_get(f"https://api.jikan.moe/v4/anime/{mal_id}")
@@ -219,18 +228,6 @@ def load_mapped_lookup(mapped: list) -> dict[str, int | None]:
             lookup[tvdb_id] = None
     return lookup
 
-def find_mal_id(title: str, is_season0: bool = False) -> tuple[int | None, list[str]]:
-    """Try to resolve a MAL ID for a given title, trying tv → ona."""
-    all_titles: list[str] = []
-    
-    for anime_type in ("tv", "ona"):
-        malid, titles = get_best_mal_id(title, anime_type, is_season0)
-        all_titles.extend(titles)
-        if malid:
-            return malid, []
-
-    return None, all_titles
-
 # ----------------------
 # Mapping
 # ----------------------
@@ -250,7 +247,7 @@ def map_anime():
 
     for series_id, series in tqdm(anime_data.items(), total=len(anime_data), desc=f"Mapping series", unit="series"):
         series_title = series.get("TitleEnglish")
-        aliases = series.get("Aliases") or []
+        series_aliases = series.get("Aliases") or []
 
         malid = None
         all_titles: list[str] = []
@@ -260,15 +257,15 @@ def map_anime():
         else:
             # Try main title first
             if series_title:
-                mid, titles = find_mal_id(series_title)
+                mid, titles = get_best_mal_id(series_title, None, False)
+                all_titles.extend(titles)
                 if mid:
                     malid = mid
-                all_titles.extend(titles)
 
             # Try aliases if main title failed
             if not malid:
-                for alias in aliases:
-                    mid, titles = find_mal_id(alias)
+                for alias in series_aliases:
+                    mid, titles = get_best_mal_id(alias, None, False)
                     all_titles.extend(titles)
                     if mid:
                         malid = mid
@@ -326,6 +323,7 @@ def map_anime():
             for ep_num, ep_data in tqdm(episodes.items(), desc=f"    {season_id} Season {season_num} episodes", unit="ep", leave=False):
                 ep_id = ep_data.get("ID")
                 ep_title = ep_data.get("TitleEnglish")
+                ep_aliases = ep_data.get("Aliases") or []
                 if ep_id in lookup:
                     continue
                 record = {"season": season_num, "episode": ep_num, "tvdb url": f"https://www.thetvdb.com/dereferrer/episode/{ep_id}"}
@@ -350,12 +348,11 @@ def map_anime():
                     elif ep_title:
                         search_terms = [ep_title]
 
+                        for alias in ep_aliases:
+                            search_terms.append(f"{alias}" if ep_title else alias)
+                        
                         if series_title and series_title.lower() not in ep_title.lower():
                             search_terms.append(f"{series_title} {ep_title}")
-
-                        if aliases:
-                            for alias in aliases:
-                                search_terms.append(f"{alias} {ep_title}" if ep_title else alias)
 
                         EpisodeMALID, all_titles = None, None
                         for term in search_terms:

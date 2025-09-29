@@ -338,7 +338,7 @@ async def scrape_episode_async(page: Page, ep_info, season_eps: dict, available:
         print(f"[SKIP] Skipping {ep_id} due to error page")
         return
 
-    translations, _ = await extract_translations_async(page)
+    translations, aliases = await extract_translations_async(page)
     titles = {lang: data.get("title") for lang, data in translations.items()}
     summaries = {lang: data.get("summary") for lang, data in translations.items()}
 
@@ -377,7 +377,8 @@ async def scrape_episode_async(page: Page, ep_info, season_eps: dict, available:
         "TYPE": type_text,
         "URL": ep_url,
         "TitleEnglish": titles.get("eng"),
-        "SummaryEnglish": summaries.get("eng")
+        "SummaryEnglish": summaries.get("eng"),
+        "Aliases": aliases
     }
 
 async def scrape_season_async(page:Page, season_url: str, numEpisodes: int, season_dict: dict, season_number: str, available: Queue):
