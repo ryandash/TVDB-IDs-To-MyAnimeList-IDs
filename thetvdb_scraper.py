@@ -12,6 +12,7 @@ import time
 import traceback
 import shutil
 import signal
+from typing import Tuple
 import uuid
 from tqdm.asyncio import tqdm_asyncio
 from playwright.async_api import Page, async_playwright
@@ -293,20 +294,35 @@ async def first_selector(page, selectors):
             return elems
     return []
 
-async def extract_translations_async(page: Page):
-    translations = {"eng": {"title": None, "summary": None}, "jpn": {"title": None, "summary": None}}
+async def extract_translations_async(page: Page) -> Tuple[dict[str, dict[str, str | None]], list[str]]:
+    translations = {
+        "eng": {"title": None, "summary": None},
+        "jpn": {"title": None, "summary": None},
+    }
+    aliases = []
+
     divs = await page.query_selector_all("#translations > div")
     for div in divs:
         lang = await div.get_attribute("data-language")
         if lang not in translations:
             continue
+
+        # Title
         title = await div.get_attribute("data-title")
         translations[lang]["title"] = title.strip() if title else None
+
+        # Summary
         p_elem = await div.query_selector("p")
         if p_elem:
             text = (await p_elem.inner_text()).strip()
             translations[lang]["summary"] = text or None
-    return translations
+
+        # Aliases (flat list, not per language)
+        alias_items = await div.query_selector_all("ul li")
+        alias_texts = await asyncio.gather(*[li.text_content() for li in alias_items])
+        aliases.extend([a.strip() for a in alias_texts if a and a.strip()])
+
+    return translations, aliases
 
 # -------------------
 # Episode / Season / Anime
@@ -322,7 +338,7 @@ async def scrape_episode_async(page: Page, ep_info, season_eps: dict, available:
         print(f"[SKIP] Skipping {ep_id} due to error page")
         return
 
-    translations = await extract_translations_async(page)
+    translations, _ = await extract_translations_async(page)
     titles = {lang: data.get("title") for lang, data in translations.items()}
     summaries = {lang: data.get("summary") for lang, data in translations.items()}
 
@@ -452,23 +468,9 @@ async def scrape_anime_page_async(page: Page, anime_url: str, available: Queue):
 
     existing  = lookup.get(series_id)    
     if not existing:
-        translations = await extract_translations_async(page)
+        translations, aliases = await extract_translations_async(page)
         titles = {lang: data.get("title") for lang, data in translations.items()}
         summaries = {lang: data.get("summary") for lang, data in translations.items()}
-
-        aliases = []
-        sections = await page.query_selector_all("#translations > div")
-        for section in sections:
-            heading = await section.query_selector("h5")
-            if heading:
-                text = (await heading.inner_text()).strip()
-                if text.lower() == "aliases":
-                    alias_items = await section.query_selector_all("ul li")
-                    aliases = await asyncio.gather(
-                        *[li.text_content() for li in alias_items]
-                    )
-                    aliases = [a.strip() for a in aliases if a]
-                    break
     
     anime_data = deepcopy(existing) if existing else {
         "URL": anime_url,
@@ -594,7 +596,7 @@ async def scrape_all_async():
 
                 if not page_to_scrape:
                     # polite pause between pages (don't block the event loop)
-                    await asyncio.sleep(60)
+                    await asyncio.sleep(30)
 
             print("Scraping complete!")
         finally:
