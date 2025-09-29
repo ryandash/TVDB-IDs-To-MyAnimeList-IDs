@@ -160,7 +160,7 @@ def get_best_mal_id(search_term: str, anime_type: str, isSeason0: bool) -> tuple
                         best_match = (anime["mal_id"], split_similarity)
 
     if best_match[0] is not None:
-        return best_match[0], all_titles_seen
+        return best_match[0], []
 
     print(f"Failed to find MAL ID for {normalized_search}")
     return None, all_titles_seen
@@ -287,7 +287,7 @@ def map_anime():
                     "tvdb url":f"https://www.thetvdb.com/dereferrer/series/{series_id}",
                     "thetvdb": series_id,
                     "search term": series_title,
-                    "aliases": aliases,
+                    "aliases": series_aliases,
                     "Jikan titles": all_titles
                 })
                 continue
