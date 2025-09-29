@@ -1,0 +1,68 @@
+{
+    "URL": "https://www.thetvdb.com/series/ariel",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/125453"
+    ],
+    "TitleEnglish": "ARIEL",
+    "SummaryEnglish": null,
+    "Aliases": [
+        "ARIEL VISUAL",
+        "Ariel Visual",
+        "DELUXE ARIEL"
+    ],
+    "Modified": "2025-06-02",
+    "Seasons": {
+        "1": {
+            "ID": "580684",
+            "URL": "https://www.thetvdb.com/series/ariel/seasons/official/1",
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4838515",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ariel/episodes/4838515",
+                    "TitleEnglish": "SCEBAI's Greatest Crisis (Part One)",
+                    "SummaryEnglish": null,
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4838516",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ariel/episodes/4838516",
+                    "TitleEnglish": "SCEBAI's Greatest Crisis (Part Two)",
+                    "SummaryEnglish": null,
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "580685",
+            "URL": "https://www.thetvdb.com/series/ariel/seasons/official/2",
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4838517",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ariel/episodes/4838517",
+                    "TitleEnglish": "The Beginning",
+                    "SummaryEnglish": null,
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4838518",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ariel/episodes/4838518",
+                    "TitleEnglish": "Great Fall",
+                    "SummaryEnglish": null,
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
