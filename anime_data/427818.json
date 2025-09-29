@@ -1,0 +1,76 @@
+{
+    "URL": "https://www.thetvdb.com/series/phoenix-eden17",
+    "Genres": [
+        "Adaptation",
+        "Anime - Shonen"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt27246089/",
+        "https://www.tvmaze.com/shows/68715/show-slug",
+        "https://www.themoviedb.org/tv/215402",
+        "https://en.wikipedia.org/wiki/Phoenix_(manga)",
+        "https://x.com/hinotori_eden"
+    ],
+    "TitleEnglish": "Phoenix: Eden17",
+    "SummaryEnglish": "In the age of space exploration, Romi and George flee a devastated Earth in search of a new world.",
+    "Aliases": [
+        "Hi no Tori: Eden no Sora",
+        "火の鳥: EDEN17",
+        "Phoenix: Eden's Space",
+        "Hi no Tori: Eden 17",
+        "フェニックス: EDEN17",
+        "Fenikkusu: Eden no Sora"
+    ],
+    "Modified": "2025-06-06",
+    "Seasons": {
+        "0": {
+            "ID": "2032477",
+            "URL": "https://www.thetvdb.com/series/phoenix-eden17/seasons/official/0",
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "9898884",
+                    "TYPE": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/phoenix-eden17/episodes/9898884",
+                    "TitleEnglish": "火の鳥 エデンの花",
+                    "SummaryEnglish": null
+                }
+            }
+        },
+        "1": {
+            "ID": "2032478",
+            "URL": "https://www.thetvdb.com/series/phoenix-eden17/seasons/official/1",
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "9479307",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/phoenix-eden17/episodes/9479307",
+                    "TitleEnglish": "Cain",
+                    "SummaryEnglish": "Romi and George flee a devastated Earth to Eden17, only to find out that it is a dead planet."
+                },
+                "2": {
+                    "ID": "10019342",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/phoenix-eden17/episodes/10019342",
+                    "TitleEnglish": "Moopy",
+                    "SummaryEnglish": "Romi awakes 1,300 years later and is astonished to find a thriving city on Eden."
+                },
+                "3": {
+                    "ID": "10019343",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/phoenix-eden17/episodes/10019343",
+                    "TitleEnglish": "Astronaut",
+                    "SummaryEnglish": "Romi, Com, and a space pilot named Makimura land on a planet that closely resembles Earth."
+                },
+                "4": {
+                    "ID": "10019344",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/phoenix-eden17/episodes/10019344",
+                    "TitleEnglish": "Romi",
+                    "SummaryEnglish": "The trio finally reaches Earth only to find that space immigrants are barred from returning."
+                }
+            }
+        }
+    }
+}
