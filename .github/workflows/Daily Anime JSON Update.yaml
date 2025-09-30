@@ -158,6 +158,32 @@ jobs:
             fi
           done
 
+      - name: Count mapped/unmapped
+        id: counts
+        run: |
+          mapped=$(jq length mapped-tvdb-ids.json)
+          unmapped=$(jq length unmapped-tvdb-ids.json)
+          echo "mapped=$mapped" >> $GITHUB_OUTPUT
+          echo "unmapped=$unmapped" >> $GITHUB_OUTPUT
+
+      - name: Update README with counts
+        run: |
+          mapped=${{ steps.counts.outputs.mapped }}
+          unmapped=${{ steps.counts.outputs.unmapped }}
+
+          # Remove old section if it exists
+          sed -i '/<!---counts-start--->/,/<!---counts-end--->/d' README.md
+
+          # Append updated section
+          {
+            echo '<!---counts-start--->'
+            echo "### TVDB → MAL Mapping Stats"
+            echo ""
+            echo "- ✅ Mapped IDs: **$mapped**"
+            echo "- ❌ Unmapped IDs: **$unmapped**"
+            echo '<!---counts-end--->'
+          } >> README.md
+
       - name: Delete artifacts folder
         run: |
           rm -rf artifacts/
