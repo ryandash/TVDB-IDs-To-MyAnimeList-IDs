@@ -100,7 +100,7 @@ jobs:
         run: python thetvdb_scraper.py --page ${{ matrix.page }} --delete-folder
 
       - name: Map MAL IDs for Page ${{ matrix.page }}
-        run: python mal_mapper.py --page ${{ matrix.page }}
+        run: python mal_mapper.py
 
       - name: Run Split JSON
         run: python split_json.py
