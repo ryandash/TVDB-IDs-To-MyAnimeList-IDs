@@ -24,7 +24,7 @@ jobs:
           python -m playwright install
 
       - name: Run scraper
-        run: python "Scrape_an_episode.py" --episode ${{ github.event.client_payload.tvdb_id }}
+        run: python "scrape_an_episode.py" --episode ${{ github.event.client_payload.tvdb_id }}
 
       - name: Map MAL IDs
         run: python mal_mapper.py --page 1

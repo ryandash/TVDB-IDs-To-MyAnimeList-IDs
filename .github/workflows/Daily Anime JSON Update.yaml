@@ -134,49 +134,7 @@ jobs:
           path: artifacts/
 
       - name: Merge JSON files
-        run: |
-          # Helper function to merge JSONs into a target
-          merge_json() {
-            target="$1"
-            shift
-            files="$@"
-            if [ -f "$target" ]; then
-              jq -s '
-                map(if type=="array" then .[] else . end)
-                | sort_by(.tvdb_id)
-                | unique_by(.tvdb_id)
-              ' "$target" $files > "$target.tmp" && mv "$target.tmp" "$target"
-            else
-              cp "$files" "$target"
-            fi
-          }
-
-          # Ensure base folders exist
-          mkdir -p api anime_data
-
-          # Merge folder JSONs
-          for folder in api anime_data; do
-            find artifacts -type f -path "*/$folder/*.json" | while read -r file; do
-              target="$folder/$(basename "$file")"
-              echo "Merging $file → $target"
-              merge_json "$target" "$file"
-            done
-          done
-
-          # Merge root-level JSONs
-          for file in mapped-tvdb-ids.json unmapped-tvdb-ids.json; do
-            # Collect all artifact copies
-            artifact_files=$(find artifacts -type f -name "$file")
-            if [ -f "$file" ]; then
-              artifact_files="$file $artifact_files"
-            fi
-            if [ -n "$artifact_files" ]; then
-              echo "Merging $artifact_files → $file"
-              merge_json "$file" $artifact_files
-              total=$(jq 'length' "$file")
-              echo "Merged '$file' → $total unique entries"
-            fi
-          done
+        run: python merge_files.py
 
       - name: Count mapped/unmapped
         id: counts
