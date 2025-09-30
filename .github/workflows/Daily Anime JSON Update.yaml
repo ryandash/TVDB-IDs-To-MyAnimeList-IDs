@@ -153,8 +153,10 @@ jobs:
             fi
 
             if [ -n "$files" ]; then
-              jq -s '[.[] | if type=="array" then .[] else . end]' $files > "$name"
-              echo "Merged $name"
+              jq -s '[.[] | if type=="array" then .[] else . end] 
+                    | group_by(.tvdb_id) 
+                    | map(.[0])' $files > "$name"
+              echo "Merged $name (deduplicated by tvdb_id)"
             fi
           done
 
