@@ -319,7 +319,7 @@ def map_anime():
                             record["thetvdb"] = season_id
                         mapped.append(record)
  
-            Season0Mal = None 
+            Season0Mal = None
             for ep_num, ep_data in tqdm(episodes.items(), desc=f"    {season_id} Season {season_num} episodes", unit="ep", leave=False):
                 ep_id = ep_data.get("ID")
                 ep_title = ep_data.get("TitleEnglish")
@@ -413,13 +413,8 @@ def map_anime():
                     
                     episodeMALURL = None
                     if SeasonMalID:
-                        api_url = (
-                            f"https://api.jikan.moe/v4/anime/{SeasonMalID}"
-                            if total_episodes == 1
-                            else f"https://api.jikan.moe/v4/anime/{SeasonMalID}/episodes/{episode_offset}"
-                        )
-                        data = rate_limited_get(api_url)
-                        episodeMALURL = data.get("data", {}).get("url") if data else None
+                        base = f"https://myanimelist.net/anime/{SeasonMalID}"
+                        episodeMALURL = base if total_episodes == 1 else f"{base}/episodes/{episode_offset}"
                     
                     if episodeMALURL:
                         record["myanimelist url"] = episodeMALURL
