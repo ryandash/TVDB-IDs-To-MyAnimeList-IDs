@@ -4,6 +4,8 @@ To use for myanimelist to thetvdb\
 https://ryandash.github.io/MyAnimeList-IDs-To-TVDB-IDs/api/myanimelist/{myanimelist id}.json
 
 To use for thetvdb to myanimelist\
+https://github-checker-worker.ryandash0.workers.dev/?key={thetvdb id}
+Backup:
 https://ryandash.github.io/MyAnimeList-IDs-To-TVDB-IDs/api/thetvdb/{thetvdb id}.json
 
 <!---counts-start--->
