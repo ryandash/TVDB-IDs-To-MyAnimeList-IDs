@@ -8,19 +8,123 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.11
-
-      - name: Install dependencies
+      - name: Setup Python & Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+          python -m playwright install
+        shell: bash
 
       - name: Run scraper
         run: |
           python "Scrape an episode.py" --episode ${{ github.event.client_payload.tvdb_id }}
+
+      - name: Map MAL IDs for Page ${{ matrix.page }}
+        run: |
+          python mal_mapper.py --page ${{ matrix.page }}
+
+      - name: Run Split JSON
+        run: |
+          python split_json.py
+          cp -r anime_data /tmp/scraper-out/ || true
+          cp -r api /tmp/scraper-out/ || true
+          cp mapped-tvdb-ids.json /tmp/scraper-out/ || true
+          cp unmapped-tvdb-ids.json /tmp/scraper-out/ || true
+
+      - name: Checkout Repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Restore scraped files
+        run: |
+          cp -r /tmp/scraper-out/anime_data ./ || true
+          cp -r /tmp/scraper-out/api ./ || true
+          cp /tmp/scraper-out/mapped-tvdb-ids.json ./ || true
+          cp /tmp/scraper-out/unmapped-tvdb-ids.json ./ || true
+
+      - name: Merge mapped/unmapped JSON files
+        run: |
+          for name in mapped-tvdb-ids.json unmapped-tvdb-ids.json; do
+            # Find all files with this name
+            files=$(find /tmp/scraper-out/artifacts -type f -name "$name")
+            
+            # Include root-level file if exists (from repo)
+            if [ -f "$name" ]; then
+              files="$name $files"
+            fi
+
+            if [ -n "$files" ]; then
+              echo "Processing '$name' with the following files:"
+              
+              # Loop through each file to print full path and entry count
+              for f in $files; do
+                if [ -f "$f" ]; then
+                  count=$(jq 'if type=="array" then length else 1 end' "$f")
+                  fullpath=$(realpath "$f")
+                  echo "  $fullpath → $count entries"
+                else
+                  echo "  $f → not a file"
+                fi
+              done
+
+              # Merge, flatten, deduplicate
+              jq -s '
+                map(if type=="array" then .[] else . end)
+                | sort_by(.tvdb_id)
+                | unique_by(.tvdb_id)
+              ' $files > "$name"
+
+              total=$(jq 'length' "$name")
+              echo "Merged '$name' → $total unique entries"
+            fi
+          done
+
+      - name: Count mapped/unmapped
+        id: counts
+        run: |
+          mapped=$(jq length mapped-tvdb-ids.json)
+          unmapped=$(jq length unmapped-tvdb-ids.json)
+          echo "mapped=$mapped" >> $GITHUB_OUTPUT
+          echo "unmapped=$unmapped" >> $GITHUB_OUTPUT
+
+      - name: Update README with counts
+        run: |
+          mapped=${{ steps.counts.outputs.mapped }}
+          unmapped=${{ steps.counts.outputs.unmapped }}
+
+          # Remove old section if it exists
+          sed -i '/<!---counts-start--->/,/<!---counts-end--->/d' README.md
+
+          # Append updated section
+          {
+            echo '<!---counts-start--->'
+            echo "### TVDB → MAL Mapping Stats"
+            echo ""
+            echo "- ✅ Mapped IDs: **$mapped**"
+            echo "- ❌ Unmapped IDs: **$unmapped**"
+            echo '<!---counts-end--->'
+          } >> README.md
+      
+      - name: Commit Changes if Needed
+        shell: pwsh
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions Bot"
+          git add .
+
+          if (-not (git diff --cached --quiet)) {
+            $date = Get-Date -Format "yyyy-MM-dd"
+            $time = Get-Date -Format "HH:mm:ss"
+            git commit -m "Update JSON at $date $time"
+
+            # Rebase onto latest remote main before pushing
+            git fetch origin main
+            git rebase origin/main
+
+            git push origin HEAD:main
+            Write-Host "JSON updated and changes pushed."
+          } else {
+            Write-Host "No changes detected, skipping commit."
+          }
