@@ -11,7 +11,7 @@ jobs:
       - name: Setup Python & Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install playwright>=1.45.0
           python -m playwright install
         shell: bash
 
