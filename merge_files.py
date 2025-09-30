@@ -1,12 +1,8 @@
 #!/usr/bin/env python3
+import argparse
 import json
-import os
 from pathlib import Path
 from typing import List, Dict
-
-ARTIFACTS_DIR = Path("artifacts")
-TARGET_FOLDERS = ["api", "anime_data"]
-ROOT_FILES = ["mapped-tvdb-ids.json", "unmapped-tvdb-ids.json"]
 
 
 def load_json(path: Path):
@@ -26,8 +22,8 @@ def merge_json_files(target: Path, files: List[Path]):
     if target.exists():
         try:
             merged.extend(load_json(target))
-        except Exception:
-            print(f"⚠ Skipping invalid JSON in {target}")
+        except Exception as e:
+            print(f"⚠ Skipping invalid JSON in {target}: {e}")
 
     for file in files:
         try:
@@ -36,8 +32,8 @@ def merge_json_files(target: Path, files: List[Path]):
                 merged.extend(data)
             else:
                 merged.append(data)
-        except Exception:
-            print(f"⚠ Skipping invalid JSON in {file}")
+        except Exception as e:
+            print(f"⚠ Skipping invalid JSON in {file}: {e}")
 
     # Deduplicate by tvdb_id if present
     seen = {}
@@ -45,7 +41,7 @@ def merge_json_files(target: Path, files: List[Path]):
         if isinstance(item, dict) and "tvdb_id" in item:
             seen[item["tvdb_id"]] = item
         else:
-            seen[len(seen)] = item
+            seen[len(seen)] = item  # fallback key
 
     merged_unique = list(seen.values())
     merged_unique.sort(key=lambda x: x.get("tvdb_id", float("inf")))
@@ -55,18 +51,30 @@ def merge_json_files(target: Path, files: List[Path]):
 
 
 def main():
+    parser = argparse.ArgumentParser(description="Merge JSON files from scraper artifacts.")
+    parser.add_argument(
+        "--input-dir",
+        type=Path,
+        default=Path("artifacts"),
+        help="Directory containing scraper output (default: artifacts/)",
+    )
+    args = parser.parse_args()
+
+    input_dir: Path = args.input_dir
+    target_folders = ["api", "anime_data"]
+    root_files = ["mapped-tvdb-ids.json", "unmapped-tvdb-ids.json"]
+
     # Merge folder JSONs
-    for folder in TARGET_FOLDERS:
-        files = list(ARTIFACTS_DIR.rglob(f"{folder}/*.json"))
-        if files:
-            for name in {f.name for f in files}:
-                target = Path(folder) / name
-                group = [f for f in files if f.name == name]
-                merge_json_files(target, group)
+    for folder in target_folders:
+        folder_path = input_dir / folder
+        if folder_path.is_dir():
+            for file in folder_path.glob("*.json"):
+                target = Path(folder) / file.name
+                merge_json_files(target, [file])
 
     # Merge root-level JSONs
-    for root_file in ROOT_FILES:
-        artifact_files = list(ARTIFACTS_DIR.rglob(root_file))
+    for root_file in root_files:
+        artifact_files = list(input_dir.rglob(root_file))
         if Path(root_file).exists():
             artifact_files.insert(0, Path(root_file))
 

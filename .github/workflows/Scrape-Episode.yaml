@@ -43,50 +43,7 @@ jobs:
           persist-credentials: true
 
       - name: Restore & Merge Scraper Output
-        run: |
-          # Helper function to merge JSON files
-          merge_json() {
-            target="$1"
-            shift
-            files="$@"
-            if [ -f "$target" ]; then
-              jq -s '
-                map(if type=="array" then .[] else . end)
-                | sort_by(.tvdb_id)
-                | unique_by(.tvdb_id)
-              ' "$target" $files > "$target.tmp" && mv "$target.tmp" "$target"
-            else
-              cp "$files" "$target"
-            fi
-          }
-
-          # Ensure base folders exist
-          mkdir -p api anime_data
-
-          # Merge folder JSONs
-          for folder in api anime_data; do
-            if [ -d "/tmp/scraper-out/$folder" ]; then
-              find "/tmp/scraper-out/$folder" -type f -name "*.json" | while read -r file; do
-                target="$folder/$(basename "$file")"
-                echo "Merging $file → $target"
-                merge_json "$target" "$file"
-              done
-            fi
-          done
-
-          # Merge root-level JSONs
-          for file in mapped-tvdb-ids.json unmapped-tvdb-ids.json; do
-            files=$(find /tmp/scraper-out -type f -name "$file")
-            if [ -f "$file" ]; then
-              files="$file $files"
-            fi
-            if [ -n "$files" ]; then
-              echo "Merging $files → $file"
-              merge_json "$file" $files
-              total=$(jq 'length' "$file")
-              echo "Merged '$file' → $total unique entries"
-            fi
-          done
+        run: python merge_files.py --input-dir /tmp/scraper-out
 
       - name: Update README with counts
         run: |

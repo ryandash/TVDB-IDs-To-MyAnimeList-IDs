@@ -134,7 +134,7 @@ jobs:
           path: artifacts/
 
       - name: Merge JSON files
-        run: python merge_files.py
+        run: python merge_files.py --input-dir artifacts
 
       - name: Count mapped/unmapped
         id: counts
