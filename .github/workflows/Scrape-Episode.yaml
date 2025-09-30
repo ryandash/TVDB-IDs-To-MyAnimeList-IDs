@@ -23,11 +23,12 @@ jobs:
       - name: Map MAL IDs
         run: python mal_mapper.py --page 1   # adjust/remove matrix.page
 
-      - name: Run Split JSON
+      - name: Run Split JSON & Stash Results
         run: |
           python split_json.py
           mkdir -p /tmp/scraper-out
-          cp -r anime_data api mapped-tvdb-ids.json unmapped-tvdb-ids.json /tmp/scraper-out/ || true
+          cp -r anime_data api /tmp/scraper-out/ || true
+          cp mapped-tvdb-ids.json unmapped-tvdb-ids.json /tmp/scraper-out/ || true
 
       - name: Checkout Repository (fresh)
         uses: actions/checkout@v5
@@ -35,7 +36,7 @@ jobs:
           fetch-depth: 0
           persist-credentials: true
 
-      - name: Restore scraped files
+      - name: Restore scraped JSONs
         run: |
           cp /tmp/scraper-out/mapped-tvdb-ids.json ./ || true
           cp /tmp/scraper-out/unmapped-tvdb-ids.json ./ || true
