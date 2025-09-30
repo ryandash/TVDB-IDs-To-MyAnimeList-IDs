@@ -1,0 +1,26 @@
+name: Scrape TVDB Episode
+
+on:
+  repository_dispatch:
+    types: [scrape-episode]
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run scraper
+        run: |
+          python "Scrape an episode.py" --episode ${{ github.event.client_payload.tvdb_id }}
