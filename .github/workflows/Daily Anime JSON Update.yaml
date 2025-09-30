@@ -133,52 +133,48 @@ jobs:
         with:
           path: artifacts/
 
-      - name: Move folders if they exist
+      - name: Merge JSON files
         run: |
-          mkdir -p api anime_data
-          
-          # Copy all api/ folders
-          find artifacts -type d -path "*/api" -exec rsync -a {}/ api/ \;
-          
-          # Copy all anime_data/ folders
-          find artifacts -type d -path "*/anime_data" -exec rsync -a {}/ anime_data/ \;
-
-      - name: Merge mapped/unmapped JSON files
-        run: |
-          for name in mapped-tvdb-ids.json unmapped-tvdb-ids.json; do
-            # Find all files with this name
-            files=$(find artifacts -type f -name "$name")
-            
-            # Include root-level file if exists
-            if [ -f "$name" ]; then
-              files="$name $files"
-            fi
-
-            if [ -n "$files" ]; then
-              echo "Processing '$name' with the following files:"
-              
-              # Loop through each file to print full path and entry count
-              for f in $files; do
-                if [ -f "$f" ]; then
-                  # Count entries: if it's an array, count elements; otherwise count 1
-                  count=$(jq 'if type=="array" then length else 1 end' "$f")
-                  fullpath=$(realpath "$f")
-                  echo "  $fullpath → $count entries"
-                else
-                  echo "  $f → not a file"
-                fi
-              done
-
-              # Merge, flatten, deduplicate
+          # Helper function to merge JSONs into a target
+          merge_json() {
+            target="$1"
+            shift
+            files="$@"
+            if [ -f "$target" ]; then
               jq -s '
                 map(if type=="array" then .[] else . end)
                 | sort_by(.tvdb_id)
                 | unique_by(.tvdb_id)
-              ' $files > "$name"
+              ' "$target" $files > "$target.tmp" && mv "$target.tmp" "$target"
+            else
+              cp "$files" "$target"
+            fi
+          }
 
-              # Show total entries after merge
-              total=$(jq 'length' "$name")
-              echo "Merged '$name' → $total unique entries"
+          # Ensure base folders exist
+          mkdir -p api anime_data
+
+          # Merge folder JSONs
+          for folder in api anime_data; do
+            find artifacts -type f -path "*/$folder/*.json" | while read -r file; do
+              target="$folder/$(basename "$file")"
+              echo "Merging $file → $target"
+              merge_json "$target" "$file"
+            done
+          done
+
+          # Merge root-level JSONs
+          for file in mapped-tvdb-ids.json unmapped-tvdb-ids.json; do
+            # Collect all artifact copies
+            artifact_files=$(find artifacts -type f -name "$file")
+            if [ -f "$file" ]; then
+              artifact_files="$file $artifact_files"
+            fi
+            if [ -n "$artifact_files" ]; then
+              echo "Merging $artifact_files → $file"
+              merge_json "$file" $artifact_files
+              total=$(jq 'length' "$file")
+              echo "Merged '$file' → $total unique entries"
             fi
           done
 
