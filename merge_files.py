@@ -52,18 +52,20 @@ def merge_json_files(target: Path, files: List[Path], mode: str):
                     merged = merge_dicts(merged, data)
             except Exception as e:
                 print(f"⚠ Skipping invalid JSON in {file}: {e}")
+
     elif mode == "api/thetvdb":
-        # overwrite original, but ensure list
         merged: list = []
-        for file in files:
+        if files:
+            file = files[-1]
             try:
                 data = load_json(file)
-                if isinstance(data, list):
-                    merged = data
-                elif isinstance(data, dict):
+                if isinstance(data, dict):
                     merged = [data]
+                elif isinstance(data, list):
+                    merged = data
             except Exception as e:
                 print(f"⚠ Skipping invalid JSON in {file}: {e}")
+
     elif mode == "api/myanimelist":
         merged_dict = {}  # key = tvdb_id
         for file in files:
@@ -73,15 +75,17 @@ def merge_json_files(target: Path, files: List[Path], mode: str):
                     for entry in data:
                         tvdb_id = entry.get("thetvdb")
                         if tvdb_id:
-                            merged_dict[tvdb_id] = entry  # overwrite duplicates
+                            merged_dict[tvdb_id] = entry
             except Exception as e:
                 print(f"⚠ Skipping invalid JSON in {file}: {e}")
         merged = list(merged_dict.values())
+
     else:
         raise ValueError(f"Unknown merge mode: {mode}")
 
     save_json(target, merged)
     print(f"✅ Merged {len(files)} files → {target} ({'list' if isinstance(merged, list) else 'dict'})")
+
 
 
 def main():
