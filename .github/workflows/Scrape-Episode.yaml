@@ -1,12 +1,8 @@
-name: Scraper
+name: Scrape TVDB Episode
 
 on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
   repository_dispatch:
-    types: [scrape]
+    types: [scrape-episode]
 
 jobs:
   scrape:
