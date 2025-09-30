@@ -1,0 +1,43 @@
+{
+    "URL": "https://www.thetvdb.com/series/437377-series",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2016970/",
+        "https://www.themoviedb.org/tv/81603"
+    ],
+    "TitleEnglish": "Pinky:st",
+    "SummaryEnglish": "Mei and Keiichirou, who love Pinky Street, are invited by Saki to go to the world of Pinky Street. Divided into two episodes each for Mei and Keiichirou.",
+    "Aliases": [
+        "Pinky Street"
+    ],
+    "Modified": "2025-06-06",
+    "Seasons": {
+        "1": {
+            "ID": "2074116",
+            "URL": "https://www.thetvdb.com/series/437377-series/seasons/official/1",
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "9905876",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/437377-series/episodes/9905876",
+                    "TitleEnglish": "Mei",
+                    "SummaryEnglish": null,
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9905877",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/437377-series/episodes/9905877",
+                    "TitleEnglish": "Keiichirou",
+                    "SummaryEnglish": null,
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
