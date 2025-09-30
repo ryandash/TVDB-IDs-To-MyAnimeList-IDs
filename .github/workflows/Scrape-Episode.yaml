@@ -26,15 +26,6 @@ jobs:
       - name: Run scraper
         run: python "scrape_an_episode.py" --episode ${{ github.event.client_payload.tvdb_id }}
 
-      - name: Debug scraped JSON
-        run: |
-          echo "Contents of anime_data folder:"
-          ls -l anime_data
-          for f in anime_data/*.json; do
-            echo "--- $f ---"
-            cat "$f"
-          done
-
       - name: Map MAL IDs
         run: python mal_mapper.py
 
