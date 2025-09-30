@@ -6,3 +6,9 @@ https://ryandash.github.io/MyAnimeList-IDs-To-TVDB-IDs/api/myanimelist/{myanimel
 To use for thetvdb to myanimelist\
 https://ryandash.github.io/MyAnimeList-IDs-To-TVDB-IDs/api/thetvdb/{thetvdb id}.json
 
+<!---counts-start--->
+### TVDB → MAL Mapping Stats
+
+- ✅ Mapped IDs: **1**
+- ❌ Unmapped IDs: **1**
+<!---counts-end--->
