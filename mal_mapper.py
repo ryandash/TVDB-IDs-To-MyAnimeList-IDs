@@ -387,7 +387,7 @@ def map_anime():
                             record["thetvdb"] = ep_id
                         mapped.append(record)
                     else:
-                        record["myanimelist url"] = None
+                        record["thetvdb"] = ep_id
                         record["search terms"] = search_terms
                         record["Jikan titles"] = all_titles
                         unmapped.append(record)
