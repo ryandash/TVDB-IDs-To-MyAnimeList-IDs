@@ -391,7 +391,7 @@ async def scrape_anime_page_async(page: Page, anime_url: str, season_number: str
     }
 
     season_rows = (await page.query_selector_all('#seasons-official table tbody tr'))[1:-1]
-    num_eps_elem = await season_rows[season_number].query_selector('td:nth-child(4)')
+    num_eps_elem = await season_rows[int(season_number)].query_selector('td:nth-child(4)')
     num_eps = int(await num_eps_elem.inner_text()) if num_eps_elem else 0
     
     return series_id, anime_data, num_eps
@@ -411,11 +411,12 @@ async def scrape_single_episode(thetvdbid: str):
 
         season_number = str(re.findall(r"\d+", season_url)[-1]) if season_url else None
 
-        anime_task = scrape_anime_page_async(page_series, series_url, season_number)
-        season_task = scrape_season_async(page_season, season_url)
+        anime_task, season_data = await asyncio.gather(
+            scrape_anime_page_async(page_series, series_url, season_number),
+            scrape_season_async(page_season, season_url)
+        )
 
-        series_id, anime_data, num_eps = await anime_task
-        season_data = await season_task
+        series_id, anime_data, num_eps = anime_task
 
         season_data["# Episodes"] = num_eps
         season_data["Episodes"] = episode_data
