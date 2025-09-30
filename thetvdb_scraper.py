@@ -381,7 +381,7 @@ async def scrape_episode_async(page: Page, ep_info, season_eps: dict, available:
         "Aliases": aliases
     }
 
-async def scrape_season_async(page:Page, season_url: str, numEpisodes: int, season_dict: dict, season_number: str, available: Queue):
+async def scrape_season_async(page:Page, season_url: str, numEpisodes: int, season_dict: dict, available: Queue):
     existing_eps = season_dict.setdefault("Episodes", {})
     await async_safe_goto(page, season_url)
 
@@ -522,7 +522,7 @@ async def scrape_anime_page_async(page: Page, anime_url: str, available: Queue):
 
     async def limited_scrape_season(season_url: str, num_eps: int, anime_data:dict, season_number: str):
         async with MAX_SEASON_CONCURRENT:
-            await with_page(available, scrape_season_async, season_url, num_eps, anime_data["Seasons"].setdefault(season_number, {}), season_number)
+            await with_page(available, scrape_season_async, season_url, num_eps, anime_data["Seasons"].setdefault(season_number, {}))
 
     if season_info:
         season_tasks = [

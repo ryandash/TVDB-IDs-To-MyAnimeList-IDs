@@ -346,7 +346,7 @@ def parse_date(date_str: str):
             continue
     raise ValueError(f"Could not parse date: {date_str}")
 
-async def scrape_anime_page_async(page: Page, anime_url: str, season_number: int):
+async def scrape_anime_page_async(page: Page, anime_url: str, season_number: str):
     await async_safe_goto(page, anime_url)
 
     series_id = None
@@ -409,7 +409,7 @@ async def scrape_single_episode(thetvdbid: str):
 
         episode_data, series_url, season_url = await scrape_episode_async(page_episode, url)
 
-        season_number = int(re.findall(r"\d+", season_url)[-1]) if season_url else None
+        season_number = str(re.findall(r"\d+", season_url)[-1]) if season_url else None
 
         anime_task = scrape_anime_page_async(page_series, series_url, season_number)
         season_task = scrape_season_async(page_season, season_url)
