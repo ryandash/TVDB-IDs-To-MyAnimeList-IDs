@@ -1,3 +1,13 @@
+name: Scraper
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  repository_dispatch:
+    types: [scrape]
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -21,7 +31,7 @@ jobs:
         run: python "Scrape_an_episode.py" --episode ${{ github.event.client_payload.tvdb_id }}
 
       - name: Map MAL IDs
-        run: python mal_mapper.py --page 1   # adjust/remove matrix.page
+        run: python mal_mapper.py --page 1
 
       - name: Run Split JSON & Stash Results
         run: |
