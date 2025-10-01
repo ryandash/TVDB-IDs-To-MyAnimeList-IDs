@@ -44,7 +44,6 @@ jobs:
           mkdir -p /tmp/scraper-out
           cp -r anime_data api /tmp/scraper-out/ || true
           cp mapped-tvdb-ids.json unmapped-tvdb-ids.json /tmp/scraper-out/ || true
-          ls -R
 
       - name: Checkout Repository (fresh, full history)
         uses: actions/checkout@v5
@@ -55,7 +54,6 @@ jobs:
       - name: Restore & Merge Scraper Output
         run: |
           python merge_files.py --input-dir /tmp/scraper-out
-          ls -R
 
       - name: Update README with counts
         run: |
