@@ -22,17 +22,19 @@ concurrency:
   group: "anime-json-update"
   cancel-in-progress: true
 
-jobs:
-  setup:
+jobs:  
+  determine_total_pages:
+    name: Determine Total Pages
+    needs: setup
     runs-on: ubuntu-latest
     outputs:
-      cache-key: ${{ steps.cache-deps.outputs.cache-hit }}
+      pages: ${{ steps.generate_pages.outputs.pages }}
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v5
         with:
           fetch-depth: 1
-
+      
       - name: Cache pip + Playwright
         id: cache-deps
         uses: actions/cache@v4
@@ -48,18 +50,6 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
-  
-  determine_total_pages:
-    name: Determine Total Pages
-    needs: setup
-    runs-on: ubuntu-latest
-    outputs:
-      pages: ${{ steps.generate_pages.outputs.pages }}
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v5
-        with:
-          fetch-depth: 1
 
       - name: Decide Total Pages
         id: set_pages
