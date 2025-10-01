@@ -33,7 +33,7 @@ jobs:
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
 
-          python scrape_an_episode.py --episode ${{ github.event.client_payload.tvdb_id }}
+          python scrape_an_episode.py --episode ${{ github.event.client_payload.tvdb_id }} --delete-folder
 
           if [ ! -s "scraper_output.json" ] && [ ! -d "anime_data" ]; then
             echo "No new data scraped, exiting early."

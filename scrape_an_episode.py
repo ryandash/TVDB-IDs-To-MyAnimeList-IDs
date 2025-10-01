@@ -6,6 +6,7 @@ import argparse
 import asyncio
 from queue import Queue
 from pathlib import Path
+import shutil
 import time
 from typing import Tuple
 import uuid
@@ -13,8 +14,8 @@ from playwright.async_api import Page, async_playwright
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--episode", type=int, default=None, help="TVDB episode id")
+parser.add_argument("--delete-folder", action="store_true", help="Delete anime_data folder")
 args = parser.parse_args()
-page_to_scrape = args.episode
 
 BASE_URL_TEMPLATE = "https://www.thetvdb.com"
 DATA_DIR = Path("anime_data")
@@ -402,6 +403,10 @@ async def scrape_single_episode(thetvdbid: str):
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         context = await browser.new_context()
+
+        if args.delete_folder and DATA_DIR.exists():
+            shutil.rmtree(DATA_DIR)
+            DATA_DIR.mkdir(exist_ok=True)
 
         page_episode, page_series, page_season = await asyncio.gather(
             context.new_page(), context.new_page(), context.new_page()
