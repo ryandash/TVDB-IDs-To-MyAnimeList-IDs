@@ -53,8 +53,13 @@ jobs:
     needs: setup
     runs-on: ubuntu-latest
     outputs:
-      total: ${{ steps.set_pages.outputs.total }}
+      pages: ${{ steps.generate_pages.outputs.pages }}
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 1
+
       - name: Decide Total Pages
         id: set_pages
         run: |
@@ -66,18 +71,11 @@ jobs:
             echo "Detected: $total pages"
           fi
           echo "total=${total}" >> $GITHUB_OUTPUT
-
-  generate_page_list:
-    name: Generate Page List
-    needs: determine_total_pages
-    runs-on: ubuntu-latest
-    outputs:
-      pages: ${{ steps.generate_pages.outputs.pages }}
-    steps:
+      
       - name: Generate Page List
         id: generate_pages
         run: |
-          total=${{ needs.determine_total_pages.outputs.total }}
+          total=${{ steps.set_pages.outputs.total }}
           total=${total:-1}
           pages=$(seq 1 $total | jq -R . | jq -s .)
           echo "pages<<EOF" >> $GITHUB_OUTPUT
@@ -85,12 +83,12 @@ jobs:
           echo "EOF" >> $GITHUB_OUTPUT
 
   scrape_pages:
-    needs: [generate_page_list, setup]
+    needs: determine_total_pages
     runs-on: ubuntu-latest
     strategy:
       max-parallel: 10
       matrix:
-        page: ${{ fromJson(needs.generate_page_list.outputs.pages) }}
+        page: ${{ fromJson(needs.determine_total_pages.outputs.pages) }}
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v5
