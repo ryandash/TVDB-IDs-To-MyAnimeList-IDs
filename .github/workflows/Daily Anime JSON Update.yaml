@@ -105,6 +105,12 @@ jobs:
             ~/.cache/ms-playwright
           key: deps-${{ hashFiles('requirements.txt') }}
           restore-keys: deps-
+      
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
 
       - name: Scrape & Process page
         run: |
