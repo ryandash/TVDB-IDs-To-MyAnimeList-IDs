@@ -41,10 +41,11 @@ jobs:
             ~/.cache/pip
             ~/.cache/ms-playwright
           key: deps-${{ hashFiles('requirements.txt') }}
+          restore-keys: deps-
 
-      - name: Install deps if cache miss
-        if: steps.cache-deps.outputs.cache-hit != 'true'
+      - name: Install Python dependencies
         run: |
+          pip install --upgrade pip
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
   
@@ -95,13 +96,15 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: Restore pip + Playwright cache
+      - name: Cache pip + Playwright
+        id: cache-deps
         uses: actions/cache@v4
         with:
           path: |
             ~/.cache/pip
             ~/.cache/ms-playwright
           key: deps-${{ hashFiles('requirements.txt') }}
+          restore-keys: deps-
 
       - name: Scrape & Process page
         run: |
@@ -130,6 +133,16 @@ jobs:
         with:
           fetch-depth: 0
           persist-credentials: true
+
+      - name: Cache pip + Playwright
+        id: cache-deps
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/pip
+            ~/.cache/ms-playwright
+          key: deps-${{ hashFiles('requirements.txt') }}
+          restore-keys: deps-
 
       - name: Download all artifacts
         uses: actions/download-artifact@v5
