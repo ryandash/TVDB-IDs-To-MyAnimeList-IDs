@@ -150,6 +150,12 @@ jobs:
           key: deps-${{ hashFiles('requirements.txt') }}
           restore-keys: deps-
 
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
       - name: Download all artifacts
         uses: actions/download-artifact@v5
         with:
