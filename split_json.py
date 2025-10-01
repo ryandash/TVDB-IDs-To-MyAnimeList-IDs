@@ -28,13 +28,11 @@ for entry in data:
         with path.open("w", encoding="utf-8") as f:
             json.dump([entry], f, indent=4, ensure_ascii=False)
         mal_count += 1
-        print(f"Written MAL file: {path}")
 
     if tvdb_id is not None:
         path = tvdb_dir / f"{tvdb_id}.json"
         with path.open("w", encoding="utf-8") as f:
             json.dump([entry], f, indent=4, ensure_ascii=False)
         tvdb_count += 1
-        print(f"Written TVDB file: {path}")
 
 print(f"Split complete. Wrote {mal_count} MAL files and {tvdb_count} TVDB files.")

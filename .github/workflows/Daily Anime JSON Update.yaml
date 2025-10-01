@@ -184,27 +184,25 @@ jobs:
           rm -rf artifacts/
 
       - name: Commit Changes if Needed
-        shell: pwsh
+        shell: bash
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "GitHub Actions Bot"
           git add .
 
-          if (-not (git diff --cached --quiet)) {
-            $date = Get-Date -Format "yyyy-MM-dd"
-            $time = Get-Date -Format "HH:mm:ss"
+          if [ -n "$(git diff --cached)" ]; then
+            date=$(date +%F)
+            time=$(date +%T)
             git commit -m "Update JSON at $date $time"
 
-            # Rebase onto latest remote main before pushing
             git fetch origin main
-            git rebase origin/main || (
+            git rebase origin/main || {
               git rebase --abort
               git merge -X ours origin/main
-            )
-            git push origin HEAD:main
+            }
 
             git push origin HEAD:main
-            Write-Host "JSON updated and changes pushed."
-          } else {
-            Write-Host "No changes detected, skipping commit."
-          }
+            echo "JSON updated and changes pushed."
+          else
+            echo "No changes detected, skipping commit."
+          fi

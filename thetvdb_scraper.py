@@ -218,12 +218,12 @@ try:
 except Exception:
     pass
 
-async def create_page_pool(context, pool_size: int) -> tuple[list[Page], asyncio.Queue]: 
+async def create_page_pool(context, pool_size: int) -> asyncio.Queue: 
     pages: list[Page] = [await context.new_page() for _ in range(pool_size)]
     available = asyncio.Queue()
     for p in pages:
         await available.put(p)
-    return pages, available
+    return available
 
 async def with_page(available, fn, *args, **kwargs):
     page = await available.get()
@@ -552,7 +552,7 @@ async def scrape_all_async():
         browser = await p.chromium.launch(headless=True)
         context = await browser.new_context()
 
-        pages, page_pool_available = await create_page_pool(context, pool_size=MAX_PAGES)
+        page_pool_available = await create_page_pool(context, pool_size=MAX_PAGES)
         try:
             page = await context.new_page()
             await async_safe_goto(page, BASE_URL_TEMPLATE.format(page_num=1))
