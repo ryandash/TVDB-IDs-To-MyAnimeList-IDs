@@ -76,6 +76,7 @@ jobs:
     needs: determine_total_pages
     runs-on: ubuntu-latest
     strategy:
+      fail-fast: false
       max-parallel: 10
       matrix:
         page: ${{ fromJson(needs.determine_total_pages.outputs.pages) }}
@@ -129,13 +130,12 @@ jobs:
           fetch-depth: 0
           persist-credentials: true
 
-      - name: Cache pip + Playwright
+      - name: Cache pip
         id: cache-deps
         uses: actions/cache@v4
         with:
           path: |
             ~/.cache/pip
-            ~/.cache/ms-playwright
           key: deps-${{ hashFiles('requirements.txt') }}
           restore-keys: deps-
 
@@ -143,7 +143,6 @@ jobs:
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
-          python -m playwright install --with-deps chromium
 
       - name: Download all artifacts
         uses: actions/download-artifact@v5
