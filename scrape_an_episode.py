@@ -233,7 +233,7 @@ async def extract_translations_async(page: Page) -> Tuple[dict[str, dict[str, st
         alias_texts = await asyncio.gather(*[li.text_content() for li in alias_items])
         aliases.update(a.strip() for a in alias_texts if a and a.strip())
 
-    return translations, list(aliases)
+    return translations, sorted(aliases, key=str.lower)
 
 # -------------------
 # Episode / Season / Anime
