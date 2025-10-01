@@ -28,7 +28,10 @@ jobs:
     outputs:
       cache-key: ${{ steps.cache-deps.outputs.cache-hit }}
     steps:
-      - uses: actions/checkout@v5
+      - name: Checkout Repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 1
 
       - name: Cache pip + Playwright
         id: cache-deps
@@ -44,6 +47,42 @@ jobs:
         run: |
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
+  
+  determine_total_pages:
+    name: Determine Total Pages
+    needs: setup
+    runs-on: ubuntu-latest
+    outputs:
+      total: ${{ steps.set_pages.outputs.total }}
+    steps:
+      - name: Decide Total Pages
+        id: set_pages
+        run: |
+          if [ -n "${{ github.event.inputs.manual_total_pages }}" ]; then
+            total="${{ github.event.inputs.manual_total_pages }}"
+            echo "Using manual override: $total pages"
+          else
+            total=$(python get_total_pages.py | grep -oP '\d+')
+            echo "Detected: $total pages"
+          fi
+          echo "total=${total}" >> $GITHUB_OUTPUT
+
+  generate_page_list:
+    name: Generate Page List
+    needs: determine_total_pages
+    runs-on: ubuntu-latest
+    outputs:
+      pages: ${{ steps.generate_pages.outputs.pages }}
+    steps:
+      - name: Generate Page List
+        id: generate_pages
+        run: |
+          total=${{ needs.determine_total_pages.outputs.total }}
+          total=${total:-1}
+          pages=$(seq 1 $total | jq -R . | jq -s .)
+          echo "pages<<EOF" >> $GITHUB_OUTPUT
+          echo "${pages}" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
 
   scrape_pages:
     needs: [generate_page_list, setup]
@@ -81,8 +120,7 @@ jobs:
             anime_data/
             mapped-tvdb-ids.json
             unmapped-tvdb-ids.json
-          retention-days: 1   # auto-clean, no cleanup job needed
-
+          retention-days: 1
 
   combine_and_commit:
     name: Combine FILES & Commit
