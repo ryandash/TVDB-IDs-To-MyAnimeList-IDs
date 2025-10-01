@@ -118,6 +118,7 @@ jobs:
             mapped-tvdb-ids.json
             unmapped-tvdb-ids.json
           retention-days: 1
+          compression-level: 3
 
   combine_and_commit:
     name: Combine FILES & Commit
