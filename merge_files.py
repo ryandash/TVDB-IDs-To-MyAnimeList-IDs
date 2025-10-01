@@ -86,9 +86,14 @@ def main():
 
     # root-level files
     for root_file in ["mapped-tvdb-ids.json", "unmapped-tvdb-ids.json"]:
+        target_file = repo_root / root_file
         artifact_files = collect_files(input_dir, root_file)
+
+        # Include repo file if it exists
+        if target_file.exists():
+            artifact_files.append(target_file)
+
         if artifact_files:
-            # single file read per root file
             data_list = [load_json(f) for f in artifact_files]
             merged_dict = {}
             for data in data_list:
@@ -97,7 +102,7 @@ def main():
                         tvdb_id = entry.get("thetvdb")
                         if tvdb_id:
                             merged_dict[tvdb_id] = entry
-            save_json(repo_root / root_file, list(merged_dict.values()))
+            save_json(target_file, list(merged_dict.values()))
 
 if __name__ == "__main__":
     main()
