@@ -115,45 +115,51 @@ def merge_json_files(target: Path, new_files: List[Path], mode: str):
     save_json(target, merged)
     print(f"✅ Merged {len(new_files)} files → {target} ({'list' if isinstance(merged, list) else 'dict'})")
 
+def collect_files(input_dir: Path, pattern: str):
+    files = []
+    # direct match (e.g. /tmp/scraper-out/anime_data/*.json)
+    files += list(input_dir.glob(pattern))
+    # nested page-* (e.g. artifacts/page-1/anime_data/*.json)
+    files += list(input_dir.glob(f"page-*/{pattern}"))
+    return files
+
 def main():
-    parser = argparse.ArgumentParser(description="Merge JSON files from scraper artifacts into main repo.")
+    parser = argparse.ArgumentParser(description="Merge JSON files into repo root.")
     parser.add_argument(
         "--input-dir",
         type=Path,
-        default=Path("artifacts"),
-        help="Directory containing scraper output (default: artifacts/)",
+        required=True,
+        help="Directory containing scraper output (artifacts/ or /tmp/scraper-out/)",
     )
     args = parser.parse_args()
     input_dir: Path = args.input_dir
 
     repo_root = Path.cwd()
-    print(f"🚀 Starting merge, input_dir={input_dir}, repo_root={repo_root}")
 
-    # Merge anime_data from all page-* folders
-    anime_files = list(input_dir.glob("page-*/anime_data/*.json"))
-    print(f"🔎 Found {len(anime_files)} anime_data files")
-    for file in anime_files:
-        target_file = repo_root / "anime_data" / file.name
-        merge_json_files(target_file, [file], mode="anime_data")
+    # === anime_data ===
+    anime_files = collect_files(input_dir, "anime_data/*.json")
+    for name in {f.name for f in anime_files}:
+        same_name_files = [f for f in anime_files if f.name == name]
+        target_file = repo_root / "anime_data" / name
+        merge_json_files(target_file, same_name_files, mode="anime_data")
 
-    # Merge api/thetvdb
-    tvdb_files = list(input_dir.glob("page-*/api/thetvdb/*.json"))
-    print(f"🔎 Found {len(tvdb_files)} api/thetvdb files")
-    for file in tvdb_files:
-        target_file = repo_root / "api/thetvdb" / file.name
-        merge_json_files(target_file, [file], mode="api/thetvdb")
+    # === api/thetvdb ===
+    tvdb_files = collect_files(input_dir, "api/thetvdb/*.json")
+    for name in {f.name for f in tvdb_files}:
+        same_name_files = [f for f in tvdb_files if f.name == name]
+        target_file = repo_root / "api/thetvdb" / name
+        merge_json_files(target_file, same_name_files, mode="api/thetvdb")
 
-    # Merge api/myanimelist
-    mal_files = list(input_dir.glob("page-*/api/myanimelist/*.json"))
-    print(f"🔎 Found {len(mal_files)} api/myanimelist files")
-    for file in mal_files:
-        target_file = repo_root / "api/myanimelist" / file.name
-        merge_json_files(target_file, [file], mode="api/myanimelist")
+    # === api/myanimelist ===
+    mal_files = collect_files(input_dir, "api/myanimelist/*.json")
+    for name in {f.name for f in mal_files}:
+        same_name_files = [f for f in mal_files if f.name == name]
+        target_file = repo_root / "api/myanimelist" / name
+        merge_json_files(target_file, same_name_files, mode="api/myanimelist")
 
-    # Merge mapped/unmapped
+    # === root-level mapped/unmapped ===
     for root_file in ["mapped-tvdb-ids.json", "unmapped-tvdb-ids.json"]:
-        artifact_files = list(input_dir.glob(f"page-*/{root_file}"))
-        print(f"🔎 Found {len(artifact_files)} {root_file} files")
+        artifact_files = collect_files(input_dir, root_file)
         target_file = repo_root / root_file
         if artifact_files:
             merge_json_files(target_file, artifact_files, mode="api/myanimelist")
