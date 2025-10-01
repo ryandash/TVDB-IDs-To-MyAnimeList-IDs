@@ -197,7 +197,11 @@ jobs:
 
             # Rebase onto latest remote main before pushing
             git fetch origin main
-            git rebase origin/main
+            git rebase origin/main || (
+              git rebase --abort
+              git merge -X ours origin/main
+            )
+            git push origin HEAD:main
 
             git push origin HEAD:main
             Write-Host "JSON updated and changes pushed."
