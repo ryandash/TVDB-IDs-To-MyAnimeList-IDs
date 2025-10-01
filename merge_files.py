@@ -5,15 +5,30 @@ from pathlib import Path
 from typing import List, Union
 
 def load_json(path: Path) -> Union[dict, list]:
+    print(f"🔎 Loading JSON: {path}")
     if not path.exists():
+        print(f"  ⚠ File not found: {path}")
         return {} if path.suffix == ".json" else []
-    with open(path, "r", encoding="utf-8") as f:
-        return json.load(f)
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            if isinstance(data, dict):
+                print(f"  ✅ Loaded dict with {len(data)} keys")
+            elif isinstance(data, list):
+                print(f"  ✅ Loaded list with {len(data)} items")
+            else:
+                print(f"  ⚠ Unexpected type: {type(data)}")
+            return data
+    except Exception as e:
+        print(f"  ❌ Error loading {path}: {e}")
+        return {}
 
 def save_json(path: Path, data: Union[dict, list]):
     path.parent.mkdir(parents=True, exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
+    print(f"💾 Saved {path} ({'dict' if isinstance(data, dict) else 'list'}) "
+          f"with {len(data) if hasattr(data, '__len__') else 'unknown'} entries")
 
 def merge_dicts(d1: dict, d2: dict) -> dict:
     for key, val in d2.items():
@@ -28,16 +43,20 @@ def merge_dicts(d1: dict, d2: dict) -> dict:
                         seen.append(item)
                 d1[key] = seen
             else:
+                print(f"  ⚠ Overwriting key {key} in dict merge")
                 d1[key] = val
         else:
             d1[key] = val
     return d1
 
 def merge_json_files(target: Path, new_files: List[Path], mode: str):
-    """Merge new_files into the target file in the main repo."""
+    print(f"\n📂 Merging into {target} [mode={mode}]")
+    print(f"   Incoming files: {[str(f) for f in new_files]}")
+
     # Load original
     original_data = load_json(target) if target.exists() else ({} if mode == "anime_data" else [])
-    
+    print(f"   Existing data type: {type(original_data).__name__}, size: {len(original_data) if hasattr(original_data, '__len__') else 'N/A'}")
+
     # Load new data
     if mode == "anime_data":
         merged = original_data.copy() if isinstance(original_data, dict) else {}
@@ -55,8 +74,10 @@ def merge_json_files(target: Path, new_files: List[Path], mode: str):
             try:
                 data = load_json(new_files[-1])
                 if isinstance(data, dict):
+                    print(f"   Replacing with single dict wrapped in list")
                     merged = [data]
                 elif isinstance(data, list):
+                    print(f"   Replacing with list of {len(data)} items")
                     merged = data
             except Exception as e:
                 print(f"⚠ Skipping invalid JSON in {new_files[-1]}: {e}")
@@ -69,18 +90,25 @@ def merge_json_files(target: Path, new_files: List[Path], mode: str):
                 tvdb_id = entry.get("thetvdb")
                 if tvdb_id:
                     merged_dict[tvdb_id] = entry
+        print(f"   Starting merged_dict with {len(merged_dict)} entries from existing data")
+
         # Add new
         for file in new_files:
             try:
                 data = load_json(file)
                 if isinstance(data, list):
+                    print(f"   Processing list of {len(data)} entries from {file}")
                     for entry in data:
                         tvdb_id = entry.get("thetvdb")
                         if tvdb_id:
                             merged_dict[tvdb_id] = entry
+                else:
+                    print(f"   ⚠ Skipped non-list file {file}")
             except Exception as e:
                 print(f"⚠ Skipping invalid JSON in {file}: {e}")
         merged = list(merged_dict.values())
+        print(f"   Final merged_dict size: {len(merged)}")
+
     else:
         raise ValueError(f"Unknown merge mode: {mode}")
 
@@ -99,31 +127,33 @@ def main():
     input_dir: Path = args.input_dir
 
     repo_root = Path.cwd()
+    print(f"🚀 Starting merge, input_dir={input_dir}, repo_root={repo_root}")
 
-    # Merge anime_data
-    anime_folder = input_dir / "anime_data"
-    if anime_folder.is_dir():
-        for file in anime_folder.glob("*.json"):
-            target_file = repo_root / "anime_data" / file.name
-            merge_json_files(target_file, [file], mode="anime_data")
+    # Merge anime_data from all page-* folders
+    anime_files = list(input_dir.glob("page-*/anime_data/*.json"))
+    print(f"🔎 Found {len(anime_files)} anime_data files")
+    for file in anime_files:
+        target_file = repo_root / "anime_data" / file.name
+        merge_json_files(target_file, [file], mode="anime_data")
 
     # Merge api/thetvdb
-    tvdb_folder = input_dir / "api/thetvdb"
-    if tvdb_folder.is_dir():
-        for file in tvdb_folder.glob("*.json"):
-            target_file = repo_root / "api/thetvdb" / file.name
-            merge_json_files(target_file, [file], mode="api/thetvdb")
+    tvdb_files = list(input_dir.glob("page-*/api/thetvdb/*.json"))
+    print(f"🔎 Found {len(tvdb_files)} api/thetvdb files")
+    for file in tvdb_files:
+        target_file = repo_root / "api/thetvdb" / file.name
+        merge_json_files(target_file, [file], mode="api/thetvdb")
 
     # Merge api/myanimelist
-    mal_folder = input_dir / "api/myanimelist"
-    if mal_folder.is_dir():
-        for file in mal_folder.glob("*.json"):
-            target_file = repo_root / "api/myanimelist" / file.name
-            merge_json_files(target_file, [file], mode="api/myanimelist")
+    mal_files = list(input_dir.glob("page-*/api/myanimelist/*.json"))
+    print(f"🔎 Found {len(mal_files)} api/myanimelist files")
+    for file in mal_files:
+        target_file = repo_root / "api/myanimelist" / file.name
+        merge_json_files(target_file, [file], mode="api/myanimelist")
 
-    # Merge root-level mapped/unmapped
+    # Merge mapped/unmapped
     for root_file in ["mapped-tvdb-ids.json", "unmapped-tvdb-ids.json"]:
-        artifact_files = list(input_dir.rglob(root_file))
+        artifact_files = list(input_dir.glob(f"page-*/{root_file}"))
+        print(f"🔎 Found {len(artifact_files)} {root_file} files")
         target_file = repo_root / root_file
         if artifact_files:
             merge_json_files(target_file, artifact_files, mode="api/myanimelist")
