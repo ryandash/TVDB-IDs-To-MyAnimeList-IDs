@@ -8,35 +8,44 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
+      - name: Checkout Repository (shallow)
         uses: actions/checkout@v5
         with:
-          fetch-depth: 0
-          persist-credentials: true
+          fetch-depth: 1
+          persist-credentials: false
 
-      - name: Remove old data folders
-        run: rm -rf anime_data api
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
 
-      - name: Setup Python & Dependencies
+      - name: Cache Playwright
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: ${{ runner.os }}-playwright
+
+      - name: Setup, Scrape & Process
         run: |
-          python -m pip install --upgrade pip
           pip install -r requirements.txt
-          python -m playwright install
+          python -m playwright install --with-deps chromium
 
-      - name: Run scraper
-        run: python "scrape_an_episode.py" --episode ${{ github.event.client_payload.tvdb_id }}
+          python scrape_an_episode.py --episode ${{ github.event.client_payload.tvdb_id }}
 
-      - name: Map MAL IDs
-        run: python mal_mapper.py
-
-      - name: Run Split JSON & Stash Results
-        run: |
+          if [ ! -s "scraper_output.json" ] && [ ! -d "anime_data" ]; then
+            echo "No new data scraped, exiting early."
+            exit 0
+          fi
+          python mal_mapper.py
           python split_json.py
           mkdir -p /tmp/scraper-out
           cp -r anime_data api /tmp/scraper-out/ || true
           cp mapped-tvdb-ids.json unmapped-tvdb-ids.json /tmp/scraper-out/ || true
 
-      - name: Checkout Repository (fresh)
+      - name: Checkout Repository (fresh, full history)
         uses: actions/checkout@v5
         with:
           fetch-depth: 0
@@ -66,8 +75,9 @@ jobs:
           git add .
           if ! git diff --cached --quiet; then
             git commit -m "Update JSON ($(date -u))"
-            git pull --rebase origin main
-            git push origin HEAD:main
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push origin HEAD:main && break || sleep 10
+            done
           else
             echo "No changes detected."
           fi
