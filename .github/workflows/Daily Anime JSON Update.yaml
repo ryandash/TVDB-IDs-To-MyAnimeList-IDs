@@ -25,7 +25,6 @@ concurrency:
 jobs:  
   determine_total_pages:
     name: Determine Total Pages
-    needs: setup
     runs-on: ubuntu-latest
     outputs:
       pages: ${{ steps.generate_pages.outputs.pages }}
