@@ -25,105 +25,6 @@ DATA_DIR.mkdir(exist_ok=True)
 # Persistence
 # -------------------
 
-def safe_load_json(path: str) -> dict:
-    """
-    Robust JSON loader that attempts to salvage truncated/corrupted JSON files.
-
-    - Tries normal json.load first.
-    - On JSONDecodeError or UnicodeDecodeError tries to read forgivingly (errors='ignore'),
-      then truncates to the last '}' or ']' and tries to json.loads.
-    - If that fails, falls back to your previous line-based truncated-anime approach.
-    - If salvage succeeds it rewrites the file atomically.
-    - Always returns a dict (empty dict on failure).
-    """
-    p = Path(path)
-    try:
-        with p.open("r", encoding="utf-8") as f:
-            return json.load(f)
-    except (json.JSONDecodeError, UnicodeDecodeError) as exc:
-        print(f"[WARN] JSON corrupted at {path} ({exc}). Attempting salvage...")
-
-        # Read forgivingly to avoid UnicodeDecodeError on truncated multibyte chars
-        try:
-            raw = p.read_text(encoding="utf-8", errors="ignore")
-        except Exception as e:
-            print(f"[ERROR] Could not read file forgivingly: {e}")
-            return {}
-
-        # Strategy 1: cut to last top-level close brace/bracket
-        last_close = max(raw.rfind("}"), raw.rfind("]"))
-        if last_close != -1:
-            candidate = raw[: last_close + 1]
-            try:
-                data = json.loads(candidate)
-                # write back salvaged content atomically
-                tmp_file = p.with_suffix(p.suffix + ".salvage.tmp")
-                try:
-                    with tmp_file.open("w", encoding="utf-8") as tf:
-                        tf.write(candidate)
-                    os.replace(tmp_file, p)
-                    print("[INFO] Salvage successful by truncating to last '}' or ']'.")
-                except Exception as e:
-                    print(f"[WARN] Could not write salvaged file atomically: {e}")
-                return data
-            except Exception:
-                # fall through to next strategy
-                pass
-
-        # Strategy 2: fallback to original line-based truncation (search for start of last anime)
-        try:
-            lines = raw.splitlines(True)
-            anime_start_pattern = re.compile(r'^\s*"\d+"\s*:\s*{\s*$')  # looser whitespace
-            for i in range(len(lines) - 1, -1, -1):
-                if anime_start_pattern.match(lines[i].rstrip()):
-                    # try to close previous object's trailing comma / bracket
-                    if i > 0:
-                        prev_line = lines[i - 1].rstrip()
-                        if prev_line.endswith("},"):
-                            lines[i - 1] = prev_line[:-1] + "\n"  # replace "}," -> "}"
-                        else:
-                            lines[i - 1] = prev_line + "\n"
-                    # Keep everything up to the start of the problematic object, then close JSON
-                    truncated = "".join(lines[:i]) + "}\n"
-                    try:
-                        data = json.loads(truncated)
-                        # persist truncated JSON atomically
-                        tmp_file = p.with_suffix(p.suffix + ".salvage.tmp")
-                        try:
-                            with tmp_file.open("w", encoding="utf-8") as tf:
-                                tf.write(truncated)
-                            os.replace(tmp_file, p)
-                            print("[INFO] Salvage successful by truncating last object.")
-                        except Exception as e:
-                            print(f"[WARN] Could not write truncated file atomically: {e}")
-                        return data
-                    except Exception:
-                        # can't salvage here, continue
-                        break
-        except Exception as e:
-            print(f"[WARN] Line-based salvage attempt failed: {e}")
-
-        print("[ERROR] Could not salvage JSON. Returning empty dict.")
-        return {}
-
-def build_lookup_table() -> dict:
-    """
-    Loads all existing JSONs from DATA_DIR/*.json into a flat lookup table keyed by series ID.
-    If a file cannot be salvaged, skip it and continue.
-    """
-    lookup = {}
-    for file in DATA_DIR.glob("*.json"):
-        try:
-            anime_info = safe_load_json(str(file))
-            if anime_info:
-                lookup[file.stem] = anime_info
-            else:
-                # empty dict indicates salvage/read failure; skip but warn
-                print(f"[WARN] Skipping {file} due to unreadable/corrupted content.")
-        except Exception as e:
-            print(f"[WARN] Unexpected error loading {file}: {e}")
-    return lookup
-
 def save_anime(series_id: str, anime_info: dict, max_replace_attempts: int = 3):
     """Atomically save anime_info to DATA_DIR/{series_id}.json using a unique tmp file and fsync."""
     if not anime_info:
@@ -240,39 +141,9 @@ async def extract_translations_async(page: Page) -> Tuple[dict[str, dict[str, st
 # Episode / Season / Anime
 # -------------------
 
-async def scrape_episode_async(page: Page, ep_url):
+async def scrape_episode_async(page: Page):
 
     episode_data = {}
-
-    await async_safe_goto(page, ep_url)
-
-    breadcrumb_div = await page.query_selector("#app > div.container > div.page-toolbar > div.crumbs")
-    if not breadcrumb_div:
-        raise ValueError("Breadcrumb container missing")
-
-    # Extract all <a> elements
-    a_elems = await breadcrumb_div.query_selector_all("a")
-    hrefs = [await a.get_attribute("href") for a in a_elems]
-    
-    series_href = next((h for h in hrefs if "/series/" in h), None)
-    series_url = f"{BASE_URL_TEMPLATE}{series_href}" if series_href else None
-
-    season_href = next((h for h in hrefs if "seasons" in h), None)
-    season_url = f"{BASE_URL_TEMPLATE}{season_href}" if season_href else None
-
-    text_nodes = await breadcrumb_div.evaluate(
-        "el => Array.from(el.childNodes).map(n => n.textContent.trim()).filter(t => t.length > 0)"
-    )
-
-    # Extract episode number from the first node that matches
-    episode_number = next(
-        (re.search(r"Episode\s+(\d+)", t, re.IGNORECASE).group(1)
-        for t in text_nodes if re.search(r"Episode\s+(\d+)", t, re.IGNORECASE)),
-        None
-    )
-
-    if episode_number is None:
-        print(f"[WARN] Could not find episode number in breadcrumbs: {text_nodes}")
 
     translations, aliases = await extract_translations_async(page)
     titles = {lang: data.get("title") for lang, data in translations.items()}
@@ -308,36 +179,33 @@ async def scrape_episode_async(page: Page, ep_url):
                     type_text = "Movies"
                     break
 
-    episode_data[episode_number] = {
-        "ID": ep_url.rstrip('/').split('/')[-1],
+    episode_data = {
+        "ID": page.url.rstrip('/').split('/')[-1],
         "TYPE": type_text,
-        "URL": ep_url,
+        "URL": page.url,
         "TitleEnglish": titles.get("eng"),
         "SummaryEnglish": summaries.get("eng"),
         "Aliases": aliases
     }
 
-    return episode_data, series_url, season_url
+    return episode_data
 
 
-async def scrape_season_async(page:Page, season_url: str):
+async def scrape_season_async(page:Page):
     season_dict = {}
-    await async_safe_goto(page, season_url)
 
     if not await async_wait_for_selector(page, "#general"):
-        print(f"[SKIP] Skipping Season: {season_url} due to error page")
+        print(f"[SKIP] Skipping Season: {page.url} due to error page")
         return
 
     season_id_elem = await page.query_selector('#general ul li span')
     season_dict.update({
         "ID": (await season_id_elem.inner_text() if season_id_elem else "N/A"),
-        "URL": season_url
+        "URL": page.url,
+        "Episodes": {}
     })
 
     return season_dict
-
-
-lookup = build_lookup_table()
 
 def parse_date(date_str: str):
     for fmt in ("%b %d, %Y", "%B %d, %Y"):  # abbreviated first, then full month
@@ -347,9 +215,7 @@ def parse_date(date_str: str):
             continue
     raise ValueError(f"Could not parse date: {date_str}")
 
-async def scrape_anime_page_async(page: Page, anime_url: str, season_number: str):
-    await async_safe_goto(page, anime_url)
-
+async def scrape_anime_page_async(page: Page, season_number: str):
     series_id = None
     modified_date = None
     genres, other_sites = [], []
@@ -381,24 +247,45 @@ async def scrape_anime_page_async(page: Page, anime_url: str, season_number: str
     summaries = {lang: data.get("summary") for lang, data in translations.items()}
     
     anime_data = {
-        "URL": anime_url,
+        "URL": page.url,
         "Genres": genres,
         "Other Sites": other_sites,
         "TitleEnglish": titles.get("eng"),
         "SummaryEnglish": summaries.get("eng"),
         "Aliases": aliases,
         "Modified": modified_date.isoformat() if modified_date else None,
-        "Seasons": {season_number:{}}
+        "Seasons": {}
     }
-
-    season_rows = (await page.query_selector_all('#seasons-official table tbody tr'))[1:-1]
-    num_eps_elem = await season_rows[int(season_number)].query_selector('td:nth-child(4)')
-    num_eps = int(await num_eps_elem.inner_text()) if num_eps_elem else 0
+    
+    num_eps = None
+    if season_number:
+        season_rows = (await page.query_selector_all('#seasons-official table tbody tr'))[1:-1]
+        num_eps_elem = await season_rows[int(season_number)].query_selector('td:nth-child(4)')
+        num_eps = int(await num_eps_elem.inner_text()) if num_eps_elem else 0
     
     return series_id, anime_data, num_eps
 
-async def scrape_single_episode(thetvdbid: str):
-    url = f"https://www.thetvdb.com/dereferrer/episode/{thetvdbid}"
+def merge_anime(existing: dict, new: dict) -> dict:
+    merged = existing.copy()
+    # Simple dict update for top-level fields
+    for k, v in new.items():
+        if k == "Seasons" and "Seasons" in merged:
+            for sn, sdata in v.items():
+                if sn not in merged["Seasons"]:
+                    merged["Seasons"][sn] = sdata
+                else:
+                    merged["Seasons"][sn]["Episodes"].update(sdata.get("Episodes", {}))
+                    # keep "# Episodes" if present
+                    if "# Episodes" in sdata:
+                        merged["Seasons"][sn]["# Episodes"] = sdata["# Episodes"]
+        else:
+            merged[k] = v
+    return merged
+
+async def scrape_single_tvdb(thetvdbid: str):
+    url_episode = f"https://www.thetvdb.com/dereferrer/episode/{thetvdbid}"
+    url_season  = f"https://www.thetvdb.com/dereferrer/season/{thetvdbid}"
+    url_series  = f"https://www.thetvdb.com/dereferrer/series/{thetvdbid}"
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
@@ -408,36 +295,113 @@ async def scrape_single_episode(thetvdbid: str):
             shutil.rmtree(DATA_DIR)
             DATA_DIR.mkdir(exist_ok=True)
 
-        page_episode, page_series, page_season = await asyncio.gather(
+        page_episode, page_season, page_series = await asyncio.gather(
             context.new_page(), context.new_page(), context.new_page()
         )
 
-        episode_data, series_url, season_url = await scrape_episode_async(page_episode, url)
+        async def is_valid_page(page, url: str) -> bool:
+            try:
+                await page.goto(url, timeout=30000)
+                body_text = await page.inner_text("body")
+                return "error_404" not in body_text.lower()
+            except:
+                return False
 
-        season_number = str(re.findall(r"\d+", season_url)[-1]) if season_url else None
+        chosen_page, page_type = None, None
+        if await is_valid_page(page_episode, url_episode):
+            chosen_page, page_type = page_episode, "episode"
+        elif await is_valid_page(page_season, url_season):
+            chosen_page, page_type = page_season, "season"
+        elif await is_valid_page(page_series, url_series):
+            chosen_page, page_type = page_series, "series"
 
-        anime_task, season_data = await asyncio.gather(
-            scrape_anime_page_async(page_series, series_url, season_number),
-            scrape_season_async(page_season, season_url)
-        )
+        if not chosen_page:
+            print(f"[ERROR] Could not determine page type for {thetvdbid}")
+            await browser.close()
+            return
 
-        series_id, anime_data, num_eps = anime_task
+        breadcrumb_div = await chosen_page.query_selector("#app > div.container > div.page-toolbar > div.crumbs")
+        if breadcrumb_div:
+            a_elems = await breadcrumb_div.query_selector_all("a")
+            hrefs = [await a.get_attribute("href") for a in a_elems]
 
-        season_data["# Episodes"] = num_eps
-        season_data["Episodes"] = episode_data
-        anime_data["Seasons"][season_number] = season_data
+        if page_type == "season":
+            if not breadcrumb_div:
+                print(f"[ERROR] Breadcrumb not found for season {thetvdbid}")
+                await browser.close()
+                return
 
-        # Save at the end
+            series_href = next((h for h in hrefs if "/series/" in h), None)
+            if not series_href:
+                return
+            series_url = f"{BASE_URL_TEMPLATE}{series_href}" if series_href else None
+            season_number = str(re.findall(r"\d+", chosen_page.url)[-1])
+
+            await async_safe_goto(page_series, series_url)
+            series_id, anime_data, num_eps = await scrape_anime_page_async(page_series, season_number)
+            season_data = await scrape_season_async(chosen_page)
+            season_data["# Episodes"] = num_eps
+            anime_data["Seasons"][season_number] = season_data
+            save_anime(series_id, anime_data)
+            print(f"[INFO] Scraped episode {thetvdbid}")
+            await browser.close()
+            return
+
+        if page_type == "episode":
+            if not breadcrumb_div:
+                print(f"[ERROR] Breadcrumb not found for episode {thetvdbid}")
+                await browser.close()
+                return
+            
+            series_href = next((h for h in hrefs if "/series/" in h), None)
+            if not series_href:
+                return
+            series_url = f"{BASE_URL_TEMPLATE}{series_href}" if series_href else None
+            
+            season_href = next((h for h in hrefs if "seasons" in h), None)
+            if not season_href:
+                return
+
+            season_url = f"{BASE_URL_TEMPLATE}{season_href}"
+            season_number = str(re.findall(r"\d+", season_url)[-1])
+
+            text_nodes = await breadcrumb_div.evaluate(
+                "el => Array.from(el.childNodes).map(n => n.textContent.trim()).filter(t => t.length > 0)"
+            )
+            episode_number = next(
+                (re.search(r"Episode\s+(\d+)", t, re.IGNORECASE).group(1)
+                for t in text_nodes if re.search(r"Episode\s+(\d+)", t, re.IGNORECASE)),
+                None
+            )
+
+            episode_data = await scrape_episode_async(chosen_page)
+
+            await async_safe_goto(page_series, series_url)
+            await async_safe_goto(page_season, season_url)
+            anime_task, season_data = await asyncio.gather(
+                scrape_anime_page_async(page_series, season_number),
+                scrape_season_async(page_season)
+            )
+
+            series_id, anime_data, num_eps = anime_task
+
+            season_data["# Episodes"] = num_eps
+            season_data["Episodes"][episode_number] = episode_data
+            anime_data["Seasons"][season_number] = season_data
+            save_anime(series_id, anime_data)
+            print(f"[INFO] Scraped episode {thetvdbid}")
+            await browser.close()
+            return
+            
+        series_id, anime_data, _ = await scrape_anime_page_async(chosen_page, None)
         save_anime(series_id, anime_data)
-
         print(f"[INFO] Scraped episode {thetvdbid}")
-
         await browser.close()
-
+        return
 
 # -------------------
 # Entry Point
 # -------------------
 
 if __name__ == "__main__":
-    asyncio.run(scrape_single_episode(args.episode))
+    asyncio.run(scrape_single_tvdb(args.episode))
