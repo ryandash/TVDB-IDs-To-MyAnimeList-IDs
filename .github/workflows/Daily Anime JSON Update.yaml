@@ -162,9 +162,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           pages='${{ needs.determine_total_pages.outputs.total }}'
+          run_id=${{ github.run_id }}
           for page in $(seq 1 $total); do
             for i in {1..3}; do
-              gh run download-artifact page-$page --dir artifacts/page-$page && break
+              gh run download $run_id page-$page --dir artifacts/page-$page && break
               echo "Retry $i for page-$page"
               sleep 5
             done
