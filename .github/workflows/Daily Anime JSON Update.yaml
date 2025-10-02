@@ -160,10 +160,10 @@ jobs:
       - name: Download all artifacts sequentially
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TOTAL_PAGES: ${{ needs.determine_total_pages.outputs.total }}
         run: |
           run_id=${{ github.run_id }}
-          total=${{ needs.determine_total_pages.outputs.total }}
-
+          total=${TOTAL_PAGES:-1}
           echo "Total pages to download: $total"
 
           for page in $(seq 1 $total); do
