@@ -221,7 +221,6 @@ def get_mal_url(mal_id: int, episode_number: Union[int, None]) -> Optional[str]:
     if episode_number is None:
         return f"https://myanimelist.net/anime/{mal_id}"
 
-    print(f"https://api.jikan.moe/v4/anime/{mal_id}/episodes/{episode_number}")
     data = rate_limited_get(f"https://api.jikan.moe/v4/anime/{mal_id}/episodes/{episode_number}")
     if not data:
         return None
@@ -234,7 +233,6 @@ def get_mal_url(mal_id: int, episode_number: Union[int, None]) -> Optional[str]:
     if not full_url:
         return None
 
-    print (f"{full_url.rsplit("/", 1)[0]}/")
     return f"{full_url.rsplit("/", 1)[0]}/"
 
 
@@ -334,7 +332,7 @@ def map_anime():
                     if season_num == "1":
                         episode_offset = 0
                         mal_eps = get_mal_episode_count(SeasonMalID)
-                        malurl = get_mal_url(SeasonMalID, None)
+                        malurl = get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
 
                     if SeasonMalID not in lookup:
                         record = {"season": season_num, "tvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}", "myanimelist url": get_mal_url(SeasonMalID, None)}
