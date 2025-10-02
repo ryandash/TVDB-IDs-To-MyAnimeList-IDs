@@ -112,14 +112,12 @@ jobs:
         run: |
           python thetvdb_scraper.py --page ${{ matrix.page }} --delete-folder
           python mal_mapper.py
-          python split_json.py
 
       - name: Upload page outputs
         uses: actions/upload-artifact@v4
         with:
           name: page-${{ matrix.page }}
           path: |
-            api/
             anime_data/
             mapped-tvdb-ids.json
             unmapped-tvdb-ids.json
@@ -151,16 +149,15 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Wait for 5 minutes
-        run: sleep 5m
-
       - name: Download all artifacts
         uses: actions/download-artifact@v5
         with:
           path: artifacts
 
       - name: Merge JSON files
-        run: python merge_files.py --input-dir artifacts
+        run: |
+          python merge_files.py --input-dir artifacts
+          python split_json.py
 
       - name: Count mapped/unmapped
         id: counts

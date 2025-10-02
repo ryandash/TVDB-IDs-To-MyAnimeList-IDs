@@ -2,7 +2,7 @@
 import argparse
 import json
 from pathlib import Path
-from typing import List, Union, Any
+from typing import List, Union
 from concurrent.futures import ThreadPoolExecutor
 
 JSONType = Union[dict, list]
@@ -36,7 +36,8 @@ def merge_dicts(d1: dict, d2: dict) -> dict:
 def collect_files(input_dir: Path, pattern: str) -> List[Path]:
     return [*input_dir.glob(pattern), *input_dir.glob(f"page-*/{pattern}")]
 
-def merge_category(input_dir: Path, repo_root: Path, pattern: str, mode: str):
+def merge_category(input_dir: Path, repo_root: Path, pattern: str):
+    """Merge all JSON files matching pattern into one file in repo_root."""
     files = collect_files(input_dir, pattern)
     file_groups = {}
     for f in files:
@@ -47,29 +48,10 @@ def merge_category(input_dir: Path, repo_root: Path, pattern: str, mode: str):
             data_list = list(executor.map(load_json, paths))
             target_file = repo_root / Path(pattern).parent / name
 
-            if mode == "anime_data":
-                merged: dict = {}
-                for data in data_list:
-                    if isinstance(data, dict):
-                        merged = merge_dicts(merged, data)
-            elif mode == "api/thetvdb":
-                # Only last file counts
-                merged = data_list[-1] if data_list else []
-                if isinstance(merged, dict):
-                    merged = [merged]
-                elif not isinstance(merged, list):
-                    merged = []
-            elif mode == "api/myanimelist":
-                merged_dict = {}
-                for data in data_list:
-                    if isinstance(data, list):
-                        for entry in data:
-                            tvdb_id = entry.get("thetvdb")
-                            if tvdb_id:
-                                merged_dict[tvdb_id] = entry
-                merged = list(merged_dict.values())
-            else:
-                raise ValueError(f"Unknown mode: {mode}")
+            merged: dict = {}
+            for data in data_list:
+                if isinstance(data, dict):
+                    merged = merge_dicts(merged, data)
 
             save_json(target_file, merged)
 
@@ -80,11 +62,10 @@ def main():
     input_dir = args.input_dir
     repo_root = Path.cwd()
 
-    merge_category(input_dir, repo_root, "anime_data/*.json", "anime_data")
-    merge_category(input_dir, repo_root, "api/thetvdb/*.json", "api/thetvdb")
-    merge_category(input_dir, repo_root, "api/myanimelist/*.json", "api/myanimelist")
+    # Merge all anime_data JSON files
+    merge_category(input_dir, repo_root, "anime_data/*.json")
 
-    # root-level files
+    # Merge root-level mapping files
     for root_file in ["mapped-tvdb-ids.json", "unmapped-tvdb-ids.json"]:
         target_file = repo_root / root_file
         artifact_files = collect_files(input_dir, root_file)
