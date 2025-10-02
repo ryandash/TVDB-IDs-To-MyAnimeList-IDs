@@ -214,12 +214,14 @@ def get_cross_ids(mal_id: int, tvdb_id: str) -> dict | None:
 
 def get_mal_url(mal_id: int, episode_number: Union[int, None]) -> Optional[str]:
     """
-    Get a MAL URL. If episode_number is None, returns the anime's MAL page.
-    Otherwise returns the *base episode URL* (no number) so it can be reused.
+    Get a MAL URL.
+    - If episode_number is None, returns the anime's MAL page.
+    - Otherwise, returns the base episode URL (ending in /episode/) so you can append numbers.
     """
     if episode_number is None:
         return f"https://myanimelist.net/anime/{mal_id}"
 
+    print(f"https://api.jikan.moe/v4/anime/{mal_id}/episodes/{episode_number}")
     data = rate_limited_get(f"https://api.jikan.moe/v4/anime/{mal_id}/episodes/{episode_number}")
     if not data:
         return None
@@ -232,8 +234,9 @@ def get_mal_url(mal_id: int, episode_number: Union[int, None]) -> Optional[str]:
     if not full_url:
         return None
 
-    # Strip trailing episode number so we can reuse
-    return full_url.rsplit("/", 1)[0]
+    print (f"{full_url.rsplit("/", 1)[0]}/")
+    return f"{full_url.rsplit("/", 1)[0]}/"
+
 
 def load_mapped_lookup(mapped: list) -> dict[str, int | None]:
     lookup = {}
@@ -318,8 +321,8 @@ def map_anime():
         malurl = None
         mal_eps = 0
         seasons = series.get("Seasons") or {}
+        episode_offset = 0
         for season_num, season_data in tqdm(seasons.items(), desc=f"  {series_id} seasons", unit="season", leave=False):
-            episode_offset = 0
             season_id = season_data.get("ID")
             episodes = season_data.get("Episodes") or {}
             total_episodes = len(episodes)
@@ -403,7 +406,7 @@ def map_anime():
                                 mal_eps += 1
                                 malurl = get_mal_url(EpisodeMALID, episode_offset if Season0Mal else None)
                     if EpisodeMALID:
-                        record["myanimelist url"] = f"{malurl}/{episode_offset}"
+                        record["myanimelist url"] = f"{malurl}{episode_offset}"
                         cross_ids = get_cross_ids(EpisodeMALID, ep_id)
                         if cross_ids:
                             record.update(cross_ids)
@@ -437,7 +440,7 @@ def map_anime():
                     
                     episodeMALURL = None
                     if SeasonMalID:
-                        episodeMALURL = f"{malurl}/{episode_offset}"
+                        episodeMALURL = f"{malurl}{episode_offset}"
 
                     if episodeMALURL:
                         record["myanimelist url"] = episodeMALURL
