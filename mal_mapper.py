@@ -14,6 +14,7 @@ import random
 import re
 import time
 from pathlib import Path
+from typing import Optional, Union
 
 import httpx
 from rapidfuzz import fuzz
@@ -211,6 +212,20 @@ def get_cross_ids(mal_id: int, tvdb_id: str) -> dict | None:
     data["thetvdb"] = tvdb_id
     return dict(sorted(data.items()))
 
+def get_mal_url(mal_id: str, episode_number: Union[int, None]) -> Optional[str]:
+    if not episode_number:
+        return f"https://myanimelist.net/anime/{mal_id}"
+
+    data = rate_limited_get(f"https://api.jikan.moe/v4/anime/{mal_id}/episodes/{episode_number}")
+    if not data:
+        return None
+
+    episode_data = data.get("data")
+    if not episode_data:
+        return None
+
+    return episode_data.get("url")    
+
 def load_mapped_lookup(mapped: list) -> dict[str, int | None]:
     lookup = {}
     for entry in mapped:
@@ -271,7 +286,7 @@ def map_anime():
             if malid:
                 record = {
                     "tvdb url": f"https://www.thetvdb.com/dereferrer/series/{series_id}",
-                    "myanimelist url":f"https://myanimelist.net/anime/{malid}"
+                    "myanimelist url": get_mal_url(malid, None)
                 }
                 cross_ids = get_cross_ids(malid, series_id)
                 if cross_ids:
@@ -308,7 +323,7 @@ def map_anime():
                         mal_eps = get_mal_episode_count(SeasonMalID)
 
                     if SeasonMalID not in lookup:
-                        record = {"season": season_num, "tvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}", "myanimelist url": f"https://myanimelist.net/anime/{SeasonMalID}"}
+                        record = {"season": season_num, "tvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}", "myanimelist url": get_mal_url(SeasonMalID, None)}
                         cross_ids = get_cross_ids(SeasonMalID, season_id)
                         if cross_ids:
                             record.update(cross_ids)
@@ -368,16 +383,14 @@ def map_anime():
                                 mal_eps = 0  # treat as unlimited
                                 episode_offset = 1
                                 Season0Mal = EpisodeMALID
+
                             elif mal_eps > 1:
                                 # Finished or known episode count
                                 episode_offset = 1
                                 Season0Mal = EpisodeMALID
                                 mal_eps += 1
                     if EpisodeMALID:
-                        if Season0Mal:
-                            record["myanimelist url"] = f"https://myanimelist.net/anime/{EpisodeMALID}/episodes/{episode_offset}"
-                        else:
-                            record["myanimelist url"] = f"https://myanimelist.net/anime/{EpisodeMALID}"
+                        record["myanimelist url"] = get_mal_url(EpisodeMALID, episode_offset if Season0Mal else None)
                         cross_ids = get_cross_ids(EpisodeMALID, ep_id)
                         if cross_ids:
                             record.update(cross_ids)
@@ -410,9 +423,8 @@ def map_anime():
                     
                     episodeMALURL = None
                     if SeasonMalID:
-                        base = f"https://myanimelist.net/anime/{SeasonMalID}"
-                        episodeMALURL = base if total_episodes == 1 else f"{base}/episodes/{episode_offset}"
-                    
+                        episodeMALURL = get_mal_url(SeasonMalID, None if total_episodes == 1 else episode_offset)
+
                     if episodeMALURL:
                         record["myanimelist url"] = episodeMALURL
                         record["thetvdb"] = ep_id
