@@ -27,6 +27,7 @@ jobs:
     name: Determine Total Pages
     runs-on: ubuntu-latest
     outputs:
+      total: ${{ steps.set_pages.outputs.total }}
       pages: ${{ steps.generate_pages.outputs.pages }}
     steps:
       - name: Checkout Repository
@@ -60,7 +61,7 @@ jobs:
             total=$(python get_total_pages.py | grep -oP '\d+')
             echo "Detected: $total pages"
           fi
-          
+
           if [ -z "$total" ]; then
             echo "Error: total pages could not be determined!"
             exit 1
@@ -160,8 +161,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          pages='${{ needs.determine_total_pages.outputs.pages }}'
-          for page in $(echo $pages | jq -r '.[]'); do
+          pages='${{ needs.determine_total_pages.outputs.total }}'
+          for page in $(seq 1 $total); do
             for i in {1..3}; do
               gh run download-artifact page-$page --dir artifacts/page-$page && break
               echo "Retry $i for page-$page"
