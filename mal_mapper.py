@@ -315,6 +315,7 @@ def map_anime():
 
         # Initialize episode tracking
         SeasonMalID = malid
+        malurl = None
         mal_eps = 0
         seasons = series.get("Seasons") or {}
         for season_num, season_data in tqdm(seasons.items(), desc=f"  {series_id} seasons", unit="season", leave=False):
@@ -322,8 +323,7 @@ def map_anime():
             season_id = season_data.get("ID")
             episodes = season_data.get("Episodes") or {}
             total_episodes = len(episodes)
-            malurl = None
-
+            
             if season_id in lookup:
                 SeasonMalID = lookup[season_id]
             else:
