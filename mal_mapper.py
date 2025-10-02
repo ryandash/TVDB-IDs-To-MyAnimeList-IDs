@@ -254,21 +254,19 @@ def map_anime():
         if series_id in lookup:
             malid = lookup[series_id]
         else:
-            # Try main title first
-            if series_title:
-                mid, titles = get_best_mal_id(series_title, None, False)
-                all_titles.extend(titles)
-                if mid:
-                    malid = mid
-
-            # Try aliases if main title failed
-            if not malid:
-                for alias in series_aliases:
-                    mid, titles = get_best_mal_id(alias, None, False)
+            for anime_type in ["tv", "ona", "ova"]:
+                if malid:
+                    break
+                titles_to_try = [series_title] + series_aliases
+                # Try main title first
+                for title in filter(None, titles_to_try):
+                    mid, titles = get_best_mal_id(title, anime_type, False)
                     all_titles.extend(titles)
                     if mid:
                         malid = mid
                         break
+            
+            all_titles = list(dict.fromkeys(all_titles))
             
             if malid:
                 record = {
