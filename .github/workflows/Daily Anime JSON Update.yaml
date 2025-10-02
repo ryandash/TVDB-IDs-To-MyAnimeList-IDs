@@ -166,13 +166,17 @@ jobs:
           total=${TOTAL_PAGES:-1}
           echo "Total pages to download: $total"
 
-          for page in $(seq 1 $total); do
-            for i in {1..3}; do
-              gh run download $run_id --name page-$page --dir artifacts/page-$page && break
-              echo "Retry $i for page-$page"
-              sleep 5
-            done
-          done
+          run_id=${{ github.run_id }}
+          echo "Downloading all artifacts from run $run_id"
+          gh run download $run_id --dir artifacts --name "page-*"
+
+          # for page in $(seq 1 $total); do
+          #   for i in {1..3}; do
+          #     gh run download $run_id --name page-$page --dir artifacts/page-$page && break
+          #     echo "Retry $i for page-$page"
+          #     sleep 5
+          #   done
+          # done
 
       - name: Merge JSON files
         run: python merge_files.py --input-dir artifacts
