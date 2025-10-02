@@ -1,0 +1,917 @@
+{
+  "URL": "https://www.thetvdb.com/series/golden-kamuy",
+  "Genres": [
+    "Adaptation",
+    "Anime - Seinen"
+  ],
+  "Other Sites": [
+    "https://ui.eidr.org/view/content?id=10.5240/F597-A1B0-1D2B-F31A-9597-6",
+    "https://www.imdb.com/title/tt8225204/",
+    "https://kamuy-anime.com/",
+    "http://www.reddit.com/r/GoldenKamuy",
+    "https://www.tvmaze.com/shows/35212/show-slug",
+    "https://www.themoviedb.org/tv/76757",
+    "https://www.wikidata.org/wiki/Q63441927",
+    "https://en.wikipedia.org/wiki/Golden_Kamuy#Anime",
+    "https://x.com/kamuy_anime"
+  ],
+  "TitleEnglish": "Golden Kamuy",
+  "SummaryEnglish": "A Russo-Japanese War veteran partners with an Ainu girl to find a treasure stolen from her people, but they’re not the only ones pursuing the gold.",
+  "Aliases": [
+    "Golden Kamui"
+  ],
+  "Modified": "2025-09-20",
+  "Seasons": {
+    "0": {
+      "ID": "739522",
+      "URL": "https://www.thetvdb.com/series/golden-kamuy/seasons/official/0",
+      "# Episodes": 58,
+      "Episodes": {
+        "1": {
+          "ID": "6983217",
+          "TYPE": "OVAs",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6983217",
+          "TitleEnglish": "The Barato Bodyguards",
+          "SummaryEnglish": "Bundled with the 15th volume of the Golden Kamuy manga. The Hidoro gang, which previously controlled the town of Barato, have been wracked by infighting after being split by the ambitious Umakichi. After Hijikata and Ogata separately learn the gang has a tattooed skin, Hijikata joins the Hidoro gang, while Ogata joins the Umakichi gang.",
+          "Aliases": []
+        },
+        "2": {
+          "ID": "7226529",
+          "TYPE": "OVAs",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/7226529",
+          "TitleEnglish": "I Fell in Love, and That's Why I Decided to Escape",
+          "SummaryEnglish": "Shiraishi tells of his friendship with master forger Kumagishi Chouan and his escape from Kabato prison.",
+          "Aliases": []
+        },
+        "3": {
+          "ID": "7268946",
+          "TYPE": "OVAs",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/7268946",
+          "TitleEnglish": "Monster",
+          "SummaryEnglish": "Bundled with the nineteenth volume of the Golden Kamuy manga.",
+          "Aliases": []
+        },
+        "4": {
+          "ID": "7985401",
+          "TYPE": "OVAs",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/7985401",
+          "TitleEnglish": "Shiton’s Animal Chronicles",
+          "SummaryEnglish": "This OVA covers chapters 108-113 of the manga.",
+          "Aliases": []
+        },
+        "5": {
+          "ID": "8766941",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/8766941",
+          "TitleEnglish": "Golden Travelogue Theater #1 - Squirrel Episode",
+          "SummaryEnglish": "Asirpa is introduced and Sugimoto eat the squirrels she has caught in the Ainu style, finely diced and raw (titatupa).",
+          "Aliases": []
+        },
+        "6": {
+          "ID": "8766942",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/8766942",
+          "TitleEnglish": "Golden Travelogue Theater #2 - Rabbit Episode",
+          "SummaryEnglish": "Asirpa and Sugimoto eat the rabbit she has caught.",
+          "Aliases": []
+        },
+        "7": {
+          "ID": "8766943",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/8766943",
+          "TitleEnglish": "Golden Travelogue Theater #3 - Otter",
+          "SummaryEnglish": "Asirpa hunts an otter, and she offers Sugimoto the stewed head.",
+          "Aliases": []
+        },
+        "8": {
+          "ID": "8766944",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/8766944",
+          "TitleEnglish": "Golden Travelogue Theater #4 - Whac-A-Shiraishi Episode",
+          "SummaryEnglish": "Asirpa dreams she is playing a whac-a-mole game with Shiraishi's head popping up out of the snow.",
+          "Aliases": []
+        },
+        "9": {
+          "ID": "8766946",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/8766946",
+          "TitleEnglish": "Golden Travelogue Theater #5",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "10": {
+          "ID": "8766947",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/8766947",
+          "TitleEnglish": "Golden Travelogue Theater #6",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "11": {
+          "ID": "8766948",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/8766948",
+          "TitleEnglish": "Golden Travelogue Theater #7",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "12": {
+          "ID": "8766949",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/8766949",
+          "TitleEnglish": "Golden Travelogue Theater #8",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "13": {
+          "ID": "8766950",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/8766950",
+          "TitleEnglish": "Golden Travelogue Theater #9",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "14": {
+          "ID": "8766951",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/8766951",
+          "TitleEnglish": "Golden Travelogue Theater #10",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "15": {
+          "ID": "8766952",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/8766952",
+          "TitleEnglish": "Golden Travelogue Theater #11",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "16": {
+          "ID": "8766953",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/8766953",
+          "TitleEnglish": "Golden Travelogue Theater #12",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "17": {
+          "ID": "8766954",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/8766954",
+          "TitleEnglish": "Golden Travelogue Theater #13: Watching...",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "18": {
+          "ID": "8766955",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/8766955",
+          "TitleEnglish": "Golden Travelogue Theater #14: Excerpt from Edogai-kun`s \"Fake Skin\" Production Diary",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "19": {
+          "ID": "8766956",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/8766956",
+          "TitleEnglish": "Golden Travelogue Theater #15: Eurasian Woodcock's Love Fortune-telling",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "20": {
+          "ID": "8766957",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/8766957",
+          "TitleEnglish": "Golden Travelogue Theater #16: Wait, Shiraishi",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "21": {
+          "ID": "8766958",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/8766958",
+          "TitleEnglish": "Golden Travelogue Theater #17: Screech",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "22": {
+          "ID": "8766959",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/8766959",
+          "TitleEnglish": "Golden Travelogue Theater #18: Seypirakka",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "23": {
+          "ID": "8766960",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/8766960",
+          "TitleEnglish": "Golden Travelogue Theater #19: Ezo Pika",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "24": {
+          "ID": "8766961",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/8766961",
+          "TitleEnglish": "Golden Travelogue Theater #20: The Heart of a Kushiro Matagi Traveler",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "25": {
+          "ID": "8766962",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/8766962",
+          "TitleEnglish": "Golden Travelogue Theater #21: Can You Say It Properly?",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "26": {
+          "ID": "8766963",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/8766963",
+          "TitleEnglish": "Golden Travelogue Theater #22: Pew",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "27": {
+          "ID": "8766964",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/8766964",
+          "TitleEnglish": "Golden Travelogue Theater #23: The Two Little Moles",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "28": {
+          "ID": "9001789",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9001789",
+          "TitleEnglish": "Golden Travelogue Theater #24",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "29": {
+          "ID": "9001790",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9001790",
+          "TitleEnglish": "Golden Travelogue Theater #25",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "30": {
+          "ID": "9001791",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9001791",
+          "TitleEnglish": "Golden Travelogue Theater #26",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "31": {
+          "ID": "9001792",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9001792",
+          "TitleEnglish": "Golden Travelogue Theater #27",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "32": {
+          "ID": "9001793",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9001793",
+          "TitleEnglish": "Golden Travelogue Theater #28",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "33": {
+          "ID": "9001794",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9001794",
+          "TitleEnglish": "Golden Travelogue Theater #29",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "34": {
+          "ID": "9001795",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9001795",
+          "TitleEnglish": "Golden Travelogue Theater #30",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "35": {
+          "ID": "9001796",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9001796",
+          "TitleEnglish": "Golden Travelogue Theater #31",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "36": {
+          "ID": "9001797",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9001797",
+          "TitleEnglish": "Golden Travelogue Theater #32",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "37": {
+          "ID": "9001798",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9001798",
+          "TitleEnglish": "Golden Travelogue Theater #33",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "38": {
+          "ID": "9001799",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9001799",
+          "TitleEnglish": "Golden Travelogue Theater #34",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "39": {
+          "ID": "9001800",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9001800",
+          "TitleEnglish": "Golden Travelogue Theater #35",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "40": {
+          "ID": "9001801",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9001801",
+          "TitleEnglish": "Golden Travelogue Theater #36",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "41": {
+          "ID": "9001802",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9001802",
+          "TitleEnglish": "Golden Travelogue Theater #37",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "42": {
+          "ID": "11205249",
+          "TYPE": "OVAs",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/11205249",
+          "TitleEnglish": "Tokushirō Tsurumi's Aspiration",
+          "SummaryEnglish": "Adaptation of the popular manga chapter \"Inazuma Gōtō to Mamushi no O-Gin\" (\"The Lightning Thief and Viper Ogin\") and the mini episode \"Shimaenaga\" (The Hokkaido Long-Tailed Snow Bird).",
+          "Aliases": []
+        },
+        "43": {
+          "ID": "11333634",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/11333634",
+          "TitleEnglish": "ゴールデン道画劇場 せーのっ！編",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "44": {
+          "ID": "11333635",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/11333635",
+          "TitleEnglish": "ゴールデン道画劇場 湖の中で突っ走る編",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "45": {
+          "ID": "11333636",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/11333636",
+          "TitleEnglish": "ゴールデン道画劇場 MayuでUkaする5秒前ッ！編",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "46": {
+          "ID": "11333637",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/11333637",
+          "TitleEnglish": "ゴールデン道画劇場 君の玉。編",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "47": {
+          "ID": "11333638",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/11333638",
+          "TitleEnglish": "ゴールデン道画劇場 流氷の天使編",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "48": {
+          "ID": "11333639",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/11333639",
+          "TitleEnglish": "ゴールデン道画劇場 お婆ちゃんの口噛み団子編",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "49": {
+          "ID": "11333640",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/11333640",
+          "TitleEnglish": "ゴールデン道画劇場 世界は広い！！編",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "50": {
+          "ID": "11333641",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/11333641",
+          "TitleEnglish": "ゴールデン道画劇場 〈世界迷作劇場『ゴールデンカムイ』より〉アシㇼパの天使編",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "51": {
+          "ID": "11333642",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/11333642",
+          "TitleEnglish": "ゴールデン道画劇場 ヒグマ男がやってくる編",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "52": {
+          "ID": "11333643",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/11333643",
+          "TitleEnglish": "ゴールデン道画劇場 レタッチㇼ編",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "53": {
+          "ID": "11333644",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/11333644",
+          "TitleEnglish": "ゴールデン道画劇場 今日の運勢編",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "54": {
+          "ID": "11333645",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/11333645",
+          "TitleEnglish": "ゴールデン道画劇場 二階堂元気になる編",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "55": {
+          "ID": "11333646",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/11333646",
+          "TitleEnglish": "ゴールデン道画劇場 フクジュソウ編",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "56": {
+          "ID": "11333647",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/11333647",
+          "TitleEnglish": "ゴールデン道画劇場 撃ちてし止まむ！編",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "57": {
+          "ID": "11333648",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/11333648",
+          "TitleEnglish": "ゴールデン道画劇場 メンコ編",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "58": {
+          "ID": "11333649",
+          "TYPE": "Webisodes and Shorts",
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/11333649",
+          "TitleEnglish": "ゴールデン道画劇場 レタッチㇼ編②",
+          "SummaryEnglish": null,
+          "Aliases": []
+        }
+      }
+    },
+    "1": {
+      "ID": "755554",
+      "URL": "https://www.thetvdb.com/series/golden-kamuy/seasons/official/1",
+      "# Episodes": 12,
+      "Episodes": {
+        "1": {
+          "ID": "6593128",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6593128",
+          "TitleEnglish": "Wenkamuy",
+          "SummaryEnglish": "Sugimoto Saichi, called \"Immortal Saichi\" for his incredible powers of survival, is panning for gold in the far north when he hears a story about buried treasure, hidden by a death row inmate. He decides to go after the treasure, but it will be a journey far longer and far more dangerous than he'd ever imagined...",
+          "Aliases": []
+        },
+        "2": {
+          "ID": "6614951",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6614951",
+          "TitleEnglish": "Nopperabo",
+          "SummaryEnglish": "Saichi and Asirpa head to Otaru, the largest town in the area, in seach of the tattooed prisoners. They quickly find out that they're not the only ones after the treasure. The army is looking for it too! Saichi has to face off against a deadly sniper, and a horrible cold front is setting in too...",
+          "Aliases": []
+        },
+        "3": {
+          "ID": "6614952",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6614952",
+          "TitleEnglish": "Kamuy Mosir",
+          "SummaryEnglish": "Asirpa takes Sugimoto through the Hokkaido forests, where they encounter a bear in its den. Sugimoto is impressed by Asirpa's knowledge of the land. Meanwhile, another, older force is after the gold..",
+          "Aliases": []
+        },
+        "4": {
+          "ID": "6614953",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6614953",
+          "TitleEnglish": "Grim Reaper",
+          "SummaryEnglish": "Sugimoto visits an Ainu village where he learns about their ways and culture. The next day he leaves in secret, where he is captured by the 7th and tortured.",
+          "Aliases": []
+        },
+        "5": {
+          "ID": "6614954",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6614954",
+          "TitleEnglish": "Race",
+          "SummaryEnglish": "With the help of Shiraishi, Asirpa goes to rescue Sugimoto from the 7th. But the situation is dire, and Sugimoto has already been badly injured...",
+          "Aliases": []
+        },
+        "6": {
+          "ID": "6614955",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6614955",
+          "TitleEnglish": "Hunter's Soul",
+          "SummaryEnglish": "Two hunters are after Retar, the last of the Ezo wolves, and the last living wolf in Japan. Both of these hunters have tattoos, and Sugimoto wants them for himself. It's a battle between hunters and prey in the snowy mountains of Hokkaido!",
+          "Aliases": []
+        },
+        "7": {
+          "ID": "6614956",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6614956",
+          "TitleEnglish": "Complication",
+          "SummaryEnglish": "During the battle with the hunters, Sugimoto is separated from Asirpa. Nihei abandons the wounded Tanigaki and tries to use Asirpa as bait to lure Retar. But just when Nihei thinks he's won the battle, another wolf appears and rips open his neck!",
+          "Aliases": []
+        },
+        "8": {
+          "ID": "6614957",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6614957",
+          "TitleEnglish": "Eyes of a Murderer",
+          "SummaryEnglish": "Shiraishi is chased all across the city by Ushiyama, and only escapes his predicament by getting the 7th involved. During the chaos, Hijikata's forces launch a raid on a local bank, blasting open a wall to get back his legendary sword.",
+          "Aliases": []
+        },
+        "9": {
+          "ID": "6614958",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6614958",
+          "TitleEnglish": "Gleaming",
+          "SummaryEnglish": "Sugimoto's crew follows rumors of a tattooed prisoner among the herring fishermen on the coast near Otaru. There they encounter Henmi, a strange, perverted serial killer. The fight between him and the gang develops into a deadly seaborne battle involving a killer whale!",
+          "Aliases": []
+        },
+        "10": {
+          "ID": "6614959",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6614959",
+          "TitleEnglish": "Fellow Traveler",
+          "SummaryEnglish": "Tanigaki is now staying in Asirpa's village, trying his best to recover and help the people who have been aiding him. But a faction of the 7th wants to split off from the Lieutenant, and they have plans for him...",
+          "Aliases": []
+        },
+        "11": {
+          "ID": "6614960",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6614960",
+          "TitleEnglish": "Everybody, Get Together! It's a Murder Hotel!",
+          "SummaryEnglish": "The gang stays in a strange hotel, run by a former prisoner. This hotel has a dark secret, but even its wicked owner quickly finds herself overwhelmed when both Sugimoto's group and Ushiyama book rooms, and both Shiraishi and Ushiyama want to sleep with her!",
+          "Aliases": []
+        },
+        "12": {
+          "ID": "6614961",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6614961",
+          "TitleEnglish": "Trickster Fox",
+          "SummaryEnglish": "The gang leaves Sapporo and visits a village where a relative of Asirpa lives. There they meet a strange fortune teller, who seems to know something about them, and about their futures...",
+          "Aliases": []
+        }
+      }
+    },
+    "2": {
+      "ID": "769720",
+      "URL": "https://www.thetvdb.com/series/golden-kamuy/seasons/official/2",
+      "# Episodes": 12,
+      "Episodes": {
+        "1": {
+          "ID": "6739405",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6739405",
+          "TitleEnglish": "Edogai-kun",
+          "SummaryEnglish": "Lt. Tsurumi visits Edogai, a taxidermist, in the town of Yuubari. He has a new plan to bring chaos to the war for the tattoo code: he's going to create fake skins that only he can detect.",
+          "Aliases": []
+        },
+        "2": {
+          "ID": "6827329",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6827329",
+          "TitleEnglish": "Fakes",
+          "SummaryEnglish": "Edogai succeeds in creating 6 sets of fake skins when his workshop comes under assault. He flees with Sergeant Tsukishima into the local mines, pursued by Ogata and Sugimoto.",
+          "Aliases": []
+        },
+        "3": {
+          "ID": "6827330",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6827330",
+          "TitleEnglish": "Let's Talk About the Past",
+          "SummaryEnglish": "Hijikata, who is now temporarily allied with Sugimoto, stays behind in Yuubari to try and find clues to the fake skins. Edogai's workshop is surrounded by members of the 7th division, and they're forced to fight their way out.",
+          "Aliases": []
+        },
+        "4": {
+          "ID": "6827331",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6827331",
+          "TitleEnglish": "The Great Plan to Infiltrate the Asahikawa 7th Division!!",
+          "SummaryEnglish": "The team is on a mission to rescue Shiraishi, who's been kidnapped by the 7th. But he's in the middle of a massive garrison, surrounded by hundreds of troops. How can they possibly sneak in...?",
+          "Aliases": []
+        },
+        "5": {
+          "ID": "6827332",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6827332",
+          "TitleEnglish": "Inside the Belly",
+          "SummaryEnglish": "Suzukawa heads into the 7th's garrison to rescue Shiraishi. When the mission goes wrong it's up to Sugimoto to get them out.",
+          "Aliases": []
+        },
+        "6": {
+          "ID": "6827333",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6827333",
+          "TitleEnglish": "Ani Nekko",
+          "SummaryEnglish": "Tanigaki remembers his past as a matagi, and the story of how he came to join the 7th Divison and work for Lt. Tsurumi.",
+          "Aliases": []
+        },
+        "7": {
+          "ID": "6827334",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6827334",
+          "TitleEnglish": "Kamuy Hopunire",
+          "SummaryEnglish": "The group meets up with Tanigaki and stop at an Ainu Kotan. Private Koito returns to Lt. Tsurumi and reports on their whereabouts.",
+          "Aliases": []
+        },
+        "8": {
+          "ID": "6827335",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6827335",
+          "TitleEnglish": "Blue Eyes",
+          "SummaryEnglish": "The group is attacked by a huge horde of locusts and split. Asirpa and Inkarmat flee to the water, where Inkarmat tells Asirpa a terrible secret.",
+          "Aliases": []
+        },
+        "9": {
+          "ID": "6827336",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6827336",
+          "TitleEnglish": "The Sound of an Ambush",
+          "SummaryEnglish": "After visiting a hot springs, the group is ambushed by a gang of blind thieves. In the darkness, the thieves, who navigate by sound, have a tremendous advantage, and the group is in deadly peril.",
+          "Aliases": []
+        },
+        "10": {
+          "ID": "6827337",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6827337",
+          "TitleEnglish": "On the Night of the New Moon",
+          "SummaryEnglish": "At last the group makes it to Abashiri. After everything that's happened so far, it's time for them to go inside and meet No-Face..",
+          "Aliases": []
+        },
+        "11": {
+          "ID": "6827338",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6827338",
+          "TitleEnglish": "Overwhelmed",
+          "SummaryEnglish": "Chaos has broken loose at Abashiri. The 7th Division is shelling the prison. The prisoners are loose. Sugimoto is trapped inside. Can they find No-Face in the chaos?",
+          "Aliases": []
+        },
+        "12": {
+          "ID": "6827339",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/6827339",
+          "TitleEnglish": "Call Out",
+          "SummaryEnglish": "At last, No-Face has been found. But will he survive long enough to tell them where the gold is? And what about the traitor who's lurking in the background, waiting for the right moment to strike?",
+          "Aliases": []
+        }
+      }
+    },
+    "3": {
+      "ID": "819168",
+      "URL": "https://www.thetvdb.com/series/golden-kamuy/seasons/official/3",
+      "# Episodes": 12,
+      "Episodes": {
+        "1": {
+          "ID": "7290787",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/7290787",
+          "TitleEnglish": "To Karafuto",
+          "SummaryEnglish": "Sugimoto was separated from Asirpa after the incident at the prison. Now, he's tracked her down to Karafuto, a place even further north and colder than Hokkaido.",
+          "Aliases": []
+        },
+        "2": {
+          "ID": "7981971",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/7981971",
+          "TitleEnglish": "Stenka",
+          "SummaryEnglish": "Sugimoto and the 7th engage in a traditional Russian combat sport to track down one of the tattoed prisoners.",
+          "Aliases": []
+        },
+        "3": {
+          "ID": "7981974",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/7981974",
+          "TitleEnglish": "Igogusa",
+          "SummaryEnglish": "As his group tracks Kiroranke and Asirpa in the frozen north, Tsukishima reflects how he began to be involved with the 7th Division.",
+          "Aliases": []
+        },
+        "4": {
+          "ID": "7981975",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/7981975",
+          "TitleEnglish": "The Immortal Sugimoto Harakiri Show",
+          "SummaryEnglish": "Sugimoto joins a group of traveling performers in hopes it will lead him to Asirpa.",
+          "Aliases": []
+        },
+        "5": {
+          "ID": "7981976",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/7981976",
+          "TitleEnglish": "The Border",
+          "SummaryEnglish": "As they cross the borders into Russia, Kiroranke's group finds that there's more waiting for them than they expected.",
+          "Aliases": []
+        },
+        "6": {
+          "ID": "7981979",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/7981979",
+          "TitleEnglish": "Bad Sign",
+          "SummaryEnglish": "After a brutal sniper battle, Ogata is badly ill. As he recovers, he reflects on his past, and what he did to make himself the man he is today.",
+          "Aliases": []
+        },
+        "7": {
+          "ID": "7981980",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/7981980",
+          "TitleEnglish": "Meko Oyasi",
+          "SummaryEnglish": "Sugimoto's group is separated during a nasty blizzard. One party safely makes it to a nearby lighthouse, but another is forced to camp in the middle of the snow. They make a bed under the dogs to keep warm, but...",
+          "Aliases": []
+        },
+        "8": {
+          "ID": "7981982",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/7981982",
+          "TitleEnglish": "Manslayer",
+          "SummaryEnglish": "Hijikata tracks down one of the tattoos to an isolated fishing port in Hokkaido. Its bearer is Yoichiro the Manslayer, a legendary assassin from the last days of the shogunate.",
+          "Aliases": []
+        },
+        "9": {
+          "ID": "7981983",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/7981983",
+          "TitleEnglish": "Revolutionary",
+          "SummaryEnglish": "Before Kiroranke came to Japan, he was a Russian revolutionary. One day, he and Wilk went to the house of a Japanese cameraman, where they began to study the Japanese language. But more was going on than meets the eye...",
+          "Aliases": []
+        },
+        "10": {
+          "ID": "7981986",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/7981986",
+          "TitleEnglish": "Catching Up to the Wolf",
+          "SummaryEnglish": "The time has come to break Sophia out of prison. In doing so, Asirpa remembers a critical key to the whereabouts of the gold...",
+          "Aliases": []
+        },
+        "11": {
+          "ID": "7981988",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/7981988",
+          "TitleEnglish": "Sin and Impurity",
+          "SummaryEnglish": "Asirpa, Shiraishi, and Sugimoto are finally reunited in the frozen North.",
+          "Aliases": []
+        },
+        "12": {
+          "ID": "7981991",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/7981991",
+          "TitleEnglish": "To Live",
+          "SummaryEnglish": "At long last, Sugimoto, Shiraishi, and Asirpa are reunited, as this chapter in the war for the Ainu gold comes to a close...",
+          "Aliases": []
+        }
+      }
+    },
+    "4": {
+      "ID": "1970400",
+      "URL": "https://www.thetvdb.com/series/golden-kamuy/seasons/official/4",
+      "# Episodes": 13,
+      "Episodes": {
+        "1": {
+          "ID": "8872874",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/8872874",
+          "TitleEnglish": "Rushin' Outta Russia",
+          "SummaryEnglish": "As Sugimoto and the members of the 7th Division head back into Japanese territory, they're attacked by a sniper.",
+          "Aliases": []
+        },
+        "2": {
+          "ID": "9380620",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9380620",
+          "TitleEnglish": "Cocoon",
+          "SummaryEnglish": "Kadokura challenges Sekiya, one of the tattooed prisoners, to a deadly game in order to save the life of Hijikata.",
+          "Aliases": []
+        },
+        "3": {
+          "ID": "9380621",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9380621",
+          "TitleEnglish": "The Smell of Sulfur",
+          "SummaryEnglish": "The members of the 7th hunt a strange man at the Noboribetsu hot springs.",
+          "Aliases": []
+        },
+        "4": {
+          "ID": "9380622",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9380622",
+          "TitleEnglish": "Spoiled Rich Kid",
+          "SummaryEnglish": "When Koito was fourteen years old, he had a chance encounter with Lieutenant Tsurumi. When he was sixteen years old, he was kidnapped by men who spoke Russian, and only Lieutenant Tsurumi could save him.",
+          "Aliases": []
+        },
+        "5": {
+          "ID": "9380623",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9380623",
+          "TitleEnglish": "Cinematograph",
+          "SummaryEnglish": "Asirpa looks for a way to pass down Ainu culture to later generations.",
+          "Aliases": []
+        },
+        "6": {
+          "ID": "9380624",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9380624",
+          "TitleEnglish": "Sweet Lies",
+          "SummaryEnglish": "Sugimoto and Asirpa prepare to meet the main unit of the 7th Division.",
+          "Aliases": []
+        },
+        "7": {
+          "ID": "9380625",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9380625",
+          "TitleEnglish": "Fleeing Karafuto",
+          "SummaryEnglish": "Asirpa comes face to face with the 7th Division, and doesn't like what she sees.",
+          "Aliases": []
+        },
+        "8": {
+          "ID": "9380626",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9380626",
+          "TitleEnglish": "Brown Bear Man",
+          "SummaryEnglish": "The crew meets a very unusual character in the Hokkaido woods, who says he's being stalked by a bear.",
+          "Aliases": []
+        },
+        "9": {
+          "ID": "9380627",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9380627",
+          "TitleEnglish": "Partner in Crime",
+          "SummaryEnglish": "Shiraishi comes up with a new way to find the gold while the 7th Division goes after a serial killer in Sapporo.",
+          "Aliases": []
+        },
+        "10": {
+          "ID": "9380628",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9380628",
+          "TitleEnglish": "Perfect Mother",
+          "SummaryEnglish": "Tanigaki goes after Inkarmat, who is pregnant with his child and being held by the 7th Division.",
+          "Aliases": []
+        },
+        "11": {
+          "ID": "9380631",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9380631",
+          "TitleEnglish": "Steamship",
+          "SummaryEnglish": "The steamship that Sugimoto's party is riding on is attacked by Botaro the pirate.",
+          "Aliases": []
+        },
+        "12": {
+          "ID": "9380633",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9380633",
+          "TitleEnglish": "Discharge",
+          "SummaryEnglish": "Usami and Kikuta search out a bizarre serial killer in Sapporo while Sugimoto fights a desperate underwater battle.",
+          "Aliases": []
+        },
+        "13": {
+          "ID": "9381234",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/golden-kamuy/episodes/9381234",
+          "TitleEnglish": "The Vanished Kamuy",
+          "SummaryEnglish": "Usami and Kikuta remain on the hunt for the killer as Botaro tries to unravel the mystery of Asirpa and Sugimoto's relationship.",
+          "Aliases": []
+        }
+      }
+    }
+  }
+}
