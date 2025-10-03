@@ -243,12 +243,9 @@ def load_mapped_lookup(mapped: list) -> dict[str, int | None]:
         tvdb_id = str(entry.get("thetvdb"))
         if not tvdb_id:
             continue
-        mal_url = entry.get("myanimelist url")
         mal_id = entry.get("myanimelist")
         if mal_id:
             lookup[tvdb_id] = int(mal_id)
-        elif mal_url:
-            lookup[tvdb_id] = int(mal_url.split("/anime/")[1].split("/")[0])
         else:
             lookup[tvdb_id] = None
     return lookup
