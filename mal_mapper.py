@@ -162,7 +162,6 @@ def get_best_mal_id(search_term: str, anime_type: str, isSeason0: bool) -> tuple
     if best_match[0] is not None:
         return best_match[0], []
 
-    print(f"Failed to find MAL ID for {normalized_search}")
     return None, all_titles_seen
 
 
@@ -199,6 +198,7 @@ def get_mal_relations(mal_id: int, offset_eps: int, visited = None) -> int | Non
     mal_eps = get_mal_episode_count(sequel_id)
     if not mal_eps:
         return None
+    print(f"New mal id {sequel_id} mal_eps: {mal_eps} offset_eps: {offset_eps}")
     if mal_eps < offset_eps and mal_eps == 1:
         return get_mal_relations(sequel_id, offset_eps, visited)
     return sequel_id
@@ -233,7 +233,8 @@ def get_mal_url(mal_id: int, episode_number: Union[int, None]) -> Optional[str]:
     if not full_url:
         return None
 
-    return f"{full_url.rsplit("/", 1)[0]}/"
+    base_url = full_url.rsplit("/", 1)[0]
+    return f"{base_url}/"
 
 
 def load_mapped_lookup(mapped: list) -> dict[str, int | None]:
@@ -334,6 +335,16 @@ def map_anime():
                         mal_eps = get_mal_episode_count(SeasonMalID)
                         malurl = get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
 
+                    if mal_eps and mal_eps == episode_offset:
+                        print("\nPerformed change in season check")
+                        SeasonMalID = get_mal_relations(SeasonMalID, total_episodes)
+                        if SeasonMalID:
+                            episode_offset = 0
+                            mal_eps = get_mal_episode_count(SeasonMalID)
+                            malurl = get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
+                        else:
+                            print("\nThis is a bug")
+                    
                     if SeasonMalID not in lookup:
                         record = {"season": season_num, "tvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}", "myanimelist url": get_mal_url(SeasonMalID, None)}
                         cross_ids = get_cross_ids(SeasonMalID, season_id)
@@ -368,7 +379,6 @@ def map_anime():
                     all_titles = None
                     if Season0Mal:
                         EpisodeMALID = Season0Mal
-                        print(f"\nUsing {EpisodeMALID} for {series_title} {ep_title}")
                     elif ep_title:
                         search_terms = [ep_title]
 
@@ -382,29 +392,28 @@ def map_anime():
                         for term in search_terms:
                             EpisodeMALID, all_titles = get_best_mal_id(term, anime_type, True)
                             if EpisodeMALID:
-                                print(f"\nMatched using search term: {term}")
                                 break
-
-                        if EpisodeMALID is None:
-                            print(f"\nFailed to get anime. Tried search terms: {search_terms}")
-                        else:
-                            mal_eps = get_mal_episode_count(EpisodeMALID)
-                            if mal_eps is None:
-                                # Series not finished → don’t reset Season0Mal, just reuse it
-                                print(f"\n{EpisodeMALID} has unknown episode count, continuing with Season0Mal")
-                                mal_eps = 0  # treat as unlimited
-                                episode_offset = 1
-                                Season0Mal = EpisodeMALID
-                                malurl = get_mal_url(EpisodeMALID, episode_offset if Season0Mal else None)
-
-                            elif mal_eps > 1:
-                                # Finished or known episode count
-                                episode_offset = 1
-                                Season0Mal = EpisodeMALID
-                                mal_eps += 1
-                                malurl = get_mal_url(EpisodeMALID, episode_offset if Season0Mal else None)
+                    
                     if EpisodeMALID:
-                        record["myanimelist url"] = f"{malurl}{episode_offset}"
+                        mal_eps = get_mal_episode_count(EpisodeMALID)
+                        if mal_eps is None:
+                            # Series not finished → don’t reset Season0Mal, just reuse it
+                            print(f"\n{EpisodeMALID} has unknown episode count, continuing with Season0Mal")
+                            mal_eps = 0  # treat as unlimited
+                            episode_offset = 1
+                            Season0Mal = EpisodeMALID
+
+                        elif mal_eps > 1:
+                            # Finished or known episode count
+                            episode_offset = 1
+                            Season0Mal = EpisodeMALID
+                            mal_eps += 1
+                        
+                        if Season0Mal:
+                            record["myanimelist url"] = f"{get_mal_url(EpisodeMALID, episode_offset)}{episode_offset}" 
+                        else:
+                            record["myanimelist url"] = f"{get_mal_url(EpisodeMALID, None)}"
+
                         cross_ids = get_cross_ids(EpisodeMALID, ep_id)
                         if cross_ids:
                             record.update(cross_ids)
@@ -430,11 +439,14 @@ def map_anime():
                     # Regular episodes
                     episode_offset += 1
                     if mal_eps and mal_eps < episode_offset:
+                        print("\nPerformed change in episode check")
                         SeasonMalID = get_mal_relations(SeasonMalID, total_episodes - episode_offset + 1)
                         if SeasonMalID:
                             mal_eps = get_mal_episode_count(SeasonMalID)
                             episode_offset = 1
                             malurl = get_mal_url(SeasonMalID, None if total_episodes == 1 else episode_offset)
+                        else:
+                            print("\nThis is a bug :/")
                     
                     episodeMALURL = None
                     if SeasonMalID:
