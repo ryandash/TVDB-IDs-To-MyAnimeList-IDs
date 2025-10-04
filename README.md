@@ -17,5 +17,5 @@ Will not support TheTVDB.com List IDs or any other IDs really
 ### TVDB → MAL Mapping Stats
 
 - ✅ Mapped IDs: **111907**
-- ❌ Unmapped IDs: **6365**
+- ❌ Unmapped IDs: **6366**
 <!---counts-end--->
