@@ -11,7 +11,7 @@ https://ryandash.github.io/MyAnimeList-IDs-To-TVDB-IDs/api/thetvdb/{thetvdb-id}.
 Example: https://ryandash.github.io/MyAnimeList-IDs-To-TVDB-IDs/api/thetvdb/361957.json
 
 Does not support TheTVDB.com Movie IDs currently WIP. Only supports Series, Season, and Episode currently.
-Will not support TheTVDB.com List IDs
+Will not support TheTVDB.com List IDs or any other IDs really
 
 <!---counts-start--->
 ### TVDB → MAL Mapping Stats
