@@ -9,6 +9,6 @@ https://ryandash.github.io/MyAnimeList-IDs-To-TVDB-IDs/api/thetvdb/{thetvdb id}.
 <!---counts-start--->
 ### TVDB → MAL Mapping Stats
 
-- ✅ Mapped IDs: **116146**
-- ❌ Unmapped IDs: **6562**
+- ✅ Mapped IDs: **111907**
+- ❌ Unmapped IDs: **6365**
 <!---counts-end--->
