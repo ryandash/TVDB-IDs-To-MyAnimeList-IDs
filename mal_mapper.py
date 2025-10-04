@@ -351,10 +351,7 @@ def map_anime():
                             record["thetvdb"] = season_id
                         mapped.append(record)
  
-            Season0Mal = None
             mal_episode_counter = {}
-            # Season0Mal = None, 0 # Need to save malid and episode count because the next episode is not necessarily the remaining episodes of a special
-            # E.g. issue https://myanimelist.net/anime/10766/Meitantei_Conan_vs_Wooo
             for ep_num, ep_data in tqdm(episodes.items(), desc=f"    {season_id} Season {season_num} episodes", unit="ep", leave=False):
                 ep_id = ep_data.get("ID")
                 ep_title = ep_data.get("TitleEnglish")
@@ -397,11 +394,11 @@ def map_anime():
                                 mal_episode_counter[EpisodeMALID] = 1
                             else:
                                 mal_episode_counter[EpisodeMALID] += 1
-                            if mal_eps is None or mal_eps > 1:
+                            if mal_eps and mal_eps == 1:
+                                record["myanimelist url"] = f"{get_mal_url(EpisodeMALID, None)}"
+                            else:
                                 episode_number = mal_episode_counter[EpisodeMALID]
                                 record["myanimelist url"] = f"{get_mal_url(EpisodeMALID, episode_number)}{episode_number}"
-                            else:
-                                record["myanimelist url"] = f"{get_mal_url(EpisodeMALID, None)}"
                     
                     if EpisodeMALID:
                         cross_ids = get_cross_ids(EpisodeMALID, ep_id)
