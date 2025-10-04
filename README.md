@@ -1,6 +1,6 @@
 # MyAnimeList-IDs-To-TVDB-IDs
 
-### To use for myanimelist to thetvdb\
+### To use for myanimelist to thetvdb
 https://ryandash.github.io/MyAnimeList-IDs-To-TVDB-IDs/api/myanimelist/{myanimelist-id}.json
 
 Example: https://ryandash.github.io/MyAnimeList-IDs-To-TVDB-IDs/api/myanimelist/20.json
