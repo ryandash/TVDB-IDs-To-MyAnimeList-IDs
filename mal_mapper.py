@@ -315,7 +315,7 @@ def map_anime():
         # Initialize episode tracking
         SeasonMalID = malid
         malurl = None
-        mal_eps = 0
+        mal_eps = None
         seasons = series.get("Seasons") or {}
         episode_offset = 0
         for season_num, season_data in tqdm(seasons.items(), desc=f"  {series_id} seasons", unit="season", leave=False):
@@ -352,6 +352,9 @@ def map_anime():
                         mapped.append(record)
  
             Season0Mal = None
+            mal_episode_counter = {}
+            # Season0Mal = None, 0 # Need to save malid and episode count because the next episode is not necessarily the remaining episodes of a special
+            # E.g. issue https://myanimelist.net/anime/10766/Meitantei_Conan_vs_Wooo
             for ep_num, ep_data in tqdm(episodes.items(), desc=f"    {season_id} Season {season_num} episodes", unit="ep", leave=False):
                 ep_id = ep_data.get("ID")
                 ep_title = ep_data.get("TitleEnglish")
@@ -374,9 +377,7 @@ def map_anime():
                     EpisodeMALID = None
                     search_terms = None
                     all_titles = None
-                    if Season0Mal:
-                        EpisodeMALID = Season0Mal
-                    elif ep_title:
+                    if ep_title:
                         search_terms = [ep_title]
 
                         for alias in ep_aliases:
@@ -390,47 +391,33 @@ def map_anime():
                             EpisodeMALID, all_titles = get_best_mal_id(term, anime_type, True)
                             if EpisodeMALID:
                                 break
+                        if EpisodeMALID:
+                            mal_eps = get_mal_episode_count(EpisodeMALID)
+                            if EpisodeMALID not in mal_episode_counter:
+                                mal_episode_counter[EpisodeMALID] = 1
+                            else:
+                                mal_episode_counter[EpisodeMALID] += 1
+                            if mal_eps is None or mal_eps > 1:
+                                episode_number = mal_episode_counter[EpisodeMALID]
+                                record["myanimelist url"] = f"{get_mal_url(EpisodeMALID, episode_number)}{episode_number}"
+                            else:
+                                record["myanimelist url"] = f"{get_mal_url(EpisodeMALID, None)}"
                     
                     if EpisodeMALID:
-                        mal_eps = get_mal_episode_count(EpisodeMALID)
-                        if mal_eps is None:
-                            # Series not finished → don’t reset Season0Mal, just reuse it
-                            print(f"\n{EpisodeMALID} has unknown episode count, continuing with Season0Mal")
-                            mal_eps = 0  # treat as unlimited
-                            episode_offset = 1
-                            Season0Mal = EpisodeMALID
-
-                        elif mal_eps > 1:
-                            # Finished or known episode count
-                            episode_offset = 1
-                            Season0Mal = EpisodeMALID
-                            mal_eps += 1
-                        
-                        if Season0Mal:
-                            record["myanimelist url"] = f"{get_mal_url(EpisodeMALID, episode_offset)}{episode_offset}" 
-                        else:
-                            record["myanimelist url"] = f"{get_mal_url(EpisodeMALID, None)}"
-
                         cross_ids = get_cross_ids(EpisodeMALID, ep_id)
                         if cross_ids:
                             record.update(cross_ids)
                         else:
                             record["thetvdb"] = ep_id
                         mapped.append(record)
+                        malurl = record["myanimelist url"]
+                        print(f"\n{malurl} for {ep_id}")
                     else:
                         record["thetvdb"] = ep_id
                         record["search terms"] = search_terms
                         record["Jikan titles"] = all_titles
                         unmapped.append(record)
-                    
-                    # Only increment if MAL reports multiple episodes OR episode count is unknown (0)
-                    if mal_eps != 1:
-                        episode_offset += 1
-
-                    if mal_eps and mal_eps == episode_offset:
-                        mal_eps = 0
-                        episode_offset = 0
-                        Season0Mal = None
+                        print(f"\nCould not find {ep_id}")
 
                 elif SeasonMalID:
                     # Regular episodes

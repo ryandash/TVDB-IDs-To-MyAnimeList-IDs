@@ -381,7 +381,7 @@ async def scrape_episode_async(page: Page, ep_info, season_eps: dict, available:
         "Aliases": aliases
     }
 
-async def scrape_season_async(page:Page, season_url: str, numEpisodes: int, season_dict: dict, available: Queue):
+async def scrape_season_async(page:Page, season_url: str, numEpisodes: int, season_dict: dict, season_number: str, available: Queue):
     existing_eps = season_dict.setdefault("Episodes", {})
     await async_safe_goto(page, season_url)
 
@@ -400,7 +400,23 @@ async def scrape_season_async(page:Page, season_url: str, numEpisodes: int, seas
     if not await async_wait_for_selector(page, "#episodes"):
         print(f"[SKIP] Skipping Season: {season_url} due to error page")
         return
-    ep_rows = await page.query_selector_all("#episodes table tbody tr")
+    
+    ep_rows = []
+    if season_number == "0":
+        special_categories = {"Episodic Special", "Movies", "OVAs", "Season Recaps", "Uncategorized"}
+        h3_elems = await page.query_selector_all("#episodes > h3")
+        for h3 in h3_elems:
+            text = (await h3.inner_text()).strip()
+            if any(cat.lower() in text.lower() for cat in special_categories):
+                next_table = await h3.evaluate_handle(
+                    "(node) => node.nextElementSibling && node.nextElementSibling.tagName === 'TABLE' ? node.nextElementSibling : null"
+                )
+                if next_table:
+                    rows = await next_table.query_selector_all("tbody tr")
+                    ep_rows.extend(rows)
+    else:
+        ep_rows = await page.query_selector_all("#episodes table tbody tr")
+    
     ep_infos = []
     for erow in ep_rows or []:
         ep_href_elem = await erow.query_selector('td:nth-child(2) a')
@@ -522,7 +538,7 @@ async def scrape_anime_page_async(page: Page, anime_url: str, available: Queue):
 
     async def limited_scrape_season(season_url: str, num_eps: int, anime_data:dict, season_number: str):
         async with MAX_SEASON_CONCURRENT:
-            await with_page(available, scrape_season_async, season_url, num_eps, anime_data["Seasons"].setdefault(season_number, {}))
+            await with_page(available, scrape_season_async, season_url, num_eps, anime_data["Seasons"].setdefault(season_number, {}), season_number)
 
     if season_info:
         season_tasks = [
