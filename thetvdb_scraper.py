@@ -357,24 +357,29 @@ async def scrape_episode_async(page: Page, ep_info, season_eps: dict, available:
     elif "movie" in eng_title:
         type_text = "Movies"
 
-    if type_text is None:
-        li_elements = await first_selector(page, [
-            "#general > ul > li",
-            "#app > div.container > div.row > div.col-xs-12.col-sm-12.col-md-8.col-lg-8 > div:nth-child(4) > ul > li"
-        ])
-        for li in li_elements:
-            strong_elem = await li.query_selector("strong")
-            strong_text = (await strong_elem.inner_text()).strip().upper() if strong_elem else None
+    
+    li_elements = await first_selector(page, [
+        "#general > ul > li",
+        "#app > div.container > div.row > div.col-xs-12.col-sm-12.col-md-8.col-lg-8 > div:nth-child(4) > ul > li"
+    ])
+    aired = False
+    for li in li_elements:
+        strong_elem = await li.query_selector("strong")
+        strong_text = (await strong_elem.inner_text()).strip().upper() if strong_elem else None
+        if type_text is None:
             if strong_text == "SPECIAL CATEGORY":
                 type_elem = await li.query_selector("span a")
                 type_text = (await type_elem.inner_text()).strip() if type_elem else None
-                break
             elif strong_text == "NOTES":
                 type_elem = await li.query_selector("span")
                 notes_text = (await type_elem.inner_text()).strip().lower() if type_elem else ""
                 if "is a movie" in notes_text:
                     type_text = "Movies"
-                    break
+        if strong_text == "ORIGINALLY AIRED":
+            aired = await li.query_selector("span a") is not None
+
+    if not aired:
+        return
 
     season_eps[ep_num] = {
         "ID": ep_id,
