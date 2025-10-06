@@ -1,0 +1,43 @@
+{
+  "URL": "https://www.thetvdb.com/series/pandas-dans-la-brume",
+  "Genres": [
+    "Anime"
+  ],
+  "Other Sites": [
+    "https://www.themoviedb.org/tv/93375",
+    "https://www.themoviedb.org/tv/93375"
+  ],
+  "TitleEnglish": "Pandas in the Mist",
+  "SummaryEnglish": null,
+  "Aliases": [],
+  "Modified": "2022-10-19",
+  "Seasons": {
+    "0": {
+      "ID": "824475",
+      "URL": "https://www.thetvdb.com/series/pandas-dans-la-brume/seasons/official/0",
+      "# Episodes": 2,
+      "Episodes": {}
+    },
+    "1": {
+      "ID": "824477",
+      "URL": "https://www.thetvdb.com/series/pandas-dans-la-brume/seasons/official/1",
+      "# Episodes": 15,
+      "Episodes": {
+        "1": {
+          "ID": "7342986",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/pandas-dans-la-brume/episodes/7342986",
+          "TitleEnglish": null,
+          "SummaryEnglish": null,
+          "Aliases": []
+        }
+      }
+    },
+    "2": {
+      "ID": "824478",
+      "URL": "https://www.thetvdb.com/series/pandas-dans-la-brume/seasons/official/2",
+      "# Episodes": 30,
+      "Episodes": {}
+    }
+  }
+}

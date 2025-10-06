@@ -1,0 +1,40 @@
+{
+  "URL": "https://www.thetvdb.com/series/324-show",
+  "Genres": [
+    "Action",
+    "Anime",
+    "Romance"
+  ],
+  "Other Sites": [
+    "https://www.themoviedb.org/tv/81191"
+  ],
+  "TitleEnglish": "Romance of the Three Kingdoms (2009)",
+  "SummaryEnglish": "Romance of the Three Kingdoms is a 2009 animated television series joint produced by the Beijing Huihuang Animation Company of China and Future Planet of Japan. It was broadcast in Japan starting April 2010.",
+  "Aliases": [],
+  "Modified": "2023-09-18",
+  "Seasons": {
+    "1": {
+      "ID": "802128",
+      "URL": "https://www.thetvdb.com/series/324-show/seasons/official/1",
+      "# Episodes": 52,
+      "Episodes": {
+        "1": {
+          "ID": "7085033",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/324-show/episodes/7085033",
+          "TitleEnglish": "Episode 1",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "52": {
+          "ID": "7085101",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/324-show/episodes/7085101",
+          "TitleEnglish": "Episode 52",
+          "SummaryEnglish": null,
+          "Aliases": []
+        }
+      }
+    }
+  }
+}

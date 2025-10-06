@@ -1,0 +1,44 @@
+{
+  "URL": "https://www.thetvdb.com/series/301595-show",
+  "Genres": [
+    "Animation",
+    "Anime",
+    "Comedy",
+    "Mini-Series"
+  ],
+  "Other Sites": [
+    "https://www.imdb.com/title/tt11321620/",
+    "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1003",
+    "https://www.themoviedb.org/tv/35833",
+    "https://www.themoviedb.org/tv/35833"
+  ],
+  "TitleEnglish": "Let's Dance With Papa",
+  "SummaryEnglish": "Imagine two irresponsible siblings (Fuko and Yoshiharu) living under the care of an equally or more irresponsible father (Amachi).",
+  "Aliases": [
+    "Papa to Odorō"
+  ],
+  "Modified": "2025-06-03",
+  "Seasons": {
+    "0": {
+      "ID": "640697",
+      "URL": "https://www.thetvdb.com/series/301595-show/seasons/official/0",
+      "# Episodes": 1,
+      "Episodes": {}
+    },
+    "1": {
+      "ID": "640700",
+      "URL": "https://www.thetvdb.com/series/301595-show/seasons/official/1",
+      "# Episodes": 16,
+      "Episodes": {
+        "1": {
+          "ID": "5360814",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/301595-show/episodes/5360814",
+          "TitleEnglish": "The Worst Person",
+          "SummaryEnglish": null,
+          "Aliases": []
+        }
+      }
+    }
+  }
+}

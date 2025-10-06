@@ -1,0 +1,41 @@
+{
+  "URL": "https://www.thetvdb.com/series/343578-show",
+  "Genres": [
+    "Animation",
+    "Anime",
+    "Children",
+    "Comedy"
+  ],
+  "Other Sites": [
+    "https://www.imdb.com/title/tt31414140/"
+  ],
+  "TitleEnglish": "Let's Go! Tamagotchi",
+  "SummaryEnglish": "Let's Go! Tamagotchi (さぁイコー！たまごっち Saa Ikō! Tamagotchi) is an anime series focusing on the lives of Mametchi, Memetchi, Kuchipatchi, and their friends.",
+  "Aliases": [],
+  "Modified": "2025-06-05",
+  "Seasons": {
+    "1": {
+      "ID": "753794",
+      "URL": "https://www.thetvdb.com/series/343578-show/seasons/official/1",
+      "# Episodes": 12,
+      "Episodes": {
+        "1": {
+          "ID": "6575757",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/343578-show/episodes/6575757",
+          "TitleEnglish": "Perfect in the Morning! Tamagotchi School",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "12": {
+          "ID": "6575771",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/343578-show/episodes/6575771",
+          "TitleEnglish": "The Secret of Tamagotchi Town",
+          "SummaryEnglish": null,
+          "Aliases": []
+        }
+      }
+    }
+  }
+}
