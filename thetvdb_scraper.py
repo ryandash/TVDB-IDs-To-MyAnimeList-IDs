@@ -366,6 +366,10 @@ async def scrape_episode_async(page: Page, ep_info, season_eps: dict, available:
     for li in li_elements:
         strong_elem = await li.query_selector("strong")
         strong_text = (await strong_elem.inner_text()).strip().upper() if strong_elem else None
+        
+        if strong_text == "ORIGINALLY AIRED":
+            aired = await li.query_selector("span a") is not None
+
         if type_text is None:
             if strong_text == "SPECIAL CATEGORY":
                 type_elem = await li.query_selector("span a")
@@ -375,8 +379,6 @@ async def scrape_episode_async(page: Page, ep_info, season_eps: dict, available:
                 notes_text = (await type_elem.inner_text()).strip().lower() if type_elem else ""
                 if "is a movie" in notes_text:
                     type_text = "Movies"
-        if strong_text == "ORIGINALLY AIRED":
-            aired = await li.query_selector("span a") is not None
 
     if not aired:
         return
