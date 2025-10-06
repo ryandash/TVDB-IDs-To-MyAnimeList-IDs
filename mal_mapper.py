@@ -341,15 +341,16 @@ def map_anime():
 
                     if mal_eps and mal_eps == episode_offset:
                         print("\nPerformed change in season check")
-                        SeasonMalID = get_mal_relations(SeasonMalID, total_episodes)
-                        if SeasonMalID:
+                        newSeasonMalID = get_mal_relations(SeasonMalID, total_episodes)
+                        if newSeasonMalID:
+                            SeasonMalID = newSeasonMalID
                             episode_offset = 0
                             mal_eps = get_mal_episode_count(SeasonMalID)
                             malurl = get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
                         else:
-                            print("\nThis is a bug")
+                            raise RuntimeError("This is a bug — logic failure in season mapping. Previous malid was {SeasonMalID}")
                     
-                    if SeasonMalID not in lookup:
+                    if SeasonMalID and SeasonMalID not in lookup:
                         record = {"season": season_num, "tvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}", "myanimelist url": get_mal_url(SeasonMalID, None)}
                         cross_ids = get_cross_ids(SeasonMalID, season_id)
                         if cross_ids:
@@ -357,6 +358,14 @@ def map_anime():
                         else:
                             record["thetvdb"] = season_id
                         mapped.append(record)
+                    else:
+                        unmapped.append({
+                            "season": season_num, 
+                            "tvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}",
+                            "thetvdb": season_id,
+                            "previous malid": SeasonMalID
+                        })
+                        continue
  
             mal_episode_counter = {}
             for ep_num, ep_data in tqdm(episodes.items(), desc=f"    {season_id} Season {season_num} episodes", unit="ep", leave=False):
@@ -428,13 +437,14 @@ def map_anime():
                     episode_offset += 1
                     if mal_eps and mal_eps < episode_offset:
                         print("\nPerformed change in episode check")
-                        SeasonMalID = get_mal_relations(SeasonMalID, total_episodes - episode_offset + 1)
-                        if SeasonMalID:
+                        newSeasonMalID = get_mal_relations(SeasonMalID, total_episodes - episode_offset + 1)
+                        if newSeasonMalID:
+                            SeasonMalID = newSeasonMalID
                             mal_eps = get_mal_episode_count(SeasonMalID)
                             episode_offset = 1
                             malurl = get_mal_url(SeasonMalID, None if total_episodes == 1 else episode_offset)
                         else:
-                            print("\nThis is a bug :/")
+                            raise RuntimeError("This is a bug — logic failure in episode mapping. Previous malid was {SeasonMalID}")
                     
                     episodeMALURL = None
                     if SeasonMalID:
@@ -445,8 +455,8 @@ def map_anime():
                         record["thetvdb"] = ep_id
                         mapped.append(record)
                     else:
-                        record["myanimelist url"] = None
                         record["thetvdb"] = ep_id
+                        record["previous malid"] = SeasonMalID
                         unmapped.append(record)
 
         # Save progress after each series

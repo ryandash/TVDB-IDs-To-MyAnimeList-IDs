@@ -48,7 +48,9 @@ jobs:
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
-          python -m playwright install --with-deps chromium
+          if [ "${{ steps.cache-deps.outputs.cache-hit }}" != "true" ]; then
+            python -m playwright install --with-deps chromium
+          fi
 
       - name: Decide Total Pages
         id: set_pages
@@ -81,6 +83,7 @@ jobs:
   scrape_pages:
     needs: determine_total_pages
     runs-on: ubuntu-latest
+    continue-on-error: true
     strategy:
       fail-fast: false
       max-parallel: 10
@@ -106,7 +109,9 @@ jobs:
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
-          python -m playwright install --with-deps chromium
+          if [ "${{ steps.cache-deps.outputs.cache-hit }}" != "true" ]; then
+            python -m playwright install --with-deps chromium
+          fi
 
       - name: Scrape & Process page
         run: |
@@ -130,7 +135,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
           persist-credentials: true
@@ -148,6 +153,9 @@ jobs:
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
+          if [ "${{ steps.cache-deps.outputs.cache-hit }}" != "true" ]; then
+            python -m playwright install --with-deps chromium
+          fi
 
       - name: Download all artifacts
         uses: actions/download-artifact@v5
