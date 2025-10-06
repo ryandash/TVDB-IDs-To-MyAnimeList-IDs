@@ -235,28 +235,30 @@ async def with_page(available, fn, *args, **kwargs):
 # Async Helpers
 # -------------------
 
-async def async_safe_goto(page: Page, url: str, retries=3, delay=3):
+async def async_safe_goto(page: Page, url: str, retries=3, delay=3) -> bool:
     for attempt in range(1, retries + 1):
         try:
             await page.goto(url, timeout=60000, wait_until="domcontentloaded")
-            return
+            content = await page.content()
+            if "Whoops, looks like something went wrong." in content:
+                return False
+            return True
         except Exception as e:
             if attempt > 2:
-                print(f"[Retry {attempt}/{retries}] Failed {page.url}: {e}")
+                print(f"[Retry {attempt}/{retries}] Failed {getattr(page, 'url', url)}: {e}")
             if attempt < retries:
-                await asyncio.sleep(delay * attempt)
-                await page.reload(wait_until="domcontentloaded")
+                try:
+                    await page.reload(wait_until="domcontentloaded")
+                except Exception:
+                    pass
                 await asyncio.sleep(delay * attempt)
             else:
-                print(f"Failed on page {getattr(page, 'url', 'unknown')}")
-                raise
+                print(f"[FAIL] Could not load {url} after {retries} retries")
+                return False
 
 async def async_wait_for_selector(page: Page, selector: str, retries=3, delay=5) -> bool:
     for attempt in range(1, retries + 1):
         try:
-            content = await page.content()
-            if "Whoops, looks like something went wrong." in content:
-                return False
             await page.wait_for_selector(selector, state="attached")
             return True
         except Exception as e:
@@ -268,7 +270,7 @@ async def async_wait_for_selector(page: Page, selector: str, retries=3, delay=5)
                 await asyncio.sleep(delay * attempt)
             else:
                 print(f"Failed on page {getattr(page, 'url', 'unknown')}")
-                raise
+                return False
 
 async def get_total_pages(page: Page) -> int:
     if not await async_wait_for_selector(page, 'xpath=//*[@id="app"]/div[3]/div[3]/div[1]/ul'):
@@ -333,7 +335,9 @@ async def scrape_episode_async(page: Page, ep_info, season_eps: dict, available:
     if ep_num in season_eps and season_eps.get("TitleEnglish") != None:
         return
 
-    await async_safe_goto(page, ep_url)
+    if not await async_safe_goto(page, ep_url):
+        print(f"[SKIP] Skipping episode {ep_id} — page load failed")
+        return
     if not await async_wait_for_selector(page, "#translations"):
         print(f"[SKIP] Skipping {ep_id} due to error page")
         return
@@ -383,7 +387,9 @@ async def scrape_episode_async(page: Page, ep_info, season_eps: dict, available:
 
 async def scrape_season_async(page:Page, season_url: str, numEpisodes: int, season_dict: dict, season_number: str, available: Queue):
     existing_eps = season_dict.setdefault("Episodes", {})
-    await async_safe_goto(page, season_url)
+    if not await async_safe_goto(page, season_url):
+        print(f"[SKIP] Skipping Season: {season_url} — page load failed")
+        return
 
     if not season_dict.get("ID"):
         if not await async_wait_for_selector(page, "#general"):
@@ -452,7 +458,9 @@ def parse_date(date_str: str):
     raise ValueError(f"Could not parse date: {date_str}")
 
 async def scrape_anime_page_async(page: Page, anime_url: str, available: Queue):
-    await async_safe_goto(page, anime_url)
+    if not await async_safe_goto(page, anime_url):
+        print(f"[SKIP] Skipping Anime: {anime_url} — page load failed")
+        return
     if not await async_wait_for_selector(page, "#series_basic_info"):
         print(f"[SKIP] Skipping Anime: {anime_url} due to error page")
         return
@@ -627,16 +635,22 @@ if __name__ == "__main__":
     saver_thread = threading.Thread(target=save_worker, daemon=True)
     saver_thread.start()
 
-    while True:
+    MAX_RETRIES = 3
+    attempt = 0
+
+    while attempt < MAX_RETRIES:
         try:
             asyncio.run(scrape_all_async())
-            break
+            break  # Success! Exit the loop
         except Exception as e:
-            print(f"[FATAL] Scraper crashed: {e}\n{traceback.format_exc()}")
-            print("Restarting in 5 minutes...")
-            time.sleep(300)
-        finally:
-            pass
+            attempt += 1
+            print(f"[FATAL] Scraper crashed (attempt {attempt}/{MAX_RETRIES}): {e}\n{traceback.format_exc()}")
+            if attempt < MAX_RETRIES:
+                print("Restarting in 5 minutes...")
+                time.sleep(300)
+            else:
+                print("[FATAL] Maximum retry attempts reached. Exiting.")
+                raise
 
     # signal the saver to stop, wait for queue to drain
     stop_saver.set()
