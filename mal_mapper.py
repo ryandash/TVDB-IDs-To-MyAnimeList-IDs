@@ -236,18 +236,24 @@ def get_mal_url(mal_id: int, episode_number: Union[int, None]) -> Optional[str]:
     base_url = full_url.rsplit("/", 1)[0]
     return f"{base_url}/"
 
-
-def load_mapped_lookup(mapped: list) -> dict[str, int | None]:
+def load_mapped_lookup(mapped: list) -> dict[str, tuple[int, str]]:
     lookup = {}
     for entry in mapped:
         tvdb_id = str(entry.get("thetvdb"))
         if not tvdb_id:
             continue
-        mal_id = entry.get("myanimelist")
-        if mal_id:
-            lookup[tvdb_id] = int(mal_id)
+        mal_url: str = entry.get("myanimelist url")
+        if mal_url:
+            if "myanimelist.net/anime/" in mal_url:
+                parts = mal_url.strip("/").split("/")
+                mal_id = int(parts[4])
+                if "episode" in parts:
+                    base_url = mal_url.rsplit("/", 1)[0] + "/"
+                    lookup[tvdb_id] = (mal_id, base_url)
+                else:
+                    lookup[tvdb_id] = (mal_id, f"https://myanimelist.net/anime/{mal_id}")
         else:
-            lookup[tvdb_id] = None
+            print(f"bad entry: {entry}")
     return lookup
 
 # ----------------------
@@ -275,7 +281,7 @@ def map_anime():
         all_titles: list[str] = []
 
         if series_id in lookup:
-            malid = lookup[series_id]
+            malid = lookup[series_id][0]
         else:
             for anime_type in ["tv", "ona", "ova"]:
                 if malid:
@@ -324,7 +330,8 @@ def map_anime():
             total_episodes = len(episodes)
             
             if season_id in lookup:
-                SeasonMalID = lookup[season_id]
+                SeasonMalID = lookup[season_id][0]
+                malurl = lookup[season_id][1]
             else:
                 if season_num != "0" and SeasonMalID:
                     if season_num == "1":
@@ -357,6 +364,9 @@ def map_anime():
                 ep_title = ep_data.get("TitleEnglish")
                 ep_aliases = ep_data.get("Aliases") or []
                 if ep_id in lookup:
+                    EpisodeMALID = lookup[ep_id][0]
+                    mal_episode_counter[EpisodeMALID] = mal_episode_counter.get(EpisodeMALID, 0) + 1
+                    malurl = lookup[ep_id][1]
                     continue
                 record = {"season": season_num, "episode": ep_num, "tvdb url": f"https://www.thetvdb.com/dereferrer/episode/{ep_id}"}
 
@@ -407,14 +417,11 @@ def map_anime():
                         else:
                             record["thetvdb"] = ep_id
                         mapped.append(record)
-                        malurl = record["myanimelist url"]
-                        print(f"\n{malurl} for {ep_id}")
                     else:
                         record["thetvdb"] = ep_id
                         record["search terms"] = search_terms
                         record["Jikan titles"] = all_titles
                         unmapped.append(record)
-                        print(f"\nCould not find {ep_id}")
 
                 elif SeasonMalID:
                     # Regular episodes
@@ -441,7 +448,6 @@ def map_anime():
                         record["myanimelist url"] = None
                         record["thetvdb"] = ep_id
                         unmapped.append(record)
-                        print(f"Missing MAL mapping for {ep_id}")
 
         # Save progress after each series
         with open(MAPPED_OUT, "w", encoding="utf-8") as f:

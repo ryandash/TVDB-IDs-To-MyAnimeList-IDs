@@ -330,7 +330,7 @@ async def extract_translations_async(page: Page) -> Tuple[dict[str, dict[str, st
 
 async def scrape_episode_async(page: Page, ep_info, season_eps: dict, available: Queue):
     ep_id, ep_url, ep_num = ep_info
-    if ep_num in season_eps:
+    if ep_num in season_eps and season_eps.get("TitleEnglish") != None:
         return
 
     await async_safe_goto(page, ep_url)
