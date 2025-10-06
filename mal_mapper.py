@@ -348,7 +348,7 @@ def map_anime():
                             mal_eps = get_mal_episode_count(SeasonMalID)
                             malurl = get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
                         else:
-                            raise RuntimeError("This is a bug — logic failure in season mapping. Previous malid was {SeasonMalID}")
+                            raise RuntimeError(f"This is a bug — logic failure in season mapping. Previous malid was {SeasonMalID}")
                     
                     if SeasonMalID and SeasonMalID not in lookup:
                         record = {"season": season_num, "tvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}", "myanimelist url": get_mal_url(SeasonMalID, None)}
@@ -444,7 +444,7 @@ def map_anime():
                             episode_offset = 1
                             malurl = get_mal_url(SeasonMalID, None if total_episodes == 1 else episode_offset)
                         else:
-                            raise RuntimeError("This is a bug — logic failure in episode mapping. Previous malid was {SeasonMalID}")
+                            raise RuntimeError(f"This is a bug — logic failure in episode mapping. Previous malid was {SeasonMalID}")
                     
                     episodeMALURL = None
                     if SeasonMalID:
