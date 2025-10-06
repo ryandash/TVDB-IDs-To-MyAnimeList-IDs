@@ -350,6 +350,9 @@ async def scrape_episode_async(page: Page, ep_info, season_eps: dict, available:
     if not titles.get("eng"):
         titles["eng"], summaries["eng"] = titles.get("jpn"), summaries.get("jpn")
 
+    if titles.get("eng", "") == "TBA":
+        return
+
     eng_title = (titles.get("eng") or "").lower()
     type_text = None
     if "ova" in eng_title:
@@ -362,13 +365,10 @@ async def scrape_episode_async(page: Page, ep_info, season_eps: dict, available:
         "#general > ul > li",
         "#app > div.container > div.row > div.col-xs-12.col-sm-12.col-md-8.col-lg-8 > div:nth-child(4) > ul > li"
     ])
-    aired = False
+
     for li in li_elements:
         strong_elem = await li.query_selector("strong")
         strong_text = (await strong_elem.inner_text()).strip().upper() if strong_elem else None
-        
-        if strong_text == "ORIGINALLY AIRED":
-            aired = await li.query_selector("span a") is not None
 
         if type_text is None:
             if strong_text == "SPECIAL CATEGORY":
@@ -379,9 +379,6 @@ async def scrape_episode_async(page: Page, ep_info, season_eps: dict, available:
                 notes_text = (await type_elem.inner_text()).strip().lower() if type_elem else ""
                 if "is a movie" in notes_text:
                     type_text = "Movies"
-
-    if not aired:
-        return
 
     season_eps[ep_num] = {
         "ID": ep_id,
@@ -404,9 +401,45 @@ async def scrape_season_async(page:Page, season_url: str, numEpisodes: int, seas
             return
 
         season_id_elem = await page.query_selector('#general ul li span')
+
+        title_spans = await page.query_selector_all(
+            "#app > div.container > div.row.mt-2 > div.col-xs-12.col-sm-8.col-md-8.col-lg-9.col-xl-10 > h2 > span"
+        )
+
+        # --- Extract summaries (p tags inside each div child) ---
+        summary_ps = await page.query_selector_all(
+            "#app > div.container > div.row.mt-2 > div.col-xs-12.col-sm-8.col-md-8.col-lg-9.col-xl-10 > div > p"
+        )
+
+        translations = {}
+
+        # Handle titles (English/Japanese or other)
+        for span in title_spans:
+            text = (await span.inner_text()).strip()
+            if not text:
+                continue
+
+            # Detect language — heuristic: English if Latin chars appear
+            lang = "eng" if re.search(r"[A-Za-z]", text) else "jpn"
+            translations.setdefault(lang, {})["title"] = text
+
+        # Handle summaries (match one summary per detected language, if possible)
+        for p in summary_ps:
+            text = (await p.inner_text()).strip()
+            if not text:
+                continue
+
+            lang = "eng" if re.search(r"[A-Za-z]", text) else "jpn"
+            translations.setdefault(lang, {})["summary"] = text
+
+        # Extract into your season dict
+        titles = {lang: data.get("title") for lang, data in translations.items()}
+        summaries = {lang: data.get("summary") for lang, data in translations.items()}
         season_dict.update({
             "ID": (await season_id_elem.inner_text() if season_id_elem else "N/A"),
             "URL": season_url,
+            "TitleEnglish": titles.get("eng", ""),
+            "SummaryEnglish": summaries.get("eng", ""),
             "# Episodes": int(numEpisodes)
         })
 

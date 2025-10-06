@@ -172,36 +172,58 @@ def get_mal_episode_count(mal_id: int) -> int | None:
         return eps if isinstance(eps, int) else None
     return None
 
-def get_mal_relations(mal_id: int, offset_eps: int, visited = None) -> int | None:
-    """Find valid sequel ID (skips specials)."""
+def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, visited=None) -> int | None:
+    """Find related MAL ID that matches season_title name first, then fallback to Sequel. Skips specials."""
     if visited is None:
         visited = set()
-    
     if mal_id in visited:
         return None
-    
     visited.add(mal_id)
 
     data = rate_limited_get(f"https://api.jikan.moe/v4/anime/{mal_id}/relations")
     if not data:
         return None
 
-    sequel_id = next(
-        (e["mal_id"] for rel in data.get("data", [])
-         if rel.get("relation") == "Sequel"
-         for e in rel.get("entry", []) if e.get("type") != "Special"),
-        None,
-    )
+    relations = data.get("data", [])
+    sequel_id = None
+
+    # --- Step 1: Prefer relation entry whose name matches season_title ---
+    normalized_title = normalize_text(season_title)
+    for rel in relations:
+        for e in rel.get("entry", []):
+            name = e.get("name", "")
+            if fuzz.ratio(normalize_text(name), normalized_title) >= 85:
+                sequel_id = e["mal_id"]
+                print(f"Matched season title '{season_title}' in relation '{e['name']}' (relation: {rel.get('relation')})")
+                break
+        if sequel_id:
+            break
+
+    # --- Step 2: Fallback to Sequel if no name match found ---
+    if not sequel_id:
+        sequel_id = next(
+            (e["mal_id"] for rel in relations
+             if rel.get("relation") == "Sequel"
+             for e in rel.get("entry", [])
+             if e.get("type") != "Special"),
+            None
+        )
+
     if not sequel_id:
         return None
 
+    # --- Step 3: Validate and possibly recurse ---
     mal_eps = get_mal_episode_count(sequel_id)
     if not mal_eps:
         return None
+
     print(f"New mal id {sequel_id} mal_eps: {mal_eps} offset_eps: {offset_eps}")
     if mal_eps < offset_eps and mal_eps == 1:
-        return get_mal_relations(sequel_id, offset_eps, visited)
+        return get_mal_relations(sequel_id, offset_eps, season_title, visited)
+
     return sequel_id
+
+
 
 def get_cross_ids(mal_id: int, tvdb_id: str) -> dict | None:
     """Fetch cross-IDs for an anime from animeapi.my.id."""
@@ -326,6 +348,7 @@ def map_anime():
         episode_offset = 0
         for season_num, season_data in tqdm(seasons.items(), desc=f"  {series_id} seasons", unit="season", leave=False):
             season_id = season_data.get("ID")
+            season_title = season_data.get("TitleEnglish")
             episodes = season_data.get("Episodes") or {}
             total_episodes = len(episodes)
             
@@ -333,15 +356,23 @@ def map_anime():
                 SeasonMalID = lookup[season_id][0]
                 malurl = lookup[season_id][1]
             else:
-                if season_num != "0" and SeasonMalID:
+                if season_num != "0":
+                    if not SeasonMalID:
+                        for anime_type in ["tv", "ona", "ova"]:
+                            mid, titles = get_best_mal_id(season_title, anime_type, False)
+                            all_titles.extend(titles)
+                            if mid:
+                                SeasonMalID = mid
+                                break
                     if season_num == "1":
                         episode_offset = 0
                         mal_eps = get_mal_episode_count(SeasonMalID)
                         malurl = get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
 
                     if mal_eps and mal_eps == episode_offset:
+                        newSeasonMalID = None
                         print("\nPerformed change in season check")
-                        newSeasonMalID = get_mal_relations(SeasonMalID, total_episodes)
+                        newSeasonMalID = get_mal_relations(SeasonMalID, total_episodes, season_title)
                         if newSeasonMalID:
                             SeasonMalID = newSeasonMalID
                             episode_offset = 0
@@ -437,7 +468,7 @@ def map_anime():
                     episode_offset += 1
                     if mal_eps and mal_eps < episode_offset:
                         print("\nPerformed change in episode check")
-                        newSeasonMalID = get_mal_relations(SeasonMalID, total_episodes - episode_offset + 1)
+                        newSeasonMalID = get_mal_relations(SeasonMalID, total_episodes - episode_offset + 1, "")
                         if newSeasonMalID:
                             SeasonMalID = newSeasonMalID
                             mal_eps = get_mal_episode_count(SeasonMalID)
