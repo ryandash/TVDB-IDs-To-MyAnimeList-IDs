@@ -360,7 +360,7 @@ def map_anime():
                 malurl = lookup[season_id][1]
             else:
                 if season_num != "0":
-                    if not SeasonMalID:
+                    if not SeasonMalID and season_title:
                         mid, _ = get_best_mal_id(season_title, None, False)
                         if mid:
                             SeasonMalID = mid
