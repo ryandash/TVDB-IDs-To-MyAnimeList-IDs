@@ -187,17 +187,18 @@ def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, visited=N
     relations = data.get("data", [])
     sequel_id = None
 
-    # --- Step 1: Prefer relation entry whose name matches season_title ---
-    normalized_title = normalize_text(season_title)
-    for rel in relations:
-        for e in rel.get("entry", []):
-            name = e.get("name", "")
-            if fuzz.ratio(normalize_text(name), normalized_title) >= 85:
-                sequel_id = e["mal_id"]
-                print(f"Matched season title '{season_title}' in relation '{e['name']}' (relation: {rel.get('relation')})")
+    if season_title is not None:
+        # --- Step 1: Prefer relation entry whose name matches season_title ---
+        normalized_title = normalize_text(season_title)
+        for rel in relations:
+            for e in rel.get("entry", []):
+                name = e.get("name", "")
+                if fuzz.ratio(normalize_text(name), normalized_title) >= 85:
+                    sequel_id = e["mal_id"]
+                    print(f"Matched season title '{season_title}' in relation '{e['name']}' (relation: {rel.get('relation')})")
+                    break
+            if sequel_id:
                 break
-        if sequel_id:
-            break
 
     # --- Step 2: Fallback to Sequel if no name match found ---
     if not sequel_id:
@@ -318,6 +319,8 @@ def map_anime():
                         break
             
             all_titles = list(dict.fromkeys(all_titles))
+
+            print(malid)
             
             if malid:
                 record = {
@@ -358,12 +361,10 @@ def map_anime():
             else:
                 if season_num != "0":
                     if not SeasonMalID:
-                        for anime_type in ["tv", "ona", "ova"]:
-                            mid, titles = get_best_mal_id(season_title, anime_type, False)
-                            all_titles.extend(titles)
-                            if mid:
-                                SeasonMalID = mid
-                                break
+                        mid, _ = get_best_mal_id(season_title, None, False)
+                        if mid:
+                            SeasonMalID = mid
+                            print(f"Found MAL id for season {mid}")
                     if season_num == "1":
                         episode_offset = 0
                         mal_eps = get_mal_episode_count(SeasonMalID)
@@ -468,7 +469,7 @@ def map_anime():
                     episode_offset += 1
                     if mal_eps and mal_eps < episode_offset:
                         print("\nPerformed change in episode check")
-                        newSeasonMalID = get_mal_relations(SeasonMalID, total_episodes - episode_offset + 1, "")
+                        newSeasonMalID = get_mal_relations(SeasonMalID, total_episodes - episode_offset + 1, None)
                         if newSeasonMalID:
                             SeasonMalID = newSeasonMalID
                             mal_eps = get_mal_episode_count(SeasonMalID)
