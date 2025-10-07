@@ -329,6 +329,44 @@ async def extract_translations_async(page: Page) -> Tuple[dict[str, dict[str, st
 
     return translations, aliases
 
+async def extract_season_translations_async(page: Page) -> dict[str, dict[str, str | None]]:
+    """Extracts title and summary translations for season pages."""
+    translations = {
+        "eng": {"title": None, "summary": None},
+        "jpn": {"title": None, "summary": None},
+    }
+
+    base = (
+        "#app > div.container > div.row.mt-2 > "
+        "div.col-xs-12.col-sm-8.col-md-8.col-lg-9.col-xl-10"
+    )
+
+    title_spans = await page.query_selector_all(f"{base} > h2 > span.change_translation_text")
+    for span in title_spans:
+        lang = await span.get_attribute("data-language")
+        if lang not in translations:
+            continue
+
+        text = (await span.inner_text()).strip()
+        translations[lang]["title"] = text or None
+
+    # --- Summaries ---
+    summary_divs = await page.query_selector_all(f"{base} > div.change_translation_text")
+    for div in summary_divs:
+        lang = await div.get_attribute("data-language")
+        if lang not in translations:
+            continue
+
+        p_elem = await div.query_selector("p")
+        if not p_elem:
+            continue
+
+        text = (await p_elem.inner_text()).strip()
+        translations[lang]["summary"] = text or None
+
+    return translations
+
+
 # -------------------
 # Episode / Season / Anime
 # -------------------
@@ -405,35 +443,7 @@ async def scrape_season_async(page:Page, season_url: str, numEpisodes: int, seas
 
         season_id_elem = await page.query_selector('#general ul li span')
 
-        title_spans = await page.query_selector_all(
-            "#app > div.container > div.row.mt-2 > div.col-xs-12.col-sm-8.col-md-8.col-lg-9.col-xl-10 > h2 > span"
-        )
-
-        # --- Extract summaries (p tags inside each div child) ---
-        summary_ps = await page.query_selector_all(
-            "#app > div.container > div.row.mt-2 > div.col-xs-12.col-sm-8.col-md-8.col-lg-9.col-xl-10 > div > p"
-        )
-
-        translations = {}
-
-        # Handle titles (English/Japanese or other)
-        for span in title_spans:
-            text = (await span.inner_text()).strip()
-            if not text:
-                continue
-
-            # Detect language — heuristic: English if Latin chars appear
-            lang = "eng" if re.search(r"[A-Za-z]", text) else "jpn"
-            translations.setdefault(lang, {})["title"] = text
-
-        # Handle summaries (match one summary per detected language, if possible)
-        for p in summary_ps:
-            text = (await p.inner_text()).strip()
-            if not text:
-                continue
-
-            lang = "eng" if re.search(r"[A-Za-z]", text) else "jpn"
-            translations.setdefault(lang, {})["summary"] = text
+        translations = await extract_season_translations_async(page)
 
         # Extract into your season dict
         titles = {lang: data.get("title") for lang, data in translations.items()}
