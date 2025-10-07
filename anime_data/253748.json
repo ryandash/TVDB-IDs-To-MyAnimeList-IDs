@@ -1,0 +1,57 @@
+{
+  "URL": "https://www.thetvdb.com/series/ghiblies",
+  "Genres": [
+    "Animation",
+    "Anime",
+    "Comedy"
+  ],
+  "Other Sites": [],
+  "TitleEnglish": "Ghiblies",
+  "SummaryEnglish": "Two Ghibli created shorts about the happenings in fictional animation studio, presumably based to some extent on their own. The first was aired during a TV special about Ghibli, the second shown in theatres alongside 'The Cat Returns'. Note that the animation studio in these shorts is not spelled ジブリ (hepburn: 'jiburi'), but ギブリ (hepburn: 'giburi'), so pronounced with the hard 'gi' of 'give' rather than the 'ji' of 'jigsaw' used for Ghibli.",
+  "Aliases": [],
+  "Modified": "2011-11-19",
+  "Seasons": {
+    "0": {
+      "ID": "550982",
+      "URL": "https://www.thetvdb.com/series/ghiblies/seasons/official/0",
+      "TitleEnglish": null,
+      "SummaryEnglish": null,
+      "# Episodes": 1,
+      "Episodes": {
+        "1": {
+          "ID": "5059626",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/ghiblies/episodes/5059626",
+          "TitleEnglish": "Episode 2 Preview",
+          "SummaryEnglish": "Preview of episode 2",
+          "Aliases": []
+        }
+      }
+    },
+    "1": {
+      "ID": "478757",
+      "URL": "https://www.thetvdb.com/series/ghiblies/seasons/official/1",
+      "TitleEnglish": null,
+      "SummaryEnglish": null,
+      "# Episodes": 2,
+      "Episodes": {
+        "1": {
+          "ID": "4207705",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/ghiblies/episodes/4207705",
+          "TitleEnglish": "Ghiblies 1",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "2": {
+          "ID": "4207706",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/ghiblies/episodes/4207706",
+          "TitleEnglish": "Ghiblies 2",
+          "SummaryEnglish": null,
+          "Aliases": []
+        }
+      }
+    }
+  }
+}

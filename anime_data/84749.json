@@ -1,0 +1,64 @@
+{
+  "URL": "https://www.thetvdb.com/series/tokyo-babylon",
+  "Genres": [
+    "Action",
+    "Animation",
+    "Anime",
+    "Drama",
+    "Fantasy",
+    "Mystery",
+    "Thriller"
+  ],
+  "Other Sites": [
+    "https://www.imdb.com/title/tt0105612/",
+    "https://www.themoviedb.org/tv/44485"
+  ],
+  "TitleEnglish": "Tokyo Babylon",
+  "SummaryEnglish": "Tokyo Babylon is two-part OVA based on CLAMP's manga \"Tokyo Babylon\". It follows mystery adventures of 13th Head of the Sumeragi clan Subaru Sumeragi, his twin sister Hokuto and their friend Seishirou Sakurazuka.",
+  "Aliases": [],
+  "Modified": "2025-09-12",
+  "Seasons": {
+    "0": {
+      "ID": "39816",
+      "URL": "https://www.thetvdb.com/series/tokyo-babylon/seasons/official/0",
+      "TitleEnglish": null,
+      "SummaryEnglish": null,
+      "# Episodes": 1,
+      "Episodes": {
+        "1": {
+          "ID": "695421",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/tokyo-babylon/episodes/695421",
+          "TitleEnglish": "Vision",
+          "SummaryEnglish": "This is a music video that was included with the 'Tokyo Babylon' premium laserdisc released in Japan in 1992.",
+          "Aliases": []
+        }
+      }
+    },
+    "1": {
+      "ID": "39820",
+      "URL": "https://www.thetvdb.com/series/tokyo-babylon/seasons/official/1",
+      "TitleEnglish": null,
+      "SummaryEnglish": null,
+      "# Episodes": 2,
+      "Episodes": {
+        "1": {
+          "ID": "427949",
+          "TYPE": "OVA",
+          "URL": "https://www.thetvdb.com/series/tokyo-babylon/episodes/427949",
+          "TitleEnglish": "Tokyo Babylon OVA 1",
+          "SummaryEnglish": "Subaru is powerful onmyouji, and 13th head of the famous Sumeragi clan. His new job takes him to construction site where people are dying in mysterious accidents, each death prolonging the end of construction. Kazami Aso, whose brother was one of the victims, and Detective Yamakawa are suspicious of Shinji Nagumo, executive chairman of the MCC Corperation. When they get too close to true it's up for Subaru to rescue them, and Seishiro to rescue Subaru.",
+          "Aliases": []
+        },
+        "2": {
+          "ID": "427950",
+          "TYPE": "OVA",
+          "URL": "https://www.thetvdb.com/series/tokyo-babylon/episodes/427950",
+          "TitleEnglish": "Tokyo Babylon OVA 2",
+          "SummaryEnglish": "There is a serial killer on the loose in Tokyo's subways, killing woman after woman. Subaru Sumeragi witnesses one such murder and becomes involved in the investigation where he meets a woman who can see events through touching objects. When the woman becomes the serial killers next victim and it is up to Subaru to save her. However, it is not long before the killer turns his attentions onto the onmyouji and Seishirou Sakurazuka must come rescue him instead.",
+          "Aliases": []
+        }
+      }
+    }
+  }
+}
