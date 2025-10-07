@@ -319,8 +319,6 @@ def map_anime():
                         break
             
             all_titles = list(dict.fromkeys(all_titles))
-
-            print(malid)
             
             if malid:
                 record = {
