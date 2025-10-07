@@ -125,9 +125,12 @@ jobs:
           path: |
             anime_data/
             mapped-tvdb-ids.json
-            unmapped-tvdb-ids.json
+            unmapped-series.json
+            unmapped-seasons.json
+            unmapped-episodes.json
           retention-days: 1
           compression-level: 9
+
 
   combine_and_commit:
     name: Combine FILES & Commit
@@ -167,18 +170,17 @@ jobs:
           python merge_files.py --input-dir artifacts
           python split_json.py
 
-      - name: Count mapped/unmapped
-        id: counts
+      - name: Count and Update README with counts
         run: |
           mapped=$(jq length mapped-tvdb-ids.json)
-          unmapped=$(jq length unmapped-tvdb-ids.json)
-          echo "mapped=$mapped" >> $GITHUB_OUTPUT
-          echo "unmapped=$unmapped" >> $GITHUB_OUTPUT
+          unmapped_series=$(jq length unmapped-series.json)
+          unmapped_seasons=$(jq length unmapped-seasons.json)
+          unmapped_episodes=$(jq length unmapped-episodes.json)
 
-      - name: Update README with counts
-        run: |
-          mapped=${{ steps.counts.outputs.mapped }}
-          unmapped=${{ steps.counts.outputs.unmapped }}
+          echo "Mapped: $mapped"
+          echo "Unmapped Series: $unmapped_series"
+          echo "Unmapped Seasons: $unmapped_seasons"
+          echo "Unmapped Episodes: $unmapped_episodes"
 
           # Remove old section if it exists
           sed -i '/<!---counts-start--->/,/<!---counts-end--->/d' README.md
@@ -189,7 +191,9 @@ jobs:
             echo "### TVDB → MAL Mapping Stats"
             echo ""
             echo "- ✅ Mapped IDs: **$mapped**"
-            echo "- ❌ Unmapped IDs: **$unmapped**"
+            echo "- ❌ Unmapped Series: **$unmapped_series**"
+            echo "- ❌ Unmapped Seasons: **$unmapped_seasons**"
+            echo "- ❌ Unmapped Episodes: **$unmapped_episodes**"
             echo '<!---counts-end--->'
           } >> README.md
 

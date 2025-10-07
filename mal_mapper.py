@@ -25,7 +25,9 @@ from tqdm import tqdm
 # ----------------------
 
 MAPPED_OUT = "mapped-tvdb-ids.json"
-UNMAPPED_OUT = "unmapped-tvdb-ids.json"
+UNMAPPED_SERIES_OUT = "unmapped-series.json"
+UNMAPPED_SEASONS_OUT = "unmapped-seasons.json"
+UNMAPPED_EPISODES_OUT = "unmapped-episodes.json"
 LOG_FILE = "mapping.log"
 DATA_DIR = Path("anime_data")
 DATA_DIR.mkdir(exist_ok=True)
@@ -293,7 +295,9 @@ def map_anime():
         lookup = {}
 
     mapped = []
-    unmapped = []
+    unmapped_series = []
+    unmapped_seasons = []
+    unmapped_episodes = []
     anime_data = load_data()
 
     for series_id, series in tqdm(anime_data.items(), total=len(anime_data), desc=f"Mapping series", unit="series"):
@@ -332,7 +336,7 @@ def map_anime():
                     record["thetvdb"] = series_id
                 mapped.append(record)
             else:
-                unmapped.append({
+                unmapped_series.append({
                     "tvdb url":f"https://www.thetvdb.com/dereferrer/series/{series_id}",
                     "thetvdb": series_id,
                     "search term": series_title,
@@ -387,7 +391,7 @@ def map_anime():
                             record["thetvdb"] = season_id
                         mapped.append(record)
                     else:
-                        unmapped.append({
+                        unmapped_seasons.append({
                             "season": season_num, 
                             "tvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}",
                             "thetvdb": season_id,
@@ -458,7 +462,7 @@ def map_anime():
                         record["thetvdb"] = ep_id
                         record["search terms"] = search_terms
                         record["Jikan titles"] = all_titles
-                        unmapped.append(record)
+                        unmapped_episodes.append(record)
 
                 elif SeasonMalID:
                     # Regular episodes
@@ -483,13 +487,17 @@ def map_anime():
                     else:
                         record["thetvdb"] = ep_id
                         record["previous malid"] = SeasonMalID
-                        unmapped.append(record)
+                        unmapped_episodes.append(record)
 
         # Save progress after each series
         with open(MAPPED_OUT, "w", encoding="utf-8") as f:
             json.dump(mapped, f, indent=2, ensure_ascii=False)
-        with open(UNMAPPED_OUT, "w", encoding="utf-8") as f:
-            json.dump(unmapped, f, indent=2, ensure_ascii=False)
+        with open(UNMAPPED_SERIES_OUT, "w", encoding="utf-8") as f:
+            json.dump(unmapped_series, f, indent=2, ensure_ascii=False)
+        with open(UNMAPPED_SEASONS_OUT, "w", encoding="utf-8") as f:
+            json.dump(unmapped_seasons, f, indent=2, ensure_ascii=False)
+        with open(UNMAPPED_EPISODES_OUT, "w", encoding="utf-8") as f:
+            json.dump(unmapped_episodes, f, indent=2, ensure_ascii=False)
 
         print(f"\nFinished series {series_title}. Total mapped: {len(mapped)}, unmapped: {len(unmapped)}")
 

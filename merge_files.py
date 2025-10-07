@@ -66,7 +66,7 @@ def main():
     merge_category(input_dir, repo_root, "anime_data/*.json")
 
     # Merge root-level mapping files
-    for root_file in ["mapped-tvdb-ids.json", "unmapped-tvdb-ids.json"]:
+    for root_file in ["mapped-tvdb-ids.json", "unmapped-series.json", "unmapped-seasons.json", "unmapped-episodes.json"]:
         target_file = repo_root / root_file
         artifact_files = collect_files(input_dir, root_file)
 
