@@ -1,0 +1,79 @@
+{
+  "URL": "https://www.thetvdb.com/series/grimmm",
+  "Genres": [
+    "Adaptation"
+  ],
+  "Other Sites": [
+    "https://ui.eidr.org/view/content?id=10.5240/0009-7995-B9C5-E932-B04F-N",
+    "https://www.imdb.com/title/tt14872196/",
+    "https://www.tvmaze.com/shows/75516/show-slug",
+    "https://www.themoviedb.org/tv/249812",
+    "https://www.wikidata.org/wiki/Q125029848",
+    "https://en.wikipedia.org/wiki/The_Grimm_Variations"
+  ],
+  "TitleEnglish": "The Grimm Variations",
+  "SummaryEnglish": "Inspired by the classic Brothers Grimm stories, this anthology features six fairy tales with a dark twist, exposing the shadowy side of human desire.",
+  "Aliases": [
+    "Grimm Kumikyoku"
+  ],
+  "Modified": "2025-05-18",
+  "Seasons": {
+    "1": {
+      "ID": "2042591",
+      "URL": "https://www.thetvdb.com/series/grimmm/seasons/official/1",
+      "TitleEnglish": "Saison 1",
+      "SummaryEnglish": "Vous verrez 6 des plus grands classiques des frères Grimm revisités.",
+      "# Episodes": 6,
+      "Episodes": {
+        "1": {
+          "ID": "9574091",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/grimmm/episodes/9574091",
+          "TitleEnglish": "Cinderella",
+          "SummaryEnglish": "In the original tale, Cinderella captures the prince's heart with the help of her fairy godmother at a royal ball. As she hastily departs, a glass slipper is left behind, prompting the prince's search. He finds her, and they live happily ever after.",
+          "Aliases": []
+        },
+        "2": {
+          "ID": "10398256",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/grimmm/episodes/10398256",
+          "TitleEnglish": "Little Red Riding Hood",
+          "SummaryEnglish": "In the classic tale, Little Red Riding Hood unknowingly talks to a wolf who has disguised himself after devouring her grandmother. She is eaten by the wolf, but a hunter saves her.",
+          "Aliases": []
+        },
+        "3": {
+          "ID": "10398257",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/grimmm/episodes/10398257",
+          "TitleEnglish": "Hansel & Gretel",
+          "SummaryEnglish": "Hansel and Gretel stumble upon a witch's house made of sweets in the forest. Recognizing it's a trap, they outsmart and defeat the witch before escaping in the original tale.",
+          "Aliases": []
+        },
+        "4": {
+          "ID": "10398258",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/grimmm/episodes/10398258",
+          "TitleEnglish": "The Elves and the Shoemaker",
+          "SummaryEnglish": "A poor shoemaker is helped by magical elves that make shoes overnight, bringing him wealth in the classic story. But what thrilling tale awaits in The Grimm Variations?",
+          "Aliases": []
+        },
+        "5": {
+          "ID": "10398259",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/grimmm/episodes/10398259",
+          "TitleEnglish": "The Town Musicians of Bremen",
+          "SummaryEnglish": "In the original tale, a donkey, a dog, a cat, and a rooster escape mistreatment on their quest for a new home in Bremen. Together, they form a band and fend off thieves.",
+          "Aliases": []
+        },
+        "6": {
+          "ID": "10398260",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/grimmm/episodes/10398260",
+          "TitleEnglish": "Pied Piper of Hamelin",
+          "SummaryEnglish": "In the classic tale, a piper saves a town plagued by rats by guiding them away with his fife. But after being deceived of his promised reward, he leads the town's children into disappearance.",
+          "Aliases": []
+        }
+      }
+    }
+  }
+}
