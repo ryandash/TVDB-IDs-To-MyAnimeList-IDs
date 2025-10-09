@@ -1,0 +1,45 @@
+{
+  "URL": "https://www.thetvdb.com/series/435143-series",
+  "Genres": [
+    "Action",
+    "Adventure",
+    "Animation",
+    "Anime",
+    "Science Fiction"
+  ],
+  "Other Sites": [
+    "https://www.imdb.com/title/tt6058126/",
+    "https://www.themoviedb.org/tv/124313"
+  ],
+  "TitleEnglish": "Far East of Eden",
+  "SummaryEnglish": null,
+  "Aliases": [],
+  "Modified": "2025-06-06",
+  "Seasons": {
+    "1": {
+      "ID": "2064694",
+      "URL": "https://www.thetvdb.com/series/435143-series/seasons/official/1",
+      "TitleEnglish": null,
+      "SummaryEnglish": null,
+      "# Episodes": 2,
+      "Episodes": {
+        "1": {
+          "ID": "9835970",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/435143-series/episodes/9835970",
+          "TitleEnglish": "Episode 1",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "2": {
+          "ID": "9835971",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/435143-series/episodes/9835971",
+          "TitleEnglish": "Episode 2",
+          "SummaryEnglish": null,
+          "Aliases": []
+        }
+      }
+    }
+  }
+}

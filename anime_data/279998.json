@@ -1,0 +1,72 @@
+{
+  "URL": "https://www.thetvdb.com/series/ariel",
+  "Genres": [
+    "Action",
+    "Animation",
+    "Anime",
+    "Science Fiction"
+  ],
+  "Other Sites": [
+    "https://www.themoviedb.org/tv/125453"
+  ],
+  "TitleEnglish": "ARIEL",
+  "SummaryEnglish": null,
+  "Aliases": [
+    "Ariel Visual",
+    "ARIEL VISUAL",
+    "DELUXE ARIEL"
+  ],
+  "Modified": "2025-06-02",
+  "Seasons": {
+    "1": {
+      "ID": "580684",
+      "URL": "https://www.thetvdb.com/series/ariel/seasons/official/1",
+      "TitleEnglish": "ARIEL VISUAL SCEBAI最大の危機",
+      "SummaryEnglish": "突如、衛星軌道上に出現した宇宙企業ゲドー社の超巨大宇宙船艦・艦長アバルト・　ハウザーにより、地球は一方的に宣戦布告された。この宇宙からの侵略の危機に立ち向かえるのはARIELしかない、と岸田博士は考えた。",
+      "# Episodes": 2,
+      "Episodes": {
+        "1": {
+          "ID": "4838515",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/ariel/episodes/4838515",
+          "TitleEnglish": "SCEBAI's Greatest Crisis (Part One)",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "2": {
+          "ID": "4838516",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/ariel/episodes/4838516",
+          "TitleEnglish": "SCEBAI's Greatest Crisis (Part Two)",
+          "SummaryEnglish": null,
+          "Aliases": []
+        }
+      }
+    },
+    "2": {
+      "ID": "580685",
+      "URL": "https://www.thetvdb.com/series/ariel/seasons/official/2",
+      "TitleEnglish": "DELUXE ARIEL",
+      "SummaryEnglish": "マッド・サイエンティストで国立科学研究所　SCEBAI（スケベイ）の所長・岸田博士が最新　テクノロジーを結集して作り上げた女性型　巨大ロボット兵器ARIEL。　だがそのパイロットは、ごく普通の３人の女の子だった。",
+      "# Episodes": 2,
+      "Episodes": {
+        "1": {
+          "ID": "4838517",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/ariel/episodes/4838517",
+          "TitleEnglish": "The Beginning",
+          "SummaryEnglish": null,
+          "Aliases": []
+        },
+        "2": {
+          "ID": "4838518",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/ariel/episodes/4838518",
+          "TitleEnglish": "Great Fall",
+          "SummaryEnglish": null,
+          "Aliases": []
+        }
+      }
+    }
+  }
+}
