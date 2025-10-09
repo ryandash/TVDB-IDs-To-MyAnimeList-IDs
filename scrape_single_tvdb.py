@@ -137,6 +137,43 @@ async def extract_translations_async(page: Page) -> Tuple[dict[str, dict[str, st
 
     return translations, sorted(aliases, key=str.lower)
 
+async def extract_season_translations_async(page: Page) -> dict[str, dict[str, str | None]]:
+    """Extracts title and summary translations for season pages."""
+    translations = {
+        "eng": {"title": None, "summary": None},
+        "jpn": {"title": None, "summary": None},
+    }
+
+    base = (
+        "#app > div.container > div.row.mt-2 > "
+        "div.col-xs-12.col-sm-8.col-md-8.col-lg-9.col-xl-10"
+    )
+
+    title_spans = await page.query_selector_all(f"{base} > h2 > span.change_translation_text")
+    for span in title_spans:
+        lang = await span.get_attribute("data-language")
+        if lang not in translations:
+            continue
+
+        text = (await span.inner_text()).strip()
+        translations[lang]["title"] = text or None
+
+    # --- Summaries ---
+    summary_divs = await page.query_selector_all(f"{base} > div.change_translation_text")
+    for div in summary_divs:
+        lang = await div.get_attribute("data-language")
+        if lang not in translations:
+            continue
+
+        p_elem = await div.query_selector("p")
+        if not p_elem:
+            continue
+
+        text = (await p_elem.inner_text()).strip()
+        translations[lang]["summary"] = text or None
+
+    return translations
+
 # -------------------
 # Episode / Season / Anime
 # -------------------
@@ -149,8 +186,10 @@ async def scrape_episode_async(page: Page):
     titles = {lang: data.get("title") for lang, data in translations.items()}
     summaries = {lang: data.get("summary") for lang, data in translations.items()}
 
+    print(titles.get("eng"))
     # Fallback English
     if not titles.get("eng"):
+        print(titles.get("jpn"))
         titles["eng"], summaries["eng"] = titles.get("jpn"), summaries.get("jpn")
 
     eng_title = (titles.get("eng") or "").lower()
@@ -199,9 +238,17 @@ async def scrape_season_async(page:Page):
         return
 
     season_id_elem = await page.query_selector('#general ul li span')
+
+    translations = await extract_season_translations_async(page)
+
+    # Extract into your season dict
+    titles = {lang: data.get("title") for lang, data in translations.items()}
+    summaries = {lang: data.get("summary") for lang, data in translations.items()}
     season_dict.update({
         "ID": (await season_id_elem.inner_text() if season_id_elem else "N/A"),
         "URL": page.url,
+        "TitleEnglish": titles.get("eng", ""),
+        "SummaryEnglish": summaries.get("eng", ""),
         "Episodes": {}
     })
 
@@ -236,6 +283,8 @@ async def scrape_anime_page_async(page: Page, season_number: str):
                 modified_date = parse_date(date_str)
         elif "GENRE" in label:
             genres = [await g.inner_text() for g in await li.query_selector_all("span a")]
+            if "Anime" not in genres:
+                return None, None, None
         elif "SITES" in label:
             other_sites = [await s.get_attribute("href") for s in await li.query_selector_all("span a")]
 
@@ -245,6 +294,13 @@ async def scrape_anime_page_async(page: Page, season_number: str):
     translations, aliases = await extract_translations_async(page)
     titles = {lang: data.get("title") for lang, data in translations.items()}
     summaries = {lang: data.get("summary") for lang, data in translations.items()}
+
+    if not titles.get("eng"):
+        if not titles.get("jpn"):
+            return
+        titles["eng"], summaries["eng"] = titles.get("jpn"), summaries.get("jpn")
+    elif ["Abridged", "DC Heroes United"] in titles["eng"]:
+        return
     
     anime_data = {
         "URL": page.url,
@@ -303,7 +359,7 @@ async def scrape_single_tvdb(thetvdbid: str):
             try:
                 await page.goto(url, timeout=30000)
                 body_text = await page.inner_text("body")
-                return "error_404" not in body_text.lower()
+                return "404" not in body_text
             except:
                 return False
 
@@ -339,6 +395,8 @@ async def scrape_single_tvdb(thetvdbid: str):
 
             await async_safe_goto(page_series, series_url)
             series_id, anime_data, num_eps = await scrape_anime_page_async(page_series, season_number)
+            if series_id is None:
+                return
             season_data = await scrape_season_async(chosen_page)
             season_data["# Episodes"] = num_eps
             anime_data["Seasons"][season_number] = season_data
@@ -384,7 +442,8 @@ async def scrape_single_tvdb(thetvdbid: str):
             )
 
             series_id, anime_data, num_eps = anime_task
-
+            if series_id is None:
+                return
             season_data["# Episodes"] = num_eps
             season_data["Episodes"][episode_number] = episode_data
             anime_data["Seasons"][season_number] = season_data
@@ -394,6 +453,8 @@ async def scrape_single_tvdb(thetvdbid: str):
             return
             
         series_id, anime_data, _ = await scrape_anime_page_async(chosen_page, None)
+        if series_id is None:
+            return
         save_anime(series_id, anime_data)
         print(f"[INFO] Scraped episode {thetvdbid}")
         await browser.close()

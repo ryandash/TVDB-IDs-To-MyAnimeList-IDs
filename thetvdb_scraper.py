@@ -448,6 +448,9 @@ async def scrape_season_async(page:Page, season_url: str, numEpisodes: int, seas
         # Extract into your season dict
         titles = {lang: data.get("title") for lang, data in translations.items()}
         summaries = {lang: data.get("summary") for lang, data in translations.items()}
+
+        if not titles.get("eng"):
+            titles["eng"], summaries["eng"] = titles.get("jpn"), summaries.get("jpn")
         season_dict.update({
             "ID": (await season_id_elem.inner_text() if season_id_elem else "N/A"),
             "URL": season_url,
@@ -549,6 +552,13 @@ async def scrape_anime_page_async(page: Page, anime_url: str, available: Queue):
         translations, aliases = await extract_translations_async(page)
         titles = {lang: data.get("title") for lang, data in translations.items()}
         summaries = {lang: data.get("summary") for lang, data in translations.items()}
+
+        if not titles.get("eng"):
+            if not titles.get("jpn"):
+                return
+            titles["eng"], summaries["eng"] = titles.get("jpn"), summaries.get("jpn")
+        elif ["Abridged", "DC Heroes United"] in titles["eng"]:
+            return
     
     anime_data = deepcopy(existing) if existing else {
         "URL": anime_url,
