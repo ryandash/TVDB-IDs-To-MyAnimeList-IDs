@@ -12,7 +12,7 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     container:
-      image: mcr.microsoft.com/playwright/python:latest
+      image: mcr.microsoft.com/playwright/python:v1.55.0-jammy
     steps:
       - name: Checkout Repository (shallow)
         uses: actions/checkout@v5

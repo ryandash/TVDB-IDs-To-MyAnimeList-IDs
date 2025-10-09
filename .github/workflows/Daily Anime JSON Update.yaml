@@ -27,7 +27,7 @@ jobs:
     name: Determine Total Pages
     runs-on: ubuntu-latest
     container:
-      image: mcr.microsoft.com/playwright/python:latest
+      image: mcr.microsoft.com/playwright/python:v1.55.0-jammy
     outputs:
       pages: ${{ steps.generate_pages.outputs.pages }}
     steps:
@@ -80,7 +80,7 @@ jobs:
     needs: determine_total_pages
     runs-on: ubuntu-latest
     container:
-      image: mcr.microsoft.com/playwright/python:latest
+      image: mcr.microsoft.com/playwright/python:v1.55.0-jammy
     continue-on-error: true
     strategy:
       fail-fast: false
@@ -129,7 +129,7 @@ jobs:
     needs: scrape_pages
     runs-on: ubuntu-latest
     container:
-      image: mcr.microsoft.com/playwright/python:latest
+      image: mcr.microsoft.com/playwright/python:v1.55.0-jammy
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v5
