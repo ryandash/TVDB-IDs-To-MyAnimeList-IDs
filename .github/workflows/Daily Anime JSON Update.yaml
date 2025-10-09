@@ -132,8 +132,6 @@ jobs:
     name: Combine FILES & Commit
     needs: scrape_pages
     runs-on: ubuntu-latest
-    container:
-      image: mcr.microsoft.com/playwright/python:v1.55.0-jammy
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v5
@@ -199,8 +197,8 @@ jobs:
       - name: Commit Changes if Needed
         shell: bash
         run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "GitHub Actions Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "GitHub Actions Bot"
           git add .
 
           if [ -n "$(git diff --cached)" ]; then
