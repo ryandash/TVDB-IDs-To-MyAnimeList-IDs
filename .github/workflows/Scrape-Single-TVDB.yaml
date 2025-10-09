@@ -4,9 +4,15 @@ on:
   repository_dispatch:
     types: [scrape-single-tvdb]
 
+concurrency:
+  group: scrape-single-tvdb
+  cancel-in-progress: false
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    container:
+      image: mcr.microsoft.com/playwright/python:v1.50.0-noble
     steps:
       - name: Checkout Repository (shallow)
         uses: actions/checkout@v5
@@ -15,24 +21,17 @@ jobs:
           persist-credentials: false
 
       - name: Cache pip
+        id: cache-deps
         uses: actions/cache@v4
         with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
-
-      - name: Cache Playwright
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/ms-playwright
-          key: ${{ runner.os }}-playwright
+          path: |
+            ~/.cache/pip
+          key: deps-${{ hashFiles('requirements.txt') }}
+          restore-keys: deps-
 
       - name: Setup, Scrape & Process
         run: |
-          pip install -r requirements.txt
-          python -m playwright install --with-deps chromium
-
+          pip install --upgrade --no-cache-dir -r requirements.txt
           python scrape_single_tvdb.py --episode ${{ github.event.client_payload.tvdb_id }} --delete-folder
 
           if [ ! -s "scraper_output.json" ] && [ ! -d "anime_data" ]; then

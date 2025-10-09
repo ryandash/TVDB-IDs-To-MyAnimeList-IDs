@@ -26,6 +26,8 @@ jobs:
   determine_total_pages:
     name: Determine Total Pages
     runs-on: ubuntu-latest
+    container:
+      image: mcr.microsoft.com/playwright/python:v1.50.0-noble
     outputs:
       pages: ${{ steps.generate_pages.outputs.pages }}
     steps:
@@ -34,27 +36,20 @@ jobs:
         with:
           fetch-depth: 1
       
-      - name: Cache pip + Playwright
+      - name: Cache pip
         id: cache-deps
         uses: actions/cache@v4
         with:
           path: |
             ~/.cache/pip
-            ~/.cache/ms-playwright
           key: deps-${{ hashFiles('requirements.txt') }}
           restore-keys: deps-
-
-      - name: Install Python dependencies
-        run: |
-          pip install --upgrade pip
-          pip install -r requirements.txt
-          if [ "${{ steps.cache-deps.outputs.cache-hit }}" != "true" ]; then
-            python -m playwright install --with-deps chromium
-          fi
 
       - name: Decide Total Pages
         id: set_pages
         run: |
+          pip install --upgrade --no-cache-dir -r requirements.txt
+
           if [ -n "${{ github.event.inputs.manual_total_pages }}" ]; then
             total="${{ github.event.inputs.manual_total_pages }}"
             echo "Using manual override: $total pages"
@@ -83,6 +78,8 @@ jobs:
   scrape_pages:
     needs: determine_total_pages
     runs-on: ubuntu-latest
+    container:
+      image: mcr.microsoft.com/playwright/python:v1.50.0-noble
     continue-on-error: true
     strategy:
       fail-fast: false
@@ -95,26 +92,19 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: Cache pip + Playwright
+      - name: Cache pip
         id: cache-deps
         uses: actions/cache@v4
         with:
           path: |
             ~/.cache/pip
-            ~/.cache/ms-playwright
           key: deps-${{ hashFiles('requirements.txt') }}
-          restore-keys: deps-
-      
-      - name: Install Python dependencies
-        run: |
-          pip install --upgrade pip
-          pip install -r requirements.txt
-          if [ "${{ steps.cache-deps.outputs.cache-hit }}" != "true" ]; then
-            python -m playwright install --with-deps chromium
-          fi
+          restore-keys: deps-          
 
       - name: Scrape & Process page
         run: |
+          pip install --upgrade --no-cache-dir -r requirements.txt
+
           python thetvdb_scraper.py --page ${{ matrix.page }} --delete-folder
           python mal_mapper.py
 
@@ -136,6 +126,8 @@ jobs:
     name: Combine FILES & Commit
     needs: scrape_pages
     runs-on: ubuntu-latest
+    container:
+      image: mcr.microsoft.com/playwright/python:v1.50.0-noble
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v5
@@ -150,15 +142,7 @@ jobs:
           path: |
             ~/.cache/pip
           key: deps-${{ hashFiles('requirements.txt') }}
-          restore-keys: deps-
-
-      - name: Install Python dependencies
-        run: |
-          pip install --upgrade pip
-          pip install -r requirements.txt
-          if [ "${{ steps.cache-deps.outputs.cache-hit }}" != "true" ]; then
-            python -m playwright install --with-deps chromium
-          fi
+          restore-keys: deps-          
 
       - name: Download all artifacts
         uses: actions/download-artifact@v5
@@ -167,6 +151,8 @@ jobs:
 
       - name: Merge JSON files
         run: |
+          pip install --upgrade --no-cache-dir -r requirements.txt
+
           python merge_files.py --input-dir artifacts
           python split_json.py
 
