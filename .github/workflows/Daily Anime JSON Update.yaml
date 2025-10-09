@@ -48,6 +48,8 @@ jobs:
       - name: Decide Total Pages
         id: set_pages
         run: |
+          apt-get update
+          apt-get install -y jq
           pip install --upgrade pip
           pip install --upgrade --no-cache-dir -r requirements.txt
 
@@ -104,6 +106,8 @@ jobs:
 
       - name: Scrape & Process page
         run: |
+          apt-get update
+          apt-get install -y jq
           pip install --upgrade pip
           pip install --upgrade --no-cache-dir -r requirements.txt
 
@@ -153,6 +157,8 @@ jobs:
 
       - name: Merge JSON files
         run: |
+          apt-get update
+          apt-get install -y jq
           pip install --upgrade pip
           pip install --upgrade --no-cache-dir -r requirements.txt
 

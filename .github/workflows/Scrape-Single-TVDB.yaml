@@ -31,6 +31,8 @@ jobs:
 
       - name: Setup, Scrape & Process
         run: |
+          apt-get update
+          apt-get install -y jq
           pip install --upgrade pip
           pip install --upgrade --no-cache-dir -r requirements.txt
           python scrape_single_tvdb.py --episode ${{ github.event.client_payload.tvdb_id }} --delete-folder
