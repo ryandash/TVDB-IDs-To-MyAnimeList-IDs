@@ -199,8 +199,8 @@ jobs:
       - name: Commit Changes if Needed
         shell: bash
         run: |
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config user.name "GitHub Actions Bot"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions Bot"
           git add .
 
           if [ -n "$(git diff --cached)" ]; then
