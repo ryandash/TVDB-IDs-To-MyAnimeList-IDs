@@ -299,7 +299,7 @@ async def scrape_anime_page_async(page: Page, season_number: str):
         if not titles.get("jpn"):
             return
         titles["eng"], summaries["eng"] = titles.get("jpn"), summaries.get("jpn")
-    elif ["Abridged", "DC Heroes United"] in titles["eng"]:
+    elif "Abridged" in titles["eng"]:
         return
     
     anime_data = {
