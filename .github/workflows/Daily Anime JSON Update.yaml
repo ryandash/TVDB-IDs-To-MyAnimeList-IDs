@@ -157,6 +157,7 @@ jobs:
         run: |
           apt-get update
           apt-get install -y jq
+
           pip install --upgrade pip
           pip install --upgrade --no-cache-dir -r requirements.txt
 
