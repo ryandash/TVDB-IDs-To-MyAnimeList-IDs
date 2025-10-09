@@ -27,7 +27,7 @@ jobs:
     name: Determine Total Pages
     runs-on: ubuntu-latest
     container:
-      image: mcr.microsoft.com/playwright/python:v1.50.0-noble
+      image: mcr.microsoft.com/playwright/python:latest
     outputs:
       pages: ${{ steps.generate_pages.outputs.pages }}
     steps:
@@ -48,6 +48,7 @@ jobs:
       - name: Decide Total Pages
         id: set_pages
         run: |
+          pip install --upgrade pip
           pip install --upgrade --no-cache-dir -r requirements.txt
 
           if [ -n "${{ github.event.inputs.manual_total_pages }}" ]; then
@@ -79,7 +80,7 @@ jobs:
     needs: determine_total_pages
     runs-on: ubuntu-latest
     container:
-      image: mcr.microsoft.com/playwright/python:v1.50.0-noble
+      image: mcr.microsoft.com/playwright/python:latest
     continue-on-error: true
     strategy:
       fail-fast: false
@@ -103,6 +104,7 @@ jobs:
 
       - name: Scrape & Process page
         run: |
+          pip install --upgrade pip
           pip install --upgrade --no-cache-dir -r requirements.txt
 
           python thetvdb_scraper.py --page ${{ matrix.page }} --delete-folder
@@ -127,7 +129,7 @@ jobs:
     needs: scrape_pages
     runs-on: ubuntu-latest
     container:
-      image: mcr.microsoft.com/playwright/python:v1.50.0-noble
+      image: mcr.microsoft.com/playwright/python:latest
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v5
@@ -151,6 +153,7 @@ jobs:
 
       - name: Merge JSON files
         run: |
+          pip install --upgrade pip
           pip install --upgrade --no-cache-dir -r requirements.txt
 
           python merge_files.py --input-dir artifacts
