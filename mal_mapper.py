@@ -323,7 +323,7 @@ def map_anime():
             else:
                 unmapped_series.append({
                     "thetvdb url":f"https://www.thetvdb.com/dereferrer/series/{series_id}",
-                    "thetvdb": int(series_id),
+                    "thetvdb": series_id,
                     "search term": series_title,
                     "aliases": series_aliases,
                     "Jikan titles": all_titles
@@ -375,10 +375,10 @@ def map_anime():
                         })
                     else:
                         unmapped_seasons.append({
-                            "season": int(season_num), 
+                            "season": season_num, 
                             "thetvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}",
-                            "thetvdb": int(season_id),
-                            "previous malid": int(SeasonMalID)
+                            "thetvdb": season_id,
+                            "previous malid": SeasonMalID
                         })
                         continue
  
@@ -439,7 +439,7 @@ def map_anime():
                         record["thetvdb"] = int(ep_id)
                         mapped.append(record)
                     else:
-                        record["thetvdb"] = int(ep_id)
+                        record["thetvdb"] = ep_id
                         record["search terms"] = search_terms
                         record["Jikan titles"] = all_titles
                         unmapped_episodes.append(record)
@@ -463,8 +463,8 @@ def map_anime():
                         record["thetvdb"] = int(ep_id)
                         mapped.append(record)
                     else:
-                        record["thetvdb"] = int(ep_id)
-                        record["previous malid"] = int(SeasonMalID)
+                        record["thetvdb"] = ep_id
+                        record["previous malid"] = SeasonMalID
                         unmapped_episodes.append(record)
 
         # Save progress after each series
