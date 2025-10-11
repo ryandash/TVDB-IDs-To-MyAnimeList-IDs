@@ -16,8 +16,8 @@ Will not support TheTVDB.com List IDs or any other IDs really
 <!---counts-start--->
 ### TVDB → MAL Mapping Stats
 
-- ✅ Mapped IDs: **26976**
-- ❌ Unmapped Series: **13**
-- ❌ Unmapped Seasons: **27**
-- ❌ Unmapped Episodes: **1619**
+- ✅ Mapped IDs: **107697**
+- ❌ Unmapped Series: **365**
+- ❌ Unmapped Seasons: **187**
+- ❌ Unmapped Episodes: **5817**
 <!---counts-end--->
