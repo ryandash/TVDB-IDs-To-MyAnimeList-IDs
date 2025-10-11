@@ -6,7 +6,7 @@ https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/myanimelist/{myanimel
 Example: https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/myanimelist/20.json
 
 ### To use for thetvdb to myanimelist
-https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/VDB-IDs/api/thetvdb/{thetvdb-id}.json
+https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/thetvdb/{thetvdb-id}.json
 
 Example: https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/thetvdb/361957.json
 
