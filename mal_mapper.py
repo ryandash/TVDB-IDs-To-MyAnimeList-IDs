@@ -226,17 +226,6 @@ def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, visited=N
 
     return sequel_id
 
-
-
-def get_cross_ids(mal_id: int, tvdb_id: str) -> dict | None:
-    """Fetch cross-IDs for an anime from animeapi.my.id."""
-    data = fetch_json(f"https://animeapi.my.id/myanimelist/{mal_id}")
-    if not data:
-        print(f"Missing cross IDs for MAL {mal_id}")
-        return None
-    data["thetvdb"] = tvdb_id
-    return dict(sorted(data.items()))
-
 def get_mal_url(mal_id: int, episode_number: Union[int, None]) -> Optional[str]:
     """
     Get a MAL URL.
@@ -325,19 +314,15 @@ def map_anime():
             all_titles = list(dict.fromkeys(all_titles))
             
             if malid:
-                record = {
-                    "tvdb url": f"https://www.thetvdb.com/dereferrer/series/{series_id}",
-                    "myanimelist url": get_mal_url(malid, None)
-                }
-                cross_ids = get_cross_ids(malid, series_id)
-                if cross_ids:
-                    record.update(cross_ids)
-                else:
-                    record["thetvdb"] = series_id
-                mapped.append(record)
+                mapped.append({
+                    "thetvdb url": f"https://www.thetvdb.com/dereferrer/series/{series_id}",
+                    "myanimelist url": get_mal_url(malid, None),
+                    "myanimelist": str(malid),
+                    "thetvdb": series_id
+                })
             else:
                 unmapped_series.append({
-                    "tvdb url":f"https://www.thetvdb.com/dereferrer/series/{series_id}",
+                    "thetvdb url":f"https://www.thetvdb.com/dereferrer/series/{series_id}",
                     "thetvdb": series_id,
                     "search term": series_title,
                     "aliases": series_aliases,
@@ -383,18 +368,18 @@ def map_anime():
                         #     raise RuntimeError(f"This is a bug — logic failure in season mapping. Previous malid was {SeasonMalID}")
                     
                     if SeasonMalID and SeasonMalID not in lookup:
-                        record = {"season": season_num, "tvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}", "myanimelist url": get_mal_url(SeasonMalID, None)}
-                        cross_ids = get_cross_ids(SeasonMalID, season_id)
-                        if cross_ids:
-                            record.update(cross_ids)
-                        else:
-                            record["thetvdb"] = season_id
-                        mapped.append(record)
+                        mapped.append({
+                            "season": season_num, 
+                            "thetvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}", 
+                            "myanimelist url": get_mal_url(SeasonMalID, None),
+                            "myanimelist": str(SeasonMalID),
+                            "thetvdb": season_id
+                        })
                     else:
                         unmapped_seasons.append({
                             "season": season_num, 
-                            "tvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}",
-                            "thetvdb": season_id,
+                            "thetvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}",
+                            "thetvdb": str(season_id),
                             "previous malid": SeasonMalID
                         })
                         continue
@@ -409,7 +394,7 @@ def map_anime():
                     mal_episode_counter[EpisodeMALID] = mal_episode_counter.get(EpisodeMALID, 0) + 1
                     malurl = lookup[ep_id][1]
                     continue
-                record = {"season": season_num, "episode": ep_num, "tvdb url": f"https://www.thetvdb.com/dereferrer/episode/{ep_id}"}
+                record = {"season": season_num, "episode": ep_num, "thetvdb url": f"https://www.thetvdb.com/dereferrer/episode/{ep_id}"}
 
                 if season_num == "0":
                     # Specials
@@ -452,11 +437,8 @@ def map_anime():
                                 record["myanimelist url"] = f"{get_mal_url(EpisodeMALID, episode_number)}{episode_number}"
                     
                     if EpisodeMALID:
-                        cross_ids = get_cross_ids(EpisodeMALID, ep_id)
-                        if cross_ids:
-                            record.update(cross_ids)
-                        else:
-                            record["thetvdb"] = ep_id
+                        record["myanimelist"] = str(EpisodeMALID)
+                        record["thetvdb"] = ep_id
                         mapped.append(record)
                     else:
                         record["thetvdb"] = ep_id
@@ -482,11 +464,12 @@ def map_anime():
 
                     if episodeMALURL and malurl:
                         record["myanimelist url"] = episodeMALURL
+                        record["myanimelist"] = str(EpisodeMALID)
                         record["thetvdb"] = ep_id
                         mapped.append(record)
                     else:
                         record["thetvdb"] = ep_id
-                        record["previous malid"] = SeasonMalID
+                        record["previous malid"] = str(SeasonMalID)
                         unmapped_episodes.append(record)
 
         # Save progress after each series
