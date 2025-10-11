@@ -464,7 +464,7 @@ def map_anime():
 
                     if episodeMALURL and malurl:
                         record["myanimelist url"] = episodeMALURL
-                        record["myanimelist"] = str(EpisodeMALID)
+                        record["myanimelist"] = str(SeasonMalID)
                         record["thetvdb"] = ep_id
                         mapped.append(record)
                     else:
