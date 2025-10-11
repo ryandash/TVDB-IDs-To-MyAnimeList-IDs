@@ -317,13 +317,13 @@ def map_anime():
                 mapped.append({
                     "thetvdb url": f"https://www.thetvdb.com/dereferrer/series/{series_id}",
                     "myanimelist url": get_mal_url(malid, None),
-                    "myanimelist": str(malid),
-                    "thetvdb": series_id
+                    "myanimelist": int(malid),
+                    "thetvdb": int(series_id)
                 })
             else:
                 unmapped_series.append({
                     "thetvdb url":f"https://www.thetvdb.com/dereferrer/series/{series_id}",
-                    "thetvdb": series_id,
+                    "thetvdb": int(series_id),
                     "search term": series_title,
                     "aliases": series_aliases,
                     "Jikan titles": all_titles
@@ -351,14 +351,12 @@ def map_anime():
                         mid, _ = get_best_mal_id(season_title, None, False)
                         if mid:
                             SeasonMalID = mid
-                            print(f"Found MAL id for season {mid}")
                     if season_num == "1":
                         episode_offset = 0
                         mal_eps = get_mal_episode_count(SeasonMalID)
                         malurl = get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
 
                     if mal_eps and mal_eps == episode_offset:
-                        print("\nPerformed change in season check")
                         SeasonMalID = get_mal_relations(SeasonMalID, total_episodes, season_title)
                         if SeasonMalID:
                             episode_offset = 0
@@ -372,15 +370,15 @@ def map_anime():
                             "season": season_num, 
                             "thetvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}", 
                             "myanimelist url": get_mal_url(SeasonMalID, None),
-                            "myanimelist": str(SeasonMalID),
-                            "thetvdb": season_id
+                            "myanimelist": int(SeasonMalID),
+                            "thetvdb": int(season_id)
                         })
                     else:
                         unmapped_seasons.append({
-                            "season": season_num, 
+                            "season": int(season_num), 
                             "thetvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}",
-                            "thetvdb": str(season_id),
-                            "previous malid": SeasonMalID
+                            "thetvdb": int(season_id),
+                            "previous malid": int(SeasonMalID)
                         })
                         continue
  
@@ -394,7 +392,7 @@ def map_anime():
                     mal_episode_counter[EpisodeMALID] = mal_episode_counter.get(EpisodeMALID, 0) + 1
                     malurl = lookup[ep_id][1]
                     continue
-                record = {"season": season_num, "episode": ep_num, "thetvdb url": f"https://www.thetvdb.com/dereferrer/episode/{ep_id}"}
+                record = {"season": int(season_num), "episode": int(ep_num), "thetvdb url": f"https://www.thetvdb.com/dereferrer/episode/{ep_id}"}
 
                 if season_num == "0":
                     # Specials
@@ -437,11 +435,11 @@ def map_anime():
                                 record["myanimelist url"] = f"{get_mal_url(EpisodeMALID, episode_number)}{episode_number}"
                     
                     if EpisodeMALID:
-                        record["myanimelist"] = str(EpisodeMALID)
-                        record["thetvdb"] = ep_id
+                        record["myanimelist"] = int(EpisodeMALID)
+                        record["thetvdb"] = int(ep_id)
                         mapped.append(record)
                     else:
-                        record["thetvdb"] = ep_id
+                        record["thetvdb"] = int(ep_id)
                         record["search terms"] = search_terms
                         record["Jikan titles"] = all_titles
                         unmapped_episodes.append(record)
@@ -450,7 +448,6 @@ def map_anime():
                     # Regular episodes
                     episode_offset += 1
                     if mal_eps and mal_eps < episode_offset:
-                        print("\nPerformed change in episode check")
                         SeasonMalID = get_mal_relations(SeasonMalID, total_episodes - episode_offset + 1, None)
                         if SeasonMalID:
                             mal_eps = get_mal_episode_count(SeasonMalID)
@@ -464,12 +461,12 @@ def map_anime():
 
                     if episodeMALURL and malurl:
                         record["myanimelist url"] = episodeMALURL
-                        record["myanimelist"] = str(SeasonMalID)
-                        record["thetvdb"] = ep_id
+                        record["myanimelist"] = int(SeasonMalID)
+                        record["thetvdb"] = int(ep_id)
                         mapped.append(record)
                     else:
-                        record["thetvdb"] = ep_id
-                        record["previous malid"] = str(SeasonMalID)
+                        record["thetvdb"] = int(ep_id)
+                        record["previous malid"] = int(SeasonMalID)
                         unmapped_episodes.append(record)
 
         # Save progress after each series
