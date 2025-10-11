@@ -455,11 +455,9 @@ def map_anime():
                             malurl = get_mal_url(SeasonMalID, None if total_episodes == 1 else episode_offset)
                         # else:
                         #     raise RuntimeError(f"This is a bug — logic failure in episode mapping. Previous malid was {SeasonMalID}")
-                    
-                    if SeasonMalID:
-                        episodeMALURL = f"{malurl}{episode_offset}"
 
-                    if episodeMALURL and malurl:
+                    if SeasonMalID and malurl:
+                        episodeMALURL = f"{malurl}{episode_offset}"
                         record["myanimelist url"] = episodeMALURL
                         record["myanimelist"] = int(SeasonMalID)
                         record["thetvdb"] = int(ep_id)
