@@ -22,7 +22,16 @@
       "TitleEnglish": null,
       "SummaryEnglish": null,
       "# Episodes": 3,
-      "Episodes": {}
+      "Episodes": {
+        "1": {
+          "ID": "10834596",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/gnosia/episodes/10834596",
+          "TitleEnglish": "Starting Point",
+          "SummaryEnglish": "Yuri, who has lost their memory, wakes up aboard the Interstellar Cruiser D.Q.O. They are taken by Setsu to participate in a meeting to identify the \"Gnosia,\" a being that attacks and annihilates humans.",
+          "Aliases": []
+        }
+      }
     }
   }
 }
