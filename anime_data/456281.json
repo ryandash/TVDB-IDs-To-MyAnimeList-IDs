@@ -365,7 +365,24 @@
       "TitleEnglish": "Season 3",
       "SummaryEnglish": "Mob Psycho lnto Minecraft is set to premiere in October 5th 2025!",
       "# Episodes": 1,
-      "Episodes": {}
+      "Episodes": {
+        "1": {
+          "ID": "10780701",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/mob-psycho-into-minecraft/episodes/10780701",
+          "TitleEnglish": "7th Year Anniversary Celebration",
+          "SummaryEnglish": "Celebration for the 7th Year Anniversary",
+          "Aliases": []
+        },
+        "2": {
+          "ID": "11391427",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/mob-psycho-into-minecraft/episodes/11391427",
+          "TitleEnglish": "Evil Rapture",
+          "SummaryEnglish": "Saitama and Mob meets Evil VO1D while trying to test Mob's power but after defeating him they run into the evil eye, cutting to garou waking up in the monster house.",
+          "Aliases": []
+        }
+      }
     }
   }
 }
