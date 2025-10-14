@@ -283,7 +283,16 @@
       "TitleEnglish": null,
       "SummaryEnglish": null,
       "# Episodes": 1,
-      "Episodes": {}
+      "Episodes": {
+        "1": {
+          "ID": "11192598",
+          "TYPE": null,
+          "URL": "https://www.thetvdb.com/series/isekai-quartet/episodes/11192598",
+          "TitleEnglish": "Come Together! School Life",
+          "SummaryEnglish": "An eminent new student comes to the school.",
+          "Aliases": []
+        }
+      }
     }
   }
 }
