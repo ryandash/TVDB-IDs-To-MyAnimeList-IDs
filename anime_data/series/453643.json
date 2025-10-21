@@ -1,0 +1,65 @@
+{
+    "URL": "https://thetvdb.com/series/funky-fables",
+    "Genres": [
+        "Children"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0292793/",
+        "https://www.themoviedb.org/tv/241802"
+    ],
+    "TitleEnglish": "Funky Fables",
+    "SummaryEnglish": "Funky Fables (“Ponkikki Meisaku World”) was a segment of the ‘Hirake! Ponkikki’ which adapted various classic stories. In the early 90s the show was dubbed into English by Saban Entertainment.",
+    "Aliases": [],
+    "Modified": "2024-08-22",
+    "Seasons": {
+        "1": {
+            "ID": "2142746",
+            "URL": "https://thetvdb.com/series/funky-fables/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "10650526",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/funky-fables/episodes/10650526",
+                    "TitleEnglish": "Thumbelina",
+                    "SummaryEnglish": "Adaptation of Thumbelina.",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10650527",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/funky-fables/episodes/10650527",
+                    "TitleEnglish": "The Ugly Duckling",
+                    "SummaryEnglish": "Adaptation of The Ugly Duckling.",
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10650528",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/funky-fables/episodes/10650528",
+                    "TitleEnglish": "The Emperor's New Clothes",
+                    "SummaryEnglish": "Adaptation of The Emperor's New Clothes.",
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "10650529",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/funky-fables/episodes/10650529",
+                    "TitleEnglish": "Jack and the Beanstalk",
+                    "SummaryEnglish": "Adaptation of Jack and the Beanstalk.",
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "10650530",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/funky-fables/episodes/10650530",
+                    "TitleEnglish": "Aladdin and the Magic Lamp",
+                    "SummaryEnglish": "Adaptation of Aladdin And The Wonderful Lamp.",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

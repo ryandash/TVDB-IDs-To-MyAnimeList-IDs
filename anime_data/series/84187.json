@@ -1,0 +1,640 @@
+{
+    "URL": "https://thetvdb.com/series/da-capo",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0486952/",
+        "https://www.themoviedb.org/tv/26444"
+    ],
+    "TitleEnglish": "Da Capo",
+    "SummaryEnglish": "Junichi Asakura lives with his adoptive sister Nemu in the crescent-shaped island of Hatsune Jima, a place where cherry blossoms bloom throughout the year. In this island, people have mysterious powers and attributes. For example, Junichi has the power to see other people's dreams, and he was also taught by his grandmother to magically create sweets. One day, Junichi's cousin and childhood friend, Sakura Yoshino came back from America all of a sudden. To Junichi's surprise, she looks exactly the same as the girl that moved away six years ago, and hasn't aged one bit. And she came back to remind Junichi of their childhood promise... It is a bittersweet tale of magic, love, hidden desires, and unattainable dreams.",
+    "Aliases": [
+        "D.C. 〜ダ・カーポ〜"
+    ],
+    "Modified": "2025-10-17",
+    "Seasons": {
+        "0": {
+            "ID": "38365",
+            "URL": "https://thetvdb.com/series/da-capo/seasons/official/0",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 22,
+            "Episodes": {
+                "1": {
+                    "ID": "630081",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/630081",
+                    "TitleEnglish": "Side Episode 1",
+                    "SummaryEnglish": "Nemu, Miharu, Kotori, and Mako share some scary stories and folk tales.",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "630091",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/630091",
+                    "TitleEnglish": "Side Episode 2",
+                    "SummaryEnglish": "A day in the life of Nemu, through Jun'ichi's eyes.",
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "630101",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/630101",
+                    "TitleEnglish": "Side Episode 3",
+                    "SummaryEnglish": "During a day at the beach, Kotori meets an unusual stranger.",
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "630111",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/630111",
+                    "TitleEnglish": "Side Episode 4",
+                    "SummaryEnglish": "Sakura makes a video for her American friends, and meets the stranger at a soba restaurant.",
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "630121",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/630121",
+                    "TitleEnglish": "Side Episode 5",
+                    "SummaryEnglish": "Yoriko ventures outside during the day, finding an (unusually) affectionate Utamaru.",
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "630131",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/630131",
+                    "TitleEnglish": "Side Episode 6",
+                    "SummaryEnglish": "Miharu the android experiences new things online.",
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "630141",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/630141",
+                    "TitleEnglish": "Side Episode 7",
+                    "SummaryEnglish": "Moe finds fascinating (and at times, deadly) sea creatures at the beach.",
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "630151",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/630151",
+                    "TitleEnglish": "Side Episode 8",
+                    "SummaryEnglish": "During a heavy rainstorm, Nemu and Mako take shelter in an old, dilapidated house.",
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "630161",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/630161",
+                    "TitleEnglish": "Side Episode 9",
+                    "SummaryEnglish": "Yoriko ventures outside again, this time at night.",
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "630171",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/630171",
+                    "TitleEnglish": "Side Episode 10",
+                    "SummaryEnglish": "Nemu, Moe, and Mako follow a strange being into the forest and become lost.",
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "630181",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/630181",
+                    "TitleEnglish": "Side Episode 11",
+                    "SummaryEnglish": "The stranger has a flashback vision of his youth in Hatsune-jima, at an abandoned shrine.",
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "630191",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/630191",
+                    "TitleEnglish": "Side Episode 12",
+                    "SummaryEnglish": "The stranger sees a montage of the previous Side Episodes in an abandoned movie theater, then a flashback of his parting with Yoshino.",
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "630201",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/630201",
+                    "TitleEnglish": "Side Episode 13",
+                    "SummaryEnglish": "The girls (sans Yoriko) decide to find the stranger that Sakura calls \"Fushigi-san\".",
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "3903031",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/3903031",
+                    "TitleEnglish": "Omake 1",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "3903041",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/3903041",
+                    "TitleEnglish": "Omake 2",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "3903051",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/3903051",
+                    "TitleEnglish": "Omake 3",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "3967911",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/3967911",
+                    "TitleEnglish": "Omake 4",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "3984181",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/3984181",
+                    "TitleEnglish": "Omake 5",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4064911",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/4064911",
+                    "TitleEnglish": "Omake 6",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4103076",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/4103076",
+                    "TitleEnglish": "Omake 7",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4318124",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/4318124",
+                    "TitleEnglish": "Da Capo If (Part 1)",
+                    "SummaryEnglish": "This two episode OVA retelling of the first Da Capo series with the \"what if\" Asakura Jun'ichi were to return Shirakawa Kotori's feelings.",
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4318125",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/4318125",
+                    "TitleEnglish": "Da Capo If (Part 2)",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "38366",
+            "URL": "https://thetvdb.com/series/da-capo/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "417317",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417317",
+                    "TitleEnglish": "Can't I Fall in Love?",
+                    "SummaryEnglish": "The Asakura siblings are surprised when a new transfer student, Sakura Yoshino, appears.",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "417318",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417318",
+                    "TitleEnglish": "The Dark Nemu Explodes",
+                    "SummaryEnglish": "Sakura's insistent affections manage to upset Nemu.",
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "417319",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417319",
+                    "TitleEnglish": "So, it's a bannana, eh?",
+                    "SummaryEnglish": "While Miharu is in the hospital, Junichi must take care of an android based on Miharu's appearance and personality.",
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "417320",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417320",
+                    "TitleEnglish": "Canary Under the Cherry Tree",
+                    "SummaryEnglish": "A mishap with Sakura and Nemu causes Junichi to go hungry for much of the day, but Kotori, the girl he hears singing in the park, offers him one of his favorite foods.",
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "417321",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417321",
+                    "TitleEnglish": "Because I'm a Maid...",
+                    "SummaryEnglish": "On a day he skips class, Jun'ichi rescues Yoriko, a cat-eared maid, from torment by local children. She offers to serve as the Asakuras' maid in return, but she has zero experience in any maid skills.",
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "417322",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417322",
+                    "TitleEnglish": "Let's Go to the Ocean!",
+                    "SummaryEnglish": "Jun'ichi invites his friends to the beach, little realizing a certain promise he made earlier.",
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "417323",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417323",
+                    "TitleEnglish": "Welcome to the Mizukoshi House!",
+                    "SummaryEnglish": "Sun'ichi helps Moe get to school under the nose of the hall monitors,and she invites him to a nabe meal in return.",
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "417324",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417324",
+                    "TitleEnglish": "Utamaro's Spring",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "417325",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417325",
+                    "TitleEnglish": "Mysterious Poet",
+                    "SummaryEnglish": "Nemu keeps receiving various anonymous poems, from a secret admirer.",
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "417326",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417326",
+                    "TitleEnglish": "Because I Want You to Listen...",
+                    "SummaryEnglish": "Junichi agrees to go to Kotori's recital but in the same time he has to meet with Nemu.",
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "417327",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417327",
+                    "TitleEnglish": "Let's Go Outside!",
+                    "SummaryEnglish": "Jun'ichi,Nemu,Sakura,and Suginami try various plans to coas the hikikomori yoriko outside.",
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "417328",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417328",
+                    "TitleEnglish": "We're Only Pretending to Be Lovers!",
+                    "SummaryEnglish": "Mako asks Jun'ichi an unusual favor to help her turn down a persistent girl suitor.",
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "417329",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417329",
+                    "TitleEnglish": "Sakura's Chest Throbbing?",
+                    "SummaryEnglish": "Suginami sponsors a trip to a jungle-themed resort, where Moe causes a bit of a ruckus.",
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "417330",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417330",
+                    "TitleEnglish": "Shopping Puppy-Style",
+                    "SummaryEnglish": "As Nemu ponders the Asakuras' finances,Miharu asks Jun'ichi to take her shoping. They run into Nemu, who does a little shoping of her own.",
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "417331",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417331",
+                    "TitleEnglish": "Summary",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "417332",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417332",
+                    "TitleEnglish": "The Unskilled Magician",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "417333",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417333",
+                    "TitleEnglish": "A Feeling That Will Never Reach You",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "417334",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417334",
+                    "TitleEnglish": "A Secret for Only Those Two",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "417335",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417335",
+                    "TitleEnglish": "The Time When I'm Happy",
+                    "SummaryEnglish": "After the entire school finds out how the relationship between Junichi and Nemu has developed, Sakura and Suginami try to stop them before they take their relationship even further.",
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "417336",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417336",
+                    "TitleEnglish": "Feelings Brushing By",
+                    "SummaryEnglish": "Seeing Jun'ichi and Nemu closer than ever before, Sakura tries to pull them apart using Jun'ichi's sense of honor, sparking a heated quarrel between the two girls. That night, Nemu collapses in Jun'ichi's arms, with cherry blossom petals falling from her lips.",
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "417337",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417337",
+                    "TitleEnglish": "Sakura's Decision",
+                    "SummaryEnglish": "After a welcoming party for Sakura, the Asakuras and their friends repair the neglected Yoshino house. Sakura shoots down Aisia's hopes of magic lessons, and tries to explain the dangers of magic.",
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "417338",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417338",
+                    "TitleEnglish": "Wonderful Memories",
+                    "SummaryEnglish": "Nemu manages to regain consciousness, to the relief of Jun'ichi and his friends. Yoriko asks Jun'ichi for her \"wages\": a date at night. Together they share Yoriko's dream, going to school together and building wonderful memories with the boy Misaki fell in love with.",
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "417339",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417339",
+                    "TitleEnglish": "An Honest Confession",
+                    "SummaryEnglish": "Kotori realizes that her telepathic power is fading, sensing only painful noise when she tries to probe anyone but Jun'ichi. She focuses her attention on him, as being able to sense his thoughts puts her at ease; however, her friends point out that she is also falling in love.",
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "417340",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417340",
+                    "TitleEnglish": "The Door Into Memories",
+                    "SummaryEnglish": "Miharu the android, in order to become more like her human counterpart, attempts to search for Miharu's memories within herself, despite the fact that they weren't a part of her programming, and the fact that such searching greatly shortens her lifespan.",
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "417341",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417341",
+                    "TitleEnglish": "Breaking Hearts",
+                    "SummaryEnglish": "Nemu, who is still in the hospital, is visited by Mako and Suginami, but she doesn't remember who they are.",
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "417342",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/417342",
+                    "TitleEnglish": "Final Episode",
+                    "SummaryEnglish": "Nemu, still affected by amnesia and dazed, wanders away from home. Junichi goes looking for her.",
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "62721",
+            "URL": "https://thetvdb.com/series/da-capo/seasons/official/2",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "629821",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/629821",
+                    "TitleEnglish": "Two Years Since Then…",
+                    "SummaryEnglish": "Jun'ichi, with the help of his group of friends (the self-appointed \"Support Team\"), manages his daily life in Nemu's absence. On a stormy summer day, a mysterious young girl arrives at his door.",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "629831",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/629831",
+                    "TitleEnglish": "Unreadable Map",
+                    "SummaryEnglish": "Jun'ichi and Kotori decide to skip school and help the girl, Aisia, find her destination on a rain-soaked map written in a foreign language.",
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "629841",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/629841",
+                    "TitleEnglish": "Beneath the Same Roof",
+                    "SummaryEnglish": "After learning that grandmother Yoshino is dead, and after Jun'ichi inadvertently shows his only magical skill, Aisia decides to make him her \"Master\". When Mako discovers her, she insists on having Aisia stay at the Mizukoshi residence.",
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "629851",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/629851",
+                    "TitleEnglish": "Past the Rows of Cherry Trees",
+                    "SummaryEnglish": "Convinced that Jun'ichi studies at a school of magic, Aisia sneaks into Kazami Academy.",
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "629861",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/629861",
+                    "TitleEnglish": "Magic's Tail",
+                    "SummaryEnglish": "Aisia keeps a close eye on Jun'ichi to \"catch\" him using magic, despite his insistence that he can only conjure Japanese confections.",
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "629871",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/629871",
+                    "TitleEnglish": "A Letter for Miharu",
+                    "SummaryEnglish": "Rumors abound after Miharu discovers a letter in her shoe locker.",
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "629881",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/629881",
+                    "TitleEnglish": "Crossing and Missing Each Other",
+                    "SummaryEnglish": "A fight with Nemu over Aisia living with Jun'ichi is exacerbated when he becomes jealous of the new doctor, Akishima, in the infirmary.",
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "629891",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/629891",
+                    "TitleEnglish": "A Storm Foreseen",
+                    "SummaryEnglish": "Jun'ichi attempts to find Nemu in the rain. After another heated fight with Nemu, he confronts Dr.Akishima.",
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "629901",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/629901",
+                    "TitleEnglish": "Unwithering Feelings",
+                    "SummaryEnglish": "Aisia (after a chat with Misaki) and Miharu concoct a scheme to get Jun'ichi and Nemu to reconcile. At the base of the dead cherry tree, Jun'ichi and Nemu talk about his grandmother.",
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "629911",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/629911",
+                    "TitleEnglish": "I'm Joining",
+                    "SummaryEnglish": "Jun'ichi and Nemu lose sleep watching a drama series on DVD. Left alone, Aisia joins Tamaki's miko club, thinking that Shinto is an eastern form of magic. She decides to use her newfound knowledge on the school's baseball team, who is known for fifty straight losses without even a hit.",
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "629921",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/629921",
+                    "TitleEnglish": "Writing In Progress!",
+                    "SummaryEnglish": "When Nanako has trouble making a deadline for the final chapter of her magical girl comic, Aisia decides to provide some inspiration.",
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "629931",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/629931",
+                    "TitleEnglish": "The Two Stars of Hatsune-Jima",
+                    "SummaryEnglish": "Aisia and Alice put together a show for the hospitalized children, in particular for a young girl who loves the circus.",
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "629941",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/629941",
+                    "TitleEnglish": "Aisia's Summer",
+                    "SummaryEnglish": "As Jun'ichi and Nemu plan for the imminent summer vacation, Aisia continues her solo magic training.",
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "629951",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/629951",
+                    "TitleEnglish": "Door of the Heart",
+                    "SummaryEnglish": "During a trip to the beach, Aisia discovers Kotori's hidden feelings for Jun'ichi.",
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "629961",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/629961",
+                    "TitleEnglish": "Delivering a Singing Voice",
+                    "SummaryEnglish": "Aisia tries to push Kotori closer to Jun'ichi, but Kotori accepts that she will never have him.",
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "629971",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/629971",
+                    "TitleEnglish": "Blossoming Memories",
+                    "SummaryEnglish": "Aisia develops feelings of rivalry towards Nemu, and of affection towards Jun'ichi.",
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "629981",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/629981",
+                    "TitleEnglish": "Nemu and Jun'ichi",
+                    "SummaryEnglish": "Aisia tries to compete with Nemu in looking after Jun'ichi (to no avail), and accompanies them on a date. She begins to understand how much Nemu cares for him, but is confused by his seeming lack of understanding or gratitude.",
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "629991",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/629991",
+                    "TitleEnglish": "A Mirage the Color of Cherry Blossoms",
+                    "SummaryEnglish": "A blond-haired, voluptuous young woman with twin ponytails is spotted on the island. Thinking that Sakura has returned, Jun'ichi, Nemu, and their friends follow Utamaru to see if he leads them to her.",
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "630001",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/630001",
+                    "TitleEnglish": "Sakura's Words",
+                    "SummaryEnglish": "After a welcoming party for Sakura, the Asakuras and their friends repair the neglected Yoshino house. Sakura shoots down Aisia's hopes of magic lessons, and tries to explain the dangers of magic.",
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "630011",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/630011",
+                    "TitleEnglish": "The Season That Won't Return",
+                    "SummaryEnglish": "Confused by Sakura's rejection, Aisia asks Kotori about what happened two years ago. She decides to see if everyone's desire can come true through the cherry tree again.",
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "630021",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/630021",
+                    "TitleEnglish": "Two Magicians",
+                    "SummaryEnglish": "Sakura talks Aisia out of trying to revive the cherry tree, but Aisia questions her desire to be with Jun'ichi.",
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "630031",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/630031",
+                    "TitleEnglish": "Everyone's Time",
+                    "SummaryEnglish": "Sakura and the other girls try to get Nemu and Jun'ichi together during a midsummer school day.",
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "630041",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/630041",
+                    "TitleEnglish": "The Summer of Silence",
+                    "SummaryEnglish": "Jun'ichi organizes a study session to help finish his neglected homework, but the other girls don't remember that he and Nemu are more than siblings, and even they begin to doubt their relationship.",
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "630051",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/630051",
+                    "TitleEnglish": "Vow",
+                    "SummaryEnglish": "Sakura, who hadn't seen Jun'ichi or the girls for a day, suddenly sees the cherry blossoms revived and certain memories erased.",
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "630061",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/630061",
+                    "TitleEnglish": "Da Capo",
+                    "SummaryEnglish": "Like a rewound clock, life becomes a semblance of what it was before Jun'ichi and Nemu became lovers. Sakura confronts Aisia's world with a warning.",
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "630071",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/da-capo/episodes/630071",
+                    "TitleEnglish": "The Bells of Happiness",
+                    "SummaryEnglish": "Although everyone now has a fair chance of being with Jun'ichi, he and Nemu become depressed. Suginami and Kotori bring the two back together to challenge this reality, and Aisia realizes the stubborn power of the cherry tree.",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
