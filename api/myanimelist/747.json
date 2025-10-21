@@ -1,31 +1,33 @@
 [
     {
-        "thetvdb url": "https://www.thetvdb.com/dereferrer/series/136251",
+        "season": "2",
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/season/276271",
         "myanimelist url": "https://myanimelist.net/anime/747",
         "myanimelist": 747,
-        "thetvdb": 136251
+        "thetvdb": 276271
     },
     {
-        "season": "1",
-        "thetvdb url": "https://www.thetvdb.com/dereferrer/season/176761",
-        "myanimelist url": "https://myanimelist.net/anime/747",
-        "myanimelist": 747,
-        "thetvdb": 176761
-    },
-    {
-        "season": 1,
+        "season": 2,
         "episode": 1,
-        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1586841",
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/2461961",
         "myanimelist url": "https://myanimelist.net/anime/747/Haru_wo_Daite_Ita/episode/1",
         "myanimelist": 747,
-        "thetvdb": 1586841
+        "thetvdb": 2461961
     },
     {
-        "season": 1,
+        "season": 2,
         "episode": 2,
-        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1586851",
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/2461971",
         "myanimelist url": "https://myanimelist.net/anime/747/Haru_wo_Daite_Ita/episode/2",
         "myanimelist": 747,
-        "thetvdb": 1586851
+        "thetvdb": 2461971
+    },
+    {
+        "season": 2,
+        "episode": 3,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/2461981",
+        "myanimelist url": "https://myanimelist.net/anime/747/Haru_wo_Daite_Ita/episode/3",
+        "myanimelist": 747,
+        "thetvdb": 2461981
     }
 ]

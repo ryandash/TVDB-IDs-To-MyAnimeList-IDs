@@ -1,15 +1,26 @@
 [
     {
-        "thetvdb url": "https://www.thetvdb.com/dereferrer/series/283126",
-        "myanimelist url": "https://myanimelist.net/anime/58441",
+        "season": 1,
+        "episode": 1,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/4916900",
+        "myanimelist url": "https://myanimelist.net/anime/584411",
         "myanimelist": 58441,
-        "thetvdb": 283126
+        "thetvdb": 4916900
     },
     {
-        "season": "1",
-        "thetvdb url": "https://www.thetvdb.com/dereferrer/season/589260",
-        "myanimelist url": "https://myanimelist.net/anime/58441",
+        "season": 1,
+        "episode": 2,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/4916901",
+        "myanimelist url": "https://myanimelist.net/anime/584412",
         "myanimelist": 58441,
-        "thetvdb": 589260
+        "thetvdb": 4916901
+    },
+    {
+        "season": 1,
+        "episode": 3,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/4916902",
+        "myanimelist url": "https://myanimelist.net/anime/584413",
+        "myanimelist": 58441,
+        "thetvdb": 4916902
     }
 ]

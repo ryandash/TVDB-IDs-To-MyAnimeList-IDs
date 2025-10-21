@@ -1,31 +1,26 @@
 [
     {
-        "thetvdb url": "https://www.thetvdb.com/dereferrer/series/251071",
-        "myanimelist url": "https://myanimelist.net/anime/17491",
-        "myanimelist": 17491,
-        "thetvdb": 251071
-    },
-    {
-        "season": "1",
-        "thetvdb url": "https://www.thetvdb.com/dereferrer/season/471977",
-        "myanimelist url": "https://myanimelist.net/anime/17491",
-        "myanimelist": 17491,
-        "thetvdb": 471977
-    },
-    {
         "season": 1,
-        "episode": 1,
-        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/4152542",
+        "episode": 3,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/4152544",
         "myanimelist url": "https://myanimelist.net/anime/17491/Garden/episode/1",
         "myanimelist": 17491,
-        "thetvdb": 4152542
+        "thetvdb": 4152544
     },
     {
         "season": 1,
-        "episode": 2,
-        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/4152543",
+        "episode": 4,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/4152545",
         "myanimelist url": "https://myanimelist.net/anime/17491/Garden/episode/2",
         "myanimelist": 17491,
-        "thetvdb": 4152543
+        "thetvdb": 4152545
+    },
+    {
+        "season": 1,
+        "episode": 5,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/4152546",
+        "myanimelist url": "https://myanimelist.net/anime/17491/Garden/episode/3",
+        "myanimelist": 17491,
+        "thetvdb": 4152546
     }
 ]

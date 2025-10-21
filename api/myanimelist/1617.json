@@ -1,47 +1,410 @@
 [
     {
-        "thetvdb url": "https://www.thetvdb.com/dereferrer/series/208741",
-        "myanimelist url": "https://myanimelist.net/anime/1617",
-        "myanimelist": 1617,
-        "thetvdb": 208741
-    },
-    {
-        "season": "1",
-        "thetvdb url": "https://www.thetvdb.com/dereferrer/season/363941",
-        "myanimelist url": "https://myanimelist.net/anime/1617",
-        "myanimelist": 1617,
-        "thetvdb": 363941
-    },
-    {
         "season": 1,
         "episode": 1,
-        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/3217821",
-        "myanimelist url": "https://myanimelist.net/anime/1617/Massugu_ni_Ikou/episode/1",
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1854951",
+        "myanimelist url": "https://myanimelist.net/anime/16171",
         "myanimelist": 1617,
-        "thetvdb": 3217821
+        "thetvdb": 1854951
     },
     {
         "season": 1,
         "episode": 2,
-        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/3217831",
-        "myanimelist url": "https://myanimelist.net/anime/1617/Massugu_ni_Ikou/episode/2",
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1854961",
+        "myanimelist url": "https://myanimelist.net/anime/16172",
         "myanimelist": 1617,
-        "thetvdb": 3217831
+        "thetvdb": 1854961
     },
     {
         "season": 1,
         "episode": 3,
-        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/3217841",
-        "myanimelist url": "https://myanimelist.net/anime/1617/Massugu_ni_Ikou/episode/3",
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1854971",
+        "myanimelist url": "https://myanimelist.net/anime/16173",
         "myanimelist": 1617,
-        "thetvdb": 3217841
+        "thetvdb": 1854971
     },
     {
         "season": 1,
         "episode": 4,
-        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/3217851",
-        "myanimelist url": "https://myanimelist.net/anime/1617/Massugu_ni_Ikou/episode/4",
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1854981",
+        "myanimelist url": "https://myanimelist.net/anime/16174",
         "myanimelist": 1617,
-        "thetvdb": 3217851
+        "thetvdb": 1854981
+    },
+    {
+        "season": 1,
+        "episode": 5,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1854991",
+        "myanimelist url": "https://myanimelist.net/anime/16175",
+        "myanimelist": 1617,
+        "thetvdb": 1854991
+    },
+    {
+        "season": 1,
+        "episode": 6,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855001",
+        "myanimelist url": "https://myanimelist.net/anime/16176",
+        "myanimelist": 1617,
+        "thetvdb": 1855001
+    },
+    {
+        "season": 1,
+        "episode": 7,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855011",
+        "myanimelist url": "https://myanimelist.net/anime/16177",
+        "myanimelist": 1617,
+        "thetvdb": 1855011
+    },
+    {
+        "season": 1,
+        "episode": 8,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855021",
+        "myanimelist url": "https://myanimelist.net/anime/16178",
+        "myanimelist": 1617,
+        "thetvdb": 1855021
+    },
+    {
+        "season": 1,
+        "episode": 9,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855031",
+        "myanimelist url": "https://myanimelist.net/anime/16179",
+        "myanimelist": 1617,
+        "thetvdb": 1855031
+    },
+    {
+        "season": 1,
+        "episode": 10,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855041",
+        "myanimelist url": "https://myanimelist.net/anime/161710",
+        "myanimelist": 1617,
+        "thetvdb": 1855041
+    },
+    {
+        "season": 1,
+        "episode": 12,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855061",
+        "myanimelist url": "https://myanimelist.net/anime/387511",
+        "myanimelist": 1617,
+        "thetvdb": 1855061
+    },
+    {
+        "season": 1,
+        "episode": 13,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855071",
+        "myanimelist url": "https://myanimelist.net/anime/387512",
+        "myanimelist": 1617,
+        "thetvdb": 1855071
+    },
+    {
+        "season": 1,
+        "episode": 14,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855081",
+        "myanimelist url": "https://myanimelist.net/anime/387513",
+        "myanimelist": 1617,
+        "thetvdb": 1855081
+    },
+    {
+        "season": 1,
+        "episode": 15,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855091",
+        "myanimelist url": "https://myanimelist.net/anime/387514",
+        "myanimelist": 1617,
+        "thetvdb": 1855091
+    },
+    {
+        "season": 1,
+        "episode": 16,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855101",
+        "myanimelist url": "https://myanimelist.net/anime/387515",
+        "myanimelist": 1617,
+        "thetvdb": 1855101
+    },
+    {
+        "season": 1,
+        "episode": 17,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855111",
+        "myanimelist url": "https://myanimelist.net/anime/387516",
+        "myanimelist": 1617,
+        "thetvdb": 1855111
+    },
+    {
+        "season": 1,
+        "episode": 18,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855121",
+        "myanimelist url": "https://myanimelist.net/anime/387517",
+        "myanimelist": 1617,
+        "thetvdb": 1855121
+    },
+    {
+        "season": 1,
+        "episode": 19,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855131",
+        "myanimelist url": "https://myanimelist.net/anime/387518",
+        "myanimelist": 1617,
+        "thetvdb": 1855131
+    },
+    {
+        "season": 1,
+        "episode": 20,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855141",
+        "myanimelist url": "https://myanimelist.net/anime/387519",
+        "myanimelist": 1617,
+        "thetvdb": 1855141
+    },
+    {
+        "season": 1,
+        "episode": 21,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855151",
+        "myanimelist url": "https://myanimelist.net/anime/387520",
+        "myanimelist": 1617,
+        "thetvdb": 1855151
+    },
+    {
+        "season": 1,
+        "episode": 22,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855161",
+        "myanimelist url": "https://myanimelist.net/anime/387521",
+        "myanimelist": 1617,
+        "thetvdb": 1855161
+    },
+    {
+        "season": 1,
+        "episode": 23,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855171",
+        "myanimelist url": "https://myanimelist.net/anime/387522",
+        "myanimelist": 1617,
+        "thetvdb": 1855171
+    },
+    {
+        "season": 1,
+        "episode": 24,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855181",
+        "myanimelist url": "https://myanimelist.net/anime/387523",
+        "myanimelist": 1617,
+        "thetvdb": 1855181
+    },
+    {
+        "season": 1,
+        "episode": 25,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855191",
+        "myanimelist url": "https://myanimelist.net/anime/387524",
+        "myanimelist": 1617,
+        "thetvdb": 1855191
+    },
+    {
+        "season": 1,
+        "episode": 26,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855201",
+        "myanimelist url": "https://myanimelist.net/anime/387525",
+        "myanimelist": 1617,
+        "thetvdb": 1855201
+    },
+    {
+        "season": 1,
+        "episode": 27,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855211",
+        "myanimelist url": "https://myanimelist.net/anime/387526",
+        "myanimelist": 1617,
+        "thetvdb": 1855211
+    },
+    {
+        "season": 1,
+        "episode": 28,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855221",
+        "myanimelist url": "https://myanimelist.net/anime/387527",
+        "myanimelist": 1617,
+        "thetvdb": 1855221
+    },
+    {
+        "season": 1,
+        "episode": 29,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855231",
+        "myanimelist url": "https://myanimelist.net/anime/387528",
+        "myanimelist": 1617,
+        "thetvdb": 1855231
+    },
+    {
+        "season": 1,
+        "episode": 30,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855241",
+        "myanimelist url": "https://myanimelist.net/anime/387529",
+        "myanimelist": 1617,
+        "thetvdb": 1855241
+    },
+    {
+        "season": 1,
+        "episode": 31,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855251",
+        "myanimelist url": "https://myanimelist.net/anime/387530",
+        "myanimelist": 1617,
+        "thetvdb": 1855251
+    },
+    {
+        "season": 1,
+        "episode": 32,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855261",
+        "myanimelist url": "https://myanimelist.net/anime/387531",
+        "myanimelist": 1617,
+        "thetvdb": 1855261
+    },
+    {
+        "season": 1,
+        "episode": 33,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855271",
+        "myanimelist url": "https://myanimelist.net/anime/387532",
+        "myanimelist": 1617,
+        "thetvdb": 1855271
+    },
+    {
+        "season": 1,
+        "episode": 34,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855281",
+        "myanimelist url": "https://myanimelist.net/anime/387533",
+        "myanimelist": 1617,
+        "thetvdb": 1855281
+    },
+    {
+        "season": 1,
+        "episode": 35,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855291",
+        "myanimelist url": "https://myanimelist.net/anime/387534",
+        "myanimelist": 1617,
+        "thetvdb": 1855291
+    },
+    {
+        "season": 1,
+        "episode": 36,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855301",
+        "myanimelist url": "https://myanimelist.net/anime/387535",
+        "myanimelist": 1617,
+        "thetvdb": 1855301
+    },
+    {
+        "season": 1,
+        "episode": 37,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855311",
+        "myanimelist url": "https://myanimelist.net/anime/387536",
+        "myanimelist": 1617,
+        "thetvdb": 1855311
+    },
+    {
+        "season": 1,
+        "episode": 38,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855321",
+        "myanimelist url": "https://myanimelist.net/anime/387537",
+        "myanimelist": 1617,
+        "thetvdb": 1855321
+    },
+    {
+        "season": 1,
+        "episode": 39,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855331",
+        "myanimelist url": "https://myanimelist.net/anime/387538",
+        "myanimelist": 1617,
+        "thetvdb": 1855331
+    },
+    {
+        "season": 1,
+        "episode": 40,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855341",
+        "myanimelist url": "https://myanimelist.net/anime/387539",
+        "myanimelist": 1617,
+        "thetvdb": 1855341
+    },
+    {
+        "season": 1,
+        "episode": 41,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855351",
+        "myanimelist url": "https://myanimelist.net/anime/387540",
+        "myanimelist": 1617,
+        "thetvdb": 1855351
+    },
+    {
+        "season": 1,
+        "episode": 42,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855361",
+        "myanimelist url": "https://myanimelist.net/anime/387541",
+        "myanimelist": 1617,
+        "thetvdb": 1855361
+    },
+    {
+        "season": 1,
+        "episode": 43,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855371",
+        "myanimelist url": "https://myanimelist.net/anime/387542",
+        "myanimelist": 1617,
+        "thetvdb": 1855371
+    },
+    {
+        "season": 1,
+        "episode": 44,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855381",
+        "myanimelist url": "https://myanimelist.net/anime/387543",
+        "myanimelist": 1617,
+        "thetvdb": 1855381
+    },
+    {
+        "season": 1,
+        "episode": 45,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855391",
+        "myanimelist url": "https://myanimelist.net/anime/387544",
+        "myanimelist": 1617,
+        "thetvdb": 1855391
+    },
+    {
+        "season": 1,
+        "episode": 46,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855401",
+        "myanimelist url": "https://myanimelist.net/anime/387545",
+        "myanimelist": 1617,
+        "thetvdb": 1855401
+    },
+    {
+        "season": 1,
+        "episode": 47,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855411",
+        "myanimelist url": "https://myanimelist.net/anime/387546",
+        "myanimelist": 1617,
+        "thetvdb": 1855411
+    },
+    {
+        "season": 1,
+        "episode": 48,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855421",
+        "myanimelist url": "https://myanimelist.net/anime/387547",
+        "myanimelist": 1617,
+        "thetvdb": 1855421
+    },
+    {
+        "season": 1,
+        "episode": 49,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855431",
+        "myanimelist url": "https://myanimelist.net/anime/387548",
+        "myanimelist": 1617,
+        "thetvdb": 1855431
+    },
+    {
+        "season": 1,
+        "episode": 50,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855441",
+        "myanimelist url": "https://myanimelist.net/anime/387549",
+        "myanimelist": 1617,
+        "thetvdb": 1855441
+    },
+    {
+        "season": 1,
+        "episode": 51,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855451",
+        "myanimelist url": "https://myanimelist.net/anime/387550",
+        "myanimelist": 1617,
+        "thetvdb": 1855451
+    },
+    {
+        "season": 1,
+        "episode": 52,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/1855461",
+        "myanimelist url": "https://myanimelist.net/anime/387551",
+        "myanimelist": 1617,
+        "thetvdb": 1855461
     }
 ]

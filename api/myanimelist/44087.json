@@ -1,18 +1,25 @@
 [
     {
-        "season": 2,
-        "episode": 3,
-        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/360518",
-        "myanimelist url": "https://myanimelist.net/anime/44087/Gintama__The_Semi-Final/episode/1",
+        "season": "1",
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/season/1895980",
+        "myanimelist url": "https://myanimelist.net/anime/44087",
         "myanimelist": 44087,
-        "thetvdb": 360518
+        "thetvdb": 1895980
     },
     {
-        "season": 2,
-        "episode": 4,
-        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/360519",
+        "season": 1,
+        "episode": 1,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/8150147",
+        "myanimelist url": "https://myanimelist.net/anime/44087/Gintama__The_Semi-Final/episode/1",
+        "myanimelist": 44087,
+        "thetvdb": 8150147
+    },
+    {
+        "season": 1,
+        "episode": 2,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/8150148",
         "myanimelist url": "https://myanimelist.net/anime/44087/Gintama__The_Semi-Final/episode/2",
         "myanimelist": 44087,
-        "thetvdb": 360519
+        "thetvdb": 8150148
     }
 ]
