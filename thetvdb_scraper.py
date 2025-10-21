@@ -411,6 +411,7 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str):
     
     if existing_date and modified_date and modified_date <= existing_date:
         print(f"\nSkipped {series_id}")
+        enqueue_save_anime(series_id, anime_data, category)
         return
 
     if category != "movie":
