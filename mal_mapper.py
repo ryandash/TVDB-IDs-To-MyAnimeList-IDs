@@ -12,6 +12,7 @@ import time
 from pathlib import Path
 from typing import Optional, Union
 
+from attr import dataclass
 import httpx
 from rapidfuzz import fuzz
 from tqdm import tqdm
@@ -254,6 +255,39 @@ def load_mapped_lookup(mapped: list) -> dict[str, tuple[int, str]]:
             print(f"bad entry: {entry}")
     return lookup
 
+@dataclass
+class TVDBMatches:
+    TvdbId: int
+    MalId: int
+    Name: str
+    Url: str
+
+MIN_MAP_DIRS = {
+    "series": Path("min_map_data/series"),
+    "movie": Path("min_map_data/movie"),
+}
+
+def load_existing_malids(category: str) -> dict[str, int]:
+    """Load pre-known MAL IDs from min_map_data/<category>/ directories."""
+    existing_lookup = {}
+    dirpath = MIN_MAP_DIRS[category]
+
+    if not dirpath.exists():
+        return existing_lookup
+
+    for file in dirpath.glob("*.json"):
+        try:
+            data = safe_load_json(file)
+            mal_id = data.get("MalId")
+            if not mal_id:
+                continue
+            series_id = file.stem
+            existing_lookup[series_id] = int(mal_id)
+        except Exception as e:
+            print(f"[WARN] Skipping {file.name} — no valid MAL ID ({e})")
+
+    return existing_lookup
+
 # ----------------------
 # Mapping
 # ----------------------
@@ -283,6 +317,8 @@ def map_anime():
         else:
             lookup = {}
 
+        existing_malids = load_existing_malids(category)
+
         mapped = []
         unmapped_series = []
         unmapped_seasons = []
@@ -295,10 +331,16 @@ def map_anime():
             malid = None
             all_titles: list[str] = []
 
-            if series_id in lookup:
+            if series_id in existing_malids:
+                malid = existing_malids[series_id]
+            elif series_id in lookup:
                 malid = lookup[series_id][0]
             else:
-                for anime_type in ["tv", "ona", "ova"]:
+                if category == "movie":
+                    types = ["movie"]
+                else:
+                    types = ["tv", "ona", "ova"]
+                for anime_type in types:
                     if malid:
                         break
                     titles_to_try = [series_title] + series_aliases
@@ -328,6 +370,8 @@ def map_anime():
                         "Jikan titles": all_titles
                     })
                     continue
+            if category == "movie":
+                continue
 
             # Initialize episode tracking
             SeasonMalID = malid
