@@ -70,6 +70,11 @@ def merge_root_files(input_dir: Path, repo_root: Path):
 
     for pattern in patterns:
         files = collect_files(input_dir, pattern)
+        
+        repo_file = repo_root / pattern
+        if repo_file.exists():
+            files.append(repo_file)
+            
         if not files:
             print(f"No files found for pattern {pattern}")
             continue
