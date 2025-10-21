@@ -1,0 +1,41 @@
+{
+    "URL": "https://thetvdb.com/series/427736-",
+    "Genres": [
+        "Action",
+        "Drama"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/113020"
+    ],
+    "TitleEnglish": "Don: Gokudou Suikoden",
+    "SummaryEnglish": "Takekichi and Masakazu are two tough guys who are forced to go underground when they lose their boss in a turf war.",
+    "Aliases": [],
+    "Modified": "2023-02-16",
+    "Seasons": {
+        "1": {
+            "ID": "2032158",
+            "URL": "https://thetvdb.com/series/427736-/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "9476048",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/427736-/episodes/9476048",
+                    "TitleEnglish": "上卷",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9476049",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/427736-/episodes/9476049",
+                    "TitleEnglish": "下卷",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

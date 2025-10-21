@@ -1,0 +1,62 @@
+{
+    "URL": "https://thetvdb.com/series/luna-varga",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0101137/",
+        "https://www.themoviedb.org/tv/138680"
+    ],
+    "TitleEnglish": "Luna Varga",
+    "SummaryEnglish": "In trying to find a way to repel a hostile attack on her castle, Princess Luna of Rimzbel stumbles upon an ancient power. This allows her to summon a dinosaur demon that obeys her commands. Unfortunately, when the creature is around, she is attached to its head and acts as its brain. Her younger sister is then captured, and she must journey to find and save her.",
+    "Aliases": [
+        "Majuu Senshi Luna Varga",
+        "Demon Warrior Luna Varga"
+    ],
+    "Modified": "2024-10-20",
+    "Seasons": {
+        "1": {
+            "ID": "114371",
+            "URL": "https://thetvdb.com/series/luna-varga/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "1051471",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/luna-varga/episodes/1051471",
+                    "TitleEnglish": "Rimsbell",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1051481",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/luna-varga/episodes/1051481",
+                    "TitleEnglish": "Logrian",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1051491",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/luna-varga/episodes/1051491",
+                    "TitleEnglish": "Dunbas",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1051501",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/luna-varga/episodes/1051501",
+                    "TitleEnglish": "Dark Varga",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

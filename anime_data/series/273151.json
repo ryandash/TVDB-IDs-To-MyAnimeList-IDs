@@ -1,0 +1,43 @@
+{
+    "URL": "https://thetvdb.com/series/goddamn",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Sport"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt4297116/",
+        "https://www.themoviedb.org/tv/80197"
+    ],
+    "TitleEnglish": "Goddamn",
+    "SummaryEnglish": "Gen Todoroki, a talented but accident-prone rally driver, gets offered a sponsoring deal by a big-shot car company—and the deal comes with a chance at the Safari Rally Kenya championship. But the road there is bumpy and rich with tough competitors...",
+    "Aliases": [],
+    "Modified": "2023-10-31",
+    "Seasons": {
+        "1": {
+            "ID": "529272",
+            "URL": "https://thetvdb.com/series/goddamn/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4656442",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/goddamn/episodes/4656442",
+                    "TitleEnglish": "Survival Chaser",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4656443",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/goddamn/episodes/4656443",
+                    "TitleEnglish": "Go Ahead",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

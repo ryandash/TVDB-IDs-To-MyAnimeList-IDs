@@ -1,0 +1,62 @@
+{
+    "URL": "https://thetvdb.com/series/fantomas",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Horror",
+        "Mini-Series",
+        "Mystery",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0138234/",
+        "https://www.themoviedb.org/tv/69725"
+    ],
+    "TitleEnglish": "Fantômas",
+    "SummaryEnglish": "Master criminal Fantomas kills an ambassador, is having an affair with the dead man's wife, sneaks into a rich woman's house handing out vanishing-ink business cards, is caught and sentenced to death but switches with an actor, who goes to the guillotine.",
+    "Aliases": [],
+    "Modified": "2025-07-30",
+    "Seasons": {
+        "1": {
+            "ID": "130121",
+            "URL": "https://thetvdb.com/series/fantomas/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "1178211",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fantomas/episodes/1178211",
+                    "TitleEnglish": "The Magic Scaffold",
+                    "SummaryEnglish": "Commissioner Juve accompanies the Marquise de Langrune by train to Paris, to to collect the money from a winning lottery ticket. During the journey, she is strangled. Young Fandor, upset by the death of his aunt, decides to help the commissioner. Juve is also investigating the assassination of an ambassador, Lord Beltham. Clues lead him to a certain Gurn, who is the lover of the widow Beltham.",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1178221",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fantomas/episodes/1178221",
+                    "TitleEnglish": "The Devil's Embrace",
+                    "SummaryEnglish": "Paris trembles at the thought that Fantômas has escaped the guillotine. Using an array of disguises, Fantômas continues to perpetuate his crimes according to his extravagant whims. The beautiful Joséphine is thrown from a window, the Bercy warehouses are ablaze, and Lady Beltham disappears.",
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1178231",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fantomas/episodes/1178231",
+                    "TitleEnglish": "The Corpse Who Kills",
+                    "SummaryEnglish": "With Inspector Juve missing, Fandor takes over the investigation. Fantômas poisons the newly bankrupt Baroness de Vibray and Jacques Dollon is questioned by the police and arrested. When Fandor arrives at the prison to interview Dollon it is reported that he hanged himself in his cell. However, the body has disappeared!",
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1178261",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fantomas/episodes/1178261",
+                    "TitleEnglish": "The Streetcar Phantom",
+                    "SummaryEnglish": "With Fandor mistaken for a king and framed for murder by Fantômas, Inspector Juve sets out to prove his innocence.",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

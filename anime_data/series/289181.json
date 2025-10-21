@@ -1,0 +1,54 @@
+{
+    "URL": "https://thetvdb.com/series/alice-in-borderland",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Horror"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt13056398/",
+        "https://www.themoviedb.org/tv/71907"
+    ],
+    "TitleEnglish": "Alice in Borderland",
+    "SummaryEnglish": "The story follows a high school boy named Arisu and other youths who are transported to a devastated alternate world. Trapped, they are forced to play a deadly game of survival.",
+    "Aliases": [
+        "Imawa no Kuni no Alice",
+        "Alice in Borderland OVA"
+    ],
+    "Modified": "2025-03-05",
+    "Seasons": {
+        "1": {
+            "ID": "605805",
+            "URL": "https://thetvdb.com/series/alice-in-borderland/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "5068988",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/alice-in-borderland/episodes/5068988",
+                    "TitleEnglish": "Three of Clubs",
+                    "SummaryEnglish": "Alice participates, for the first time, in a game in Borderland. The game is a shrine stage where each player has to pull a fortune, and has to answer a question written on the fortune. If the answer is incorrect a hail of flaming arrows is fired at the players.",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5068989",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/alice-in-borderland/episodes/5068989",
+                    "TitleEnglish": "Five of Spades",
+                    "SummaryEnglish": "This game takes place in an apartment complex. Everyone in the complex will be running from \"It\". \"It\" is a muscular uzi-wielding horse masked individual.",
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5068990",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/alice-in-borderland/episodes/5068990",
+                    "TitleEnglish": "Seven of Hearts",
+                    "SummaryEnglish": "This game takes place in a botanical garden. One player becomes the wolf and the remaining three become sheep. The sheep shall try to avoid the gaze of the wolf.",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

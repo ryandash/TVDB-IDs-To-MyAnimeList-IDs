@@ -1,0 +1,44 @@
+{
+    "URL": "https://thetvdb.com/series/pandemic",
+    "Genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0802821/",
+        "https://www.themoviedb.org/tv/41322",
+        "https://www.themoviedb.org/tv/41322"
+    ],
+    "TitleEnglish": "Pandemic",
+    "SummaryEnglish": "When inexplicable flu-like symptoms kill a young man aboard an airliner en route to Los Angeles from Australia, Dr. Kayla Martin, head of the Center for Disease Control, orders the quarantine of all the passengers. But the deadly strain of this unknown virus is already spreading, and so is the panic. And now it's a race against the clock, and across the globe, to find Patient Zero",
+    "Aliases": [],
+    "Modified": "2024-05-06",
+    "Seasons": {
+        "1": {
+            "ID": "258271",
+            "URL": "https://thetvdb.com/series/pandemic/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "2328431",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pandemic/episodes/2328431",
+                    "TitleEnglish": "Part 1",
+                    "SummaryEnglish": "The bird flu virus spreads through Los Angeles as Dr. Kayla Martin, head of the CDC races to find a vaccine.  Part 1 of the mini-series.",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2328441",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pandemic/episodes/2328441",
+                    "TitleEnglish": "Part 2",
+                    "SummaryEnglish": "The bird flu virus spreads through Los Angeles as Dr. Kayla Martin, head of the CDC races to find a vaccine.  Part 2 of the mini-series.",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

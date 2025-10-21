@@ -1,0 +1,60 @@
+{
+    "URL": "https://thetvdb.com/series/landlock",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0316156/",
+        "https://www.themoviedb.org/tv/88423"
+    ],
+    "TitleEnglish": "Landlock",
+    "SummaryEnglish": "The land of Zer’lue is in turmoil, ravaged by the technological might of Chairman Sana'ku and his evil, militaristic Zul’earth forces. In a rapidly unfolding story of treachery, deceit and betrayal, only one boy holds the power to defeat such overwhelming odds... a boy named Lue'der, who possesses a mysterious red eye and the ability to control the power of the wind itself. With the fate of the world at stake, Lue'der must learn to unlock his legendary power and battle against the evil which threatens to engulf his planet.",
+    "Aliases": [],
+    "Modified": "2024-02-06",
+    "Seasons": {
+        "0": {
+            "ID": "70451",
+            "URL": "https://thetvdb.com/series/landlock/seasons/official/0",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "8453722",
+                    "TYPE": "OVA",
+                    "URL": "https://www.thetvdb.com/series/landlock/episodes/8453722",
+                    "TitleEnglish": "Landlock (OVA)",
+                    "SummaryEnglish": "The land of Zer’lue is in turmoil, ravaged by the technological might of Chairman Sana'ku and his evil, militaristic Zul’earth forces. In a rapidly unfolding story of treachery, deceit and betrayal, only one boy holds the power to defeat such overwhelming odds... a boy named Lue'der, who possesses a mysterious red eye and the ability to control the power of the wind itself. With the fate of the world at stake, Lue'der must learn to unlock his legendary power and battle against the evil which threatens to engulf his planet.",
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "1858109",
+            "URL": "https://thetvdb.com/series/landlock/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "686271",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/landlock/episodes/686271",
+                    "TitleEnglish": "Red Eye",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "686281",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/landlock/episodes/686281",
+                    "TitleEnglish": "Blue Eye",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

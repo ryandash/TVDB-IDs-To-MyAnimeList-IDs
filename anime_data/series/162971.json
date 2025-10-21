@@ -1,0 +1,61 @@
+{
+    "URL": "https://thetvdb.com/series/ellcia",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Fantasy",
+        "Suspense"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0250358/",
+        "https://www.themoviedb.org/tv/44009"
+    ],
+    "TitleEnglish": "Ellcia",
+    "SummaryEnglish": "The Sacred Book of the land of Eija has been rediscovered and with it the legends of a mysterious and all powerful ship. Now Princess Crystal of Megaronia has set forth on a quest to recover the ship and its ultimate weaponry. All that stands between her and total domination of the world is a small group of piratical misfits. Swords, sorcery and technology blend to form a mesmerizing tale of Good vs. Evil in Ellcia.",
+    "Aliases": [],
+    "Modified": "2024-09-30",
+    "Seasons": {
+        "1": {
+            "ID": "246371",
+            "URL": "https://thetvdb.com/series/ellcia/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "2212871",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ellcia/episodes/2212871",
+                    "TitleEnglish": "The Legend Begins",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2212881",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ellcia/episodes/2212881",
+                    "TitleEnglish": "Ghost Ship",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "2212891",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ellcia/episodes/2212891",
+                    "TitleEnglish": "Ironclads",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "2212901",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ellcia/episodes/2212901",
+                    "TitleEnglish": "The Ship of God",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

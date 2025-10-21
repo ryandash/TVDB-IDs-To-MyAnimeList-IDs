@@ -1,0 +1,43 @@
+{
+    "URL": "https://thetvdb.com/series/tekken-the-motion-picture",
+    "Genres": [
+        "Action",
+        "Sport"
+    ],
+    "Other Sites": [],
+    "TitleEnglish": "Tekken: The Motion Picture",
+    "SummaryEnglish": "A wealthy mogul organizes a world fighting tournament on an offshore Chinese island. His hated son in search for vengeance and a pair of cops investigating the real reason for holding the tournament, secretly join the fighters.",
+    "Aliases": [
+        "Tekken",
+        "The King Of Iron Fist Tournament The Movie",
+        "鉄拳"
+    ],
+    "Modified": "2023-12-30",
+    "Seasons": {
+        "1": {
+            "ID": "767864",
+            "URL": "https://thetvdb.com/series/tekken-the-motion-picture/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "6721579",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/tekken-the-motion-picture/episodes/6721579",
+                    "TitleEnglish": "Part I",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6721588",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/tekken-the-motion-picture/episodes/6721588",
+                    "TitleEnglish": "Part II",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

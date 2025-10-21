@@ -1,0 +1,40 @@
+{
+    "URL": "https://thetvdb.com/series/apocalypse-d-day",
+    "Genres": [
+        "Documentary",
+        "History",
+        "War"
+    ],
+    "Other Sites": [],
+    "TitleEnglish": "Apocalypse D-Day",
+    "SummaryEnglish": "Discover the key turning point in history - which started in June 1944 - through personal witness testimony and colourised archive footage.",
+    "Aliases": [],
+    "Modified": "2025-02-26",
+    "Seasons": {
+        "1": {
+            "ID": "2130202",
+            "URL": "https://thetvdb.com/series/apocalypse-d-day/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "10519184",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/apocalypse-d-day/episodes/10519184",
+                    "TitleEnglish": "The Great Challenge",
+                    "SummaryEnglish": "While the allies aim to end Hitler's domination of Western Europe, British troops are secretly being trained for an enormous, amphibious operation.",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10519185",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/apocalypse-d-day/episodes/10519185",
+                    "TitleEnglish": "The Great Assault",
+                    "SummaryEnglish": "In June 1944, the Allied armada launches an assault on the Normandy coast, with soldiers charging in successive waves on a successful and historic day.",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

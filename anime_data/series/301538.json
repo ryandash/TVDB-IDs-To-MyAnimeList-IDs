@@ -1,0 +1,82 @@
+{
+    "URL": "https://thetvdb.com/series/marco",
+    "Genres": [
+        "Food"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt16205192/",
+        "https://www.themoviedb.org/tv/127672"
+    ],
+    "TitleEnglish": "Marco",
+    "SummaryEnglish": "Marco Pierre White at the height of his powers, the show takes you behind the scenes at Harvey's in 1989-1990.  Featuring a young Gordon Ramsay, Marco cooks for his mentors including Albert Roux, Nico Ladenis, Pierre Koffman, Raymond Blanc - and invites Keith Floyd over to shadow him.",
+    "Aliases": [],
+    "Modified": "2024-05-17",
+    "Seasons": {
+        "1": {
+            "ID": "640535",
+            "URL": "https://thetvdb.com/series/marco/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "5359380",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/marco/episodes/5359380",
+                    "TitleEnglish": "Marco Cooks for Albert Roux",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5359381",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/marco/episodes/5359381",
+                    "TitleEnglish": "Marco Cooks for Nico Ladenis",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5359382",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/marco/episodes/5359382",
+                    "TitleEnglish": "Marco Cooks for Pierre Koffman",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5359383",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/marco/episodes/5359383",
+                    "TitleEnglish": "Marco Cooks for Raymond Blanc",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "640536",
+            "URL": "https://thetvdb.com/series/marco/seasons/official/2",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "5359413",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/marco/episodes/5359413",
+                    "TitleEnglish": "Two Michelin Stars",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5359442",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/marco/episodes/5359442",
+                    "TitleEnglish": "Cooking with Keith Floyd",
+                    "SummaryEnglish": "Kay Avila does her best to interview and annoy Marco Pierre White while Keith Floyd drops by to have a drink and bask in Marco's cooking.",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

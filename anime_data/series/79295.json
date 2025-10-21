@@ -1,0 +1,68 @@
+{
+    "URL": "https://thetvdb.com/series/battle-angel-alita",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Science Fiction",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0107061/",
+        "https://www.themoviedb.org/tv/71999",
+        "https://www.themoviedb.org/tv/71999",
+        "https://en.wikipedia.org/wiki/Battle_Angel_(OVA)"
+    ],
+    "TitleEnglish": "Battle Angel Alita",
+    "SummaryEnglish": "Doc Ido, a doctor and mechanic who lives and works in the hellish, postapocalyptic \"Scrapyard\", finds the—miraculously preserved—remains of a female cyborg in a junk heap. After he revives and rebuilds her, the preternaturally strong, amnesiac \"Gally\" begins to forge a life for herself in a world where every day can bring a fight for life. Known as \"Battle Angel Alita\" in the west and as \"Hyper Future Vision GUNNM\" in the east, the OVA adapts the first two volumes of the \"Battle Angel Alita\" manga.",
+    "Aliases": [
+        "GUNNM"
+    ],
+    "Modified": "2025-05-26",
+    "Seasons": {
+        "0": {
+            "ID": "535573",
+            "URL": "https://thetvdb.com/series/battle-angel-alita/seasons/official/0",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "8156409",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-angel-alita/episodes/8156409",
+                    "TitleEnglish": "Gunnm 3D Special",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "16256",
+            "URL": "https://thetvdb.com/series/battle-angel-alita/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "307054",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-angel-alita/episodes/307054",
+                    "TitleEnglish": "Rusty Angel",
+                    "SummaryEnglish": "As he scavenges the Zalem dump heap for useful parts, cyberphysician Daisuke Ido comes across the remains of a female cyborg, who is still alive. Ido takes her home and decides to restore her, transferring her into a new cyborg body. Gally has no memory of her past, but soon displays remarkable fighting skills. She starts working as a bounty hunter and meets a young boy Yugo.",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "307055",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-angel-alita/episodes/307055",
+                    "TitleEnglish": "Tears Sign",
+                    "SummaryEnglish": "Together with Gally, Yugo tries to pursue his impossible dream of going to Zalem. A giant satelite floating above the city. Not realising that Yugo's dream can only end in missery, Gally sets out to help him.",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

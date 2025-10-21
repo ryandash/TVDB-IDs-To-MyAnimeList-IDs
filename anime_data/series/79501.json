@@ -1,0 +1,967 @@
+{
+    "URL": "https://thetvdb.com/series/heroes",
+    "Genres": [
+        "Drama",
+        "Fantasy",
+        "Science Fiction",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/7524-2D5D-E000-C17E-6725-E",
+        "https://www.facebook.com/heroes",
+        "https://www.imdb.com/title/tt0813715/",
+        "https://www.nbc.com/heroes",
+        "http://www.reddit.com/r/Heroes",
+        "https://tvlistings.zap2it.com/overview.html?programSeriesId=SH00848361",
+        "https://www.themoviedb.org/tv/1639"
+    ],
+    "TitleEnglish": "Heroes",
+    "SummaryEnglish": "Heroes is a cult serial saga about people all over the world discovering that they have superpowers and trying to deal with how this change affects their lives. Not only are they discovering what having superpowers means to them but also the larger picture of where those powers come from and what they might mean to the rest of the world.",
+    "Aliases": [
+        "Heroes (2006)"
+    ],
+    "Modified": "2025-06-30",
+    "Seasons": {
+        "0": {
+            "ID": "26930",
+            "URL": "https://thetvdb.com/series/heroes/seasons/official/0",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 34,
+            "Episodes": {
+                "1": {
+                    "ID": "4436308",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/4436308",
+                    "TitleEnglish": "Unaired Pilot",
+                    "SummaryEnglish": "One of the special features accompanying the Season One DVD is the unaired pilot in its entirety. The episode, a full 72 minutes, was shown at the 2006 San Diego Comic-Con. This version was later cut to a shorter version, simply titled In His Own Image. Even that version would eventually be trimmed to become what is now Genesis. The original intent of the unaired pilot was to have multiple chapters per episode, hence the actual episode itself does not have a formal name.",
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "562451",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/562451",
+                    "TitleEnglish": "Going Postal - A Nifty Trick - Part 1",
+                    "SummaryEnglish": "Two men from the Company confront mail carrier Echo De Mille who discovers his ability to manipulate sound. Echo severely injures one of them in self-defense.",
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "562461",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/562461",
+                    "TitleEnglish": "Going Postal - The House Guest - Part 2",
+                    "SummaryEnglish": "Echo goes home to protect his girlfriend Gina, but a superpowered man from the Company—the \"Constrictor\", whom Echo had met earlier—arrives for another showdown with Echo.",
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "562471",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/562471",
+                    "TitleEnglish": "Going Postal - Let's Talk - Part 3",
+                    "SummaryEnglish": "Echo sends Gina away and confronts those who are targeting him, but things do not go as he had expected.",
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "562481",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/562481",
+                    "TitleEnglish": "Destiny - Let Us Pray - Part 1",
+                    "SummaryEnglish": "Santiago discovers his abilities.",
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "562491",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/562491",
+                    "TitleEnglish": "Destiny - Intervention - Part 2",
+                    "SummaryEnglish": "Believing his powers are divine, Santiago uses them to help people. But when a woman betrays him, he is captured by a secret organization.",
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "562501",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/562501",
+                    "TitleEnglish": "Destiny - Capture - Part 3",
+                    "SummaryEnglish": "Santiago's captors have a mission for him that he can't refuse.",
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "562511",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/562511",
+                    "TitleEnglish": "Destiny - Escape - Part 4",
+                    "SummaryEnglish": "Santiago finds freedom in the sanctuary of family.",
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "562521",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/562521",
+                    "TitleEnglish": "The Recruit - Private Mills - Part 1",
+                    "SummaryEnglish": "Rachel Mills survives the Pinehearst explosion.",
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "562531",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/562531",
+                    "TitleEnglish": "The Recruit - It Was Nothing - Part 2",
+                    "SummaryEnglish": "The squad of marines inject themselves with the serum.",
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "562541",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/562541",
+                    "TitleEnglish": "The Recruit - We Do What We Have To Do - Part 3",
+                    "SummaryEnglish": "Angela has a question that haunts Rachel: why did she kill the man she wanted to save?",
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "562551",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/562551",
+                    "TitleEnglish": "The Recruit - Day of Reckoning - Part 4",
+                    "SummaryEnglish": "Angela asks about Rachel's mother's death and where Rachel was found after the Pinehearst incident. Rachel relives escaping from Pinehearst, but denies being special.",
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "562561",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/562561",
+                    "TitleEnglish": "The Recruit - The Truth Within - Part 5",
+                    "SummaryEnglish": "Rachel is released, armed with a newfound power.",
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "562571",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/562571",
+                    "TitleEnglish": "Hard Knox - Choices - Part 1",
+                    "SummaryEnglish": "Matt Parkman wants street thug Knox to go straight, but it's not so easy.",
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "562581",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/562581",
+                    "TitleEnglish": "Hard Knox - Get Straight - Part 2",
+                    "SummaryEnglish": "Matt Parkman tries to convince Knox to leave gang life, while Knox's crew watches from a distance.",
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "562591",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/562591",
+                    "TitleEnglish": "Hard Knox - Fear - Part 3",
+                    "SummaryEnglish": "Knox's crew leader tries to kill Knox, and Knox finds his abilities to feed off fear and kills the crew leader.",
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "562601",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/562601",
+                    "TitleEnglish": "Hard Knox - The Main Man Now - Part 4",
+                    "SummaryEnglish": "Knox's crew gets a new boss.",
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "632881",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/632881",
+                    "TitleEnglish": "Nowhere Man - Puppet Master - Part 1",
+                    "SummaryEnglish": "With a new identity from Claire, Puppetmaster Eric Doyle tries to settle into a new life by working at Copy Kingdom.",
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "632891",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/632891",
+                    "TitleEnglish": "Nowhere Man - Statement of Character - Part 2",
+                    "SummaryEnglish": "Doyle's self-control is shattered by his boss.",
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "632901",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/632901",
+                    "TitleEnglish": "Nowhere Man - Pulling the Strings - Part 3",
+                    "SummaryEnglish": "With his prospects for a normal life fading, Doyle takes matters into his own hands.",
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "666201",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/666201",
+                    "TitleEnglish": "Nowhere Man - A New Beginning - Part 4",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "1359551",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1359551",
+                    "TitleEnglish": "Slow Burn Part 1",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "1359561",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1359561",
+                    "TitleEnglish": "Slow Burn Part 2",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "1359571",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1359571",
+                    "TitleEnglish": "Slow Burn Part 3",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "1359581",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1359581",
+                    "TitleEnglish": "Slow Burn Part 4",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "1359591",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1359591",
+                    "TitleEnglish": "Slow Burn Part 5",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "1359601",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1359601",
+                    "TitleEnglish": "Slow Burn Part 6",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "1359611",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1359611",
+                    "TitleEnglish": "Slow Burn Part 7",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "1359621",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1359621",
+                    "TitleEnglish": "Slow Burn Part 8",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "1359631",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1359631",
+                    "TitleEnglish": "Slow Burn Part 9",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "2071251",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/2071251",
+                    "TitleEnglish": "Slow Burn Part 10",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "2411481",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/2411481",
+                    "TitleEnglish": "Heroes Unmasked Part 1",
+                    "SummaryEnglish": "A behind-the-scenes documentary series showing the making of \"Heroes\" (2006/II).",
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "2411491",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/2411491",
+                    "TitleEnglish": "Heroes Unmasked Part 2",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "56": {
+                    "ID": "389760",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/389760",
+                    "TitleEnglish": "Countdown to Season 3",
+                    "SummaryEnglish": "Before the third season premiere, a brief recap of Seasons 1 and 2 and interviews with the cast at the premiere party is shown.",
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "16446",
+            "URL": "https://thetvdb.com/series/heroes/seasons/official/1",
+            "TitleEnglish": "Genesis",
+            "SummaryEnglish": "When ordinary people begin discovering extraordinary powers after a solar eclipse, they must confront personal trauma, shady conspiracies, and the threat of a cataclysmic explosion in New York City. Each character—be it a mind-reading cop, a regeneration-powered cheerleader, or a time-traveling office worker—must decide whether to hide or unleash their abilities as a secret organization known as ‘The Company’ closes in.",
+            "# Episodes": 23,
+            "Episodes": {
+                "1": {
+                    "ID": "308906",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/308906",
+                    "TitleEnglish": "Genesis",
+                    "SummaryEnglish": "In this episode, we are introduced to Peter Petrelli, a young man who dreams of flying, and his brother Nathan, a ruthless politician who thinks that Peter is dreaming his life away. Meanwhile, ordinary people from all around the world are starting to suspect that they have abilities beyond those of normal humans. Artist Isaac Mendez believes that he is painting the future, high school cheerleader Claire Bennet is suddenly able to recover from any wound almost instantly, Japanese businessman Hiro Nakamura tries to convince a friend that he can bend space and time, and single mother Niki Sanders starts seeing strange things in mirrors.Upon learning of his father's death, genetics Professor Mohinder Suresh begins to look into his research for a clue to why he was killed. When he follows his father's trail to New York City, however, Mohinder learns that someone else is on the trail of the same research.  Someone who may kill to protect the secrets of the next step in human evolution.",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "308907",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/308907",
+                    "TitleEnglish": "Don't Look Back",
+                    "SummaryEnglish": "Los Angeles Police Officer Matt Parkman is working crowd control at a murder scene when he alone begins to hear the muffled cries of a little girl somewhere in the house. Claire's heroism brings her unwanted attention. Peter comes closer to learning the truth about his and Nathan's powers. Hiro finds a comic book which leads him to Isaac.",
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "308908",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/308908",
+                    "TitleEnglish": "One Giant Leap",
+                    "SummaryEnglish": "Claire's romantic interlude with the football quarterback takes a tragic turn. Hiro convinces his friend, Ando, that it is their destiny to travel to America to save the world. Meanwhile, Nathan uses Peter's accident for his own political gain. Officer Matt Parkman, Mohinder Suresh, and the FBI are all on the trail of the mysterious Sylar.",
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "308909",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/308909",
+                    "TitleEnglish": "Collision",
+                    "SummaryEnglish": "After her night with Brody, Claire wakes up in the last place she would have imagined. Matt meets a couple of men who seem to know too much about him. Mohinder Suresh finds one of the heroes. Hiro's plan backfires in Las Vegas. Linderman's assistant makes more trouble for Niki just as Nathan arrives in Las Vegas to talk to the crooked casino owner about a campaign contribution. Isaac paints a bleak future for Claire. Peter receives a cryptic message from a very unexpected source.",
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "308910",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/308910",
+                    "TitleEnglish": "Hiros",
+                    "SummaryEnglish": "Matt uses his abilities to help his marriage. Niki, distraught over another blackout, arrives home to learn that her husband, D.L., has escaped from prison. Claire tells her father about some of the things she's been through lately. Down and out in Vegas, Hiro finally connects with another hero. Peter must figure out what to do with the mysterious message.",
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "308911",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/308911",
+                    "TitleEnglish": "Better Halves",
+                    "SummaryEnglish": "Hiro and Ando plan to continue on their journey to New York, but they are given a tempting offer by a high-roller while still in Las Vegas. Mr. Bennet, the man in the horn-rimmed glasses, arranges a meeting for his daughter, Claire, with her biological parents.  Claire hopes that this meeting can shed some light on her abilities. Hiro calls Isaac's again, but Peter answers and is able to relay the message from the future. Mohinder returns to India to bury his father, saying goodbye to Eden. Niki receives a surprise visitor at her home.",
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "308912",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/308912",
+                    "TitleEnglish": "Nothing to Hide",
+                    "SummaryEnglish": "Niki opens up to a friend when her son becomes the subject of a crisis. Hiro overcomes his doubts about his heroism. Nathan and his wife come up with a strategy to win the election and Peter provides some unexpected assistance. Claire finds out what happened to her missing video tape. Matt and Audrey continue their investigation of the serial killer Sylar.",
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "312226",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/312226",
+                    "TitleEnglish": "Seven Minutes to Midnight",
+                    "SummaryEnglish": "While mourning for his father in India, Mohinder begins to have strange dreams of the past. Niki begins to understand herself. Hiro and Ando meet an interesting person while stopping at a diner. Matt and Audrey follow a lead regarding the mysterious Sylar, but it leads to something unexpected. Claire is getting ready for homecoming with hopes of returning to a normal life. Meanwhile her father locates another hero, and urgently requests his help.",
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "312227",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/312227",
+                    "TitleEnglish": "Homecoming",
+                    "SummaryEnglish": "Events in this episode take place on the day of Claire's Homecoming game. Claire's father is growing desperate to stop the villain who is coming after Claire. Nathan gets the painting from Linderman, and is horrified by what it depicts. Mohinder's dreams hold secrets about his father. Ando waits for Hiro who still has not returned from the past. Peter must try to save the cheerleader and also himself.",
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "312228",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/312228",
+                    "TitleEnglish": "Six Months Ago",
+                    "SummaryEnglish": "This episode shows the heroes six months ago. Chandra Suresh, Mohinder's father, arrives in New York looking for special people. He meets up with an individual that embraces the chance to be unique. Peter graduates from nursing school. Nathan plans to prosecute a case that could cause complications for the Petrellis. Niki receives a visit from her father which brings out the worst in her. Hiro tries to alter the future for someone important to him. Claire discovers her abilities right after joining the cheerleading squad, and her father meets up with someone special.",
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "312229",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/312229",
+                    "TitleEnglish": "Fallout",
+                    "SummaryEnglish": "Peter is in police custody after being mistakenly arrested in Odessa, forcing Nathan to take time out of his Congressional campaign. Claire deals with the implications of telling her father the truth. Matt and Audrey pursue a new lead in the hunt for Sylar unaware that the killer has been captured by Mr. Bennet. Hiro and Ando arrive in Odessa, too late to \"save the cheerleader.\" After Niki learns of Jessica's recent actions, she must make a difficult decision to keep her family safe and so she decides to get herself arrested. Mohinder takes fresh steps down his newly-chosen path  by coming back to New York and continuing his fathers research. Isaac's painting of the exploding man comes into context with major consequences for the future of a certain hero, just as an even more mysterious painting is unveiled.",
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "312230",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/312230",
+                    "TitleEnglish": "Godsend",
+                    "SummaryEnglish": "Matt reveals his abilities to his wife. HRG confers with Mohinder. Now that she knows the truth, Claire tries to make sense of her life. Hiro seeks the sword that he is destined to own. Niki must face the consequences of her decision to turn herself in to the police. Simone and Nathan are worried about Peter, who has been in a coma for two weeks. Peter meets a new hero. Micah visits his mother.",
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "312231",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/312231",
+                    "TitleEnglish": "The Fix",
+                    "SummaryEnglish": "Hiro continues to search for a sword while being chased by mysterious figures.  An invisible man named Claude has something to teach one of the heroes. D.L. takes on new family responsibilities, and Matt opens up to his wife. H.R.G. continues to focus on the captive Sylar. Claire seeks out the Haitian and then her birth parents. Mohinder looks for those on the list, and receives a surprise visitor.  A psychiatrist offers to help Niki.",
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "317112",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/317112",
+                    "TitleEnglish": "Distractions",
+                    "SummaryEnglish": "Hiro deals with explaining his new heroic path in life to his ambitious sister and tycoon father. Niki has the chance to reunite with D.L and Micah. Claude's mentoring of Peter leads Peter to question those closest to him. Claire goes to a trailer park looking for her birth mother. Sylar wears a disguise and makes a move against HRG.",
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "317113",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/317113",
+                    "TitleEnglish": "Run!",
+                    "SummaryEnglish": "Matt enters the private security business and receives an objectionable client. Suresh finds another person on the list. As her home-life worsens, Claire strives to learn more about her birth parents. Hiro and Ando get sidetracked in Vegas again while searching for the sword. Nathan is forced to deal with a secret from his past. Still indebted to Mr. Linderman, Jessica resorts to unsavory methods that could spell doom for a fellow hero.",
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "318697",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/318697",
+                    "TitleEnglish": "Unexpected",
+                    "SummaryEnglish": "Peter learns that he and Claude may have been betrayed. Matt's reunited with the radioactive Ted Sprague and Hana Gitelman a woman with \"wireless\" mental abilities. Hiro makes a tough choice about his mission. Claire can no longer hold back her anger towards HRG.",
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "319283",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/319283",
+                    "TitleEnglish": "Company Man",
+                    "SummaryEnglish": "Matt Parkman and Ted Sprague arrive in Texas in search of answers and take HRG and his family hostage. More is revealed about Mr. Bennet, the agency for which he works, and how he found Claire.",
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "319284",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/319284",
+                    "TitleEnglish": "Parasite",
+                    "SummaryEnglish": "As the election and destruction of New York approach, Nathan meets up with Linderman. Hiro attempts to steal the sword heading him in a new path. Suresh and Sylar make progress with the list at great cost. D.L. begins to suspect problems at home. Isaac paints an even more terrible painting. A new hero, Candice Wilmer, appears.",
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "323548",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/323548",
+                    "TitleEnglish": ".07%",
+                    "SummaryEnglish": "Sylar and Peter face off. Linderman reveals his plans to Nathan, and enlists the aid of another Hero. Claire finally meets her real father, and Bennet, Matt and Ted attempt to escape from Thompson.",
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "326469",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/326469",
+                    "TitleEnglish": "Five Years Gone",
+                    "SummaryEnglish": "Hiro and Ando's trek into the future leads them to meet some of the heroes as they are five years later, after the nuclear fallout. This includes a darker side of Matt, a Jessica/Niki with a clear winner in their battle, a brown-haired Claire, and a man named Andy, who's a big hearted Texan. It also features an event at an upscale gentleman's club.",
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "326470",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/326470",
+                    "TitleEnglish": "The Hard Part",
+                    "SummaryEnglish": "Hiro and Ando's determination is put to the test. Nathan wants to win the election and he's taking drastic measures to ensure that he will. This episode will feature Sylar, his home life, and where he came from. Jessica and D.L. discover some of the stuff that Linderman wants from them and Micah. Also there is a new hero who is supposed to be holding the key to stopping Sylar.",
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "326471",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/326471",
+                    "TitleEnglish": "Landslide",
+                    "SummaryEnglish": "Angela Petrelli is forced to play a bigger role in Nathan, Peter, and Claire's life. The truth about the death of Nathan and Peter's father is finally revealed along with his true identity. When Nathan finds out that he may have a chance to become more than a Congressman, he is confronted with a decision that he must make. As election day nears some try to leave NYC. HRG and Matt learn another surprising secret. Also, Sylar is eating another hero's brain. Hiro's dad returns.",
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "326472",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/326472",
+                    "TitleEnglish": "How to Stop an Exploding Man",
+                    "SummaryEnglish": "Can Sylar be stopped? Will Linderman's vision live on with Nathan? What will it take for Peter to save the world, what sacrifices will be made? With all the horrible predictions unfolding before them the heroes face moments of pain and peril in Kirby Plaza.",
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "27526",
+            "URL": "https://thetvdb.com/series/heroes/seasons/official/2",
+            "TitleEnglish": "Generations",
+            "SummaryEnglish": "The story fast-forwards four months, following new evolving heroes and shifting alliances. As some characters grow more powerful, others grapple with trauma, ego, and the consequences of their choices, while the line between protector and pawn blurs for all.",
+            "# Episodes": 11,
+            "Episodes": {
+                "1": {
+                    "ID": "332474",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/332474",
+                    "TitleEnglish": "Four Months Later...",
+                    "SummaryEnglish": "Four months after the events of the showdown between Sylar and Peter, new Heroes emerge. These include brother and sister Alejandro and Maya. Hiro remains in the past, but what will come of this? Someone dies and someone isn't dead. Claire and her father and the rest of their family get a new life.",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "335417",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/335417",
+                    "TitleEnglish": "Lizards",
+                    "SummaryEnglish": "Peter falls in with Irish gangsters who know about his past. Hiro works to contain the damage caused by his journey into the past. Kensei's power will be revealed. Suresh locates and cures the Haitian. Matt investigates the murder of Mr. Nakamura. West comes to know of Claire's powers. Maya and Alejandro enter Mexico and find their powers more of a hindrance than a help.",
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "335418",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/335418",
+                    "TitleEnglish": "Kindred",
+                    "SummaryEnglish": "Suresh finds an undiscovered Isaac Mendez painting that shows someone's death; Maya frees Alejandro from a Mexican jail; in the past Hiro discovers something new about Kensei; and Niki and Micah leave Las Vegas to get away from their past. Claire and West take a little trip.",
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "335419",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/335419",
+                    "TitleEnglish": "The Kindness of Strangers",
+                    "SummaryEnglish": "Monica starts to exhibit new abilities while working with Micah, Nana, and Damon. Nana is the grandmother of Micah, Monica, and Damon. They all currently reside in New Orleans. Matt asks Molly to locate the man in her dreams. He may be the newest threat to the Heroes. Maya and Alejandro continue their trek to the U.S. Both Claire and her father are suspicious of one another. Angela reveals a lot of her secrets.",
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "335420",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/335420",
+                    "TitleEnglish": "Fight or Flight",
+                    "SummaryEnglish": "A woman named Elle is searching for Peter. Ando looks for Hiro in the past. Matt looks for the man in Molly's dreams. HRG takes another step in hopes of protecting his family and himself.",
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "337059",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/337059",
+                    "TitleEnglish": "The Line",
+                    "SummaryEnglish": "Peter goes on a search. West convinces Claire to stand up to someone. Hiro struggles with his feelings for Yaeko. Suresh has more problems with the Company. HRG tries to locate more of Isaac's paintings. Alejandro doesn't trust Sylar.",
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "337932",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/337932",
+                    "TitleEnglish": "Out of Time",
+                    "SummaryEnglish": "Peter and Caitlin learn about the endstage effects of the Heroes virus. Many of the Heroes work together to fight the Nightmare Man.  West is shocked to the identity of Claire's father.  Hiro and Kensei's journey comes to an end.",
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "338507",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/338507",
+                    "TitleEnglish": "Four Months Ago...",
+                    "SummaryEnglish": "The events of the \"missing four months\" are explored. Maya and Alejandro must go on the run, it is explained how Peter ended up in Ireland and what happened to Nathan, Nikki, and D.L.",
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "341998",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/341998",
+                    "TitleEnglish": "Cautionary Tales",
+                    "SummaryEnglish": "Mr. Bennet prepares to move his family when he thinks the Company has found them, but Claire doesn't like the idea. Hiro returns to the present and upon discovering his father's death, travels back in time to stop it. Meanwhile, Matt works to master his new mental abilities.",
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "341999",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/341999",
+                    "TitleEnglish": "Truth & Consequences",
+                    "SummaryEnglish": "Peter travels to Primatech in Texas to destroy the virus, but not everything is what it seems. Hiro continues the pursuit of his father's killer, while Matt pursues the last Company member in the photo. Nikki is reunited with Micah but has bad news, while Maya has to choose to remain with Alejandro, or go with Sylar.",
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "342000",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/342000",
+                    "TitleEnglish": "Powerless",
+                    "SummaryEnglish": "In Texas, Peter faces off against former friends due to Adam’s misleading story about the Shanti virus. Micah enlists the help of his mother to rescue Monica. Maya is shocked when she learns the truth about her new friend Sylar. Elle tries to make her father proud.",
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "27527",
+            "URL": "https://thetvdb.com/series/heroes/seasons/official/3",
+            "TitleEnglish": "Villains / Fugitives",
+            "SummaryEnglish": "Power corrupts as new adversaries emerge and trusted figures become dangerous. With the rise of formidable enemy forces and the heroes’ moral boundaries stretched thin, the battle becomes as much about control and betrayal as it is about saving the world.",
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "356710",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/356710",
+                    "TitleEnglish": "The Second Coming",
+                    "SummaryEnglish": "After a look into the future, Nathan's shooter is revealed. Matt chases him and winds up in a desert. Hiro receives an important message from his father. Sylar visits Claire. Maya gives Mohinder an idea for his research. Nathan recovers and gets a visit from Linderman.",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "389522",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/389522",
+                    "TitleEnglish": "The Butterfly Effect",
+                    "SummaryEnglish": "Sylar goes to the Company and inadvertently releases 12 super-powered criminals in a fight with Elle. Future Peter tries to fix his mistake. Angela takes over the company. Claire learns more about her powers. Hiro and Ando travel to Paris to track down the speedster who robbed them. Maya discovers that Mohinder's injection has changed him. Matt meats Usutu, an African with a familiar power.",
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "389523",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/389523",
+                    "TitleEnglish": "One of Us, One of Them",
+                    "SummaryEnglish": "HRG and his new partner go to a local bank heist with four villains; including Peter being trapped in one of them. Hiro and Ando track Daphne to Germany, and meet the Haitian. Tracy Strauss goes to New Orleans to find out more information about Niki. Meredith teaches Claire a lesson about fighting. Usutu shows Matt a series of paintings about him.",
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "389686",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/389686",
+                    "TitleEnglish": "I Am Become Death",
+                    "SummaryEnglish": "Peter travels to the future and adopts a dangerous ability in order to try to save the world. Meanwhile, Mohinder struggles with his continuing evolution from the formula, and Hiro and Ando re-unite with an old enemy.",
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "389687",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/389687",
+                    "TitleEnglish": "Angels and Monsters",
+                    "SummaryEnglish": "Claire decides to take on one of the villains herself, but she may not be as invulnerable as she believes. Nathan and Tracy search for the truth about their origins. Maya makes a shocking discovery. Hiro and Ando look for help in the most unlikely places.",
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "396578",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/396578",
+                    "TitleEnglish": "Dying of the Light",
+                    "SummaryEnglish": "Villains Knox and Daphne are on a quest to recruit Hiro and others to the Pinehearst fold. Angela and the Company are paralyzed from recent events. Peter goes to Pinehearst searching for answers but is stunned to learn who the founder is. Claire and Sandra go on a mission to save Meredith from the clutches of Doyle, a villain with abilities to control people mentally and physically. Nathan and Tracy try to trace their origins with Mohinder's help.",
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "397734",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/397734",
+                    "TitleEnglish": "Eris Quod Sum",
+                    "SummaryEnglish": "Trapped, Nathan and Tracy must fight to save their lives against Suresh, who has changed dramatically. Elle returns with shocking news for Claire and her family. Meanwhile, Angela tries to convince Sylar to save Peter; Daphne is ordered to kill Matt or she will be killed herself; and Hiro questions Usutu's advice.",
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "400530",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/400530",
+                    "TitleEnglish": "Villains",
+                    "SummaryEnglish": "Hiro attempts to delve into Arthur Petrelli's past to uncover the mystery behind him creating a rival company Pinehearst and his hatred towards Angela. Sylar stricken by guilt tries to stop his murderous ways with HRG and Elle vying for his blood. Meredith's training goes up in smoke with the arrival of her brother.",
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "400531",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/400531",
+                    "TitleEnglish": "It's Coming",
+                    "SummaryEnglish": "Nathan learns of his father's plans, while Flint and Knox launch attacks on Hiro, Ando, Peter, and Claire. Meanwhile, Matt tries to revive Angela, Sylar meets with Elle, and Mohinder begins testing of his newest superpower formula.",
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "400532",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/400532",
+                    "TitleEnglish": "The Eclipse (1)",
+                    "SummaryEnglish": "The eclipse plays havoc with the heroes' powers. Arthur orders Elle and Sylar to bring in Claire. Hiro, Ando, and Matt follow Daphne to her hometown to learn what hold Arthur has on her, and Peter and Nathan travel to the Haitian's hometown to recruit him for the war with Pinehearst.",
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "400533",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/400533",
+                    "TitleEnglish": "The Eclipse (2)",
+                    "SummaryEnglish": "The eclipse continues to create chaos. Sylar and Elle face HRG's wrath. Peter, Nathan and the Haitian go up against Baron Samedi. Ando, Sam, and Frack try to help Hiro with his memory loss.",
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "400534",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/400534",
+                    "TitleEnglish": "Our Father",
+                    "SummaryEnglish": "In order to stop Arthur, Hiro and Clair team up and travel back in time to when Kaito gave Claire to H.R.G. Meanwhile, Peter and the Haitian head out to stop Arthur, but are stopped by Sylar and Suresh has a breakthrough with the formula.",
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "402942",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/402942",
+                    "TitleEnglish": "Dual",
+                    "SummaryEnglish": "Following the showdown against Arthur, Nathan and Peter find themselves pitted against one another, and Nathan makes a decision that will have an effect on the entire world. Meanwhile, Sylar holds Claire, H.R.G., Meredith and Angela hostage at Primatech; Ando, Matt and Daphne try to rescue Hiro and find their only hope may lie in Suresh.",
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "415811",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/415811",
+                    "TitleEnglish": "A Clear and Present Danger",
+                    "SummaryEnglish": "Three weeks after the destruction of both Primatech and Pinehearst, and the death of Arthur Petrelli, the now-villainous Nathan returns with a vengeance by persuading the U.S. President and the government to round up all people with abilities, leading to Claire, Ando, Hiro, Matt, Peter, as well as Tracy to become fugitives from the people who were their former allies.",
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "415812",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/415812",
+                    "TitleEnglish": "Trust and Blood",
+                    "SummaryEnglish": "Following a chain of unexpected events, our Heroes are on the run from their latest adversary and one of their own, Nathan Petrelli. After Matt paints a series of prophetic images, the tragic fate of someone close to him is revealed. Elsewhere, Sylar continues his search for his father and encounters a young outcast with information and an ability of his own.",
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "415813",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/415813",
+                    "TitleEnglish": "Building 26",
+                    "SummaryEnglish": "Nathan's plans face exposure as Homeland Security begins an investigation under direct orders from the President of the United States. Sylar and Luke embark on a road trip to find Sylar's father, but are secretly being hunted by Nathan's agents. Life gets complicated for the Bennet family as Claire goes into action to protect a young man with abilities from being captured by HRG. Elsewhere, Matt's prophetic images lead Hiro and Ando to India and a mysterious ally comes to the aid of our Heroes",
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "415814",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/415814",
+                    "TitleEnglish": "Cold Wars",
+                    "SummaryEnglish": "While being held hostage, HRG is subjected to Matt Parkman's unique brand of interrogation, revealing how he became involved with Nathan's government plot to capture those with abilities. Meanwhile, Matt's discoveries bring Peter face-to-face with \"The Hunter\"",
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "415815",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/415815",
+                    "TitleEnglish": "Exposed",
+                    "SummaryEnglish": "After receiving a tip from \"Rebel\", Matt and Peter race to Building 26 to rescue Daphne and recover files that will expose the government's plans for those with abilities. Claire finds help from an unlikely source in smuggling Alex out of the city. As Sylar and Luke continue their road trip, Sylar begins to have memories of his father that lead him to the truth about his mother. Meanwhile, \"The Hunter\" puts his own agenda into action with an explosive surprise for one of our heroes.",
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "415816",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/415816",
+                    "TitleEnglish": "Shades of Gray",
+                    "SummaryEnglish": "When Sylar comes face-to-face with his long lost father, the reunion proves to be what he least expected. Elsewhere, after receiving a tip from \"Rebel\", Claire must decide if she will help her sworn enemy, Eric Doyle, evade capture. Meanwhile, as \"The Hunter\" plans to uncover the Petrelli family's secrets and take control of Nathan's operation, Matt finds himself in the spotlight and on the verge of leveling Capitol Hill.",
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "425782",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/425782",
+                    "TitleEnglish": "Cold Snap",
+                    "SummaryEnglish": "HRG convinces Emile Danko, a.k.a. \"The Hunter\", to release Tracy from Building 26, in hopes that she will lead them to \"Rebel\". As Angela evades capture, she turns to an old friend for help. In Los Angeles, Hiro and Ando continue on their latest mission from \"Rebel\" to protect the newest hero.",
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "425783",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/425783",
+                    "TitleEnglish": "Into Asylum",
+                    "SummaryEnglish": "Now that Nathan’s ability has been revealed and he has lost control of his operation, he and Claire go into hiding in Mexico. With Emile Danko now in control of the government operation, his plan to destroy everyone with abilities is set into motion as he teams up with an unlikely partner. Meanwhile, Angela and Peter seek refuge in a church and begin to mend their broken relationship.",
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "428092",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/428092",
+                    "TitleEnglish": "Turn and Face the Strange",
+                    "SummaryEnglish": "As Danko spearheads the government operation, someone close to him is put in the line of fire. HRG’s life continues to spiral out of control and his marriage is dangerously close to the breaking point. Meanwhile, Hiro and Ando continue their road trip with a special delivery for Matt Parkman. Elsewhere, Angela Petrelli unearths the demons of her past.",
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "435898",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/435898",
+                    "TitleEnglish": "1961",
+                    "SummaryEnglish": "As Nathan, Claire, Peter and H.R.G. help Angela uncover her past, she reveals the dark secrets that have haunted her for years. Meanwhile, Mohinder learns of his father’s involvement in a long forgotten government operation.",
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "435900",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/435900",
+                    "TitleEnglish": "I Am Sylar",
+                    "SummaryEnglish": "Sylar continues his unusual partnership and begins to have an unexpected identity crisis. Hiro and Ando take measures toward bringing down Building 26. Meanwhile, Matt’s new found fatherhood changes his priorities. Elsewhere, Nathan sets a plan in motion to right the wrongs of his government operation.",
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "438647",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/438647",
+                    "TitleEnglish": "An Invisible Thread",
+                    "SummaryEnglish": "Nathan faces off against Sylar to keep him from meeting the President. Sylar has his own plans for his new partner. Meanwhile, Hiro learns that there are repercussions to regaining his ability. Elsewhere, Matt is forced to go to extraordinary lengths to protect his future with his family.",
+                    "Aliases": []
+                }
+            }
+        },
+        "4": {
+            "ID": "27528",
+            "URL": "https://thetvdb.com/series/heroes/seasons/official/4",
+            "TitleEnglish": "Redemption",
+            "SummaryEnglish": "On the run and framed for terror attacks, the heroes must go underground while grappling with fractured alliances. As a government-backed manhunt intensifies, they must choose between their own freedom and the public good, leading to choices that redefine heroism.",
+            "# Episodes": 19,
+            "Episodes": {
+                "1": {
+                    "ID": "1084361",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1084361",
+                    "TitleEnglish": "Orientation",
+                    "SummaryEnglish": "Six weeks after Matt and the others wiped Sylar's mind, the Heroes attempt to go on living normal lives. We are introduced to \"family\" of carnies with abilities. Angela Petrelli and H.R.G. are in the works of restoring The Company while Claire makes new \"friends\" at school. Tracy is still hunting everyone from Building 26. Meanwhile, Hiro and Ando start a \"Heroes for Hire\" business.",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1138061",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1138061",
+                    "TitleEnglish": "Jump, Push, Fall",
+                    "SummaryEnglish": "Claire and her new friend Gretchen investigate the death of Claire's roommate Annie, while Noah comes to Peter for assistance. Samuel and Edgar recover the compass, Hiro realizes his new destiny, and Matt is tormented with mental images from a dangerous foe.",
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1084381",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1084381",
+                    "TitleEnglish": "Ink",
+                    "SummaryEnglish": "Peter faces unexpected consequences for his heroic acts and encounters a reluctant new hero. As Claire continues to adjust to college life, she must figure out how to deal with her ability having been revealed. Meanwhile, Samuel moves heaven and earth to recapture the memories of his late brother Joseph. Elsewhere, Matt struggles with his internal demons as Sylar mysteriously resurfaces.",
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1084391",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1084391",
+                    "TitleEnglish": "Acceptance",
+                    "SummaryEnglish": "As \"Nathan\" starts displaying new powers, he has visions of an incident from his past involving a young girl and decides to investigate. Hiro tries to save a co-worker and learns a truth about himself. Tracy tries to regain her old life and job.",
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "1084401",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1084401",
+                    "TitleEnglish": "Hysterical Blindness",
+                    "SummaryEnglish": "Samuel prepares for new additions to his family, while Lydia warns him of the consequences. Claire discovers that her roommate Gretchen may have a hidden agenda. Meanwhile, Peter finds an unexpected way to connect with Emma, who would prefer to stay distant. Elsewhere, a different side of Sylar emerges as he desperately tries to remember the person he used to be.",
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "1088731",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1088731",
+                    "TitleEnglish": "Tabula Rasa",
+                    "SummaryEnglish": "Under Samuel’s guidance, Sylar starts on a path to rediscover his true identity. Hiro helps Emma accept and understand the great possibilities that go along with having an ability. Meanwhile, Peter enlists HRG to help him find a healer who can save Hiro’s life.",
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "1088741",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1088741",
+                    "TitleEnglish": "Strange Attractors",
+                    "SummaryEnglish": "Matt goes to extreme measures to extinguish Sylar , who continues to torment him. Elsewhere, HRG calls in a favor from Tracy to save a troubled young boy whose misfortunes resemble her own. While Claire and Gretchen are being hazed by their new sorority sisters, they realize pledging might not be their biggest problem.",
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "1088751",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1088751",
+                    "TitleEnglish": "Once Upon a Time in Texas",
+                    "SummaryEnglish": "When Hiro travels three years into the past, he has a second chance to save Charlie from the hands of Sylar. However, Samuel’s presence serves to complicate Hiro’s mission even further. Elsewhere, H.R.G.’s past with his Primatech partner is revealed.",
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "1088761",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1088761",
+                    "TitleEnglish": "Shadowboxing",
+                    "SummaryEnglish": "Claire is determined to get to the bottom of the Sorority Rush attacks on her own, until H.R.G. intervenes only to realize he may be the source of her troubles. Meanwhile, Peter's new ability is a perfect fit for his job and gives him the opportunity to help Emma accept her new life. Elsewhere, Sylar's battle at gaining full control over Matt's body escalates with potentially dangerous implications at stake.",
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "1088771",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1088771",
+                    "TitleEnglish": "Brother's Keeper",
+                    "SummaryEnglish": "Samuel learns just how powerful he can become and takes dangerous measures to reach his full potential. Meanwhile, as Tracy begins to lose control of her ability, one of her own comes in harms way. Elsewhere, Sylar continues his battle with Matt.",
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "1142731",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1142731",
+                    "TitleEnglish": "Thanksgiving",
+                    "SummaryEnglish": "H.R.G. hosts an untraditional Thanksgiving dinner. Elsewhere, the Petrelli family gets a surprise guest at their table. Meanwhile, Samuel continues to hold Hiro hostage, as Lydia goes in search for the truth.",
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "1213701",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1213701",
+                    "TitleEnglish": "The Fifth Stage",
+                    "SummaryEnglish": "Unexpected visitors greet H.R.G.; Samuel's plan starts to come to fruition; struggling to accept the truth, Peter takes extreme measures to get what he wants; Claire's journey leads her to an unexpected destination.",
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "1228401",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1228401",
+                    "TitleEnglish": "Upon This Rock",
+                    "SummaryEnglish": "As Claire becomes immersed into the world of the Carnival, she becomes increasingly suspicious of Samuel's motives. Hiro is on a mission to rescue one of his own, but has difficulty communicating his intentions to Ando.",
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "1228411",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1228411",
+                    "TitleEnglish": "Let it Bleed",
+                    "SummaryEnglish": "Sylar returns to the Carnival in search of answers, H.R.G. tries to forge an alliance with Edgar and Peter continues to struggle with the loss of his brother.",
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "1256721",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1256721",
+                    "TitleEnglish": "Close To You",
+                    "SummaryEnglish": "H.R.G. recruits Matt to help him take down Samuel, as they use his long-lost love, Vanessa, to lure him to them, but Samuel has his own plans for Vanessa in the works. Meanwhile, Hiro and Ando go to extreme lengths to save Dr. Suresh. Elsewhere, Peter's introduction of Emma to his mother brings forth visions of a very grim future.",
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "1379711",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1379711",
+                    "TitleEnglish": "Pass/Fail",
+                    "SummaryEnglish": "Hiros life hangs in the balance as his brain tumor worsens, prompting him to subconsciously deal with some of his past decisions. Meanwhile, Sylar pays Claire an unexpected visit to get answers as to why he isn't quite himself. Elsewhere, Samuels plan to impress his long-lost love, Vanessa, takes a terrifying turn.",
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "1328351",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1328351",
+                    "TitleEnglish": "The Art of Deception",
+                    "SummaryEnglish": "H.R.G. enacts his plan to take down the Carnival with the help of Lauren and Suresh. Sylar visits Matt looking to understand his desire to make a human connection, but Matt has a plan of his own. Meanwhile, Peter warns Emma of Samuel's intentions after his grim vision of the future.",
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "1328361",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1328361",
+                    "TitleEnglish": "The Wall",
+                    "SummaryEnglish": "Fueled by his vision of Emma in grave danger, Peter attempts to rescue Sylar from his worst nightmare. At the carnival, Samuel reveals H.R.G.s secret past in order to bring Claire to his side. Meanwhile, Lauren makes a bold move to put a stop to Samuel.",
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "1379721",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heroes/episodes/1379721",
+                    "TitleEnglish": "Brave New World",
+                    "SummaryEnglish": "Everyone bands together to try to stop Samuel from taking the lives of thousands. Peter joins forces with his most unexpected ally to save Emma. Meanwhile, H.R.G.'s life hangs in the balance as he and Claire find themselves trapped underground with oxygen quickly running out. Elsewhere, Hiro starts to come to grips with the decisions he has made and is called into action to help stop a disaster.",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
