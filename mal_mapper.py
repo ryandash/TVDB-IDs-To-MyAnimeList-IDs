@@ -517,7 +517,7 @@ def map_anime():
         all_unmapped_seasons.extend(unmapped_seasons)
         all_unmapped_episodes.extend(unmapped_episodes)
 
-        print(f"\nFinished series {series_title}. Total mapped: {len(mapped)}, unmapped series: {len(unmapped_series)} unmapped seasons: {len(unmapped_seasons)} unmapped episodes: {len(unmapped_episodes)}")
+        print(f"\nTotal mapped: {len(mapped)}, unmapped series: {len(unmapped_series)} unmapped seasons: {len(unmapped_seasons)} unmapped episodes: {len(unmapped_episodes)}")
 
     with open("unmapped-series.json", "w", encoding="utf-8") as f:
         json.dump(all_unmapped_series, f, indent=2, ensure_ascii=False)

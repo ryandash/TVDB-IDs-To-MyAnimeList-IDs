@@ -38,7 +38,6 @@ jobs:
 
       - name: update min_map_data
         run: |
-          pip install --upgrade pip
           pip install --upgrade --no-cache-dir -r requirements.txt
 
           python get_anime_data.py
@@ -70,7 +69,6 @@ jobs:
 
       - name: Setup Python & Dependencies
         run: |
-          pip install --upgrade pip
           pip install --upgrade --no-cache-dir -r requirements.txt
 
       - name: Scrape & Process page
@@ -129,7 +127,6 @@ jobs:
 
       - name: Merge JSON files
         run: |
-          pip install --upgrade pip
           pip install --upgrade --no-cache-dir -r requirements.txt
 
           python merge_files.py --input-dir artifacts
