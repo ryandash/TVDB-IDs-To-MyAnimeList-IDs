@@ -372,7 +372,7 @@ def map_anime():
                     continue
             if category == "movie":
                 continue
-
+            
             # Initialize episode tracking
             SeasonMalID = malid
             malurl = None
@@ -510,14 +510,14 @@ def map_anime():
                             record["previous malid"] = SeasonMalID
                             unmapped_episodes.append(record)
 
-            # Save progress after each series
-            with open(mapped_out, "w", encoding="utf-8") as f:
-                json.dump(mapped, f, indent=2, ensure_ascii=False)
-            all_unmapped_series.extend(unmapped_series)
-            all_unmapped_seasons.extend(unmapped_seasons)
-            all_unmapped_episodes.extend(unmapped_episodes)
+        # Save progress after each series
+        with open(mapped_out, "w", encoding="utf-8") as f:
+            json.dump(mapped, f, indent=2, ensure_ascii=False)
+        all_unmapped_series.extend(unmapped_series)
+        all_unmapped_seasons.extend(unmapped_seasons)
+        all_unmapped_episodes.extend(unmapped_episodes)
 
-            print(f"\nFinished series {series_title}. Total mapped: {len(mapped)}, unmapped series: {len(unmapped_series)} unmapped seasons: {len(unmapped_seasons)} unmapped episodes: {len(unmapped_episodes)}")
+        print(f"\nFinished series {series_title}. Total mapped: {len(mapped)}, unmapped series: {len(unmapped_series)} unmapped seasons: {len(unmapped_seasons)} unmapped episodes: {len(unmapped_episodes)}")
 
     with open("unmapped-series.json", "w", encoding="utf-8") as f:
         json.dump(all_unmapped_series, f, indent=2, ensure_ascii=False)
@@ -525,7 +525,7 @@ def map_anime():
         json.dump(all_unmapped_seasons, f, indent=2, ensure_ascii=False)
     with open("unmapped-episodes.json", "w", encoding="utf-8") as f:
         json.dump(all_unmapped_episodes, f, indent=2, ensure_ascii=False)
-    print(f"\nMapping complete! Total mapped: {len(mapped)}, unmapped series: {len(unmapped_series)} unmapped seasons: {len(unmapped_seasons)} unmapped episodes: {len(unmapped_episodes)}")
+    print(f"\nMapping complete!")
 
 # ----------------------
 # Run
