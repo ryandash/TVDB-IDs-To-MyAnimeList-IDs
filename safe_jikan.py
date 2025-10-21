@@ -1,0 +1,115 @@
+import asyncio
+import time
+from typing import Callable, Any, List
+from jikanpy import AioJikan, exceptions
+
+
+# -----------------------------
+# Task Limiter
+# -----------------------------
+class TaskLimiterConfiguration:
+    def __init__(self, max_tasks: int, period_sec: float):
+        self.max_tasks = max_tasks
+        self.period_sec = period_sec
+        self._timestamps: List[float] = []
+
+    async def wait_for_slot(self):
+        now = time.monotonic()
+        # keep only timestamps within the window
+        self._timestamps = [t for t in self._timestamps if now - t < self.period_sec]
+        if len(self._timestamps) >= self.max_tasks:
+            wait_time = self.period_sec - (now - self._timestamps[0])
+            await asyncio.sleep(wait_time)
+        self._timestamps.append(time.monotonic())
+
+
+class TaskLimiter:
+    def __init__(self, configs: List[TaskLimiterConfiguration]):
+        self.configs = configs
+        self._lock = asyncio.Lock()
+
+    async def acquire(self):
+        async with self._lock:
+            for cfg in self.configs:
+                await cfg.wait_for_slot()
+
+
+# -----------------------------
+# SafeJikan
+# -----------------------------
+class SafeJikan:
+    def __init__(self, request_delay: float = 0.5, max_concurrent: int = 10):
+        self.request_delay = request_delay
+        self.semaphore = asyncio.Semaphore(max_concurrent)
+        self.aio_jikan = AioJikan()
+        self._last_request = 0.0
+        self._lock = asyncio.Lock()
+
+        # Multi-tier limiter like the C# one
+        self.limiter = TaskLimiter([
+            TaskLimiterConfiguration(1, 0.3),   # at least 300ms between requests
+            TaskLimiterConfiguration(3, 1.0),   # max 3 requests per second
+            TaskLimiterConfiguration(4, 4.0),   # baseline limit (60/min)
+        ])
+
+    async def _wait_for_slot(self):
+        async with self._lock:
+            now = time.monotonic()
+            elapsed = now - self._last_request
+            if elapsed < self.request_delay:
+                await asyncio.sleep(self.request_delay - elapsed)
+            self._last_request = time.monotonic()
+
+    async def _retry_on_failure(self, func: Callable[..., Any], *args, **kwargs):
+        delay = 1.0
+        max_delay = 60.0  # cap backoff at 1 minute
+        attempt = 0
+
+        while True:
+            try:
+                async with self.semaphore:
+                    await self.limiter.acquire()
+                    await self._wait_for_slot()
+                    return await func(*args, **kwargs)
+
+            except exceptions.APIException as e:
+                # Handle Jikan rate limit gracefully
+                if getattr(e, "status_code", getattr(e, "code", None)) == 429:
+                    attempt += 1
+                    print(f"[Jikan] Rate-limited (attempt {attempt}). Sleeping {delay:.1f}s...")
+                    await asyncio.sleep(delay)
+                    delay = min(delay * 1.5, max_delay)
+                    continue
+                else:
+                    raise  # other APIException (e.g., 404, 500)
+
+            except (asyncio.TimeoutError, Exception) as e:
+                # Handle network or temporary failures
+                attempt += 1
+                print(f"[Jikan] Request error: {e} (attempt {attempt}). Retrying in {delay:.1f}s...")
+                await asyncio.sleep(delay)
+                delay = min(delay * 1.5, max_delay)
+                continue
+
+    # -----------------------------
+    # Public Jikan API methods
+    # -----------------------------
+    async def search_anime(self, type_: str, page: int):
+        return await self._retry_on_failure(
+            self.aio_jikan.search,
+            search_type="anime",
+            query="",
+            page=page,
+            parameters={"type": type_}
+        )
+
+    async def get_anime(self, mal_id: int):
+        return await self._retry_on_failure(self.aio_jikan.anime, mal_id)
+
+    async def get_anime_relations(self, mal_id: int):
+        return await self._retry_on_failure(
+            self.aio_jikan.anime, mal_id, extension="relations"
+        )
+
+    async def close(self):
+        await self.aio_jikan.close()

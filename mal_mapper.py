@@ -2,11 +2,7 @@
 """
 mal_mapper.py
 
-Loads tvdb id json files and attempts to map TVDB series/seasons/episodes to MyAnimeList URLs.
-
-Outputs:
- - mapped-tvdb-ids.json   (per-episode mapping with MAL URL)
- - unmapped-tvdb-ids.json (per-episode entries that failed to map)
+Attempts to map TVDB series/seasons/episodes/movies to MyAnimeList URLs.
 """
 
 import json
@@ -24,13 +20,10 @@ from tqdm import tqdm
 # Config / Constants
 # ----------------------
 
-MAPPED_OUT = "mapped-tvdb-ids.json"
-UNMAPPED_SERIES_OUT = "unmapped-series.json"
-UNMAPPED_SEASONS_OUT = "unmapped-seasons.json"
-UNMAPPED_EPISODES_OUT = "unmapped-episodes.json"
 LOG_FILE = "mapping.log"
 DATA_DIR = Path("anime_data")
 DATA_DIR.mkdir(exist_ok=True)
+CATEGORIES = ["series", "movie"]
 
 HTTP_CLIENT = httpx.Client(timeout=30)
 LAST_REQUEST_TIME = 0.0
@@ -67,15 +60,6 @@ def safe_load_json(path: Path) -> dict:
                     return {}
         print("[ERROR] Could not salvage JSON.")
         return {}
-
-def load_data() -> dict:
-    """Load anime data from disk (all JSONs in DATA_DIR)."""
-    anime_data = {}
-    for file in DATA_DIR.glob("*.json"):
-        anime_info = safe_load_json(file)
-        if anime_info:
-            anime_data[file.stem] = anime_info
-    return anime_data
 
 def fetch_json(url: str) -> dict | None:
     """Fetch JSON from a URL with error handling."""
@@ -275,210 +259,228 @@ def load_mapped_lookup(mapped: list) -> dict[str, tuple[int, str]]:
 # ----------------------
 
 def map_anime():
-    # Load previously mapped data
-    if Path(MAPPED_OUT).exists():
-        with open(MAPPED_OUT, "r", encoding="utf-8") as f:
-            oldmapped = json.load(f)
-            lookup = load_mapped_lookup(oldmapped)
-    else:
-        lookup = {}
+    all_unmapped_series = []
+    all_unmapped_seasons = []
+    all_unmapped_episodes = []
 
-    mapped = []
-    unmapped_series = []
-    unmapped_seasons = []
-    unmapped_episodes = []
-    anime_data = load_data()
+    for category in CATEGORIES:
+        category_dir = DATA_DIR / category
+        if not category_dir.exists():
+            continue
+        # Load previously mapped data
+        mapped_out = f"mapped-tvdb-ids-{category}.json"
 
-    for series_id, series in tqdm(anime_data.items(), total=len(anime_data), desc=f"Mapping series", unit="series"):
-        series_title = series.get("TitleEnglish")
-        series_aliases = series.get("Aliases") or []
+        anime_data = {}
+        for file in category_dir.glob("*.json"):
+            anime_info = safe_load_json(file)
+            if anime_info:
+                anime_data[file.stem] = anime_info
 
-        malid = None
-        all_titles: list[str] = []
-
-        if series_id in lookup:
-            malid = lookup[series_id][0]
+        if Path(mapped_out).exists():
+            with open(mapped_out, "r", encoding="utf-8") as f:
+                oldmapped = json.load(f)
+                lookup = load_mapped_lookup(oldmapped)
         else:
-            for anime_type in ["tv", "ona", "ova"]:
-                if malid:
-                    break
-                titles_to_try = [series_title] + series_aliases
-                # Try main title first
-                for title in filter(None, titles_to_try):
-                    mid, titles = get_best_mal_id(title, anime_type, False)
-                    all_titles.extend(titles)
-                    if mid:
-                        malid = mid
+            lookup = {}
+
+        mapped = []
+        unmapped_series = []
+        unmapped_seasons = []
+        unmapped_episodes = []
+
+        for series_id, series in tqdm(anime_data.items(), total=len(anime_data), desc=f"Mapping series", unit="series"):
+            series_title = series.get("TitleEnglish")
+            series_aliases = series.get("Aliases") or []
+
+            malid = None
+            all_titles: list[str] = []
+
+            if series_id in lookup:
+                malid = lookup[series_id][0]
+            else:
+                for anime_type in ["tv", "ona", "ova"]:
+                    if malid:
                         break
-            
-            all_titles = list(dict.fromkeys(all_titles))
-            
-            if malid:
-                mapped.append({
-                    "thetvdb url": f"https://www.thetvdb.com/dereferrer/series/{series_id}",
-                    "myanimelist url": get_mal_url(malid, None),
-                    "myanimelist": int(malid),
-                    "thetvdb": int(series_id)
-                })
-            else:
-                unmapped_series.append({
-                    "thetvdb url":f"https://www.thetvdb.com/dereferrer/series/{series_id}",
-                    "thetvdb": series_id,
-                    "search term": series_title,
-                    "aliases": series_aliases,
-                    "Jikan titles": all_titles
-                })
-                continue
-
-        # Initialize episode tracking
-        SeasonMalID = malid
-        malurl = None
-        mal_eps = None
-        seasons = series.get("Seasons") or {}
-        episode_offset = 0
-        for season_num, season_data in tqdm(seasons.items(), desc=f"  {series_id} seasons", unit="season", leave=False):
-            season_id = season_data.get("ID")
-            season_title = season_data.get("TitleEnglish")
-            episodes = season_data.get("Episodes") or {}
-            total_episodes = len(episodes)
-            
-            if season_id in lookup:
-                SeasonMalID = lookup[season_id][0]
-                malurl = lookup[season_id][1]
-            else:
-                if season_num != "0":
-                    if not SeasonMalID and season_title:
-                        mid, _ = get_best_mal_id(season_title, None, False)
+                    titles_to_try = [series_title] + series_aliases
+                    # Try main title first
+                    for title in filter(None, titles_to_try):
+                        mid, titles = get_best_mal_id(title, anime_type, False)
+                        all_titles.extend(titles)
                         if mid:
-                            SeasonMalID = mid
-                    if season_num == "1":
-                        episode_offset = 0
-                        mal_eps = get_mal_episode_count(SeasonMalID)
-                        malurl = get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
+                            malid = mid
+                            break
+                
+                all_titles = list(dict.fromkeys(all_titles))
+                
+                if malid:
+                    mapped.append({
+                        "thetvdb url": f"https://www.thetvdb.com/dereferrer/series/{series_id}",
+                        "myanimelist url": get_mal_url(malid, None),
+                        "myanimelist": int(malid),
+                        "thetvdb": int(series_id)
+                    })
+                else:
+                    unmapped_series.append({
+                        "thetvdb url":f"https://www.thetvdb.com/dereferrer/series/{series_id}",
+                        "thetvdb": series_id,
+                        "search term": series_title,
+                        "aliases": series_aliases,
+                        "Jikan titles": all_titles
+                    })
+                    continue
 
-                    if mal_eps and mal_eps == episode_offset:
-                        SeasonMalID = get_mal_relations(SeasonMalID, total_episodes, season_title)
-                        if SeasonMalID:
+            # Initialize episode tracking
+            SeasonMalID = malid
+            malurl = None
+            mal_eps = None
+            seasons = series.get("Seasons") or {}
+            episode_offset = 0
+            for season_num, season_data in tqdm(seasons.items(), desc=f"  {series_id} seasons", unit="season", leave=False):
+                season_id = season_data.get("ID")
+                season_title = season_data.get("TitleEnglish")
+                episodes = season_data.get("Episodes") or {}
+                total_episodes = len(episodes)
+                
+                if season_id in lookup:
+                    SeasonMalID = lookup[season_id][0]
+                    malurl = lookup[season_id][1]
+                else:
+                    if season_num != "0":
+                        if not SeasonMalID and season_title:
+                            mid, _ = get_best_mal_id(season_title, None, False)
+                            if mid:
+                                SeasonMalID = mid
+                        if season_num == "1":
                             episode_offset = 0
                             mal_eps = get_mal_episode_count(SeasonMalID)
                             malurl = get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
-                        # else:
-                        #     raise RuntimeError(f"This is a bug — logic failure in season mapping. Previous malid was {SeasonMalID}")
-                    
-                    if SeasonMalID and SeasonMalID not in lookup:
-                        mapped.append({
-                            "season": season_num, 
-                            "thetvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}", 
-                            "myanimelist url": get_mal_url(SeasonMalID, None),
-                            "myanimelist": int(SeasonMalID),
-                            "thetvdb": int(season_id)
-                        })
-                    else:
-                        unmapped_seasons.append({
-                            "season": season_num, 
-                            "thetvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}",
-                            "thetvdb": season_id,
-                            "previous malid": SeasonMalID
-                        })
-                        continue
- 
-            mal_episode_counter = {}
-            for ep_num, ep_data in tqdm(episodes.items(), desc=f"    {season_id} Season {season_num} episodes", unit="ep", leave=False):
-                ep_id = ep_data.get("ID")
-                ep_title = ep_data.get("TitleEnglish")
-                ep_aliases = ep_data.get("Aliases") or []
-                if ep_id in lookup:
-                    EpisodeMALID = lookup[ep_id][0]
-                    mal_episode_counter[EpisodeMALID] = mal_episode_counter.get(EpisodeMALID, 0) + 1
-                    malurl = lookup[ep_id][1]
-                    continue
-                record = {"season": int(season_num), "episode": int(ep_num), "thetvdb url": f"https://www.thetvdb.com/dereferrer/episode/{ep_id}"}
 
-                if season_num == "0":
-                    # Specials
-                    type_mapping = {
-                        "Movies": "movie",
-                        # "Episodic Special": "special", MAL commonly has a different type so these commonly fail
-                        # "OVA": "ova",
-                        # "Pilots": "ova",
-                        # "Season Recaps": "tv_special",
-                    }
-                    anime_type = type_mapping.get(ep_data.get("TYPE"))
-
-                    EpisodeMALID = None
-                    search_terms = None
-                    all_titles = None
-                    if ep_title:
-                        search_terms = [ep_title]
-
-                        for alias in ep_aliases:
-                            search_terms.append(f"{alias}" if ep_title else alias)
+                        if mal_eps and mal_eps == episode_offset:
+                            SeasonMalID = get_mal_relations(SeasonMalID, total_episodes, season_title)
+                            if SeasonMalID:
+                                episode_offset = 0
+                                mal_eps = get_mal_episode_count(SeasonMalID)
+                                malurl = get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
+                            # else:
+                            #     raise RuntimeError(f"This is a bug — logic failure in season mapping. Previous malid was {SeasonMalID}")
                         
-                        if series_title and series_title.lower() not in ep_title.lower():
-                            search_terms.append(f"{series_title} {ep_title}")
+                        if SeasonMalID and SeasonMalID not in lookup:
+                            mapped.append({
+                                "season": season_num, 
+                                "thetvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}", 
+                                "myanimelist url": get_mal_url(SeasonMalID, None),
+                                "myanimelist": int(SeasonMalID),
+                                "thetvdb": int(season_id)
+                            })
+                        else:
+                            unmapped_seasons.append({
+                                "season": season_num, 
+                                "thetvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}",
+                                "thetvdb": season_id,
+                                "previous malid": SeasonMalID
+                            })
+                            continue
+    
+                mal_episode_counter = {}
+                for ep_num, ep_data in tqdm(episodes.items(), desc=f"    {season_id} Season {season_num} episodes", unit="ep", leave=False):
+                    ep_id = ep_data.get("ID")
+                    ep_title = ep_data.get("TitleEnglish")
+                    ep_aliases = ep_data.get("Aliases") or []
+                    if ep_id in lookup:
+                        EpisodeMALID = lookup[ep_id][0]
+                        mal_episode_counter[EpisodeMALID] = mal_episode_counter.get(EpisodeMALID, 0) + 1
+                        malurl = lookup[ep_id][1]
+                        continue
+                    record = {"season": int(season_num), "episode": int(ep_num), "thetvdb url": f"https://www.thetvdb.com/dereferrer/episode/{ep_id}"}
 
-                        EpisodeMALID, all_titles = None, None
-                        for term in search_terms:
-                            EpisodeMALID, all_titles = get_best_mal_id(term, anime_type, True)
+                    if season_num == "0":
+                        # Specials
+                        type_mapping = {
+                            "Movies": "movie",
+                            # "Episodic Special": "special", MAL commonly has a different type so these commonly fail
+                            # "OVA": "ova",
+                            # "Pilots": "ova",
+                            # "Season Recaps": "tv_special",
+                        }
+                        anime_type = type_mapping.get(ep_data.get("TYPE"))
+
+                        EpisodeMALID = None
+                        search_terms = None
+                        all_titles = None
+                        if ep_title:
+                            search_terms = [ep_title]
+
+                            for alias in ep_aliases:
+                                search_terms.append(f"{alias}" if ep_title else alias)
+                            
+                            if series_title and series_title.lower() not in ep_title.lower():
+                                search_terms.append(f"{series_title} {ep_title}")
+
+                            EpisodeMALID, all_titles = None, None
+                            for term in search_terms:
+                                EpisodeMALID, all_titles = get_best_mal_id(term, anime_type, True)
+                                if EpisodeMALID:
+                                    break
                             if EpisodeMALID:
-                                break
+                                mal_eps = get_mal_episode_count(EpisodeMALID)
+                                if EpisodeMALID not in mal_episode_counter:
+                                    mal_episode_counter[EpisodeMALID] = 1
+                                else:
+                                    mal_episode_counter[EpisodeMALID] += 1
+                                if mal_eps and mal_eps == 1:
+                                    record["myanimelist url"] = f"{get_mal_url(EpisodeMALID, None)}"
+                                else:
+                                    episode_number = mal_episode_counter[EpisodeMALID]
+                                    record["myanimelist url"] = f"{get_mal_url(EpisodeMALID, episode_number)}{episode_number}"
+                        
                         if EpisodeMALID:
-                            mal_eps = get_mal_episode_count(EpisodeMALID)
-                            if EpisodeMALID not in mal_episode_counter:
-                                mal_episode_counter[EpisodeMALID] = 1
-                            else:
-                                mal_episode_counter[EpisodeMALID] += 1
-                            if mal_eps and mal_eps == 1:
-                                record["myanimelist url"] = f"{get_mal_url(EpisodeMALID, None)}"
-                            else:
-                                episode_number = mal_episode_counter[EpisodeMALID]
-                                record["myanimelist url"] = f"{get_mal_url(EpisodeMALID, episode_number)}{episode_number}"
-                    
-                    if EpisodeMALID:
-                        record["myanimelist"] = int(EpisodeMALID)
-                        record["thetvdb"] = int(ep_id)
-                        mapped.append(record)
-                    else:
-                        record["thetvdb"] = ep_id
-                        record["search terms"] = search_terms
-                        record["Jikan titles"] = all_titles
-                        unmapped_episodes.append(record)
+                            record["myanimelist"] = int(EpisodeMALID)
+                            record["thetvdb"] = int(ep_id)
+                            mapped.append(record)
+                        else:
+                            record["thetvdb"] = ep_id
+                            record["search terms"] = search_terms
+                            record["Jikan titles"] = all_titles
+                            unmapped_episodes.append(record)
 
-                elif SeasonMalID:
-                    # Regular episodes
-                    episode_offset += 1
-                    if mal_eps and mal_eps < episode_offset:
-                        SeasonMalID = get_mal_relations(SeasonMalID, total_episodes - episode_offset + 1, None)
-                        if SeasonMalID:
-                            mal_eps = get_mal_episode_count(SeasonMalID)
-                            episode_offset = 1
-                            malurl = get_mal_url(SeasonMalID, None if total_episodes == 1 else episode_offset)
-                        # else:
-                        #     raise RuntimeError(f"This is a bug — logic failure in episode mapping. Previous malid was {SeasonMalID}")
+                    elif SeasonMalID:
+                        # Regular episodes
+                        episode_offset += 1
+                        if mal_eps and mal_eps < episode_offset:
+                            SeasonMalID = get_mal_relations(SeasonMalID, total_episodes - episode_offset + 1, None)
+                            if SeasonMalID:
+                                mal_eps = get_mal_episode_count(SeasonMalID)
+                                episode_offset = 1
+                                malurl = get_mal_url(SeasonMalID, None if total_episodes == 1 else episode_offset)
+                            # else:
+                            #     raise RuntimeError(f"This is a bug — logic failure in episode mapping. Previous malid was {SeasonMalID}")
 
-                    if SeasonMalID and malurl:
-                        episodeMALURL = f"{malurl}{episode_offset}"
-                        record["myanimelist url"] = episodeMALURL
-                        record["myanimelist"] = int(SeasonMalID)
-                        record["thetvdb"] = int(ep_id)
-                        mapped.append(record)
-                    else:
-                        record["thetvdb"] = ep_id
-                        record["previous malid"] = SeasonMalID
-                        unmapped_episodes.append(record)
+                        if SeasonMalID and malurl:
+                            episodeMALURL = f"{malurl}{episode_offset}"
+                            record["myanimelist url"] = episodeMALURL
+                            record["myanimelist"] = int(SeasonMalID)
+                            record["thetvdb"] = int(ep_id)
+                            mapped.append(record)
+                        else:
+                            record["thetvdb"] = ep_id
+                            record["previous malid"] = SeasonMalID
+                            unmapped_episodes.append(record)
 
-        # Save progress after each series
-        with open(MAPPED_OUT, "w", encoding="utf-8") as f:
-            json.dump(mapped, f, indent=2, ensure_ascii=False)
-        with open(UNMAPPED_SERIES_OUT, "w", encoding="utf-8") as f:
-            json.dump(unmapped_series, f, indent=2, ensure_ascii=False)
-        with open(UNMAPPED_SEASONS_OUT, "w", encoding="utf-8") as f:
-            json.dump(unmapped_seasons, f, indent=2, ensure_ascii=False)
-        with open(UNMAPPED_EPISODES_OUT, "w", encoding="utf-8") as f:
-            json.dump(unmapped_episodes, f, indent=2, ensure_ascii=False)
+            # Save progress after each series
+            with open(mapped_out, "w", encoding="utf-8") as f:
+                json.dump(mapped, f, indent=2, ensure_ascii=False)
+            all_unmapped_series.extend(unmapped_series)
+            all_unmapped_seasons.extend(unmapped_seasons)
+            all_unmapped_episodes.extend(unmapped_episodes)
 
-        print(f"\nFinished series {series_title}. Total mapped: {len(mapped)}, unmapped series: {len(unmapped_series)} unmapped seasons: {len(unmapped_seasons)} unmapped episodes: {len(unmapped_episodes)}")
+            print(f"\nFinished series {series_title}. Total mapped: {len(mapped)}, unmapped series: {len(unmapped_series)} unmapped seasons: {len(unmapped_seasons)} unmapped episodes: {len(unmapped_episodes)}")
 
+    with open("unmapped-series.json", "w", encoding="utf-8") as f:
+        json.dump(all_unmapped_series, f, indent=2, ensure_ascii=False)
+    with open("unmapped-seasons.json", "w", encoding="utf-8") as f:
+        json.dump(all_unmapped_seasons, f, indent=2, ensure_ascii=False)
+    with open("unmapped-episodes.json", "w", encoding="utf-8") as f:
+        json.dump(all_unmapped_episodes, f, indent=2, ensure_ascii=False)
     print(f"\nMapping complete! Total mapped: {len(mapped)}, unmapped series: {len(unmapped_series)} unmapped seasons: {len(unmapped_seasons)} unmapped episodes: {len(unmapped_episodes)}")
 
 # ----------------------

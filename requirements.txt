@@ -1,5 +1,8 @@
-playwright>=1.45.0
 rapidfuzz>=3.14.1
 httpx>=0.28.1
 tqdm>=4.67.1
 nest_asyncio>=1.6.0
+jikanpy-v4>=1.0.2
+beautifulsoup4>=4.13.5
+lxml>=6.0.1
+aiohttp>=3.12.15

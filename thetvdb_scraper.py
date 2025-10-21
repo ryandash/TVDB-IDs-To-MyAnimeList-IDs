@@ -1,3 +1,6 @@
+from urllib.parse import urljoin
+from bs4 import BeautifulSoup
+from dataclasses import dataclass
 from datetime import datetime
 import json
 import os
@@ -8,131 +11,77 @@ import asyncio
 from queue import Queue
 from pathlib import Path
 from copy import deepcopy
-import time
 import traceback
-import shutil
-import signal
-from typing import Tuple
+from typing import List
 import uuid
+import aiohttp
 from tqdm.asyncio import tqdm_asyncio
-from playwright.async_api import Page, async_playwright
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--page", type=int, default=None, help="Page number to scrape")
-parser.add_argument("--delete-folder", action="store_true", help="Delete anime_data folder")
+parser.add_argument("--worker", type=int, help="The worker number")
 parser.add_argument("--save-interval", type=int, default=5, help="Save after this many anime")
+parser.add_argument("--delete-folder", action="store_true", help="Delete the anime_data folder before scraping to start fresh")
 args = parser.parse_args()
-page_to_scrape = args.page
-deleteFolder = args.delete_folder
+
 SAVE_INTERVAL = args.save_interval
 
-BASE_URL_TEMPLATE = "https://www.thetvdb.com/genres/anime?page={page_num}"
-DATA_DIR = Path("anime_data")
-DATA_DIR.mkdir(exist_ok=True)
+# -----------------------------
+# Config Paths
+# -----------------------------
+
+MIN_MAP_SERIES = Path("min_map_data/series")
+MIN_MAP_MOVIE = Path("min_map_data/movie")
+
+DATA_DIR_SERIES = Path("anime_data/series")
+DATA_DIR_MOVIE = Path("anime_data/movie")
+DATA_DIR_SERIES.mkdir(parents=True, exist_ok=True)
+DATA_DIR_MOVIE.mkdir(parents=True, exist_ok=True)
+
+MAX_ANIME_CONCURRENT = 5
+MAX_SEASON_CONCURRENT = 10
+SAVE_WORKERS = 2
+
+# -----------------------------
+# HTML Helpers
+# -----------------------------
+async def fetch_html(session: aiohttp.ClientSession, url: str, retries=3, delay=3) -> str:
+    for attempt in range(1, retries+1):
+        try:
+            async with session.get(url) as resp:
+                if resp.status != 200:
+                    raise RuntimeError(f"Status {resp.status}")
+                return await resp.text()
+        except Exception as e:
+            if attempt < retries:
+                await asyncio.sleep(delay * attempt)
+            else:
+                print(f"[FAIL] Could not fetch {url} after {retries} retries: {e}")
+                return ""
 
 # -------------------
 # Persistence
 # -------------------
 
 def safe_load_json(path: str) -> dict:
-    """
-    Robust JSON loader that attempts to salvage truncated/corrupted JSON files.
-
-    - Tries normal json.load first.
-    - On JSONDecodeError or UnicodeDecodeError tries to read forgivingly (errors='ignore'),
-      then truncates to the last '}' or ']' and tries to json.loads.
-    - If that fails, falls back to your previous line-based truncated-anime approach.
-    - If salvage succeeds it rewrites the file atomically.
-    - Always returns a dict (empty dict on failure).
-    """
     p = Path(path)
     try:
         with p.open("r", encoding="utf-8") as f:
             return json.load(f)
-    except (json.JSONDecodeError, UnicodeDecodeError) as exc:
-        print(f"[WARN] JSON corrupted at {path} ({exc}). Attempting salvage...")
-
-        # Read forgivingly to avoid UnicodeDecodeError on truncated multibyte chars
-        try:
-            raw = p.read_text(encoding="utf-8", errors="ignore")
-        except Exception as e:
-            print(f"[ERROR] Could not read file forgivingly: {e}")
-            return {}
-
-        # Strategy 1: cut to last top-level close brace/bracket
-        last_close = max(raw.rfind("}"), raw.rfind("]"))
-        if last_close != -1:
-            candidate = raw[: last_close + 1]
-            try:
-                data = json.loads(candidate)
-                # write back salvaged content atomically
-                tmp_file = p.with_suffix(p.suffix + ".salvage.tmp")
-                try:
-                    with tmp_file.open("w", encoding="utf-8") as tf:
-                        tf.write(candidate)
-                    os.replace(tmp_file, p)
-                    print("[INFO] Salvage successful by truncating to last '}' or ']'.")
-                except Exception as e:
-                    print(f"[WARN] Could not write salvaged file atomically: {e}")
-                return data
-            except Exception:
-                # fall through to next strategy
-                pass
-
-        # Strategy 2: fallback to original line-based truncation (search for start of last anime)
-        try:
-            lines = raw.splitlines(True)
-            anime_start_pattern = re.compile(r'^\s*"\d+"\s*:\s*{\s*$')  # looser whitespace
-            for i in range(len(lines) - 1, -1, -1):
-                if anime_start_pattern.match(lines[i].rstrip()):
-                    # try to close previous object's trailing comma / bracket
-                    if i > 0:
-                        prev_line = lines[i - 1].rstrip()
-                        if prev_line.endswith("},"):
-                            lines[i - 1] = prev_line[:-1] + "\n"  # replace "}," -> "}"
-                        else:
-                            lines[i - 1] = prev_line + "\n"
-                    # Keep everything up to the start of the problematic object, then close JSON
-                    truncated = "".join(lines[:i]) + "}\n"
-                    try:
-                        data = json.loads(truncated)
-                        # persist truncated JSON atomically
-                        tmp_file = p.with_suffix(p.suffix + ".salvage.tmp")
-                        try:
-                            with tmp_file.open("w", encoding="utf-8") as tf:
-                                tf.write(truncated)
-                            os.replace(tmp_file, p)
-                            print("[INFO] Salvage successful by truncating last object.")
-                        except Exception as e:
-                            print(f"[WARN] Could not write truncated file atomically: {e}")
-                        return data
-                    except Exception:
-                        # can't salvage here, continue
-                        break
-        except Exception as e:
-            print(f"[WARN] Line-based salvage attempt failed: {e}")
-
-        print("[ERROR] Could not salvage JSON. Returning empty dict.")
+    except Exception as e:
+        print(f"[WARN] Could not load {p}: {e}")
         return {}
 
 def build_lookup_table() -> dict:
-    """
-    Loads all existing JSONs from DATA_DIR/*.json into a flat lookup table keyed by series ID.
-    If a file cannot be salvaged, skip it and continue.
-    """
     lookup = {}
-    for file in DATA_DIR.glob("*.json"):
-        try:
-            anime_info = safe_load_json(str(file))
-            if anime_info:
-                lookup[file.stem] = anime_info
-            else:
-                # empty dict indicates salvage/read failure; skip but warn
-                print(f"[WARN] Skipping {file} due to unreadable/corrupted content.")
-        except Exception as e:
-            print(f"[WARN] Unexpected error loading {file}: {e}")
+    for data_dir in (DATA_DIR_SERIES, DATA_DIR_MOVIE):
+        for file in data_dir.glob("*.json"):
+            try:
+                data = safe_load_json(str(file))
+                if data:
+                    lookup[file.stem] = data
+            except Exception as e:
+                print(f"[WARN] Failed to load {file}: {e}")
     return lookup
-
 
 # -------------------
 # Threaded Saving
@@ -141,249 +90,134 @@ def build_lookup_table() -> dict:
 save_queue = Queue()
 stop_saver = threading.Event()
 
-def save_anime(series_id: str, anime_info: dict, max_replace_attempts: int = 3):
-    """Atomically save anime_info to DATA_DIR/{series_id}.json using a unique tmp file and fsync."""
+def save_anime(series_id: str, anime_info: dict, category: str):
     if not anime_info:
         return
-    final_file = DATA_DIR / f"{series_id}.json"
-    # create a unique temporary file name in same dir (important for os.replace atomicity)
-    tmp_name = f"{series_id}.json.tmp.{uuid.uuid4().hex}"
-    tmp_file = DATA_DIR / tmp_name
-
+    save_dir = DATA_DIR_MOVIE if category == "movie" else DATA_DIR_SERIES
+    final_file = save_dir / f"{series_id}.json"
+    tmp_file = save_dir / f"{series_id}.json.tmp.{uuid.uuid4().hex}"
     try:
-        # Use open() and write, flush and fsync to avoid partial writes
         with tmp_file.open("w", encoding="utf-8") as f:
             json.dump(anime_info, f, indent=4, ensure_ascii=False)
             f.flush()
             os.fsync(f.fileno())
-
-        # Attempt atomic replace (retry on rare transient issues)
-        for attempt in range(1, max_replace_attempts + 1):
-            try:
-                os.replace(tmp_file, final_file)
-                break
-            except Exception as e:
-                if attempt >= max_replace_attempts:
-                    raise
-                time.sleep(0.1 * attempt)
-        # Optionally: verify file is readable right after replace (quick sanity)
-        try:
-            with final_file.open("r", encoding="utf-8") as vf:
-                json.load(vf)
-        except Exception as verify_exc:
-            print(f"[WARN] Verification failed for {final_file}: {verify_exc}")
+        os.replace(tmp_file, final_file)
     except Exception as e:
-        print(f"[ERROR] Failed saving anime {series_id}: {e}")
-        # try to cleanup orphan tmp file (best-effort)
-        try:
-            if tmp_file.exists():
-                tmp_file.unlink()
-        except Exception:
-            pass
+        print(f"[ERROR] Failed saving {category}/{series_id}: {e}")
+        if tmp_file.exists():
+            tmp_file.unlink(missing_ok=True)
 
-def enqueue_save_anime(series_id: str, anime_info: dict):
-    """Put a deepcopy on the queue (like before) but guard against exploding memory."""
-    try:
-        save_queue.put((series_id, deepcopy(anime_info)))
-    except Exception as e:
-        print(f"[ERROR] enqueue_save_anime failed for {series_id}: {e}")
+def enqueue_save_anime(series_id: str, anime_info: dict, category: str):
+    save_queue.put((series_id, deepcopy(anime_info), category))
 
 def save_worker():
     """Consume save_queue until stop_saver set AND queue empty."""
     while True:
-        # exit condition: stop flag set and queue empty
         if stop_saver.is_set() and save_queue.empty():
             break
         try:
-            series_id, data_copy = save_queue.get(timeout=1)
+            series_id, data_copy, category = save_queue.get(timeout=1)
         except Exception:
             continue
         try:
-            save_anime(series_id, data_copy)
+            save_anime(series_id, data_copy, category)
         except Exception as e:
-            print(f"[ERROR] Unhandled error saving {series_id}: {e}\n{traceback.format_exc()}")
+            print(f"[ERROR] Unhandled error saving {category}/{series_id}: {e}\n{traceback.format_exc()}")
         finally:
             try:
                 save_queue.task_done()
             except Exception:
                 pass
 
-def _signal_handler(signum, frame):
-    print(f"[INFO] Received signal {signum}. Stopping saver after draining queue...")
+def start_saver_threads():
+    threads = []
+    for _ in range(SAVE_WORKERS):
+        t = threading.Thread(target=save_worker, daemon=True)
+        t.start()
+        threads.append(t)
+    return threads
+
+def stop_saver_threads(threads):
     stop_saver.set()
+    for t in threads:
+        t.join()
 
-signal.signal(signal.SIGINT, _signal_handler)
-try:
-    signal.signal(signal.SIGTERM, _signal_handler)
-except Exception:
-    pass
-
-async def create_page_pool(context, pool_size: int) -> asyncio.Queue: 
-    pages: list[Page] = [await context.new_page() for _ in range(pool_size)]
-    available = asyncio.Queue()
-    for p in pages:
-        await available.put(p)
-    return available
-
-async def with_page(available, fn, *args, **kwargs):
-    page = await available.get()
-    try:
-        await fn(page, *args, available=available, **kwargs)
-    finally:
-        await available.put(page)
-# -------------------
-# Async Helpers
-# -------------------
-
-async def async_safe_goto(page: Page, url: str, retries=3, delay=3) -> bool:
-    for attempt in range(1, retries + 1):
-        try:
-            await page.goto(url, timeout=60000, wait_until="domcontentloaded")
-            content = await page.content()
-            if "Whoops, looks like something went wrong." in content:
-                return False
-            return True
-        except Exception as e:
-            if attempt > 2:
-                print(f"[Retry {attempt}/{retries}] Failed {getattr(page, 'url', url)}: {e}")
-            if attempt < retries:
-                try:
-                    await page.reload(wait_until="domcontentloaded")
-                except Exception:
-                    pass
-                await asyncio.sleep(delay * attempt)
-            else:
-                print(f"[FAIL] Could not load {url} after {retries} retries")
-                return False
-
-async def async_wait_for_selector(page: Page, selector: str, retries=3, delay=5) -> bool:
-    for attempt in range(1, retries + 1):
-        try:
-            await page.wait_for_selector(selector, state="attached")
-            return True
-        except Exception as e:
-            if attempt > 2:
-                print(f"[Retry {attempt}/{retries}] Failed {page.url}: {e}")
-            if attempt < retries:
-                await asyncio.sleep(delay * attempt)
-                await page.reload(wait_until="domcontentloaded")
-                await asyncio.sleep(delay * attempt)
-            else:
-                print(f"Failed on page {getattr(page, 'url', 'unknown')}")
-                return False
-
-async def get_total_pages(page: Page) -> int:
-    if not await async_wait_for_selector(page, 'xpath=//*[@id="app"]/div[3]/div[3]/div[1]/ul'):
-        return 1
-    li_elements = await page.query_selector_all('xpath=//*[@id="app"]/div[3]/div[3]/div[1]/ul/li')
-    if len(li_elements) < 2:
-        return 1
-    last_li = li_elements[-2]
-    a_tag = await last_li.query_selector("a")
-    if a_tag:
-        href = await a_tag.get_attribute("href")
-        if href and "?page=" in href:
-            try:
-                return int(href.split("?page=")[1].split("&")[0])
-            except ValueError:
-                pass
-    return 1
-
-async def first_selector(page, selectors):
-    for sel in selectors:
-        elems = await page.query_selector_all(sel)
-        if elems:
-            return elems
-    return []
-
-async def extract_translations_async(page: Page) -> Tuple[dict[str, dict[str, str | None]], list[str]]:
-    translations = {
-        "eng": {"title": None, "summary": None},
-        "jpn": {"title": None, "summary": None},
-    }
-    aliases: list[str] = []
-
-    divs = await page.query_selector_all("#translations > div")
+def parse_translations(soup: BeautifulSoup):
+    translations = {"eng": {"title": None, "summary": None}, "jpn": {"title": None, "summary": None}}
+    aliases = []
+    divs = soup.select("#translations > div")
     for div in divs:
-        lang = await div.get_attribute("data-language")
+        lang = div.get("data-language")
         if lang not in translations:
             continue
-
-        # Title
-        title = await div.get_attribute("data-title")
+        title = div.get("data-title")
         translations[lang]["title"] = title.strip() if title else None
-
-        # Summary
-        p_elem = await div.query_selector("p")
-        if p_elem:
-            text = (await p_elem.inner_text()).strip()
-            translations[lang]["summary"] = text or None
-
-        # Aliases (keep DOM order, remove duplicates)
-        alias_items = await div.query_selector_all("ul li")
-        alias_texts = await asyncio.gather(*[li.text_content() for li in alias_items])
-        for a in alias_texts:
-            alias = a.strip()
+        p_elem = div.find("p")
+        translations[lang]["summary"] = p_elem.get_text(strip=True) if p_elem else None
+        for li in div.select("ul li"):
+            alias = li.get_text(strip=True)
             if alias and alias not in aliases:
                 aliases.append(alias)
-
     return translations, aliases
 
-async def extract_season_translations_async(page: Page) -> dict[str, dict[str, str | None]]:
-    """Extracts title and summary translations for season pages."""
-    translations = {
-        "eng": {"title": None, "summary": None},
-        "jpn": {"title": None, "summary": None},
-    }
-
-    base = (
+def parse_season_translations(soup: BeautifulSoup):
+    translations = {"eng": {"title": None, "summary": None}, "jpn": {"title": None, "summary": None}}
+    base_selector = (
         "#app > div.container > div.row.mt-2 > "
         "div.col-xs-12.col-sm-8.col-md-8.col-lg-9.col-xl-10"
     )
-
-    title_spans = await page.query_selector_all(f"{base} > h2 > span.change_translation_text")
+    title_spans = soup.select(f"{base_selector} > h2 > span.change_translation_text")
     for span in title_spans:
-        lang = await span.get_attribute("data-language")
-        if lang not in translations:
+        lang = span.get("data-language")
+        text = span.get_text(strip=True) or None
+        if not lang:
             continue
+        if lang not in translations:
+            translations[lang] = {"title": None, "summary": None}
+        translations[lang]["title"] = text
 
-        text = (await span.inner_text()).strip()
-        translations[lang]["title"] = text or None
-
-    # --- Summaries ---
-    summary_divs = await page.query_selector_all(f"{base} > div.change_translation_text")
+    summary_divs = soup.select(f"{base_selector} > div.change_translation_text")
     for div in summary_divs:
-        lang = await div.get_attribute("data-language")
+        lang = div.get("data-language")
+        p_elem = div.find("p")
+        text = p_elem.get_text(strip=True) if p_elem else None
+        if not lang:
+            continue
         if lang not in translations:
-            continue
-
-        p_elem = await div.query_selector("p")
-        if not p_elem:
-            continue
-
-        text = (await p_elem.inner_text()).strip()
-        translations[lang]["summary"] = text or None
-
+            translations[lang] = {"title": None, "summary": None}
+        translations[lang]["summary"] = text
     return translations
 
+
+def parse_special_category(li):
+    strong = li.find("strong")
+    strong_text = strong.get_text(strip=True).upper() if strong else ""
+    type_text = None
+    if strong_text == "SPECIAL CATEGORY":
+        a = li.find("span a")
+        type_text = a.get_text(strip=True) if a else None
+    elif strong_text == "NOTES":
+        span = li.find("span")
+        notes_text = span.get_text(strip=True).lower() if span else ""
+        if "is a movie" in notes_text:
+            type_text = "Movies"
+    return type_text
 
 # -------------------
 # Episode / Season / Anime
 # -------------------
 
-async def scrape_episode_async(page: Page, ep_info, season_eps: dict, available: Queue):
+async def scrape_episode(session: aiohttp.ClientSession, ep_info, season_eps: dict):
     ep_id, ep_url, ep_num = ep_info
     if ep_num in season_eps and season_eps.get("TitleEnglish") != None:
         return
 
-    if not await async_safe_goto(page, ep_url):
-        print(f"[SKIP] Skipping episode {ep_id} — page load failed")
-        return
-    if not await async_wait_for_selector(page, "#translations"):
-        print(f"[SKIP] Skipping {ep_id} due to error page")
+    html = await fetch_html(session, ep_url)
+    if not html:
         return
 
-    translations, aliases = await extract_translations_async(page)
+    soup = BeautifulSoup(html, "html.parser")
+    translations, aliases = parse_translations(soup)
     titles = {lang: data.get("title") for lang, data in translations.items()}
     summaries = {lang: data.get("summary") for lang, data in translations.items()}
 
@@ -400,26 +234,12 @@ async def scrape_episode_async(page: Page, ep_info, season_eps: dict, available:
         type_text = "OVA"
     elif "movie" in eng_title:
         type_text = "Movies"
-
-    
-    li_elements = await first_selector(page, [
-        "#general > ul > li",
-        "#app > div.container > div.row > div.col-xs-12.col-sm-12.col-md-8.col-lg-8 > div:nth-child(4) > ul > li"
-    ])
-
-    for li in li_elements:
-        strong_elem = await li.query_selector("strong")
-        strong_text = (await strong_elem.inner_text()).strip().upper() if strong_elem else None
-
-        if type_text is None:
-            if strong_text == "SPECIAL CATEGORY":
-                type_elem = await li.query_selector("span a")
-                type_text = (await type_elem.inner_text()).strip() if type_elem else None
-            elif strong_text == "NOTES":
-                type_elem = await li.query_selector("span")
-                notes_text = (await type_elem.inner_text()).strip().lower() if type_elem else ""
-                if "is a movie" in notes_text:
-                    type_text = "Movies"
+    else:
+        for li in soup.select("#general > ul > li"):
+            t = parse_special_category(li)
+            if t:
+                type_text = t
+                break
 
     season_eps[ep_num] = {
         "ID": ep_id,
@@ -430,70 +250,73 @@ async def scrape_episode_async(page: Page, ep_info, season_eps: dict, available:
         "Aliases": aliases
     }
 
-async def scrape_season_async(page:Page, season_url: str, numEpisodes: int, season_dict: dict, season_number: str, available: Queue):
-    existing_eps = season_dict.setdefault("Episodes", {})
-    if not await async_safe_goto(page, season_url):
-        print(f"[SKIP] Skipping Season: {season_url} — page load failed")
+async def scrape_season(session: aiohttp.ClientSession, season_url: str, numEpisodes: int, season_dict: dict, season_number: str):
+    html = await fetch_html(session, season_url)
+    if not html:
         return
+    soup = BeautifulSoup(html, "html.parser")
 
     if not season_dict.get("ID"):
-        if not await async_wait_for_selector(page, "#general"):
-            print(f"[SKIP] Skipping Season: {season_url} due to error page")
-            return
+        soup = BeautifulSoup(html, "html.parser")
+        
+        season_id_elem = soup.select_one('#general ul li span')
+        season_id = season_id_elem.get_text(strip=True) if season_id_elem else "N/A"
 
-        season_id_elem = await page.query_selector('#general ul li span')
-
-        translations = await extract_season_translations_async(page)
-
-        # Extract into your season dict
+        translations = parse_season_translations(soup)
         titles = {lang: data.get("title") for lang, data in translations.items()}
         summaries = {lang: data.get("summary") for lang, data in translations.items()}
-
         if not titles.get("eng"):
             titles["eng"], summaries["eng"] = titles.get("jpn"), summaries.get("jpn")
+        
         season_dict.update({
-            "ID": (await season_id_elem.inner_text() if season_id_elem else "N/A"),
+            "ID": season_id,
             "URL": season_url,
             "TitleEnglish": titles.get("eng", ""),
             "SummaryEnglish": summaries.get("eng", ""),
             "# Episodes": int(numEpisodes)
         })
-
-    if not await async_wait_for_selector(page, "#episodes"):
-        print(f"[SKIP] Skipping Season: {season_url} due to error page")
-        return
+    
     
     ep_rows = []
+    existing_eps = season_dict.setdefault("Episodes", {})
+
     if season_number == "0":
         special_categories = {"Episodic Special", "Movies", "OVAs", "Season Recaps", "Uncategorized"}
-        h3_elems = await page.query_selector_all("#episodes > h3")
-        for h3 in h3_elems:
-            text = (await h3.inner_text()).strip()
+        for h3 in soup.select("#episodes > h3"):
+            text = h3.get_text(strip=True)
             if any(cat.lower() in text.lower() for cat in special_categories):
-                next_table = await h3.evaluate_handle(
-                    "(node) => node.nextElementSibling && node.nextElementSibling.tagName === 'TABLE' ? node.nextElementSibling : null"
-                )
+                next_table = h3.find_next_sibling("table")
                 if next_table:
-                    rows = await next_table.query_selector_all("tbody tr")
-                    ep_rows.extend(rows)
+                    ep_rows.extend(next_table.select("tbody tr"))
     else:
-        ep_rows = await page.query_selector_all("#episodes table tbody tr")
+        ep_rows = soup.select("#episodes table tbody tr")
     
     ep_infos = []
     for erow in ep_rows or []:
-        ep_href_elem = await erow.query_selector('td:nth-child(2) a')
-        ep_code_elem = await erow.query_selector('td:nth-child(1)')
-        if not ep_href_elem or not ep_code_elem:
+        a_tag = erow.select_one("td:nth-child(2) a")
+        code_td = erow.select_one("td:nth-child(1)")
+        if not a_tag or not code_td:
             continue
-        match = re.search(r'E(\d+)', (await ep_code_elem.inner_text()).strip().upper())
+
+        code_text = code_td.get_text(strip=True).upper()
+        match = re.search(r"E(\d+)", code_text)
         ep_num = str(int(match.group(1))) if match else None
-        if ep_num in existing_eps:
+        if not ep_num or ep_num in existing_eps:
             continue
-        ep_href = await ep_href_elem.get_attribute('href')
-        ep_infos.append((ep_href.rstrip('/').split('/')[-1], "https://www.thetvdb.com" + ep_href, ep_num))
+
+        href = a_tag.get("href")
+        if not href:
+            continue
+
+        full_url = urljoin("https://www.thetvdb.com", href)
+        ep_id = href.rstrip("/").split("/")[-1]
+        ep_infos.append((ep_id, full_url, ep_num))
 
     if ep_infos:
-        await asyncio.gather(*(with_page(available, scrape_episode_async, ep_info, existing_eps) for ep_info in ep_infos))
+        await asyncio.gather(*(
+            scrape_episode(session, ep_info, existing_eps)
+            for ep_info in ep_infos
+        ))
 
     # --- Sort seasons by Season Number ---
     other_keys = {k: v for k, v in season_dict.items() if k != "Episodes"}
@@ -503,7 +326,6 @@ async def scrape_season_async(page:Page, season_url: str, numEpisodes: int, seas
 
 
 lookup = build_lookup_table()
-MAX_SEASON_CONCURRENT = None
 
 def parse_date(date_str: str):
     for fmt in ("%b %d, %Y", "%B %d, %Y"):  # abbreviated first, then full month
@@ -513,43 +335,50 @@ def parse_date(date_str: str):
             continue
     raise ValueError(f"Could not parse date: {date_str}")
 
-async def scrape_anime_page_async(page: Page, anime_url: str, available: Queue):
-    if not await async_safe_goto(page, anime_url):
-        print(f"[SKIP] Skipping Anime: {anime_url} — page load failed")
+async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str):
+    html = await fetch_html(session, url)
+    if not html:
         return
-    if not await async_wait_for_selector(page, "#series_basic_info"):
-        print(f"[SKIP] Skipping Anime: {anime_url} due to error page")
-        return
+    
+    soup = BeautifulSoup(html, "html.parser")
+    info_items = soup.select('#series_basic_info ul li')
 
     series_id = None
     modified_date = None
     genres, other_sites = [], []
-    info_items = await page.query_selector_all('#series_basic_info ul li')
+
     for li in info_items:
-        label_elem = await li.query_selector("strong")
-        label = (await label_elem.inner_text()).strip().upper() if label_elem else None
+        label_elem = li.find("strong")
+        label = label_elem.get_text(strip=True).upper() if label_elem else None
         if not label:
             continue
+
         if "ID" in label:
-            span = await li.query_selector("span")
-            series_id = await span.inner_text() if span else None
+            span = li.find("span")
+            series_id = span.get_text(strip=True) if span else None
+
         elif "MODIFIED" in label:
-            span = await li.query_selector("span")
-            modified_date = await span.inner_text() if span else None
-            if modified_date:
-                date_str = modified_date.split("by")[0].strip()
-                modified_date = parse_date(date_str)
+            span = li.find("span")
+            modified_date_text = span.get_text(strip=True) if span else None
+            if modified_date_text:
+                date_str = modified_date_text.split("by")[0].strip()
+                try:
+                    modified_date = parse_date(date_str)
+                except ValueError:
+                    modified_date = None
+
         elif "GENRE" in label:
-            genres = [await g.inner_text() for g in await li.query_selector_all("span a")]
+            genres = [g.get_text(strip=True) for g in li.select("span a")]
+
         elif "SITES" in label:
-            other_sites = [await s.get_attribute("href") for s in await li.query_selector_all("span a")]
+            other_sites = [s.get("href") for s in li.select("span a")]
 
     if not series_id:
         return
 
     existing  = lookup.get(series_id)    
     if not existing:
-        translations, aliases = await extract_translations_async(page)
+        translations, aliases = parse_translations(soup)
         titles = {lang: data.get("title") for lang, data in translations.items()}
         summaries = {lang: data.get("summary") for lang, data in translations.items()}
 
@@ -561,7 +390,7 @@ async def scrape_anime_page_async(page: Page, anime_url: str, available: Queue):
             return
     
     anime_data = deepcopy(existing) if existing else {
-        "URL": anime_url,
+        "URL": url,
         "Genres": genres,
         "Other Sites": other_sites,
         "TitleEnglish": titles.get("eng"),
@@ -581,143 +410,136 @@ async def scrape_anime_page_async(page: Page, anime_url: str, available: Queue):
                 pass
     
     if existing_date and modified_date and modified_date <= existing_date:
-        print(f"Skipped {series_id}")
-        enqueue_save_anime(series_id, anime_data)
+        print(f"\nSkipped {series_id}")
         return
 
-    # --- Collect seasons ---
-    season_rows = (await page.query_selector_all('#seasons-official table tbody tr'))[1:-1]
-    season_info = []
+    if category != "movie":
+        # --- Collect seasons ---
+        season_rows = soup.select('#seasons-official table tbody tr')[1:-1]
+        season_tasks = []
 
-    for idx, s in enumerate(season_rows, start=1):
-        season_number = str(idx - 1)
-        num_eps_elem = await s.query_selector('td:nth-child(4)')
-        num_eps = int(await num_eps_elem.inner_text()) if num_eps_elem else 0
-        if (num_eps == 0):
-            continue
-        season_entry = anime_data["Seasons"].get(season_number)
-        saved_num_eps = season_entry.get("# Episodes") if season_entry else None
+        for idx, s in enumerate(season_rows, start=1):
+            season_number = str(idx - 1)
+            num_eps_elem = s.select_one('td:nth-child(4)')
+            num_eps = int(num_eps_elem.get_text(strip=True)) if num_eps_elem else 0
+            if num_eps == 0:
+                continue
 
-        if isinstance(saved_num_eps, int) and saved_num_eps >= num_eps:
-            # Season already fully scraped; skip it
-            continue
+            season_entry = anime_data["Seasons"].get(season_number)
+            saved_num_eps = season_entry.get("# Episodes") if season_entry else None
 
-        a_elem = await s.query_selector('td:nth-child(1) a')
-        href = await a_elem.get_attribute('href') if a_elem else None
-        if href:
-            season_info.append((season_number, href, num_eps))
+            if isinstance(saved_num_eps, int) and saved_num_eps >= num_eps:
+                continue
 
-    async def limited_scrape_season(season_url: str, num_eps: int, anime_data:dict, season_number: str):
-        async with MAX_SEASON_CONCURRENT:
-            await with_page(available, scrape_season_async, season_url, num_eps, anime_data["Seasons"].setdefault(season_number, {}), season_number)
+            a_elem = s.select_one('td:nth-child(1) a')
+            href = a_elem.get("href") if a_elem else None
+            if href:
+                season_tasks.append(scrape_season(
+                    session,
+                    href,
+                    num_eps,
+                    anime_data["Seasons"].setdefault(season_number, {}),
+                    season_number
+                ))
 
-    if season_info:
-        season_tasks = [
-            limited_scrape_season(season_url, num_eps, anime_data, season_number)
-            for season_number, season_url, num_eps in season_info
-        ]
-        for coro in tqdm_asyncio.as_completed(season_tasks, desc=f"{series_id} Seasons", total=len(season_tasks), leave=False):
-            await coro
+        if season_tasks:
+            for coro in tqdm_asyncio.as_completed(season_tasks, desc=f"{series_id} Seasons", total=len(season_tasks), leave=False):
+                await coro
 
-    anime_data["Seasons"] = dict(sorted(anime_data["Seasons"].items(), key=lambda x: int(x[0])))
+        anime_data["Seasons"] = dict(sorted(anime_data["Seasons"].items(), key=lambda x: int(x[0])))
     
-    enqueue_save_anime(series_id, anime_data)
+    enqueue_save_anime(series_id, anime_data, category)
 
 
 # -------------------
 # Main Orchestration
 # -------------------
 
-async def scrape_all_async():
-    # create semaphores inside the event loop so they're bound to the correct loop
-    global MAX_SEASON_CONCURRENT
-    MAX_ANIME_CONCURRENT = asyncio.Semaphore(2)
-    MAX_SEASON_CONCURRENT = asyncio.Semaphore(2)
-    MAX_PAGES = 10
+@dataclass
+class TVDBMatches:
+    TvdbId: int
+    MalId: int
+    Name: str
+    Url: str
 
-    async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
-        context = await browser.new_context()
+async def scrape_all(matches_series: List[TVDBMatches], matches_movie: List[TVDBMatches]):
+    sem = asyncio.Semaphore(MAX_ANIME_CONCURRENT)
+    async with aiohttp.ClientSession() as session:
 
-        page_pool_available = await create_page_pool(context, pool_size=MAX_PAGES)
+        async def process_match(match: TVDBMatches, category: str):
+            async with sem:
+                await scrape_anime(session, match.Url, category)
+
+        tasks = []
+        for m in matches_series:
+            tasks.append(process_match(m, "series"))
+        for m in matches_movie:
+            tasks.append(process_match(m, "movie"))
+
+        for coro in tqdm_asyncio.as_completed(tasks, total=len(tasks), leave=True):
+                await coro
+
+# -----------------------------
+# Load Input Data
+# -----------------------------
+
+def load_tvdb_matches(folder: Path) -> List[TVDBMatches]:
+    matches = []
+    for f in folder.glob("*.json"):
         try:
-            page = await context.new_page()
-            await async_safe_goto(page, BASE_URL_TEMPLATE.format(page_num=1))
-            total_pages = await get_total_pages(page) if not page_to_scrape else page_to_scrape
-            page_nums = [page_to_scrape] if page_to_scrape else range(1, total_pages + 1)
-            await page.close()
-
-            for page_num in page_nums:
-                if deleteFolder and DATA_DIR.exists():
-                    shutil.rmtree(DATA_DIR)
-                    DATA_DIR.mkdir(exist_ok=True)
-
-                page = await context.new_page()
-                await async_safe_goto(page, BASE_URL_TEMPLATE.format(page_num=page_num))
-                if not await async_wait_for_selector(page, "table tbody tr"):
-                    print(f"[SKIP] Failed to find anime on page: {page_num} due to error page")
-                    return
-                rows = (await page.query_selector_all("table tbody tr"))[1:]
-                anime_urls = []
-                for r in rows:
-                    a_elem = await r.query_selector('td a')
-                    if not a_elem:
-                        continue
-                    href = await a_elem.get_attribute("href")
-                    if href:
-                        anime_urls.append("https://www.thetvdb.com" + href)
-
-                await page.close()
-
-                async def limited_scrape_anime(url):
-                    async with MAX_ANIME_CONCURRENT:
-                        try:
-                            await with_page(page_pool_available, scrape_anime_page_async, url)
-                        except Exception as e:
-                            print(f"[ERROR] Failed scraping {url}: {e}")
-                            raise
-
-                # Launch all tasks concurrently
-                tasks = [asyncio.create_task(limited_scrape_anime(anime_url)) for anime_url in anime_urls]
-                for coro in tqdm_asyncio.as_completed(tasks, desc=f"Page {page_num}/{total_pages}", total=len(tasks)):
-                    await coro
-
-                if not page_to_scrape:
-                    # polite pause between pages (don't block the event loop)
-                    await asyncio.sleep(30)
-
-            print("Scraping complete!")
-        finally:
-            await browser.close()
+            data = json.loads(f.read_text(encoding="utf-8"))
+            matches.append(TVDBMatches(**data))
+        except Exception as e:
+            print(f"[WARN] Failed to parse {f}: {e}")
+    return matches
 
 # -------------------
 # Entry Point
 # -------------------
 
 if __name__ == "__main__":
-    saver_thread = threading.Thread(target=save_worker, daemon=True)
-    saver_thread.start()
+    series_matches = load_tvdb_matches(MIN_MAP_SERIES)
+    movie_matches = load_tvdb_matches(MIN_MAP_MOVIE)
 
-    MAX_RETRIES = 3
-    attempt = 0
+    if args.delete_folder:
+        import shutil
 
-    while attempt < MAX_RETRIES:
-        try:
-            asyncio.run(scrape_all_async())
-            break  # Success! Exit the loop
-        except Exception as e:
-            attempt += 1
-            print(f"[FATAL] Scraper crashed (attempt {attempt}/{MAX_RETRIES}): {e}\n{traceback.format_exc()}")
-            if attempt < MAX_RETRIES:
-                print("Restarting in 5 minutes...")
-                time.sleep(300)
-            else:
-                print("[FATAL] Maximum retry attempts reached. Exiting.")
-                raise
+        print("[INFO] Deleting anime_data folders for a fresh start...")
+        for folder in [DATA_DIR_SERIES, DATA_DIR_MOVIE]:
+            if folder.exists():
+                shutil.rmtree(folder)
+            folder.mkdir(parents=True, exist_ok=True)
 
-    # signal the saver to stop, wait for queue to drain
-    stop_saver.set()
-    print("[INFO] Waiting for save queue to drain...")
-    save_queue.join()
-    saver_thread.join(timeout=10)
-    print("Saver thread stopped, exiting.")
+    num_workers = 20
+
+    if args.worker is not None:
+        worker_index = args.worker
+        # Combine series and movie matches into one list for splitting
+        all_matches = [(m, "series") for m in series_matches] + [(m, "movie") for m in movie_matches]
+        total_matches = len(all_matches)
+
+        # Compute the slice of work for this worker
+        per_worker = total_matches // num_workers
+        remainder = total_matches % num_workers
+
+        start_idx = worker_index * per_worker + min(worker_index, remainder)
+        end_idx = start_idx + per_worker + (1 if worker_index < remainder else 0)
+
+        # Slice the list for this worker
+        worker_matches = all_matches[start_idx:end_idx]
+
+        # Separate back into series and movie lists
+        series_matches_worker = [m for m, cat in worker_matches if cat == "series"]
+        movie_matches_worker = [m for m, cat in worker_matches if cat == "movie"]
+
+        print(f"[INFO] Worker {worker_index} processing {len(series_matches_worker)} series and {len(movie_matches_worker)} movies")
+
+    else:
+        # If no worker specified, process all
+        series_matches_worker = series_matches
+        movie_matches_worker = movie_matches
+        print(f"[INFO] No worker specified, processing all {len(series_matches_worker)} series and {len(movie_matches_worker)} movies")
+
+    threads = start_saver_threads()
+    asyncio.run(scrape_all(series_matches_worker, movie_matches_worker))
+    stop_saver_threads(threads)

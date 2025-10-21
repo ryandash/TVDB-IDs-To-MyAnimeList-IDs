@@ -12,7 +12,7 @@ def load_json(path: Path) -> JSONType:
         with path.open("r", encoding="utf-8") as f:
             return json.load(f)
     except Exception as e:
-        print(f"⚠ Failed to load {path}: {e}")
+        print(f"Failed to load {path}: {e}")
         return {} if path.suffix == ".json" else []
 
 def save_json(path: Path, data: JSONType):
@@ -55,6 +55,18 @@ def merge_category(input_dir: Path, repo_root: Path, pattern: str):
 
             save_json(target_file, merged)
 
+def merge_min_map_data(input_dir: Path, repo_root: Path):
+    """Merge all min_map_data JSONs into repo_root/min_map_data."""
+    for category in ["series", "movie"]:
+        src_dir = input_dir / category
+        if not src_dir.exists():
+            continue
+        dest_dir = repo_root / "min_map_data" / category
+        dest_dir.mkdir(parents=True, exist_ok=True)
+        for f in src_dir.glob("*.json"):
+            data = load_json(f)
+            save_json(dest_dir / f.name, data)
+
 def main():
     parser = argparse.ArgumentParser(description="Merge JSON files into repo root.")
     parser.add_argument("--input-dir", type=Path, required=True)
@@ -65,22 +77,40 @@ def main():
     # Merge all anime_data JSON files
     merge_category(input_dir, repo_root, "anime_data/*.json")
 
+    # Merge min_map_data JSON files from get_anime_data.py
+    merge_min_map_data(input_dir, repo_root)
+
     # Merge root-level mapping files
-    for root_file in ["mapped-tvdb-ids.json", "unmapped-series.json", "unmapped-seasons.json", "unmapped-episodes.json"]:
-        target_file = repo_root / root_file
-        artifact_files = collect_files(input_dir, root_file)
+    for root_file_pattern in ["mapped-tvdb-ids-*.json", "unmapped-series.json", "unmapped-seasons.json", "unmapped-episodes.json"]:
+        target_file = repo_root / (root_file_pattern.replace("*", ""))  # e.g., mapped-tvdb-ids.json
+        artifact_files = collect_files(input_dir, root_file_pattern)
 
         # Include repo file if it exists
         if target_file.exists():
             artifact_files.append(target_file)
 
-        if artifact_files:
-            data_list = [load_json(f) for f in artifact_files]
+        if not artifact_files:
+            continue
+
+        data_list = [load_json(f) for f in artifact_files]
+
+        if "mapped-tvdb-ids" in root_file_pattern:
+            # Merge all mapped entries into one list
             merged_dict = {}
             for data in data_list:
                 if isinstance(data, list):
                     for entry in data:
-                        tvdb_id = entry.get("thetvdb")
+                        tvdb_id = entry.get("thetvdb") or str(entry.get("TvdbId"))
+                        if tvdb_id:
+                            merged_dict[tvdb_id] = entry
+            save_json(repo_root / "mapped-tvdb-ids.json", list(merged_dict.values()))
+        else:
+            # Unmapped lists: just concatenate unique by tvdb
+            merged_dict = {}
+            for data in data_list:
+                if isinstance(data, list):
+                    for entry in data:
+                        tvdb_id = entry.get("thetvdb") or str(entry.get("TvdbId"))
                         if tvdb_id:
                             merged_dict[tvdb_id] = entry
             save_json(target_file, list(merged_dict.values()))

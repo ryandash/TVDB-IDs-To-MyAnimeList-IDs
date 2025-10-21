@@ -22,20 +22,16 @@ concurrency:
   group: "anime-json-update"
   cancel-in-progress: true
 
-jobs:  
-  determine_total_pages:
-    name: Determine Total Pages
+jobs:
+  scrape_jikan:
     runs-on: ubuntu-latest
-    container:
-      image: mcr.microsoft.com/playwright/python:v1.55.0-jammy
-    outputs:
-      pages: ${{ steps.generate_pages.outputs.pages }}
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v5
         with:
           fetch-depth: 1
-      
+
       - name: Cache pip
         id: cache-deps
         uses: actions/cache@v4
@@ -43,75 +39,50 @@ jobs:
           path: |
             ~/.cache/pip
           key: deps-${{ hashFiles('requirements.txt') }}
-          restore-keys: deps-
+          restore-keys: deps-       
 
-      - name: Decide Total Pages
-        id: set_pages
+      - name: update min_map_data
         run: |
           apt-get update
           apt-get install -y jq
           pip install --upgrade pip
           pip install --upgrade --no-cache-dir -r requirements.txt
 
-          if [ -n "${{ github.event.inputs.manual_total_pages }}" ]; then
-            total="${{ github.event.inputs.manual_total_pages }}"
-            echo "Using manual override: $total pages"
-          else
-            total=$(python get_total_pages.py | grep -oP '\d+')
-            echo "Detected: $total pages"
-          fi
+          python get_anime_data.py
 
-          if [ -z "$total" ]; then
-            echo "Error: total pages could not be determined!"
-            exit 1
-          fi
-    
-          echo "total=${total}" >> $GITHUB_OUTPUT
-      
-      - name: Generate Page List
-        id: generate_pages
-        run: |
-          total=${{ steps.set_pages.outputs.total }}
-          total=${total:-1}
-          pages=$(seq 1 $total | jq -R . | jq -s .)
-          echo "pages<<EOF" >> $GITHUB_OUTPUT
-          echo "${pages}" >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
+      - name: Upload Jikan Data
+        uses: actions/upload-artifact@v4
+        with:
+          name: jikan-data
+          path: min_map_data/
+          retention-days: 1
 
   scrape_pages:
-    needs: determine_total_pages
+    needs: scrape_jikan
     runs-on: ubuntu-latest
-    container:
-      image: mcr.microsoft.com/playwright/python:v1.55.0-jammy
-    continue-on-error: true
     strategy:
-      fail-fast: false
-      max-parallel: 10
+      max-parallel: 20
       matrix:
-        page: ${{ fromJson(needs.determine_total_pages.outputs.pages) }}
+        worker: [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19]
+    
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v5
-        with:
-          fetch-depth: 1
 
-      - name: Cache pip
-        id: cache-deps
-        uses: actions/cache@v4
+      - name: Download Jikan Data
+        uses: actions/download-artifact@v5
         with:
-          path: |
-            ~/.cache/pip
-          key: deps-${{ hashFiles('requirements.txt') }}
-          restore-keys: deps-          
+          name: jikan-data
+          path: min_map_data
+
+      - name: Setup Python & Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install --upgrade --no-cache-dir -r requirements.txt
 
       - name: Scrape & Process page
         run: |
-          apt-get update
-          apt-get install -y jq
-          pip install --upgrade pip
-          pip install --upgrade --no-cache-dir -r requirements.txt
-
-          python thetvdb_scraper.py --page ${{ matrix.page }} --delete-folder
+          python thetvdb_scraper.py --worker ${{ matrix.worker }}
           python mal_mapper.py
 
       - name: Upload page outputs
@@ -119,14 +90,15 @@ jobs:
         with:
           name: page-${{ matrix.page }}
           path: |
+            min_map_data/
             anime_data/
-            mapped-tvdb-ids.json
+            mapped-tvdb-ids-series.json
+            mapped-tvdb-ids-movie.json
             unmapped-series.json
             unmapped-seasons.json
             unmapped-episodes.json
           retention-days: 1
           compression-level: 9
-
 
   combine_and_commit:
     name: Combine FILES & Commit
@@ -163,7 +135,9 @@ jobs:
 
       - name: Count and Update README with counts
         run: |
-          mapped=$(jq length mapped-tvdb-ids.json)
+          mapped_series=$(jq length mapped-tvdb-ids-series.json)
+          mapped_movie=$(jq length mapped-tvdb-ids-movie.json)
+          mapped=$((mapped_series + mapped_movie))
           unmapped_series=$(jq length unmapped-series.json)
           unmapped_seasons=$(jq length unmapped-seasons.json)
           unmapped_episodes=$(jq length unmapped-episodes.json)
