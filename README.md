@@ -5,12 +5,17 @@ https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/myanimelist/{myanimel
 
 Example: https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/myanimelist/20.json
 
-### To use for thetvdb to myanimelist
-https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/thetvdb/{thetvdb-id}.json
+### To use for thetvdb series, season, or episode ids to myanimelist
+https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/thetvdb-series/{thetvdb-id}.json
 
-Example: https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/thetvdb/361957.json
+Example: https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/thetvdb-series/361957.json
 
-Does not support TheTVDB.com Movie IDs currently WIP. Only supports Series, Season, and Episode currently.
+### To use for thetvdb movie ids to myanimelist
+https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/thetvdb-movie/{thetvdb-id}.json
+
+Example: https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/thetvdb-movie/197.json
+
+Only supports Series, Season, Episode, and movie ids
 Will not support TheTVDB.com List IDs or any other IDs really
 
 <!---counts-start--->
