@@ -115,10 +115,8 @@ jobs:
       - name: Download all artifacts
         uses: actions/download-artifact@v5
         with:
-          name: |
-            jikan-data
-            scraper-*
           path: artifacts
+          merge-multiple: false
 
       - name: Merge JSON files
         run: |
