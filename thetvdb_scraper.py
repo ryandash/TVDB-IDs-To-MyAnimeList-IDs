@@ -497,6 +497,13 @@ def load_tvdb_matches(folder: Path) -> List[TVDBMatches]:
 # Entry Point
 # -------------------
 
+def split_list(lst, num_workers, worker_index):
+    per_worker = len(lst) // num_workers
+    remainder = len(lst) % num_workers
+    start = worker_index * per_worker + min(worker_index, remainder)
+    end = start + per_worker + (1 if worker_index < remainder else 0)
+    return lst[start:end]
+
 if __name__ == "__main__":
     series_matches = load_tvdb_matches(MIN_MAP_SERIES)
     movie_matches = load_tvdb_matches(MIN_MAP_MOVIE)
@@ -514,32 +521,18 @@ if __name__ == "__main__":
 
     if args.worker is not None:
         worker_index = args.worker
-        # Combine series and movie matches into one list for splitting
-        all_matches = [(m, "series") for m in series_matches] + [(m, "movie") for m in movie_matches]
-        total_matches = len(all_matches)
 
-        # Compute the slice of work for this worker
-        per_worker = total_matches // num_workers
-        remainder = total_matches % num_workers
+        series_worker = split_list(series_matches, num_workers, worker_index)
+        movie_worker = split_list(movie_matches, num_workers, worker_index)
 
-        start_idx = worker_index * per_worker + min(worker_index, remainder)
-        end_idx = start_idx + per_worker + (1 if worker_index < remainder else 0)
-
-        # Slice the list for this worker
-        worker_matches = all_matches[start_idx:end_idx]
-
-        # Separate back into series and movie lists
-        series_matches_worker = [m for m, cat in worker_matches if cat == "series"]
-        movie_matches_worker = [m for m, cat in worker_matches if cat == "movie"]
-
-        print(f"[INFO] Worker {worker_index} processing {len(series_matches_worker)} series and {len(movie_matches_worker)} movies")
+        print(f"[INFO] Worker {worker_index} processing {len(series_worker)} series and {len(movie_worker)} movies")
 
     else:
         # If no worker specified, process all
-        series_matches_worker = series_matches
-        movie_matches_worker = movie_matches
-        print(f"[INFO] No worker specified, processing all {len(series_matches_worker)} series and {len(movie_matches_worker)} movies")
+        series_worker = series_matches
+        movie_worker = movie_matches
+        print(f"[INFO] No worker specified, processing all {len(series_worker)} series and {len(movie_worker)} movies")
 
     threads = start_saver_threads()
-    asyncio.run(scrape_all(series_matches_worker, movie_matches_worker))
+    asyncio.run(scrape_all(series_worker, movie_worker))
     stop_saver_threads(threads)
