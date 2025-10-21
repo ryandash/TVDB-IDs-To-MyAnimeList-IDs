@@ -75,15 +75,14 @@ jobs:
 
       - name: Scrape & Process page
         run: |
-          python thetvdb_scraper.py --worker ${{ matrix.worker }}
+          python thetvdb_scraper.py --worker ${{ matrix.worker }} --delete-folder
           python mal_mapper.py
 
       - name: Upload page outputs
         uses: actions/upload-artifact@v4
         with:
-          name: page-${{ matrix.page }}
+          name: scraper-${{ matrix.worker }}
           path: |
-            min_map_data/
             anime_data/
             mapped-tvdb-ids-series.json
             mapped-tvdb-ids-movie.json
@@ -116,6 +115,9 @@ jobs:
       - name: Download all artifacts
         uses: actions/download-artifact@v5
         with:
+          name: |
+            jikan-data
+            scraper-*
           path: artifacts
 
       - name: Merge JSON files

@@ -19,8 +19,8 @@ from tqdm.asyncio import tqdm_asyncio
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--worker", type=int, help="The worker number")
-parser.add_argument("--save-interval", type=int, default=5, help="Save after this many anime")
 parser.add_argument("--delete-folder", action="store_true", help="Delete the anime_data folder before scraping to start fresh")
+parser.add_argument("--save-interval", type=int, default=5, help="Save after this many anime")
 args = parser.parse_args()
 
 SAVE_INTERVAL = args.save_interval
