@@ -1,0 +1,75 @@
+{
+    "URL": "https://thetvdb.com/series/rain",
+    "Genres": [
+        "Suspense",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt7166518/",
+        "https://www.themoviedb.org/tv/72484",
+        "https://www.themoviedb.org/tv/72484"
+    ],
+    "TitleEnglish": "Rain",
+    "SummaryEnglish": "Portrays the story of a girl trapped with four persons from her past and one of them wants her dead. Who can she trust?",
+    "Aliases": [],
+    "Modified": "2021-11-02",
+    "Seasons": {
+        "1": {
+            "ID": "770685",
+            "URL": "https://thetvdb.com/series/rain/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "6750196",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rain/episodes/6750196",
+                    "TitleEnglish": "Danger",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6750197",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rain/episodes/6750197",
+                    "TitleEnglish": "Doubt",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6750199",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rain/episodes/6750199",
+                    "TitleEnglish": "Descent",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6750201",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rain/episodes/6750201",
+                    "TitleEnglish": "Deceit",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6750202",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rain/episodes/6750202",
+                    "TitleEnglish": "Denial",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6750203",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rain/episodes/6750203",
+                    "TitleEnglish": "Decision",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

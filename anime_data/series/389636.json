@@ -1,0 +1,86 @@
+{
+    "URL": "https://thetvdb.com/series/cypher",
+    "Genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Mystery"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt7759130/",
+        "https://www.themoviedb.org/tv/110829"
+    ],
+    "TitleEnglish": "Cypher",
+    "SummaryEnglish": "Will Scott, one of the FBI's leading crypto-analysts is hired to crack a heavily coded document. He soon discovers it's a hit list, putting him in the cross-hairs of the bad guys who want it back.",
+    "Aliases": [
+        "Cypher (2021)"
+    ],
+    "Modified": "2024-07-31",
+    "Seasons": {
+        "1": {
+            "ID": "1871989",
+            "URL": "https://thetvdb.com/series/cypher/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 7,
+            "Episodes": {
+                "1": {
+                    "ID": "7980428",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cypher/episodes/7980428",
+                    "TitleEnglish": "The Code",
+                    "SummaryEnglish": "When the FBI discover a mysterious ciphered document, they call in one of the best cryptanalyst: Will Scott. As he tries to balance fatherhood and his work, what he deciphers puts his own life at risk.",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7980431",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cypher/episodes/7980431",
+                    "TitleEnglish": "Deadman Walking",
+                    "SummaryEnglish": "The mysterious people after the hit list fake Will's death. Now he tries to stay off the streets, and meets a mysterious woman named Claire who takes him in. Will contacts his FBI best friend, Kurt, and suffers the sting of betrayal.",
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7984101",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cypher/episodes/7984101",
+                    "TitleEnglish": "A Dead End",
+                    "SummaryEnglish": "Will tries to figure out who Kurt was working for, and he returns to Claire's so they can crack the rest of the ciphered list together. Other ominous, interested parties give the FBI investigation team reason to be concerned about who this crypto-analyst \"Will\" actually is and which side he's on.",
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7984120",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cypher/episodes/7984120",
+                    "TitleEnglish": "Welcome Back",
+                    "SummaryEnglish": "Will and Claire rush to reach the next victim of The List before it's too late, all while Will tries to stay undercover and appear \"dead.\" The FBI team experience some breakthroughs in their investigation as they try to get to the bottom of those responsible for the death of several FBI agents",
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7984124",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cypher/episodes/7984124",
+                    "TitleEnglish": "Second Death",
+                    "SummaryEnglish": "Will reconnects with daughter Anna and she promises to keep his secret. The FBI talk with Will's ex-wife and daughter and their frenzy to catch Will increases when Will and Claire slip up and blow their cover. Meanwhile, Will deciphers the next target on The List.",
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "7984126",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cypher/episodes/7984126",
+                    "TitleEnglish": "Achilles' Heel",
+                    "SummaryEnglish": "When the FBI locates a copy of the list, they bring in a new cryptographer to crack the code. Will visits a hacker friend and discovers a new lead to unlock Kurt's phone, which reveals new information about Claire",
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "7984127",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cypher/episodes/7984127",
+                    "TitleEnglish": "The Snake and the Mouse",
+                    "SummaryEnglish": "Claire reveals her true colors and who she works for, and her boss Chris kidnaps Anna so Will feels the pressure to solve the rest of the code. Will returns to the FBI team when he realizes he can't keep going it alone, but both parties struggle to trust one another",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

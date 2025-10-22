@@ -1,0 +1,64 @@
+{
+    "URL": "https://thetvdb.com/series/kite",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0246734/",
+        "https://www.themoviedb.org/tv/80219"
+    ],
+    "TitleEnglish": "Kite",
+    "SummaryEnglish": "Sawa is a school girl, an orphan, and an assassin. She is being controlled by a corrupt cop who gives her targets to kill, detailing to her the crimes these men have committed in order to justify their death. Some of his power over Sawa has to do with her deceased parents and the promise of revenge. When another orphan, a teenage boy called Oburi, is brought in to assist Sawa, the two teenage killers form a bond of sorts. As they heal each other's emotional wounds, they begin to dream of a life that would not be spent under the shadows of murder.",
+    "Aliases": [
+        "A Kite"
+    ],
+    "Modified": "2025-01-30",
+    "Seasons": {
+        "0": {
+            "ID": "736617",
+            "URL": "https://thetvdb.com/series/kite/seasons/official/0",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "6655892",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/kite/episodes/6655892",
+                    "TitleEnglish": "Kite Liberator",
+                    "SummaryEnglish": "A teenage assassin is cleaning up the streets of Tokyo. The police call her the Angel of Death, an unfeeling assassin who eliminates targets with grace and precision, leaving only a flurry of feathers across the bloody crime scene as a calling card. What the public is unaware of is that this notorious hitman is actually a polite young lady named Monaka. Could the placid face of an innocent high school girl really disguise such a ruthless killer? Monaka seems to be just an average high school girl.",
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "736619",
+            "URL": "https://thetvdb.com/series/kite/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "6394448",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kite/episodes/6394448",
+                    "TitleEnglish": "Volume 1",
+                    "SummaryEnglish": "After her parents brutal murder, young Sawa is orphaned. Now under the control of her detective guardians, Sawa becomes an assassin whose targets range from alleged rapists to corporate fat cats.",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6394449",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kite/episodes/6394449",
+                    "TitleEnglish": "Volume 2",
+                    "SummaryEnglish": "After nearly meeting her end against 2 security guards in the men's room, Sawa finds herself injured, while Oburi finds himself hunted.",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "URL": "https://thetvdb.com/series/kikoushi-enma",
+    "Genres": [
+        "Animation",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt8023846/",
+        "https://www.themoviedb.org/tv/67580"
+    ],
+    "TitleEnglish": "Demon Prince Enma",
+    "SummaryEnglish": "Four grown demons (Enma, Yukihime, Kapaeru, and Grandpa Chapeauji) form the group known as the Enma Detective Agency. They go after demons and monsters that have escaped from Hell into the human world.",
+    "Aliases": [
+        "Kikoushi Enma",
+        "Kikoushi-Enma"
+    ],
+    "Modified": "2022-07-11",
+    "Seasons": {
+        "1": {
+            "ID": "29170",
+            "URL": "https://thetvdb.com/series/kikoushi-enma/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "340298",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kikoushi-enma/episodes/340298",
+                    "TitleEnglish": "Nobusuma: Rot-Pus Suck Demon",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "340299",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kikoushi-enma/episodes/340299",
+                    "TitleEnglish": "Piguma: Corpseless Demon",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "340300",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kikoushi-enma/episodes/340300",
+                    "TitleEnglish": "Karuma: Misery Swirling Demon",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "340301",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kikoushi-enma/episodes/340301",
+                    "TitleEnglish": "Enma",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
