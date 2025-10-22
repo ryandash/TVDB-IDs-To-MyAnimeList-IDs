@@ -3,7 +3,6 @@ import time
 from typing import Callable, Any, List
 from jikanpy import AioJikan, exceptions
 
-
 # -----------------------------
 # Task Limiter
 # -----------------------------
@@ -94,17 +93,62 @@ class SafeJikan:
     # -----------------------------
     # Public Jikan API methods
     # -----------------------------
-    async def search_anime(self, type_: str, page: int):
-        return await self._retry_on_failure(
-            self.aio_jikan.search,
-            search_type="anime",
-            query="",
-            page=page,
-            parameters={"type": type_}
-        )
+    async def search_anime(
+        self,
+        query: str | None = None,
+        type_: str | None = None,
+        page: int | None = None,
+        limit: int | None = None
+    ):
+        """
+        Perform a safe Jikan anime search with automatic rate limiting and retries.
+        """
+        if not any([query, type_, page]):
+            raise ValueError(
+                "search_anime() requires at least one of: query, type_, or page."
+            )
+        
+        params: dict[str, int | str] = {}
 
-    async def get_anime(self, mal_id: int):
-        return await self._retry_on_failure(self.aio_jikan.anime, mal_id)
+        if type_:
+            params["type"] = type_
+        if limit:
+            params["limit"] = limit
+
+        # Add `page` argument only if explicitly provided
+        kwargs = {"search_type": "anime", "parameters": params}
+        if query is not None:
+            kwargs["query"] = query
+        if page is not None:
+            kwargs["page"] = page
+
+        return await self._retry_on_failure(self.aio_jikan.search, **kwargs)
+
+    async def get_anime(
+        self,
+        mal_id: int,
+        extension: str | None = None,
+        episode_number: int | None = None
+    ):
+        """
+        Retrieve anime data from Jikan safely with automatic rate limiting and retries.
+        """
+        
+        if not isinstance(mal_id, int) or mal_id <= 0:
+            raise ValueError("mal_id must be a positive integer.")
+
+        if episode_number is not None and not extension:
+            # You can't specify an episode number without the 'episodes' extension
+            extension = "episodes"
+
+        # Build extension string properly
+        ext_path = None
+        if extension and episode_number is not None:
+            ext_path = f"{extension}/{episode_number}"
+        elif extension:
+            ext_path = extension
+
+        return await self._retry_on_failure(self.aio_jikan.anime, mal_id, extension=ext_path)
 
     async def get_anime_relations(self, mal_id: int):
         return await self._retry_on_failure(

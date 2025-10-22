@@ -5,16 +5,15 @@ mal_mapper.py
 Attempts to map TVDB series/seasons/episodes/movies to MyAnimeList URLs.
 """
 
+import asyncio
 import json
-import random
 import re
-import time
 from pathlib import Path
 from typing import Optional, Union
 
-from attr import dataclass
-import httpx
+from dataclasses import dataclass
 from rapidfuzz import fuzz
+from safe_jikan import SafeJikan
 from tqdm import tqdm
 
 # ----------------------
@@ -25,11 +24,9 @@ LOG_FILE = "mapping.log"
 DATA_DIR = Path("anime_data")
 DATA_DIR.mkdir(exist_ok=True)
 
-HTTP_CLIENT = httpx.Client(timeout=30)
-LAST_REQUEST_TIME = 0.0
-
 # Regex patterns
 NORMALIZE_REGEX = re.compile(r"[:.!]")
+safe_jikan = SafeJikan()
 
 # ----------------------
 # Helpers
@@ -61,35 +58,6 @@ def safe_load_json(path: Path) -> dict:
         print("[ERROR] Could not salvage JSON.")
         return {}
 
-def fetch_json(url: str) -> dict | None:
-    """Fetch JSON from a URL with error handling."""
-    try:
-        resp = HTTP_CLIENT.get(url)
-        if resp.status_code == 200:
-            return resp.json()
-    except Exception as e:
-        print(f"Error fetching {url}: {e}")
-    return None
-
-
-def rate_limited_get(url: str, min_interval: float = 0.45, retries: int = 3) -> dict | None:
-    """Rate-limited GET with retries."""
-    global LAST_REQUEST_TIME
-
-    for attempt in range(1, retries + 1):
-        wait = min_interval - (time.time() - LAST_REQUEST_TIME)
-        if wait > 0:
-            time.sleep(wait)
-        LAST_REQUEST_TIME = time.time()
-
-        data = fetch_json(url)
-        if data:
-            return data
-        if attempt < retries:
-            time.sleep(1 + random.random())
-    print(f"Giving up on {url} after {retries} attempts.")
-    return None
-
 def normalize_text(name: str) -> str:
     """Normalize anime title for better fuzzy matching."""
     if not name:
@@ -102,7 +70,7 @@ def normalize_text(name: str) -> str:
 # MAL Integration
 # -------------------
 
-def get_best_mal_id(search_term: str, anime_type: str, isSeason0: bool) -> tuple[int | None, list[str]]:
+async def get_best_mal_id(search_term: str, anime_type: str, isSeason0: bool) -> tuple[int | None, list[str]]:
     """Search Jikan API and return the best matching MAL ID and all_titles."""
     search_lower = search_term.lower()
     normalized_search = normalize_text(search_lower)
@@ -113,9 +81,8 @@ def get_best_mal_id(search_term: str, anime_type: str, isSeason0: bool) -> tuple
             search_lower.split(":", 1)[1].strip()
         )
 
-    base_url = "https://api.jikan.moe/v4/anime?limit=5"
-    api_url = f"{base_url}&type={anime_type}&q={normalized_search}" if anime_type else f"{base_url}&q={normalized_search}"
-    data = rate_limited_get(api_url)
+    data = await safe_jikan.search_anime(query=normalized_search, type_=anime_type, limit=5)
+
     search_results = data.get("data", []) if data else []
 
     all_titles_seen = []
@@ -151,14 +118,14 @@ def get_best_mal_id(search_term: str, anime_type: str, isSeason0: bool) -> tuple
     return None, all_titles_seen
 
 
-def get_mal_episode_count(mal_id: int) -> int | None:
-    data = rate_limited_get(f"https://api.jikan.moe/v4/anime/{mal_id}")
+async def get_mal_episode_count(mal_id: int) -> int | None:
+    data = await safe_jikan.get_anime(mal_id)
     if data:
         eps = data.get("data", {}).get("episodes")
         return eps if isinstance(eps, int) else None
     return None
 
-def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, visited=None) -> int | None:
+async def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, visited=None) -> int | None:
     """Find related MAL ID that matches season_title name first, then fallback to Sequel. Skips specials."""
     if visited is None:
         visited = set()
@@ -166,7 +133,7 @@ def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, visited=N
         return None
     visited.add(mal_id)
 
-    data = rate_limited_get(f"https://api.jikan.moe/v4/anime/{mal_id}/relations")
+    data = await safe_jikan.get_anime_relations(mal_id)
     if not data:
         return None
 
@@ -200,17 +167,17 @@ def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, visited=N
         return None
 
     # --- Step 3: Validate and possibly recurse ---
-    mal_eps = get_mal_episode_count(sequel_id)
+    mal_eps = await get_mal_episode_count(sequel_id)
     if not mal_eps:
         return None
 
     print(f"New mal id {sequel_id} mal_eps: {mal_eps} offset_eps: {offset_eps}")
     if mal_eps < offset_eps and mal_eps == 1:
-        return get_mal_relations(sequel_id, offset_eps, season_title, visited)
+        return await get_mal_relations(sequel_id, offset_eps, season_title, visited)
 
     return sequel_id
 
-def get_mal_url(mal_id: int, episode_number: Union[int, None]) -> Optional[str]:
+async def get_mal_url(mal_id: int, episode_number: Union[int, None]) -> Optional[str]:
     """
     Get a MAL URL.
     - If episode_number is None, returns the anime's MAL page.
@@ -219,7 +186,7 @@ def get_mal_url(mal_id: int, episode_number: Union[int, None]) -> Optional[str]:
     if episode_number is None:
         return f"https://myanimelist.net/anime/{mal_id}"
 
-    data = rate_limited_get(f"https://api.jikan.moe/v4/anime/{mal_id}/episodes/{episode_number}")
+    data = await safe_jikan.get_anime(mal_id, episode_number=episode_number)
     if not data:
         return None
 
@@ -231,8 +198,7 @@ def get_mal_url(mal_id: int, episode_number: Union[int, None]) -> Optional[str]:
     if not full_url:
         return None
 
-    base_url = full_url.rsplit("/", 1)[0]
-    return f"{base_url}/"
+    return full_url
 
 def load_mapped_lookup(mapped: list) -> dict[str, tuple[int, str]]:
     lookup = {}
@@ -291,7 +257,7 @@ def load_existing_malids(category: str) -> dict[str, int]:
 # Mapping
 # ----------------------
 
-def map_anime():
+async def map_anime():
     all_unmapped_series = []
     all_unmapped_seasons = []
     all_unmapped_episodes = []
@@ -347,7 +313,7 @@ def map_anime():
                     titles_to_try = [series_title] + series_aliases
                     # Try main title first
                     for title in filter(None, titles_to_try):
-                        mid, titles = get_best_mal_id(title, anime_type, False)
+                        mid, titles = await get_best_mal_id(title, anime_type, False)
                         all_titles.extend(titles)
                         if mid:
                             malid = mid
@@ -358,7 +324,7 @@ def map_anime():
             if malid and should_append:
                 mapped.append({
                     "thetvdb url": f"https://www.thetvdb.com/dereferrer/series/{series_id}",
-                    "myanimelist url": get_mal_url(malid, None),
+                    "myanimelist url": await get_mal_url(malid, None),
                     "myanimelist": int(malid),
                     "thetvdb": int(series_id)
                 })
@@ -393,20 +359,20 @@ def map_anime():
                 else:
                     if season_num != "0":
                         if not SeasonMalID and season_title:
-                            mid, _ = get_best_mal_id(season_title, None, False)
+                            mid, _ = await get_best_mal_id(season_title, None, False)
                             if mid:
                                 SeasonMalID = mid
                         if season_num == "1":
                             episode_offset = 0
-                            mal_eps = get_mal_episode_count(SeasonMalID)
-                            malurl = get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
+                            mal_eps = await get_mal_episode_count(SeasonMalID)
+                            malurl = await get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
 
                         if mal_eps and mal_eps == episode_offset:
-                            SeasonMalID = get_mal_relations(SeasonMalID, total_episodes, season_title)
+                            SeasonMalID = await get_mal_relations(SeasonMalID, total_episodes, season_title)
                             if SeasonMalID:
                                 episode_offset = 0
-                                mal_eps = get_mal_episode_count(SeasonMalID)
-                                malurl = get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
+                                mal_eps = await get_mal_episode_count(SeasonMalID)
+                                malurl = await get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
                             # else:
                             #     raise RuntimeError(f"This is a bug — logic failure in season mapping. Previous malid was {SeasonMalID}")
                         
@@ -414,7 +380,7 @@ def map_anime():
                             mapped.append({
                                 "season": season_num, 
                                 "thetvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}", 
-                                "myanimelist url": get_mal_url(SeasonMalID, None),
+                                "myanimelist url": await get_mal_url(SeasonMalID, None),
                                 "myanimelist": int(SeasonMalID),
                                 "thetvdb": int(season_id)
                             })
@@ -450,9 +416,8 @@ def map_anime():
                         }
                         anime_type = type_mapping.get(ep_data.get("TYPE"))
 
-                        EpisodeMALID = None
-                        search_terms = None
-                        all_titles = None
+                        EpisodeMALID = None; search_terms = None; all_titles = None
+                        
                         if ep_title:
                             search_terms = [ep_title]
 
@@ -464,22 +429,22 @@ def map_anime():
 
                             EpisodeMALID, all_titles = None, None
                             for term in search_terms:
-                                EpisodeMALID, all_titles = get_best_mal_id(term, anime_type, True)
+                                EpisodeMALID, all_titles = await get_best_mal_id(term, anime_type, True)
                                 if EpisodeMALID:
                                     break
                             if EpisodeMALID:
-                                mal_eps = get_mal_episode_count(EpisodeMALID)
+                                mal_eps = await get_mal_episode_count(EpisodeMALID)
                                 if EpisodeMALID not in mal_episode_counter:
                                     mal_episode_counter[EpisodeMALID] = 1
                                 else:
                                     mal_episode_counter[EpisodeMALID] += 1
                                 if mal_eps and mal_eps == 1:
-                                    record["myanimelist url"] = f"{get_mal_url(EpisodeMALID, None)}"
+                                    record["myanimelist url"] = await get_mal_url(EpisodeMALID, None)
                                 else:
                                     episode_number = mal_episode_counter[EpisodeMALID]
-                                    record["myanimelist url"] = f"{get_mal_url(EpisodeMALID, episode_number)}{episode_number}"
+                                    record["myanimelist url"] = await get_mal_url(EpisodeMALID, episode_number)
                         
-                        if EpisodeMALID:
+                        if EpisodeMALID and record["myanimelist url"]:
                             record["myanimelist"] = int(EpisodeMALID)
                             record["thetvdb"] = int(ep_id)
                             mapped.append(record)
@@ -493,17 +458,16 @@ def map_anime():
                         # Regular episodes
                         episode_offset += 1
                         if mal_eps and mal_eps < episode_offset:
-                            SeasonMalID = get_mal_relations(SeasonMalID, total_episodes - episode_offset + 1, None)
+                            SeasonMalID = await get_mal_relations(SeasonMalID, total_episodes - episode_offset + 1, None)
                             if SeasonMalID:
-                                mal_eps = get_mal_episode_count(SeasonMalID)
+                                mal_eps = await get_mal_episode_count(SeasonMalID)
                                 episode_offset = 1
-                                malurl = get_mal_url(SeasonMalID, None if total_episodes == 1 else episode_offset)
+                                malurl = await get_mal_url(SeasonMalID, None if total_episodes == 1 else episode_offset)
                             # else:
                             #     raise RuntimeError(f"This is a bug — logic failure in episode mapping. Previous malid was {SeasonMalID}")
 
                         if SeasonMalID and malurl:
-                            episodeMALURL = f"{malurl}{episode_offset}"
-                            record["myanimelist url"] = episodeMALURL
+                            record["myanimelist url"] = malurl
                             record["myanimelist"] = int(SeasonMalID)
                             record["thetvdb"] = int(ep_id)
                             mapped.append(record)
@@ -534,7 +498,10 @@ def map_anime():
 # ----------------------
 
 if __name__ == "__main__":
-    try:
-        map_anime()
-    finally:
-        HTTP_CLIENT.close()
+    async def main():
+        try:
+            await map_anime()
+        finally:
+            await safe_jikan.close()
+
+    asyncio.run(main())
