@@ -10,6 +10,7 @@ from typing import List, Optional
 from rapidfuzz import fuzz
 from safe_jikan import SafeJikan
 from urllib.parse import quote
+from datetime import datetime
 
 # -----------------------------
 # Data Classes
@@ -25,6 +26,7 @@ class TitleEntry:
 class MinimalAnime:
     malId: int
     aniType: str
+    year: int
     titles: List[TitleEntry] = field(default_factory=list)
 
 @dataclass
@@ -105,6 +107,7 @@ async def get_new_anime(json_file: str, type_: str) -> List[MinimalAnime]:
                 MinimalAnime(
                     malId=x["malId"],
                     aniType=x["aniType"],
+                    year=x["year"],
                     titles=[TitleEntry(**t) for t in x.get("titles", [])]
                 )
                 for x in json.load(f)
@@ -156,9 +159,20 @@ async def get_new_anime(json_file: str, type_: str) -> List[MinimalAnime]:
         if english:
             titles.remove(english)
             titles.insert(0, english)
+        aired_from = a.get("aired", {}).get("from")
+        if aired_from:
+            try:
+                year = datetime.fromisoformat(aired_from.replace("Z", "+00:00")).year
+            except Exception:
+                year = None
+        else:
+            year = a.get("year")
+        year = year or 0
+
         new_entries.append(MinimalAnime(
             malId=a["mal_id"],
             aniType=a["type"],
+            year=year,
             titles=titles
         ))
 
@@ -173,6 +187,7 @@ async def get_new_anime(json_file: str, type_: str) -> List[MinimalAnime]:
                 {
                     "malId": x.malId,
                     "aniType": x.aniType,
+                    "year": x.year,
                     "titles": [t.__dict__ for t in x.titles]
                 } for x in existing_anime
             ], f, indent=2)
@@ -201,7 +216,10 @@ async def search_and_save_tvdb_hits(key: str, anime_list: List[MinimalAnime]):
 
         async def process_anime(anime: MinimalAnime):
             facet_type = "movie" if anime.aniType.lower() == "movie" else "series"
-            facet_filters = f'[[\"type:{facet_type}\"]]'
+            if anime.year != 0:
+                facet_filters = f'[[\"type:{facet_type}\"],[\"year:{anime.year}\"]]'
+            else:
+                facet_filters = f'[[\"type:{facet_type}\"]]'
             facet_filter_param = f"facetFilters={quote(facet_filters, safe='')}"
             output_dir = MOVIE_DIR if facet_type == "movie" else SERIES_DIR
 

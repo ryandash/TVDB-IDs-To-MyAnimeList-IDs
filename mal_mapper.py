@@ -24,7 +24,6 @@ from tqdm import tqdm
 LOG_FILE = "mapping.log"
 DATA_DIR = Path("anime_data")
 DATA_DIR.mkdir(exist_ok=True)
-CATEGORIES = ["series", "movie"]
 
 HTTP_CLIENT = httpx.Client(timeout=30)
 LAST_REQUEST_TIME = 0.0
@@ -297,7 +296,7 @@ def map_anime():
     all_unmapped_seasons = []
     all_unmapped_episodes = []
 
-    for category in CATEGORIES:
+    for category in ["series", "movie"]:
         category_dir = DATA_DIR / category
         if not category_dir.exists():
             continue
@@ -330,11 +329,13 @@ def map_anime():
 
             malid = None
             all_titles: list[str] = []
+            should_append = True
 
             if series_id in existing_malids:
                 malid = existing_malids[series_id]
             elif series_id in lookup:
                 malid = lookup[series_id][0]
+                should_append = False
             else:
                 if category == "movie":
                     types = ["movie"]
@@ -352,24 +353,25 @@ def map_anime():
                             malid = mid
                             break
                 
-                all_titles = list(dict.fromkeys(all_titles))
+            all_titles = list(dict.fromkeys(all_titles))
                 
-                if malid:
-                    mapped.append({
-                        "thetvdb url": f"https://www.thetvdb.com/dereferrer/series/{series_id}",
-                        "myanimelist url": get_mal_url(malid, None),
-                        "myanimelist": int(malid),
-                        "thetvdb": int(series_id)
-                    })
-                else:
-                    unmapped_series.append({
-                        "thetvdb url":f"https://www.thetvdb.com/dereferrer/series/{series_id}",
-                        "thetvdb": series_id,
-                        "search term": series_title,
-                        "aliases": series_aliases,
-                        "Jikan titles": all_titles
-                    })
-                    continue
+            if malid and should_append:
+                mapped.append({
+                    "thetvdb url": f"https://www.thetvdb.com/dereferrer/series/{series_id}",
+                    "myanimelist url": get_mal_url(malid, None),
+                    "myanimelist": int(malid),
+                    "thetvdb": int(series_id)
+                })
+            elif not malid:
+                unmapped_series.append({
+                    "thetvdb url":f"https://www.thetvdb.com/dereferrer/series/{series_id}",
+                    "thetvdb": series_id,
+                    "search term": series_title,
+                    "aliases": series_aliases,
+                    "Jikan titles": all_titles
+                })
+                continue
+            
             if category == "movie":
                 continue
             
