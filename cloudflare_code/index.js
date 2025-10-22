@@ -28,7 +28,7 @@ Optional parameter:
           
 Example usage:
   /thetvdb-series?id=361957&crossIDs
-  /myanimelist?id=12345`,
+  /myanimelist?id=21`,
           { status: 200, headers: { "Content-Type": "text/plain" } }
         );
       }
