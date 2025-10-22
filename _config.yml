@@ -1,4 +1,14 @@
 # _config.yml
-include:
-  - api
-  - README.md
+exclude:
+  - .github
+  - anime_data
+  - min_map_data
+  - old
+  - .gitignore
+  - get_anime_data.py
+  - mal_mapper.py
+  - merge_files.py
+  - requirements.txt
+  - safe_jikan.py
+  - split_json.py
+  - thetvdb_scraper.py
