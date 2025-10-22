@@ -2,6 +2,7 @@
 exclude:
   - .github
   - anime_data
+  - cloudflare_code
   - min_map_data
   - old
   - .gitignore
