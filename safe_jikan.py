@@ -119,6 +119,8 @@ class SafeJikan:
         kwargs = {"search_type": "anime", "parameters": params}
         if query is not None:
             kwargs["query"] = query
+        else:
+            kwargs["query"] = ""
         if page is not None:
             kwargs["page"] = page
 
