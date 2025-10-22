@@ -154,7 +154,7 @@ async def get_new_anime(json_file: str, type_: str) -> List[MinimalAnime]:
     # Convert to MinimalAnime
     new_entries: List[MinimalAnime] = []
     for a in newly_fetched:
-        titles = [TitleEntry(title=t["title"], type=t["type"]) for t in a.get("titles", [])]
+        titles = [TitleEntry(title=t["title"], type=t["type"]) for t in a.get("titles", []) if t["type"].lower() != "synonym"]
         english = next((t for t in titles if t.type.lower() == "english"), None)
         if english:
             titles.remove(english)
