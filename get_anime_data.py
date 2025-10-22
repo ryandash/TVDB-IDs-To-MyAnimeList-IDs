@@ -223,7 +223,8 @@ async def search_and_save_tvdb_hits(key: str, anime_list: List[MinimalAnime]):
             if anime.year != 0:
                 facet_filters_list.append(f'[[\"type:{facet_type}\"],[\"year:{anime.year}\"]]')
             facet_filters_list.append(f'[[\"type:{facet_type}\"]]')
-            
+            success = False
+
             for entry in anime.titles:
                 if not entry.title:
                     continue
@@ -268,11 +269,15 @@ async def search_and_save_tvdb_hits(key: str, anime_list: List[MinimalAnime]):
                                         if not output_path.exists():
                                             with open(output_path, "w", encoding="utf-8") as f:
                                                 json.dump(match.__dict__, f, indent=2)
+                                    success = True
                                     break
-                            break  # stop trying other facet_filters if we got hits
-
                     except Exception as e:
                         print(f"Error processing {anime.malId} ({entry.title}): {e}")
+                    
+                    if (success):
+                        break
+                if (success):
+                    break
 
         # Run tasks concurrently (up to 20 at once)
         tasks = [process_anime(a) for a in anime_list]
