@@ -15,7 +15,7 @@ https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/thetvdb-movie/{thetvd
 
 Example: https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/thetvdb-movie/197.json
 
-Only supports Series, Season, Episode, and movie ids
+Only supports Series, Season, Episode, and movie ids.\
 Will not support TheTVDB.com List IDs or any other IDs really
 
 <!---counts-start--->
