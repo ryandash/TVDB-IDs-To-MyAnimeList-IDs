@@ -466,6 +466,15 @@ async def scrape_all(matches_series: List[TVDBMatches], matches_movie: List[TVDB
         lookup_series = build_lookup_table("series")
         lookup_movie = build_lookup_table("movie")
 
+        if args.delete_folder:
+            import shutil
+
+            print("[INFO] Deleting anime_data folders for a fresh start...")
+            for folder in [DATA_DIR_SERIES, DATA_DIR_MOVIE]:
+                if folder.exists():
+                    shutil.rmtree(folder)
+                folder.mkdir(parents=True, exist_ok=True)
+
         async def process_match(match: TVDBMatches, category: str):
             async with sem:
                 await scrape_anime(session, match.Url, category, lookup_series if category == "series" else lookup_movie)
@@ -507,15 +516,6 @@ def split_list(lst, num_workers, worker_index):
 if __name__ == "__main__":
     series_matches = load_tvdb_matches(MIN_MAP_SERIES)
     movie_matches = load_tvdb_matches(MIN_MAP_MOVIE)
-
-    if args.delete_folder:
-        import shutil
-
-        print("[INFO] Deleting anime_data folders for a fresh start...")
-        for folder in [DATA_DIR_SERIES, DATA_DIR_MOVIE]:
-            if folder.exists():
-                shutil.rmtree(folder)
-            folder.mkdir(parents=True, exist_ok=True)
 
     num_workers = 20
 
