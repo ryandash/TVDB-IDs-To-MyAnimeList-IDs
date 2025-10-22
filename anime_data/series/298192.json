@@ -1,0 +1,42 @@
+{
+    "URL": "https://thetvdb.com/series/the-outcast",
+    "Genres": [
+        "Drama",
+        "Mini-Series"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1585275/",
+        "https://www.themoviedb.org/tv/63224"
+    ],
+    "TitleEnglish": "The Outcast",
+    "SummaryEnglish": "Post-war coming-of-age drama based on the novel by Sadie Jones.",
+    "Aliases": [],
+    "Modified": "2024-05-09",
+    "Seasons": {
+        "1": {
+            "ID": "631925",
+            "URL": "https://thetvdb.com/series/the-outcast/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "5277039",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-outcast/episodes/5277039",
+                    "TitleEnglish": "Episode 1",
+                    "SummaryEnglish": "Part One of an adaptation of Sadie Jones's prize-winning bestseller. A boy's idyllic childhood is set on a drastic new course when he is witness to a tragic accident.",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5277040",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-outcast/episodes/5277040",
+                    "TitleEnglish": "Episode 2",
+                    "SummaryEnglish": "Part Two of an adaptation of Sadie Jones's prize-winning bestseller. A young man returns home from prison determined to make amends for his past.",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

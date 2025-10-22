@@ -1,0 +1,44 @@
+{
+    "URL": "https://thetvdb.com/series/burn-up",
+    "Genres": [
+        "Drama",
+        "Mini-Series"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1105836/",
+        "https://www.bbc.co.uk/drama/burnup/",
+        "https://www.themoviedb.org/tv/7428",
+        "https://www.themoviedb.org/tv/7428"
+    ],
+    "TitleEnglish": "Burn Up",
+    "SummaryEnglish": "An oil industrialist, an environmental activist and a politician are in conflict in this drama set around a summit on climate change.",
+    "Aliases": [],
+    "Modified": "2021-09-30",
+    "Seasons": {
+        "1": {
+            "ID": "34190",
+            "URL": "https://thetvdb.com/series/burn-up/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "379480",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/burn-up/episodes/379480",
+                    "TitleEnglish": "Episode 1",
+                    "SummaryEnglish": "When the head of Arrow Oil retires unexpectedly, Tom McConnell (Rupert Penry-Jones) is asked to replace him. A group of oil workers in the Saudi desert are murdered but one worker excapes with the data from the survey. Arrow Oil is served a writ for destroying the lives of the Arctic Inuit.",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "379481",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/burn-up/episodes/379481",
+                    "TitleEnglish": "Episode 2",
+                    "SummaryEnglish": "While attending a climate change conference at Calgary, Tom realises that his best friends could be his enemies. With the clock ticking, Tom has to make a decision based on the type of information that could kill people.",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "URL": "https://thetvdb.com/series/ipponbouchou-mantarou",
+    "Genres": [
+        "Animation",
+        "Sport"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/77539",
+        "https://en.wikipedia.org/wiki/Ippon_Bouchou_Mantarou"
+    ],
+    "TitleEnglish": "Ipponbouchou Mantarou",
+    "SummaryEnglish": "",
+    "Aliases": [
+        "Ippon Bōchō Mantarō"
+    ],
+    "Modified": "2024-02-09",
+    "Seasons": {
+        "1": {
+            "ID": "2109301",
+            "URL": "https://thetvdb.com/series/ipponbouchou-mantarou/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "10288548",
+                    "TYPE": "OVA",
+                    "URL": "https://www.thetvdb.com/series/ipponbouchou-mantarou/episodes/10288548",
+                    "TitleEnglish": "OVA 1",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10288549",
+                    "TYPE": "OVA",
+                    "URL": "https://www.thetvdb.com/series/ipponbouchou-mantarou/episodes/10288549",
+                    "TitleEnglish": "OVA 2",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

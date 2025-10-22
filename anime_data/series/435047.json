@@ -1,0 +1,35 @@
+{
+    "URL": "https://thetvdb.com/series/neuromancer",
+    "Genres": [
+        "Mystery",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt31512174/",
+        "https://www.tvmaze.com/shows/75029/show-slug",
+        "https://www.themoviedb.org/tv/215528"
+    ],
+    "TitleEnglish": "Neuromancer",
+    "SummaryEnglish": "In the future, washed-up hacker Henry Case is hired for one last job, which brings him in contact with a powerful artificial intelligence.",
+    "Aliases": [],
+    "Modified": "2025-08-31",
+    "Seasons": {
+        "1": {
+            "ID": "2064254",
+            "URL": "https://thetvdb.com/series/neuromancer/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "10336330",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/neuromancer/episodes/10336330",
+                    "TitleEnglish": "Episode 1",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

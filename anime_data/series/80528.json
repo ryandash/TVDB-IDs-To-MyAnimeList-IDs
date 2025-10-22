@@ -1,0 +1,77 @@
+{
+    "URL": "https://thetvdb.com/series/dinosaur-planet",
+    "Genres": [
+        "Animation",
+        "Documentary",
+        "Family"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0389605/",
+        "https://tvlistings.zap2it.com/overview.html?programSeriesId=SH616525",
+        "https://www.themoviedb.org/tv/11710"
+    ],
+    "TitleEnglish": "Dinosaur Planet",
+    "SummaryEnglish": "A four-episode animated series charting the adventures of four dinosaurs - each on a different continent in the prehistoric world: a lone female Velociraptor in Asia; a young male Daspletosaurus in North America; a South American female Saltasaur; and a young adult Pyroraptor in Europe.",
+    "Aliases": [],
+    "Modified": "2025-02-01",
+    "Seasons": {
+        "0": {
+            "ID": "536092",
+            "URL": "https://thetvdb.com/series/dinosaur-planet/seasons/official/0",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "10940894",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/dinosaur-planet/episodes/10940894",
+                    "TitleEnglish": null,
+                    "SummaryEnglish": null,
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "28440",
+            "URL": "https://thetvdb.com/series/dinosaur-planet/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "335486",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dinosaur-planet/episodes/335486",
+                    "TitleEnglish": "White Tip's Journey",
+                    "SummaryEnglish": "When a velociraptor named White Tip loses the rest of her pack, she must struggle to survive in the desert on her own. In time, she locates a new hunting party – as well as a mate – only to find that her hardships are just beginning in the harsh desert environment.",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "335487",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dinosaur-planet/episodes/335487",
+                    "TitleEnglish": "Pod's Travels",
+                    "SummaryEnglish": "Pod – a pyroraptor – finds himself alone in the world after his sisters die in a tidal wave that also sweeps him out to sea. After landing on an island populated by dwarf-sized dinosaurs, Pod discovers that he's become the apex predator. But, as a gregarious and social pack animal, Pod learns that it's lonely at the top of the food chain.",
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "335488",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dinosaur-planet/episodes/335488",
+                    "TitleEnglish": "Little Das' Hunt",
+                    "SummaryEnglish": "As a young male of a Daspletosaurus pack, it's Das' job to herd unsuspecting prey towards his fellow hunters. But he's easily distracted and ruins several hunts – getting him in deep trouble with his mother, the pack leader. When a distant volcano threatens eruption, the dinosaurs are caught in a dangerous spot – unless Das can lead them to safety.",
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "335489",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dinosaur-planet/episodes/335489",
+                    "TitleEnglish": "Alpha's Egg",
+                    "SummaryEnglish": "The world is a very dangerous place for tiny hatchlings like Alpha, a female saltasaur. Follow Alpha as she leaves her nesting site and begins life on the run from a deadly band of aucasaurs. Years later, she returns home to breed – and learns there are worse things to fear than a hungry aucasaur.",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "URL": "https://thetvdb.com/series/a-christmas-carol",
+    "Genres": [
+        "Drama",
+        "Fantasy",
+        "Mini-Series"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt7686464/",
+        "https://www.themoviedb.org/tv/656968"
+    ],
+    "TitleEnglish": "A Christmas Carol",
+    "SummaryEnglish": "Ebenezer Scrooge, a bitter old man, despises the Christmas holiday. Over the course of Christmas Eve night he is visited by three ghosts to show him his past, present and future.",
+    "Aliases": [
+        "A Christmas Carol (2019)",
+        "FX's A Christmas Carol"
+    ],
+    "Modified": "2025-10-12",
+    "Seasons": {
+        "0": {
+            "ID": "830994",
+            "URL": "https://thetvdb.com/series/a-christmas-carol/seasons/official/0",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "7504454",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/a-christmas-carol/episodes/7504454",
+                    "TitleEnglish": "FX's A Christmas Carol - FX Cut",
+                    "SummaryEnglish": "A spine-tingling immersion into Ebenezer Scrooge’s dark night of the soul. This is the FX version presented as a movie.",
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "1802770",
+            "URL": "https://thetvdb.com/series/a-christmas-carol/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "7460873",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-christmas-carol/episodes/7460873",
+                    "TitleEnglish": "Episode 1",
+                    "SummaryEnglish": "In 1843, miserly businessman Scrooge is visited by a ghost from the past on a freezing Christmas Eve and is forced to face the impact of his self-interested, penny-pinching behaviour on his own life and those around him.",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7464172",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-christmas-carol/episodes/7464172",
+                    "TitleEnglish": "Episode 2",
+                    "SummaryEnglish": "As warned by Marley, when midnight strikes, Scrooge is visited by the Spirit of Christmas Past. The spectre takes the miser on a journey that exposes his darkest childhood memories, his cut-throat business manner, his isolation and his manipulation of those around him, including the Cratchits.",
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7464174",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-christmas-carol/episodes/7464174",
+                    "TitleEnglish": "Episode 3",
+                    "SummaryEnglish": "Scrooge is confronted with another spirit, which has assumed a familiar form drawn from his own tortured past. He witnesses the present day, and the seemingly happy Christmas enjoyed by the Cratchit family - but also learns there are cracks beneath the surface which he is responsible for making. The final ghost arrives to give Scrooge a glimpse of what the future holds - and a tragedy that will force him to confront the consequences of his misdeeds.\r\nLast in the series.",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

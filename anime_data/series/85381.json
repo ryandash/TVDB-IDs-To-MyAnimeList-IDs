@@ -1,0 +1,88 @@
+{
+    "URL": "https://thetvdb.com/series/the-diary-of-tortov-roddle",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Drama",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt3370400/",
+        "https://www.themoviedb.org/tv/45212"
+    ],
+    "TitleEnglish": "The Diary of Tortov Roddle",
+    "SummaryEnglish": "Follow Tortov as he journeys through very surreal, magical, picturesque landscapes, meeting interesting characters and circumstances on the way. Accompanied by his long-legged pig friend, Tortov takes us on an on-going adventure of peaceful contemplation.",
+    "Aliases": [
+        "Aru Tabibito no Nikki",
+        "あるたびびとのにっき"
+    ],
+    "Modified": "2024-05-19",
+    "Seasons": {
+        "0": {
+            "ID": "538748",
+            "URL": "https://thetvdb.com/series/the-diary-of-tortov-roddle/seasons/official/0",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 3,
+            "Episodes": {}
+        },
+        "1": {
+            "ID": "41534",
+            "URL": "https://thetvdb.com/series/the-diary-of-tortov-roddle/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "442272",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-diary-of-tortov-roddle/episodes/442272",
+                    "TitleEnglish": "The City of Light",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "442273",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-diary-of-tortov-roddle/episodes/442273",
+                    "TitleEnglish": "Midnight Cafe",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "442274",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/the-diary-of-tortov-roddle/episodes/442274",
+                    "TitleEnglish": "The Little Town's Movie Gathering",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "442275",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-diary-of-tortov-roddle/episodes/442275",
+                    "TitleEnglish": "Moonlight Travellers",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "442276",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-diary-of-tortov-roddle/episodes/442276",
+                    "TitleEnglish": "The Melancholy Rain",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "442277",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-diary-of-tortov-roddle/episodes/442277",
+                    "TitleEnglish": "The Flower and the Lady",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
