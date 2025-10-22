@@ -18,7 +18,7 @@ Example: https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/thetvdb-movi
 Only supports thetvdb Series, Season, Episode, and movie ids.\
 Will not support TheTVDB.com List IDs or any other IDs really
 
-Cloudflare worker that uses the above information and allows mapping with https://github.com/nattadasu/animeApi.
+Cloudflare worker that uses the above information and allows mapping with nattadasu/animeApi. \
 https://github-checker-worker.ryandash0.workers.dev/
 
 <!---counts-start--->
