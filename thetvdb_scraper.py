@@ -71,16 +71,16 @@ def safe_load_json(path: str) -> dict:
         print(f"[WARN] Could not load {p}: {e}")
         return {}
 
-def build_lookup_table() -> dict:
+def build_lookup_table(category: str) -> dict:
     lookup = {}
-    for data_dir in (DATA_DIR_SERIES, DATA_DIR_MOVIE):
-        for file in data_dir.glob("*.json"):
-            try:
-                data = safe_load_json(str(file))
-                if data:
-                    lookup[file.stem] = data
-            except Exception as e:
-                print(f"[WARN] Failed to load {file}: {e}")
+    data_dir = DATA_DIR_SERIES if category == "series" else DATA_DIR_MOVIE
+    for file in data_dir.glob("*.json"):
+        try:
+            data = safe_load_json(str(file))
+            if data:
+                lookup[file.stem] = data
+        except Exception as e:
+            print(f"[WARN] Failed to load {file}: {e}")
     return lookup
 
 # -------------------
@@ -325,8 +325,6 @@ async def scrape_season(session: aiohttp.ClientSession, season_url: str, numEpis
     season_dict["Episodes"] = dict(sorted(existing_eps.items(), key=lambda x: int(x[0])))
 
 
-lookup = build_lookup_table()
-
 def parse_date(date_str: str):
     for fmt in ("%b %d, %Y", "%B %d, %Y"):  # abbreviated first, then full month
         try:
@@ -335,7 +333,7 @@ def parse_date(date_str: str):
             continue
     raise ValueError(f"Could not parse date: {date_str}")
 
-async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str):
+async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, lookup: dict):
     html = await fetch_html(session, url)
     if not html:
         return
@@ -467,9 +465,15 @@ async def scrape_all(matches_series: List[TVDBMatches], matches_movie: List[TVDB
     sem = asyncio.Semaphore(MAX_ANIME_CONCURRENT)
     async with aiohttp.ClientSession() as session:
 
+        # Build separate lookup tables once at the start
+        lookup_series = build_lookup_table("series")
+        lookup_movie = build_lookup_table("movie")
+
         async def process_match(match: TVDBMatches, category: str):
             async with sem:
-                await scrape_anime(session, match.Url, category)
+                # Pass in the correct lookup dict
+                lookup = lookup_series if category == "series" else lookup_movie
+                await scrape_anime(session, match.Url, category, lookup)
 
         tasks = []
         for m in matches_series:
@@ -478,7 +482,7 @@ async def scrape_all(matches_series: List[TVDBMatches], matches_movie: List[TVDB
             tasks.append(process_match(m, "movie"))
 
         for coro in tqdm_asyncio.as_completed(tasks, total=len(tasks), leave=True):
-                await coro
+            await coro
 
 # -----------------------------
 # Load Input Data
