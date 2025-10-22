@@ -1,0 +1,52 @@
+{
+    "URL": "https://thetvdb.com/series/chrono-trigger",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Comedy",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0989832/"
+    ],
+    "TitleEnglish": "Chrono Trigger",
+    "SummaryEnglish": "In a strange town in a strange time, a festival is about to begin, a festival of demons. Two rather harmless demons try their best to recruit people into their little group, but eventually give up and go off into the woods for a little adventure involving a giant robot cat named Gonzalez that sings about beating him up and getting silver points. Finally they stop Gonzalez and a few familiar faces show up.",
+    "Aliases": [],
+    "Modified": "2023-09-21",
+    "Seasons": {
+        "0": {
+            "ID": "74491",
+            "URL": "https://thetvdb.com/series/chrono-trigger/seasons/official/0",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 1,
+            "Episodes": {
+                "99": {
+                    "ID": "723131",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chrono-trigger/episodes/723131",
+                    "TitleEnglish": "Time And Space Adventures Nuumamonjaa",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "471223",
+            "URL": "https://thetvdb.com/series/chrono-trigger/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "4147150",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chrono-trigger/episodes/4147150",
+                    "TitleEnglish": "Dimensional Adventure Nu-Mamonja",
+                    "SummaryEnglish": "In a strange town in a strange time, a festival is about to begin, a festival of demons. Two rather harmless demons try their best to recruit people into their little group, but eventually give up and go off into the woods for a little adventure involving a giant robot cat named Gonzalez that sings about beating him up and getting silver points. Finally they stop Gonzalez and a few familiar faces show up.",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

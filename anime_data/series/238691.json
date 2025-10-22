@@ -1,0 +1,44 @@
+{
+    "URL": "https://thetvdb.com/series/spectral-force",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt3747852/",
+        "https://www.themoviedb.org/tv/99093"
+    ],
+    "TitleEnglish": "Spectral Force",
+    "SummaryEnglish": "When planet Earth was young, it was called the Neverland. During these days, constant wars were fought amongst humans, demons, and elves. Demon King Janus now controls the throne and demons are the reigning power, until one day a group of human rebels find the demon-slaying sword, Tenmaken. A new war between humans and demons has begun, and the half-demon Hillo, daughter of Janus must fight to protect her kingdom and to slay the very humans that she hates.",
+    "Aliases": [],
+    "Modified": "2025-03-02",
+    "Seasons": {
+        "1": {
+            "ID": "440011",
+            "URL": "https://thetvdb.com/series/spectral-force/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "3863931",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/spectral-force/episodes/3863931",
+                    "TitleEnglish": "Rebirth of the Demon Forces",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "3863941",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/spectral-force/episodes/3863941",
+                    "TitleEnglish": "Final Battle of Jig Road",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

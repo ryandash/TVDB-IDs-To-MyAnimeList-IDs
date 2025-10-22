@@ -1,0 +1,42 @@
+{
+    "URL": "https://thetvdb.com/series/423322-",
+    "Genres": [
+        "Action",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/44022"
+    ],
+    "TitleEnglish": "Dragon Century",
+    "SummaryEnglish": "The story takes place in Hokkaido in 1990, where a series of murders take place and dragons suddenly begin appearing in the skies. The Japanese SDF begins shooting the dragons out of the sky, holding them responsible for the murders.",
+    "Aliases": [],
+    "Modified": "2024-09-05",
+    "Seasons": {
+        "1": {
+            "ID": "2013773",
+            "URL": "https://thetvdb.com/series/423322-/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "9302193",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/423322-/episodes/9302193",
+                    "TitleEnglish": "God Chapter A.D. 1990 Riko",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9302194",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/423322-/episodes/9302194",
+                    "TitleEnglish": "Devil Chapter R.C. 297 Rulishia",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

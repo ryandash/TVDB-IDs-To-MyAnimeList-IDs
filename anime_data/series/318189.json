@@ -1,0 +1,43 @@
+{
+    "URL": "https://thetvdb.com/series/tight-rope",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt4236948/",
+        "https://www.themoviedb.org/tv/121536"
+    ],
+    "TitleEnglish": "Tight-rope",
+    "SummaryEnglish": "Tightrope tells the tale of the reluctant heir of a yakuza family and his childhood friend, and follows their love relationship that started budding in their school days and keeps developing slowly but surely.",
+    "Aliases": [],
+    "Modified": "2023-08-24",
+    "Seasons": {
+        "1": {
+            "ID": "684086",
+            "URL": "https://thetvdb.com/series/tight-rope/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "5785703",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/tight-rope/episodes/5785703",
+                    "TitleEnglish": "Episode 1",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5785704",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/tight-rope/episodes/5785704",
+                    "TitleEnglish": "Episode 2",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

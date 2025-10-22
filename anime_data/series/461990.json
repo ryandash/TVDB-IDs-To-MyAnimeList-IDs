@@ -1,0 +1,42 @@
+{
+    "URL": "https://thetvdb.com/series/toy-dad",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Mini-Series"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt36599193/"
+    ],
+    "TitleEnglish": "Toy Dad",
+    "SummaryEnglish": "",
+    "Aliases": [],
+    "Modified": "2025-04-20",
+    "Seasons": {
+        "1": {
+            "ID": "2179440",
+            "URL": "https://thetvdb.com/series/toy-dad/seasons/official/1",
+            "TitleEnglish": null,
+            "SummaryEnglish": null,
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "11055495",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toy-dad/episodes/11055495",
+                    "TitleEnglish": "クマのとーさん",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11055496",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toy-dad/episodes/11055496",
+                    "TitleEnglish": "パパは人気者",
+                    "SummaryEnglish": "",
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
