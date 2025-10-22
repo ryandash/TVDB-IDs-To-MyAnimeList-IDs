@@ -1,0 +1,8 @@
+name = "github-checker-worker"
+main = "index.js"
+compatibility_date = "2025-09-30"
+
+# non-secret runtime variables
+[vars]
+GITHUB_OWNER = "ryandash"
+GITHUB_REPO  = "TVDB-IDs-To-MyAnimeList-IDs"
