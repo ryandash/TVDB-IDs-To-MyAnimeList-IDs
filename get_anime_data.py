@@ -216,55 +216,63 @@ async def search_and_save_tvdb_hits(key: str, anime_list: List[MinimalAnime]):
 
         async def process_anime(anime: MinimalAnime):
             facet_type = "movie" if anime.aniType.lower() == "movie" else "series"
-            if anime.year != 0:
-                facet_filters = f'[[\"type:{facet_type}\"],[\"year:{anime.year}\"]]'
-            else:
-                facet_filters = f'[[\"type:{facet_type}\"]]'
-            facet_filter_param = f"facetFilters={quote(facet_filters, safe='')}"
             output_dir = MOVIE_DIR if facet_type == "movie" else SERIES_DIR
 
+            # Prepare two sets of facet filters: first with year, then without
+            facet_filters_list = []
+            if anime.year != 0:
+                facet_filters_list.append(f'[[\"type:{facet_type}\"],[\"year:{anime.year}\"]]')
+            facet_filters_list.append(f'[[\"type:{facet_type}\"]]')
+            
             for entry in anime.titles:
                 if not entry.title:
                     continue
                 query = entry.title
                 encoded_query = quote(query, safe="")
-                body = {
-                    "requests": [
-                        {
-                            "indexName": "TVDB", 
-                            "params": f"query={encoded_query}&{facet_filter_param}"
-                        }
-                    ]
-                }
-                try:
-                    async with session.post(
-                        "https://tvshowtime-dsn.algolia.net/1/indexes/*/queries",
-                        json=body
-                    ) as resp:
-                        resp.raise_for_status()
-                        data = await resp.json()
-                    hits = data.get("results", [{}])[0].get("hits", [])
-                    for hit in hits:
-                        output_path = output_dir / f"{hit['id']}.json"
-                        names = set(hit.get("aliases", []))
-                        translations = hit.get("translations", {})
-                        names.update(translations.values())
-                        if any(fuzz.ratio(name, query) >= 90 for name in names):
-                            match = TVDBMatches(
-                                TvdbId=hit["id"],
-                                MalId=anime.malId,
-                                Name=translations.get("eng") or hit["name"],
-                                Url=hit["url"]
-                            )
-                            
-                            lock = get_file_lock(output_path)
-                            async with lock:
-                                if not output_path.exists():
-                                    with open(output_path, "w", encoding="utf-8") as f:
-                                        json.dump(match.__dict__, f, indent=2)
-                            break
-                except Exception as e:
-                    print(f"Error processing {anime.malId} ({entry.title}): {e}")
+
+                for facet_filters in facet_filters_list:
+                    facet_filter_param = f"facetFilters={quote(facet_filters, safe='')}"
+                    body = {
+                        "requests": [
+                            {
+                                "indexName": "TVDB", 
+                                "params": f"query={encoded_query}&{facet_filter_param}"
+                            }
+                        ]
+                    }
+
+                    try:
+                        async with session.post(
+                            "https://tvshowtime-dsn.algolia.net/1/indexes/*/queries",
+                            json=body
+                        ) as resp:
+                            resp.raise_for_status()
+                            data = await resp.json()
+                        hits = data.get("results", [{}])[0].get("hits", [])
+                        
+                        if hits:  # If we got any hits, process them
+                            for hit in hits:
+                                output_path = output_dir / f"{hit['id']}.json"
+                                names = set(hit.get("aliases", []))
+                                translations = hit.get("translations", {})
+                                names.update(translations.values())
+                                if any(fuzz.ratio(name, query) >= 90 for name in names):
+                                    match = TVDBMatches(
+                                        TvdbId=hit["id"],
+                                        MalId=anime.malId,
+                                        Name=translations.get("eng") or hit["name"],
+                                        Url=hit["url"]
+                                    )
+                                    lock = get_file_lock(output_path)
+                                    async with lock:
+                                        if not output_path.exists():
+                                            with open(output_path, "w", encoding="utf-8") as f:
+                                                json.dump(match.__dict__, f, indent=2)
+                                    break
+                            break  # stop trying other facet_filters if we got hits
+
+                    except Exception as e:
+                        print(f"Error processing {anime.malId} ({entry.title}): {e}")
 
         # Run tasks concurrently (up to 20 at once)
         tasks = [process_anime(a) for a in anime_list]
