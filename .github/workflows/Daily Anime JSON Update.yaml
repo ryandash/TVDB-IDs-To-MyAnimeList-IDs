@@ -49,7 +49,7 @@ jobs:
           path: min_map_data/
           retention-days: 1
 
-  scrape_pages:
+  scrape_worker:
     needs: scrape_jikan
     runs-on: ubuntu-latest
     strategy:
@@ -92,7 +92,7 @@ jobs:
 
   combine_and_commit:
     name: Combine FILES & Commit
-    needs: scrape_pages
+    needs: scrape_worker
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository

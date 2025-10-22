@@ -126,31 +126,18 @@ class SafeJikan:
 
         return await self._retry_on_failure(self.aio_jikan.search, **kwargs)
 
-    async def get_anime(
-        self,
-        mal_id: int,
-        extension: str | None = None,
-        episode_number: int | None = None
-    ):
-        """
-        Retrieve anime data from Jikan safely with automatic rate limiting and retries.
-        """
-        
+    async def get_anime(self, mal_id: int, episode_number: int | None = None):
         if not isinstance(mal_id, int) or mal_id <= 0:
             raise ValueError("mal_id must be a positive integer.")
 
-        if episode_number is not None and not extension:
-            # You can't specify an episode number without the 'episodes' extension
-            extension = "episodes"
+        if episode_number is not None:
+            return await self._retry_on_failure(
+                self.aio_jikan.anime_episode_by_id,
+                mal_id,
+                episode_number,
+            )
 
-        # Build extension string properly
-        ext_path = None
-        if extension and episode_number is not None:
-            ext_path = f"{extension}/{episode_number}"
-        elif extension:
-            ext_path = extension
-
-        return await self._retry_on_failure(self.aio_jikan.anime, mal_id, extension=ext_path)
+        return await self._retry_on_failure(self.aio_jikan.anime, mal_id)
 
     async def get_anime_relations(self, mal_id: int):
         return await self._retry_on_failure(

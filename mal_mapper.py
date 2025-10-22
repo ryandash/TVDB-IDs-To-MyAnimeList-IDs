@@ -177,16 +177,16 @@ async def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, vis
 
     return sequel_id
 
-async def get_mal_url(mal_id: int, episode_number: Union[int, None]) -> Optional[str]:
+async def get_mal_url(mal_id: int, ep_number: Union[int, None]) -> Optional[str]:
     """
     Get a MAL URL.
     - If episode_number is None, returns the anime's MAL page.
     - Otherwise, returns the base episode URL (ending in /episode/) so you can append numbers.
     """
-    if episode_number is None:
+    if ep_number is None:
         return f"https://myanimelist.net/anime/{mal_id}"
 
-    data = await safe_jikan.get_anime(mal_id, episode_number=episode_number)
+    data = await safe_jikan.get_anime(mal_id, episode_number=ep_number)
     if not data:
         return None
 
@@ -198,7 +198,8 @@ async def get_mal_url(mal_id: int, episode_number: Union[int, None]) -> Optional
     if not full_url:
         return None
 
-    return full_url
+    base_url = full_url.rsplit("/", 1)[0]
+    return f"{base_url}/"
 
 def load_mapped_lookup(mapped: list) -> dict[str, tuple[int, str]]:
     lookup = {}
@@ -372,6 +373,7 @@ async def map_anime():
                             if SeasonMalID:
                                 episode_offset = 0
                                 mal_eps = await get_mal_episode_count(SeasonMalID)
+                                print(total_episodes)
                                 malurl = await get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
                             # else:
                             #     raise RuntimeError(f"This is a bug — logic failure in season mapping. Previous malid was {SeasonMalID}")
@@ -442,7 +444,7 @@ async def map_anime():
                                     record["myanimelist url"] = await get_mal_url(EpisodeMALID, None)
                                 else:
                                     episode_number = mal_episode_counter[EpisodeMALID]
-                                    record["myanimelist url"] = await get_mal_url(EpisodeMALID, episode_number)
+                                    record["myanimelist url"] = f"{get_mal_url(EpisodeMALID, episode_number)}{episode_number}"
                         
                         if EpisodeMALID and record["myanimelist url"]:
                             record["myanimelist"] = int(EpisodeMALID)
@@ -462,12 +464,13 @@ async def map_anime():
                             if SeasonMalID:
                                 mal_eps = await get_mal_episode_count(SeasonMalID)
                                 episode_offset = 1
-                                malurl = await get_mal_url(SeasonMalID, None if total_episodes == 1 else episode_offset)
+                                malurl = await get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
                             # else:
                             #     raise RuntimeError(f"This is a bug — logic failure in episode mapping. Previous malid was {SeasonMalID}")
 
                         if SeasonMalID and malurl:
-                            record["myanimelist url"] = malurl
+                            episodeMALURL = f"{malurl}{episode_offset}"
+                            record["myanimelist url"] = episodeMALURL
                             record["myanimelist"] = int(SeasonMalID)
                             record["thetvdb"] = int(ep_id)
                             mapped.append(record)
