@@ -324,7 +324,6 @@ async def scrape_season(session: aiohttp.ClientSession, season_url: str, numEpis
     season_dict.update(other_keys)
     season_dict["Episodes"] = dict(sorted(existing_eps.items(), key=lambda x: int(x[0])))
 
-
 def parse_date(date_str: str):
     for fmt in ("%b %d, %Y", "%B %d, %Y"):  # abbreviated first, then full month
         try:
@@ -449,7 +448,6 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
     
     enqueue_save_anime(series_id, anime_data, category)
 
-
 # -------------------
 # Main Orchestration
 # -------------------
@@ -465,15 +463,12 @@ async def scrape_all(matches_series: List[TVDBMatches], matches_movie: List[TVDB
     sem = asyncio.Semaphore(MAX_ANIME_CONCURRENT)
     async with aiohttp.ClientSession() as session:
 
-        # Build separate lookup tables once at the start
         lookup_series = build_lookup_table("series")
         lookup_movie = build_lookup_table("movie")
 
         async def process_match(match: TVDBMatches, category: str):
             async with sem:
-                # Pass in the correct lookup dict
-                lookup = lookup_series if category == "series" else lookup_movie
-                await scrape_anime(session, match.Url, category, lookup)
+                await scrape_anime(session, match.Url, category, lookup_series if category == "series" else lookup_movie)
 
         tasks = []
         for m in matches_series:
