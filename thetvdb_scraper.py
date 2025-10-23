@@ -188,7 +188,6 @@ def parse_season_translations(soup: BeautifulSoup):
         translations[lang]["summary"] = text
     return translations
 
-
 def parse_special_category(li):
     strong = li.find("strong")
     strong_text = strong.get_text(strip=True).upper() if strong else ""
@@ -221,10 +220,6 @@ async def scrape_episode(session: aiohttp.ClientSession, ep_info, season_eps: di
     titles = {lang: data.get("title") for lang, data in translations.items()}
     summaries = {lang: data.get("summary") for lang, data in translations.items()}
 
-    # Fallback English
-    if not titles.get("eng"):
-        titles["eng"], summaries["eng"] = titles.get("jpn"), summaries.get("jpn")
-
     if titles.get("eng", "") == "TBA":
         return
 
@@ -245,8 +240,8 @@ async def scrape_episode(session: aiohttp.ClientSession, ep_info, season_eps: di
         "ID": ep_id,
         "TYPE": type_text,
         "URL": ep_url,
-        "TitleEnglish": titles.get("eng"),
-        "SummaryEnglish": summaries.get("eng"),
+        "Titles": titles,
+        "Summaries": summaries,
         "Aliases": aliases
     }
 
@@ -265,14 +260,12 @@ async def scrape_season(session: aiohttp.ClientSession, season_url: str, numEpis
         translations = parse_season_translations(soup)
         titles = {lang: data.get("title") for lang, data in translations.items()}
         summaries = {lang: data.get("summary") for lang, data in translations.items()}
-        if not titles.get("eng"):
-            titles["eng"], summaries["eng"] = titles.get("jpn"), summaries.get("jpn")
         
         season_dict.update({
             "ID": season_id,
             "URL": season_url,
-            "TitleEnglish": titles.get("eng", ""),
-            "SummaryEnglish": summaries.get("eng", ""),
+            "Titles": titles,
+            "Summaries": summaries,
             "# Episodes": int(numEpisodes)
         })
     
@@ -390,8 +383,8 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
         "URL": url,
         "Genres": genres,
         "Other Sites": other_sites,
-        "TitleEnglish": titles.get("eng"),
-        "SummaryEnglish": summaries.get("eng"),
+        "Titles": titles,
+        "Summaries": summaries,
         "Aliases": aliases,
         "Modified": modified_date.isoformat() if modified_date else None,
         "Seasons": {}

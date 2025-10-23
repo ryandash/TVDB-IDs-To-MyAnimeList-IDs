@@ -261,6 +261,21 @@ def load_existing_malids(category: str) -> dict[str, int]:
 
     return existing_lookup
 
+async def try_titles_for_mal_id(titles):
+    for t in titles:
+        mid, _ = await get_best_mal_id(t, None, False)
+        if mid:
+            return mid
+    return None
+
+def build_titles_to_try(main_eng, main_jpn, series_eng, series_jpn):
+    if main_eng and series_eng and series_eng.lower() not in main_eng.lower():
+        main_eng = f"{series_eng} {main_eng}"
+    if main_jpn and series_jpn and series_jpn.lower() not in main_jpn.lower():
+        main_jpn = f"{series_jpn} {main_jpn}"
+    return [t for t in [main_eng, main_jpn] if t]
+
+
 # ----------------------
 # Mapping
 # ----------------------
@@ -298,7 +313,9 @@ async def map_anime():
         unmapped_episodes = []
 
         for series_id, series in tqdm(anime_data.items(), total=len(anime_data), desc=f"Mapping series", unit="series"):
-            series_title = series.get("TitleEnglish")
+            titles = series.get("Titles", {})
+            series_title_eng = titles.get("eng")
+            series_title_jpn = titles.get("jpn")
             series_aliases = series.get("Aliases") or []
 
             malid = None
@@ -318,9 +335,9 @@ async def map_anime():
                 for anime_type in types:
                     if malid:
                         break
-                    titles_to_try = [series_title] + series_aliases
+                    series_titles_to_try = [series_title_eng, series_title_jpn] + series_aliases
                     # Try main title first
-                    for title in filter(None, titles_to_try):
+                    for title in filter(None, series_titles_to_try):
                         mid, titles = await get_best_mal_id(title, anime_type, False)
                         all_titles.extend(titles)
                         if mid:
@@ -340,7 +357,7 @@ async def map_anime():
                 unmapped_series.append({
                     "thetvdb url":f"https://www.thetvdb.com/dereferrer/series/{series_id}",
                     "thetvdb": series_id,
-                    "search term": series_title,
+                    "search term": series_titles_to_try,
                     "aliases": series_aliases,
                     "Jikan titles": all_titles
                 })
@@ -357,7 +374,11 @@ async def map_anime():
             episode_offset = 0
             for season_num, season_data in tqdm(seasons.items(), desc=f"  {series_id} seasons", unit="season", leave=False):
                 season_id = season_data.get("ID")
-                season_title = season_data.get("TitleEnglish")
+                season_titles = season_data.get("Titles", {})
+                season_title_eng = season_titles.get("eng")
+                season_title_jpn = season_titles.get("jpn")
+                
+                titles_to_try = build_titles_to_try(season_title_eng, season_title_jpn, series_title_eng, series_title_jpn)
                 episodes = season_data.get("Episodes") or {}
                 total_episodes = len(episodes)
                 
@@ -366,23 +387,27 @@ async def map_anime():
                     malurl = lookup[season_id][1]
                 else:
                     if season_num != "0":
-                        if not SeasonMalID and season_title:
-                            mid, _ = await get_best_mal_id(season_title, None, False)
-                            if mid:
-                                SeasonMalID = mid
+                        if not SeasonMalID and titles_to_try:
+                            for title in titles_to_try:
+                                mid, _ = await get_best_mal_id(title, None, False)
+                                if mid:
+                                    SeasonMalID = mid
+                                    break
                         if season_num == "1":
                             episode_offset = 0
                             mal_eps = await get_mal_episode_count(SeasonMalID)
                             malurl = await get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
 
                         if mal_eps and mal_eps == episode_offset:
-                            tempSeasonMalID = await get_mal_relations(SeasonMalID, total_episodes, season_title)
+                            tempSeasonMalID = await get_mal_relations(SeasonMalID, total_episodes, season_title_eng or season_title_jpn)
                             if tempSeasonMalID:
                                 SeasonMalID = tempSeasonMalID
-                            elif season_title:
-                                mid, _ = await get_best_mal_id(season_title, None, False)
-                                if mid:
-                                    SeasonMalID = mid
+                            elif titles_to_try:
+                                for title in titles_to_try:
+                                    mid, _ = await get_best_mal_id(title, None, False)
+                                    if mid:
+                                        SeasonMalID = mid
+                                        break
                             if SeasonMalID:
                                 episode_offset = 0
                                 mal_eps = await get_mal_episode_count(SeasonMalID)
@@ -410,6 +435,11 @@ async def map_anime():
                 mal_episode_counter = {}
                 for ep_num, ep_data in tqdm(episodes.items(), desc=f"    {season_id} Season {season_num} episodes", unit="ep", leave=False):
                     ep_id = ep_data.get("ID")
+                    ep_titles = ep_data.get("Titles", {})
+                    ep_title_eng = ep_titles.get("eng")
+                    ep_title_jpn = ep_titles.get("jpn")
+
+                    ep_titles_to_try = build_titles_to_try(ep_title_eng, ep_title_jpn, series_title_eng, series_title_jpn)
                     ep_title = ep_data.get("TitleEnglish")
                     ep_aliases = ep_data.get("Aliases") or []
                     if ep_id in lookup:
@@ -437,9 +467,7 @@ async def map_anime():
 
                             for alias in ep_aliases:
                                 search_terms.append(f"{alias}" if ep_title else alias)
-                            
-                            if series_title and series_title.lower() not in ep_title.lower():
-                                search_terms.append(f"{series_title} {ep_title}")
+                            search_terms.extend(ep_titles_to_try)
 
                             EpisodeMALID, all_titles = None, None
                             for term in search_terms:
@@ -456,7 +484,7 @@ async def map_anime():
                                     record["myanimelist url"] = await get_mal_url(EpisodeMALID, None)
                                 else:
                                     episode_number = mal_episode_counter[EpisodeMALID]
-                                    record["myanimelist url"] = f"{get_mal_url(EpisodeMALID, episode_number)}{episode_number}"
+                                    record["myanimelist url"] = f"{await get_mal_url(EpisodeMALID, episode_number)}{episode_number}"
                         
                         if EpisodeMALID and record["myanimelist url"]:
                             record["myanimelist"] = int(EpisodeMALID)
