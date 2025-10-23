@@ -157,11 +157,10 @@ async def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, vis
     if not sequel_id:
         sequel_id = next(
             (e["mal_id"] for rel in relations
-             if rel.get("relation") == "Sequel"
-             for e in rel.get("entry", [])
-             if e.get("type") != "Special"),
+            if rel.get("relation") == "Sequel"
+            for e in rel.get("entry", [])),
             None
-        )
+    )
 
     if not sequel_id:
         return None
@@ -170,9 +169,14 @@ async def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, vis
     mal_eps = await get_mal_episode_count(sequel_id)
     if not mal_eps:
         return None
+    anime_info = data.get("data", {})
+    # Step 3: Extract type and episodes
+    anime_type = anime_info.get("type")           # e.g., "TV", "Movie", "OVA"
+    eps = anime_info.get("episodes")
+    mal_eps = eps if isinstance(eps, int) else None
 
     print(f"New mal id {sequel_id} mal_eps: {mal_eps} offset_eps: {offset_eps}")
-    if mal_eps < offset_eps and mal_eps == 1:
+    if (mal_eps < offset_eps and mal_eps == 1) or anime_type in ("OVA", "Special"):
         return await get_mal_relations(sequel_id, offset_eps, season_title, visited)
 
     return sequel_id
