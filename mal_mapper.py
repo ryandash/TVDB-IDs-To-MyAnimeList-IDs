@@ -166,8 +166,9 @@ async def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, vis
         return None
 
     # --- Step 3: Validate and possibly recurse ---
-    mal_eps = await get_mal_episode_count(sequel_id)
-    if not mal_eps:
+    mal_eps = None
+    data = await safe_jikan.get_anime(sequel_id)
+    if not data:
         return None
     anime_info = data.get("data", {})
     # Step 3: Extract type and episodes
