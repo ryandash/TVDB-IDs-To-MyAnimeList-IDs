@@ -422,13 +422,17 @@ async def map_anime():
                         if mal_eps and mal_eps == episode_offset:
                             tempSeasonMalID = await get_mal_relations(SeasonMalID, total_episodes, season_title_eng or season_title_jpn)
                             if tempSeasonMalID:
+                                print("Season option 1")
                                 SeasonMalID = tempSeasonMalID
                             elif titles_to_try:
+                                print("Season option 2")
                                 for title in titles_to_try:
                                     mid, _ = await get_best_mal_id(title, None, False)
                                     if mid:
                                         SeasonMalID = mid
                                         break
+                                
+                            print(f"Season found {SeasonMalID}")
                             if SeasonMalID:
                                 episode_offset = 0
                                 mal_eps = await get_mal_episode_count(SeasonMalID)
@@ -521,6 +525,15 @@ async def map_anime():
                         # Regular episodes
                         episode_offset += 1
                         if mal_eps and mal_eps < episode_offset:
+                            tempSeasonMalID = await get_mal_relations(SeasonMalID, total_episodes - episode_offset + 1, season_title_eng or season_title_jpn)
+                            if tempSeasonMalID:
+                                SeasonMalID = tempSeasonMalID
+                            elif titles_to_try:
+                                for title in titles_to_try:
+                                    mid, _ = await get_best_mal_id(title, None, False)
+                                    if mid:
+                                        SeasonMalID = mid
+                                        break
                             SeasonMalID = await get_mal_relations(SeasonMalID, total_episodes - episode_offset + 1, None)
                             if SeasonMalID:
                                 mal_eps = await get_mal_episode_count(SeasonMalID)

@@ -1,0 +1,107 @@
+{
+    "URL": "https://thetvdb.com/series/funky-fables",
+    "Genres": [
+        "Children"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0292793/",
+        "https://www.themoviedb.org/tv/241802"
+    ],
+    "Titles": {
+        "eng": "Funky Fables",
+        "jpn": null
+    },
+    "Summaries": {
+        "eng": "Funky Fables (“Ponkikki Meisaku World”) was a segment of the ‘Hirake! Ponkikki’ which adapted various classic stories. In the early 90s the show was dubbed into English by Saban Entertainment.",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2024-08-22",
+    "Seasons": {
+        "1": {
+            "ID": "2142746",
+            "URL": "https://thetvdb.com/series/funky-fables/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "10650526",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/funky-fables/episodes/10650526",
+                    "Titles": {
+                        "eng": "Thumbelina",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Adaptation of Thumbelina.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10650527",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/funky-fables/episodes/10650527",
+                    "Titles": {
+                        "eng": "The Ugly Duckling",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Adaptation of The Ugly Duckling.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10650528",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/funky-fables/episodes/10650528",
+                    "Titles": {
+                        "eng": "The Emperor's New Clothes",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Adaptation of The Emperor's New Clothes.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "10650529",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/funky-fables/episodes/10650529",
+                    "Titles": {
+                        "eng": "Jack and the Beanstalk",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Adaptation of Jack and the Beanstalk.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "10650530",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/funky-fables/episodes/10650530",
+                    "Titles": {
+                        "eng": "Aladdin and the Magic Lamp",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Adaptation of Aladdin And The Wonderful Lamp.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

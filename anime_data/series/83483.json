@@ -1,0 +1,688 @@
+{
+    "URL": "https://thetvdb.com/series/princess-sarah",
+    "Genres": [
+        "Adaptation",
+        "British"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0168375/",
+        "https://www.themoviedb.org/tv/35579",
+        "https://www.wikidata.org/wiki/Q702071"
+    ],
+    "Titles": {
+        "eng": "A Little Princess Sara",
+        "jpn": "小公女セーラ"
+    },
+    "Summaries": {
+        "eng": "Princess Sarah tells the story of Sarah Crewe, a young daughter of a wealthy English family in India, who starts attending an all-girl's seminary selection boarding school in London, where she excels in her studies and is loved deeply by many of her friends and classmates. However, tragedy soon strikes when Sarah's father passes away and her family goes bankrupt, leaving her to be a poor orphan. The school's headmistress, Miss Minchin, takes advantage of this situation and makes her a maid in the school, trying hard to make her life as miserable as possible. However, Sarah, with the help of her friends, perseveres and tries to endure all her hardships until redemption comes at last.",
+        "jpn": "原作はフランシス・ホジソン・バーネット（バーネット夫人）の児童文学『小公女』（A Little Princess）。それまで全体にソフト路線だった「世界名作劇場」シリーズの中にあって、いじめを扱うなど異彩を放つ作品となっている。原作ではセーラが7歳でミンチン学院に入学してから、およそ6年間の話であるのに対し、10歳で入学してからの1年間程度の話になっているなど、本作品でも各キャラクターの設定やストーリーに原作との相違点が見られる。登場人物ではベッキーやラビニアの扱いが大きくなっている他、セーラの味方としてオリジナルキャラクターのピーターが配置された。登場人物の年齢差も異なり、原作ではセーラとラビニアの年齢差は6歳（本作品では3歳）、セーラとベッキーの年齢差は5歳（本作品では同い年）で、いずれもセーラよりも年上である。 \r\n本作品より、ハウス食品の単独提供となり、これに伴ってシリーズ名も前述の通り表記されるようになった。本作品では「世界名作劇場」のアバンタイトルの「ハウス食品」ロゴはテロップで別乗せしていたため（これとは別にブルーバックで提供クレジットも表示）、前述のノンスポンサー期間や系列外局での番組販売扱いの遅れ放送（ハウス食品と地元企業の複数社提供を含む）でもそのまま流用できる形になっていた。"
+    },
+    "Aliases": [
+        "Little Princess",
+        "Princess Sara",
+        "Shōkōjo Sara",
+        "Shoukoujo Sara"
+    ],
+    "Modified": "2024-09-18",
+    "Seasons": {
+        "1": {
+            "ID": "36423",
+            "URL": "https://thetvdb.com/series/princess-sarah/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 46,
+            "Episodes": {
+                "1": {
+                    "ID": "399489",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399489",
+                    "Titles": {
+                        "eng": "Miss Minchin's Seminary for Young Ladies",
+                        "jpn": "ミンチン女子学院"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "399490",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399490",
+                    "Titles": {
+                        "eng": "A Wonderful Gift",
+                        "jpn": "エミリー人形"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "399491",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399491",
+                    "Titles": {
+                        "eng": "First Day of Class",
+                        "jpn": "はじめての授業"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "399492",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399492",
+                    "Titles": {
+                        "eng": "Ermengarde the Good Friend",
+                        "jpn": "親友アーメンガード"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "399493",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399493",
+                    "Titles": {
+                        "eng": "Lottie the Little Sweetheart",
+                        "jpn": "泣き虫ロッティ"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "399494",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399494",
+                    "Titles": {
+                        "eng": "Becky, Covered in Ash",
+                        "jpn": "灰かぶりベッキー"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "399495",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399495",
+                    "Titles": {
+                        "eng": "Class Representative",
+                        "jpn": "代表生徒"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "399496",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399496",
+                    "Titles": {
+                        "eng": "A Kind Mistress",
+                        "jpn": "親切なお嬢様"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "399497",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399497",
+                    "Titles": {
+                        "eng": "The Letter from India",
+                        "jpn": "インドからの手紙"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "399498",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399498",
+                    "Titles": {
+                        "eng": "Two Gifts",
+                        "jpn": "二つのプレゼント"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "399499",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399499",
+                    "Titles": {
+                        "eng": "The Birthday of the Princess",
+                        "jpn": "プリンセスの誕生日"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "399500",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399500",
+                    "Titles": {
+                        "eng": "The Dark Room in the Attic",
+                        "jpn": "屋根裏の暗い部屋"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "399501",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399501",
+                    "Titles": {
+                        "eng": "A Day of Hard Work",
+                        "jpn": "つらい仕事の日"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "399502",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399502",
+                    "Titles": {
+                        "eng": "The Late-Night Guest",
+                        "jpn": "深夜のお客さま"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "399503",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399503",
+                    "Titles": {
+                        "eng": "Peter, The Child of the Streets",
+                        "jpn": "街の子ピーター"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "399504",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399504",
+                    "Titles": {
+                        "eng": "Lottie's Adventure",
+                        "jpn": "ロッティの冒険"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "399505",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399505",
+                    "Titles": {
+                        "eng": "Friends with Little Melle's Family",
+                        "jpn": "小さな友メルの家族"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "399506",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399506",
+                    "Titles": {
+                        "eng": "The Sad Maypole Celebration",
+                        "jpn": "悲しいメイポール祭"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "399507",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399507",
+                    "Titles": {
+                        "eng": "Messages to India",
+                        "jpn": "インドからの呼び声"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "399508",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399508",
+                    "Titles": {
+                        "eng": "The Mystery of the Resident of the Special Room",
+                        "jpn": "謎の特別室生徒"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "399509",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399509",
+                    "Titles": {
+                        "eng": "The Sadness Within Tears",
+                        "jpn": "涙の中の悲しみ"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "399510",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399510",
+                    "Titles": {
+                        "eng": "The Party in the Attic",
+                        "jpn": "屋根裏のパーティー"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "399511",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399511",
+                    "Titles": {
+                        "eng": "The Friendly Baker",
+                        "jpn": "親切なパン屋さん"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "399512",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399512",
+                    "Titles": {
+                        "eng": "Lavinia's Special Day",
+                        "jpn": "エミリーの運命"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "399513",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399513",
+                    "Titles": {
+                        "eng": "Cinderella for a Day",
+                        "jpn": "一日だけのシンデレラ"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "399514",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399514",
+                    "Titles": {
+                        "eng": "The Young Teacher for the Younger Students",
+                        "jpn": "年少組の小さな先生"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "399515",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399515",
+                    "Titles": {
+                        "eng": "The Departure of Sensei Dufarge",
+                        "jpn": "デュファルジュ先生の帰国"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "399516",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399516",
+                    "Titles": {
+                        "eng": "The Hubbub of Summer Vacation",
+                        "jpn": "夏休みの大騒動"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "399517",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399517",
+                    "Titles": {
+                        "eng": "Becky's Return Home",
+                        "jpn": "ベッキーの里帰り"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "399518",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399518",
+                    "Titles": {
+                        "eng": "The Indian Gentleman",
+                        "jpn": "インドからきた紳士"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "399519",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399519",
+                    "Titles": {
+                        "eng": "The Monster in the Attic",
+                        "jpn": "屋根裏にきた怪物"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "399520",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399520",
+                    "Titles": {
+                        "eng": "The Secret on the Other Side of the Wall",
+                        "jpn": "壁の向う側の秘密"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "399521",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399521",
+                    "Titles": {
+                        "eng": "The New Semester",
+                        "jpn": "新学期のいじわる"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "399522",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399522",
+                    "Titles": {
+                        "eng": "Redemption in the Storm",
+                        "jpn": "嵐の中のつぐない"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "399523",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399523",
+                    "Titles": {
+                        "eng": "An Intense Fever",
+                        "jpn": "消えそうな命"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "399524",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399524",
+                    "Titles": {
+                        "eng": "Beginning of the Magic",
+                        "jpn": "魔法のはじまり"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "399525",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399525",
+                    "Titles": {
+                        "eng": "Pandemonium in the Attic",
+                        "jpn": "屋根裏は大混乱"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "399526",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399526",
+                    "Titles": {
+                        "eng": "The Magic Dispelled",
+                        "jpn": "こわされた魔法"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "399527",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399527",
+                    "Titles": {
+                        "eng": "A Cold Night in the Stable",
+                        "jpn": "馬小屋の寒い夜"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "399528",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399528",
+                    "Titles": {
+                        "eng": "Miss Amelia's Tears",
+                        "jpn": "アメリア先生の涙"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "399529",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399529",
+                    "Titles": {
+                        "eng": "Party of the Spirits",
+                        "jpn": "妖精たちのパーティー"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "399530",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399530",
+                    "Titles": {
+                        "eng": "Driven Away on a Snowy Day",
+                        "jpn": "雪の日の追放"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "399531",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399531",
+                    "Titles": {
+                        "eng": "The Wonderful Parcel of Happiness",
+                        "jpn": "幸せの素敵な小包"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "399532",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399532",
+                    "Titles": {
+                        "eng": "Ah! It Is the Child!",
+                        "jpn": "ああ！ この子だ！"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "399533",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399533",
+                    "Titles": {
+                        "eng": "Miss Minchin's Regret",
+                        "jpn": "ミンチン院長の後悔"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "399534",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/princess-sarah/episodes/399534",
+                    "Titles": {
+                        "eng": "Till We Meet Again",
+                        "jpn": "また逢う日まで"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

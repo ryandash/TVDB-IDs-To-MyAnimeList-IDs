@@ -1,0 +1,771 @@
+{
+    "URL": "https://thetvdb.com/series/the-adventures-of-tom-sawyer",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0168391/",
+        "https://www.themoviedb.org/tv/43513",
+        "https://www.wikidata.org/wiki/Q698394"
+    ],
+    "Titles": {
+        "eng": "The Adventures of Tom Sawyer",
+        "jpn": "トム・ソーヤーの冒険"
+    },
+    "Summaries": {
+        "eng": "In the middle of the 19th century, a boy and the girl who live in St. Petersburg, a rural village at the foot of the Mississippi River in the United States, begin an epic adventure.",
+        "jpn": "19世紀半ば、アメリカのミシシッピ川のふもとにある田舎の村、サンクトペテルブルクに住む少年と少女が壮大な冒険を始めます。"
+    },
+    "Aliases": [
+        "Tomu Sôyâ no Bôken",
+        "Tom Sawyer no Bouken",
+        "톰 소여의 모험"
+    ],
+    "Modified": "2025-10-18",
+    "Seasons": {
+        "0": {
+            "ID": "29648",
+            "URL": "https://thetvdb.com/series/the-adventures-of-tom-sawyer/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "5215396",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/5215396",
+                    "Titles": {
+                        "eng": "Intro",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5355982",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/5355982",
+                    "Titles": {
+                        "eng": "End Credits",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "29649",
+            "URL": "https://thetvdb.com/series/the-adventures-of-tom-sawyer/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 49,
+            "Episodes": {
+                "1": {
+                    "ID": "344808",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344808",
+                    "Titles": {
+                        "eng": "The Small World of Tom Sawyer",
+                        "jpn": "トムとハックとブタ騒動"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "344809",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344809",
+                    "Titles": {
+                        "eng": "Hand Games, Evil Games",
+                        "jpn": "ごきげんなペンキ塗り"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "344810",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344810",
+                    "Titles": {
+                        "eng": "A Great Love",
+                        "jpn": "トム一目ぼれをする"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "344811",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344811",
+                    "Titles": {
+                        "eng": "The Magic spell",
+                        "jpn": "サムじいさんのおまじない"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "344812",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344812",
+                    "Titles": {
+                        "eng": "Becky",
+                        "jpn": "恋は異なもの味なもの"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "344813",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344813",
+                    "Titles": {
+                        "eng": "Huck's House",
+                        "jpn": "ハックの家づくり"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "344814",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344814",
+                    "Titles": {
+                        "eng": "Competition",
+                        "jpn": "ライバル登場"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "344815",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344815",
+                    "Titles": {
+                        "eng": "Panic at Board",
+                        "jpn": "あこがれの蒸気船"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "344816",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344816",
+                    "Titles": {
+                        "eng": "The Children of Aunt Polly",
+                        "jpn": "ポリーおばさんの子供たち"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "344817",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344817",
+                    "Titles": {
+                        "eng": "The Treasure",
+                        "jpn": "村の嫌われ者"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "344818",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344818",
+                    "Titles": {
+                        "eng": "Pirates",
+                        "jpn": "海賊の宝"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "344819",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344819",
+                    "Titles": {
+                        "eng": "The Professor",
+                        "jpn": "ベッキー・サッチャー怒る"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "344820",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344820",
+                    "Titles": {
+                        "eng": "I Want to be a Pirate",
+                        "jpn": "海賊になるんだ"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "344821",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344821",
+                    "Titles": {
+                        "eng": "Pirates don't go to school",
+                        "jpn": "海賊には学校はない"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "344822",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344822",
+                    "Titles": {
+                        "eng": "Ah! the Adventure...",
+                        "jpn": "冒険・冒険また冒険"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "344823",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344823",
+                    "Titles": {
+                        "eng": "The Pirates Crush Black",
+                        "jpn": "トム・ソーヤーの葬式"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "344824",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344824",
+                    "Titles": {
+                        "eng": "Good Old Days",
+                        "jpn": "運の悪い日"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "344825",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344825",
+                    "Titles": {
+                        "eng": "Reconciliation",
+                        "jpn": "痛い仲直り"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "344826",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344826",
+                    "Titles": {
+                        "eng": "The Frog Contest",
+                        "jpn": "蛙の戦い"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "344827",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344827",
+                    "Titles": {
+                        "eng": "The Secrecy of Mr. Dobbins",
+                        "jpn": "ドビンズ先生の秘密"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "344828",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344828",
+                    "Titles": {
+                        "eng": "The Holidays Begin",
+                        "jpn": "夏休みの始まり"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "344829",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344829",
+                    "Titles": {
+                        "eng": "The Charlatan",
+                        "jpn": "病気にならない薬"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "344830",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344830",
+                    "Titles": {
+                        "eng": "Fishing party",
+                        "jpn": "ナマズ釣りの日"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "344831",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344831",
+                    "Titles": {
+                        "eng": "Huck carries a Tie",
+                        "jpn": "ネクタイをしたハック"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "344832",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344832",
+                    "Titles": {
+                        "eng": "A Stubborn Boy",
+                        "jpn": "意地っぱり野郎"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "344833",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344833",
+                    "Titles": {
+                        "eng": "Lisette",
+                        "jpn": "子役のリゼット"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "344834",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344834",
+                    "Titles": {
+                        "eng": "The Rising of the Curtain",
+                        "jpn": "お芝居の始まるまで"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "344835",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344835",
+                    "Titles": {
+                        "eng": "Helping Lisette",
+                        "jpn": "リゼットを助けろ!"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "344836",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344836",
+                    "Titles": {
+                        "eng": "Goodbye Lisette",
+                        "jpn": "突然のさようなら"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "344837",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344837",
+                    "Titles": {
+                        "eng": "Huck's Father",
+                        "jpn": "ハックの父親"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "344838",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344838",
+                    "Titles": {
+                        "eng": "The Candlestick",
+                        "jpn": "数を数えろ"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "344839",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344839",
+                    "Titles": {
+                        "eng": "Gold, Gold!",
+                        "jpn": "黄金を見つけた!"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "344840",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344840",
+                    "Titles": {
+                        "eng": "The Escape to Freedom",
+                        "jpn": "自由に向って逃げろ"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "344841",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344841",
+                    "Titles": {
+                        "eng": "The Man who Came from the Cold",
+                        "jpn": "天から降って来た男"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "344842",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344842",
+                    "Titles": {
+                        "eng": "Tom wants to fly in the Sky",
+                        "jpn": "空を飛びたい"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "344843",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344843",
+                    "Titles": {
+                        "eng": "To fly or not to fly?",
+                        "jpn": "気球を直そう"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "344844",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344844",
+                    "Titles": {
+                        "eng": "Goodbye, Arthur!",
+                        "jpn": "空からの眺め"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "344845",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344845",
+                    "Titles": {
+                        "eng": "The Drama",
+                        "jpn": "おそろしい出来事"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "344846",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344846",
+                    "Titles": {
+                        "eng": "A Question of Confidence",
+                        "jpn": "良心の痛み"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "344847",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344847",
+                    "Titles": {
+                        "eng": "The Lawsuit",
+                        "jpn": "マフ・ポッターの裁判"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "344848",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344848",
+                    "Titles": {
+                        "eng": "The Undesirable",
+                        "jpn": "インジャン・ジョーの行方"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "344849",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344849",
+                    "Titles": {
+                        "eng": "A Happy Journey",
+                        "jpn": "楽しい船の旅"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "344850",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344850",
+                    "Titles": {
+                        "eng": "The White Horse",
+                        "jpn": "白い馬を見た"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "344851",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344851",
+                    "Titles": {
+                        "eng": "The Capture",
+                        "jpn": "稲妻をつかまえろ"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "344852",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344852",
+                    "Titles": {
+                        "eng": "Freedom",
+                        "jpn": "さらば白馬よ"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "344853",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344853",
+                    "Titles": {
+                        "eng": "The Haunted House",
+                        "jpn": "化物屋敷で"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "344854",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344854",
+                    "Titles": {
+                        "eng": "The sighs cave",
+                        "jpn": "マクドウガルの洞窟"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "344855",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344855",
+                    "Titles": {
+                        "eng": "End of Joe the Indian",
+                        "jpn": "インジャン・ジョーの最後"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "344856",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-tom-sawyer/episodes/344856",
+                    "Titles": {
+                        "eng": "All is well",
+                        "jpn": "格好の悪い終り方"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

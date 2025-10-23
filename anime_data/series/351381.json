@@ -1,0 +1,109 @@
+{
+    "URL": "https://thetvdb.com/series/robot-girls-neo",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/126706"
+    ],
+    "Titles": {
+        "eng": "Robot Girls NEO",
+        "jpn": "ロボットガールズNEO"
+    },
+    "Summaries": {
+        "eng": "",
+        "jpn": ""
+    },
+    "Aliases": [],
+    "Modified": "2022-08-24",
+    "Seasons": {
+        "0": {
+            "ID": "774774",
+            "URL": "https://thetvdb.com/series/robot-girls-neo/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "8088907",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/robot-girls-neo/episodes/8088907",
+                    "Titles": {
+                        "eng": "Petit Character Short Anime 1-3",
+                        "jpn": "ぷちキャラショートアニメ 1-3"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "774775",
+            "URL": "https://thetvdb.com/series/robot-girls-neo/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "6789207",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/robot-girls-neo/episodes/6789207",
+                    "Titles": {
+                        "eng": "Episode 1",
+                        "jpn": "なんてこったい、未来の光子力! 新生、チームZ"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6789208",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/robot-girls-neo/episodes/6789208",
+                    "Titles": {
+                        "eng": "Episode 2",
+                        "jpn": "え～っ! ゲッター学園のお嬢様!？ 参上! ゲッちゃまイーグル"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6789210",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/robot-girls-neo/episodes/6789210",
+                    "Titles": {
+                        "eng": "Episode 3",
+                        "jpn": "お姉さん、あなたは一体何者ですか？ 登場! シスターヘル"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
