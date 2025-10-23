@@ -140,9 +140,23 @@ class SafeJikan:
         return await self._retry_on_failure(self.aio_jikan.anime, mal_id)
 
     async def get_anime_relations(self, mal_id: int):
-        return await self._retry_on_failure(
+        data = await self._retry_on_failure(
             self.aio_jikan.anime, mal_id, extension="relations"
         )
+
+        # Filter out any relation entries that are manga
+        filtered_data = {
+            "data": [
+                {
+                    "relation": rel["relation"],
+                    "entry": [e for e in rel["entry"] if e["type"].lower() != "manga"]
+                }
+                for rel in data.get("data", [])
+                if any(e["type"].lower() != "manga" for e in rel["entry"])
+            ]
+        }
+
+        return filtered_data
 
     async def close(self):
         await self.aio_jikan.close()

@@ -146,12 +146,14 @@ async def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, vis
         for rel in relations:
             for e in rel.get("entry", []):
                 name = e.get("name", "")
-                if fuzz.ratio(normalize_text(name), normalized_title) >= 85:
+                if fuzz.ratio(normalize_text(name), normalized_title) >= 90:
                     sequel_id = e["mal_id"]
                     print(f"Matched season title '{season_title}' in relation '{e['name']}' (relation: {rel.get('relation')})")
                     break
             if sequel_id:
                 break
+        if sequel_id:
+            return sequel_id
 
     # --- Step 2: Fallback to Sequel if no name match found ---
     if not sequel_id:
@@ -374,11 +376,16 @@ async def map_anime():
                             malurl = await get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
 
                         if mal_eps and mal_eps == episode_offset:
-                            SeasonMalID = await get_mal_relations(SeasonMalID, total_episodes, season_title)
+                            tempSeasonMalID = await get_mal_relations(SeasonMalID, total_episodes, season_title)
+                            if tempSeasonMalID:
+                                SeasonMalID = tempSeasonMalID
+                            elif season_title:
+                                mid, _ = await get_best_mal_id(season_title, None, False)
+                                if mid:
+                                    SeasonMalID = mid
                             if SeasonMalID:
                                 episode_offset = 0
                                 mal_eps = await get_mal_episode_count(SeasonMalID)
-                                print(total_episodes)
                                 malurl = await get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
                             # else:
                             #     raise RuntimeError(f"This is a bug — logic failure in season mapping. Previous malid was {SeasonMalID}")
