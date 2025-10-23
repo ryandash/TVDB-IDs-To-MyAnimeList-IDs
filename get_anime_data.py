@@ -288,10 +288,8 @@ async def main():
     new_movies = await get_new_anime("all_anime_movies.json", "movie")
     new_tvs = await get_new_anime("all_tv_anime.json", "tv")
     new_onas = await get_new_anime("all_ona_anime.json", "ona")
-    new_ovas = await get_new_anime("all_ova_anime.json", "ova")
-    new_specials = await get_new_anime("all_special_anime.json", "special")
 
-    all_new = new_movies + new_tvs + new_onas + new_ovas + new_specials
+    all_new = new_movies + new_tvs + new_onas
     await search_and_save_tvdb_hits(key, all_new)
 
 if __name__ == "__main__":
