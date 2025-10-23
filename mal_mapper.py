@@ -268,13 +268,34 @@ async def try_titles_for_mal_id(titles):
             return mid
     return None
 
-def build_titles_to_try(main_eng, main_jpn, series_eng, series_jpn):
-    if main_eng and series_eng and series_eng.lower() not in main_eng.lower():
-        main_eng = f"{series_eng} {main_eng}"
-    if main_jpn and series_jpn and series_jpn.lower() not in main_jpn.lower():
-        main_jpn = f"{series_jpn} {main_jpn}"
-    return [t for t in [main_eng, main_jpn] if t]
+_RE_TILDE = re.compile(r'\s*~[^~]*~\s*')
 
+def clean_title(title: str | None) -> str | None:
+    if not title:
+        return None
+
+    t = _RE_TILDE.sub("", title).strip()
+
+    return t.lower()
+
+def build_titles_to_try(main_eng, main_jpn, series_eng, series_jpn):
+    main_eng  = clean_title(main_eng)
+    main_jpn  = clean_title(main_jpn)
+    series_eng = clean_title(series_eng)
+    series_jpn = clean_title(series_jpn)
+
+    if main_eng and series_eng and series_eng not in main_eng:
+        main_eng = f"{series_eng} {main_eng}"
+    if main_jpn and series_jpn and series_jpn not in main_jpn:
+        main_jpn = f"{series_jpn} {main_jpn}"
+
+    if main_eng:
+        if main_jpn:
+            return [main_eng, main_jpn]
+        return [main_eng]
+    if main_jpn:
+        return [main_jpn]
+    return []
 
 # ----------------------
 # Mapping
