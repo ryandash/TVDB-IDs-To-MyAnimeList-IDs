@@ -11,6 +11,7 @@ from rapidfuzz import fuzz
 from safe_jikan import SafeJikan
 from urllib.parse import quote
 from datetime import datetime
+from collections import defaultdict, deque
 
 # -----------------------------
 # Data Classes
@@ -196,6 +197,7 @@ async def get_new_anime(json_file: str, type_: str) -> List[MinimalAnime]:
     await update_meta(meta_file, total_from_jikan, per_page)
     return filtered_new_entries
 
+
 async def update_meta(meta_file: str, total: int, per_page: int):
     meta = FetchMeta(
         totalFetchedFromJikan=total, 
@@ -204,6 +206,59 @@ async def update_meta(meta_file: str, total: int, per_page: int):
     )
     with open(meta_file, "w", encoding="utf-8") as f:
         json.dump(meta.__dict__, f, indent=2)
+
+
+async def reorder_by_prequels(entries: List[MinimalAnime]) -> List[MinimalAnime]:
+    id_to_entry = {a.malId: a for a in entries}
+    edges = defaultdict(set)
+    indegree = defaultdict(int)
+
+    # Build dependency graph: prequel -> anime
+    async def fetch_relations(anime: MinimalAnime):
+        try:
+            rel_data = await JIKAN.get_anime_relations(anime.malId)
+            for rel in rel_data.get("data", []):
+                if rel["relation"].lower() == "prequel":
+                    for e in rel["entry"]:
+                        prequel_id = e["mal_id"]
+                        if prequel_id in id_to_entry:
+                            if anime.malId not in edges[prequel_id]:
+                                edges[prequel_id].add(anime.malId)
+                                indegree[anime.malId] += 1
+        except Exception as e:
+            print(f"Failed to fetch relations for {anime.malId}: {e}")
+
+    # Fetch all relations concurrently (limit concurrency to 10)
+    sem = asyncio.Semaphore(10)
+    async def sem_task(anime):
+        async with sem:
+            await fetch_relations(anime)
+
+    await asyncio.gather(*(sem_task(a) for a in entries))
+
+    # Topological sort (Kahn’s algorithm)
+    queue = deque([mid for mid in id_to_entry if indegree[mid] == 0])
+    sorted_ids = []
+    visited = set()
+
+    while queue:
+        mid = queue.popleft()
+        if mid in visited:
+            continue
+        visited.add(mid)
+        sorted_ids.append(mid)
+        for nxt in edges.get(mid, []):
+            indegree[nxt] -= 1
+            if indegree[nxt] == 0:
+                queue.append(nxt)
+
+    # Add any leftover nodes (due to missing relations or cycles)
+    for mid in id_to_entry:
+        if mid not in visited:
+            sorted_ids.append(mid)
+
+    # Return reordered list
+    return [id_to_entry[mid] for mid in sorted_ids]
 
 # -----------------------------
 # Search TVDB and Save
@@ -226,6 +281,7 @@ async def search_and_save_tvdb_hits(key: str, anime_list: List[MinimalAnime]):
             for entry in anime.titles:
                 if not entry.title:
                     continue
+                entry.title = entry.title.split(":")[0]
                 query = entry.title
                 encoded_query = quote(query, safe="")
 
@@ -290,6 +346,7 @@ async def main():
     new_onas = await get_new_anime("all_ona_anime.json", "ona")
 
     all_new = new_movies + new_tvs + new_onas
+    all_new = await reorder_by_prequels(all_new)
     await search_and_save_tvdb_hits(key, all_new)
 
 if __name__ == "__main__":

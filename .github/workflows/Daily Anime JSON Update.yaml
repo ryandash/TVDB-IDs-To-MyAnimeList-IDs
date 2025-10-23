@@ -27,19 +27,24 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: Cache pip
-        id: cache-deps
+      - name: Cache Python dependencies
         uses: actions/cache@v4
         with:
-          path: |
-            ~/.cache/pip
-          key: deps-${{ hashFiles('requirements.txt') }}
-          restore-keys: deps-       
-
-      - name: update min_map_data
+          path: ~/.venv
+          key: venv-${{ hashFiles('requirements.txt') }}
+          restore-keys: venv-
+    
+      - name: Update min_map_data
         run: |
-          pip install --upgrade -r requirements.txt
-
+          if [ ! -d ~/.venv ]; then
+            python -m venv ~/.venv
+          fi
+          source ~/.venv/bin/activate
+          if [ ! -f ~/.venv/.installed ]; then
+            pip install --upgrade -r requirements.txt
+            touch ~/.venv/.installed
+          fi
+          
           python get_anime_data.py
 
       - name: Upload Jikan Data
@@ -67,21 +72,46 @@ jobs:
           name: jikan-data
           path: min_map_data
 
+      - name: Cache Python dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.venv
+          key: venv-${{ hashFiles('requirements.txt') }}
+          restore-keys: venv-
+
       - name: Setup Python & Dependencies
         run: |
-          pip install --upgrade -r requirements.txt
+          if [ ! -d ~/.venv ]; then
+            python -m venv ~/.venv
+          fi
+          source ~/.venv/bin/activate
+          if [ ! -f ~/.venv/.installed ]; then
+            pip install --upgrade -r requirements.txt
+            touch ~/.venv/.installed
+          fi
 
-      - name: Scrape & Process page
+      - name: Scrape Data
         run: |
           python thetvdb_scraper.py --worker ${{ matrix.worker }} --delete-folder
+      
+      - name: Upload page outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: anime-data-${{ matrix.worker }}
+          path: |
+            anime_data/
+          retention-days: 1
+          compression-level: 9
+
+      - name: Map Data
+        run: |
           python mal_mapper.py
 
       - name: Upload page outputs
         uses: actions/upload-artifact@v4
         with:
-          name: scraper-${{ matrix.worker }}
+          name: mapped-data-${{ matrix.worker }}
           path: |
-            anime_data/
             mapped-tvdb-ids-series.json
             mapped-tvdb-ids-movie.json
             unmapped-series.json
@@ -101,15 +131,6 @@ jobs:
           fetch-depth: 0
           persist-credentials: true
 
-      - name: Cache pip
-        id: cache-deps
-        uses: actions/cache@v4
-        with:
-          path: |
-            ~/.cache/pip
-          key: deps-${{ hashFiles('requirements.txt') }}
-          restore-keys: deps-
-
       - name: Clean old Jikan Data
         run: rm -rf min_map_data
 
@@ -119,15 +140,35 @@ jobs:
           name: jikan-data
           path: min_map_data     
 
-      - name: Download all scraper artifacts
+      - name: Download anime_data artifacts
         uses: actions/download-artifact@v5
         with:
           path: artifacts
-          pattern: scraper-*
+          pattern: anime-data-*
+
+      - name: Download mapped_data artifacts
+        uses: actions/download-artifact@v5
+        with:
+          path: artifacts
+          pattern: mapped-data-*
+
+      - name: Cache Python dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.venv
+          key: venv-${{ hashFiles('requirements.txt') }}
+          restore-keys: venv-
 
       - name: Merge JSON files
         run: |
-          pip install --upgrade -r requirements.txt
+          if [ ! -d ~/.venv ]; then
+            python -m venv ~/.venv
+          fi
+          source ~/.venv/bin/activate
+          if [ ! -f ~/.venv/.installed ]; then
+            pip install --upgrade -r requirements.txt
+            touch ~/.venv/.installed
+          fi
 
           python merge_files.py --input-dir artifacts
           python split_json.py
