@@ -176,7 +176,7 @@ async def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, vis
     # Step 3: Extract type and episodes
     anime_type = anime_info.get("type")           # e.g., "TV", "Movie", "OVA"
     eps = anime_info.get("episodes")
-    mal_eps = eps if isinstance(eps, int) else None
+    mal_eps = eps if isinstance(eps, int) else 0
 
     print(f"New mal id {sequel_id} mal_eps: {mal_eps} offset_eps: {offset_eps}")
     if (mal_eps < offset_eps and mal_eps == 1) or anime_type in ("OVA", "Special"):
