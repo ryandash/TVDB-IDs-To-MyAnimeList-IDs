@@ -1,0 +1,427 @@
+{
+    "URL": "https://thetvdb.com/series/strange-1",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt3975526/",
+        "https://www.themoviedb.org/tv/72806"
+    ],
+    "Titles": {
+        "eng": "Strange+",
+        "jpn": "ストレンジ・プラス"
+    },
+    "Summaries": {
+        "eng": "Kou comes to a slum neighborhood in search of his elder brother Takumi and finds him to have become the head of a private detective firm. Kou is drafted by Takumi to do errands and chores in the detective firm, and they come to meet various interesting people...",
+        "jpn": "家出して行方不明となっている兄・巧美を探してある街にやってきた恒。\r\n兄を探すのは困難かと思われ、捜し当てるまで帰らないと決意する恒だったが、あっさり見つけてしまう。\r\nしかし再会した巧美は美国探偵事務所の所長となっていた。\r\n巧美は、実家に帰る気配は全くない。恒は、兄が帰らないならばと、美国探偵事務所に居座ることを決意する…。"
+    },
+    "Aliases": [
+        "Strange Plus",
+        "Shin Strange+",
+        "Sin Strange+"
+    ],
+    "Modified": "2022-10-09",
+    "Seasons": {
+        "0": {
+            "ID": "570420",
+            "URL": "https://thetvdb.com/series/strange-1/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "6477877",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/6477877",
+                    "Titles": {
+                        "eng": "Strange+ Special",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "570421",
+            "URL": "https://thetvdb.com/series/strange-1/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "deu": "Strange+"
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null,
+                "deu": "Kou kommt in ein Slum in der Nachbarschaft auf der Suche nach seinem älteren Bruder Takumi und findet ihn dort als Leiter einer privaten Detektei-Firma. Kou wird von Takumi eingestellt, um Besorgungen und Aufgaben der Firma zu erledigen, und lernt dort verschiedene interessante Menschen kennen."
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "4741029",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/4741029",
+                    "Titles": {
+                        "eng": "Thief",
+                        "jpn": "第1話THIEF"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "ある富豪のもとに怪盗ラスティネイルと名乗る泥棒から犯行予告が届く。\r\n警護を依頼された美国探偵事務所の面々は宝を守る事が出来るのか？。"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4764046",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/4764046",
+                    "Titles": {
+                        "eng": "Princess",
+                        "jpn": "第2話PRINCESS"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "ご令嬢の警護を任された美国探偵事務所の面々。\r\nわがままお嬢様に振り回されつつも依頼をこなしていくのであった。"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4764047",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/4764047",
+                    "Titles": {
+                        "eng": "Hospital",
+                        "jpn": "第3話HOSPITAL"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "怪我をした正宗を治療する為に闇医者に赴く美国探偵事務所の面々。\r\nそこには怪しげな医者と幼女がいた…。"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4764048",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/4764048",
+                    "Titles": {
+                        "eng": "Trap",
+                        "jpn": "第4話TRAP"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "尾杜からの依頼でドロシーを救出に向かった美国探偵事務所の面々。\r\nそこは地下に広がる広大なトラップ空間だった。"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4780215",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/4780215",
+                    "Titles": {
+                        "eng": "Mistress",
+                        "jpn": "第5話MISTRESS"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "ある企業に忍び込んで機密データを盗み出す依頼を請けた美国探偵事務所の面々。\r\n嫌がる恒をしり目に妙にやる気な巧美たちだった。"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4780216",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/4780216",
+                    "Titles": {
+                        "eng": "Precious",
+                        "jpn": "第6話PRECIOUS"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "スーパーでばったりラスティネイルと出くわした美国探偵事務所の面々。\r\nラスティはこの前の仕返しと事務所に盗みに入る予告をする。巧美たちは事務所を守れるのか？"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4780217",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/4780217",
+                    "Titles": {
+                        "eng": "Procession",
+                        "jpn": "第7話PROCESSION"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "何者かに狙われている正宗が自分の警護を自ら巧美たちに依頼する。\r\n正宗を狙う謎の人物の正体とは…？"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4780219",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/4780219",
+                    "Titles": {
+                        "eng": "Intruder",
+                        "jpn": "第8話INTRUDER"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "貴世子から学校に出没する変質者の捕獲を依頼された美国探偵事務所の面々。\r\n学校内に潜入した巧美たちは変質者を捕まえられるのか？"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4780221",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/4780221",
+                    "Titles": {
+                        "eng": "Guard",
+                        "jpn": "GUARD"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4780222",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/4780222",
+                    "Titles": {
+                        "eng": "Curse",
+                        "jpn": "CURSE"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4780223",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/4780223",
+                    "Titles": {
+                        "eng": "Antique",
+                        "jpn": "ANTIQUE"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4780225",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/4780225",
+                    "Titles": {
+                        "eng": "Hero",
+                        "jpn": "HERO"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "571728",
+            "URL": "https://thetvdb.com/series/strange-1/seasons/official/2",
+            "Titles": {
+                "eng": "Shin Strange+",
+                "jpn": null,
+                "deu": "Shin Strange+"
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null,
+                "deu": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "4756275",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/4756275",
+                    "Titles": {
+                        "eng": "Reconduct",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4935954",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/4935954",
+                    "Titles": {
+                        "eng": "Exchange",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4936881",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/4936881",
+                    "Titles": {
+                        "eng": "Crime",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4936882",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/4936882",
+                    "Titles": {
+                        "eng": "Princess",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4936883",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/4936883",
+                    "Titles": {
+                        "eng": "Resistants",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4936884",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/4936884",
+                    "Titles": {
+                        "eng": "Escape",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4936885",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/4936885",
+                    "Titles": {
+                        "eng": "Restrains",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4936886",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/4936886",
+                    "Titles": {
+                        "eng": "Homework",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4936887",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/4936887",
+                    "Titles": {
+                        "eng": "Influence",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4936888",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/4936888",
+                    "Titles": {
+                        "eng": "Similar",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4936889",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/4936889",
+                    "Titles": {
+                        "eng": "Fiction",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4936890",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/strange-1/episodes/4936890",
+                    "Titles": {
+                        "eng": "Trip",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

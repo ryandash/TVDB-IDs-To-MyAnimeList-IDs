@@ -1,0 +1,86 @@
+{
+    "URL": "https://thetvdb.com/series/kiyoneko",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Mini-Series"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/215779"
+    ],
+    "Titles": {
+        "eng": "Anime Kiyoneko",
+        "jpn": "アニメ『 きよねこっ 』"
+    },
+    "Summaries": {
+        "eng": "This is a series centered on the YouTuber Kiyo.",
+        "jpn": "こんにちは。\r\nなんかよくわからんけど色々やる。"
+    },
+    "Aliases": [
+        "Kiyoneko",
+        "KIYO猫",
+        "Kiyo Neko",
+        "Original Animation Kiyoneko"
+    ],
+    "Modified": "2025-06-06",
+    "Seasons": {
+        "1": {
+            "ID": "2091774",
+            "URL": "https://thetvdb.com/series/kiyoneko/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "10118510",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kiyoneko/episodes/10118510",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "#1"
+                    },
+                    "Summaries": {
+                        "eng": null,
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10119295",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kiyoneko/episodes/10119295",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "#2"
+                    },
+                    "Summaries": {
+                        "eng": null,
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10119296",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kiyoneko/episodes/10119296",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "#3"
+                    },
+                    "Summaries": {
+                        "eng": null,
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

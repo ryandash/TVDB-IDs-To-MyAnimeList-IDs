@@ -89,12 +89,13 @@ jobs:
         with:
           name: anime-data-${{ matrix.worker }}
           path: |
-            anime_data/
+            anime_data
           retention-days: 1
           compression-level: 9
 
       - name: Map Data
         run: |
+          source ~/.venv/bin/activate
           python mal_mapper.py
 
       - name: Upload page outputs
@@ -128,7 +129,7 @@ jobs:
         uses: actions/download-artifact@v5
         with:
           name: jikan-data
-          path: min_map_data     
+          path: min_map_data
 
       - name: Download anime_data artifacts
         uses: actions/download-artifact@v5

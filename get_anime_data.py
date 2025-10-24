@@ -3,7 +3,7 @@ import asyncio
 import json
 import os
 import re
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 from math import ceil
 from typing import List, Optional
@@ -100,10 +100,9 @@ async def get_latest_algolia_key():
 async def get_new_anime(existing_anime: List, meta_file: str | None, type_: str) -> List[MinimalAnime]:
     meta: Optional[FetchMeta] = None
 
-    if meta_file:
-        meta_path = BASE_DIR / Path(meta_file).with_suffix(".meta.json")
-        if meta_path.exists():
-            meta = FetchMeta(**json.loads(meta_path.read_text(encoding="utf-8")))
+    meta_path = BASE_DIR / Path(meta_file).with_suffix(".meta.json")
+    if meta_path.exists():
+        meta = FetchMeta(**json.loads(meta_path.read_text(encoding="utf-8")))
 
     first_page = await JIKAN.search_anime(type_=type_, page=1)
     pagination = first_page.get("pagination", {}).get("items", {})
@@ -117,7 +116,7 @@ async def get_new_anime(existing_anime: List, meta_file: str | None, type_: str)
     previously_fetched = getattr(meta, "totalFetchedFromJikan", 0) if meta else 0
     if previously_fetched >= total_from_jikan:
         print("No new entries from Jikan.")
-        await update_meta(meta_file, total_from_jikan, per_page)
+        await update_meta(meta_path, total_from_jikan, per_page)
         # return existing_anime # For troubleshooting
         return []
 
@@ -172,20 +171,19 @@ async def get_new_anime(existing_anime: List, meta_file: str | None, type_: str)
         ))
 
     print(f"After dedupe: {len(new_entries)} new entries.")
-    if meta_file:
-        await update_meta(meta_file, total_from_jikan, per_page)
+    await update_meta(meta_path, total_from_jikan, per_page)
     return new_entries
 
 
-async def update_meta(meta_file: str, total: int, per_page: int):
+async def update_meta(meta_path: Path, total: int, per_page: int):
     meta = FetchMeta(
         totalFetchedFromJikan=total, 
         perPage=per_page, 
-        lastUpdatedUtc=datetime.utcnow().isoformat()
+        lastUpdatedUtc=datetime.now(timezone.utc).isoformat()
     )
-    with open(meta_file, "w", encoding="utf-8") as f:
+    with open(meta_path, "w", encoding="utf-8") as f:
         json.dump(meta.__dict__, f, indent=2)
-
+    print(f"Updated meta file: {meta_path}")
 
 async def preload_file_map() -> dict[int, Path]:
     file_map = {}
