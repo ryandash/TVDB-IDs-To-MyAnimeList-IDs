@@ -101,15 +101,14 @@ async def get_new_anime(existing_anime: List, meta_file: str | None, type_: str)
     meta: Optional[FetchMeta] = None
 
     if meta_file:
-        meta_file = BASE_DIR / Path(meta_file).with_suffix(".meta.json")
-
-        if os.path.exists(meta_file):
-            with open(meta_file, "r", encoding="utf-8") as f:
-                meta = FetchMeta(**json.load(f))
+        meta_path = BASE_DIR / Path(meta_file).with_suffix(".meta.json")
+        if meta_path.exists():
+            meta = FetchMeta(**json.loads(meta_path.read_text(encoding="utf-8")))
 
     first_page = await JIKAN.search_anime(type_=type_, page=1)
-    total_from_jikan = first_page["pagination"]["items"]["total"]
-    per_page = first_page["pagination"]["items"]["per_page"]
+    pagination = first_page.get("pagination", {}).get("items", {})
+    total_from_jikan = pagination.get("total", 0)
+    per_page = pagination.get("per_page", 0)
 
     if total_from_jikan == 0:
         print("Could not read total count from Jikan pagination.")
@@ -137,9 +136,19 @@ async def get_new_anime(existing_anime: List, meta_file: str | None, type_: str)
         newly_fetched.extend(data)
     print(f"Fetched {len(newly_fetched)} entries.")
 
+    existing_ids = {int(x.malId) for x in existing_anime}
+    seen_ids = set()
+    filtered_new_entries = []
+
+    for anime in newly_fetched:
+        mal_id = int(anime.get("mal_id", -1))
+        if mal_id > 0 and mal_id not in seen_ids and mal_id not in existing_ids:
+            seen_ids.add(mal_id)
+            filtered_new_entries.append(anime)
+
     # Convert to MinimalAnime
     new_entries: List[MinimalAnime] = []
-    for a in newly_fetched:
+    for a in filtered_new_entries:
         titles = [TitleEntry(title=t["title"], type=t["type"]) for t in a.get("titles", []) if t["type"].lower() != "synonym"]
         english = next((t for t in titles if t.type.lower() == "english"), None)
         if english:
@@ -162,12 +171,10 @@ async def get_new_anime(existing_anime: List, meta_file: str | None, type_: str)
             titles=titles
         ))
 
-    existing_ids = {x.malId for x in existing_anime}
-    filtered_new_entries = [x for x in new_entries if x.malId not in existing_ids]
-    print(f"After dedupe: {len(filtered_new_entries)} new entries.")
+    print(f"After dedupe: {len(new_entries)} new entries.")
     if meta_file:
         await update_meta(meta_file, total_from_jikan, per_page)
-    return filtered_new_entries
+    return new_entries
 
 
 async def update_meta(meta_file: str, total: int, per_page: int):
@@ -298,57 +305,60 @@ async def search_and_save_tvdb_hits(key: str, anime_list: list[MinimalAnime]):
                 if not entry.title:
                     continue
 
-                entry.title = entry.title.split(":")[0]
-                query = entry.title
-                encoded_query = quote(query, safe="")
+                title_variants = [entry.title]
+                if ":" in entry.title:
+                    title_variants.append(entry.title.split(":")[0].strip())
+                
+                for query in title_variants:
+                    encoded_query = quote(query, safe="")
 
-                facet_filters = f'[[\"type:{facet_type}\"], [\"year:{anime.year}\"]]'
-                facet_filter_param = f"facetFilters={quote(facet_filters, safe='')}"
-                body = {
-                    "requests": [
-                        {
-                            "indexName": "TVDB",
-                            "params": f"query={encoded_query}&{facet_filter_param}"
-                        }
-                    ]
-                }
+                    facet_filters = f'[[\"type:{facet_type}\"], [\"year:{anime.year}\"]]'
+                    facet_filter_param = f"facetFilters={quote(facet_filters, safe='')}"
+                    body = {
+                        "requests": [
+                            {
+                                "indexName": "TVDB",
+                                "params": f"query={encoded_query}&{facet_filter_param}"
+                            }
+                        ]
+                    }
 
-                try:
-                    async with session.post(
-                        "https://tvshowtime-dsn.algolia.net/1/indexes/*/queries",
-                        json=body
-                    ) as resp:
-                        resp.raise_for_status()
-                        data = await resp.json()
+                    try:
+                        async with session.post(
+                            "https://tvshowtime-dsn.algolia.net/1/indexes/*/queries",
+                            json=body
+                        ) as resp:
+                            resp.raise_for_status()
+                            data = await resp.json()
 
-                    hits = data.get("results", [{}])[0].get("hits", [])
+                        hits = data.get("results", [{}])[0].get("hits", [])
 
-                    if hits:
-                        for hit in hits:
-                            output_path = output_dir / f"{hit['id']}.json"
-                            names = set(hit.get("aliases", []))
-                            translations = hit.get("translations", {})
-                            names.update(translations.values())
+                        if hits:
+                            for hit in hits:
+                                output_path = output_dir / f"{hit['id']}.json"
+                                names = set(hit.get("aliases", []))
+                                translations = hit.get("translations", {})
+                                names.update(translations.values())
 
-                            if any(fuzz.ratio(name, query) >= 90 for name in names):
-                                match = TVDBMatches(
-                                    TvdbId=hit["id"],
-                                    MalId=anime.malId,
-                                    Name=translations.get("eng") or hit["name"],
-                                    Url=hit["url"]
-                                )
-                                lock = get_file_lock(output_path)
-                                async with lock:
-                                    if not output_path.exists():
-                                        with open(output_path, "w", encoding="utf-8") as f:
-                                            json.dump(match.__dict__, f, indent=2)
-                                success = True
-                                break
-                except Exception as e:
-                    print(f"Error processing {anime.malId} ({entry.title}): {e}")
+                                if any(fuzz.ratio(name, query) >= 90 for name in names):
+                                    match = TVDBMatches(
+                                        TvdbId=hit["id"],
+                                        MalId=anime.malId,
+                                        Name=translations.get("eng") or hit["name"],
+                                        Url=hit["url"]
+                                    )
+                                    lock = get_file_lock(output_path)
+                                    async with lock:
+                                        if not output_path.exists():
+                                            with open(output_path, "w", encoding="utf-8") as f:
+                                                json.dump(match.__dict__, f, indent=2)
+                                    success = True
+                                    break
+                    except Exception as e:
+                        print(f"Error processing {anime.malId} ({query}): {e}")
 
-                if success:
-                    break
+                    if success:
+                        break
 
     print("\nAll matches saved to min_map_data/movie/ and min_map_data/series/ directories.")
 
@@ -399,14 +409,10 @@ async def main():
     old_series = await load_anime_json(series_json_path)
     print(f"Loaded {len(old_series)} series from {series_json_path.name}.")
 
-    new_tvs = await get_new_anime(old_series, None, "tv")
-    new_onas = await get_new_anime(old_series, None, "ona")
+    new_tvs = await get_new_anime(old_series, "all_tv_anime", "tv")
+    new_onas = await get_new_anime(old_series, "all_ona_anime", "ona")
     all_entries, all_new_series = await insert_new_entries_before_sequels(new_tvs + new_onas, old_series)
     await save_anime_json(series_json_path, all_entries)
-
-    # Update metadata for TV and ONA
-    await update_meta(BASE_DIR / "all_tv_anime.meta.json", len(new_tvs), 25)
-    await update_meta(BASE_DIR / "all_ona_anime.meta.json", len(new_onas), 25)
 
     # --- SEARCH AND SAVE TO TVDB ---
     await search_and_save_tvdb_hits(key, all_new_series + new_movies)
