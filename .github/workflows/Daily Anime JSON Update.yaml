@@ -79,19 +79,9 @@ jobs:
           key: venv-${{ hashFiles('requirements.txt') }}
           restore-keys: venv-
 
-      - name: Setup Python & Dependencies
-        run: |
-          if [ ! -d ~/.venv ]; then
-            python -m venv ~/.venv
-          fi
-          source ~/.venv/bin/activate
-          if [ ! -f ~/.venv/.installed ]; then
-            pip install --upgrade -r requirements.txt
-            touch ~/.venv/.installed
-          fi
-
       - name: Scrape Data
         run: |
+          source ~/.venv/bin/activate
           python thetvdb_scraper.py --worker ${{ matrix.worker }} --delete-folder
       
       - name: Upload page outputs
@@ -161,14 +151,7 @@ jobs:
 
       - name: Merge JSON files
         run: |
-          if [ ! -d ~/.venv ]; then
-            python -m venv ~/.venv
-          fi
           source ~/.venv/bin/activate
-          if [ ! -f ~/.venv/.installed ]; then
-            pip install --upgrade -r requirements.txt
-            touch ~/.venv/.installed
-          fi
 
           python merge_files.py --input-dir artifacts
           python split_json.py
