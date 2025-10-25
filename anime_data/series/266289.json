@@ -1,0 +1,67 @@
+{
+    "URL": "https://thetvdb.com/series/wild-cardz",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/116850"
+    ],
+    "Titles": {
+        "eng": "Wild Cardz",
+        "jpn": "Jaja馬!カルテット"
+    },
+    "Summaries": {
+        "eng": "The Crown Knights are a bizarre special force to fight to the criminals who threaten the tranquil Card Kingdom. Each one had a special ability. But these Crown Knights must get down and dirty when they run up against two war machines shaped like gigantic chess pieces. The deck is stacked against them, somehow they've got the checkmate these indestructible invaders before the Card Kingdom topples.",
+        "jpn": "クラウンナイツは、平穏なカード王国を脅かす犯罪者に立ち向かう奇怪な特殊部隊。 それぞれが特別な能力を持っていました。 しかし、これらのクラウン ナイツは、巨大なチェスの駒のような形をした 2 つの戦争機械に直面したとき、落ち着かなければなりません。 カードキングダムが倒れる前に、どうにか彼らはこれらの不滅の侵略者をチェックメイトしました。"
+    },
+    "Aliases": [],
+    "Modified": "2022-08-19",
+    "Seasons": {
+        "1": {
+            "ID": "511098",
+            "URL": "https://thetvdb.com/series/wild-cardz/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4487831",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/wild-cardz/episodes/4487831",
+                    "Titles": {
+                        "eng": "Black and White",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4487832",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/wild-cardz/episodes/4487832",
+                    "Titles": {
+                        "eng": "Kiss of Fire",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "URL": "https://thetvdb.com/series/holy-knight",
+    "Genres": [
+        "Animation",
+        "Drama",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt3685006/",
+        "http://holyknight.cammot.jp/index.html",
+        "https://www.themoviedb.org/tv/44883"
+    ],
+    "Titles": {
+        "eng": "Holy Knight",
+        "jpn": "Holy Knight〜純潔と愛のハザマで〜"
+    },
+    "Summaries": {
+        "eng": "Mizumura Shinta is a plain undergraduate student. One day, he meets a transfer student from Romania, Kishimoto Lilith. She is a half human and half vampire. Through the life with Lilith, he knows the secret of his birth. He is the sole descendant of the Romuald clan, the vampire hunters.",
+        "jpn": "平穏且つ平凡な毎日を過ごしていた彼だったが、突如この学園に転入してきたルーマニア出身のハーフの美少女、岸本リリスとの出会いにより、彼の生活は大きく変化することになる。やがて自らの出生の秘密を知り様々な運命のサークルに飲み込まれていく心太…。葛藤、人間模様、そして掟…。あまりにも残酷な選択の中、二人が出した結論は…。"
+    },
+    "Aliases": [],
+    "Modified": "2024-04-09",
+    "Seasons": {
+        "1": {
+            "ID": "489084",
+            "URL": "https://thetvdb.com/series/holy-knight/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4297250",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/holy-knight/episodes/4297250",
+                    "Titles": {
+                        "eng": "Volume 1",
+                        "jpn": "エピソード1"
+                    },
+                    "Summaries": {
+                        "eng": "Shinta is an ordinary student. One day she meets a student from Romania who is half human and half vampire. She is called Lilith Kishimoto. Living with her, he soon discovers the secret of her birth. He is the only descendant of the Romuald clan and thus a vampire hunter.",
+                        "jpn": "新田は普通の学生です。 ある日、彼は半分人間で半分吸血鬼であるルーマニアからの学生に会います。 彼女の名前はリリス岸本です。 彼女と一緒に暮らすと、彼はすぐに彼女の誕生の秘密を発見します。 彼はロムアルド氏族の唯一の子孫であり、したがってヴァンパイアハンターです。"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4297251",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/holy-knight/episodes/4297251",
+                    "Titles": {
+                        "eng": "Volume 2",
+                        "jpn": "エピソード2"
+                    },
+                    "Summaries": {
+                        "eng": "Shinta discovers that he is the last in a long line of vampire slayers and Lilith, a vampire, must conceive a child with the slayer and then kill them both and bathe in their blood in order to live on.",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
