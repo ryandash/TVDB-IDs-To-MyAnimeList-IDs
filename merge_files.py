@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import argparse
 import json
-import shutil
 from pathlib import Path
 from typing import List, Union
 
@@ -36,27 +35,6 @@ def merge_dicts(d1: dict, d2: dict) -> dict:
 def collect_files(input_dir: Path, pattern: str) -> List[Path]:
     """Recursively collect all matching files from input_dir and subfolders."""
     return list(input_dir.rglob(pattern))
-
-def merge_anime_data(input_dir: Path, repo_root: Path):
-    """Move all anime_data JSONs into a single merged anime_data folder, preserving substructure."""
-    merged_dir = repo_root / "anime-data"
-    merged_dir.mkdir(parents=True, exist_ok=True)
-
-    categories = ["series", "movie"]
-
-    for category in categories:
-        category_dir = merged_dir / category
-        category_dir.mkdir(parents=True, exist_ok=True)
-
-        source_files = collect_files(input_dir, f"anime_data/{category}/*.json")
-        print(f"Merging {len(source_files)} {category} JSON files...")
-
-        for src in source_files:
-            dest = category_dir / src.name
-            shutil.copy2(src, dest)
-
-        count = len(list(category_dir.glob("*.json")))
-        print(f"Final {category} count: {count}")
 
 def merge_root_files(input_dir: Path, repo_root: Path):
     """Merge all mapped/unmapped files across all scraper artifacts."""
@@ -101,7 +79,6 @@ def main():
     input_dir = args.input_dir
     repo_root = Path.cwd()
 
-    merge_anime_data(input_dir, repo_root)
     merge_root_files(input_dir, repo_root)
 
 if __name__ == "__main__":

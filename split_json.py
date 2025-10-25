@@ -65,12 +65,42 @@ for mapped_file in mapped_files_movie:
             tvdb_seen.add(tvdb_id)
             tvdb_count_movie += 1
 
+def sort_entries(entries):
+    def entry_key(entry):
+        # Season: None if not present, else integer
+        season = entry.get("season")
+        if season is not None:
+            try:
+                season = int(season)
+            except ValueError:
+                season = float('inf')  # put invalid season at end
+
+        # Episode: None if not present, else integer
+        episode = entry.get("episode")
+        if episode is not None:
+            try:
+                episode = int(episode)
+            except ValueError:
+                episode = float('inf')  # put invalid episode at end
+
+        # Sorting priority:
+        # 1. season None first
+        # 2. episode None before numbered episodes
+        # 3. Then by season and episode numbers
+        season_sort = -1 if season is None else season
+        episode_sort = -1 if episode is None else episode
+        return (season_sort, episode_sort)
+
+    return sorted(entries, key=entry_key)
+
+
 # Write all MAL entries
 mal_count = 0
 for mal_id, entries in mal_entries.items():
+    sorted_entries = sort_entries(entries)
     path = mal_dir / f"{mal_id}.json"
     with path.open("w", encoding="utf-8") as f:
-        json.dump(entries, f, indent=4, ensure_ascii=False)
+        json.dump(sorted_entries, f, indent=4, ensure_ascii=False)
     mal_count += 1
 
 print(f"Split complete. Wrote {mal_count} MAL files, {tvdb_count_series} TVDB series files, {tvdb_count_movie} TVDB movie files.")

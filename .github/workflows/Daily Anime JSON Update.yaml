@@ -87,7 +87,7 @@ jobs:
       - name: Upload page outputs
         uses: actions/upload-artifact@v4
         with:
-          name: anime-data-${{ matrix.worker }}
+          name: anime_data-${{ matrix.worker }}
           path: |
             anime_data
           retention-days: 1
@@ -101,7 +101,7 @@ jobs:
       - name: Upload page outputs
         uses: actions/upload-artifact@v4
         with:
-          name: mapped-data-${{ matrix.worker }}
+          name: mapped_data-${{ matrix.worker }}
           path: |
             mapped-tvdb-ids-series.json
             mapped-tvdb-ids-movie.json
@@ -134,14 +134,15 @@ jobs:
       - name: Download anime_data artifacts
         uses: actions/download-artifact@v5
         with:
-          path: artifacts
-          pattern: anime-data-*
+          path: anime_data
+          pattern: anime_data-*
+          merge-multiple: true
 
       - name: Download mapped_data artifacts
         uses: actions/download-artifact@v5
         with:
           path: artifacts
-          pattern: mapped-data-*
+          pattern: mapped_data-*
 
       - name: Cache Python dependencies
         uses: actions/cache@v4
