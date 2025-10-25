@@ -139,7 +139,7 @@ Example usage:
       if (!githubData) {
         const ghResp = await fetch(
           `https://${owner}.github.io/${repo}/api/${path}/${encodeURIComponent(id)}.json`,
-          { cf: { cacheTtl: 3600, cacheEverything: false } }
+          { cf: { cacheTtl: 60, cacheEverything: false } }
         );
 
         const contentType = ghResp.headers.get("content-type") || "";

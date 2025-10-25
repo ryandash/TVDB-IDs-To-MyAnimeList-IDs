@@ -453,9 +453,8 @@ async def map_anime():
                     ep_titles = ep_data.get("Titles", {})
                     ep_title_eng = ep_titles.get("eng")
                     ep_title_jpn = ep_titles.get("jpn")
-
                     ep_titles_to_try = build_titles_to_try(ep_title_eng, ep_title_jpn, series_title_eng, series_title_jpn)
-                    ep_title = ep_data.get("TitleEnglish")
+
                     ep_aliases = ep_data.get("Aliases") or []
                     episode_offset += 1
                     if ep_id in lookup:
@@ -476,17 +475,15 @@ async def map_anime():
                         }
                         anime_type = type_mapping.get(ep_data.get("TYPE"))
 
-                        EpisodeMALID = None; search_terms = None; all_titles = None
+                        EpisodeMALID = None; all_titles = None
                         
-                        if ep_title:
-                            search_terms = [ep_title]
-
+                        if ep_titles_to_try:
                             for alias in ep_aliases:
-                                search_terms.append(f"{alias}" if ep_title else alias)
-                            search_terms.extend(ep_titles_to_try)
+                                if alias:
+                                    ep_titles_to_try.append(alias)
 
                             EpisodeMALID, all_titles = None, None
-                            for term in search_terms:
+                            for term in ep_titles_to_try:
                                 EpisodeMALID, all_titles = await get_best_mal_id(term, anime_type, True)
                                 if EpisodeMALID:
                                     break
@@ -508,7 +505,7 @@ async def map_anime():
                             mapped.append(record)
                         else:
                             record["thetvdb"] = ep_id
-                            record["search terms"] = search_terms
+                            record["search terms"] = ep_titles_to_try
                             record["Jikan titles"] = all_titles
                             unmapped_episodes.append(record)
 
