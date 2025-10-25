@@ -393,6 +393,7 @@ async def map_anime():
             mal_eps = None
             seasons = series.get("Seasons") or {}
             episode_offset = 0
+            changeSeason = True
             for season_num, season_data in tqdm(seasons.items(), desc=f"  {series_id} seasons", unit="season", leave=False):
                 season_id = season_data.get("ID")
                 season_titles = season_data.get("Titles", {})
@@ -409,9 +410,10 @@ async def map_anime():
                 else:
                     if season_num != "0":
                         previousSeasonMalID = SeasonMalID
+                        
                         if season_num != "1":
-                            print(f"{mal_eps} {episode_offset}")
                             if mal_eps and mal_eps == episode_offset:
+                                changeSeason = True
                                 SeasonMalID = await get_mal_relations(SeasonMalID, total_episodes, season_title_eng or season_title_jpn)
                         
                         if not SeasonMalID and titles_to_try:
@@ -419,11 +421,14 @@ async def map_anime():
                                 mid, _ = await get_best_mal_id(title, None, False)
                                 if mid:
                                     SeasonMalID = mid
+                                    changeSeason = True
                                     break
-                        if SeasonMalID:
+                        
+                        if SeasonMalID and changeSeason:
                             episode_offset = 0
                             mal_eps = await get_mal_episode_count(SeasonMalID)
                             malurl = await get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
+                            changeSeason = False
 
                         if SeasonMalID and SeasonMalID not in lookup:
                             mapped.append({
@@ -440,7 +445,7 @@ async def map_anime():
                                 "thetvdb": season_id,
                                 "previous malid": previousSeasonMalID
                             })
-                            continue
+                            break
     
                 mal_episode_counter = {}
                 for ep_num, ep_data in tqdm(episodes.items(), desc=f"    {season_id} Season {season_num} episodes", unit="ep", leave=False):
