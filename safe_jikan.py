@@ -40,7 +40,7 @@ class SafeJikan:
     def __init__(self, request_delay: float = 0.5, max_concurrent: int = 10):
         self.request_delay = request_delay
         self.semaphore = asyncio.Semaphore(max_concurrent)
-        self.aio_jikan = AioJikan(timeout=60)
+        self.aio_jikan = AioJikan()
         self._last_request = 0.0
         self._lock = asyncio.Lock()
 
@@ -73,14 +73,25 @@ class SafeJikan:
 
             except exceptions.APIException as e:
                 # Handle Jikan rate limit gracefully
-                if getattr(e, "status_code", getattr(e, "code", None)) == 429:
+                code = getattr(e, "status_code", getattr(e, "code", None))
+                if code == 429:
                     attempt += 1
                     print(f"[Jikan] Rate-limited (attempt {attempt}). Sleeping {delay:.1f}s...")
                     await asyncio.sleep(delay)
                     delay = min(delay * 1.5, max_delay)
                     continue
+                elif code == 500:
+                    attempt += 1
+                    print(f"[Jikan] Upstream timeout (attempt {attempt}). Retrying in {delay:.1f}s...")
+                    await asyncio.sleep(delay)
+                    delay = min(delay * 1.5, max_delay)
+                    continue
+                elif code == 404:
+                    print(f"[Jikan] Resource not found (404). Returning None.")
+                    return None
                 else:
-                    raise  # other APIException (e.g., 404, 500)
+                    print(f"[Jikan] Non-retryable API error {code}: {e}")
+                    raise
 
             except (asyncio.TimeoutError, Exception) as e:
                 # Handle network or temporary failures
