@@ -179,7 +179,7 @@ async def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, vis
     mal_eps = eps if isinstance(eps, int) else 0
 
     print(f"New mal id {sequel_id} mal_eps: {mal_eps} offset_eps: {offset_eps}")
-    if (mal_eps < offset_eps and mal_eps == 1) or anime_type in ("Special"):
+    if (mal_eps < offset_eps and mal_eps == 1) or (anime_type == "Special"):
         return await get_mal_relations(sequel_id, offset_eps, season_title, visited)
 
     return sequel_id
