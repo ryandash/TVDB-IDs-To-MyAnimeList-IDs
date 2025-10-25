@@ -432,7 +432,7 @@ async def map_anime():
 
                         if SeasonMalID and SeasonMalID not in lookup:
                             mapped.append({
-                                "season": season_num, 
+                                "season": int(season_num), 
                                 "thetvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}", 
                                 "myanimelist url": await get_mal_url(SeasonMalID, None),
                                 "myanimelist": int(SeasonMalID),
@@ -440,9 +440,9 @@ async def map_anime():
                             })
                         else:
                             unmapped_seasons.append({
-                                "season": season_num, 
+                                "season": int(season_num), 
                                 "thetvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}",
-                                "thetvdb": season_id,
+                                "thetvdb": int(season_id),
                                 "previous malid": previousSeasonMalID
                             })
                             continue
@@ -531,7 +531,7 @@ async def map_anime():
                             record["thetvdb"] = int(ep_id)
                             mapped.append(record)
                         else:
-                            record["thetvdb"] = ep_id
+                            record["thetvdb"] = int(ep_id)
                             record["previous malid"] = previousSeasonMalID
                             unmapped_episodes.append(record)
                             continue
