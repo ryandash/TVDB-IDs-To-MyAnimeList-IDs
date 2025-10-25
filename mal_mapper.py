@@ -408,40 +408,27 @@ async def map_anime():
                     malurl = lookup[season_id][1]
                 else:
                     if season_num != "0":
-                        if season_num == "1":
-                            if not SeasonMalID and titles_to_try:
-                                for title in titles_to_try:
-                                    mid, _ = await get_best_mal_id(title, None, False)
-                                    if mid:
-                                        SeasonMalID = mid
-                                        break
-                            if SeasonMalID:
-                                episode_offset = 0
-                                mal_eps = await get_mal_episode_count(SeasonMalID)
-                                malurl = await get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
-
                         previousSeasonMalID = SeasonMalID
-                        if mal_eps and mal_eps == episode_offset:
-                            SeasonMalID = await get_mal_relations(SeasonMalID, total_episodes, season_title_eng or season_title_jpn)
-                            if not SeasonMalID and titles_to_try:
-                                for title in titles_to_try:
-                                    SeasonMalID, _ = await get_best_mal_id(title, None, False)
-                                    if SeasonMalID:
-                                        break
-                                
-                            print(f"Season found {SeasonMalID}")
-                            if SeasonMalID:
-                                episode_offset = 0
-                                mal_eps = await get_mal_episode_count(SeasonMalID)
-                                malurl = await get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
-                            # else:
-                            #     raise RuntimeError(f"This is a bug — logic failure in season mapping. Previous malid was {SeasonMalID}")
+                        if season_num != "1":
+                            if mal_eps and mal_eps == episode_offset:
+                                SeasonMalID = await get_mal_relations(SeasonMalID, total_episodes, season_title_eng or season_title_jpn)
                         
+                        if not SeasonMalID and titles_to_try:
+                            for title in titles_to_try:
+                                mid, _ = await get_best_mal_id(title, None, False)
+                                if mid:
+                                    SeasonMalID = mid
+                                    break
+                        if SeasonMalID:
+                            episode_offset = 0
+                            mal_eps = await get_mal_episode_count(SeasonMalID)
+                            malurl = await get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
+
                         if SeasonMalID and SeasonMalID not in lookup:
                             mapped.append({
                                 "season": season_num, 
                                 "thetvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}", 
-                                "myanimelist url": await get_mal_url(SeasonMalID, None),
+                                "myanimelist url": malurl,
                                 "myanimelist": int(SeasonMalID),
                                 "thetvdb": int(season_id)
                             })
