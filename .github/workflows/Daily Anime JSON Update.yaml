@@ -150,6 +150,10 @@ jobs:
           key: venv-${{ hashFiles('requirements.txt') }}
           restore-keys: venv-
 
+      - name: Check folders
+        run: |
+          ls -alR
+
       - name: Merge JSON files
         run: |
           source ~/.venv/bin/activate
