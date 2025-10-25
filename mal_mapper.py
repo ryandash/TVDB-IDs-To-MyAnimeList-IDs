@@ -410,6 +410,7 @@ async def map_anime():
                     if season_num != "0":
                         previousSeasonMalID = SeasonMalID
                         if season_num != "1":
+                            print(f"{mal_eps} {episode_offset}")
                             if mal_eps and mal_eps == episode_offset:
                                 SeasonMalID = await get_mal_relations(SeasonMalID, total_episodes, season_title_eng or season_title_jpn)
                         
