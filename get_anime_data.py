@@ -409,7 +409,10 @@ async def main():
 
     new_tvs = await get_new_anime(old_series, "all_tv_anime", "tv")
     new_onas = await get_new_anime(old_series, "all_ona_anime", "ona")
-    all_entries, all_new_series = await insert_new_entries_before_sequels(new_tvs + new_onas, old_series)
+    new_ovas = await get_new_anime(old_series, "all_ova_anime", "ova")
+    new_specials = await get_new_anime(old_series, "all_special_anime", "special")
+    tv_specials = await get_new_anime(old_series, "all_tv_special_anime", "tv_special")
+    all_entries, all_new_series = await insert_new_entries_before_sequels(new_tvs + new_onas + new_ovas + new_specials + tv_specials, old_series)
     await save_anime_json(series_json_path, all_entries)
 
     # --- SEARCH AND SAVE TO TVDB ---
