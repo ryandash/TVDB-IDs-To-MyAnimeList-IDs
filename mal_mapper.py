@@ -428,12 +428,13 @@ async def map_anime():
                             episode_offset = 0
                             mal_eps = await get_mal_episode_count(SeasonMalID)
                             changeSeason = False
+                            malurl = await get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
 
                         if SeasonMalID and SeasonMalID not in lookup:
                             mapped.append({
                                 "season": season_num, 
                                 "thetvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}", 
-                                "myanimelist url": await get_mal_url(SeasonMalID, None if total_episodes == 1 else 1),
+                                "myanimelist url": await get_mal_url(SeasonMalID, None),
                                 "myanimelist": int(SeasonMalID),
                                 "thetvdb": int(season_id)
                             })
