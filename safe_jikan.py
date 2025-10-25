@@ -154,6 +154,8 @@ class SafeJikan:
         data = await self._retry_on_failure(
             self.aio_jikan.anime, mal_id, extension="relations"
         )
+        if not data:
+            return None
 
         # Filter out any relation entries that are manga
         filtered_data = {
