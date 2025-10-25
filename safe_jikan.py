@@ -40,7 +40,7 @@ class SafeJikan:
     def __init__(self, request_delay: float = 0.5, max_concurrent: int = 10):
         self.request_delay = request_delay
         self.semaphore = asyncio.Semaphore(max_concurrent)
-        self.aio_jikan = AioJikan()
+        self.aio_jikan = AioJikan(timeout=60)
         self._last_request = 0.0
         self._lock = asyncio.Lock()
 
