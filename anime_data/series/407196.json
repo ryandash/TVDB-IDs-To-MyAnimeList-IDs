@@ -1,0 +1,50 @@
+{
+    "URL": "https://thetvdb.com/series/knyacki",
+    "Genres": [
+        "Animation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1978960/"
+    ],
+    "Titles": {
+        "eng": "Knyacki!",
+        "jpn": "Knyacki!"
+    },
+    "Summaries": {
+        "eng": "Two caterpillars investigate objects on a kitchen counter while searching for food. One of them finds a piece of pasta and is intrigued by the fact that there's a hole in the middle.\r\n\r\nThey are having fun until a big mean caterpillar arrives. It's time for a major show down...",
+        "jpn": "2つの毛虫が、食べ物を探している間、キッチンカウンターのオブジェクトを調査します。 そのうちの一人がパスタを見つけて、真ん中に穴が開いていることに興味をそそられました。\r\n\r\n彼らは大きな平均毛虫が到着するまで楽しんでいます。 メジャーショーダウンの時間です..."
+    },
+    "Aliases": [],
+    "Modified": "2021-07-20",
+    "Seasons": {
+        "1": {
+            "ID": "1944044",
+            "URL": "https://thetvdb.com/series/knyacki/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "8568362",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/knyacki/episodes/8568362",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Episode 1"
+                    },
+                    "Summaries": {
+                        "eng": null,
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

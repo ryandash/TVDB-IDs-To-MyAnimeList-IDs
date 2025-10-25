@@ -39,7 +39,7 @@ def collect_files(input_dir: Path, pattern: str) -> List[Path]:
 
 def merge_anime_data(input_dir: Path, repo_root: Path):
     """Move all anime_data JSONs into a single merged anime_data folder, preserving substructure."""
-    merged_dir = repo_root / "anime_data"
+    merged_dir = repo_root / "anime-data"
     merged_dir.mkdir(parents=True, exist_ok=True)
 
     categories = ["series", "movie"]

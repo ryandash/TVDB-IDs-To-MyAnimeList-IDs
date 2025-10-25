@@ -444,7 +444,7 @@ async def map_anime():
                                 "thetvdb": season_id,
                                 "previous malid": previousSeasonMalID
                             })
-                            break
+                            continue
     
                 mal_episode_counter = {}
                 for ep_num, ep_data in tqdm(episodes.items(), desc=f"    {season_id} Season {season_num} episodes", unit="ep", leave=False):
@@ -533,7 +533,7 @@ async def map_anime():
                             record["thetvdb"] = ep_id
                             record["previous malid"] = previousSeasonMalID
                             unmapped_episodes.append(record)
-                            break
+                            continue
 
         # Save progress after each series
         with open(mapped_out, "w", encoding="utf-8") as f:
