@@ -415,9 +415,10 @@ async def map_anime():
                                     if mid:
                                         SeasonMalID = mid
                                         break
-                            episode_offset = 0
-                            mal_eps = await get_mal_episode_count(SeasonMalID)
-                            malurl = await get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
+                            if SeasonMalID:
+                                episode_offset = 0
+                                mal_eps = await get_mal_episode_count(SeasonMalID)
+                                malurl = await get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
 
                         previousSeasonMalID = SeasonMalID
                         if mal_eps and mal_eps == episode_offset:
