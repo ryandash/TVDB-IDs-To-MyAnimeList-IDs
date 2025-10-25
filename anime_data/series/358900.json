@@ -1,0 +1,93 @@
+{
+    "URL": "https://thetvdb.com/series/magic-adventures-the-crystal-of-dark",
+    "Genres": [
+        "Animation",
+        "Children"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt24071130/"
+    ],
+    "Titles": {
+        "eng": "Magic Adventures - The Crystal of Dark",
+        "jpn": null
+    },
+    "Summaries": {
+        "eng": "",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2019-01-30",
+    "Seasons": {
+        "1": {
+            "ID": "796102",
+            "URL": "https://thetvdb.com/series/magic-adventures-the-crystal-of-dark/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "7015577",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/magic-adventures-the-crystal-of-dark/episodes/7015577",
+                    "Titles": {
+                        "eng": "Episode 1",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7015578",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/magic-adventures-the-crystal-of-dark/episodes/7015578",
+                    "Titles": {
+                        "eng": "Episode 2",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7015583",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/magic-adventures-the-crystal-of-dark/episodes/7015583",
+                    "Titles": {
+                        "eng": "Episode 3",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7015623",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/magic-adventures-the-crystal-of-dark/episodes/7015623",
+                    "Titles": {
+                        "eng": "Episode 4",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "URL": "https://thetvdb.com/series/hyper-doll",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0158664/",
+        "https://www.themoviedb.org/tv/44428",
+        "https://www.themoviedb.org/tv/44428"
+    ],
+    "Titles": {
+        "eng": "Hyper Doll",
+        "jpn": "楽勝!ハイパー♥ドール"
+    },
+    "Summaries": {
+        "eng": "Mew and Mica, two spacey alien androids, pose as cute high school students to conceal their identities as the most undependable dynamic duo ever sent to defend the Earth. The OVA follows the misadventures of Mew, Mica and their reluctant friend, Akai.",
+        "jpn": ""
+    },
+    "Aliases": [],
+    "Modified": "2024-12-21",
+    "Seasons": {
+        "1": {
+            "ID": "502603",
+            "URL": "https://thetvdb.com/series/hyper-doll/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4413017",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyper-doll/episodes/4413017",
+                    "Titles": {
+                        "eng": "The earth it, the earth is in a big bind",
+                        "jpn": "地球が地球が大ピンチ！"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4413018",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyper-doll/episodes/4413018",
+                    "Titles": {
+                        "eng": "Peace on earth, love humans!",
+                        "jpn": "地には平和を人には愛を！！"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

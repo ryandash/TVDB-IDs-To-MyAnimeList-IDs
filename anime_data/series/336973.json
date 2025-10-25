@@ -1,0 +1,785 @@
+{
+    "URL": "https://thetvdb.com/series/pingu-in-the-city",
+    "Genres": [
+        "Animation",
+        "Children",
+        "Comedy",
+        "Family"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt7498270/",
+        "http://www.nhk.or.jp/anime/pingu/",
+        "https://www.themoviedb.org/tv/74381",
+        "https://www.themoviedb.org/tv/74381"
+    ],
+    "Titles": {
+        "eng": "Pingu in the City",
+        "jpn": "ピングー in ザ・シティ"
+    },
+    "Summaries": {
+        "eng": "Pingu and his family move from their small village to the big city; in which there are many people with many different occupations. The ever-curious Pingu tries to join them at their jobs, but his mischievous side gets the better of him and he ends up messing things up.",
+        "jpn": "ピングーと彼の家族は彼らの小さな村から大都市に移動します。 多くの異なる職業を持つ多くの人々がいます。 好奇心旺盛なピングーは彼らの仕事に加わろうとしますが、彼のいたずら好きな側は彼を良くし、彼は物事を台無しにしてしまいます。"
+    },
+    "Aliases": [],
+    "Modified": "2024-06-05",
+    "Seasons": {
+        "1": {
+            "ID": "735456",
+            "URL": "https://thetvdb.com/series/pingu-in-the-city/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "6381993",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6381993",
+                    "Titles": {
+                        "eng": "Pingu Cooks Up A Treat",
+                        "jpn": "ピングーは御馳走を調理します"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu tries to help at a restaurant when the chef is away from his cooking!",
+                        "jpn": "ピングーは、シェフが料理から離れているときにレストランで手伝おうとします！"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6381994",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6381994",
+                    "Titles": {
+                        "eng": "Watch Your Step, Pingu!",
+                        "jpn": "ピングー、あなたのステップを見てください！"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu keeps an eye on a new pavement so nobody will leave any marks!",
+                        "jpn": "ピングーは新しい舗装を監視しているので、誰も跡を残しません！"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6381996",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6381996",
+                    "Titles": {
+                        "eng": "Pingu's Rules Of Babysitting",
+                        "jpn": "ピングーのベビーシッターのルール"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu is babysitting Pinga and her friend, and their game is getting out of hand!",
+                        "jpn": "ピンガはピンガと彼女の友達にベビーシッターをしていて、彼らのゲームは手に負えなくなっています！"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6381998",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6381998",
+                    "Titles": {
+                        "eng": "Pingu the Baker",
+                        "jpn": "ベイカーのピングー"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu tries being a baker and finds that people like his penguin-shaped bread!",
+                        "jpn": "ピングーはパン屋になろうとすると、ペンギンの形をしたパンが好きな人がいることに気づきます。"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6382000",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6382000",
+                    "Titles": {
+                        "eng": "Pingu the Super Substitute",
+                        "jpn": "ピングースーパーサブスティテュート"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu takes to the field when the captain of a soccer team is taken off with an injury!",
+                        "jpn": "サッカーチームのキャプテンが怪我をして離陸すると、ピングーがフィールドに登場！"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6405462",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6405462",
+                    "Titles": {
+                        "eng": "Pingu At Your Service",
+                        "jpn": "あなたのサービスでピングー"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu starts a brand-new delivery service while the restaurant is closed for renovations!",
+                        "jpn": "ピングーは、レストランが改装のため休業している間、新しい配達サービスを開始します！"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6412756",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6412756",
+                    "Titles": {
+                        "eng": "Power Up Pingu",
+                        "jpn": "ピングーをパワーアップ"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu and Pinga find out their neighbour can generate power when there is a powercut!",
+                        "jpn": "ピングーとピングーは、パワーカットがあったときに隣人が発電できることを知りました！"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6412757",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6412757",
+                    "Titles": {
+                        "eng": "Buzz Off!",
+                        "jpn": "消え失せる！"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu is looking after a flower shop and finds that it has unwelcome guests!",
+                        "jpn": "ピングーはフラワーショップの世話をしていて、歓迎されないゲストがいることに気づきました！"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6432132",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6432132",
+                    "Titles": {
+                        "eng": "Pingu the Hero!",
+                        "jpn": "ヒーローのピングー！"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu finds out that his new friend has a surprisingly good hidden talent!",
+                        "jpn": "ピングーは、彼の新しい友達が驚くほど優れた隠れた才能を持っていることを知りました！"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6432133",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6432133",
+                    "Titles": {
+                        "eng": "Flower Power",
+                        "jpn": "花の力"
+                    },
+                    "Summaries": {
+                        "eng": "The chef and the firefighter want to buy the best bunch of flowers for the girl who works at the shop!",
+                        "jpn": "シェフと消防士は、お店で働く女の子のために最高の花を買いたいと思っています！"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6454884",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6454884",
+                    "Titles": {
+                        "eng": "Let's Build An Igloo!",
+                        "jpn": "イグルーを作ろう！"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu struggles to build an igloo when he can't find ice blocks big enough, but luckily Robby is on hand to help.",
+                        "jpn": "ピングーは、十分な大きさの氷のブロックが見つからないときにイグルーを作るのに苦労しますが、幸いなことに、ロビーが手伝ってくれます。"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6470391",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6470391",
+                    "Titles": {
+                        "eng": "Pingu Saves Christmas.",
+                        "jpn": "ピングーはクリスマスを救います。"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu and Robby find Santa's sack and take it upon themselves to deliver the presents.",
+                        "jpn": "ピングーとロビーはサンタの袋を見つけて、プレゼントを届けるために自分たちでそれを受け取ります。"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "6476562",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6476562",
+                    "Titles": {
+                        "eng": "Pingu's Magnet Muddle",
+                        "jpn": "ピングーのマグネットマドル"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu decides to use his magnet to take the television remote from Pinga.",
+                        "jpn": "ピングーは彼の磁石を使ってテレビをピングーから遠ざけることにしました。"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "6508858",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6508858",
+                    "Titles": {
+                        "eng": "The Art of Baking",
+                        "jpn": "ベーキングの芸術"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu and friends try and help the baker sell his bread, but their efforts cause all sorts of trouble!",
+                        "jpn": "ピングーと友達はパン屋がパンを売るのを手伝おうとしますが、彼らの努力はあらゆる種類の問題を引き起こします！"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "6508859",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6508859",
+                    "Titles": {
+                        "eng": "Mama's Birthday Surprise",
+                        "jpn": "ママの誕生日サプライズ"
+                    },
+                    "Summaries": {
+                        "eng": "It's Mama's surprise birthday party, but can Pingu keep the celebration a secret?",
+                        "jpn": "ママのサプライズバースデーパーティーですが、ピングーはお祝いを秘密にしておくことができますか？"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "6508860",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6508860",
+                    "Titles": {
+                        "eng": "Pingu Takes Flight",
+                        "jpn": "ピングーが飛び立つ"
+                    },
+                    "Summaries": {
+                        "eng": "An inventor makes Pingu's dream of flying come true, but how safe is the flying machine he's built?",
+                        "jpn": "発明者はピングーの飛行の夢を実現させましたが、彼が作った飛行機械はどれほど安全ですか？"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "6528309",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6528309",
+                    "Titles": {
+                        "eng": "Pingu Glides to Fame",
+                        "jpn": "ピングーグライドトゥフェイム"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu and Pinga begin figure skating after watching skaters at the rink. As the crowd cheers them on, the two take their ice show into the city, where the residents join in.",
+                        "jpn": "ピングーとピンガは、スケートリンクでスケーターを見た後、フィギュアスケートを始めます。 群衆が彼らを応援すると、2人はアイスショーを街に持ち込み、そこで住民が参加します。"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "6528312",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6528312",
+                    "Titles": {
+                        "eng": "Pingu Plugs a Leak",
+                        "jpn": "ピングープラグリーク"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu and the carpenter try to fix a water leak, but their early success only seems to cause bigger problems!",
+                        "jpn": "ピングーと大工は水漏れを直そうとしますが、彼らの初期の成功はより大きな問題を引き起こすだけのようです！"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "6561025",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6561025",
+                    "Titles": {
+                        "eng": "Pingu and Pinga Fashionistas",
+                        "jpn": "ピングーとピングーファッショニスタ"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu and Pinga use the inventors knitting machine to make clothes for themselves, but without the inventor's permission!",
+                        "jpn": "ピンガとピンガは発明者の編機を使って自分たちで服を作っていますが、発明者の許可はありません！"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "6570047",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6570047",
+                    "Titles": {
+                        "eng": "Keep it up Pingu!",
+                        "jpn": "ピングーを続けて！"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu tries to learn to juggle a football, but his efforts put him in terrible trouble!",
+                        "jpn": "ピングーはサッカーのジャグリングを学ぼうとしますが、彼の努力は彼をひどいトラブルに巻き込みました！"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "6570048",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6570048",
+                    "Titles": {
+                        "eng": "Pingu's Catch of the Day",
+                        "jpn": "ピングーの今日のキャッチ"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu starts catching fish to help with the chef's new outdoor restaurant, but Robby keeps eating the catch!",
+                        "jpn": "ピングーはシェフの新しい屋外レストランを手伝うために魚を捕まえ始めますが、ロビーは捕まえたものを食べ続けます！"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "6595438",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6595438",
+                    "Titles": {
+                        "eng": "Stop That Mail!",
+                        "jpn": "そのメールを止めろ！"
+                    },
+                    "Summaries": {
+                        "eng": "Papa has caught a cold and can't deliver the mail, so Pingu is doing it for him on a skateboard the inventor made!",
+                        "jpn": "パパは風邪を引いて郵便物を届けられないので、ピングーは発明者が作ったスケートボードで彼のためにそれをやっています！"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "6595442",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6595442",
+                    "Titles": {
+                        "eng": "Sticking Together",
+                        "jpn": "一緒にくっつく"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu and Pinga use some special glue to fix a toy aeroplane, but soon find out they may have stuck more than just the toy!",
+                        "jpn": "ピングーとピンガはおもちゃの飛行機を固定するためにいくつかの特別な接着剤を使用していますが、すぐに彼らがおもちゃ以上のものを貼り付けた可能性があることがわかります！"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "6595444",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6595444",
+                    "Titles": {
+                        "eng": "Special Delivery for Pingu",
+                        "jpn": "ピングの特別配達"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu helps his dad deliver the mail, but Pinga gets jealous over who gets to wear Papa's postman hat.",
+                        "jpn": "ピングーはお父さんが郵便物を配達するのを手伝いますが、ピングーはパパの郵便配達員の帽子をかぶる人に嫉妬します。"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "6612512",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6612512",
+                    "Titles": {
+                        "eng": "Everyone's a Winner",
+                        "jpn": "誰もが勝者です"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu, Robby, and Pingu's friend compete to see who can go fastest on their different snow sports equipment. Who will it be?",
+                        "jpn": "ピングー、ロビー、ピングーの友人は、さまざまなスノースポーツ用品で誰が最速で走れるかを競います。 誰になりますか？"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "6612514",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6612514",
+                    "Titles": {
+                        "eng": "Growing Pains",
+                        "jpn": "成長痛"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu and Pinga both plant seeds from the flower shop, but Pingu gets upset when only Pinga's seeds sprout!",
+                        "jpn": "ピングーとピングーはどちらもフラワーショップから種を蒔きますが、ピングーはピングーの種だけが芽を出すと動揺します！"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "779996",
+            "URL": "https://thetvdb.com/series/pingu-in-the-city/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "6838330",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6838330",
+                    "Titles": {
+                        "eng": "Fire Fighter Training is Tough!",
+                        "jpn": "消防訓練は大変だ！"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu is learning how to be a firefighter, but he's not having an easy time of it.",
+                        "jpn": "ピングーは消防士になる方法を学んでいますが、彼はそれを簡単に楽しむことができません。"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6863909",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6863909",
+                    "Titles": {
+                        "eng": "A Mysterious Helper",
+                        "jpn": "不思議なヘルパー"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu goes on an exciting adventure to the bottom of the ocean.",
+                        "jpn": "ピングーは海底へのエキサイティングな冒険に出かけます。"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6863910",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6863910",
+                    "Titles": {
+                        "eng": "Grandfather's Here!",
+                        "jpn": "おじいさんはここに！"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu's grandfather comes to the city for a visit, and Pingu and Pinga think he's lonely.",
+                        "jpn": "ピングーの祖父が街を訪れ、ピングーとピングーは彼が孤独だと思っています。"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6863911",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6863911",
+                    "Titles": {
+                        "eng": "The Naughty Tram Passenger",
+                        "jpn": "いたずらトラムの乗客"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu goes on a journey on the tram, and tries to scare some seagulls away from the roof.",
+                        "jpn": "ピングーは路面電車で旅に出て、カモメを屋根から怖がらせようとします。"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6881363",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6881363",
+                    "Titles": {
+                        "eng": "A Mysterious Creature Appears!",
+                        "jpn": "不思議な生き物が登場！"
+                    },
+                    "Summaries": {
+                        "eng": "There's a rumour that a creature is living in the snowy caves near Pingu's house.",
+                        "jpn": "ピングーの家の近くの雪に覆われた洞窟に生き物が住んでいるという噂があります。"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6899489",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6899489",
+                    "Titles": {
+                        "eng": "Pingu's Jam Session",
+                        "jpn": "ピングーのジャムセッション"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu and the family go to a restaurant, where a jazz band is playing for the diners.",
+                        "jpn": "ピングーとその家族はレストランに行き、そこでジャズバンドが食事をします。"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6899495",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6899495",
+                    "Titles": {
+                        "eng": "Say Cheese!",
+                        "jpn": "はい、チーズ！"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu gets a new camera and uses it to take pictures of the residents of the city.",
+                        "jpn": "ピングーは新しいカメラを手に入れ、それを使って街の住民の写真を撮ります。"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6916487",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6916487",
+                    "Titles": {
+                        "eng": "What's Inside?",
+                        "jpn": "中身は？"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu is invited to help on the packing line at a fish-canning company.",
+                        "jpn": "ピングーは、魚の缶詰会社の梱包ラインを手伝うよう招待されています。"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6916488",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6916488",
+                    "Titles": {
+                        "eng": "The Big Blue Chase",
+                        "jpn": "ビッグブルーチェイス"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu chases a thief who stole a bag, but accidentally gets covered in blue paint.",
+                        "jpn": "ピングーは鞄を盗んだ泥棒を追いかけますが、誤って青い絵の具で覆われてしまいます。"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6932139",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6932139",
+                    "Titles": {
+                        "eng": "Pingu's Space Adventures",
+                        "jpn": "ピングーの宇宙冒険"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu gets some astronaut training, but he gets sent in to space before he's ready!",
+                        "jpn": "ピングーは宇宙飛行士の訓練を受けていますが、準備が整う前に宇宙に送られます。"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6932141",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6932141",
+                    "Titles": {
+                        "eng": "Helping a New Friend",
+                        "jpn": "新しい友達を助ける"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu and Pinga try helping penguins in need.",
+                        "jpn": "ピングーとピンガは困っているペンギンを助けようとします。"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6932143",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6932143",
+                    "Titles": {
+                        "eng": "Pingu & The Egg",
+                        "jpn": "ピングーと卵"
+                    },
+                    "Summaries": {
+                        "eng": "When Pingu is asked to watch over some eggs, the eggs end up going all over the city.",
+                        "jpn": "ピングーがいくつかの卵を見守るように頼まれたとき、卵は街中を行き来することになります。"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "6967394",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6967394",
+                    "Titles": {
+                        "eng": "Pingu Makes a Movie!",
+                        "jpn": "ピングーが映画を作る！"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu attempts to make a movie, but finds it harder than he imagined.",
+                        "jpn": "ピングーは映画を作ろうとしますが、想像以上に難しいと感じています。"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "6967396",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6967396",
+                    "Titles": {
+                        "eng": "Pingu is a Rock Star!",
+                        "jpn": "ピングーはロックスターです！"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu and his friends form a band for a talent show.",
+                        "jpn": "ピングーと彼の友達はタレントショーのバンドを結成しています。"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "6988723",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6988723",
+                    "Titles": {
+                        "eng": "Household Helping Hands",
+                        "jpn": "家庭の救いの手"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu and Pinga look after the house when their mum and dad are ill.",
+                        "jpn": "ピングーとピンガは、お母さんとお父さんが病気のときに家の世話をします。"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "6988725",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/6988725",
+                    "Titles": {
+                        "eng": "Pingu The Wig Maker!",
+                        "jpn": "ピングーウィッグメーカー！"
+                    },
+                    "Summaries": {
+                        "eng": "The Inventor creates a wig machine, and Pingu starts his own salon with it.",
+                        "jpn": "発明者はかつらマシンを作成し、ピングーはそれを使って自分のサロンを始めます。"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "7010086",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/7010086",
+                    "Titles": {
+                        "eng": "Pingu On Patrol!",
+                        "jpn": "パトロールのピングー！"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu is appointed to a junior police officer after he catches a penguin littering, but he takes it too far in patrolling the city.",
+                        "jpn": "ピングーはペンギンのポイ捨てを捕まえた後、後輩の警官に任命されたが、街を巡視するのに行き過ぎた。"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "7020720",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/7020720",
+                    "Titles": {
+                        "eng": "Pingu's Frozen Discovery",
+                        "jpn": "ピングーの冷凍ディスカバリー"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu and the Inventor find a fossil inside some ice.",
+                        "jpn": "ピングーと発明者は氷の中に化石を見つけました。"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "7020725",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/7020725",
+                    "Titles": {
+                        "eng": "Pingu's Treasure Hunt",
+                        "jpn": "ピングーのトレジャーハント"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu's dad sets up a treasure hunt for Pingu and Pinga to solve.",
+                        "jpn": "ピングーのお父さんは、ピングーとピングーが解決するための宝探しを設定します。"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "7045465",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/7045465",
+                    "Titles": {
+                        "eng": "Voyage to the Moon",
+                        "jpn": "月世界旅行"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu and Robby make a spaceship in the back garden and let their imagination take over.",
+                        "jpn": "ピングーとロビーは裏庭で宇宙船を作り、想像力をかき立てます。"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "7045467",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/7045467",
+                    "Titles": {
+                        "eng": "Pingu's Traffic Dance",
+                        "jpn": "ピングーのトラフィックダンス"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu helps out the police by directing traffic after an accident causes a traffic jam.",
+                        "jpn": "ピングーは、事故が交通渋滞を引き起こした後、交通を誘導することによって警察を助けます。"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "7067574",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/7067574",
+                    "Titles": {
+                        "eng": "I want to be on TV!",
+                        "jpn": "テレビに出演したい！"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu decides to do anything it takes to get himself on the small screen.",
+                        "jpn": "ピングーは、小さな画面に身を置くために必要なことは何でもすることにしました。"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "7067748",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/7067748",
+                    "Titles": {
+                        "eng": "Flea Market",
+                        "jpn": "フリーマーケット"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu's family struggle to sell their junk at the flea market.",
+                        "jpn": "ピングーの家族は、フリーマーケットでジャンクを売るのに苦労しています。"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "7091100",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/7091100",
+                    "Titles": {
+                        "eng": "Pingu the Living Statue",
+                        "jpn": "生きている像のピングー"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu accidentally breaks a new statue and comes up with an innovative replacement.",
+                        "jpn": "ピングーは誤って新しい彫像を壊し、革新的な代替品を思い付きます。"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "7091101",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/7091101",
+                    "Titles": {
+                        "eng": "Pingu's Snack Attack",
+                        "jpn": "ピングーのスナック攻撃"
+                    },
+                    "Summaries": {
+                        "eng": "Pingu sets a trap for a pesky seagull who has been stealing his treats.",
+                        "jpn": "ピングーは、おやつを盗んでいる厄介なカモメに罠を仕掛けます。"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "7091102",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pingu-in-the-city/episodes/7091102",
+                    "Titles": {
+                        "eng": "Pingu the Conductor",
+                        "jpn": "コンダクターのピングー"
+                    },
+                    "Summaries": {
+                        "eng": "A concert performance inspires Pingu to put on his own musical show.",
+                        "jpn": "コンサートのパフォーマンスは、ピングーに彼自身のミュージカルショーを行うように促します。"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

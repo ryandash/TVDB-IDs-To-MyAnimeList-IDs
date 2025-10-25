@@ -1,0 +1,145 @@
+{
+    "URL": "https://thetvdb.com/series/queen-emeraldas",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0184844/",
+        "https://www.themoviedb.org/tv/82182"
+    ],
+    "Titles": {
+        "eng": "Queen Emeraldas",
+        "jpn": "クイーン・エメラルダス"
+    },
+    "Summaries": {
+        "eng": "The story revolves around a race that seeks to dominate the galaxy. A lone mysterious female warrior, known to others as Emeraldas sails the endless planets of the universe- in her Seas of Star ship- fighting the tyranny of that merciless race. She is tormented by the memory of her lost love.",
+        "jpn": ""
+    },
+    "Aliases": [],
+    "Modified": "2024-09-13",
+    "Seasons": {
+        "0": {
+            "ID": "544164",
+            "URL": "https://thetvdb.com/series/queen-emeraldas/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "spa": "Especiales"
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null,
+                "spa": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "5565340",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/queen-emeraldas/episodes/5565340",
+                    "Titles": {
+                        "eng": "Mii, the Tabby (1) - Mii-Kun of the Oyama Residence",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5565341",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/queen-emeraldas/episodes/5565341",
+                    "Titles": {
+                        "eng": "Mii, the Tabby (2) - Chibi Tora",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "291281",
+            "URL": "https://thetvdb.com/series/queen-emeraldas/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "spa": "Temporada 1"
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null,
+                "spa": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "2582111",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/queen-emeraldas/episodes/2582111",
+                    "Titles": {
+                        "eng": "Departure",
+                        "jpn": "無限への旅発ち ～DEPARTURE～"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2582101",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/queen-emeraldas/episodes/2582101",
+                    "Titles": {
+                        "eng": "Eternal Emblem",
+                        "jpn": "不滅の紋章 ～ETERNAL EMBLEM～"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "2582121",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/queen-emeraldas/episodes/2582121",
+                    "Titles": {
+                        "eng": "Friendship",
+                        "jpn": "宿命の絆 ～FRIENDSHIP～"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "2582131",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/queen-emeraldas/episodes/2582131",
+                    "Titles": {
+                        "eng": "Siren",
+                        "jpn": "サイレンの女神 ～SIREN～"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
