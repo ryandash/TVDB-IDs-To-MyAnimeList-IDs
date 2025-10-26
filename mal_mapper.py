@@ -366,17 +366,22 @@ async def map_anime():
                             break
                 
             all_titles = list(dict.fromkeys(all_titles))
-                
+            
+            if category == "movie":
+                series_tvdb_url = f"https://www.thetvdb.com/dereferrer/movie/{series_id}",
+            else:
+                series_tvdb_url = f"https://www.thetvdb.com/dereferrer/series/{series_id}",
+
             if malid and should_append:
                 mapped.append({
-                    "thetvdb url": f"https://www.thetvdb.com/dereferrer/series/{series_id}",
+                    "thetvdb url": series_tvdb_url,
                     "myanimelist url": await get_mal_url(malid, None),
                     "myanimelist": int(malid),
                     "thetvdb": int(series_id)
                 })
             elif not malid:
                 unmapped_series.append({
-                    "thetvdb url":f"https://www.thetvdb.com/dereferrer/series/{series_id}",
+                    "thetvdb url":series_tvdb_url,
                     "thetvdb": series_id,
                     "search term": series_titles_to_try,
                     "aliases": series_aliases,
@@ -430,10 +435,11 @@ async def map_anime():
                             changeSeason = False
                             malurl = await get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
 
+                        season_tvdb_url = f"https://www.thetvdb.com/dereferrer/season/{season_id}"
                         if SeasonMalID and SeasonMalID not in lookup:
                             mapped.append({
                                 "season": int(season_num), 
-                                "thetvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}", 
+                                "thetvdb url": season_tvdb_url, 
                                 "myanimelist url": await get_mal_url(SeasonMalID, None),
                                 "myanimelist": int(SeasonMalID),
                                 "thetvdb": int(season_id)
@@ -441,7 +447,7 @@ async def map_anime():
                         else:
                             unmapped_seasons.append({
                                 "season": int(season_num), 
-                                "thetvdb url": f"https://www.thetvdb.com/dereferrer/season/{season_id}",
+                                "thetvdb url": season_tvdb_url,
                                 "thetvdb": int(season_id),
                                 "previous malid": previousSeasonMalID
                             })
