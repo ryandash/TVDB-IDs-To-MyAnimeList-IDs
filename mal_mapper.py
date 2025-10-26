@@ -367,10 +367,7 @@ async def map_anime():
                 
             all_titles = list(dict.fromkeys(all_titles))
             
-            if category == "movie":
-                series_tvdb_url = f"https://www.thetvdb.com/dereferrer/movie/{series_id}",
-            else:
-                series_tvdb_url = f"https://www.thetvdb.com/dereferrer/series/{series_id}",
+            series_tvdb_url = f"https://www.thetvdb.com/dereferrer/{category}/{series_id}"
 
             if malid and should_append:
                 mapped.append({
