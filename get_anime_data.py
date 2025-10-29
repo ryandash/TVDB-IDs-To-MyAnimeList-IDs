@@ -361,6 +361,8 @@ async def search_and_save_tvdb_hits(key: str, anime_list: list[MinimalAnime]):
 
                     if success:
                         break
+                if success:
+                    break
 
     print("\nAll matches saved to min_map_data/movie/ and min_map_data/series/ directories.")
 
