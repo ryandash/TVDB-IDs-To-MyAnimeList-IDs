@@ -289,13 +289,14 @@ def build_titles_to_try(main_eng, main_jpn, series_eng, series_jpn):
     if main_jpn and series_jpn and series_jpn not in main_jpn:
         main_jpn = f"{series_jpn} {main_jpn}"
 
-    if main_eng:
-        if main_jpn:
-            return [main_eng, main_jpn]
-        return [main_eng]
+    # Prioritize Japanese title first
+    titles = []
     if main_jpn:
-        return [main_jpn]
-    return []
+        titles.append(main_jpn)
+    if main_eng:
+        titles.append(main_eng)
+
+    return titles
 
 # ----------------------
 # Mapping
@@ -356,7 +357,7 @@ async def map_anime():
                 for anime_type in types:
                     if malid:
                         break
-                    series_titles_to_try = [series_title_eng, series_title_jpn] + series_aliases
+                    series_titles_to_try = [series_title_jpn, series_title_eng] + series_aliases
                     # Try main title first
                     for title in filter(None, series_titles_to_try):
                         mid, titles = await get_best_mal_id(title, anime_type, False)
