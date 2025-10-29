@@ -44,9 +44,7 @@ class SafeJikan:
         self._last_request = 0.0
         self._lock = asyncio.Lock()
 
-        # Multi-tier limiter like the C# one
         self.limiter = TaskLimiter([
-            TaskLimiterConfiguration(1, 0.3),   # at least 300ms between requests
             TaskLimiterConfiguration(3, 1.0),   # max 3 requests per second
             TaskLimiterConfiguration(4, 4.0),   # baseline limit (60/min)
         ])
@@ -74,15 +72,10 @@ class SafeJikan:
             except exceptions.APIException as e:
                 # Handle Jikan rate limit gracefully
                 code = getattr(e, "status_code", getattr(e, "code", None))
-                if code == 429:
+                if code in (429, 500):
                     attempt += 1
-                    print(f"[Jikan] Rate-limited (attempt {attempt}). Sleeping {delay:.1f}s...")
-                    await asyncio.sleep(delay)
-                    delay = min(delay * 1.5, max_delay)
-                    continue
-                elif code == 500:
-                    attempt += 1
-                    print(f"[Jikan] Upstream timeout (attempt {attempt}). Retrying in {delay:.1f}s...")
+                    reason = "Rate-limited" if code == 429 else "Server error 500"
+                    print(f"[Jikan] {reason} (attempt {attempt}). Retrying in {delay:.1f}s...")
                     await asyncio.sleep(delay)
                     delay = min(delay * 1.5, max_delay)
                     continue
@@ -141,12 +134,8 @@ class SafeJikan:
         if not isinstance(mal_id, int) or mal_id <= 0:
             raise ValueError("mal_id must be a positive integer.")
 
-        if episode_number is not None:
-            return await self._retry_on_failure(
-                self.aio_jikan.anime_episode_by_id,
-                mal_id,
-                episode_number,
-            )
+        if episode_number:
+            return await self._retry_on_failure(self.aio_jikan.anime_episode_by_id, mal_id, episode_number)
 
         return await self._retry_on_failure(self.aio_jikan.anime, mal_id)
 
@@ -158,7 +147,7 @@ class SafeJikan:
             return None
 
         # Filter out any relation entries that are manga
-        filtered_data = {
+        return {
             "data": [
                 {
                     "relation": rel["relation"],
@@ -168,8 +157,6 @@ class SafeJikan:
                 if any(e["type"].lower() != "manga" for e in rel["entry"])
             ]
         }
-
-        return filtered_data
 
     async def close(self):
         await self.aio_jikan.close()

@@ -65,7 +65,6 @@ def get_file_lock(path: Path):
         file_locks[path] = asyncio.Lock()
     return file_locks[path]
 
-JIKAN = SafeJikan()
 # -----------------------------
 # Get Latest Algolia Key
 # -----------------------------
@@ -117,8 +116,8 @@ async def get_new_anime(existing_anime: List, meta_file: str | None, type_: str)
     if previously_fetched >= total_from_jikan:
         print("No new entries from Jikan.")
         await update_meta(meta_path, total_from_jikan, per_page)
-        # return existing_anime # For troubleshooting
-        return []
+        return existing_anime # For troubleshooting
+        # return []
 
     remaining = total_from_jikan - previously_fetched
     start_page = (previously_fetched // per_page) + 1
@@ -398,6 +397,9 @@ async def save_anime_json(path: Path, anime_list: List[MinimalAnime]):
 # Main
 # -----------------------------
 async def main():
+    global JIKAN
+    JIKAN = SafeJikan()
+
     key = await get_latest_algolia_key()
 
     # --- MOVIES ---
