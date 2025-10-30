@@ -138,43 +138,63 @@ async def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, vis
         return None
 
     relations = data.get("data", [])
-    sequel_id = None
+    if not relations:
+        return None
+    
+    anime_cache = {}
 
-    if season_title is not None:
-        # --- Step 1: Prefer relation entry whose name matches season_title ---
-        normalized_title = normalize_text(season_title)
-        for rel in relations:
-            for e in rel.get("entry", []):
-                name = e.get("name", "")
-                if fuzz.ratio(normalize_text(name), normalized_title) >= 90:
-                    sequel_id = e["mal_id"]
-                    print(f"Matched season title '{season_title}' in relation '{e['name']}' (relation: {rel.get('relation')})")
-                    break
-            if sequel_id:
-                break
-        if sequel_id:
-            return sequel_id
+    normalized_title = normalize_text(season_title) if season_title else None
 
-    # --- Step 2: Fallback to Sequel if no name match found ---
-    if not sequel_id:
-        sequel_id = next(
-            (e["mal_id"] for rel in relations
-            if rel.get("relation") == "Sequel"
-            for e in rel.get("entry", [])),
-            None
-    )
+    title_match_id = None
+    sequel_candidates = []
+
+    for rel in relations:
+        relation_type = rel.get("relation")
+
+        for e in rel.get("entry", []):
+            rel_id = int(e["mal_id"])
+
+            # Fetch anime info once
+            if rel_id not in anime_cache:
+                anime_data = await safe_jikan.get_anime(rel_id)
+                if not anime_data:
+                    continue
+                anime_cache[rel_id] = anime_data.get("data", {})
+
+            anime_info = anime_cache[rel_id]
+            anime_type = anime_info.get("type", "").lower() or ""
+            titles = [normalize_text(t["title"]) for t in anime_info.get("titles", []) if "title" in t]
+
+            # --- Step 1: Title match ---
+            if normalized_title:
+                if any(fuzz.ratio(t, normalized_title) >= 90 for t in titles):
+                    title_match_id = rel_id
+                    print(f"Matched season title '{season_title}' in relation '{e.get('name', '')}' (relation: {relation_type})")
+                    break  # stop once a title match is found
+        if title_match_id:
+            break  # stop outer loop too
+
+        # --- Step 2: Track sequel candidates for fallback ---
+        if relation_type == "Sequel":
+            sequel_candidates.append((rel_id, anime_type))
+
+    # Prefer title match if found
+    if title_match_id:
+        sequel_id = title_match_id
+    else:
+        # Fallback: choose best sequel by type priority
+        type_priority = {"tv": 3, "ona": 2, "ova": 1}
+        sequel_id = max(sequel_candidates, key=lambda x: type_priority.get(x[1], 0))[0] if sequel_candidates else None
 
     if not sequel_id:
         return None
 
-    # --- Step 3: Validate and possibly recurse ---
-    mal_eps = None
-    data = await safe_jikan.get_anime(sequel_id)
-    if not data:
-        return None
-    anime_info = data.get("data", {})
-    # Step 3: Extract type and episodes
-    anime_type = anime_info.get("type")           # e.g., "TV", "Movie", "OVA"
+    anime_info = anime_cache.get(sequel_id)
+    if not anime_info:
+        data = await safe_jikan.get_anime(sequel_id)
+        anime_info = data.get("data", {}) if data else {}
+
+    anime_type = anime_info.get("type")
     eps = anime_info.get("episodes")
     mal_eps = eps if isinstance(eps, int) else 0
 
@@ -417,7 +437,7 @@ async def map_anime():
                         if season_num != "1":
                             if mal_eps and mal_eps == episode_offset:
                                 changeSeason = True
-                                SeasonMalID = await get_mal_relations(SeasonMalID, total_episodes, season_title_eng or season_title_jpn)
+                                SeasonMalID = await get_mal_relations(SeasonMalID, total_episodes, season_title_jpn or season_title_eng)
                         
                         if not SeasonMalID and titles_to_try:
                             for title in titles_to_try:
