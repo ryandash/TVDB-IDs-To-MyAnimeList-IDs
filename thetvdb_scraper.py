@@ -305,20 +305,9 @@ async def scrape_season(session: aiohttp.ClientSession, season_url: str, numEpis
         ep_id = href.rstrip("/").split("/")[-1]
         ep_infos.append((ep_id, full_url, ep_num))
 
-    if ep_infos:
-        # --- Limit to 5 episodes at a time ---
-        MAX_EPISODES_PER_BATCH = 4
-        total_eps = len(ep_infos)
-
-        for i in range(0, total_eps, MAX_EPISODES_PER_BATCH):
-            batch = ep_infos[i:i + MAX_EPISODES_PER_BATCH]
-            await asyncio.gather(*(
-                scrape_episode(session, ep_info, existing_eps)
-                for ep_info in batch
-            ))
-            # Optional: Add a slight delay between batches to reduce request load
-            if i + MAX_EPISODES_PER_BATCH < total_eps:
-                await asyncio.sleep(0.5)
+    for ep_info in ep_infos:
+        await scrape_episode(session, ep_info, existing_eps)
+        await asyncio.sleep(0.5)
 
     # --- Sort seasons by Season Number ---
     other_keys = {k: v for k, v in season_dict.items() if k != "Episodes"}
