@@ -134,60 +134,43 @@ async def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, vis
     visited.add(mal_id)
 
     data = await safe_jikan.get_anime_relations(mal_id)
-    if not data:
-        return None
-
-    relations = data.get("data", [])
+    relations = data.get("data", []) if data else []
     if not relations:
         return None
     
-    anime_cache = {}
-
     normalized_title = normalize_text(season_title) if season_title else None
-
+    anime_cache: dict[int, dict] = {}
     title_match_id = None
-    sequel_candidates = []
+    sequel_candidates: list[tuple[int, str]] = []
 
-    for rel in relations:
-        relation_type = rel.get("relation")
+    sequel_entries = [
+        (int(e["mal_id"]), e.get("name", ""))
+        for rel in relations if rel.get("relation") == "Sequel"
+        for e in rel.get("entry", [])
+    ]
 
-        for e in rel.get("entry", []):
-            rel_id = int(e["mal_id"])
-            print(f"integer: {rel_id} original: {e["mal_id"]}")
-            print(f"old: {mal_id} new: {rel_id}")
+    for rel_id, rel_name in sequel_entries:
+        if rel_id not in anime_cache:
+            anime_data = await safe_jikan.get_anime(rel_id)
+            if not anime_data or "data" not in anime_data:
+                continue
+            anime_cache[rel_id] = anime_data["data"]
 
-            # Fetch anime info once
-            if rel_id not in anime_cache:
-                anime_data = await safe_jikan.get_anime(rel_id)
-                if not anime_data:
-                    continue
-                data = anime_data.get("data")
-                if not data:
-                    raise
-                anime_cache[rel_id] = data
+        anime_info = anime_cache[rel_id]
+        anime_type = (anime_info.get("type") or "").lower()
+        sequel_candidates.append((rel_id, anime_type))
 
-            anime_info = anime_cache[rel_id]
-            anime_type = anime_info.get("type", "").lower() or ""
+        # Step 1: check for title match
+        if normalized_title:
             titles = [normalize_text(t["title"]) for t in anime_info.get("titles", []) if "title" in t]
+            if any(fuzz.ratio(t, normalized_title) >= 90 for t in titles):
+                title_match_id = rel_id
+                print(f"Matched season title '{season_title}' in relation '{rel_name}'")
+                break
 
-            # --- Step 1: Title match ---
-            if normalized_title:
-                if any(fuzz.ratio(t, normalized_title) >= 90 for t in titles):
-                    title_match_id = rel_id
-                    print(f"Matched season title '{season_title}' in relation '{e.get('name', '')}' (relation: {relation_type})")
-                    break  # stop once a title match is found
-        if title_match_id:
-            break  # stop outer loop too
-
-        # --- Step 2: Track sequel candidates for fallback ---
-        if relation_type == "Sequel":
-            sequel_candidates.append((rel_id, anime_type))
-
-    # Prefer title match if found
     if title_match_id:
         sequel_id = title_match_id
     else:
-        # Fallback: choose best sequel by type priority
         type_priority = {"tv": 3, "ona": 2, "ova": 1}
         sequel_id = max(sequel_candidates, key=lambda x: type_priority.get(x[1], 0))[0] if sequel_candidates else None
 
@@ -199,11 +182,11 @@ async def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, vis
         data = await safe_jikan.get_anime(sequel_id)
         anime_info = data.get("data", {}) if data else {}
 
+    mal_eps = anime_info.get("episodes") if isinstance(anime_info.get("episodes"), int) else 0
     anime_type = anime_info.get("type")
-    eps = anime_info.get("episodes")
-    mal_eps = eps if isinstance(eps, int) else 0
 
     print(f"New mal id {sequel_id} mal_eps: {mal_eps} offset_eps: {offset_eps}")
+
     if (mal_eps < offset_eps and mal_eps == 1) or (anime_type == "Special"):
         return await get_mal_relations(sequel_id, offset_eps, season_title, visited)
 
