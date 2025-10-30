@@ -1,0 +1,77 @@
+{
+    "URL": "https://thetvdb.com/series/onizushi",
+    "Genres": [
+        "Animation",
+        "Comedy"
+    ],
+    "Other Sites": [],
+    "Titles": {
+        "eng": "Onizushi",
+        "jpn": "オニズシ"
+    },
+    "Summaries": {
+        "eng": "A comedy series that pits the inhabitants of a Japanese sushi restaurant against a gaggle of greedy oni.",
+        "jpn": ""
+    },
+    "Aliases": [],
+    "Modified": "2018-05-21",
+    "Seasons": {
+        "1": {
+            "ID": "765511",
+            "URL": "https://thetvdb.com/series/onizushi/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "6696603",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/onizushi/episodes/6696603",
+                    "Titles": {
+                        "eng": "Episode 1",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6696606",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/onizushi/episodes/6696606",
+                    "Titles": {
+                        "eng": "Episode 2",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6696609",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/onizushi/episodes/6696609",
+                    "Titles": {
+                        "eng": "Episode 3",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

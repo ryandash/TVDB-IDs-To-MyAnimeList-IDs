@@ -1,0 +1,107 @@
+{
+    "URL": "https://thetvdb.com/series/isshoni-training",
+    "Genres": [
+        "Animation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt7428470/"
+    ],
+    "Titles": {
+        "eng": "Isshoni Training",
+        "jpn": "いっしょにとれーにんぐ TRAINING WITH HINAKO"
+    },
+    "Summaries": {
+        "eng": "\"First muscle training animation ever,\" a 16-year-old girl named Hinako leads exercises in push-ups, sit-ups, and squats. Hinako was once a human, but she was turned into an anime character when she was a second-year middle-school student.",
+        "jpn": "前代未聞の筋トレ用アニメーション! 種目は誰でも知っている「腕立て」「腹筋」「スクワット」の3種類。また、特典映像としてコスチュームや音楽、回数などが異なる30種類以上のバリエーションを用意しており、「ひなこ」との毎日の筋トレタイムを飽きずに楽しめます。"
+    },
+    "Aliases": [],
+    "Modified": "2022-09-11",
+    "Seasons": {
+        "0": {
+            "ID": "539193",
+            "URL": "https://thetvdb.com/series/isshoni-training/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "3578471",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/isshoni-training/episodes/3578471",
+                    "Titles": {
+                        "eng": "Stretch Time",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Stretching exercises for after getting out of the bath.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "57841",
+            "URL": "https://thetvdb.com/series/isshoni-training/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "584771",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/isshoni-training/episodes/584771",
+                    "Titles": {
+                        "eng": "Training with Hinako!",
+                        "jpn": "いっしょにとれーにんぐ TRAINING WITH HINAKO"
+                    },
+                    "Summaries": {
+                        "eng": "\"First muscle training animation ever!\"\r\n\r\nA 16-year-old girl named Hinako leads exercises in push-ups, sit-ups, and squats. Hinako was once a human, but she was turned into an anime character when she was a second-year middle-school student.",
+                        "jpn": "前代未聞の筋トレ用アニメーション! 種目は誰でも知っている「腕立て」「腹筋」「スクワット」の3種類。また、特典映像としてコスチュームや音楽、回数などが異なる30種類以上のバリエーションを用意しており、「ひなこ」との毎日の筋トレタイムを飽きずに楽しめます。"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "3409311",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/isshoni-training/episodes/3409311",
+                    "Titles": {
+                        "eng": "Sleeping with Hinako",
+                        "jpn": "いっしょにすりーぴんぐ SLEEPING WITH HINAKO"
+                    },
+                    "Summaries": {
+                        "eng": "Hinako, former human who now lives in the anime world, has fallen asleep. This is the video documentary of her defenceless sleeping pattern.",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "3409301",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/isshoni-training/episodes/3409301",
+                    "Titles": {
+                        "eng": "Bathtime with Hinako & Hiyoko",
+                        "jpn": "いっしょにとれーにんぐ026（おふろ） BATHTIME WITH HINAKO & HIYOKO"
+                    },
+                    "Summaries": {
+                        "eng": "The premise of the episode is to teach exercises while bathing.",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

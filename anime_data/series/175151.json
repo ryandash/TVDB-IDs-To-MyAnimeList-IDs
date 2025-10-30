@@ -1,0 +1,81 @@
+{
+    "URL": "https://thetvdb.com/series/devadasy",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0255108/"
+    ],
+    "Titles": {
+        "eng": "Devadasy",
+        "jpn": "創世聖紀デヴァダシー"
+    },
+    "Summaries": {
+        "eng": "Kei and Naoki are childhood friends who are recruited into a government-supervised group called Spirits. Spirits members are trained to defend the Earth against mysterious attackers by piloting the Devadasy, a powerful mech discovered by Kei's grandfather. But a lot of things about the Devadasy remain unknown, and that void could cost lives...",
+        "jpn": ""
+    },
+    "Aliases": [],
+    "Modified": "2010-07-14",
+    "Seasons": {
+        "1": {
+            "ID": "317111",
+            "URL": "https://thetvdb.com/series/devadasy/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "2818521",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/devadasy/episodes/2818521",
+                    "Titles": {
+                        "eng": "Deja vu",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "A young boy decides to join a secret paramilitary organization, Spirits, in order to avoid school and follow some cute recruiter chick. His adopted sister gets mad and joins Spirits out of pure spite and jealousy.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2818531",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/devadasy/episodes/2818531",
+                    "Titles": {
+                        "eng": "The Fire of Chandaly",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Two friends, Kei and Naoki, join Spirits to help save mankind and become Devadasy's pilots.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "2818541",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/devadasy/episodes/2818541",
+                    "Titles": {
+                        "eng": "Vision",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

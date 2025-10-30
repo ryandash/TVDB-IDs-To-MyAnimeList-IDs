@@ -1,0 +1,434 @@
+{
+    "URL": "https://thetvdb.com/series/once-upon-a-time-space",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Children",
+        "Family",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0282303/",
+        "https://www.themoviedb.org/tv/4727"
+    ],
+    "Titles": {
+        "eng": "Once Upon a Time... Space",
+        "jpn": null
+    },
+    "Summaries": {
+        "eng": "This was a French animated TV series from 1982. Directed by Albert Barillé.",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2025-09-09",
+    "Seasons": {
+        "0": {
+            "ID": "30155",
+            "URL": "https://thetvdb.com/series/once-upon-a-time-space/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "3145201",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/3145201",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "30156",
+            "URL": "https://thetvdb.com/series/once-upon-a-time-space/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "348408",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348408",
+                    "Titles": {
+                        "eng": "The Planet Omega",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "348409",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348409",
+                    "Titles": {
+                        "eng": "The Saurians",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "348410",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348410",
+                    "Titles": {
+                        "eng": "The Green Planet",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "348411",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348411",
+                    "Titles": {
+                        "eng": "Towards Andromeda",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "348412",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348412",
+                    "Titles": {
+                        "eng": "The Cro-Magnons",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "348413",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348413",
+                    "Titles": {
+                        "eng": "The Revolt of the Robots",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "348414",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348414",
+                    "Titles": {
+                        "eng": "The Planet Mytho",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "348415",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348415",
+                    "Titles": {
+                        "eng": "The Long Voyage",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "348416",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348416",
+                    "Titles": {
+                        "eng": "In Cassiopea",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "348417",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348417",
+                    "Titles": {
+                        "eng": "A Planet Blown to Pieces",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "348418",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348418",
+                    "Titles": {
+                        "eng": "Shipwrecked in Space",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "348419",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348419",
+                    "Titles": {
+                        "eng": "The Giants",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "348420",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348420",
+                    "Titles": {
+                        "eng": "The Incas",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "348421",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348421",
+                    "Titles": {
+                        "eng": "In the Land of the Dinosaurs",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "348422",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348422",
+                    "Titles": {
+                        "eng": "The Rings of Saturn",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "348423",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348423",
+                    "Titles": {
+                        "eng": "The Unstoppable Menace",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "348424",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348424",
+                    "Titles": {
+                        "eng": "Earth",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "348425",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348425",
+                    "Titles": {
+                        "eng": "Atlantis",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "348426",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348426",
+                    "Titles": {
+                        "eng": "The Strange Return to Omega",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "348427",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348427",
+                    "Titles": {
+                        "eng": "The Revenge of the Robots",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "348428",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348428",
+                    "Titles": {
+                        "eng": "The Humanoids",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "348429",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348429",
+                    "Titles": {
+                        "eng": "An Hostile World",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "348430",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348430",
+                    "Titles": {
+                        "eng": "City in Flight",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "348431",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348431",
+                    "Titles": {
+                        "eng": "The Great Computer",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "348432",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348432",
+                    "Titles": {
+                        "eng": "The Battle of the Titans",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "348433",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/once-upon-a-time-space/episodes/348433",
+                    "Titles": {
+                        "eng": "The Infinity of Space",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

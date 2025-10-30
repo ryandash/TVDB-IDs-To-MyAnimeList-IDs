@@ -1,0 +1,81 @@
+{
+    "URL": "https://thetvdb.com/series/275778-show",
+    "Genres": [
+        "Documentary",
+        "Mini-Series"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt5123920/"
+    ],
+    "Titles": {
+        "eng": "Is There A God?",
+        "jpn": null
+    },
+    "Summaries": {
+        "eng": "Seek answers to the question of the existence of God with the help of atheists and believers.",
+        "jpn": null
+    },
+    "Aliases": [
+        "The God Question"
+    ],
+    "Modified": "2022-06-13",
+    "Seasons": {
+        "1": {
+            "ID": "568913",
+            "URL": "https://thetvdb.com/series/275778-show/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "4725155",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/275778-show/episodes/4725155",
+                    "Titles": {
+                        "eng": "Part 1 - The Cosmos",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "On the street there's a mixture of confusion and assumption. Out there, it is mostly assumed that with every scientific breakthrough, God is more and more redundant. Yet instinctively, the vast majority of people in the world feel \"there must be something\". Well, is there? What's the evidence? That's the territory of The God Question series.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4725156",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/275778-show/episodes/4725156",
+                    "Titles": {
+                        "eng": "Part 2 - Life and Evolution",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "For centuries there had seemed no way of understanding how life had emerged and developed on earth other than it being God's handiwork. BUT with Charles Darwin and his theory of evolution there was a seismic shift – one that, ever since, seems to have diminished God. Examining this proposition is at the heart of Life, Evolution and The God Question.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4725157",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/275778-show/episodes/4725157",
+                    "Titles": {
+                        "eng": "Part 3 - Mind and Consciousness",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "The brain is not only the personal HQ of every individual, it is also the source of a deep mystery. How does it link to our sense of being conscious human beings with a sense of the past, the present, the future and of each other? Science is unable to explain why consciousness exists or what it is.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

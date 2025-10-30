@@ -1,0 +1,97 @@
+{
+    "URL": "https://thetvdb.com/series/steins-gate-soumei-eichi-no-cognitive-computing",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt9336256/",
+        "https://www.themoviedb.org/tv/228280"
+    ],
+    "Titles": {
+        "eng": "Steins;Gate: The Sagacious Wisdom of Cognitive Computing",
+        "jpn": null
+    },
+    "Summaries": {
+        "eng": "A series of four anime shorts in the Steins;Gate universe, sponsored by IBM.",
+        "jpn": null
+    },
+    "Aliases": [
+        "Steins;Gate: Soumei Eichi no Cognitive Computing"
+    ],
+    "Modified": "2025-10-01",
+    "Seasons": {
+        "1": {
+            "ID": "2042897",
+            "URL": "https://thetvdb.com/series/steins-gate-soumei-eichi-no-cognitive-computing/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "10499663",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/steins-gate-soumei-eichi-no-cognitive-computing/episodes/10499663",
+                    "Titles": {
+                        "eng": "Kukkingu-hen",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Mayuri Shiina brings a cognitive computing system with a large pink Oopa toy serving as its terminal to the Future Gadget Lab, insisting that it will help her and Kurisu Makise prepare fried chicken for the group, much to the dismay of Rintarou Okabe and Itaru 'Daru' Hashida. Despite not having the proper ingredients, the Oopa cognitive computer.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10499664",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/steins-gate-soumei-eichi-no-cognitive-computing/episodes/10499664",
+                    "Titles": {
+                        "eng": "Nabigêshon-hen",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Rintaro Okabe and Kurisu get help from an Upa navigator app after a fight.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10499665",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/steins-gate-soumei-eichi-no-cognitive-computing/episodes/10499665",
+                    "Titles": {
+                        "eng": "Fasshon-hen",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "When Nae Tennouji cannot stand Okabe and Daru wearing the same dirty clothes all the time, they beg Kurisu to coordinate outfits for them. She turns to the Upa cognitive computing system for assistance, with surprising results.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "10499666",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/steins-gate-soumei-eichi-no-cognitive-computing/episodes/10499666",
+                    "Titles": {
+                        "eng": "Kaigi-hen",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "What happens when the Upa Cognitive Computer is brought in to facilitate Okabe's \"140th\" Round Table Meeting?",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
