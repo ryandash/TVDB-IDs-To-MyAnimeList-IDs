@@ -147,12 +147,15 @@ async def get_new_anime(existing_anime: List, meta_file: str | None, type_: str)
     # Convert to MinimalAnime
     new_entries: List[MinimalAnime] = []
     for a in filtered_new_entries:
-        titles = [TitleEntry(title=t["title"], type=t["type"]) for t in a.get("titles", [])]
+        titles = [
+            TitleEntry(title=t["title"], type=t["type"])
+            for t in a.get("titles", [])
+            if t["type"].lower() != "synonym"
+        ]
         type_priority = {
             "japanese": 0,
             "english": 1,
             "default": 2,
-            "synonym": 4
         }
         titles.sort(key=lambda t: type_priority.get(t.type.lower(), 3))
 
