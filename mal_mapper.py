@@ -159,7 +159,11 @@ async def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, vis
                 anime_data = await safe_jikan.get_anime(rel_id)
                 if not anime_data:
                     continue
-                anime_cache[rel_id] = anime_data.get("data", {})
+                data = anime_data.get("data")
+                if not data:
+                    print(f"old: {mal_id} new: {rel_id}")
+                    raise
+                anime_cache[rel_id] = data
 
             anime_info = anime_cache[rel_id]
             anime_type = anime_info.get("type", "").lower() or ""
