@@ -153,6 +153,8 @@ async def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, vis
 
         for e in rel.get("entry", []):
             rel_id = int(e["mal_id"])
+            print(f"integer: {rel_id} original: {e["mal_id"]}")
+            print(f"old: {mal_id} new: {rel_id}")
 
             # Fetch anime info once
             if rel_id not in anime_cache:
@@ -161,7 +163,6 @@ async def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, vis
                     continue
                 data = anime_data.get("data")
                 if not data:
-                    print(f"old: {mal_id} new: {rel_id}")
                     raise
                 anime_cache[rel_id] = data
 
