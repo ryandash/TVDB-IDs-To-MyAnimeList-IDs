@@ -287,6 +287,9 @@ async def insert_new_entries_before_sequels(new_entries: List[MinimalAnime], old
 
     return merged_entries, new_entries_ordered
 
+def remove_parentheses(s: str) -> str:
+    """Remove anything between ( and ) including the parentheses."""
+    return re.sub(r"\s*\([^)]*\)", "", s).strip()
 
 # -----------------------------
 # Search TVDB and Save
@@ -309,9 +312,10 @@ async def search_and_save_tvdb_hits(key: str, anime_list: list[MinimalAnime]):
                 if not entry.title:
                     continue
 
-                title_variants = [entry.title]
-                if ":" in entry.title:
-                    title_variants.append(entry.title.split(":")[0].strip())
+                clean_title = remove_parentheses(entry.title)
+                title_variants = [clean_title]
+                if ":" in clean_title:
+                    title_variants.append(clean_title.split(":")[0].strip())
                 
                 for query in title_variants:
                     encoded_query = quote(query, safe="")
@@ -344,7 +348,8 @@ async def search_and_save_tvdb_hits(key: str, anime_list: list[MinimalAnime]):
                                 translations = hit.get("translations", {})
                                 names.update(translations.values())
 
-                                if any(fuzz.ratio(name, query) >= 90 for name in names):
+                                clean_names = [remove_parentheses(name) for name in names]
+                                if any(fuzz.ratio(clean_name, query) >= 90 for clean_name in clean_names):
                                     match = TVDBMatches(
                                         TvdbId=hit["id"],
                                         MalId=anime.malId,
