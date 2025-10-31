@@ -1,0 +1,68 @@
+{
+    "URL": "https://thetvdb.com/series/shinesman",
+    "Genres": [
+        "Animation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0303150/",
+        "https://www.themoviedb.org/tv/79937"
+    ],
+    "Titles": {
+        "eng": "Shinesman",
+        "jpn": "特務戦隊シャインズマン"
+    },
+    "Summaries": {
+        "eng": "In what is essentially a take on \"Super Sentai\"/Power Ranger style shows,five heroes clad in red,gray,moss green,sepia and salmon pink must defend the world from,you guessed it,invading aliens.",
+        "jpn": ""
+    },
+    "Aliases": [
+        "Special Duty Combat Unit Shinesman",
+        "Tokumu Sentai Shinesman"
+    ],
+    "Modified": "2024-07-18",
+    "Seasons": {
+        "1": {
+            "ID": "134361",
+            "URL": "https://thetvdb.com/series/shinesman/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "2982811",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shinesman/episodes/2982811",
+                    "Titles": {
+                        "eng": "Tokumu Sentai Shinesman",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2982821",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shinesman/episodes/2982821",
+                    "Titles": {
+                        "eng": "Episode 2",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
