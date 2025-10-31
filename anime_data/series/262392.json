@@ -1,0 +1,68 @@
+{
+    "URL": "https://thetvdb.com/series/samurai-hunt-for-the-sword",
+    "Genres": [
+        "Action",
+        "Animation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0288565/",
+        "https://www.themoviedb.org/tv/116335"
+    ],
+    "Titles": {
+        "eng": "Samurai - Hunt For The Sword",
+        "jpn": "快刀乱麻 THE ANIMATION"
+    },
+    "Summaries": {
+        "eng": "Shinjuro may be a little young to be the master of a swordsmanship school, but fate didn't give him a choice. Now his position and martial arts skill land him right in the middle of serious trouble when the rogue samurai Mikage faces off against the Tokugawa government. Caught in the middle, Shinjuro and the small group of swordsmen who train at his school must protect the town from harm.",
+        "jpn": "新十郎は剣術学校のマスターになるには少し若いかもしれませんが、運命は彼に選択肢を与えませんでした. 現在、彼の立場と武術のスキルは、悪党の武士御影が徳川政府と対決するとき、深刻な問題の真っ只中に彼を着陸させます. 板挟みになった新十郎とその学校で修行を積む少人数の剣士たちは、町を危害から守らなければならない。"
+    },
+    "Aliases": [
+        "Kaitouranma: The Animation"
+    ],
+    "Modified": "2023-01-01",
+    "Seasons": {
+        "1": {
+            "ID": "500783",
+            "URL": "https://thetvdb.com/series/samurai-hunt-for-the-sword/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4397300",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/samurai-hunt-for-the-sword/episodes/4397300",
+                    "Titles": {
+                        "eng": "Episode 1",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4514041",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/samurai-hunt-for-the-sword/episodes/4514041",
+                    "Titles": {
+                        "eng": "Episode 2",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
