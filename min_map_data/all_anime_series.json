@@ -345730,5 +345730,58 @@
         "type": "Default"
       }
     ]
+  },
+  {
+    "malId": 62875,
+    "aniType": "TV",
+    "year": 2025,
+    "titles": [
+      {
+        "title": "\ub098\uc758 \ube44\ubc00\uce5c\uad6c \ud574\uce58",
+        "type": "Japanese"
+      },
+      {
+        "title": "Naui Bimilchingu Haechi",
+        "type": "Default"
+      }
+    ]
+  },
+  {
+    "malId": 62883,
+    "aniType": "TV",
+    "year": 2026,
+    "titles": [
+      {
+        "title": "\u6587\u8c6a\u30b9\u30c8\u30ec\u30a4\u30c9\u30c3\u30b0\u30b9\u308f\u3093\uff012",
+        "type": "Japanese"
+      },
+      {
+        "title": "Bungo Stray Dogs Wan! 2",
+        "type": "English"
+      },
+      {
+        "title": "Bungou Stray Dogs Wan! 2",
+        "type": "Default"
+      }
+    ]
+  },
+  {
+    "malId": 62882,
+    "aniType": "ONA",
+    "year": 2025,
+    "titles": [
+      {
+        "title": "\u9b54\u6cd5\u5c11\u5973\u30db\u30ed\u30a6\u30a3\u30c3\u30c1\uff01THE STAGE \u301cTRICK or MAGIC\uff01\u301c",
+        "type": "Japanese"
+      },
+      {
+        "title": "Magical Girl holoWitches! The Stage: Trick or Magic!",
+        "type": "English"
+      },
+      {
+        "title": "Mahou Shoujo holoWitch! The Stage: Trick or Magic!",
+        "type": "Default"
+      }
+    ]
   }
 ]
