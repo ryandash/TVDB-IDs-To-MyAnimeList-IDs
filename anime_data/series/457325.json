@@ -31,6 +31,35 @@
     ],
     "Modified": "2025-10-23",
     "Seasons": {
+        "0": {
+            "ID": "2158399",
+            "URL": "https://thetvdb.com/series/kimi-to-idol-precure/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11433123",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/kimi-to-idol-precure/episodes/11433123",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "映画キミとアイドルプリキュア♪ お待たせ！キミに届けるキラッキライブ！"
+                    },
+                    "Summaries": {
+                        "eng": null,
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                }
+            }
+        },
         "1": {
             "ID": "2158400",
             "URL": "https://thetvdb.com/series/kimi-to-idol-precure/seasons/official/1",
@@ -586,6 +615,48 @@
                     },
                     "Summaries": {
                         "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "11433119",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimi-to-idol-precure/episodes/11433119",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "聴いてください！なな色の旋律"
+                    },
+                    "Summaries": {
+                        "eng": null,
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "11433120",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimi-to-idol-precure/episodes/11433120",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "心キュンキュン守ります！"
+                    },
+                    "Summaries": {
+                        "eng": null,
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "11433121",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimi-to-idol-precure/episodes/11433121",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "コネクト！キミからのEｃｈo"
+                    },
+                    "Summaries": {
+                        "eng": null,
                         "jpn": ""
                     },
                     "Aliases": []
