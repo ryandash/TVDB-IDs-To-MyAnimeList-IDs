@@ -24,7 +24,7 @@ https://github-checker-worker.ryandash0.workers.dev/
 <!---counts-start--->
 ### TVDB → MAL Mapping Stats
 
-- ✅ Mapped IDs: **185749**
+- ✅ Mapped IDs: **185804**
 - ❌ Unmapped Series: **0**
 - ❌ Unmapped Seasons: **65**
 - ❌ Unmapped Episodes: **7889**
