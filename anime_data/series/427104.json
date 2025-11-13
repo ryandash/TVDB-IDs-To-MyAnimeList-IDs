@@ -32,6 +32,35 @@
     ],
     "Modified": "2025-07-20",
     "Seasons": {
+        "0": {
+            "ID": "2029669",
+            "URL": "https://thetvdb.com/series/427104-/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11451360",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/427104-/episodes/11451360",
+                    "Titles": {
+                        "eng": "Aeon Cinema collaboration movie",
+                        "jpn": "「とむとじぇりーごっこ」イオンシネマコラボムービー"
+                    },
+                    "Summaries": {
+                        "eng": "A collaboration short between Tom to Jerry and Aeon Cinema shown in Aeon Cinema theaters before films.",
+                        "jpn": "イオンシネマとのコラボムービー公開????\r\n\\＼\r\n\r\nとってもキュートなとむ、じぇりー、たふぃーが映画館に登場????\r\nオリジナル商品もイオンシネマ80館にてお取り扱い中！"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
         "1": {
             "ID": "2029670",
             "URL": "https://thetvdb.com/series/427104-/seasons/official/1",
@@ -364,6 +393,20 @@
                     "Summaries": {
                         "eng": null,
                         "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "11451395",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/427104-/episodes/11451395",
+                    "Titles": {
+                        "eng": "Carnival",
+                        "jpn": "カーニバル"
+                    },
+                    "Summaries": {
+                        "eng": "Tom, Jerry and Tuffy visit a Carnival.",
+                        "jpn": "とむとじぇりーはカーニバルを訪れます。"
                     },
                     "Aliases": []
                 }
