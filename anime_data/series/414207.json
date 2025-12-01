@@ -417,6 +417,35 @@
                     "Aliases": []
                 }
             }
+        },
+        "3": {
+            "ID": "2162904",
+            "URL": "https://thetvdb.com/series/mf-ghost/seasons/official/3",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "25": {
+                    "ID": "11486660",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/11486660",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Summaries": {
+                        "eng": null,
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                }
+            }
         }
     }
 }
