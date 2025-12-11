@@ -30,6 +30,49 @@
     ],
     "Modified": "2025-10-05",
     "Seasons": {
+        "0": {
+            "ID": "2111635",
+            "URL": "https://thetvdb.com/series/kagaku-survival/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "11503557",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11503557",
+                    "Titles": {
+                        "eng": "Survive! Inside the Human Body",
+                        "jpn": "人体のサバイバル!"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11503558",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11503558",
+                    "Titles": {
+                        "eng": "Survive! In the Deep Sea",
+                        "jpn": "生き延びる！深海で"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                }
+            }
+        },
         "1": {
             "ID": "2111636",
             "URL": "https://thetvdb.com/series/kagaku-survival/seasons/official/1",
@@ -334,6 +377,147 @@
                     "Summaries": {
                         "eng": "",
                         "jpn": "あと少しで風力発電所が動かせそうというところで、なだれが発生！　発電機がこわれてしまった！　でもまだ手はある。ジオたちは、潮汐（ちょうせき）力発電所に急行する。潮の満ち引きを利用する方法だ。その発電所は満潮時だけ発電できる。チャンスは１日２回だ。さらに思わぬトラブルが持ち上がる！　ジオは固く決意する。ブラックアウトを終わらせ、明るい世界を取りもどすんだ！　ぜったいにみんなで、サバイバルしてみせる！"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "2220738",
+            "URL": "https://thetvdb.com/series/kagaku-survival/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 9,
+            "Episodes": {
+                "1": {
+                    "ID": "11503546",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11503546",
+                    "Titles": {
+                        "eng": "Water Shortage Survival Part 1",
+                        "jpn": "水不足のサバイバル その1"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11503547",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11503547",
+                    "Titles": {
+                        "eng": "Water Shortage Survival Part 2",
+                        "jpn": "水不足のサバイバル その2"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "11503548",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11503548",
+                    "Titles": {
+                        "eng": "Water Shortage Survival Part 3",
+                        "jpn": "水不足のサバイバル その3"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "11503549",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11503549",
+                    "Titles": {
+                        "eng": "Survival in a Major Earthquake Part 1",
+                        "jpn": "巨大地震のサバイバル　その１"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "11503550",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11503550",
+                    "Titles": {
+                        "eng": "Survival in a Major Earthquake Part 2",
+                        "jpn": "巨大地震のサバイバル　その2"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "11503551",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11503551",
+                    "Titles": {
+                        "eng": "Survival in a Major Earthquake Part 3",
+                        "jpn": "巨大地震のサバイバル　その3"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "11503552",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11503552",
+                    "Titles": {
+                        "eng": "Survival on the Tidal Flats Part 1",
+                        "jpn": "干潟のサバイバル　その１"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "11503553",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11503553",
+                    "Titles": {
+                        "eng": "Survival on the Tidal Flats Part 2",
+                        "jpn": "干潟のサバイバル　その2"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "11503554",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11503554",
+                    "Titles": {
+                        "eng": "Survival on the Tidal Flats Part 3",
+                        "jpn": "干潟のサバイバル　その3"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
                     },
                     "Aliases": []
                 }
