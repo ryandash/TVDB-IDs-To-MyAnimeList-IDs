@@ -431,6 +431,35 @@
                     "Aliases": []
                 }
             }
+        },
+        "3": {
+            "ID": "2222220",
+            "URL": "https://thetvdb.com/series/kaiju-no-8/seasons/official/3",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11516326",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaiju-no-8/episodes/11516326",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Summaries": {
+                        "eng": null,
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                }
+            }
         }
     }
 }

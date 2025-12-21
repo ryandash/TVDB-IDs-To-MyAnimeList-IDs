@@ -437,6 +437,35 @@
                     "Aliases": []
                 }
             }
+        },
+        "3": {
+            "ID": "2222227",
+            "URL": "https://thetvdb.com/series/mashle/seasons/official/3",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11516408",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mashle/episodes/11516408",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Summaries": {
+                        "eng": null,
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                }
+            }
         }
     }
 }

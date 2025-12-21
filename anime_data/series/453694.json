@@ -210,6 +210,35 @@
                     "Aliases": []
                 }
             }
+        },
+        "2": {
+            "ID": "2222235",
+            "URL": "https://thetvdb.com/series/yasei-no-last-boss-ga-arawareta/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11516505",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/yasei-no-last-boss-ga-arawareta/episodes/11516505",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Summaries": {
+                        "eng": null,
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                }
+            }
         }
     }
 }
