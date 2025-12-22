@@ -491,6 +491,63 @@
                     "Aliases": []
                 }
             }
+        },
+        "2": {
+            "ID": "2222439",
+            "URL": "https://thetvdb.com/series/blue-seed/seasons/official/2",
+            "Titles": {
+                "eng": "Blue Seed Beyond",
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "10261216",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/10261216",
+                    "Titles": {
+                        "eng": "Mission: Eradicate Kushinada, Operation MITAMA PHASE 1",
+                        "jpn": "奇稲田封滅作戦 Operation MITAMA PHASE 1"
+                    },
+                    "Summaries": {
+                        "eng": "Enemies have resurfaced, and the Kunikida is under attack.",
+                        "jpn": "Enemies have resurfaced, and the Kunikida is under attack."
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10261217",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/10261217",
+                    "Titles": {
+                        "eng": "Mission: Eradicate Kushinada, Operation MITAMA PHASE 2",
+                        "jpn": "奇稲田封滅作戦 Operation MITAMA PHASE 2"
+                    },
+                    "Summaries": {
+                        "eng": "The battle rages into America.",
+                        "jpn": "The battle rages into America."
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10261218",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/10261218",
+                    "Titles": {
+                        "eng": "Six Babes on a Trip, Big Explosion in a Secret Hotspring",
+                        "jpn": "美人OL6人旅 秘湯大爆破"
+                    },
+                    "Summaries": {
+                        "eng": "A relaxing trip to a hot spring takes a dangerous turn.",
+                        "jpn": "A relaxing trip to a hot spring takes a dangerous turn."
+                    },
+                    "Aliases": []
+                }
+            }
         }
     }
 }
