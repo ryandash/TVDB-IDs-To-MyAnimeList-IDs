@@ -45,7 +45,50 @@
                 "jpn": null
             },
             "# Episodes": 4,
-            "Episodes": {}
+            "Episodes": {
+                "5": {
+                    "ID": "11533228",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dandadan/episodes/11533228",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Textless Opening Theme Song Series 1"
+                    },
+                    "Summaries": {
+                        "eng": null,
+                        "jpn": "Textless Opening Theme Song Series 1"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "11533229",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dandadan/episodes/11533229",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Textless Closing Theme Song Series 1"
+                    },
+                    "Summaries": {
+                        "eng": null,
+                        "jpn": "Textless Closing Theme Song Series 1"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "11533230",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dandadan/episodes/11533230",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Teaser & Trailers Series 1"
+                    },
+                    "Summaries": {
+                        "eng": null,
+                        "jpn": "Teaser & Trailers Series 1"
+                    },
+                    "Aliases": []
+                }
+            }
         },
         "1": {
             "ID": "2054746",
