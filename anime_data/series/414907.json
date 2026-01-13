@@ -30,6 +30,35 @@
     ],
     "Modified": "2025-06-06",
     "Seasons": {
+        "0": {
+            "ID": "1978587",
+            "URL": "https://thetvdb.com/series/estab-life/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11554525",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/estab-life/episodes/11554525",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "地獄の逃走劇"
+                    },
+                    "Summaries": {
+                        "eng": null,
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                }
+            }
+        },
         "1": {
             "ID": "1978588",
             "URL": "https://thetvdb.com/series/estab-life/seasons/official/1",
