@@ -17,6 +17,35 @@
     "Aliases": [],
     "Modified": "2021-05-18",
     "Seasons": {
+        "0": {
+            "ID": "1920975",
+            "URL": "https://thetvdb.com/series/401418-/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11581448",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/401418-/episodes/11581448",
+                    "Titles": {
+                        "eng": "Princess Eri's Great Photo Album",
+                        "jpn": "チンプイ エリさま活動大写真"
+                    },
+                    "Summaries": {
+                        "eng": "A theatrical version of Fujiko F. Fujio's original animation. While cleaning her room, Eri Kasuga discovers her nostalgic album, but it is stolen by a mysterious space creature that appears like a gust of wind.\r\nAlternative Title: Chinpui: Eri-sama Katsudou Daishashin",
+                        "jpn": "TBD"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
         "1": {
             "ID": "1920976",
             "URL": "https://thetvdb.com/series/401418-/seasons/official/1",
