@@ -22,6 +22,63 @@
     "Aliases": [],
     "Modified": "2025-06-05",
     "Seasons": {
+        "0": {
+            "ID": "803330",
+            "URL": "https://thetvdb.com/series/levius/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "11619392",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/levius/episodes/11619392",
+                    "Titles": {
+                        "eng": "Character Model",
+                        "jpn": "-"
+                    },
+                    "Summaries": {
+                        "eng": "Showcase for the 3D character models",
+                        "jpn": "-"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11619393",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/levius/episodes/11619393",
+                    "Titles": {
+                        "eng": "Cut Making",
+                        "jpn": "-"
+                    },
+                    "Summaries": {
+                        "eng": "Making of various cuts/scenes from the CGI production",
+                        "jpn": "-"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "11619394",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/levius/episodes/11619394",
+                    "Titles": {
+                        "eng": "Interview with Todd Haberkorn",
+                        "jpn": "-"
+                    },
+                    "Summaries": {
+                        "eng": "Interview with English voice actor Todd Haberkorn who voiced Bill.",
+                        "jpn": "-"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
         "1": {
             "ID": "831097",
             "URL": "https://thetvdb.com/series/levius/seasons/official/1",
