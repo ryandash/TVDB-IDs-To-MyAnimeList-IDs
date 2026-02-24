@@ -31,6 +31,49 @@
     ],
     "Modified": "2025-03-03",
     "Seasons": {
+        "0": {
+            "ID": "742083",
+            "URL": "https://thetvdb.com/series/b-the-beginning/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "11635856",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/b-the-beginning/episodes/11635856",
+                    "Titles": {
+                        "eng": "Test Film: Project Nakazawa",
+                        "jpn": "Project 中澤一登"
+                    },
+                    "Summaries": {
+                        "eng": "A test film in 2014 known as Project Nakazawa. The script was later heavily modified and evolved in the anime series 'B: The Beginning'",
+                        "jpn": "-"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11635857",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/b-the-beginning/episodes/11635857",
+                    "Titles": {
+                        "eng": "Interview with director of B: The Beginning",
+                        "jpn": "Interview with director of B: The Beginning"
+                    },
+                    "Summaries": {
+                        "eng": "An interview with director Nakazawa Kazuto during Scotland Loves Anime in October 2018",
+                        "jpn": "An interview with director Nakazawa Kazuto during Scotland Loves Anime in October 2018"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
         "1": {
             "ID": "742084",
             "URL": "https://thetvdb.com/series/b-the-beginning/seasons/official/1",
