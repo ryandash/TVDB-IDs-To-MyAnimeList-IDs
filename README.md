@@ -27,5 +27,5 @@ https://github-checker-worker.ryandash0.workers.dev/
 - ✅ Mapped IDs: **188466**
 - ❌ Unmapped Series: **1**
 - ❌ Unmapped Seasons: **65**
-- ❌ Unmapped Episodes: **8044**
+- ❌ Unmapped Episodes: **8046**
 <!---counts-end--->

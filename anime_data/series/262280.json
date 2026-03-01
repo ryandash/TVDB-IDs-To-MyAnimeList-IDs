@@ -20,6 +20,35 @@
     ],
     "Modified": "2025-08-28",
     "Seasons": {
+        "0": {
+            "ID": "555520",
+            "URL": "https://thetvdb.com/series/262280-show/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "2": {
+                    "ID": "11648289",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/262280-show/episodes/11648289",
+                    "Titles": {
+                        "eng": "Magnos",
+                        "jpn": "Magnos"
+                    },
+                    "Summaries": {
+                        "eng": "\"Magnos, the Ultimate Robot defense systen. Good vs. Evil in this exciting adventure of man and machine, as Magnos battles aliens who are trying.nto conquer the earth. Led by their evil and ancient king, Zephers, the aliens begin their devastation. It is up to Sir Miles Nevers, creator He of Magnos to save our planet. produces the only force possible of stopping the destruction of Earth. Non-stop action, brilliant animation and spectacular special effects, make Magnos hyper entertainment.\" - VHS Synopsis. Compilation movie based on Episodes 1 through 4, Episodes 6 through 7, Episode 11 and Episode 13",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                }
+            }
+        },
         "1": {
             "ID": "500445",
             "URL": "https://thetvdb.com/series/262280-show/seasons/official/1",
