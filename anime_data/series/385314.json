@@ -1,0 +1,87 @@
+{
+    "URL": "https://thetvdb.com/series/dragons-dogma",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt10011298/",
+        "https://www.netflix.com/title/80992784",
+        "https://www.themoviedb.org/tv/99769"
+    ],
+    "Titles": {
+        "eng": "Dragon's Dogma",
+        "jpn": "ドラゴンズドグマ"
+    },
+    "Summaries": {
+        "eng": "Ethan sets out to vanquish the Dragon that took his heart, but with every demon he battles, the more he loses his humanity.",
+        "jpn": "覚者としてよみがえったイーサンは、自分の心臓を奪ったドラゴンを倒す旅に出る。だが、道すがら怪物と戦うたびに、彼もまた少しずつ人間らしさを失っていく。"
+    },
+    "Aliases": [],
+    "Modified": "2025-06-09",
+    "Seasons": {
+        "1": {
+            "ID": "1854684",
+            "URL": "https://thetvdb.com/series/dragons-dogma/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "zho": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null,
+                "zho": "伊森以觉醒者的身分起死回生，启程击败那只夺走他心脏的恶龙，但随着一次次与恶魔交手，他人性的光辉也逐渐消逝。"
+            },
+            "# Episodes": 7,
+            "Episodes": {
+                "1": {
+                    "ID": "7840596",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragons-dogma/episodes/7840596",
+                    "Titles": {
+                        "eng": "Wrath",
+                        "jpn": "憤怒"
+                    },
+                    "Summaries": {
+                        "eng": "Father-to-be Ethan leaves his wife behind and takes orphan Louis to hunt for food in the mountains, where a pack of ferocious wolves set upon them.",
+                        "jpn": "子供の誕生を心待ちにしているイーサンは、妻を家に残し、孤児のルイを連れて狩りに出かけた山で、どう猛なオオカミの群れに襲われる。"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7913166",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragons-dogma/episodes/7913166",
+                    "Titles": {
+                        "eng": "Gluttony",
+                        "jpn": "暴食"
+                    },
+                    "Summaries": {
+                        "eng": "Cassardis lies in ruins. When a magical Pawn revives Ethan, he vows revenge, embarking on a quest to slay the dragon that destroyed his world.",
+                        "jpn": "カサディスの村ががれきと化す。ポーンの民の魔力でよみがえったイーサンは、すべてを破壊したドラゴンへの復讐(ふくしゅう)を誓い旅に出る。"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7913168",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragons-dogma/episodes/7913168",
+                    "Titles": {
+                        "eng": "Envy",
+                        "jpn": "嫉妬"
+                    },
+                    "Summaries": {
+                        "eng": "Ethan and Hannah aid a traveling party being ambushed by goblins. The groups make camp together, but a predatory griffin swoops in from above.",
+                        "jpn": "ゴブリンに襲われていたところを助けた旅人たちと野宿するイーサンとハンナ。だが、獲物を狙い空から舞い降りたグリフィンが彼らに襲いかかる。"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

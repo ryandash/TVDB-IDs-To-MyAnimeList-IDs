@@ -1,0 +1,69 @@
+{
+    "URL": "https://thetvdb.com/series/eiken",
+    "Genres": [
+        "Animation",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0944093/",
+        "https://tvlistings.zap2it.com/overview.html?programSeriesId=SH839297",
+        "https://www.themoviedb.org/tv/34840"
+    ],
+    "Titles": {
+        "eng": "Eiken",
+        "jpn": "エイケン エイケンヴより愛をこめて"
+    },
+    "Summaries": {
+        "eng": "Zasshono School is a mammoth private school with a total of 54000 students from elementary level, junior high and high school. Within a large number of club activities in the school, lies a unique club that differs from others: The Eiken Club. All activities of the club are enfolded by a veil of darkness, which makes the Eiken Club looks bad.\r\n\r\nHowever, what makes us worry about is that the members are, starting with sports and academic all-rounder beauty Azumo Chiharu as an example, mostly charismatic cute girls.\r\n\r\nMifune Densuke, a fresh high school boy, gets forced to join the Eiken Club! In an instant, his life so far, which was dull, becomes full of passion, romance and troubles...!",
+        "jpn": "舞台となるのは、夏恒例イベント！ザッショノ学園横断 レース！！ この大会で生徒たちがチャレンジするのはどれも過激な 競技ばかり。優勝チームには賞金も用意されている（？）ため 参加生徒の気合の入り具合はハンパじゃない。数々の難関を くぐりぬけ優勝の栄光を勝ち取るのは果たしてどのチームか？ 伝助のいるエイケン部は優勝することが出来るのか？"
+    },
+    "Aliases": [
+        "エイケン"
+    ],
+    "Modified": "2026-01-11",
+    "Seasons": {
+        "1": {
+            "ID": "16993",
+            "URL": "https://thetvdb.com/series/eiken/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "317126",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/eiken/episodes/317126",
+                    "Titles": {
+                        "eng": "From the Eiken Club with Love - Part 1",
+                        "jpn": "前編"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "317127",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/eiken/episodes/317127",
+                    "Titles": {
+                        "eng": "From the Eiken Club with Love - Part 2",
+                        "jpn": "後編"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
