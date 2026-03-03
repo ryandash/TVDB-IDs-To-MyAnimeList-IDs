@@ -70,8 +70,10 @@ def normalize_text(name: str) -> str:
 # MAL Integration
 # -------------------
 
-async def get_best_mal_id(search_term: str, anime_type: str, isSeason0: bool) -> tuple[int | None, list[str]]:
-    """Search Jikan API and return the best matching MAL ID and all_titles."""
+async def get_best_mal_id(search_term: str, anime_type: str, isSeason0: bool,
+                          ep_title_eng: str | None = None, ep_title_jpn: str | None = None) -> tuple[int | None, list[str]]:
+    """Search Jikan API and return the best matching MAL ID and all_titles.
+       If isSeason0 and ep_title_eng/jpn are provided, match against individual episodes of specials."""
     search_lower = search_term.lower()
     normalized_search = normalize_text(search_lower)
 
@@ -103,6 +105,24 @@ async def get_best_mal_id(search_term: str, anime_type: str, isSeason0: bool) ->
                 )
             if similarity >= 85 and similarity > best_match[1]:
                 best_match = (anime["mal_id"], similarity)
+
+            if isSeason0 and (ep_title_eng or ep_title_jpn):
+                episode_data  = await safe_jikan.get_anime_episodes(mal_id)
+
+                normalized_eng = normalize_text(ep_title_eng) if ep_title_eng else None
+                normalized_jpn = normalize_text(ep_title_jpn) if ep_title_jpn else None
+                
+                for episode in episode_data["data"]:
+                    ep_titles = [
+                        normalize_text(episode.get("title")),
+                        normalize_text(episode.get("title_japanese"))
+                    ]
+                    if normalized_eng and any(t and fuzz.ratio(normalized_eng, t) >= 90 for t in ep_titles):
+                        # print(f"Matched episode title '{ep_title_eng}' in episode '{episode.get('title')}'")
+                        return anime["mal_id"], []
+                    if normalized_jpn and any(t and fuzz.ratio(normalized_jpn, t) >= 90 for t in ep_titles):
+                        # print(f"Matched episode title '{ep_title_jpn}' in episode '{episode.get('title_japanese')}'")
+                        return anime["mal_id"], []
 
             if split_normalized_search and anime_type == "movie":
                 parts = title.split(":", 1)
@@ -496,7 +516,11 @@ async def map_anime():
 
                             EpisodeMALID, all_titles = None, None
                             for term in ep_titles_to_try:
-                                EpisodeMALID, all_titles = await get_best_mal_id(term, anime_type, True)
+                                EpisodeMALID, all_titles = await get_best_mal_id(
+                                    term, anime_type, True,
+                                    ep_title_eng=ep_title_eng,
+                                    ep_title_jpn=ep_title_jpn
+                                )
                                 if EpisodeMALID:
                                     break
                             if EpisodeMALID:

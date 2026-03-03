@@ -158,5 +158,35 @@ class SafeJikan:
             ]
         }
 
+    async def get_anime_episodes(self, mal_id: int) -> dict:
+        """
+        Fetch all episodes for a given anime ID, handling pagination.
+        Returns a dict with 'data': list of episodes, each containing
+        'title', 'title_japanese', 'mal_id', 'url', etc.
+        """
+        episodes = []
+        page = 1
+
+        while True:
+            data = await self._retry_on_failure(
+                self.aio_jikan.anime_episodes_by_id, mal_id, page
+            )
+            if not data or "data" not in data:
+                break
+
+            eps = data["data"]
+            # normalize title fields for easier matching later
+            for ep in eps:
+                ep["title"] = ep.get("title") or ""
+                ep["title_japanese"] = ep.get("title_japanese") or ""
+            episodes.extend(eps)
+
+            pagination = data.get("pagination", {})
+            if not pagination.get("has_next_page", False):
+                break
+            page += 1
+
+        return {"data": episodes}
+
     async def close(self):
         await self.aio_jikan.close()

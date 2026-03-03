@@ -193,8 +193,10 @@ def parse_special_category(li):
     strong_text = strong.get_text(strip=True).upper() if strong else ""
     type_text = None
     if strong_text == "SPECIAL CATEGORY":
-        a = li.find("span a")
-        type_text = a.get_text(strip=True) if a else None
+        span = li.find("span")
+        if span:
+            a = span.find("a")
+            type_text = a.get_text(strip=True) if a else None
     elif strong_text == "NOTES":
         span = li.find("span")
         notes_text = span.get_text(strip=True).lower() if span else ""
