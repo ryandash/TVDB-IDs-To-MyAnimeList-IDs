@@ -107,7 +107,7 @@ async def get_best_mal_id(search_term: str, anime_type: str, isSeason0: bool,
                 best_match = (anime["mal_id"], similarity)
 
             if isSeason0 and (ep_title_eng or ep_title_jpn):
-                episode_data  = await safe_jikan.get_anime_episodes(mal_id)
+                episode_data  = await safe_jikan.get_anime_episodes(anime["mal_id"])
 
                 normalized_eng = normalize_text(ep_title_eng) if ep_title_eng else None
                 normalized_jpn = normalize_text(ep_title_jpn) if ep_title_jpn else None

@@ -39,6 +39,9 @@ class TaskLimiter:
 class SafeJikan:
     def __init__(self, request_delay: float = 0.5, max_concurrent: int = 10):
         self.request_delay = request_delay
+        self._cache: dict[tuple, Any] = {}
+        self._inflight_tasks: dict[tuple, asyncio.Task] = {}
+        self._cache_lock = asyncio.Lock()
         self.semaphore = asyncio.Semaphore(max_concurrent)
         self.aio_jikan = AioJikan()
         self._last_request = 0.0
@@ -93,6 +96,44 @@ class SafeJikan:
                 await asyncio.sleep(delay)
                 delay = min(delay * 1.5, max_delay)
                 continue
+    
+    def _freeze(self, value):
+        if isinstance(value, dict):
+            return tuple(sorted((k, self._freeze(v)) for k, v in value.items()))
+        elif isinstance(value, list):
+            return tuple(self._freeze(v) for v in value)
+        elif isinstance(value, set):
+            return tuple(sorted(self._freeze(v) for v in value))
+        return value
+
+    async def _cached_call(self, func: Callable[..., Any], *args, **kwargs):
+        key = (
+            func.__name__,
+            self._freeze(args),
+            self._freeze(kwargs),
+        )
+        async with self._cache_lock:
+            if key in self._cache:
+                return self._cache[key]
+
+            if key in self._inflight_tasks:
+                task = self._inflight_tasks[key]
+            else:
+                task = asyncio.create_task(
+                    self._retry_on_failure(func, *args, **kwargs)
+                )
+                self._inflight_tasks[key] = task
+
+        try:
+            result = await task
+        finally:
+            async with self._cache_lock:
+                self._inflight_tasks.pop(key, None)
+
+        async with self._cache_lock:
+            self._cache[key] = result
+
+        return result
 
     # -----------------------------
     # Public Jikan API methods
@@ -128,19 +169,19 @@ class SafeJikan:
         if page is not None:
             kwargs["page"] = page
 
-        return await self._retry_on_failure(self.aio_jikan.search, **kwargs)
+        return await self._cached_call(self.aio_jikan.search, **kwargs)
 
     async def get_anime(self, mal_id: int, episode_number: int | None = None):
         if not isinstance(mal_id, int) or mal_id <= 0:
             raise ValueError("mal_id must be a positive integer.")
 
         if episode_number:
-            return await self._retry_on_failure(self.aio_jikan.anime_episode_by_id, mal_id, episode_number)
+            return await self._cached_call(self.aio_jikan.anime_episode_by_id, mal_id, episode_number)
 
-        return await self._retry_on_failure(self.aio_jikan.anime, mal_id)
+        return await self._cached_call(self.aio_jikan.anime, mal_id)
 
     async def get_anime_relations(self, mal_id: int):
-        data = await self._retry_on_failure(
+        data = await self._cached_call(
             self.aio_jikan.anime, mal_id, extension="relations"
         )
         if not data:
@@ -161,32 +202,41 @@ class SafeJikan:
     async def get_anime_episodes(self, mal_id: int) -> dict:
         """
         Fetch all episodes for a given anime ID, handling pagination.
-        Returns a dict with 'data': list of episodes, each containing
-        'title', 'title_japanese', 'mal_id', 'url', etc.
+        Results are cached in-memory for the lifetime of SafeJikan.
         """
+
         episodes = []
         page = 1
 
         while True:
-            data = await self._retry_on_failure(
-                self.aio_jikan.anime_episodes_by_id, mal_id, page
+            data = await self._cached_call(
+                self.aio_jikan.anime,
+                mal_id,
+                extension="episodes",
+                page=page
             )
+
             if not data or "data" not in data:
                 break
 
-            eps = data["data"]
-            # normalize title fields for easier matching later
+            eps = data.get("data") or []
+            if not eps:
+                break
+
             for ep in eps:
                 ep["title"] = ep.get("title") or ""
                 ep["title_japanese"] = ep.get("title_japanese") or ""
+
             episodes.extend(eps)
 
-            pagination = data.get("pagination", {})
-            if not pagination.get("has_next_page", False):
+            if not data.get("pagination", {}).get("has_next_page", False):
                 break
+
             page += 1
 
-        return {"data": episodes}
+        result = {"data": episodes}
+
+        return result
 
     async def close(self):
         await self.aio_jikan.close()
