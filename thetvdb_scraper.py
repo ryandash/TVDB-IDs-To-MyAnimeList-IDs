@@ -276,7 +276,7 @@ async def scrape_season(session: aiohttp.ClientSession, season_url: str, numEpis
     existing_eps = season_dict.setdefault("Episodes", {})
 
     if season_number == "0":
-        special_categories = {"Episodic Special", "Movies", "OVAs", "Season Recaps", "Uncategorized"}
+        special_categories = {"Episodic Special", "Movies", "OVAs", "Season Recaps", "Uncategorized", "Webisodes and Shorts"}
         for h3 in soup.select("#episodes > h3"):
             text = h3.get_text(strip=True)
             if any(cat.lower() in text.lower() for cat in special_categories):
