@@ -1,0 +1,112 @@
+{
+    "URL": "https://thetvdb.com/series/280933-show",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Children",
+        "History"
+    ],
+    "Other Sites": [
+        "https://web.archive.org/web/20180803044521/http://bikkuri-man.mediagalaxy.ne.jp/index0.html",
+        "https://www.themoviedb.org/tv/19343",
+        "https://en.wikipedia.org/wiki/Bikkuriman"
+    ],
+    "Titles": {
+        "eng": "Bikkuriman",
+        "jpn": "ビックリマン"
+    },
+    "Summaries": {
+        "eng": "In a world divided between angels and evil creatures, only the young hero Yamato Shintei has the power to defeat the demons...",
+        "jpn": ""
+    },
+    "Aliases": [],
+    "Modified": "2025-03-25",
+    "Seasons": {
+        "0": {
+            "ID": "583506",
+            "URL": "https://thetvdb.com/series/280933-show/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "9565312",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/280933-show/episodes/9565312",
+                    "Titles": {
+                        "eng": "Amazing-man: The First Holy Demon War",
+                        "jpn": "ビックリマン 第一次聖魔大戦"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "583507",
+            "URL": "https://thetvdb.com/series/280933-show/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "4862817",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/280933-show/episodes/4862817",
+                    "Titles": {
+                        "eng": "天聖界があぶないぞ",
+                        "jpn": "天聖界があぶないぞ"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5260484",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/280933-show/episodes/5260484",
+                    "Titles": {
+                        "eng": "続・天聖界があぶないぞ",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9238328",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/280933-show/episodes/9238328",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "天使の里に火炎魔動が!"
+                    },
+                    "Summaries": {
+                        "eng": null,
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

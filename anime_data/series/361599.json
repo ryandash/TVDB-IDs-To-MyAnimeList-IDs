@@ -1,0 +1,54 @@
+{
+    "URL": "https://thetvdb.com/series/ori-princess",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Children"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt3078368/",
+        "https://www.themoviedb.org/tv/87930"
+    ],
+    "Titles": {
+        "eng": "ori princess",
+        "jpn": null
+    },
+    "Summaries": {
+        "eng": "",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2019-03-26",
+    "Seasons": {
+        "1": {
+            "ID": "803937",
+            "URL": "https://thetvdb.com/series/ori-princess/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "52": {
+                    "ID": "7106466",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ori-princess/episodes/7106466",
+                    "Titles": {
+                        "eng": "Season 1",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

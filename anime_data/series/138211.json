@@ -1,0 +1,703 @@
+{
+    "URL": "https://thetvdb.com/series/dragon-quest-legend-of-the-hero-abel",
+    "Genres": [
+        "Adventure",
+        "Anime",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0105987/",
+        "https://www.themoviedb.org/tv/77025",
+        "https://www.themoviedb.org/tv/77025",
+        "https://www.wikidata.org/wiki/Q3028503"
+    ],
+    "Titles": {
+        "eng": "Dragon Quest: Legend of the Hero Abel",
+        "jpn": "ドラゴンクエスト 《勇者アベル伝説》"
+    },
+    "Summaries": {
+        "eng": "Dragon Quest is loosely based on Dragon Quest III. The names and some of the characters are familar, but the world map is smaller and a very different shape. The two main characters are Abel and Tialah. Tialah receives the legendary Red Stone from the Aliahan Village sage Master Yogi. Soon after, Tialah is kidnapped by the evil Baramos who wants to use the Red Stone to resurrect The Great Dragon and be granted eternal life. Abel swore to rescue Tialah and he is given the Blue Stone, which can only seal the Dragon once it has been released.",
+        "jpn": "「竜王説」の正統な継承者アベルは、世界制服を企む、邪悪な闇の帝王バラモスを倒すため、仲間たちと共に立ち上がる。アベルは真の勇者となり、バラモスを倒すことができるのか！？ここに勇者アベルの大冒険がはじまる！"
+    },
+    "Aliases": [
+        "Dragon Warrior"
+    ],
+    "Modified": "2024-04-30",
+    "Seasons": {
+        "0": {
+            "ID": "182361",
+            "URL": "https://thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4470656",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/4470656",
+                    "Titles": {
+                        "eng": "The beginning of journey of the Hero Abel",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Special edition of episodes 1 to 4",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1634061",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634061",
+                    "Titles": {
+                        "eng": "A New Determination for the Heroes!",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "182371",
+            "URL": "https://thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 32,
+            "Episodes": {
+                "1": {
+                    "ID": "1633741",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633741",
+                    "Titles": {
+                        "eng": "Level 1: Ariahan Village",
+                        "jpn": "アリアハンの村 別離"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "15歳の誕生日を迎えたティアラは幼なじみの少年アベルと大の仲良し。二人は水中で、不思議な文章が刻まれた石を見つけた。"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1633751",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633751",
+                    "Titles": {
+                        "eng": "Level 2: Departure",
+                        "jpn": "アリアハンの城 旅立ち"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "ティアラは誘拐され、バラモスの元へ連れ去られた。アベルは、幼なじみのモコモコと共に、ティアラを助ける旅に出る。"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1633761",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633761",
+                    "Titles": {
+                        "eng": "Level 3: Leebe Village",
+                        "jpn": "レーべの村 地図を探せ"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "アベルはアリアハン国王の命でレーベの村へと辿り着いた。手がかりを聞き、村人、モコモコ、魔法使いヤナックと謎解きを始める。"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1633771",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633771",
+                    "Titles": {
+                        "eng": "Level 4: Girl Warrior Daisy",
+                        "jpn": "女戦士 デイジィ"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "アベルは地図を入手した。それを狙うバラモスは、宝石モンスターでアベルたちを襲ってきたが、女戦士デイジィにより助けられる。"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "1633781",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633781",
+                    "Titles": {
+                        "eng": "Level 5: Port Myla",
+                        "jpn": "竜伝説 マイラの港へ"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "断崖絶壁を登り、竜の涙の場所まで辿り着いた。宝石モンスターに襲われながら、竜の目から剣を抜くと、滝の中から石碑が現れる。"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "1633791",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633791",
+                    "Titles": {
+                        "eng": "Level 6: Light of Hope",
+                        "jpn": "ブレスストーン 希望の灯をともせ"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "船で次の目的地、トフレ大陸を目指す一行。船出には、特別な石「ブレスストーン」で竜の灯台の灯りを蘇らせることが必要だ。"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "1633801",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633801",
+                    "Titles": {
+                        "eng": "Level 7: Escape from Dragon Channel",
+                        "jpn": "生か死か！？竜海峡脱出！"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "船は霧の中、竜海峡を出発したが、密輸団に船を乗っ取られてしまった。そこへ海の中から宝石モンスター「大王イカ」が襲来！"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "1633811",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633811",
+                    "Titles": {
+                        "eng": "Level 8: Lunar Eclipse",
+                        "jpn": "魔王バラモスの弱点！！月食の夜の怪奇"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "一行は「竜の翼」を探しにモーラを目指した。アベルは、竜の翼に光を与えるため、竜の鍵を使って水晶の輝きを導くように言われる。"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "1633821",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633821",
+                    "Titles": {
+                        "eng": "Level 9: Attacking Guam",
+                        "jpn": "ルイーダの村 ガイムに突撃せよ"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "ガイムを抜け出したティアラを捕えるため、宝石モンスターを放つバラモスたち。一方、アベルはティアラを救出するため、ガイムへ向かった。"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "1633831",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633831",
+                    "Titles": {
+                        "eng": "Level 10: Training and Preparation",
+                        "jpn": "水上都市ヴェルギンへ修行！"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "ティアラは逃げ切れずに捕まってしまう。アベルは、自分に力があればと悔やみ、剣術をデイジィから教わり、武器調達に旅立つ。"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "1633841",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633841",
+                    "Titles": {
+                        "eng": "Level 11: Hardship in Nether",
+                        "jpn": "吹雪の剣を探せ！！ネザーの町 試練"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "北の国に「吹雪の剣」を探しにきたアベルは吹雪に倒れてしまう。目を覚ますと老人がいて、命を守る「命の石」を与えてくれた。"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "1633851",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633851",
+                    "Titles": {
+                        "eng": "Level 12: General Rudolph",
+                        "jpn": "呪いを解け！悲しきルドルフ将軍"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "アベルは司教に、ルドルフ将軍を眠らせたガブリエルの話を聞いた。その頃バラモスは、妖精の村に竜伝説の秘密があると知り、攻め込んでいた。"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "1633861",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633861",
+                    "Titles": {
+                        "eng": "Level 13: Naijimi Tower",
+                        "jpn": "竜の鍵を奪え！激突ナジミの塔"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "竜伝説の秘密を見つけたバラモスは、「黄金の鍵」のあるナジミの塔へ向かった。天使の翼を手に入れたアベルたちもその後を追う。"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "1633871",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633871",
+                    "Titles": {
+                        "eng": "Level 14: The Mystery of the Legendary Fearsome Dragon",
+                        "jpn": "海峡の門 恐るべき竜伝説の謎"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "アベルたちが海峡の門に到着すると、竜伝説の秘密が記された石碑はムーアによって既に壊されていた。だがその時、壁が倒れて通路が現れた。"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "1633881",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633881",
+                    "Titles": {
+                        "eng": "Level 15: Revenge of the Arch-Demon",
+                        "jpn": "カイシンの一撃！アークデーモンの逆襲"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "吊橋の途中、次々と襲いかかってくるモンスターたち。キリの無い戦いで疲れ果てるアベルたちに、ムーアはアークデーモンを差し向けた！"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "1633891",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633891",
+                    "Titles": {
+                        "eng": "Level 16: The Appearance of Zoma, Emperor of Darkness",
+                        "jpn": "戦慄！！闇の帝王ゾーマの出現"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "バラモスはゾーマの怒りを静めるために、神殿へと向かった。世界制覇を焦りすぎるなと説得したが、ゾーマの怒りは治まらず・・・。"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "1633901",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633901",
+                    "Titles": {
+                        "eng": "Level 17: Creature from the Castle Doran",
+                        "jpn": "ドラン城の怪奇モンスター"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "ドランの都へやって来たアベルたちは、ティアラにそっくりな、サーラ姫を兵士たちから助けた。姫は、この国の不穏な動きを語る。"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "1633911",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633911",
+                    "Titles": {
+                        "eng": "Level 18: Journey to the Isle of Malefic Ghosts",
+                        "jpn": "魔の海の亡霊の島へ"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "亡霊の島に辿り着いたアベルたち。そこは、巨大な難破船だった。一方、ティアラはガイムの中で、風の翼を作っていた。"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "1633921",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633921",
+                    "Titles": {
+                        "eng": "Level 19: Return to Castle Doran",
+                        "jpn": "再びドラン城へ ジキドの陰謀！！"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "ジキドと偽国王が町に死せる水を流していたことを知ったアベルたちは、城に忍び込むため、路地裏の道具屋で『消え去り草』を手に入れた。"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "1633931",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633931",
+                    "Titles": {
+                        "eng": "Level 20: The Hero's New Departure",
+                        "jpn": "新たなる旅立ち 伝説の勇者たち"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "国王に化けていたシーザーオライオンを倒したアベルたちは、本物のピエール国王を救い出し、死せる水の製造装置を破壊した。"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "1633941",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633941",
+                    "Titles": {
+                        "eng": "Level 21: The Bazaar of Darkness",
+                        "jpn": "闇のバザール 勇者の武器を探せ"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "アベルたちは、闇のバザールで「渇きの壺」を探すことになった。そこで、デイジィ、モコモコ、ヤナックは新たな武器を手に入れた。"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "1633951",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633951",
+                    "Titles": {
+                        "eng": "Level 22: The Strange Ruined City of Domdora",
+                        "jpn": "砂漠の果て 廃墟の街ドムドーラの怪"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "闇のバザールでは老婆がやって来て、渇きの壺は砂漠の東、ドムドーラにあるとアベルたちを案内。途中、砂の中へと引き寄せられ・・・。"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "1633961",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633961",
+                    "Titles": {
+                        "eng": "Level 23: Hurry Abel! Tiala is very close!",
+                        "jpn": "アベルよ急げ！！ティアラがすぐそこに"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "ドムドーラの町を甦らせたアベルたちは、渇きの壺を見つけ、真実の湖へと向かっていた。一方、ティアラはガイムから脱出したが・・・。"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "1633971",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633971",
+                    "Titles": {
+                        "eng": "Level 24: Awaken Tiala! Priestess of the Red Orb!",
+                        "jpn": "めざめよティアラ！赤き珠の聖女として"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "アベルたちは、旅の泉を通ってやってきた、赤き珠の島が見える海岸でティアラの足跡を発見する。その隣にはモンスターの大きな足跡が！！"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "1633981",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633981",
+                    "Titles": {
+                        "eng": "Level 25: The Resurrection of the Legendary Dragon",
+                        "jpn": "正か邪か？いま甦る伝説の竜"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "ジキドの前に不利なアベルに動揺し、ティアラは未熟な力で竜を甦らせてしまう！暴れ狂う竜に、アベルは青き珠の勇者として立ち向かう！！"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "1633991",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633991",
+                    "Titles": {
+                        "eng": "Level 26: Take on the Dragon Abel!",
+                        "jpn": "アベルよ竜に立ち向かえ！封印せよ！！"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "捨て身で竜を封印したアベルは生死の境を彷徨っていた。アベルを助けるため全力を尽くす仲間たちに、モンスターが執拗に襲いかかる！"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "1634001",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634001",
+                    "Titles": {
+                        "eng": "Level 27: Fight for Abel's Life on Windy Mountain",
+                        "jpn": "アベルを救え！風の山の死闘！！"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "瀕死のアベルを救うため、ヤナックたちはホーン山脈に長老ザナックを訪ねた。しかし、アベルの衰弱はひどく、回復不能なほどに・・・。"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "1634011",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634011",
+                    "Titles": {
+                        "eng": "Level 28: Resurrection of Abel",
+                        "jpn": "アベル復活 うなれ！いなずまの剣"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "ティアラとデイジィは、アベルを助けるためにバデキアの木の葉を探し出した。それを飲んだアベルは、ザナックの魔法で覚醒した。"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "1634021",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634021",
+                    "Titles": {
+                        "eng": "Level 29: Ortega, the Mysterious Evil Warrior",
+                        "jpn": "呪いの兜 謎の戦士オルテガ"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "刺客が現れた。斧を投げてくるドラゴンと黒い兜の騎士だ。アベルはドラゴンを倒し、デイジィは黒い兜の騎士に斬りかかったが・・・。"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "1634031",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634031",
+                    "Titles": {
+                        "eng": "Level 30: Return to Ariahan",
+                        "jpn": "竜伝説を追って再び故郷アリアハンへ"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "ティアラを奪おうと、バラモスがドドンガに邪悪な力を送り込んだ。アベルは剣を抜くが、ティアラは操られているだけだと制した・・・。"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "1634041",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634041",
+                    "Titles": {
+                        "eng": "Level 31: Abel vs Ortega!",
+                        "jpn": "激闘！！アベル対オルテガ意外な真実！！"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "ジキド率いるモンスターたちがアベルたちを襲った。そのモンスターに混じって、呪いの兜をかぶった騎士、アベルの父オルテガがいた。"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "1634051",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634051",
+                    "Titles": {
+                        "eng": "Level 32: Honor the Great Hero Abel!",
+                        "jpn": "大勇者アベルに栄光あれ！！"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "アベルとデイジィは、最後のオーブを求めて旅の泉に飛び込んだ。ティアラはモコモコ、ドドンガと共に、聖杯を求めてメルキドへ旅立つ。"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "182381",
+            "URL": "https://thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 11,
+            "Episodes": {
+                "1": {
+                    "ID": "7860544",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/7860544",
+                    "Titles": {
+                        "eng": "A New Determination for the Heroes!!",
+                        "jpn": "勇者たちの新たなる決意!!"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": ""
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1634071",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634071",
+                    "Titles": {
+                        "eng": "An Enemy or an Ally!? The Handsome Swordsman Adonis",
+                        "jpn": "敵か味方か！？謎の美剣士アドニス"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "アリアハン国王からティアラを守るよう命じられた若き剣士アドニスが現れ、一向に加わった。そこに、火山ガスの臭いが漂ってきた。"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1634081",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634081",
+                    "Titles": {
+                        "eng": "Revive! Phoenix Lamia",
+                        "jpn": "甦れ！！不死鳥ラーミア"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "不死鳥ラーミアの卵を探しに、アベルは炎の大陸レイアムランドへ向かい航海した。噴火の中、バラモスの家臣ハーゴンが出現！！"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1634091",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634091",
+                    "Titles": {
+                        "eng": "It Appears!! The Floating Island in the Sky",
+                        "jpn": "出現！！天空の浮遊島"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "ティアラたちは、地中深く埋められていたメルキドの都に着き、聖杯を入手。アベルたちは、不死鳥ラーミアで空に浮かぶ島に着いた。"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "1634101",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634101",
+                    "Titles": {
+                        "eng": "The Blue Shrine - Abel, Pull Out the Holy Sword!!",
+                        "jpn": "青き神殿アベルよ聖剣を抜け！！"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "バラモスに挑み敗れたルドルフ将軍は、バラモスの家臣となった。一方、ジキドは世界を支配するという秘かな野望を抱いていた。"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "1634111",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634111",
+                    "Titles": {
+                        "eng": "Assault! Decisive Battle at Estark Castle",
+                        "jpn": "突撃！エスターク城の決戦！！"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "アベルは聖剣を手に入れ、ティアラとの合流予定のリムルダールへ向かおうとした。だが、ザナックは不吉な影の接近を警告した。"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "1634121",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634121",
+                    "Titles": {
+                        "eng": "The Legendary Dragon is in Ariahan!?",
+                        "jpn": "伝説の竜はアリアハンに！？"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "バラモスは、アベルに向かって死の呪文を放ってきた。ザナックは自分の命を代償にする呪文メガンテを唱え、アベルを守り抜いた。"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "1634131",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634131",
+                    "Titles": {
+                        "eng": "A Hidden Riddle at Dragon God Lake!?",
+                        "jpn": "竜神湖に秘められた謎！？"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "聖杯とティアラを持ち去り、竜の血を飲んで自分が世界制覇をしようと企むジキドは、竜を探しにアリアハンの村上空へとやって来た。"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "1634141",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634141",
+                    "Titles": {
+                        "eng": "Angered Dragon VS Super Baramos",
+                        "jpn": "怒れる竜VSスーパーバラモス"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "バラモスが姿を現した。その家臣ムーアは、奪った聖剣と聖杯を使って竜の血を飲むため、甦りたての小さな竜を傷つけようと・・・。"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "1634151",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634151",
+                    "Titles": {
+                        "eng": "The Birth of the Greatest Hero!! The Miracle of the Blue and Red Ball",
+                        "jpn": "大勇者 誕生！！青と赤の珠の奇跡"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "アベルは怒れる竜の封印に失敗した。バラモスも竜を倒すことを諦め、青き珠で再び封印するため、アベルに青き珠を要求し・・・。"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "1634161",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634161",
+                    "Titles": {
+                        "eng": "The Final Decisive Battle!! Abel VS Baramos",
+                        "jpn": "最終決戦！！アベルVSバラモス"
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": "青き珠と赤き珠が重なり、眩しい光が溢れ出した。竜は大地に激突して大爆発。その炎の中には青い鎧をまとったアベルの姿が！！"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
