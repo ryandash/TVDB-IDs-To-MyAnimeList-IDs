@@ -15,6 +15,7 @@ from dataclasses import dataclass
 from rapidfuzz import fuzz
 from safe_jikan import SafeJikan
 from tqdm import tqdm
+from duckSearch import DuckSearch
 
 # ----------------------
 # Config / Constants
@@ -24,9 +25,11 @@ LOG_FILE = "mapping.log"
 DATA_DIR = Path("anime_data")
 DATA_DIR.mkdir(exist_ok=True)
 
+safe_jikan = SafeJikan()
+duck_search = DuckSearch()
+
 # Regex patterns
 NORMALIZE_REGEX = re.compile(r"[:.!]")
-safe_jikan = SafeJikan()
 
 # ----------------------
 # Helpers
@@ -125,7 +128,7 @@ async def get_best_mal_id(search_term: str, anime_type: str, isSeason0: bool,
                     if split_similarity >= 90 and split_similarity > best_match[1]:
                         best_match = (mal_id, split_similarity)
         
-        if isSeason0 and (normalized_eng or normalized_jpn):
+        if isSeason0 and anime_type != "movie" and (normalized_eng or normalized_jpn):
             episode_data  = await safe_jikan.get_anime_episodes(mal_id)
             
             for episode in episode_data["data"]:
@@ -514,6 +517,7 @@ async def map_anime():
                         anime_type = type_mapping.get(ep_data.get("TYPE"))
 
                         EpisodeMALID = None; all_titles = None
+                        UseDuckSearch = False
                         
                         if ep_titles_to_try:
                             for alias in ep_aliases:
@@ -529,6 +533,19 @@ async def map_anime():
                                 )
                                 if EpisodeMALID:
                                     break
+                            
+                            if not EpisodeMALID and ep_title_eng:
+                                data = await safe_jikan.get_anime_relations(SeasonMalID)
+                                relations = [
+                                    int(e["mal_id"])
+                                    for rel in data.get("data", []) 
+                                    for e in rel.get("entry", [])
+                                ]
+                                if relations:
+                                    EpisodeMALID = await duck_search.cached_search_mal_id(series_title_eng + " " + ep_title_eng, relations)
+                                    if EpisodeMALID:
+                                        UseDuckSearch = True
+
                             if EpisodeMALID:
                                 mal_eps = await get_mal_episode_count(EpisodeMALID)
                                 if EpisodeMALID not in mal_episode_counter:
@@ -544,11 +561,14 @@ async def map_anime():
                         if EpisodeMALID and record["myanimelist url"]:
                             record["myanimelist"] = int(EpisodeMALID)
                             record["thetvdb"] = int(ep_id)
+                            record["Used DuckSearch"] = str(UseDuckSearch)
                             mapped.append(record)
+                            
                         else:
                             record["thetvdb"] = ep_id
                             record["search terms"] = ep_titles_to_try
                             record["Jikan titles"] = all_titles
+                            record["Used DuckSearch"] = str(UseDuckSearch)
                             unmapped_episodes.append(record)
 
                     elif SeasonMalID:
@@ -599,8 +619,10 @@ async def map_anime():
 if __name__ == "__main__":
     async def main():
         try:
+            await duck_search.init_session()
             await map_anime()
         finally:
             await safe_jikan.close()
+            await duck_search.close()
 
     asyncio.run(main())
