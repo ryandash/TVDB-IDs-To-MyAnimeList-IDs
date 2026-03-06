@@ -73,6 +73,12 @@ jobs:
           name: jikan-data
           path: min_map_data
 
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ hashFiles('requirements.txt') }}
+
       - name: Install dependencies
         run: |
           pip install --upgrade pip
