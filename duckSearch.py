@@ -14,7 +14,7 @@ class DuckSearch:
     async def init_session(self):
         self.playwright = await async_playwright().start()
 
-        self.browser = await self.playwright.firefox.launch(
+        self.browser = await self.playwright.chromium.launch(
             headless=True
         )
 
