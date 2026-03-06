@@ -57,7 +57,7 @@ jobs:
     needs: scrape_jikan
     runs-on: ubuntu-latest
     container:
-      image: mcr.microsoft.com/playwright/python:latest
+      image: mcr.microsoft.com/playwright/python:v1.50.0-noble
     strategy:
       max-parallel: 20
       matrix:
