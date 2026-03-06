@@ -1,0 +1,82 @@
+{
+    "URL": "https://thetvdb.com/series/detatoko-princess",
+    "Genres": [
+        "Animation",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2498430/",
+        "https://www.themoviedb.org/tv/44938"
+    ],
+    "Titles": {
+        "eng": "Detatoko Princess",
+        "jpn": null
+    },
+    "Summaries": {
+        "eng": "Lapis is the princess of Sorcerland. She's beautiful, powerful and has a sparkling personality; it`s too bad that she's not that bright. She'll go to any length to protect the most innocent of creatures even if it means destroying the kingdom to do so. And lets not forget her obsession with pudding!\r\n\r\nDetatoko Princess is a laugh-out-loud lampoon of all the fantasy stereotypes you've come to love with a generous heaping scoop of slapstick!",
+        "jpn": null
+    },
+    "Aliases": [
+        "Suddenly Princess"
+    ],
+    "Modified": "2025-03-21",
+    "Seasons": {
+        "1": {
+            "ID": "134031",
+            "URL": "https://thetvdb.com/series/detatoko-princess/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "1204151",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/detatoko-princess/episodes/1204151",
+                    "Titles": {
+                        "eng": "If You Love Your Daughter, Send Her Away",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1204161",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/detatoko-princess/episodes/1204161",
+                    "Titles": {
+                        "eng": "Showdown in the Pudding Forest",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1204171",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/detatoko-princess/episodes/1204171",
+                    "Titles": {
+                        "eng": "The Terrifying Fitness Brothers Trio",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,776 @@
+{
+    "URL": "https://thetvdb.com/series/galaxy-racers",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/C304-318C-7D8A-6D1D-9EE5-F",
+        "https://www.imdb.com/title/tt7286472/",
+        "https://baike.baidu.com/item/%E6%98%9F%E9%99%85%E9%A3%9A%E8%BD%A6%E7%8E%8B/9440617?fromtitle=%E6%98%9F%E9%99%85%E9%A3%99%E8%BD%A6%E7%8E%8B&fromid=6997103",
+        "https://www.themoviedb.org/tv/130082",
+        "https://www.themoviedb.org/tv/130082"
+    ],
+    "Titles": {
+        "eng": "Galaxy Racers",
+        "jpn": null
+    },
+    "Summaries": {
+        "eng": "Galaxy Racers (星际飙车王, Xingji Biaoche Wang) is a 2006 Chinese animated series that aired for 52 episodes from February 1 to June, 2006.",
+        "jpn": null
+    },
+    "Aliases": [
+        "xīng jì biāo chē wáng",
+        "Xingji Biaoche Wang"
+    ],
+    "Modified": "2022-01-19",
+    "Seasons": {
+        "1": {
+            "ID": "1874022",
+            "URL": "https://thetvdb.com/series/galaxy-racers/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "zho": null
+            },
+            "Summaries": {
+                "eng": "In a future world, daredevils put their lives on the line for the thrill of the galaxy race. One young man, Roy, steps up to take on the challenges and thrills of the racing world.",
+                "jpn": null,
+                "zho": "故事发生在未来的宇宙空间，太空交通已经非常发达。泰斯是“泰克殖民卫星”上“泰坦”宇航汽车集团的总裁，是泰坦家族的第十代传人，是一个外表和善却心狠手辣的野心家。他把同业竞争对手都视为眼中钉、肉中刺，他的最终目的是让自己的企业雄霸整个宇宙汽车市场，牟取巨额利润。为此，泰斯幕后操纵着一支身用的刹魔车队。\r\n　　十年前，泰坦星球上，星际赛车业的年轻巨子泰斯委托著名的科学家雷诺博士研发了两款先进的赛车。泰斯拿着刚刚制造出来的赛车凶相毕露，他扬言要不择手段击垮所有的竞争对手。雷诺博士深感不安，如果把尖端的技术全部交给泰斯，将会给星际间带来不可测的苦难。雷诺博士悄悄地登上返回黄河星球的列车，星际列车高速行驶着，忽然莫名地发生故障，雷诺博士遇难失踪。\r\n　　十年后，黄河卫星上，雷诺之子阿雷已经成长为一个拥有天才赛车潜质、心地善良的少年。因为十年前的那场噩梦，爷爷不让他参加赛车。但他死活要玩赛车，终于他成为了一个野车之王，并在经历了一场场惊心动魄的星际赛车比拼后，成为了一名专业车手，并代表星群参加星际联赛。为了星群的荣誉并揭穿泰斯的阴谋，阿雷决心和伙伴们在联赛中挑战泰斯控制的有着不败神话的“刹魔少年队”。阿雷在决赛中利用终极秘密，领悟了人车合一的境界，率先冲过了终点，赢得了冠军，成为新的星际车王。而雷诺也冲出泰斯的囚禁，公布了事实真相，粉碎了泰斯的阴谋。\r\n　　本片以科幻的手法，以未来生活为背景，通过车队之间的比赛，实际上是正义与邪恶、善良与阴谋的较量，宏扬正义、拼搏和团队精神。"
+            },
+            "# Episodes": 52,
+            "Episodes": {
+                "1": {
+                    "ID": "8008145",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8008145",
+                    "Titles": {
+                        "eng": "Bumping Into a Race",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy finds himself drawn into the thrilling, dangerous world of galaxy racing.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8008146",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8008146",
+                    "Titles": {
+                        "eng": "The Day Everything Goes Wrong",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy builds his own virtual race car.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8008147",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8008147",
+                    "Titles": {
+                        "eng": "Talent Emerges",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy steps up for his first big race.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "8008148",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8008148",
+                    "Titles": {
+                        "eng": "The Amateur Champion",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy discovers the secrets of his racing gift.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "8067311",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8067311",
+                    "Titles": {
+                        "eng": "Challenged by a Good Friend",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy battles a race track challenger - one he doesn't expect.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "8067312",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8067312",
+                    "Titles": {
+                        "eng": "The Conflict",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy steps up for a heated race track challenge.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "8067313",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8067313",
+                    "Titles": {
+                        "eng": "A New Beginning",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy steps away from virtual racing.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "8067314",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8067314",
+                    "Titles": {
+                        "eng": "Unveiling the Flaming Lion",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "A special vehicle is passed down to Roy.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "8067315",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8067315",
+                    "Titles": {
+                        "eng": "Ruthless Galaxy",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy returns to the racing world.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "8067318",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8067318",
+                    "Titles": {
+                        "eng": "The Secret of the Floating Technique",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy learns the truth of a powerful racing maneuver.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "8067319",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8067319",
+                    "Titles": {
+                        "eng": "The Flaming Iron Takes Flight",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy and Galaxy both want to represent in the upcoming race - but there's only room for one.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "8067320",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8067320",
+                    "Titles": {
+                        "eng": "An Unexpected Guest from Planet Sirius",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy races a rival from another planet.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "8067321",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8067321",
+                    "Titles": {
+                        "eng": "The Galaxy Racing Competition",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "A robot racer arrives on the scene and has everyone blown away.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "8069115",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069115",
+                    "Titles": {
+                        "eng": "Battling Alone",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy's big win sets the stage for a major showdown.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "8069122",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069122",
+                    "Titles": {
+                        "eng": "One on One Battle",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "The Galaxy Racing competition its individual races.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "8069127",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069127",
+                    "Titles": {
+                        "eng": "The Dazzling Race",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy finds a dangerous threat outside the desert",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "8069138",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069138",
+                    "Titles": {
+                        "eng": "Duel",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy goes head to head with Bowie",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "8069141",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069141",
+                    "Titles": {
+                        "eng": "The Bat in the Dark",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Blood's evil plot begins to come into view.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "8069143",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069143",
+                    "Titles": {
+                        "eng": "The Third Eye",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy faces down Blood in a race.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "8069146",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069146",
+                    "Titles": {
+                        "eng": "Once Enemies",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "It's Roy versus Galaxy, old rivals headed for a racing showdown.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "8069148",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069148",
+                    "Titles": {
+                        "eng": "Galaxy's Secret",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Galaxy gives his vehicle a tune-up.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "8069152",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069152",
+                    "Titles": {
+                        "eng": "The Ultimate Challenge",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy and Galaxy are at a standstill with the judges.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "8069175",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069175",
+                    "Titles": {
+                        "eng": "A Hard Road Ahead",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy will need to go all out to defeat his enemy.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "8069176",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069176",
+                    "Titles": {
+                        "eng": "An Evil Plan Exposed",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Blood goes to a secret hideout, with surprising results.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "8069177",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069177",
+                    "Titles": {
+                        "eng": "The Pendant",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy learns about his family's legacy.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "8069179",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069179",
+                    "Titles": {
+                        "eng": "The Awakening of Galaxy",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "A shocking alliance may be building.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "8069180",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069180",
+                    "Titles": {
+                        "eng": "The Birth of Team of Glory",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy seeks to recruit a member for a new team.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "8069181",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069181",
+                    "Titles": {
+                        "eng": "Roar, Flaming Lion!",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy's team uncovers a shocking secret.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "8069182",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069182",
+                    "Titles": {
+                        "eng": "The Return of Blood",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Speed Leopard and Roy are headed for a high-flying duel.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "8069183",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069183",
+                    "Titles": {
+                        "eng": "Planet Sirius",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "The fate of the Flaming Lion hangs in the balance.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "8069186",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069186",
+                    "Titles": {
+                        "eng": "The Lost Prince",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy seeks out Chaka in his journey.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "8069188",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069188",
+                    "Titles": {
+                        "eng": "Master Beard",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Chaka presents Roy with a deadly challenge.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "8069189",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069189",
+                    "Titles": {
+                        "eng": "Weapons Upgraded",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Blood has trouble up his sleeve.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "8069191",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069191",
+                    "Titles": {
+                        "eng": "A Fierce Battle",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Chaka has a big day at the races.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "8069192",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069192",
+                    "Titles": {
+                        "eng": "Wake Up, Blood!",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Can Bowie come back from his sickness?",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "8069193",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069193",
+                    "Titles": {
+                        "eng": "The End of the Flaming Lion",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy and Blood head for a battle that could have long-lasting implications.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "8069195",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069195",
+                    "Titles": {
+                        "eng": "Rebirth",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy and the gang try to recover after the loss of the Flaming Lion.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "8069197",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069197",
+                    "Titles": {
+                        "eng": "The True Identity",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Tax manipulates Leno into an evil plot.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "8069199",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069199",
+                    "Titles": {
+                        "eng": "The Mysterious Man and the Race Begins!",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "The biggest race of Roy's life has arrived.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "8069200",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069200",
+                    "Titles": {
+                        "eng": "The Devil Machines",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Blood's team is primed for its biggest - and most dangerous - race yet.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "8069201",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069201",
+                    "Titles": {
+                        "eng": "The Riddlers",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy must face a shocking turn from his own family.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "8069203",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069203",
+                    "Titles": {
+                        "eng": "Friend or Foe?",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Alliances among the racers are tested.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "8069204",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069204",
+                    "Titles": {
+                        "eng": "Heads or Tails? The Judgment Coin",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Can Roy and the gang challenge the Devil Fighters?",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "8069205",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069205",
+                    "Titles": {
+                        "eng": "Revenge",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Bowie's injury calls for Roy to step up in a big way.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "8069207",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069207",
+                    "Titles": {
+                        "eng": "The Fangs Disappear",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Can the Team of Glory pull a surprising win?",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "8069208",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069208",
+                    "Titles": {
+                        "eng": "The Comeback",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "The Team of Glory must come up big after a crushing loss.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "8069209",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069209",
+                    "Titles": {
+                        "eng": "The Secret Mission",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "The Team of Glory needs a big win in crunch time if they hope to win tournament glory.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "8069210",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069210",
+                    "Titles": {
+                        "eng": "Bowie Shines!",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "A mysterious truth about Master Beard emerges.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "8069212",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069212",
+                    "Titles": {
+                        "eng": "Ultimate Boost",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy must take on Speed Dragon in a career-defining race.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "8069214",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069214",
+                    "Titles": {
+                        "eng": "An Accident",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Roy's pressure continues building as a sudden-death battle comes into view.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "8069216",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069216",
+                    "Titles": {
+                        "eng": "The Final Battle",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Can Team of Glory defeat the Devil Fighters once and for all?",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "8069217",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/galaxy-racers/episodes/8069217",
+                    "Titles": {
+                        "eng": "Perfect Victory",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "The Ultimate Race begins, as Roy's family hangs in the balance.",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

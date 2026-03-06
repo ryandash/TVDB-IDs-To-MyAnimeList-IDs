@@ -1,0 +1,95 @@
+{
+    "URL": "https://thetvdb.com/series/ghiblies",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy"
+    ],
+    "Other Sites": [],
+    "Titles": {
+        "eng": "Ghiblies",
+        "jpn": null
+    },
+    "Summaries": {
+        "eng": "Two Ghibli created shorts about the happenings in fictional animation studio, presumably based to some extent on their own. The first was aired during a TV special about Ghibli, the second shown in theatres alongside 'The Cat Returns'. Note that the animation studio in these shorts is not spelled ジブリ (hepburn: 'jiburi'), but ギブリ (hepburn: 'giburi'), so pronounced with the hard 'gi' of 'give' rather than the 'ji' of 'jigsaw' used for Ghibli.",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2011-11-19",
+    "Seasons": {
+        "0": {
+            "ID": "550982",
+            "URL": "https://thetvdb.com/series/ghiblies/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "5059626",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ghiblies/episodes/5059626",
+                    "Titles": {
+                        "eng": "Episode 2 Preview",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "Preview of episode 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "478757",
+            "URL": "https://thetvdb.com/series/ghiblies/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "rus": "Гиблисы"
+            },
+            "Summaries": {
+                "eng": null,
+                "jpn": null,
+                "rus": "Студия сняла крошечный фильм о самих себе, о \"Гиблисах\"."
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4207705",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ghiblies/episodes/4207705",
+                    "Titles": {
+                        "eng": "Ghiblies 1",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4207706",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ghiblies/episodes/4207706",
+                    "Titles": {
+                        "eng": "Ghiblies 2",
+                        "jpn": null
+                    },
+                    "Summaries": {
+                        "eng": "",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
