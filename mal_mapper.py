@@ -76,9 +76,10 @@ async def get_best_mal_id(search_term: str, anime_type: str, isSeason0: bool,
        If isSeason0 and ep_title_eng/jpn are provided, match against individual episodes of specials."""
     search_lower = search_term.lower()
     normalized_search = normalize_text(search_lower)
+    season0_search = normalized_search.split('(')[0].strip() if isSeason0 else None
 
     split_normalized_search = None
-    if ":" in search_term and anime_type == "movie":
+    if anime_type == "movie" and ":" in search_term:
         split_normalized_search = normalize_text(
             search_lower.split(":", 1)[1].strip()
         )
@@ -87,55 +88,60 @@ async def get_best_mal_id(search_term: str, anime_type: str, isSeason0: bool,
 
     search_results = data.get("data", []) if data else []
 
-    all_titles_seen = []
+    all_titles_seen = set()
     best_match = (None, 0)
 
-    for anime in search_results:
-        titles = [t["title"].lower() for t in anime.get("titles", []) if "title" in t]
-        all_titles_seen.extend(titles)
+    normalized_eng = normalize_text(ep_title_eng) if ep_title_eng else None
+    normalized_jpn = normalize_text(ep_title_jpn) if ep_title_jpn else None
 
-        for title in titles:
+    for anime in search_results:
+        mal_id = anime["mal_id"]
+        titles = [
+            (title := t["title"].lower(), normalize_text(title))
+            for t in anime.get("titles", [])
+            if "title" in t
+        ]
+        all_titles_seen.update(raw for raw, _ in titles)
+
+        for raw_title, normalized_title in titles:
+            if normalized_title == normalized_search:
+                return mal_id, []
             if isSeason0:
                 similarity = fuzz.ratio(
-                    normalize_text(title), normalized_search.split('(')[0].strip()
+                    normalized_title, season0_search
                 )
             else:
                 similarity = fuzz.ratio(
-                    normalize_text(title), normalized_search
+                    normalized_title, normalized_search
                 )
             if similarity >= 85 and similarity > best_match[1]:
-                best_match = (anime["mal_id"], similarity)
-
-            if isSeason0 and (ep_title_eng or ep_title_jpn):
-                episode_data  = await safe_jikan.get_anime_episodes(anime["mal_id"])
-
-                normalized_eng = normalize_text(ep_title_eng) if ep_title_eng else None
-                normalized_jpn = normalize_text(ep_title_jpn) if ep_title_jpn else None
-                
-                for episode in episode_data["data"]:
-                    ep_titles = [
-                        normalize_text(episode.get("title")),
-                        normalize_text(episode.get("title_japanese"))
-                    ]
-                    if normalized_eng and any(t and fuzz.ratio(normalized_eng, t) >= 90 for t in ep_titles):
-                        # print(f"Matched episode title '{ep_title_eng}' in episode '{episode.get('title')}'")
-                        return anime["mal_id"], []
-                    if normalized_jpn and any(t and fuzz.ratio(normalized_jpn, t) >= 90 for t in ep_titles):
-                        # print(f"Matched episode title '{ep_title_jpn}' in episode '{episode.get('title_japanese')}'")
-                        return anime["mal_id"], []
+                best_match = (mal_id, similarity)
 
             if split_normalized_search and anime_type == "movie":
-                parts = title.split(":", 1)
+                parts = raw_title.split(":", 1)
                 if len(parts) > 1:
                     split_title = normalize_text(parts[1].strip())
                     split_similarity = fuzz.ratio(split_title, split_normalized_search)
                     if split_similarity >= 90 and split_similarity > best_match[1]:
-                        best_match = (anime["mal_id"], split_similarity)
+                        best_match = (mal_id, split_similarity)
+        
+        if isSeason0 and (normalized_eng or normalized_jpn):
+            episode_data  = await safe_jikan.get_anime_episodes(mal_id)
+            
+            for episode in episode_data["data"]:
+                eng = normalize_text(episode.get("title"))
+                jpn = normalize_text(episode.get("title_japanese"))
+
+                if normalized_eng and eng and fuzz.ratio(normalized_eng, eng) >= 90:
+                    return mal_id, []
+
+                if normalized_jpn and jpn and fuzz.ratio(normalized_jpn, jpn) >= 90:
+                    return mal_id, []
 
     if best_match[0] is not None:
         return best_match[0], []
 
-    return None, all_titles_seen
+    return None, list(all_titles_seen)
 
 
 async def get_mal_episode_count(mal_id: int) -> int | None:
