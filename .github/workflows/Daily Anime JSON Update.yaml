@@ -57,7 +57,7 @@ jobs:
     needs: scrape_jikan
     runs-on: ubuntu-latest
     container:
-      image: mcr.microsoft.com/playwright/python:v1.50.0-noble
+      image: mcr.microsoft.com/playwright/python:latest
     strategy:
       max-parallel: 20
       matrix:
@@ -81,6 +81,7 @@ jobs:
           restore-keys: venv-
 
       - name: Scrape Data
+        shell: bash
         run: |
           source ~/.venv/bin/activate
           python thetvdb_scraper.py --worker ${{ matrix.worker }} --delete-folder
