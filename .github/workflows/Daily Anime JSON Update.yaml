@@ -56,8 +56,6 @@ jobs:
   scrape_worker:
     needs: scrape_jikan
     runs-on: ubuntu-latest
-    container:
-      image: mcr.microsoft.com/playwright/python:v1.58.0-jammy
     strategy:
       max-parallel: 20
       matrix:
