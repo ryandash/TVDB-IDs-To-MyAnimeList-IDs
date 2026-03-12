@@ -22,12 +22,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
         with:
           fetch-depth: 1
 
       - name: Cache Python dependencies
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: ~/.venv
           key: venv-${{ hashFiles('requirements.txt') }}
@@ -47,7 +47,7 @@ jobs:
           python get_anime_data.py
 
       - name: Upload Jikan Data
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: jikan-data
           path: min_map_data/
@@ -63,7 +63,7 @@ jobs:
     
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
 
       - name: Download Jikan Data
         uses: actions/download-artifact@v5
@@ -72,7 +72,7 @@ jobs:
           path: min_map_data
 
       - name: Cache pip
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: ~/.cache/pip
           key: pip-${{ hashFiles('requirements.txt') }}
@@ -88,7 +88,7 @@ jobs:
           python thetvdb_scraper.py --worker ${{ matrix.worker }} --delete-folder
       
       - name: Upload page outputs
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: anime_data-${{ matrix.worker }}
           path: |
@@ -101,7 +101,7 @@ jobs:
           python mal_mapper.py
 
       - name: Upload page outputs
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: mapped_data-${{ matrix.worker }}
           path: |
@@ -119,7 +119,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
         with:
           fetch-depth: 0
           persist-credentials: true
@@ -141,13 +141,13 @@ jobs:
           merge-multiple: true
 
       - name: Download mapped_data artifacts
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v8
         with:
           path: artifacts
           pattern: mapped_data-*
 
       - name: Cache Python dependencies
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: ~/.venv
           key: venv-${{ hashFiles('requirements.txt') }}
