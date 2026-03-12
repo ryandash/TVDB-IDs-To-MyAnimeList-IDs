@@ -220,7 +220,7 @@ async def scrape_episode(session: aiohttp.ClientSession, ep_info, season_eps: di
     soup = BeautifulSoup(html, "html.parser")
     translations, aliases = parse_translations(soup)
     titles = {lang: data.get("title") for lang, data in translations.items()}
-    summaries = {lang: data.get("summary") for lang, data in translations.items()}
+    # summaries = {lang: data.get("summary") for lang, data in translations.items()}
 
     if titles.get("eng", "") == "TBA":
         return
@@ -243,7 +243,7 @@ async def scrape_episode(session: aiohttp.ClientSession, ep_info, season_eps: di
         "TYPE": type_text,
         "URL": ep_url,
         "Titles": titles,
-        "Summaries": summaries,
+        #"Summaries": summaries,
         "Aliases": aliases
     }
 
@@ -261,13 +261,13 @@ async def scrape_season(session: aiohttp.ClientSession, season_url: str, numEpis
 
         translations = parse_season_translations(soup)
         titles = {lang: data.get("title") for lang, data in translations.items()}
-        summaries = {lang: data.get("summary") for lang, data in translations.items()}
+        # summaries = {lang: data.get("summary") for lang, data in translations.items()}
         
         season_dict.update({
             "ID": season_id,
             "URL": season_url,
             "Titles": titles,
-            "Summaries": summaries,
+            #"Summaries": summaries,
             "# Episodes": int(numEpisodes)
         })
     
@@ -370,7 +370,7 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
     if not existing:
         translations, aliases = parse_translations(soup)
         titles = {lang: data.get("title") for lang, data in translations.items()}
-        summaries = {lang: data.get("summary") for lang, data in translations.items()}
+        # summaries = {lang: data.get("summary") for lang, data in translations.items()}
 
         if not titles.get("eng"):
             if not titles.get("jpn"):
@@ -384,7 +384,7 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
         "Genres": genres,
         "Other Sites": other_sites,
         "Titles": titles,
-        "Summaries": summaries,
+        #"Summaries": summaries,
         "Aliases": aliases,
         "Modified": modified_date.isoformat() if modified_date else None,
         "Seasons": {}
