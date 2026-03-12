@@ -66,7 +66,7 @@ jobs:
         uses: actions/checkout@v6
 
       - name: Download Jikan Data
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v8
         with:
           name: jikan-data
           path: min_map_data
@@ -128,13 +128,13 @@ jobs:
         run: rm -rf min_map_data
 
       - name: Download Jikan Data
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v8
         with:
           name: jikan-data
           path: min_map_data
 
       - name: Download anime_data artifacts
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v8
         with:
           path: anime_data
           pattern: anime_data-*
