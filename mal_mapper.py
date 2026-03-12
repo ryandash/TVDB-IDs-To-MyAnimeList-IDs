@@ -28,9 +28,6 @@ DATA_DIR.mkdir(exist_ok=True)
 safe_jikan = SafeJikan()
 # google_search = GoogleSearch()
 
-# Regex patterns
-NORMALIZE_REGEX = re.compile(r"[:.!]")
-
 # ----------------------
 # Helpers
 # ----------------------
@@ -60,6 +57,9 @@ def safe_load_json(path: Path) -> dict:
                     return {}
         print("[ERROR] Could not salvage JSON.")
         return {}
+
+# Regex patterns
+NORMALIZE_REGEX = re.compile(r"\[.*?\]|\s*-\s*#?\d+.*|[:.!]")
 
 def normalize_text(name: str) -> str:
     """Normalize anime title for better fuzzy matching."""
