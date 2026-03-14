@@ -1,23 +1,18 @@
-import aiohttp
 import asyncio
+import aiohttp
 import json
-import os
 import re
-from datetime import datetime, timezone
-from pathlib import Path
-from math import ceil
-from typing import List, Optional
-from rapidfuzz import fuzz
-from safe_jikan import SafeJikan
-from urllib.parse import quote
-from datetime import datetime
-from tqdm.asyncio import tqdm_asyncio
-from tqdm import tqdm
 
-# -----------------------------
-# Data Classes
-# -----------------------------
-from dataclasses import dataclass, field
+from dataclasses import dataclass, field, asdict
+from datetime import datetime, timezone
+from math import ceil
+from pathlib import Path
+from typing import List, Optional
+from urllib.parse import quote
+
+from rapidfuzz import fuzz
+from tqdm import tqdm
+from safe_jikan import SafeJikan
 
 @dataclass
 class TitleEntry:
@@ -54,15 +49,14 @@ BASE_DIR.mkdir(parents=True, exist_ok=True)
 MOVIE_DIR.mkdir(parents=True, exist_ok=True)
 SERIES_DIR.mkdir(parents=True, exist_ok=True)
 
-# For file locks to prevent race conditions
-file_locks = {}
-
 # -----------------------------
 # Helpers
 # -----------------------------
+from collections import defaultdict
+
+file_locks: dict[Path, asyncio.Lock] = defaultdict(asyncio.Lock)
+
 def get_file_lock(path: Path):
-    if path not in file_locks:
-        file_locks[path] = asyncio.Lock()
     return file_locks[path]
 
 # -----------------------------
@@ -96,6 +90,12 @@ async def get_latest_algolia_key():
 # -----------------------------
 # Fetch New Anime
 # -----------------------------
+TITLE_PRIORITY = {
+    "japanese": 0,
+    "english": 1,
+    "default": 2,
+}
+
 async def get_new_anime(existing_anime: List, meta_file: str | None, type_: str) -> List[MinimalAnime]:
     meta: Optional[FetchMeta] = None
 
@@ -152,22 +152,13 @@ async def get_new_anime(existing_anime: List, meta_file: str | None, type_: str)
             for t in a.get("titles", [])
             if t["type"].lower() != "synonym"
         ]
-        type_priority = {
-            "japanese": 0,
-            "english": 1,
-            "default": 2,
-        }
-        titles.sort(key=lambda t: type_priority.get(t.type.lower(), 3))
+        titles.sort(key=lambda t: TITLE_PRIORITY.get(t.type.lower(), 3))
 
         aired_from = a.get("aired", {}).get("from")
-        if aired_from:
-            try:
-                year = datetime.fromisoformat(aired_from.replace("Z", "+00:00")).year
-            except Exception:
-                year = None
-        else:
-            year = a.get("year")
-        year = year or 0
+        try:
+            year = datetime.fromisoformat(aired_from.replace("Z","+00:00")).year if aired_from else 0
+        except Exception:
+            year = a.get("year") or 0
 
         new_entries.append(MinimalAnime(
             malId=a["mal_id"],
@@ -196,8 +187,7 @@ async def preload_file_map() -> dict[int, Path]:
     for folder in (MOVIE_DIR, SERIES_DIR):
         for file in folder.glob("*.json"):
             try:
-                with open(file, "r", encoding="utf-8") as f:
-                    data = json.load(f)
+                data = json.loads(file.read_text("utf-8"))
                 mal_id = data.get("MalId")
                 if mal_id:
                     file_map[int(mal_id)] = file
@@ -246,7 +236,9 @@ async def process_relations_worker(queue: asyncio.Queue, old_entries, file_map, 
             # Insert into new_entries_ordered (only among new entries)
             if sequels_in_list:
                 # Only consider sequels that are already in new_entries_ordered
-                sequels_in_new = [s for s in sequels_in_list if any(a.malId == s for a in new_entries_ordered)]
+                new_ids = set()
+                new_ids = {a.malId for a in new_entries_ordered}
+                sequels_in_new = [s for s in sequels_in_list if s in new_ids]
                 if sequels_in_new:
                     first_sequel_idx_new = min(
                         i for i, a in enumerate(new_entries_ordered) if a.malId in sequels_in_new
@@ -287,9 +279,11 @@ async def insert_new_entries_before_sequels(new_entries: List[MinimalAnime], old
 
     return merged_entries, new_entries_ordered
 
+PAREN_REGEX = re.compile(r"\s*\([^)]*\)")
+
 def remove_parentheses(s: str) -> str:
     """Remove anything between ( and ) including the parentheses."""
-    return re.sub(r"\s*\([^)]*\)", "", s).strip()
+    return PAREN_REGEX.sub("", s).strip()
 
 # -----------------------------
 # Search TVDB and Save
@@ -360,7 +354,7 @@ async def search_and_save_tvdb_hits(key: str, anime_list: list[MinimalAnime]):
                                     async with lock:
                                         if not output_path.exists():
                                             with open(output_path, "w", encoding="utf-8") as f:
-                                                json.dump(match.__dict__, f, indent=2)
+                                                json.dump(asdict(match), f, indent=2)
                                     success = True
                                     break
                     except Exception as e:
@@ -383,7 +377,7 @@ async def load_anime_json(path: Path) -> List[MinimalAnime]:
             malId=x["malId"],
             aniType=x["aniType"],
             year=x["year"],
-            titles=[TitleEntry(**t) for t in x.get("titles", [])]
+            titles=[TitleEntry(t["title"], t["type"]) for t in x.get("titles", [])]
         )
         for x in data
     ]
