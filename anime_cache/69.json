@@ -1,0 +1,46 @@
+{
+  "malId": 69,
+  "type": "TV",
+  "titles": [
+    {
+      "title": "Cluster Edge",
+      "type": "Default"
+    },
+    {
+      "title": "CLUSTER EDGE（クラスターエッジ）",
+      "type": "Japanese"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 3028,
+          "type": "anime",
+          "name": "Cluster Edge Specials",
+          "url": "https://myanimelist.net/anime/3028/Cluster_Edge_Specials"
+        }
+      ]
+    }
+  ],
+  "episodes": 25,
+  "url": "https://myanimelist.net/anime/69/Cluster_Edge",
+  "aired": {
+    "from": "2005-10-05T00:00:00+00:00",
+    "to": "2006-03-29T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 5,
+        "month": 10,
+        "year": 2005
+      },
+      "to": {
+        "day": 29,
+        "month": 3,
+        "year": 2006
+      }
+    },
+    "string": "Oct 5, 2005 to Mar 29, 2006"
+  }
+}

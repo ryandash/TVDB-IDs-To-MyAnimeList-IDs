@@ -1,0 +1,76 @@
+{
+  "malId": 137,
+  "type": "OVA",
+  "titles": [
+    {
+      "title": "Hunter x Hunter: Original Video Animation",
+      "type": "Default"
+    },
+    {
+      "title": "Hunter x Hunter OVA",
+      "type": "Synonym"
+    },
+    {
+      "title": "Hunter x Hunter: Yorkshin City Kanketsu-hen",
+      "type": "Synonym"
+    },
+    {
+      "title": "HUNTER×HUNTER Original Video Animation",
+      "type": "Japanese"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 136,
+          "type": "anime",
+          "name": "Hunter x Hunter",
+          "url": "https://myanimelist.net/anime/136/Hunter_x_Hunter"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 138,
+          "type": "anime",
+          "name": "Hunter x Hunter: Greed Island",
+          "url": "https://myanimelist.net/anime/138/Hunter_x_Hunter__Greed_Island"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 11061,
+          "type": "anime",
+          "name": "Hunter x Hunter (2011)",
+          "url": "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011"
+        }
+      ]
+    }
+  ],
+  "episodes": 8,
+  "url": "https://myanimelist.net/anime/137/Hunter_x_Hunter__Original_Video_Animation",
+  "aired": {
+    "from": "2002-01-17T00:00:00+00:00",
+    "to": "2002-04-17T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 17,
+        "month": 1,
+        "year": 2002
+      },
+      "to": {
+        "day": 17,
+        "month": 4,
+        "year": 2002
+      }
+    },
+    "string": "Jan 17, 2002 to Apr 17, 2002"
+  }
+}

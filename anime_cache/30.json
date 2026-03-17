@@ -1,0 +1,179 @@
+{
+  "malId": 30,
+  "type": "TV",
+  "titles": [
+    {
+      "title": "Shinseiki Evangelion",
+      "type": "Default"
+    },
+    {
+      "title": "NGE",
+      "type": "Synonym"
+    },
+    {
+      "title": "Evangelion (1995)",
+      "type": "Synonym"
+    },
+    {
+      "title": "新世紀エヴァンゲリオン",
+      "type": "Japanese"
+    },
+    {
+      "title": "Neon Genesis Evangelion",
+      "type": "English"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 32,
+          "type": "anime",
+          "name": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
+          "url": "https://myanimelist.net/anime/32/Shinseiki_Evangelion_Movie__Air_Magokoro_wo_Kimi_ni"
+        }
+      ]
+    },
+    {
+      "relation": "Spin-Off",
+      "entry": [
+        {
+          "mal_id": 4130,
+          "type": "anime",
+          "name": "Petit Eva: Evangelion@School",
+          "url": "https://myanimelist.net/anime/4130/Petit_Eva__EvangelionSchool"
+        }
+      ]
+    },
+    {
+      "relation": "Summary",
+      "entry": [
+        {
+          "mal_id": 31,
+          "type": "anime",
+          "name": "Shinseiki Evangelion Movie: Shi to Shinsei",
+          "url": "https://myanimelist.net/anime/31/Shinseiki_Evangelion_Movie__Shi_to_Shinsei"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 2759,
+          "type": "anime",
+          "name": "Evangelion Movie 1: Jo",
+          "url": "https://myanimelist.net/anime/2759/Evangelion_Movie_1__Jo"
+        },
+        {
+          "mal_id": 3784,
+          "type": "anime",
+          "name": "Evangelion Movie 2: Ha",
+          "url": "https://myanimelist.net/anime/3784/Evangelion_Movie_2__Ha"
+        },
+        {
+          "mal_id": 3785,
+          "type": "anime",
+          "name": "Evangelion Movie 3: Q",
+          "url": "https://myanimelist.net/anime/3785/Evangelion_Movie_3__Q"
+        },
+        {
+          "mal_id": 3786,
+          "type": "anime",
+          "name": "Shin Evangelion Movie:||",
+          "url": "https://myanimelist.net/anime/3786/Shin_Evangelion_Movie_||"
+        }
+      ]
+    },
+    {
+      "relation": "Character",
+      "entry": [
+        {
+          "mal_id": 31115,
+          "type": "anime",
+          "name": "Schick x Evangelion",
+          "url": "https://myanimelist.net/anime/31115/Schick_x_Evangelion"
+        },
+        {
+          "mal_id": 43745,
+          "type": "anime",
+          "name": "Attack Zero x Evangelion",
+          "url": "https://myanimelist.net/anime/43745/Attack_Zero_x_Evangelion"
+        },
+        {
+          "mal_id": 43751,
+          "type": "anime",
+          "name": "Ayanami Rei, Hajimete no Kuchibeni",
+          "url": "https://myanimelist.net/anime/43751/Ayanami_Rei_Hajimete_no_Kuchibeni"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 23023,
+          "type": "anime",
+          "name": "Peaceful Times (F02) Petit Film",
+          "url": "https://myanimelist.net/anime/23023/Peaceful_Times_F02_Petit_Film"
+        },
+        {
+          "mal_id": 28149,
+          "type": "anime",
+          "name": "Nihon Animator Mihonichi",
+          "url": "https://myanimelist.net/anime/28149/Nihon_Animator_Mihonichi"
+        },
+        {
+          "mal_id": 41030,
+          "type": "anime",
+          "name": "Evangelion Shito, Hakata Shuurai",
+          "url": "https://myanimelist.net/anime/41030/Evangelion_Shito_Hakata_Shuurai"
+        },
+        {
+          "mal_id": 63018,
+          "type": "anime",
+          "name": "Evangelion: Chao Xianshi",
+          "url": "https://myanimelist.net/anime/63018/Evangelion__Chao_Xianshi"
+        },
+        {
+          "mal_id": 47307,
+          "type": "anime",
+          "name": "Shin Gengou Nyankogelion",
+          "url": "https://myanimelist.net/anime/47307/Shin_Gengou_Nyankogelion"
+        },
+        {
+          "mal_id": 63392,
+          "type": "anime",
+          "name": "Evangelion: Housou 30-shuunen Kinen Tokubetsu Kougyou",
+          "url": "https://myanimelist.net/anime/63392/Evangelion__Housou_30-shuunen_Kinen_Tokubetsu_Kougyou"
+        },
+        {
+          "mal_id": 63534,
+          "type": "anime",
+          "name": "Shinseiki Evangelion (Shinsaku Series)",
+          "url": "https://myanimelist.net/anime/63534/Shinseiki_Evangelion_Shinsaku_Series"
+        }
+      ]
+    }
+  ],
+  "episodes": 26,
+  "url": "https://myanimelist.net/anime/30/Shinseiki_Evangelion",
+  "aired": {
+    "from": "1995-10-04T00:00:00+00:00",
+    "to": "1996-03-27T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 4,
+        "month": 10,
+        "year": 1995
+      },
+      "to": {
+        "day": 27,
+        "month": 3,
+        "year": 1996
+      }
+    },
+    "string": "Oct 4, 1995 to Mar 27, 1996"
+  }
+}

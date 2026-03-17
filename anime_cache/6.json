@@ -1,0 +1,61 @@
+{
+  "malId": 6,
+  "type": "TV",
+  "titles": [
+    {
+      "title": "Trigun",
+      "type": "Default"
+    },
+    {
+      "title": "トライガン",
+      "type": "Japanese"
+    },
+    {
+      "title": "Trigun",
+      "type": "English"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 4106,
+          "type": "anime",
+          "name": "Trigun: Badlands Rumble",
+          "url": "https://myanimelist.net/anime/4106/Trigun__Badlands_Rumble"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 52093,
+          "type": "anime",
+          "name": "Trigun Stampede",
+          "url": "https://myanimelist.net/anime/52093/Trigun_Stampede"
+        }
+      ]
+    }
+  ],
+  "episodes": 26,
+  "url": "https://myanimelist.net/anime/6/Trigun",
+  "aired": {
+    "from": "1998-04-01T00:00:00+00:00",
+    "to": "1998-09-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 4,
+        "year": 1998
+      },
+      "to": {
+        "day": 30,
+        "month": 9,
+        "year": 1998
+      }
+    },
+    "string": "Apr 1, 1998 to Sep 30, 1998"
+  }
+}

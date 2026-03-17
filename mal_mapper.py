@@ -6,7 +6,7 @@ Attempts to map TVDB series/seasons/episodes/movies to MyAnimeList URLs.
 """
 
 import asyncio
-import json
+import orjson
 import re
 from pathlib import Path
 from typing import Optional, Union
@@ -25,7 +25,6 @@ LOG_FILE = "mapping.log"
 DATA_DIR = Path("anime_data")
 DATA_DIR.mkdir(exist_ok=True)
 
-safe_jikan = SafeJikan()
 # google_search = GoogleSearch()
 
 # ----------------------
@@ -35,9 +34,9 @@ safe_jikan = SafeJikan()
 def safe_load_json(path: Path) -> dict:
     """Load JSON safely; try to salvage truncated files."""
     try:
-        with open(path, encoding="utf-8") as f:
-            return json.load(f)
-    except json.JSONDecodeError as e:
+        with open(path, "rb") as f:  # read as bytes
+            return orjson.loads(f.read())
+    except orjson.JSONDecodeError as e:
         print(f"\n[WARN] Corrupted JSON at {e.pos}, trying salvage...")
         lines = path.read_text(encoding="utf-8").splitlines(True)
 
@@ -48,7 +47,7 @@ def safe_load_json(path: Path) -> dict:
                     lines[i - 1] = lines[i - 1].rstrip()[:-2] + "}\n"
                 lines = lines[:i] + ["}\n"]
                 try:
-                    data = json.loads("".join(lines))
+                    data = orjson.loads("".join(lines).encode("utf-8"))
                     path.write_text("".join(lines), encoding="utf-8")
                     print("[INFO] Salvage successful (last anime truncated).")
                     return data
@@ -168,7 +167,6 @@ async def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, vis
         return None
     
     normalized_title = normalize_text(season_title) if season_title else None
-    anime_cache: dict[int, dict] = {}
     title_match_id = None
     sequel_candidates: list[tuple[int, str]] = []
 
@@ -179,19 +177,16 @@ async def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, vis
     ]
 
     for rel_id, rel_name in sequel_entries:
-        if rel_id not in anime_cache:
-            anime_data = await safe_jikan.get_anime(rel_id)
-            if not anime_data or "data" not in anime_data:
-                continue
-            anime_cache[rel_id] = anime_data["data"]
+        anime_obj = await safe_jikan.get_anime(rel_id)
+        if not anime_obj:
+            continue
 
-        anime_info = anime_cache[rel_id]
-        anime_type = (anime_info.get("type") or "").lower()
+        anime_type = (anime_obj.aniType or "").lower()
         sequel_candidates.append((rel_id, anime_type))
 
         # Step 1: check for title match
         if normalized_title:
-            titles = [normalize_text(t["title"]) for t in anime_info.get("titles", []) if "title" in t]
+            titles = [normalize_text(t.title) for t in anime_obj.titles]
             if any(fuzz.ratio(t, normalized_title) >= 90 for t in titles):
                 title_match_id = rel_id
                 print(f"Matched season title '{season_title}' in relation '{rel_name}'")
@@ -206,13 +201,12 @@ async def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, vis
     if not sequel_id:
         return None
 
-    anime_info = anime_cache.get(sequel_id)
-    if not anime_info:
-        data = await safe_jikan.get_anime(sequel_id)
-        anime_info = data.get("data", {}) if data else {}
+    anime_obj = await safe_jikan.get_anime(sequel_id)
+    if not anime_obj:
+        return None
 
-    mal_eps = anime_info.get("episodes") if isinstance(anime_info.get("episodes"), int) else 0
-    anime_type = anime_info.get("type")
+    mal_eps = anime_obj.episodes or 0
+    anime_type = anime_obj.aniType
 
     print(f"New mal id {sequel_id} mal_eps: {mal_eps} offset_eps: {offset_eps}")
 
@@ -359,7 +353,7 @@ async def map_anime():
 
         if Path(mapped_out).exists():
             with open(mapped_out, "r", encoding="utf-8") as f:
-                oldmapped = json.load(f)
+                oldmapped = orjson.load(f)
                 lookup = load_mapped_lookup(oldmapped)
         else:
             lookup = {}
@@ -592,20 +586,20 @@ async def map_anime():
                             continue
 
         # Save progress after each series
-        with open(mapped_out, "w", encoding="utf-8") as f:
-            json.dump(mapped, f, indent=2, ensure_ascii=False)
+        with open(mapped_out, "wb") as f:
+            f.write(orjson.dumps(mapped, orjson.OPT_PASSTHROUGH_DATACLASS))
         all_unmapped_series.extend(unmapped_series)
         all_unmapped_seasons.extend(unmapped_seasons)
         all_unmapped_episodes.extend(unmapped_episodes)
 
         print(f"\nTotal mapped: {len(mapped)}, unmapped series: {len(unmapped_series)} unmapped seasons: {len(unmapped_seasons)} unmapped episodes: {len(unmapped_episodes)}")
 
-    with open("unmapped-series.json", "w", encoding="utf-8") as f:
-        json.dump(all_unmapped_series, f, indent=2, ensure_ascii=False)
-    with open("unmapped-seasons.json", "w", encoding="utf-8") as f:
-        json.dump(all_unmapped_seasons, f, indent=2, ensure_ascii=False)
-    with open("unmapped-episodes.json", "w", encoding="utf-8") as f:
-        json.dump(all_unmapped_episodes, f, indent=2, ensure_ascii=False)
+    with open("unmapped-series.json", "wb") as f:
+        f.write(orjson.dumps(all_unmapped_series, orjson.OPT_PASSTHROUGH_DATACLASS))
+    with open("unmapped-seasons.json", "wb") as f:
+        f.write(orjson.dumps(all_unmapped_seasons, orjson.OPT_PASSTHROUGH_DATACLASS))
+    with open("unmapped-episodes.json", "wb") as f:
+        f.write(orjson.dumps(all_unmapped_episodes, orjson.OPT_PASSTHROUGH_DATACLASS))
     print(f"\nMapping complete!")
 
 # ----------------------
@@ -614,6 +608,9 @@ async def map_anime():
 
 if __name__ == "__main__":
     async def main():
+        safe_jikan = SafeJikan()
+        await safe_jikan.preload_disk_cache()
+        
         try:
             await map_anime()
         finally:

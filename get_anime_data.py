@@ -22,7 +22,7 @@ class TitleEntry:
 @dataclass
 class MinimalAnime:
     malId: int
-    aniType: str
+    type: str
     year: int
     titles: List[TitleEntry] = field(default_factory=list)
 
@@ -38,6 +38,8 @@ class TVDBMatches:
     MalId: int
     Name: str
     Url: str
+
+TEST_MODE = False
 
 # -----------------------------
 # Global HTTP client and semaphore
@@ -116,7 +118,6 @@ async def get_new_anime(existing_anime: List, meta_file: str | None, type_: str)
     if previously_fetched >= total_from_jikan:
         print("No new entries from Jikan.")
         await update_meta(meta_path, total_from_jikan, per_page)
-        # return existing_anime # For troubleshooting
         return []
 
     remaining = total_from_jikan - previously_fetched
@@ -162,7 +163,7 @@ async def get_new_anime(existing_anime: List, meta_file: str | None, type_: str)
 
         new_entries.append(MinimalAnime(
             malId=a["mal_id"],
-            aniType=a["type"],
+            type=a["type"],
             year=year,
             titles=titles
         ))
@@ -236,7 +237,6 @@ async def process_relations_worker(queue: asyncio.Queue, old_entries, file_map, 
             # Insert into new_entries_ordered (only among new entries)
             if sequels_in_list:
                 # Only consider sequels that are already in new_entries_ordered
-                new_ids = set()
                 new_ids = {a.malId for a in new_entries_ordered}
                 sequels_in_new = [s for s in sequels_in_list if s in new_ids]
                 if sequels_in_new:
@@ -265,9 +265,16 @@ async def insert_new_entries_before_sequels(new_entries: List[MinimalAnime], old
 
     worker_task = asyncio.create_task(process_relations_worker(queue, old_entries, file_map, lock))
 
+    relations_dump = {}
+
+    # Sort by MAL ID
+    new_entries = sorted(new_entries, key=lambda a: a.malId)
+
     for new_anime in tqdm(new_entries, desc="Fetching relations"):
         try:
             rel_data = await JIKAN.get_anime_relations(new_anime.malId)
+            relations_dump[new_anime.malId] = rel_data
+
         except Exception as e:
             print(f"Failed to fetch relations for {new_anime.malId}: {e}")
             rel_data = None
@@ -275,6 +282,12 @@ async def insert_new_entries_before_sequels(new_entries: List[MinimalAnime], old
 
     await queue.put(None)
     await queue.join()
+
+    (BASE_DIR / "relations_debug.json").write_text(
+        json.dumps(relations_dump, indent=2),
+        encoding="utf-8"
+    )
+
     merged_entries, new_entries_ordered = await worker_task
 
     return merged_entries, new_entries_ordered
@@ -295,7 +308,7 @@ async def search_and_save_tvdb_hits(key: str, anime_list: list[MinimalAnime]):
     }) as session:
         
         for anime in tqdm(anime_list, desc="Processing TVDB hits sequentially"):
-            facet_type = "movie" if anime.aniType.lower() == "movie" else "series"
+            facet_type = "movie" if anime.type.lower() == "movie" else "series"
             output_dir = MOVIE_DIR if facet_type == "movie" else SERIES_DIR
 
             if anime.year == 0:
@@ -375,7 +388,7 @@ async def load_anime_json(path: Path) -> List[MinimalAnime]:
     return [
         MinimalAnime(
             malId=x["malId"],
-            aniType=x["aniType"],
+            type=x["type"],
             year=x["year"],
             titles=[TitleEntry(t["title"], t["type"]) for t in x.get("titles", [])]
         )
@@ -388,7 +401,7 @@ async def save_anime_json(path: Path, anime_list: List[MinimalAnime]):
         json.dump([
             {
                 "malId": x.malId,
-                "aniType": x.aniType,
+                "type": x.type,
                 "year": x.year,
                 "titles": [t.__dict__ for t in x.titles]
             } for x in anime_list
@@ -401,29 +414,30 @@ async def save_anime_json(path: Path, anime_list: List[MinimalAnime]):
 async def main():
     global JIKAN
     JIKAN = SafeJikan()
+    await JIKAN.preload_disk_cache()
 
     key = await get_latest_algolia_key()
 
-    # --- MOVIES ---
     movie_json_path = BASE_DIR / "all_anime_movies.json"
     existing_movies = await load_anime_json(movie_json_path)
     print(f"Loaded {len(existing_movies)} movies from {movie_json_path.name}.")
 
-    new_movies = await get_new_anime(existing_movies, "all_anime_movies", "movie")
-    await save_anime_json(movie_json_path, existing_movies + new_movies)
-
-    # --- SERIES (TV + ONA) ---
     series_json_path = BASE_DIR / "all_anime_series.json"
     old_series = await load_anime_json(series_json_path)
     print(f"Loaded {len(old_series)} series from {series_json_path.name}.")
 
-    new_tvs = await get_new_anime(old_series, "all_tv_anime", "tv")
-    new_onas = await get_new_anime(old_series, "all_ona_anime", "ona")
-    new_ovas = await get_new_anime(old_series, "all_ova_anime", "ova")
-    new_specials = await get_new_anime(old_series, "all_special_anime", "special")
-    tv_specials = await get_new_anime(old_series, "all_tv_special_anime", "tv_special")
-    all_entries, all_new_series = await insert_new_entries_before_sequels(new_tvs + new_onas + new_ovas + new_specials + tv_specials, old_series)
-    await save_anime_json(series_json_path, all_entries)
+    if TEST_MODE:
+        all_entries, all_new_series = await insert_new_entries_before_sequels(existing_movies + old_series, [])
+    else:
+        new_movies = await get_new_anime(existing_movies, "all_anime_movies", "movie")
+        await save_anime_json(movie_json_path, existing_movies + new_movies)
+        new_tvs = await get_new_anime(old_series, "all_tv_anime", "tv")
+        new_onas = await get_new_anime(old_series, "all_ona_anime", "ona")
+        new_ovas = await get_new_anime(old_series, "all_ova_anime", "ova")
+        new_specials = await get_new_anime(old_series, "all_special_anime", "special")
+        tv_specials = await get_new_anime(old_series, "all_tv_special_anime", "tv_special")
+        all_entries, all_new_series = await insert_new_entries_before_sequels(new_movies + new_tvs + new_onas + new_ovas + new_specials + tv_specials, old_series)
+        await save_anime_json(series_json_path, all_entries)
 
     # --- SEARCH AND SAVE TO TVDB ---
     await search_and_save_tvdb_hits(key, all_new_series + new_movies)

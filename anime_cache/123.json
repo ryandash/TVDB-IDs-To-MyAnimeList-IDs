@@ -1,0 +1,70 @@
+{
+  "malId": 123,
+  "type": "TV",
+  "titles": [
+    {
+      "title": "Fushigi Yuugi",
+      "type": "Default"
+    },
+    {
+      "title": "Fushigi Yugi",
+      "type": "Synonym"
+    },
+    {
+      "title": "Curious Play",
+      "type": "Synonym"
+    },
+    {
+      "title": "ふしぎ遊戯",
+      "type": "Japanese"
+    },
+    {
+      "title": "Mysterious Play",
+      "type": "English"
+    },
+    {
+      "title": "Fushigi Yugi",
+      "type": "German"
+    },
+    {
+      "title": "El Juego Misterioso: Fushigi Yugi",
+      "type": "Spanish"
+    },
+    {
+      "title": "Fushigi Yugi",
+      "type": "French"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 380,
+          "type": "anime",
+          "name": "Fushigi Yuugi OVA",
+          "url": "https://myanimelist.net/anime/380/Fushigi_Yuugi_OVA"
+        }
+      ]
+    }
+  ],
+  "episodes": 52,
+  "url": "https://myanimelist.net/anime/123/Fushigi_Yuugi",
+  "aired": {
+    "from": "1995-04-06T00:00:00+00:00",
+    "to": "1996-03-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 6,
+        "month": 4,
+        "year": 1995
+      },
+      "to": {
+        "day": 28,
+        "month": 3,
+        "year": 1996
+      }
+    },
+    "string": "Apr 6, 1995 to Mar 28, 1996"
+  }
+}

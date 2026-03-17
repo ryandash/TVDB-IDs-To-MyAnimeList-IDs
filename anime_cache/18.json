@@ -1,0 +1,91 @@
+{
+  "malId": 18,
+  "type": "TV",
+  "titles": [
+    {
+      "title": "Initial D Fourth Stage",
+      "type": "Default"
+    },
+    {
+      "title": "Initial D 4th Stage",
+      "type": "Synonym"
+    },
+    {
+      "title": "頭文字〈イニシャル〉D FOURTH STAGE",
+      "type": "Japanese"
+    },
+    {
+      "title": "Initial D: Supera el Límite de Velocidad Temporada 4",
+      "type": "Spanish"
+    },
+    {
+      "title": "Initial D 4ème-Etape",
+      "type": "French"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 187,
+          "type": "anime",
+          "name": "Initial D Third Stage",
+          "url": "https://myanimelist.net/anime/187/Initial_D_Third_Stage"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 15059,
+          "type": "anime",
+          "name": "Initial D Fifth Stage",
+          "url": "https://myanimelist.net/anime/15059/Initial_D_Fifth_Stage"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 5228,
+          "type": "anime",
+          "name": "Initial D Extra Stage 2",
+          "url": "https://myanimelist.net/anime/5228/Initial_D_Extra_Stage_2"
+        }
+      ]
+    },
+    {
+      "relation": "Summary",
+      "entry": [
+        {
+          "mal_id": 3931,
+          "type": "anime",
+          "name": "Initial D Battle Stage 2",
+          "url": "https://myanimelist.net/anime/3931/Initial_D_Battle_Stage_2"
+        }
+      ]
+    }
+  ],
+  "episodes": 24,
+  "url": "https://myanimelist.net/anime/18/Initial_D_Fourth_Stage",
+  "aired": {
+    "from": "2004-04-17T00:00:00+00:00",
+    "to": "2006-02-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 17,
+        "month": 4,
+        "year": 2004
+      },
+      "to": {
+        "day": 18,
+        "month": 2,
+        "year": 2006
+      }
+    },
+    "string": "Apr 17, 2004 to Feb 18, 2006"
+  }
+}

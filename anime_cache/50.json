@@ -1,0 +1,95 @@
+{
+  "malId": 50,
+  "type": "TV",
+  "titles": [
+    {
+      "title": "Aa! Megami-sama! (TV)",
+      "type": "Default"
+    },
+    {
+      "title": "Ah! My Goddess! (TV)",
+      "type": "Synonym"
+    },
+    {
+      "title": "ああっ女神さまっ",
+      "type": "Japanese"
+    },
+    {
+      "title": "Ah! My Goddess",
+      "type": "English"
+    },
+    {
+      "title": "Oh! My Goddess",
+      "type": "German"
+    },
+    {
+      "title": "Ah! My Goddess",
+      "type": "French"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 880,
+          "type": "anime",
+          "name": "Aa! Megami-sama! Sorezore no Tsubasa",
+          "url": "https://myanimelist.net/anime/880/Aa_Megami-sama_Sorezore_no_Tsubasa"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 1003,
+          "type": "anime",
+          "name": "Aa! Megami-sama! (TV) Specials",
+          "url": "https://myanimelist.net/anime/1003/Aa_Megami-sama_TV_Specials"
+        }
+      ]
+    },
+    {
+      "relation": "Spin-Off",
+      "entry": [
+        {
+          "mal_id": 303,
+          "type": "anime",
+          "name": "Aa! Megami-sama!: Chichaitte Koto wa Benri da ne",
+          "url": "https://myanimelist.net/anime/303/Aa_Megami-sama__Chichaitte_Koto_wa_Benri_da_ne"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 49,
+          "type": "anime",
+          "name": "Aa! Megami-sama!",
+          "url": "https://myanimelist.net/anime/49/Aa_Megami-sama"
+        }
+      ]
+    }
+  ],
+  "episodes": 24,
+  "url": "https://myanimelist.net/anime/50/Aa_Megami-sama_TV",
+  "aired": {
+    "from": "2005-01-07T00:00:00+00:00",
+    "to": "2005-07-08T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 1,
+        "year": 2005
+      },
+      "to": {
+        "day": 8,
+        "month": 7,
+        "year": 2005
+      }
+    },
+    "string": "Jan 7, 2005 to Jul 8, 2005"
+  }
+}

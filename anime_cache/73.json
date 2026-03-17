@@ -1,0 +1,88 @@
+{
+  "malId": 73,
+  "type": "TV",
+  "titles": [
+    {
+      "title": "Full Metal Panic! The Second Raid",
+      "type": "Default"
+    },
+    {
+      "title": "Full Metal Panic! TSR",
+      "type": "Synonym"
+    },
+    {
+      "title": "フルメタル パニック！The Second Raid",
+      "type": "Japanese"
+    },
+    {
+      "title": "Full Metal Panic! The Second Raid",
+      "type": "English"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 71,
+          "type": "anime",
+          "name": "Full Metal Panic!",
+          "url": "https://myanimelist.net/anime/71/Full_Metal_Panic"
+        },
+        {
+          "mal_id": 6291,
+          "type": "anime",
+          "name": "Full Metal Panic! The Second Raid Episode 00",
+          "url": "https://myanimelist.net/anime/6291/Full_Metal_Panic_The_Second_Raid_Episode_00"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 31931,
+          "type": "anime",
+          "name": "Full Metal Panic! Invisible Victory",
+          "url": "https://myanimelist.net/anime/31931/Full_Metal_Panic_Invisible_Victory"
+        }
+      ]
+    },
+    {
+      "relation": "Side Story",
+      "entry": [
+        {
+          "mal_id": 72,
+          "type": "anime",
+          "name": "Full Metal Panic? Fumoffu",
+          "url": "https://myanimelist.net/anime/72/Full_Metal_Panic_Fumoffu"
+        },
+        {
+          "mal_id": 1015,
+          "type": "anime",
+          "name": "Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi",
+          "url": "https://myanimelist.net/anime/1015/Full_Metal_Panic_The_Second_Raid__Wari_to_Hima_na_Sentaichou_no_Ichinichi"
+        }
+      ]
+    }
+  ],
+  "episodes": 13,
+  "url": "https://myanimelist.net/anime/73/Full_Metal_Panic_The_Second_Raid",
+  "aired": {
+    "from": "2005-07-14T00:00:00+00:00",
+    "to": "2005-10-20T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 14,
+        "month": 7,
+        "year": 2005
+      },
+      "to": {
+        "day": 20,
+        "month": 10,
+        "year": 2005
+      }
+    },
+    "string": "Jul 14, 2005 to Oct 20, 2005"
+  }
+}

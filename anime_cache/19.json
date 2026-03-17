@@ -1,0 +1,56 @@
+{
+  "malId": 19,
+  "type": "TV",
+  "titles": [
+    {
+      "title": "Monster",
+      "type": "Default"
+    },
+    {
+      "title": "モンスター",
+      "type": "Japanese"
+    },
+    {
+      "title": "Monster",
+      "type": "English"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Summary",
+      "entry": [
+        {
+          "mal_id": 1109,
+          "type": "anime",
+          "name": "Monster Extra: Hottan",
+          "url": "https://myanimelist.net/anime/1109/Monster_Extra__Hottan"
+        },
+        {
+          "mal_id": 39332,
+          "type": "anime",
+          "name": "Monster Special Edition",
+          "url": "https://myanimelist.net/anime/39332/Monster_Special_Edition"
+        }
+      ]
+    }
+  ],
+  "episodes": 74,
+  "url": "https://myanimelist.net/anime/19/Monster",
+  "aired": {
+    "from": "2004-04-07T00:00:00+00:00",
+    "to": "2005-09-28T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 4,
+        "year": 2004
+      },
+      "to": {
+        "day": 28,
+        "month": 9,
+        "year": 2005
+      }
+    },
+    "string": "Apr 7, 2004 to Sep 28, 2005"
+  }
+}

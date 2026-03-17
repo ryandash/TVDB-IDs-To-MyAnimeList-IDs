@@ -1,0 +1,62 @@
+{
+  "malId": 143,
+  "type": "TV",
+  "titles": [
+    {
+      "title": "Kannazuki no Miko",
+      "type": "Default"
+    },
+    {
+      "title": "Kannaduki no Miko",
+      "type": "Synonym"
+    },
+    {
+      "title": "Priestesses of the Godless Month",
+      "type": "Synonym"
+    },
+    {
+      "title": "神無月の巫女",
+      "type": "Japanese"
+    },
+    {
+      "title": "Destiny of the Shrine Maiden",
+      "type": "English"
+    },
+    {
+      "title": "Destiny of Shrine Maiden",
+      "type": "French"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 1810,
+          "type": "anime",
+          "name": "Kyoushirou to Towa no Sora",
+          "url": "https://myanimelist.net/anime/1810/Kyoushirou_to_Towa_no_Sora"
+        }
+      ]
+    }
+  ],
+  "episodes": 12,
+  "url": "https://myanimelist.net/anime/143/Kannazuki_no_Miko",
+  "aired": {
+    "from": "2004-10-02T00:00:00+00:00",
+    "to": "2004-12-18T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 10,
+        "year": 2004
+      },
+      "to": {
+        "day": 18,
+        "month": 12,
+        "year": 2004
+      }
+    },
+    "string": "Oct 2, 2004 to Dec 18, 2004"
+  }
+}

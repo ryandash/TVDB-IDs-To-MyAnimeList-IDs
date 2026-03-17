@@ -1,0 +1,54 @@
+{
+  "malId": 126,
+  "type": "TV",
+  "titles": [
+    {
+      "title": "Futakoi Alternative",
+      "type": "Default"
+    },
+    {
+      "title": "Futakoi 2",
+      "type": "Synonym"
+    },
+    {
+      "title": "フタコイ オルタナティブ",
+      "type": "Japanese"
+    },
+    {
+      "title": "Twin Love 2",
+      "type": "English"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 125,
+          "type": "anime",
+          "name": "Futakoi",
+          "url": "https://myanimelist.net/anime/125/Futakoi"
+        }
+      ]
+    }
+  ],
+  "episodes": 13,
+  "url": "https://myanimelist.net/anime/126/Futakoi_Alternative",
+  "aired": {
+    "from": "2005-04-07T00:00:00+00:00",
+    "to": "2005-06-30T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 4,
+        "year": 2005
+      },
+      "to": {
+        "day": 30,
+        "month": 6,
+        "year": 2005
+      }
+    },
+    "string": "Apr 7, 2005 to Jun 30, 2005"
+  }
+}

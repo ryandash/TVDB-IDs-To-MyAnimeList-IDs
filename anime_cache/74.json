@@ -1,0 +1,50 @@
+{
+  "malId": 74,
+  "type": "TV",
+  "titles": [
+    {
+      "title": "Gakuen Alice",
+      "type": "Default"
+    },
+    {
+      "title": "Campus Alice",
+      "type": "Synonym"
+    },
+    {
+      "title": "Alice Academy",
+      "type": "Synonym"
+    },
+    {
+      "title": "学園アリス",
+      "type": "Japanese"
+    },
+    {
+      "title": "Gakuen Alice",
+      "type": "English"
+    },
+    {
+      "title": "Alice Academy",
+      "type": "French"
+    }
+  ],
+  "relations": [],
+  "episodes": 26,
+  "url": "https://myanimelist.net/anime/74/Gakuen_Alice",
+  "aired": {
+    "from": "2004-10-30T00:00:00+00:00",
+    "to": "2005-05-14T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 30,
+        "month": 10,
+        "year": 2004
+      },
+      "to": {
+        "day": 14,
+        "month": 5,
+        "year": 2005
+      }
+    },
+    "string": "Oct 30, 2004 to May 14, 2005"
+  }
+}

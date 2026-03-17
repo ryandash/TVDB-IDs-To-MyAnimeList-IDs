@@ -1,0 +1,84 @@
+{
+  "malId": 131,
+  "type": "TV",
+  "titles": [
+    {
+      "title": "Saiyuuki Reload Gunlock",
+      "type": "Default"
+    },
+    {
+      "title": "Saiyuki Reload Gunlock",
+      "type": "Synonym"
+    },
+    {
+      "title": "SRG",
+      "type": "Synonym"
+    },
+    {
+      "title": "最遊記RELOAD GUNLOCK",
+      "type": "Japanese"
+    },
+    {
+      "title": "Saiyuki Gunlock",
+      "type": "English"
+    },
+    {
+      "title": "Saiyuki Gunlock",
+      "type": "French"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 130,
+          "type": "anime",
+          "name": "Saiyuuki Reload",
+          "url": "https://myanimelist.net/anime/130/Saiyuuki_Reload"
+        }
+      ]
+    },
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 33726,
+          "type": "anime",
+          "name": "Saiyuuki Reload Blast",
+          "url": "https://myanimelist.net/anime/33726/Saiyuuki_Reload_Blast"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 45783,
+          "type": "anime",
+          "name": "Saiyuuki Reload: Zeroin",
+          "url": "https://myanimelist.net/anime/45783/Saiyuuki_Reload__Zeroin"
+        }
+      ]
+    }
+  ],
+  "episodes": 26,
+  "url": "https://myanimelist.net/anime/131/Saiyuuki_Reload_Gunlock",
+  "aired": {
+    "from": "2004-04-02T00:00:00+00:00",
+    "to": "2004-09-24T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 2,
+        "month": 4,
+        "year": 2004
+      },
+      "to": {
+        "day": 24,
+        "month": 9,
+        "year": 2004
+      }
+    },
+    "string": "Apr 2, 2004 to Sep 24, 2004"
+  }
+}

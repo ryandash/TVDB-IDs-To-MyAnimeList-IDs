@@ -1,0 +1,66 @@
+{
+  "malId": 5,
+  "type": "Movie",
+  "titles": [
+    {
+      "title": "Cowboy Bebop: Tengoku no Tobira",
+      "type": "Default"
+    },
+    {
+      "title": "Cowboy Bebop: Knockin' on Heaven's Door",
+      "type": "Synonym"
+    },
+    {
+      "title": "カウボーイビバップ 天国の扉",
+      "type": "Japanese"
+    },
+    {
+      "title": "Cowboy Bebop: The Movie",
+      "type": "English"
+    },
+    {
+      "title": "Cowboy Bebop: Der Film",
+      "type": "German"
+    },
+    {
+      "title": "Cowboy Bebop: La Película",
+      "type": "Spanish"
+    },
+    {
+      "title": "Cowboy Bebop: Le Film",
+      "type": "French"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Parent Story",
+      "entry": [
+        {
+          "mal_id": 1,
+          "type": "anime",
+          "name": "Cowboy Bebop",
+          "url": "https://myanimelist.net/anime/1/Cowboy_Bebop"
+        }
+      ]
+    }
+  ],
+  "episodes": 1,
+  "url": "https://myanimelist.net/anime/5/Cowboy_Bebop__Tengoku_no_Tobira",
+  "aired": {
+    "from": "2001-09-01T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 1,
+        "month": 9,
+        "year": 2001
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Sep 1, 2001"
+  }
+}

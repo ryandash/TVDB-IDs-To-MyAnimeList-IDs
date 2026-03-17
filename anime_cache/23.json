@@ -1,0 +1,61 @@
+{
+  "malId": 23,
+  "type": "TV",
+  "titles": [
+    {
+      "title": "Ring ni Kakero 1",
+      "type": "Default"
+    },
+    {
+      "title": "Put it all in the Ring",
+      "type": "Synonym"
+    },
+    {
+      "title": "リングにかけろ１",
+      "type": "Japanese"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 1771,
+          "type": "anime",
+          "name": "Ring ni Kakero 1: Nichibei Kessen-hen",
+          "url": "https://myanimelist.net/anime/1771/Ring_ni_Kakero_1__Nichibei_Kessen-hen"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 34307,
+          "type": "anime",
+          "name": "Ring ni Kakero 1 Pilot",
+          "url": "https://myanimelist.net/anime/34307/Ring_ni_Kakero_1_Pilot"
+        }
+      ]
+    }
+  ],
+  "episodes": 12,
+  "url": "https://myanimelist.net/anime/23/Ring_ni_Kakero_1",
+  "aired": {
+    "from": "2004-10-07T00:00:00+00:00",
+    "to": "2004-12-16T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 10,
+        "year": 2004
+      },
+      "to": {
+        "day": 16,
+        "month": 12,
+        "year": 2004
+      }
+    },
+    "string": "Oct 7, 2004 to Dec 16, 2004"
+  }
+}

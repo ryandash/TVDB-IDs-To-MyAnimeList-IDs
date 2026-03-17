@@ -1,0 +1,62 @@
+{
+  "malId": 107,
+  "type": "TV",
+  "titles": [
+    {
+      "title": "Ou Dorobou Jing",
+      "type": "Default"
+    },
+    {
+      "title": "King of Bandit Jing",
+      "type": "Synonym"
+    },
+    {
+      "title": "王ドロボウ JING",
+      "type": "Japanese"
+    },
+    {
+      "title": "Jing: King of Bandits",
+      "type": "English"
+    },
+    {
+      "title": "King of Bandit Jing",
+      "type": "German"
+    },
+    {
+      "title": "King of Bandit Jing",
+      "type": "French"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 108,
+          "type": "anime",
+          "name": "Ou Dorobou Jing in Seventh Heaven",
+          "url": "https://myanimelist.net/anime/108/Ou_Dorobou_Jing_in_Seventh_Heaven"
+        }
+      ]
+    }
+  ],
+  "episodes": 13,
+  "url": "https://myanimelist.net/anime/107/Ou_Dorobou_Jing",
+  "aired": {
+    "from": "2002-05-15T00:00:00+00:00",
+    "to": "2002-08-14T00:00:00+00:00",
+    "prop": {
+      "from": {
+        "day": 15,
+        "month": 5,
+        "year": 2002
+      },
+      "to": {
+        "day": 14,
+        "month": 8,
+        "year": 2002
+      }
+    },
+    "string": "May 15, 2002 to Aug 14, 2002"
+  }
+}

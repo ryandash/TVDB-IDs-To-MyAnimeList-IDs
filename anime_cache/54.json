@@ -1,0 +1,79 @@
+{
+  "malId": 54,
+  "type": "Movie",
+  "titles": [
+    {
+      "title": "Appleseed (Movie)",
+      "type": "Default"
+    },
+    {
+      "title": "Appleseed (2004)",
+      "type": "Synonym"
+    },
+    {
+      "title": "アップルシード",
+      "type": "Japanese"
+    },
+    {
+      "title": "Appleseed",
+      "type": "German"
+    },
+    {
+      "title": "Appleseed",
+      "type": "Spanish"
+    },
+    {
+      "title": "Appleseed",
+      "type": "French"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Sequel",
+      "entry": [
+        {
+          "mal_id": 2969,
+          "type": "anime",
+          "name": "Appleseed Saga Ex Machina",
+          "url": "https://myanimelist.net/anime/2969/Appleseed_Saga_Ex_Machina"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 937,
+          "type": "anime",
+          "name": "Appleseed",
+          "url": "https://myanimelist.net/anime/937/Appleseed"
+        },
+        {
+          "mal_id": 22677,
+          "type": "anime",
+          "name": "Appleseed Alpha",
+          "url": "https://myanimelist.net/anime/22677/Appleseed_Alpha"
+        }
+      ]
+    }
+  ],
+  "episodes": 1,
+  "url": "https://myanimelist.net/anime/54/Appleseed_Movie",
+  "aired": {
+    "from": "2004-04-17T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 17,
+        "month": 4,
+        "year": 2004
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Apr 17, 2004"
+  }
+}

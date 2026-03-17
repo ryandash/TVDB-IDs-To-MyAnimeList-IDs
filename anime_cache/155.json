@@ -1,0 +1,77 @@
+{
+  "malId": 155,
+  "type": "Movie",
+  "titles": [
+    {
+      "title": "X/1999",
+      "type": "Default"
+    },
+    {
+      "title": "X 1999",
+      "type": "Synonym"
+    },
+    {
+      "title": "X (1996)",
+      "type": "Synonym"
+    },
+    {
+      "title": "エックス, X/1999",
+      "type": "Japanese"
+    },
+    {
+      "title": "X - The Movie",
+      "type": "English"
+    },
+    {
+      "title": "X - The Movie",
+      "type": "German"
+    },
+    {
+      "title": "X La Película",
+      "type": "Spanish"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 2729,
+          "type": "anime",
+          "name": "X²: Double X",
+          "url": "https://myanimelist.net/anime/2729/X²__Double_X"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 156,
+          "type": "anime",
+          "name": "X",
+          "url": "https://myanimelist.net/anime/156/X"
+        }
+      ]
+    }
+  ],
+  "episodes": 1,
+  "url": "https://myanimelist.net/anime/155/X_1999",
+  "aired": {
+    "from": "1996-08-03T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 3,
+        "month": 8,
+        "year": 1996
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Aug 3, 1996"
+  }
+}
