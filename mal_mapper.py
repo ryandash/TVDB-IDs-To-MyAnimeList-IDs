@@ -148,11 +148,11 @@ async def get_best_mal_id(search_term: str, anime_type: str, isSeason0: bool,
 
 
 async def get_mal_episode_count(mal_id: int) -> int | None:
-    data = await safe_jikan.get_anime(mal_id)
-    if data:
-        eps = data.get("data", {}).get("episodes")
-        return eps if isinstance(eps, int) else None
-    return None
+    anime = await safe_jikan.get_anime(mal_id)
+    if not anime:
+        return None
+
+    return anime.episodes if isinstance(anime.episodes, int) else None
 
 async def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, visited=None) -> int | None:
     """Find related MAL ID that matches season_title name first, then fallback to Sequel. Skips specials."""
@@ -182,7 +182,7 @@ async def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, vis
         if not anime_obj:
             continue
 
-        anime_type = (anime_obj.aniType or "").lower()
+        anime_type = (anime_obj.type or "").lower()
         sequel_candidates.append((rel_id, anime_type))
 
         # Step 1: check for title match
@@ -207,7 +207,7 @@ async def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, vis
         return None
 
     mal_eps = anime_obj.episodes or 0
-    anime_type = anime_obj.aniType
+    anime_type = anime_obj.type
 
     print(f"New mal id {sequel_id} mal_eps: {mal_eps} offset_eps: {offset_eps}")
 
