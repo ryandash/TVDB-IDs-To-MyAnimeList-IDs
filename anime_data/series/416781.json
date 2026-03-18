@@ -1,0 +1,77 @@
+{
+    "URL": "https://thetvdb.com/series/416781-youre-under-arrest",
+    "Genres": [
+        "Anime - Shonen"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/EE46-214F-C801-A759-4D0B-Z",
+        "https://www.imdb.com/title/tt10245786/",
+        "https://www.tvmaze.com/shows/87501/show-slug",
+        "https://www.themoviedb.org/tv/196967",
+        "https://www.wikidata.org/wiki/Q107299066"
+    ],
+    "Titles": {
+        "eng": "You're Under Arrest",
+        "jpn": "You're Under Arrest"
+    },
+    "Aliases": [
+        "Taiho Shichauzo",
+        "逮捕しちゃうぞ",
+        "Taiho Shichau zo: You're Under Arrest",
+        "Taiho Shichau zo"
+    ],
+    "Modified": "2026-02-06",
+    "Seasons": {
+        "1": {
+            "ID": "1985909",
+            "URL": "https://thetvdb.com/series/416781-youre-under-arrest/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "9017483",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/416781-youre-under-arrest/episodes/9017483",
+                    "Titles": {
+                        "eng": "And So They Met",
+                        "jpn": "そしてふたりは出会った"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9017484",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/416781-youre-under-arrest/episodes/9017484",
+                    "Titles": {
+                        "eng": "Tokyo Typhoon Rally",
+                        "jpn": "東京タイフーン・ラリー"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9017485",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/416781-youre-under-arrest/episodes/9017485",
+                    "Titles": {
+                        "eng": "Love's Highway Stars",
+                        "jpn": "恋のハイウェイ・スター"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9017486",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/416781-youre-under-arrest/episodes/9017486",
+                    "Titles": {
+                        "eng": "On the Road Again",
+                        "jpn": "on the road, AGAIN"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

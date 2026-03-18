@@ -26,6 +26,7 @@ DATA_DIR = Path("anime_data")
 DATA_DIR.mkdir(exist_ok=True)
 
 # google_search = GoogleSearch()
+safe_jikan = SafeJikan()
 
 # ----------------------
 # Helpers
@@ -608,7 +609,6 @@ async def map_anime():
 
 if __name__ == "__main__":
     async def main():
-        safe_jikan = SafeJikan()
         await safe_jikan.preload_disk_cache()
         
         try:

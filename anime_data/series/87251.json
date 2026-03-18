@@ -1,0 +1,128 @@
+{
+    "URL": "https://thetvdb.com/series/spirit-of-wonder",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Drama",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/44907"
+    ],
+    "Titles": {
+        "eng": "Spirit of Wonder",
+        "jpn": "Spirit of Wonder"
+    },
+    "Aliases": [
+        "Spirit of Wonder Scientific Boys Club",
+        "Spirit of Wonder: Miss China's Ring",
+        "スピリットオブワンダー : 少年科學倶楽部",
+        "スピリットオブワンダー : チャイナさんの憂鬱",
+        "スピリットオブワンダー"
+    ],
+    "Modified": "2026-02-11",
+    "Seasons": {
+        "0": {
+            "ID": "46701",
+            "URL": "https://thetvdb.com/series/spirit-of-wonder/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "3203481",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/spirit-of-wonder/episodes/3203481",
+                    "Titles": {
+                        "eng": "Miss China's Ring",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2153951",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/spirit-of-wonder/episodes/2153951",
+                    "Titles": {
+                        "eng": "The Scientific Boys Club",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "46711",
+            "URL": "https://thetvdb.com/series/spirit-of-wonder/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "2381901",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/spirit-of-wonder/episodes/2381901",
+                    "Titles": {
+                        "eng": "Melancholy of Miss China",
+                        "jpn": "チャイナさんの憂鬱"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "490121",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/spirit-of-wonder/episodes/490121",
+                    "Titles": {
+                        "eng": "Shrinking of Miss China",
+                        "jpn": "チャイナさんの縮小"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "490131",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/spirit-of-wonder/episodes/490131",
+                    "Titles": {
+                        "eng": "Scientific Boys Club Part 1",
+                        "jpn": "少年科學倶楽部 前編"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "490141",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/spirit-of-wonder/episodes/490141",
+                    "Titles": {
+                        "eng": "Scientific Boys Club Part 2",
+                        "jpn": "少年科學倶楽部 後編"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "490151",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/spirit-of-wonder/episodes/490151",
+                    "Titles": {
+                        "eng": "Planet of Miss China",
+                        "jpn": "チャイナさんの惑星"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "2382381",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/spirit-of-wonder/episodes/2382381",
+                    "Titles": {
+                        "eng": "Sake Cup of Miss China",
+                        "jpn": "チャイナさんの盃"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

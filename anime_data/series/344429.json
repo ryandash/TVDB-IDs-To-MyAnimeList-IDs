@@ -1,0 +1,39 @@
+{
+    "URL": "https://thetvdb.com/series/344429-show",
+    "Genres": [
+        "Animation",
+        "Children"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt14103418/"
+    ],
+    "Titles": {
+        "eng": "Bear Infested in Winter",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2022-06-09",
+    "Seasons": {
+        "1": {
+            "ID": "1965800",
+            "URL": "https://thetvdb.com/series/344429-show/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "8820012",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344429-show/episodes/8820012",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
