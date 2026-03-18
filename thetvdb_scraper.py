@@ -143,7 +143,8 @@ def stop_saver_threads(threads):
         t.join()
 
 def parse_translations(soup: BeautifulSoup):
-    translations = {"eng": {"title": None, "summary": None}, "jpn": {"title": None, "summary": None}}
+    # translations = {"eng": {"title": None, "summary": None}, "jpn": {"title": None, "summary": None}}
+    translations = {"eng": {"title": None}, "jpn": {"title": None}}
     aliases = []
     divs = soup.select("#translations > div")
     for div in divs:
@@ -152,8 +153,8 @@ def parse_translations(soup: BeautifulSoup):
             continue
         title = div.get("data-title")
         translations[lang]["title"] = title.strip() if title else None
-        p_elem = div.find("p")
-        translations[lang]["summary"] = p_elem.get_text(strip=True) if p_elem else None
+        # p_elem = div.find("p")
+        # translations[lang]["summary"] = p_elem.get_text(strip=True) if p_elem else None
         for li in div.select("ul li"):
             alias = li.get_text(strip=True)
             if alias and alias not in aliases:
@@ -161,7 +162,8 @@ def parse_translations(soup: BeautifulSoup):
     return translations, aliases
 
 def parse_season_translations(soup: BeautifulSoup):
-    translations = {"eng": {"title": None, "summary": None}, "jpn": {"title": None, "summary": None}}
+    # translations = {"eng": {"title": None, "summary": None}, "jpn": {"title": None, "summary": None}}
+    translations = {"eng": {"title": None}, "jpn": {"title": None}}
     base_selector = (
         "#app > div.container > div.row.mt-2 > "
         "div.col-xs-12.col-sm-8.col-md-8.col-lg-9.col-xl-10"
@@ -173,19 +175,20 @@ def parse_season_translations(soup: BeautifulSoup):
         if not lang:
             continue
         if lang not in translations:
-            translations[lang] = {"title": None, "summary": None}
+            # translations[lang] = {"title": None, "summary": None}
+            translations[lang] = {"title": None}
         translations[lang]["title"] = text
 
-    summary_divs = soup.select(f"{base_selector} > div.change_translation_text")
-    for div in summary_divs:
-        lang = div.get("data-language")
-        p_elem = div.find("p")
-        text = p_elem.get_text(strip=True) if p_elem else None
-        if not lang:
-            continue
-        if lang not in translations:
-            translations[lang] = {"title": None, "summary": None}
-        translations[lang]["summary"] = text
+    # summary_divs = soup.select(f"{base_selector} > div.change_translation_text")
+    # for div in summary_divs:
+    #     lang = div.get("data-language")
+    #     p_elem = div.find("p")
+    #     text = p_elem.get_text(strip=True) if p_elem else None
+    #     if not lang:
+    #         continue
+    #     if lang not in translations:
+    #         translations[lang] = {"title": None, "summary": None}
+    #     translations[lang]["summary"] = text
     return translations
 
 def parse_special_category(li):
@@ -375,7 +378,8 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
         if not titles.get("eng"):
             if not titles.get("jpn"):
                 return
-            titles["eng"], summaries["eng"] = titles.get("jpn"), summaries.get("jpn")
+            # titles["eng"], summaries["eng"] = titles.get("jpn"), summaries.get("jpn")
+            titles["eng"] = titles.get("jpn")
         elif "Abridged" in titles["eng"]:
             return
     
