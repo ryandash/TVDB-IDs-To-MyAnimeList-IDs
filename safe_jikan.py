@@ -157,10 +157,8 @@ class SafeJikan:
             return tuple(sorted(self._freeze(v) for v in value))
         return value
 
-    def _should_persist(self, anime_data: dict) -> bool:
-        """Return True if the anime has finished airing more than 90 days ago."""
-        data = anime_data.get("data", {})
-        aired_to = data.get("aired", {}).get("to")
+    def _should_persist(self, aired: dict) -> bool:
+        aired_to = aired.get("to")
         if not aired_to:
             return False
 
@@ -168,7 +166,7 @@ class SafeJikan:
             aired_date = datetime.fromisoformat(aired_to.replace("Z", "+00:00"))
             return datetime.now(timezone.utc) - aired_date > timedelta(days=90)
         except Exception as e:
-            print(f"Failed to parse aired.to for {data.get('mal_id')}: {e}")
+            print(f"Failed to parse aired.to: {e}")
             return False
     
     def _disk_cache_path(self, mal_id: int) -> Path:
@@ -286,6 +284,8 @@ class SafeJikan:
 
         node = data.get("data", {})
 
+        animeType = data.get("data", {}).get("type", "")
+
         titles = [TitleEntry(title=t["title"], type=t["type"]) for t in node.get("titles", [])]
 
         relations = [
@@ -300,7 +300,7 @@ class SafeJikan:
 
         anime = MinimalAnime(
             malId=mal_id,
-            type=data.get("data", {}).get("type", ""),
+            type=animeType,
             titles=titles,
             relations=relations,
             episodes=episodes,
@@ -308,7 +308,8 @@ class SafeJikan:
             aired=aired
         )
 
-        await self._write_disk_cache(mal_id, asdict(anime))
+        if self._should_persist(aired) or animeType.lower() == "movie" :
+            await self._write_disk_cache(mal_id, asdict(anime))
 
         async with self._cache_lock:
             self._cache[key] = anime

@@ -1,6 +1,8 @@
 import asyncio
 import aiohttp
+import argparse
 import json
+import networkx as nx
 import re
 
 from dataclasses import dataclass, field, asdict
@@ -25,6 +27,10 @@ class MinimalAnime:
     type: str
     year: int
     titles: List[TitleEntry] = field(default_factory=list)
+
+@dataclass
+class SortedListsOfMinimalAnime:
+    groups: List[List[MinimalAnime]] = field(default_factory=list)
 
 @dataclass
 class FetchMeta:
@@ -57,7 +63,6 @@ SERIES_DIR.mkdir(parents=True, exist_ok=True)
 from collections import defaultdict
 
 file_locks: dict[Path, asyncio.Lock] = defaultdict(asyncio.Lock)
-
 def get_file_lock(path: Path):
     return file_locks[path]
 
@@ -183,6 +188,7 @@ async def update_meta(meta_path: Path, total: int, per_page: int):
         json.dump(meta.__dict__, f, indent=2)
     print(f"Updated meta file: {meta_path}")
 
+
 async def preload_file_map() -> dict[int, Path]:
     file_map = {}
     for folder in (MOVIE_DIR, SERIES_DIR):
@@ -196,104 +202,112 @@ async def preload_file_map() -> dict[int, Path]:
                 print(f"Failed to read {file}: {e}")
     return file_map
 
-async def process_relations_worker(queue: asyncio.Queue, old_entries, file_map, lock):
-    """Worker that continuously processes results from the queue."""
-    mal_to_index = {a.malId: i for i, a in enumerate(old_entries)}
-    new_entries_ordered = []  # This will hold new_entries with prequels before sequels
 
-    while True:
-        item = await queue.get()
-        if item is None:
-            queue.task_done()
-            break
+async def insert_new_entries_based_on_relations(
+    new_entries: List[MinimalAnime],
+    old_entries: List[MinimalAnime]
+) -> tuple[SortedListsOfMinimalAnime, SortedListsOfMinimalAnime]:
+    """
+    Insert new entries in proper order using relations.
+    Returns:
+        - all_sorted_groups: SortedListsOfMinimalAnime containing all entries (old + new), grouped by franchise.
+        - new_sorted_groups: SortedListsOfMinimalAnime containing only new entries, grouped similarly.
+    """
+    mal_to_anime = {a.malId: a for a in old_entries}
+    mal_to_anime.update({a.malId: a for a in new_entries})
 
-        new_anime, rel_data = item
-        sequels_in_list = []
+    all_entries = list(mal_to_anime.values())
 
-        if rel_data:
-            for rel in rel_data.get("data", []):
-                if rel["relation"].lower() == "sequel":
-                    for e in rel["entry"]:
-                        sequel_id = e["mal_id"]
-                        if sequel_id in mal_to_index:
-                            sequels_in_list.append(sequel_id)
-                        if sequel_id in file_map:
-                            path = file_map[sequel_id]
-                            try:
-                                path.unlink()
-                                print(f"Deleted {path} (prequel {new_anime.malId} takes priority).")
-                                del file_map[sequel_id]
-                            except Exception as ex:
-                                print(f"Failed to delete {path}: {ex}")
+    # Fetch relations for new entries
+    tasks = [
+        asyncio.create_task(JIKAN.get_anime_relations(a.malId))
+        for a in new_entries
+    ]
+    relations_results = []
 
-        async with lock:
-            # Insert into old_entries
-            if sequels_in_list:
-                first_sequel_idx = min(mal_to_index[s] for s in sequels_in_list)
-                old_entries.insert(first_sequel_idx, new_anime)
-            else:
-                old_entries.append(new_anime)
-
-            # Insert into new_entries_ordered (only among new entries)
-            if sequels_in_list:
-                # Only consider sequels that are already in new_entries_ordered
-                new_ids = {a.malId for a in new_entries_ordered}
-                sequels_in_new = [s for s in sequels_in_list if s in new_ids]
-                if sequels_in_new:
-                    first_sequel_idx_new = min(
-                        i for i, a in enumerate(new_entries_ordered) if a.malId in sequels_in_new
-                    )
-                    new_entries_ordered.insert(first_sequel_idx_new, new_anime)
-                else:
-                    new_entries_ordered.append(new_anime)
-            else:
-                new_entries_ordered.append(new_anime)
-
-            # Rebuild index map for old_entries
-            mal_to_index = {a.malId: i for i, a in enumerate(old_entries)}
-
-        queue.task_done()
-
-    return old_entries, new_entries_ordered
-
-
-async def insert_new_entries_before_sequels(new_entries: List[MinimalAnime], old_entries: List[MinimalAnime]):
-    """Sequentially fetch relations, but process I/O + CPU in background."""
-    file_map = await preload_file_map()
-    queue = asyncio.Queue()
-    lock = asyncio.Lock()
-
-    worker_task = asyncio.create_task(process_relations_worker(queue, old_entries, file_map, lock))
-
-    relations_dump = {}
-
-    # Sort by MAL ID
-    new_entries = sorted(new_entries, key=lambda a: a.malId)
-
-    for new_anime in tqdm(new_entries, desc="Fetching relations"):
+    for future in tqdm(
+        asyncio.as_completed(tasks),
+        total=len(tasks),
+        desc="Fetching relations"
+    ):
         try:
-            rel_data = await JIKAN.get_anime_relations(new_anime.malId)
-            relations_dump[new_anime.malId] = rel_data
-
+            result = await future
         except Exception as e:
-            print(f"Failed to fetch relations for {new_anime.malId}: {e}")
-            rel_data = None
-        await queue.put((new_anime, rel_data))
+            result = e
+        relations_results.append(result)
+    # Build relation graph
+    G = nx.DiGraph()
+    for anime in all_entries:
+        G.add_node(anime.malId)
 
-    await queue.put(None)
-    await queue.join()
+    for anime, rel_data in zip(new_entries, relations_results):
+        if isinstance(rel_data, Exception) or not rel_data:
+            continue
+        for rel in rel_data.get("data", []):
+            rel_type = rel.get("relation", "").strip().lower()
+            if rel_type not in ("prequel", "sequel"):
+                continue
+            for e in rel.get("entry", []):
+                other_id = e.get("mal_id")
+                if not other_id or other_id not in mal_to_anime:
+                    continue
+                if rel_type == "prequel":
+                    G.add_edge(other_id, anime.malId)
+                elif rel_type == "sequel":
+                    G.add_edge(anime.malId, other_id)
 
-    (BASE_DIR / "relations_debug.json").write_text(
-        json.dumps(relations_dump, indent=2),
-        encoding="utf-8"
+    # Break cycles if necessary
+    try:
+        sorted_ids = list(nx.topological_sort(G))
+    except nx.NetworkXUnfeasible:
+        # Simple cycle handling: remove self-loops and 2-node cycles
+        for node in list(G.nodes):
+            if G.has_edge(node, node):
+                G.remove_edge(node, node)
+        for i, cycle in enumerate(nx.simple_cycles(G)):
+            print(f"Cycle {i+1}: {cycle}")
+            if len(cycle) == 2:
+                a, b = cycle
+                if G.has_edge(a, b) and a > b:
+                    G.remove_edge(a, b)
+                elif G.has_edge(b, a) and b > a:
+                    G.remove_edge(b, a)
+        try:
+            sorted_ids = list(nx.topological_sort(G))
+        except nx.NetworkXUnfeasible:
+            print("❌ Cannot sort even after breaking cycles")
+
+    # Build groups by franchise/sequel chains
+    visited = set()
+    all_sorted_groups: List[List[MinimalAnime]] = []
+
+    def dfs_group(node_id: int, current_group: list[int]):
+        if node_id in visited:
+            return
+        visited.add(node_id)
+        current_group.append(node_id)
+        for successor in G.successors(node_id):
+            dfs_group(successor, current_group)
+
+    for mal_id in sorted_ids:
+        if mal_id not in visited:
+            group_ids: List[int] = []
+            dfs_group(mal_id, group_ids)
+            group_anime = [mal_to_anime[m] for m in group_ids]
+            all_sorted_groups.append(group_anime)
+
+    # Filter new entries groups
+    new_ids_set = {a.malId for a in new_entries}
+    new_sorted_groups = SortedListsOfMinimalAnime(
+        groups=[ [a for a in group if a.malId in new_ids_set] for group in all_sorted_groups if any(a.malId in new_ids_set for a in group)]
     )
 
-    merged_entries, new_entries_ordered = await worker_task
+    all_sorted_groups_dto = SortedListsOfMinimalAnime(groups=all_sorted_groups)
 
-    return merged_entries, new_entries_ordered
+    return all_sorted_groups_dto, new_sorted_groups
+
 
 PAREN_REGEX = re.compile(r"\s*\([^)]*\)")
-
 def remove_parentheses(s: str) -> str:
     """Remove anything between ( and ) including the parentheses."""
     return PAREN_REGEX.sub("", s).strip()
@@ -301,147 +315,195 @@ def remove_parentheses(s: str) -> str:
 # -----------------------------
 # Search TVDB and Save
 # -----------------------------
-async def search_and_save_tvdb_hits(key: str, anime_list: list[MinimalAnime]):
+async def search_and_save_tvdb_hits(key: str, grouped: SortedListsOfMinimalAnime, max_concurrent_groups: int = 10):
+    semaphore = asyncio.Semaphore(max_concurrent_groups)
+
     async with aiohttp.ClientSession(headers={
         "X-Algolia-API-Key": key,
         "X-Algolia-Application-Id": "tvshowtime"
     }) as session:
-        
-        for anime in tqdm(anime_list, desc="Processing TVDB hits sequentially"):
-            facet_type = "movie" if anime.type.lower() == "movie" else "series"
-            output_dir = MOVIE_DIR if facet_type == "movie" else SERIES_DIR
 
-            if anime.year == 0:
-                continue
+        async def worker(group: List[MinimalAnime]):
+            async with semaphore:
+                await process_group(session, group)
 
-            success = False
-            for entry in anime.titles:
-                if not entry.title:
-                    continue
+        tasks = [
+            asyncio.create_task(worker(group))
+            for group in grouped.groups
+        ]
 
-                clean_title = remove_parentheses(entry.title)
-                title_variants = [clean_title]
-                if ":" in clean_title:
-                    title_variants.append(clean_title.split(":")[0].strip())
-                
-                for query in title_variants:
-                    encoded_query = quote(query, safe="")
-
-                    facet_filters = f'[[\"type:{facet_type}\"], [\"year:{anime.year}\"]]'
-                    facet_filter_param = f"facetFilters={quote(facet_filters, safe='')}"
-                    body = {
-                        "requests": [
-                            {
-                                "indexName": "TVDB",
-                                "params": f"query={encoded_query}&{facet_filter_param}"
-                            }
-                        ]
-                    }
-
-                    try:
-                        async with session.post(
-                            "https://tvshowtime-dsn.algolia.net/1/indexes/*/queries",
-                            json=body
-                        ) as resp:
-                            resp.raise_for_status()
-                            data = await resp.json()
-
-                        hits = data.get("results", [{}])[0].get("hits", [])
-
-                        if hits:
-                            for hit in hits:
-                                output_path = output_dir / f"{hit['id']}.json"
-                                names = set(hit.get("aliases", []))
-                                translations = hit.get("translations", {})
-                                names.update(translations.values())
-
-                                clean_names = [remove_parentheses(name) for name in names]
-                                if any(fuzz.ratio(clean_name, query) >= 90 for clean_name in clean_names):
-                                    match = TVDBMatches(
-                                        TvdbId=hit["id"],
-                                        MalId=anime.malId,
-                                        Name=translations.get("eng") or hit["name"],
-                                        Url=hit["url"]
-                                    )
-                                    lock = get_file_lock(output_path)
-                                    async with lock:
-                                        if not output_path.exists():
-                                            with open(output_path, "w", encoding="utf-8") as f:
-                                                json.dump(asdict(match), f, indent=2)
-                                    success = True
-                                    break
-                    except Exception as e:
-                        print(f"Error processing {anime.malId} ({query}): {e}")
-
-                    if success:
-                        break
-                if success:
-                    break
+        for f in tqdm(asyncio.as_completed(tasks), total=len(tasks), desc="Processing groups"):
+            await f
 
     print("\nAll matches saved to min_map_data/movie/ and min_map_data/series/ directories.")
 
-async def load_anime_json(path: Path) -> List[MinimalAnime]:
+async def process_group(session: aiohttp.ClientSession, group: List[MinimalAnime]):
+    for anime in group:
+        facet_type = "movie" if anime.type.lower() == "movie" else "series"
+        output_dir = MOVIE_DIR if facet_type == "movie" else SERIES_DIR
+
+        if anime.year == 0:
+            continue
+
+        requests_payload = []
+        query_map = {}
+        idx = 0
+
+        for entry in anime.titles:
+            if not entry.title:
+                continue
+
+            clean_title = remove_parentheses(entry.title)
+            title_variants = [clean_title]
+            if ":" in clean_title:
+                title_variants.append(clean_title.split(":")[0].strip())
+
+            for query in title_variants:
+                encoded_query = quote(query, safe="")
+                facet_filters = f'[[\"type:{facet_type}\"], [\"year:{anime.year}\"]]'
+                facet_filter_param = f"facetFilters={quote(facet_filters, safe='')}"
+                requests_payload.append({
+                    "indexName": "TVDB",
+                    "params": f"query={encoded_query}&{facet_filter_param}"
+                })
+                query_map[idx] = query
+                idx += 1
+
+        if not requests_payload:
+            continue
+
+        try:
+            body = {"requests": requests_payload}
+            async with session.post(
+                "https://tvshowtime-dsn.algolia.net/1/indexes/*/queries",
+                json=body
+            ) as resp:
+                resp.raise_for_status()
+                data = await resp.json()
+        except Exception as e:
+            print(f"Error querying TVDB for {anime.malId}: {e}")
+            continue
+
+        success = False
+        for i, result in enumerate(data.get("results", [])):
+            hits = result.get("hits", [])
+            query = query_map[i]
+
+            for hit in hits:
+                output_path = output_dir / f"{hit['id']}.json"
+                names = set(hit.get("aliases", []))
+                translations = hit.get("translations", {})
+                names.update(translations.values())
+                clean_names = [remove_parentheses(name) for name in names]
+
+                if any(fuzz.ratio(clean_name, query) >= 90 for clean_name in clean_names):
+                    match = TVDBMatches(
+                        TvdbId=hit["id"],
+                        MalId=anime.malId,
+                        Name=translations.get("eng") or hit["name"],
+                        Url=hit["url"]
+                    )
+                    lock = get_file_lock(output_path)
+                    async with lock:
+                        if not output_path.exists():
+                            with open(output_path, "w", encoding="utf-8") as f:
+                                json.dump(asdict(match), f, indent=2)
+                    success = True
+                    break
+            if success:
+                break
+
+# -----------------------------
+# Load / Save Anime JSON (grouped)
+# -----------------------------
+async def load_anime_json(path: Path) -> SortedListsOfMinimalAnime:
+    """
+    Load grouped anime data from JSON.
+    JSON format:
+    [
+        [ {malId, type, year, titles}, ... ],  <-- group 1
+        [ {malId, type, year, titles}, ... ],  <-- group 2
+        ...
+    ]
+    """
     if not path.exists():
-        return []
+        return SortedListsOfMinimalAnime()
     with open(path, "r", encoding="utf-8") as f:
         data = json.load(f)
-    return [
-        MinimalAnime(
-            malId=x["malId"],
-            type=x["type"],
-            year=x["year"],
-            titles=[TitleEntry(t["title"], t["type"]) for t in x.get("titles", [])]
-        )
-        for x in data
-    ]
+
+    groups: List[List[MinimalAnime]] = []
+    for group_data in data:
+        group = [
+            MinimalAnime(
+                malId=x["malId"],
+                type=x["type"],
+                year=x["year"],
+                titles=[TitleEntry(t["title"], t["type"]) for t in x.get("titles", [])]
+            )
+            for x in group_data
+        ]
+        groups.append(group)
+    return SortedListsOfMinimalAnime(groups=groups)
 
 
-async def save_anime_json(path: Path, anime_list: List[MinimalAnime]):
+async def save_anime_json(path: Path, anime_groups: SortedListsOfMinimalAnime):
+    """
+    Save grouped anime data to JSON.
+    """
     with open(path, "w", encoding="utf-8") as f:
         json.dump([
-            {
-                "malId": x.malId,
-                "type": x.type,
-                "year": x.year,
-                "titles": [t.__dict__ for t in x.titles]
-            } for x in anime_list
+            [
+                {
+                    "malId": a.malId,
+                    "type": a.type,
+                    "year": a.year,
+                    "titles": [t.__dict__ for t in a.titles]
+                } for a in group
+            ] for group in anime_groups.groups
         ], f, indent=2)
-    print(f"Saved {len(anime_list)} entries to {path.name}.")
+    total_count = sum(len(g) for g in anime_groups.groups)
+    print(f"Saved {total_count} entries in {len(anime_groups.groups)} groups to {path.name}.")
+
 
 # -----------------------------
 # Main
 # -----------------------------
-async def main():
+async def main(test_mode: bool):
     global JIKAN
     JIKAN = SafeJikan()
     await JIKAN.preload_disk_cache()
 
     key = await get_latest_algolia_key()
 
-    movie_json_path = BASE_DIR / "all_anime_movies.json"
-    existing_movies = await load_anime_json(movie_json_path)
-    print(f"Loaded {len(existing_movies)} movies from {movie_json_path.name}.")
+    series_json_path = BASE_DIR / "all_anime.json"
+    old_series_groups = await load_anime_json(series_json_path)
+    print(f"Loaded {sum(len(g) for g in old_series_groups.groups)} series in {len(old_series_groups.groups)} groups from {series_json_path.name}.")
 
-    series_json_path = BASE_DIR / "all_anime_series.json"
-    old_series = await load_anime_json(series_json_path)
-    print(f"Loaded {len(old_series)} series from {series_json_path.name}.")
+    old_series_flat = [a for group in old_series_groups.groups for a in group]
 
-    if TEST_MODE:
-        all_entries, all_new_series = await insert_new_entries_before_sequels(existing_movies + old_series, [])
+    if test_mode:
+        all_entries_groups, all_new_series_groups = await insert_new_entries_based_on_relations(old_series_flat, [])
     else:
-        new_movies = await get_new_anime(existing_movies, "all_anime_movies", "movie")
-        await save_anime_json(movie_json_path, existing_movies + new_movies)
-        new_tvs = await get_new_anime(old_series, "all_tv_anime", "tv")
-        new_onas = await get_new_anime(old_series, "all_ona_anime", "ona")
-        new_ovas = await get_new_anime(old_series, "all_ova_anime", "ova")
-        new_specials = await get_new_anime(old_series, "all_special_anime", "special")
-        tv_specials = await get_new_anime(old_series, "all_tv_special_anime", "tv_special")
-        all_entries, all_new_series = await insert_new_entries_before_sequels(new_movies + new_tvs + new_onas + new_ovas + new_specials + tv_specials, old_series)
-        await save_anime_json(series_json_path, all_entries)
+        new_movies = await get_new_anime(old_series_flat, "all_anime_movies", "movie")
+        new_tvs = await get_new_anime(old_series_flat, "all_tv_anime", "tv")
+        new_onas = await get_new_anime(old_series_flat, "all_ona_anime", "ona")
+        new_ovas = await get_new_anime(old_series_flat, "all_ova_anime", "ova")
+        new_specials = await get_new_anime(old_series_flat, "all_special_anime", "special")
+        tv_specials = await get_new_anime(old_series_flat, "all_tv_special_anime", "tv_special")
+        all_entries_groups, all_new_series_groups = await insert_new_entries_based_on_relations(
+            new_movies + new_tvs + new_onas + new_ovas + new_specials + tv_specials,
+            old_series_flat
+        )
 
-    # --- SEARCH AND SAVE TO TVDB ---
-    await search_and_save_tvdb_hits(key, all_new_series + new_movies)
+    await save_anime_json(series_json_path, all_entries_groups)
+
+    # --- SEARCH AND SAVE TO TVDB (process group by group) ---
+    await search_and_save_tvdb_hits(key, all_new_series_groups)
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    parser = argparse.ArgumentParser(description="Fetch new anime and update JSON database.")
+    parser.add_argument("--test", action="store_true", help="Run in TEST_MODE (reprocess old entries without fetching new ones).")
+    args = parser.parse_args()
+
+    asyncio.run(main(test_mode=args.test))

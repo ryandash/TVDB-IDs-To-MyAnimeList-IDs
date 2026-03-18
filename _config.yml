@@ -2,6 +2,7 @@
 exclude:
   - .github
   - anime_data
+  - anime_cache
   - cloudflare_code
   - min_map_data
   - old
@@ -13,3 +14,4 @@ exclude:
   - safe_jikan.py
   - split_json.py
   - thetvdb_scraper.py
+  - googleSearch.py
