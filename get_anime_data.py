@@ -26,6 +26,7 @@ class MinimalAnime:
     malId: int
     type: str
     year: int
+    episodes: int = 0
     titles: List[TitleEntry] = field(default_factory=list)
 
 @dataclass
@@ -41,7 +42,7 @@ class FetchMeta:
 @dataclass
 class TVDBMatches:
     TvdbId: int
-    MalId: int
+    MalIds: List[int]
     Name: str
     Url: str
 
@@ -170,6 +171,7 @@ async def get_new_anime(existing_anime: List, meta_file: str | None, type_: str)
             malId=a["mal_id"],
             type=a["type"],
             year=year,
+            episodes=a.get("episodes") or 0,
             titles=titles
         ))
 
@@ -218,29 +220,36 @@ async def insert_new_entries_based_on_relations(
 
     all_entries = list(mal_to_anime.values())
 
-    # Fetch relations for new entries
+    async def fetch_with_id(anime: MinimalAnime):
+        try:
+            result = await JIKAN.get_anime_relations(anime.malId)
+            return anime.malId, result
+        except Exception as e:
+            return anime.malId, e
+
     tasks = [
-        asyncio.create_task(JIKAN.get_anime_relations(a.malId))
+        asyncio.create_task(fetch_with_id(a))
         for a in new_entries
     ]
-    relations_results = []
+
+    relations_map = {}
 
     for future in tqdm(
         asyncio.as_completed(tasks),
         total=len(tasks),
         desc="Fetching relations"
     ):
-        try:
-            result = await future
-        except Exception as e:
-            result = e
-        relations_results.append(result)
+        mal_id, result = await future
+        relations_map[mal_id] = result
+    
     # Build relation graph
     G = nx.DiGraph()
     for anime in all_entries:
         G.add_node(anime.malId)
 
-    for anime, rel_data in zip(new_entries, relations_results):
+    for anime in new_entries:
+        rel_data = relations_map.get(anime.malId)
+
         if isinstance(rel_data, Exception) or not rel_data:
             continue
         for rel in rel_data.get("data", []):
@@ -337,12 +346,74 @@ async def search_and_save_tvdb_hits(key: str, grouped: SortedListsOfMinimalAnime
 
     print("\nAll matches saved to min_map_data/movie/ and min_map_data/series/ directories.")
 
-async def process_group(session: aiohttp.ClientSession, group: List[MinimalAnime]):
+from bs4 import BeautifulSoup
+
+async def fetch_html(session: aiohttp.ClientSession, url: str, retries=3, delay=3) -> str:
+    for attempt in range(1, retries+1):
+        try:
+            async with session.get(url) as resp:
+                if resp.status != 200:
+                    raise RuntimeError(f"Status {resp.status}")
+                return await resp.text()
+        except Exception as e:
+            if attempt < retries:
+                await asyncio.sleep(delay * attempt)
+            else:
+                print(f"[FAIL] Could not fetch {url} after {retries} retries: {e}")
+                return ""
+
+
+async def get_tvdb_total_episodes(session: aiohttp.ClientSession, url: str) -> int:
+    html = await fetch_html(session, url)
+    if not html:
+        return 0
+
+    soup = BeautifulSoup(html, "html.parser")
+
+    total_eps = 0
+
+    season_rows = soup.select('#seasons-official table tbody tr')[1:-1]
+
+    for s in season_rows:
+        num_eps_elem = s.select_one('td:nth-child(4)')
+        if not num_eps_elem:
+            continue
+
+        try:
+            num_eps = int(num_eps_elem.get_text(strip=True))
+            total_eps += num_eps
+        except:
+            continue
+
+    return total_eps
+
+def match_tvdb_to_mal(group: List[MinimalAnime], tvdb_total: int):
+    remaining = tvdb_total
+    matched = []
+
     for anime in group:
+        if anime.episodes <= 0:
+            continue
+
+        if remaining >= anime.episodes:
+            matched.append(anime)
+            remaining -= anime.episodes
+        else:
+            break
+
+    return matched, remaining
+
+async def process_group(session: aiohttp.ClientSession, group: List[MinimalAnime]):
+    remaining_group = group.copy()
+
+    while remaining_group:
+        anime = remaining_group[0]
+
         facet_type = "movie" if anime.type.lower() == "movie" else "series"
         output_dir = MOVIE_DIR if facet_type == "movie" else SERIES_DIR
 
         if anime.year == 0:
+            remaining_group.pop(0)
             continue
 
         requests_payload = []
@@ -355,6 +426,7 @@ async def process_group(session: aiohttp.ClientSession, group: List[MinimalAnime
 
             clean_title = remove_parentheses(entry.title)
             title_variants = [clean_title]
+
             if ":" in clean_title:
                 title_variants.append(clean_title.split(":")[0].strip())
 
@@ -362,14 +434,17 @@ async def process_group(session: aiohttp.ClientSession, group: List[MinimalAnime
                 encoded_query = quote(query, safe="")
                 facet_filters = f'[[\"type:{facet_type}\"], [\"year:{anime.year}\"]]'
                 facet_filter_param = f"facetFilters={quote(facet_filters, safe='')}"
+
                 requests_payload.append({
                     "indexName": "TVDB",
                     "params": f"query={encoded_query}&{facet_filter_param}"
                 })
+
                 query_map[idx] = query
                 idx += 1
 
         if not requests_payload:
+            remaining_group.pop(0)
             continue
 
         try:
@@ -382,36 +457,57 @@ async def process_group(session: aiohttp.ClientSession, group: List[MinimalAnime
                 data = await resp.json()
         except Exception as e:
             print(f"Error querying TVDB for {anime.malId}: {e}")
+            remaining_group.pop(0)
             continue
 
-        success = False
+        matched_any = False
+
         for i, result in enumerate(data.get("results", [])):
             hits = result.get("hits", [])
             query = query_map[i]
 
             for hit in hits:
                 output_path = output_dir / f"{hit['id']}.json"
+
                 names = set(hit.get("aliases", []))
                 translations = hit.get("translations", {})
                 names.update(translations.values())
                 clean_names = [remove_parentheses(name) for name in names]
 
                 if any(fuzz.ratio(clean_name, query) >= 90 for clean_name in clean_names):
+
+                    tvdb_total_eps = await get_tvdb_total_episodes(session, hit["url"])
+                    matched_anime, _ = match_tvdb_to_mal(remaining_group, tvdb_total_eps)
+                    if not matched_anime:
+                        continue
+
+                    matched_ids = [a.malId for a in matched_anime]
+                    remaining_group = [
+                        a for a in remaining_group
+                        if a.malId not in matched_ids
+                    ]
+
                     match = TVDBMatches(
                         TvdbId=hit["id"],
-                        MalId=anime.malId,
+                        MalIds=matched_ids,
                         Name=translations.get("eng") or hit["name"],
                         Url=hit["url"]
                     )
+
                     lock = get_file_lock(output_path)
                     async with lock:
                         if not output_path.exists():
                             with open(output_path, "w", encoding="utf-8") as f:
                                 json.dump(asdict(match), f, indent=2)
-                    success = True
+
+                    matched_any = True
                     break
-            if success:
+
+            if matched_any:
                 break
+
+        if not matched_any:
+            remaining_group.pop(0)
 
 # -----------------------------
 # Load / Save Anime JSON (grouped)

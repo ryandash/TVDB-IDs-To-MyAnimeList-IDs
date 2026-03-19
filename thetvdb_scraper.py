@@ -428,14 +428,17 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
 
             a_elem = s.select_one('td:nth-child(1) a')
             href = a_elem.get("href") if a_elem else None
-            if href:
-                season_tasks.append(scrape_season(
-                    session,
-                    href,
-                    num_eps,
-                    anime_data["Seasons"].setdefault(season_number, {}),
-                    season_number
-                ))
+
+            if not href:
+                continue
+            
+            season_tasks.append(scrape_season(
+                session,
+                href,
+                num_eps,
+                anime_data["Seasons"].setdefault(season_number, {}),
+                season_number
+            ))
 
         if season_tasks:
             for coro in tqdm_asyncio.as_completed(season_tasks, desc=f"{series_id} Seasons", total=len(season_tasks), leave=False):
@@ -452,7 +455,7 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
 @dataclass
 class TVDBMatches:
     TvdbId: int
-    MalId: int
+    MalIds: List[int]
     Name: str
     Url: str
 

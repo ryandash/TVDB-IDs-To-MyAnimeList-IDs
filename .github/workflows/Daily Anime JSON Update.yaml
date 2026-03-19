@@ -53,6 +53,13 @@ jobs:
           path: min_map_data/
           retention-days: 1
 
+      - name: Upload Anime Cache
+        uses: actions/upload-artifact@v7
+        with:
+          name: anime_initial_cache
+          path: anime_cache/
+          retention-days: 1
+
   scrape_worker:
     needs: scrape_jikan
     runs-on: ubuntu-latest
@@ -70,6 +77,12 @@ jobs:
         with:
           name: jikan-data
           path: min_map_data
+
+      - name: Download Anime Cache
+        uses: actions/download-artifact@v8
+        with:
+          name: anime_initial_cache
+          path: anime_cache
 
       - name: Cache pip
         uses: actions/cache@v5
@@ -113,6 +126,13 @@ jobs:
           retention-days: 1
           compression-level: 9
 
+      - name: Upload Anime Cache
+        uses: actions/upload-artifact@v7
+        with:
+          name: anime_cache-${{ matrix.worker }}
+          path: anime_cache/
+          retention-days: 1
+
   combine_and_commit:
     name: Combine FILES & Commit
     needs: scrape_worker
@@ -145,6 +165,12 @@ jobs:
         with:
           path: artifacts
           pattern: mapped_data-*
+
+      - name: Download Anime Cache artifacts
+        uses: actions/download-artifact@v8
+        with:
+          path: anime_cache
+          pattern: anime_cache-*
 
       - name: Cache Python dependencies
         uses: actions/cache@v5

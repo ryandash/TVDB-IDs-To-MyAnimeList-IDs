@@ -164,7 +164,7 @@ class SafeJikan:
 
         try:
             aired_date = datetime.fromisoformat(aired_to.replace("Z", "+00:00"))
-            return datetime.now(timezone.utc) - aired_date > timedelta(days=90)
+            return datetime.now(timezone.utc) - aired_date > timedelta(days=1)
         except Exception as e:
             print(f"Failed to parse aired.to: {e}")
             return False
@@ -307,9 +307,9 @@ class SafeJikan:
             url=url,
             aired=aired
         )
-
-        if self._should_persist(aired) or animeType == "movie":
-            await self._write_disk_cache(mal_id, asdict(anime))
+        await self._write_disk_cache(mal_id, asdict(anime))
+        # if self._should_persist(aired) or animeType == "movie":
+        #     await self._write_disk_cache(mal_id, asdict(anime))
 
         async with self._cache_lock:
             self._cache[key] = anime
