@@ -284,7 +284,7 @@ class SafeJikan:
 
         node = data.get("data", {})
 
-        animeType = data.get("data", {}).get("type", "")
+        animeType = node.get("type")
 
         titles = [TitleEntry(title=t["title"], type=t["type"]) for t in node.get("titles", [])]
 
@@ -308,7 +308,7 @@ class SafeJikan:
             aired=aired
         )
 
-        if self._should_persist(aired) or animeType.lower() == "movie" :
+        if self._should_persist(aired) or animeType == "movie":
             await self._write_disk_cache(mal_id, asdict(anime))
 
         async with self._cache_lock:
