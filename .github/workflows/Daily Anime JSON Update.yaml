@@ -118,8 +118,10 @@ jobs:
         with:
           name: mapped_data-${{ matrix.worker }}
           path: |
+            mapped-tvdb-ids-movies.json
             mapped-tvdb-ids-series.json
-            mapped-tvdb-ids-movie.json
+            mapped-tvdb-ids-seasons.json
+            mapped-tvdb-ids-episodes.json
             unmapped-series.json
             unmapped-seasons.json
             unmapped-episodes.json
@@ -192,14 +194,21 @@ jobs:
 
       - name: Count and Update README with counts
         run: |
+          # Count each JSON file individually
+          mapped_movies=$(jq length mapped-tvdb-ids-movies.json)
           mapped_series=$(jq length mapped-tvdb-ids-series.json)
-          mapped_movie=$(jq length mapped-tvdb-ids-movie.json)
-          mapped=$((mapped_series + mapped_movie))
+          mapped_seasons=$(jq length mapped-tvdb-ids-seasons.json)
+          mapped_episodes=$(jq length mapped-tvdb-ids-episodes.json)
+
           unmapped_series=$(jq length unmapped-series.json)
           unmapped_seasons=$(jq length unmapped-seasons.json)
           unmapped_episodes=$(jq length unmapped-episodes.json)
 
-          echo "Mapped: $mapped"
+          echo "Mapped Movies: $mapped_movies"
+          echo "Mapped Series: $mapped_series"
+          echo "Mapped Seasons: $mapped_seasons"
+          echo "Mapped Episodes: $mapped_episodes"
+
           echo "Unmapped Series: $unmapped_series"
           echo "Unmapped Seasons: $unmapped_seasons"
           echo "Unmapped Episodes: $unmapped_episodes"
@@ -212,8 +221,12 @@ jobs:
             echo '<!---counts-start--->'
             echo "### TVDB → MAL Mapping Stats"
             echo ""
-            echo "- ✅ Mapped IDs: **$mapped**"
-            echo "- ❌ Unmapped Series: **$unmapped_series**"
+            echo "- ✅ Mapped Movies: **$mapped_movies**"
+            echo "- ✅ Mapped Series: **$mapped_series**"
+            echo "- ✅ Mapped Seasons: **$mapped_seasons**"
+            echo "- ✅ Mapped Episodes: **$mapped_episodes**"
+            echo ""
+            echo "- ❌ Unmapped Series/Movies: **$unmapped_series**"
             echo "- ❌ Unmapped Seasons: **$unmapped_seasons**"
             echo "- ❌ Unmapped Episodes: **$unmapped_episodes**"
             echo '<!---counts-end--->'

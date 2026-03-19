@@ -19,7 +19,7 @@ class MinimalAnime:
     type: str
     titles: List[TitleEntry] = field(default_factory=list)
     relations: List[dict] = field(default_factory=list)
-    episodes: Optional[int] = None 
+    episodes: int = 0
     url: Optional[str] = None
     aired: dict[str, Any] = field(default_factory=dict)
 
@@ -32,7 +32,7 @@ class TaskLimiterConfiguration:
         self.period_sec = period_sec
         self._timestamps: List[float] = []
 
-    async def wait_for_slot(self):
+    async def wait_for_slot(self) -> None:
         now = time.monotonic()
         # keep only timestamps within the window
         self._timestamps = [t for t in self._timestamps if now - t < self.period_sec]
@@ -74,7 +74,7 @@ class SafeJikan:
             TaskLimiterConfiguration(4, 4.0),   # baseline limit (60/min)
         ])
 
-    async def preload_disk_cache(self):
+    async def preload_disk_cache(self) -> None:
         files = list(self.disk_cache_dir.glob("*.json"))
 
         async def load_file(path: Path):
@@ -103,7 +103,7 @@ class SafeJikan:
 
         await asyncio.gather(*(load_file(path) for path in files))
 
-    async def _wait_for_slot(self):
+    async def _wait_for_slot(self) -> None:
         async with self._lock:
             now = time.monotonic()
             elapsed = now - self._last_request
@@ -111,7 +111,7 @@ class SafeJikan:
                 await asyncio.sleep(self.request_delay - elapsed)
             self._last_request = time.monotonic()
 
-    async def _retry_on_failure(self, func: Callable[..., Any], *args, **kwargs):
+    async def _retry_on_failure(self, func: Callable[..., Any], *args: Any, **kwargs: Any) -> Any:
         delay = 1.0
         max_delay = 60.0  # cap backoff at 1 minute
         attempt = 0
@@ -148,7 +148,7 @@ class SafeJikan:
                 delay = min(delay * 1.5, max_delay)
                 continue
     
-    def _freeze(self, value):
+    def _freeze(self, value: Any) -> Any:
         if isinstance(value, dict):
             return tuple(sorted((k, self._freeze(v)) for k, v in value.items()))
         elif isinstance(value, list):
@@ -181,7 +181,7 @@ class SafeJikan:
             except Exception as e:
                 print(f"[SafeJikan] Failed to write cache for {mal_id}: {e}")
 
-    async def _cached_call(self, func: Callable[..., Any], *args, **kwargs):
+    async def _cached_call(self, func: Callable[..., Any], *args: Any, **kwargs: Any) -> Any:
         key = (
             func.__name__,
             self._freeze(args),
@@ -224,7 +224,7 @@ class SafeJikan:
         type_: str | None = None,
         page: int | None = None,
         limit: int | None = None
-    ):
+    ) -> dict:
         """
         Perform a safe Jikan anime search with automatic rate limiting and retries.
         """
@@ -251,7 +251,7 @@ class SafeJikan:
 
         return await self._cached_call(self.aio_jikan.search, **kwargs)
 
-    async def get_anime(self, mal_id: int, episode_number: int | None = None):
+    async def get_anime(self, mal_id: int, episode_number: Optional[int] = None) -> Optional[MinimalAnime]:
         if not isinstance(mal_id, int) or mal_id <= 0:
             raise ValueError("mal_id must be a positive integer.")
 
@@ -260,13 +260,13 @@ class SafeJikan:
 
         return await self._get_anime_full(mal_id)
 
-    async def get_anime_relations(self, mal_id: int):
+    async def get_anime_relations(self, mal_id: int) -> Optional[dict]:
         data = await self._get_anime_full(mal_id)
         if not data:
             return None
         return {"data": data.relations}
 
-    async def _get_anime_full(self, mal_id: int):
+    async def _get_anime_full(self, mal_id: int) -> Optional[MinimalAnime]:
         """
         Fetch anime full data from Jikan, reduce it to minimal fields, and cache to disk.
         """
@@ -294,7 +294,7 @@ class SafeJikan:
             if (entries := [e for e in rel.get("entry", []) if e.get("type", "").lower() != "manga"])
         ]
 
-        episodes = node.get("episodes")
+        episodes = node.get("episodes") or 0
         url = node.get("url")
         aired = node.get("aired", {})
 
@@ -355,5 +355,5 @@ class SafeJikan:
 
         return result
 
-    async def close(self):
+    async def close(self) -> None:
         await self.aio_jikan.close()

@@ -39,8 +39,10 @@ def collect_files(input_dir: Path, pattern: str) -> List[Path]:
 def merge_root_files(input_dir: Path, repo_root: Path):
     """Merge all mapped/unmapped files across all scraper artifacts."""
     patterns = [
+        "mapped-tvdb-ids-movies.json",
         "mapped-tvdb-ids-series.json",
-        "mapped-tvdb-ids-movie.json",
+        "mapped-tvdb-ids-seasons.json",
+        "mapped-tvdb-ids-episodes.json",
         "unmapped-series.json",
         "unmapped-seasons.json",
         "unmapped-episodes.json",
@@ -63,12 +65,17 @@ def merge_root_files(input_dir: Path, repo_root: Path):
         for data in data_list:
             if isinstance(data, list):
                 for entry in data:
-                    tvdb_id = entry.get("thetvdb") or str(entry.get("TvdbId"))
-                    if tvdb_id:
+                    tvdb_id = entry.get("thetvdb") or entry.get("TvdbId")
+                    if tvdb_id is not None:
+                        try:
+                            tvdb_id = int(tvdb_id)
+                        except ValueError:
+                            continue
                         merged_dict[tvdb_id] = entry
 
         target_file = repo_root / pattern
-        save_json(target_file, list(merged_dict.values()))
+        # Sort by TVDB ID for reproducibility
+        save_json(target_file, [merged_dict[k] for k in sorted(merged_dict.keys())])
         print(f"Merged {len(files)} files into {target_file}")
 
 def main():

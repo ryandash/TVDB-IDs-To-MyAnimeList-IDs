@@ -165,7 +165,7 @@ async def get_new_anime(existing_anime: List, meta_file: str | None, type_: str)
         try:
             year = datetime.fromisoformat(aired_from.replace("Z","+00:00")).year if aired_from else 0
         except Exception:
-            year = a.get("year") or 0
+            year = 0
 
         new_entries.append(MinimalAnime(
             malId=a["mal_id"],
@@ -324,7 +324,7 @@ def remove_parentheses(s: str) -> str:
 # -----------------------------
 # Search TVDB and Save
 # -----------------------------
-async def search_and_save_tvdb_hits(key: str, grouped: SortedListsOfMinimalAnime, max_concurrent_groups: int = 10):
+async def search_and_save_tvdb_hits(key: str, grouped: SortedListsOfMinimalAnime, max_concurrent_groups: int = 4):
     semaphore = asyncio.Semaphore(max_concurrent_groups)
 
     async with aiohttp.ClientSession(headers={
@@ -392,7 +392,7 @@ def match_tvdb_to_mal(group: List[MinimalAnime], tvdb_total: int):
     matched = []
 
     for anime in group:
-        if anime.episodes <= 0:
+        if not anime.episodes or anime.episodes <= 0:
             continue
 
         if remaining >= anime.episodes:
@@ -476,11 +476,14 @@ async def process_group(session: aiohttp.ClientSession, group: List[MinimalAnime
 
                 if any(fuzz.ratio(clean_name, query) >= 90 for clean_name in clean_names):
 
-                    tvdb_total_eps = await get_tvdb_total_episodes(session, hit["url"])
-                    matched_anime, _ = match_tvdb_to_mal(remaining_group, tvdb_total_eps)
+                    if len(remaining_group) == 1 or anime.type.lower() == "movie":
+                        matched_anime = [remaining_group[0]]
+                    else:
+                        tvdb_total_eps = await get_tvdb_total_episodes(session, hit["url"])
+                        matched_anime, _ = match_tvdb_to_mal(remaining_group, tvdb_total_eps)
+
                     if not matched_anime:
                         continue
-
                     matched_ids = [a.malId for a in matched_anime]
                     remaining_group = [
                         a for a in remaining_group
@@ -513,32 +516,22 @@ async def process_group(session: aiohttp.ClientSession, group: List[MinimalAnime
 # Load / Save Anime JSON (grouped)
 # -----------------------------
 async def load_anime_json(path: Path) -> SortedListsOfMinimalAnime:
-    """
-    Load grouped anime data from JSON.
-    JSON format:
-    [
-        [ {malId, type, year, titles}, ... ],  <-- group 1
-        [ {malId, type, year, titles}, ... ],  <-- group 2
-        ...
-    ]
-    """
     if not path.exists():
         return SortedListsOfMinimalAnime()
+
     with open(path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    groups: List[List[MinimalAnime]] = []
-    for group_data in data:
-        group = [
+    groups = [
+        [
             MinimalAnime(
-                malId=x["malId"],
-                type=x["type"],
-                year=x["year"],
-                titles=[TitleEntry(t["title"], t["type"]) for t in x.get("titles", [])]
+                **{**a, "titles": [TitleEntry(**t) for t in a.get("titles", [])]}
             )
-            for x in group_data
+            for a in group_data
         ]
-        groups.append(group)
+        for group_data in data
+    ]
+
     return SortedListsOfMinimalAnime(groups=groups)
 
 
@@ -547,16 +540,14 @@ async def save_anime_json(path: Path, anime_groups: SortedListsOfMinimalAnime):
     Save grouped anime data to JSON.
     """
     with open(path, "w", encoding="utf-8") as f:
-        json.dump([
+        json.dump(
             [
-                {
-                    "malId": a.malId,
-                    "type": a.type,
-                    "year": a.year,
-                    "titles": [t.__dict__ for t in a.titles]
-                } for a in group
-            ] for group in anime_groups.groups
-        ], f, indent=2)
+                [asdict(a) for a in group]
+                for group in anime_groups.groups
+            ],
+            f,
+            indent=2
+        )
     total_count = sum(len(g) for g in anime_groups.groups)
     print(f"Saved {total_count} entries in {len(anime_groups.groups)} groups to {path.name}.")
 
