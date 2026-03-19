@@ -284,7 +284,7 @@ class SafeJikan:
 
         node = data.get("data", {})
 
-        animeType = node.get("type")
+        animeType = (node.get("type") or "").lower()
 
         titles = [TitleEntry(title=t["title"], type=t["type"]) for t in node.get("titles", [])]
 
