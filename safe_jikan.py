@@ -103,6 +103,16 @@ class SafeJikan:
 
         await asyncio.gather(*(load_file(path) for path in files))
 
+    async def clear_disk_cache(self) -> None:
+        """Delete all JSON cache files on disk."""
+        async with self.disk_cache_lock:
+            try:
+                for file in self.disk_cache_dir.glob("*.json"):
+                    await asyncio.to_thread(file.unlink)
+                print(f"[SafeJikan] Cleared {self.disk_cache_dir} cache files.")
+            except Exception as e:
+                print(f"[SafeJikan] Failed to clear cache: {e}")
+
     async def _wait_for_slot(self) -> None:
         async with self._lock:
             now = time.monotonic()

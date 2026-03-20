@@ -59,6 +59,7 @@ jobs:
           name: anime_initial_cache
           path: anime_cache/
           retention-days: 1
+          compression-level: 9
 
   scrape_worker:
     needs: scrape_jikan
@@ -134,6 +135,7 @@ jobs:
           name: anime_cache-${{ matrix.worker }}
           path: anime_cache/
           retention-days: 1
+          compression-level: 9
 
   combine_and_commit:
     name: Combine FILES & Commit
@@ -168,11 +170,18 @@ jobs:
           path: artifacts
           pattern: mapped_data-*
 
+      - name: Download Anime Cache
+        uses: actions/download-artifact@v8
+        with:
+          name: anime_initial_cache
+          path: anime_cache
+
       - name: Download Anime Cache artifacts
         uses: actions/download-artifact@v8
         with:
           path: anime_cache
           pattern: anime_cache-*
+          merge-multiple: true
 
       - name: Cache Python dependencies
         uses: actions/cache@v5

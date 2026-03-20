@@ -627,6 +627,7 @@ async def map_anime():
 if __name__ == "__main__":
     async def main():
         await safe_jikan.preload_disk_cache()
+        await safe_jikan.clear_disk_cache()
         
         try:
             await map_anime()
