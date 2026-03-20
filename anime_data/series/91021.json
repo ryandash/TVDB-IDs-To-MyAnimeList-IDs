@@ -1,0 +1,83 @@
+{
+    "URL": "https://thetvdb.com/series/amuri-in-star-ocean",
+    "Genres": [
+        "Animation",
+        "Mini-Series",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt16112242/",
+        "https://www.themoviedb.org/tv/44298",
+        "https://www.themoviedb.org/tv/123993"
+    ],
+    "Titles": {
+        "eng": "Amuri in Star Ocean",
+        "jpn": "星の海のアムリ"
+    },
+    "Aliases": [],
+    "Modified": "2022-03-30",
+    "Seasons": {
+        "0": {
+            "ID": "539166",
+            "URL": "https://thetvdb.com/series/amuri-in-star-ocean/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "6458463",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/amuri-in-star-ocean/episodes/6458463",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "緊急特番!! 星の海のアムリ ナビゲーションTV"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "56641",
+            "URL": "https://thetvdb.com/series/amuri-in-star-ocean/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "573901",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/amuri-in-star-ocean/episodes/573901",
+                    "Titles": {
+                        "eng": "The Blooming Flower Likes The Night Sky",
+                        "jpn": "夜空に花の咲くごとく"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "573911",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/amuri-in-star-ocean/episodes/573911",
+                    "Titles": {
+                        "eng": "The Little Bird Loves A Poor Flower",
+                        "jpn": "小鳥は可憐な花が好き"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "573921",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/amuri-in-star-ocean/episodes/573921",
+                    "Titles": {
+                        "eng": "Falling Flowers, Calling Birds, And The Sleeping Sea",
+                        "jpn": "花散り鳥鳴き海眠り"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

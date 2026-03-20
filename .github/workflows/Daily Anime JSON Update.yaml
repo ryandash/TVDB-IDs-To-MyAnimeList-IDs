@@ -119,7 +119,7 @@ jobs:
         with:
           name: mapped_data-${{ matrix.worker }}
           path: |
-            mapped-tvdb-ids-movies.json
+            mapped-tvdb-ids-movie.json
             mapped-tvdb-ids-series.json
             mapped-tvdb-ids-seasons.json
             mapped-tvdb-ids-episodes.json
@@ -204,7 +204,7 @@ jobs:
       - name: Count and Update README with counts
         run: |
           # Count each JSON file individually
-          mapped_movies=$(jq length mapped-tvdb-ids-movies.json)
+          mapped_movies=$(jq length mapped-tvdb-ids-movie.json)
           mapped_series=$(jq length mapped-tvdb-ids-series.json)
           mapped_seasons=$(jq length mapped-tvdb-ids-seasons.json)
           mapped_episodes=$(jq length mapped-tvdb-ids-episodes.json)

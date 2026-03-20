@@ -1,0 +1,339 @@
+{
+    "URL": "https://thetvdb.com/series/genesis-climber-mospeada",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Musical",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0156215/",
+        "http://www.tatsunoko.co.jp/works_animation/archive/mospida.html",
+        "https://www.themoviedb.org/tv/13511"
+    ],
+    "Titles": {
+        "eng": "Genesis Climber Mospeada",
+        "jpn": "機甲創世記モスピーダ"
+    },
+    "Aliases": [
+        "Mospeada"
+    ],
+    "Modified": "2025-09-02",
+    "Seasons": {
+        "0": {
+            "ID": "51391",
+            "URL": "https://thetvdb.com/series/genesis-climber-mospeada/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "881431",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/881431",
+                    "Titles": {
+                        "eng": "Love Live Alive",
+                        "jpn": "機甲創世記モスピーダ LOVE , LIVE , ALIVE"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "900421",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/900421",
+                    "Titles": {
+                        "eng": "Opening",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "900431",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/900431",
+                    "Titles": {
+                        "eng": "Ending",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1360051",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/1360051",
+                    "Titles": {
+                        "eng": "Production Portfolio",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "51401",
+            "URL": "https://thetvdb.com/series/genesis-climber-mospeada/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "524881",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/524881",
+                    "Titles": {
+                        "eng": "Prelude to the Offensive",
+                        "jpn": "襲撃のプレリュード"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "524891",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/524891",
+                    "Titles": {
+                        "eng": "March of a Girl with a Broken Heart",
+                        "jpn": "失恋少女のマーチ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "524901",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/524901",
+                    "Titles": {
+                        "eng": "Midday Duel Concert",
+                        "jpn": "真昼の決闘コンサート"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "524911",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/524911",
+                    "Titles": {
+                        "eng": "Feeling Like a Survival Song",
+                        "jpn": "気分はサバイバル・ソング"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "524921",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/524921",
+                    "Titles": {
+                        "eng": "Live-In Robbery Operation",
+                        "jpn": "ライブ・イン・強奪作戦"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "524931",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/524931",
+                    "Titles": {
+                        "eng": "Pretend Tough Girl Blues",
+                        "jpn": "突ッ張リ少女ブルース"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "524941",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/524941",
+                    "Titles": {
+                        "eng": "Fallen Hero's Ragtime",
+                        "jpn": "亡き勇者のラグタイム"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "524951",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/524951",
+                    "Titles": {
+                        "eng": "Johnson's Elegy",
+                        "jpn": "ジョナサンのエレジー"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "524961",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/524961",
+                    "Titles": {
+                        "eng": "Lost World Fugue",
+                        "jpn": "ロストワールド遁走曲"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "524971",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/524971",
+                    "Titles": {
+                        "eng": "Battlefield Requiem",
+                        "jpn": "戦場のレクイエム"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "524981",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/524981",
+                    "Titles": {
+                        "eng": "Lullaby of Far Away Hope",
+                        "jpn": "遠い希望のララバイ"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "524991",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/524991",
+                    "Titles": {
+                        "eng": "Break Through the Fort Boogie",
+                        "jpn": "要寒突破ブギ"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "525001",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/525001",
+                    "Titles": {
+                        "eng": "Sandstorm Playback",
+                        "jpn": "砂嵐プレイバック"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "525011",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/525011",
+                    "Titles": {
+                        "eng": "Mint's Wedding March",
+                        "jpn": "ミントの結婚行進曲"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "525021",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/525021",
+                    "Titles": {
+                        "eng": "Breaking Up Ballad",
+                        "jpn": "仲間割れのバラード"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "525031",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/525031",
+                    "Titles": {
+                        "eng": "Trap Reggae",
+                        "jpn": "トラップ・レゲエ"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "525041",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/525041",
+                    "Titles": {
+                        "eng": "White Night Serenade",
+                        "jpn": "白夜のセレナーデ"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "525051",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/525051",
+                    "Titles": {
+                        "eng": "Old Soldier's Polka",
+                        "jpn": "老兵たちのポルカ"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "525061",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/525061",
+                    "Titles": {
+                        "eng": "Icy City Forte",
+                        "jpn": "氷河都市のホォルテ"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "525071",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/525071",
+                    "Titles": {
+                        "eng": "Birthday Song of the Night Sky",
+                        "jpn": "夜空のバースディソング"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "525081",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/525081",
+                    "Titles": {
+                        "eng": "Arpeggio of a Killer",
+                        "jpn": "殺しのアルペジオ"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "525091",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/525091",
+                    "Titles": {
+                        "eng": "New York Bebop",
+                        "jpn": "ニューヨーク・ビーバップ"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "525101",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/525101",
+                    "Titles": {
+                        "eng": "Brunet's Partita",
+                        "jpn": "黒髪のパルティータ"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "525111",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/525111",
+                    "Titles": {
+                        "eng": "Darkness' Finale",
+                        "jpn": "闇のフィナーレ"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "525121",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/genesis-climber-mospeada/episodes/525121",
+                    "Titles": {
+                        "eng": "Symphony of Light",
+                        "jpn": "光のシンフォニー"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

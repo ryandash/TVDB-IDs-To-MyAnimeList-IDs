@@ -1,0 +1,306 @@
+{
+    "URL": "https://thetvdb.com/series/garo-crimson-moon",
+    "Genres": [
+        "Adaptation",
+        "Superhero"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/7254-CB47-734D-800C-779A-K",
+        "https://www.imdb.com/title/tt5420560/",
+        "http://www.garo-project.jp/ANIME2/",
+        "https://www.themoviedb.org/tv/64139"
+    ],
+    "Titles": {
+        "eng": "Garo: Crimson Moon",
+        "jpn": "牙狼 -紅蓮ノ月-"
+    },
+    "Aliases": [
+        "Garo: Guren no Tsuki",
+        "牙狼＜GARO＞-紅蓮ノ月-"
+    ],
+    "Modified": "2026-01-12",
+    "Seasons": {
+        "0": {
+            "ID": "644675",
+            "URL": "https://thetvdb.com/series/garo-crimson-moon/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "5451831",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/5451831",
+                    "Titles": {
+                        "eng": "Kyouken",
+                        "jpn": "第十二話 曲宴"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6966225",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/6966225",
+                    "Titles": {
+                        "eng": "[TV Special] The Butterfly of Time",
+                        "jpn": "第25話 刻蝶"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7743360",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/7743360",
+                    "Titles": {
+                        "eng": "Garo: The Fleeting Cherry Blossom",
+                        "jpn": "薄墨桜 -GARO-"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "644676",
+            "URL": "https://thetvdb.com/series/garo-crimson-moon/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 23,
+            "Episodes": {
+                "1": {
+                    "ID": "5401918",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/5401918",
+                    "Titles": {
+                        "eng": "Onmyou",
+                        "jpn": "陰陽"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5401919",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/5401919",
+                    "Titles": {
+                        "eng": "Tied Sword",
+                        "jpn": "縁刀"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5401920",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/5401920",
+                    "Titles": {
+                        "eng": "Curse",
+                        "jpn": "呪詛"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5401921",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/5401921",
+                    "Titles": {
+                        "eng": "Kaguya",
+                        "jpn": "赫夜"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5401922",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/5401922",
+                    "Titles": {
+                        "eng": "Hakamadare",
+                        "jpn": "袴垂"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5401923",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/5401923",
+                    "Titles": {
+                        "eng": "Lurking Demon",
+                        "jpn": "伏魔"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5401924",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/5401924",
+                    "Titles": {
+                        "eng": "Mother Daughter",
+                        "jpn": "母娘"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5401925",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/5401925",
+                    "Titles": {
+                        "eng": "Brothers",
+                        "jpn": "兄弟"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5401926",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/5401926",
+                    "Titles": {
+                        "eng": "Shine and Ruin",
+                        "jpn": "光滅"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5401927",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/5401927",
+                    "Titles": {
+                        "eng": "1/10th",
+                        "jpn": "一寸"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5401928",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/5401928",
+                    "Titles": {
+                        "eng": "Zanga",
+                        "jpn": "斬牙"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5401929",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/5401929",
+                    "Titles": {
+                        "eng": "Conflict",
+                        "jpn": "相克"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "5401930",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/5401930",
+                    "Titles": {
+                        "eng": "Seimei",
+                        "jpn": "星明"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "5401931",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/5401931",
+                    "Titles": {
+                        "eng": "Soul Moon",
+                        "jpn": "心月"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "5401932",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/5401932",
+                    "Titles": {
+                        "eng": "Worst",
+                        "jpn": "最低"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "5401933",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/5401933",
+                    "Titles": {
+                        "eng": "Sinister Evil",
+                        "jpn": "兇悪"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "5401934",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/5401934",
+                    "Titles": {
+                        "eng": "Extinguished Star",
+                        "jpn": "星滅"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "5401935",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/5401935",
+                    "Titles": {
+                        "eng": "Frenzy",
+                        "jpn": "繚乱"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "5401936",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/5401936",
+                    "Titles": {
+                        "eng": "Vessel",
+                        "jpn": "依代"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "5401937",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/5401937",
+                    "Titles": {
+                        "eng": "Duel",
+                        "jpn": "対決"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "5401938",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/5401938",
+                    "Titles": {
+                        "eng": "Resonance",
+                        "jpn": "共鳴"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "5401939",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/5401939",
+                    "Titles": {
+                        "eng": "Rudra",
+                        "jpn": "嶐鑼"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "5401940",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garo-crimson-moon/episodes/5401940",
+                    "Titles": {
+                        "eng": "Assault Moon",
+                        "jpn": "討月"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

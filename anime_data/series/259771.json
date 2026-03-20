@@ -1,0 +1,72 @@
+{
+    "URL": "https://thetvdb.com/series/compiler",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Mini-Series",
+        "Science Fiction"
+    ],
+    "Other Sites": [],
+    "Titles": {
+        "eng": "Compiler",
+        "jpn": "Compiler"
+    },
+    "Aliases": [],
+    "Modified": "2024-09-05",
+    "Seasons": {
+        "1": {
+            "ID": "494179",
+            "URL": "https://thetvdb.com/series/compiler/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4340200",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/compiler/episodes/4340200",
+                    "Titles": {
+                        "eng": "Alternating Currents",
+                        "jpn": "陰の章"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4340201",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/compiler/episodes/4340201",
+                    "Titles": {
+                        "eng": "Polarity Reversal",
+                        "jpn": "陽の章"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "494182",
+            "URL": "https://thetvdb.com/series/compiler/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "4340202",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/compiler/episodes/4340202",
+                    "Titles": {
+                        "eng": "Compiler 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,1041 @@
+{
+    "URL": "https://thetvdb.com/series/utawarerumono",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0978215/",
+        "http://utawarerumono.jp/",
+        "http://www.reddit.com/r/Utawarerumono",
+        "https://www.tvmaze.com/shows/5200/show-slug",
+        "https://www.themoviedb.org/tv/46412",
+        "https://en.wikipedia.org/wiki/Utawarerumono"
+    ],
+    "Titles": {
+        "eng": "Utawarerumono",
+        "jpn": "うたわれるもの"
+    },
+    "Aliases": [
+        "Utawarerumono: The False Faces",
+        "Utawarerumono: The False Mask",
+        "The One Being Sung",
+        "Utawarerumono: Mask of Truth",
+        "うたわれるもの 偽りの仮面",
+        "Utawarerumono: Itsuwari no Kamen",
+        "うたわれるもの 二人の白皇",
+        "Utawarerumono: Futari no Hakuoro"
+    ],
+    "Modified": "2026-01-10",
+    "Seasons": {
+        "0": {
+            "ID": "27275",
+            "URL": "https://thetvdb.com/series/utawarerumono/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 17,
+            "Episodes": {
+                "1": {
+                    "ID": "1185781",
+                    "TYPE": "OVA",
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/1185781",
+                    "Titles": {
+                        "eng": "OVA 1: The Watchtower's Lullaby",
+                        "jpn": "OVA 巻ノ一「望楼の子守唄」"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2407231",
+                    "TYPE": "OVA",
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/2407231",
+                    "Titles": {
+                        "eng": "OVA 2: Prescription for a Secret Love",
+                        "jpn": "OVA 巻ノニ「秘恋の処方箋」"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "2419091",
+                    "TYPE": "OVA",
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/2419091",
+                    "Titles": {
+                        "eng": "OVA 3: The Sword Guard Sound in Deep Mountain",
+                        "jpn": "OVA 巻ノ三「深山の鍔鳴」"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1185791",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/1185791",
+                    "Titles": {
+                        "eng": "Special Picture Drama 1: Childhood Friends",
+                        "jpn": "ピクチャードラマVol.1「竹馬の友」"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "2419101",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/2419101",
+                    "Titles": {
+                        "eng": "Special Picture Drama 2: Continued, Childhood Friends",
+                        "jpn": "ピクチャードラマVol.2「続　竹馬の友」"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "2765711",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/2765711",
+                    "Titles": {
+                        "eng": "Special Picture Drama 3: The Fall of a Titan",
+                        "jpn": "ピクチャードラマVol.3「鬼の霍乱」"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "363235",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/363235",
+                    "Titles": {
+                        "eng": "DVD Special 1: Bonds",
+                        "jpn": "ショートエピソード第1話「〜絆〜」"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "363237",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/363237",
+                    "Titles": {
+                        "eng": "DVD Special 2: Eyewitness",
+                        "jpn": "ショートエピソード第2話「〜目撃〜」"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "363238",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/363238",
+                    "Titles": {
+                        "eng": "DVD Special 3: The One Who Gets Broken",
+                        "jpn": "ショートエピソード第3話「〜こわされるもの〜」"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "363239",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/363239",
+                    "Titles": {
+                        "eng": "DVD Special 4: The Nugisomu Spirit",
+                        "jpn": "ショートエピソード第4話「〜禍日神 ヌグィソムカミ〜」"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "7462384",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/7462384",
+                    "Titles": {
+                        "eng": "Imperial Princess Tusukuru's Splendid Days",
+                        "jpn": "うたわれるもの トゥスクル皇女の華麗なる日々"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "9432081",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9432081",
+                    "Titles": {
+                        "eng": "DVD Special 5: The Hows & Whys of Utawarerumono",
+                        "jpn": "なぜなにうたわれるもの"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "9432082",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9432082",
+                    "Titles": {
+                        "eng": "DVD Special 6: Utawarerumono Discussion Room / Eluluu's Room",
+                        "jpn": "うたわれるもの相談室　エルルゥの部屋"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "9432223",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9432223",
+                    "Titles": {
+                        "eng": "Utawarerumono: The False Faces Special 1",
+                        "jpn": "うたわれるもの 偽りの仮面 1"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "9432224",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9432224",
+                    "Titles": {
+                        "eng": "Utawarerumono: The False Faces Special 2",
+                        "jpn": "うたわれるもの 偽りの仮面 2"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "9432236",
+                    "TYPE": "Season Recaps",
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9432236",
+                    "Titles": {
+                        "eng": "The Story So Far - The First Night: And Then Tuskuru Made Its Move",
+                        "jpn": "うたわれるもの大百科　第一夜　～その時トゥスクルが動いた～"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "9432237",
+                    "TYPE": "Season Recaps",
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9432237",
+                    "Titles": {
+                        "eng": "The Story So Far - The Second Night: Hakuoro - A Journey of Glory and Tragedy",
+                        "jpn": "うたわれるもの大百科　第二夜　～ハクオロ栄光と悲劇の旅路～"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "17406",
+            "URL": "https://thetvdb.com/series/utawarerumono/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "324502",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324502",
+                    "Titles": {
+                        "eng": "The Uninvited",
+                        "jpn": "招かれざるもの"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "324503",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324503",
+                    "Titles": {
+                        "eng": "Ruler of the Wild Forest",
+                        "jpn": "荒ぶる森の王"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "324504",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324504",
+                    "Titles": {
+                        "eng": "Violet & Amber",
+                        "jpn": "紫琥珀"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "324505",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324505",
+                    "Titles": {
+                        "eng": "One-Way Path",
+                        "jpn": "戻れぬ道"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "324506",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324506",
+                    "Titles": {
+                        "eng": "Daughter of the Forest",
+                        "jpn": "森の娘"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "324507",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324507",
+                    "Titles": {
+                        "eng": "Gathering Force",
+                        "jpn": "集う力"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "324508",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324508",
+                    "Titles": {
+                        "eng": "Invasion of the Imperial City",
+                        "jpn": "皇都侵攻"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "324509",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324509",
+                    "Titles": {
+                        "eng": "The Mediator",
+                        "jpn": "調停者"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "324510",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324510",
+                    "Titles": {
+                        "eng": "Taboo",
+                        "jpn": "禁忌"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "324511",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324511",
+                    "Titles": {
+                        "eng": "The Mercenary",
+                        "jpn": "傭兵"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "324512",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324512",
+                    "Titles": {
+                        "eng": "Everlasting Promise",
+                        "jpn": "永遠の約束"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "324513",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324513",
+                    "Titles": {
+                        "eng": "Unrest",
+                        "jpn": "動揺"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "324514",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324514",
+                    "Titles": {
+                        "eng": "A Bloody Battle",
+                        "jpn": "血塗られた戦い"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "324515",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324515",
+                    "Titles": {
+                        "eng": "The Ravages of War",
+                        "jpn": "戦禍"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "324516",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324516",
+                    "Titles": {
+                        "eng": "End of the Banquet",
+                        "jpn": "宴の終わり"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "324517",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324517",
+                    "Titles": {
+                        "eng": "At the End of the Battle",
+                        "jpn": "戦いの果て"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "324518",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324518",
+                    "Titles": {
+                        "eng": "The Young Sovereign",
+                        "jpn": "幼き皇"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "324519",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324519",
+                    "Titles": {
+                        "eng": "The Rebel Army",
+                        "jpn": "解放軍"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "324520",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324520",
+                    "Titles": {
+                        "eng": "Farewells",
+                        "jpn": "決別"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "324521",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324521",
+                    "Titles": {
+                        "eng": "First Battle",
+                        "jpn": "初陣"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "324522",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324522",
+                    "Titles": {
+                        "eng": "The Great Seal",
+                        "jpn": "大封印"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "324523",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324523",
+                    "Titles": {
+                        "eng": "Odious Pact",
+                        "jpn": "忌まわしき契約"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "324524",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324524",
+                    "Titles": {
+                        "eng": "Where the Heart Lies",
+                        "jpn": "心の在り處"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "324525",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324525",
+                    "Titles": {
+                        "eng": "On the Path of Destruction",
+                        "jpn": "滅びゆくもの"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "324526",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324526",
+                    "Titles": {
+                        "eng": "Traces of an Ancient Dream",
+                        "jpn": "太古の夢跡"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "324527",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/324527",
+                    "Titles": {
+                        "eng": "Utawarerumono - He Whose Song is Sung",
+                        "jpn": "うたわれるもの"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "635049",
+            "URL": "https://thetvdb.com/series/utawarerumono/seasons/official/2",
+            "Titles": {
+                "eng": "The False Faces",
+                "jpn": "うたわれるもの 偽りの仮面",
+                "fra": "Itsuwari no Kamen",
+                "deu": "The False Faces",
+                "rus": "Фальшивая Маска"
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "5307103",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5307103",
+                    "Titles": {
+                        "eng": "Curse",
+                        "jpn": "タタリ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5354659",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5354659",
+                    "Titles": {
+                        "eng": "The Chivalrous Man",
+                        "jpn": "義侠の男"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5354660",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5354660",
+                    "Titles": {
+                        "eng": "The Path to the Imperial Capital",
+                        "jpn": "帝都への道"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5354661",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5354661",
+                    "Titles": {
+                        "eng": "The Imperial Capital",
+                        "jpn": "帝都"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5354662",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5354662",
+                    "Titles": {
+                        "eng": "The Pirate Girl",
+                        "jpn": "海賊娘"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5354663",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5354663",
+                    "Titles": {
+                        "eng": "The Owner of the Inn",
+                        "jpn": "楼閣の主"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5354664",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5354664",
+                    "Titles": {
+                        "eng": "The Childish Imperial Princess",
+                        "jpn": "幼き皇女"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5354665",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5354665",
+                    "Titles": {
+                        "eng": "Detective Story from the Imperial Capital",
+                        "jpn": "帝都捕物帳"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5354666",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5354666",
+                    "Titles": {
+                        "eng": "Envoys from the Country of the Sleeping God",
+                        "jpn": "神眠りし國の使者"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5354667",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5354667",
+                    "Titles": {
+                        "eng": "Love",
+                        "jpn": "恋慕"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5354668",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5354668",
+                    "Titles": {
+                        "eng": "The Imperial Princess Plays With Fire",
+                        "jpn": "皇女の火遊び"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5354669",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5354669",
+                    "Titles": {
+                        "eng": "Oracle of the Chains",
+                        "jpn": "鎖の巫"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "5354670",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5354670",
+                    "Titles": {
+                        "eng": "The Eight Central Generals",
+                        "jpn": "八柱将"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "5354671",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5354671",
+                    "Titles": {
+                        "eng": "Master Swordsman",
+                        "jpn": "剣豪"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "5354672",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5354672",
+                    "Titles": {
+                        "eng": "Mask",
+                        "jpn": "仮面"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "5354673",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5354673",
+                    "Titles": {
+                        "eng": "Banquet",
+                        "jpn": "宴"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "5354674",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5354674",
+                    "Titles": {
+                        "eng": "Afterglow",
+                        "jpn": "残照"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "5354675",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5354675",
+                    "Titles": {
+                        "eng": "Invasion",
+                        "jpn": "侵攻"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "5354676",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5354676",
+                    "Titles": {
+                        "eng": "Blazing Up",
+                        "jpn": "炎上"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "5354677",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5354677",
+                    "Titles": {
+                        "eng": "Military Man",
+                        "jpn": "武人"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "5354678",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5354678",
+                    "Titles": {
+                        "eng": "Death of the Emperor",
+                        "jpn": "崩御"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "5354679",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5354679",
+                    "Titles": {
+                        "eng": "Rescue",
+                        "jpn": "救出"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "5354680",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5354680",
+                    "Titles": {
+                        "eng": "Escape",
+                        "jpn": "脱出"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "5354681",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5354681",
+                    "Titles": {
+                        "eng": "One Sufficient to be Ruler",
+                        "jpn": "覇者たるもの"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "5354682",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/5354682",
+                    "Titles": {
+                        "eng": "One Who Would Succeed the Will",
+                        "jpn": "意志を継ぐもの"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "2007492",
+            "URL": "https://thetvdb.com/series/utawarerumono/seasons/official/3",
+            "Titles": {
+                "eng": "Mask of Truth",
+                "jpn": "うたわれるもの 二人の白皇",
+                "fra": "Futari no Hakuoro",
+                "kor": "두 명의 백황",
+                "deu": "Mask of Truth"
+            },
+            "# Episodes": 28,
+            "Episodes": {
+                "1": {
+                    "ID": "9234931",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9234931",
+                    "Titles": {
+                        "eng": "Beside the Iron Fan",
+                        "jpn": "鉄扇と共に"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9234932",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9234932",
+                    "Titles": {
+                        "eng": "Whereabouts of Resolve",
+                        "jpn": "覚悟の在処"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9234933",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9234933",
+                    "Titles": {
+                        "eng": "Stain the Road Crimson",
+                        "jpn": "その道を紅く染めて"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9234934",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9234934",
+                    "Titles": {
+                        "eng": "Feelings That Won't Return",
+                        "jpn": "戻れぬ想い"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "9234935",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9234935",
+                    "Titles": {
+                        "eng": "Opposing Pair",
+                        "jpn": "対なるもの"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "9234936",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9234936",
+                    "Titles": {
+                        "eng": "Conquering Princess",
+                        "jpn": "覇道皇女"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "9234937",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9234937",
+                    "Titles": {
+                        "eng": "Speaking to a Princess",
+                        "jpn": "奏上の時"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "9234938",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9234938",
+                    "Titles": {
+                        "eng": "Return",
+                        "jpn": "帰還"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "9234939",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9234939",
+                    "Titles": {
+                        "eng": "The One Who Bears the Flute",
+                        "jpn": "笛を吹く者"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "9234940",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9234940",
+                    "Titles": {
+                        "eng": "Forest of Schemes",
+                        "jpn": "策動の森"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "9234941",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9234941",
+                    "Titles": {
+                        "eng": "Proof of a Ruler",
+                        "jpn": "長の証"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "9234942",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9234942",
+                    "Titles": {
+                        "eng": "Flames of Dark Obsession",
+                        "jpn": "妄執の炎"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "9333766",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9333766",
+                    "Titles": {
+                        "eng": "A Vow to Rebuild",
+                        "jpn": "復興の誓い"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "9333767",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9333767",
+                    "Titles": {
+                        "eng": "The Night Before the Final Battle",
+                        "jpn": "決戦前夜"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "9333768",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9333768",
+                    "Titles": {
+                        "eng": "Slim Chance of Survival",
+                        "jpn": "死中に活あり"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "9333769",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9333769",
+                    "Titles": {
+                        "eng": "Legends Clash",
+                        "jpn": "豪雄激突"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "9333770",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9333770",
+                    "Titles": {
+                        "eng": "The Price of Resolve",
+                        "jpn": "決意の対価"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "9333771",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9333771",
+                    "Titles": {
+                        "eng": "With a Great Wish in One's Heart",
+                        "jpn": "大願を胸に"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "9333772",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9333772",
+                    "Titles": {
+                        "eng": "The Role Left to Me",
+                        "jpn": "残された役目"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "9333773",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9333773",
+                    "Titles": {
+                        "eng": "To Tuskur",
+                        "jpn": "トゥスクルへ"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "9333774",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9333774",
+                    "Titles": {
+                        "eng": "Humanity's Heir",
+                        "jpn": "人を継ぐ者"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "9333775",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9333775",
+                    "Titles": {
+                        "eng": "The Door to Wisdom",
+                        "jpn": "叡智への扉"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "9333776",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9333776",
+                    "Titles": {
+                        "eng": "In the Land of Awakenings",
+                        "jpn": "目覚めの地にて"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "9333777",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9333777",
+                    "Titles": {
+                        "eng": "A Voice from the Abyss",
+                        "jpn": "深淵より来る声"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "9333778",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9333778",
+                    "Titles": {
+                        "eng": "Twisted Onkami",
+                        "jpn": "歪みし大神"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "9333779",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9333779",
+                    "Titles": {
+                        "eng": "The End of a Wish",
+                        "jpn": "願いの果て"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "9333780",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9333780",
+                    "Titles": {
+                        "eng": "Start of a Myth",
+                        "jpn": "神話の始まり"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "9333781",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/utawarerumono/episodes/9333781",
+                    "Titles": {
+                        "eng": "Mask of Truth",
+                        "jpn": "二人の白皇"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

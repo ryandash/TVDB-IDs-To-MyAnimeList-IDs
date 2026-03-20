@@ -1,0 +1,51 @@
+{
+    "URL": "https://thetvdb.com/series/bang-dream-morfonication",
+    "Genres": [
+        "Anime",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt20835112/",
+        "https://morfonica-anime.bang-dream.com/",
+        "https://www.themoviedb.org/tv/203340"
+    ],
+    "Titles": {
+        "eng": "BanG Dream! Morfonication",
+        "jpn": "BanG Dream! Morfonication"
+    },
+    "Aliases": [],
+    "Modified": "2025-07-27",
+    "Seasons": {
+        "1": {
+            "ID": "2003741",
+            "URL": "https://thetvdb.com/series/bang-dream-morfonication/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "9285395",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/bang-dream-morfonication/episodes/9285395",
+                    "Titles": {
+                        "eng": "Monica's Summer Plan",
+                        "jpn": "夏モニカ計画"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9285396",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/bang-dream-morfonication/episodes/9285396",
+                    "Titles": {
+                        "eng": "Shining Days",
+                        "jpn": "Shining Days"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

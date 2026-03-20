@@ -3,7 +3,7 @@ from pathlib import Path
 import sys
 
 # Input files (match your main script)
-movies_json = Path("mapped-tvdb-ids-movies.json")
+movies_json = Path("mapped-tvdb-ids-movie.json")
 series_json = Path("mapped-tvdb-ids-series.json")
 season_json = Path("mapped-tvdb-ids-seasons.json")
 episode_json = Path("mapped-tvdb-ids-episodes.json")

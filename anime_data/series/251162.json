@@ -1,0 +1,91 @@
+{
+    "URL": "https://thetvdb.com/series/joe-vs-joe",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Mini-Series",
+        "Sport"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1233544/"
+    ],
+    "Titles": {
+        "eng": "Joe vs. Joe",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2023-01-26",
+    "Seasons": {
+        "1": {
+            "ID": "472243",
+            "URL": "https://thetvdb.com/series/joe-vs-joe/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "4154236",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/joe-vs-joe/episodes/4154236",
+                    "Titles": {
+                        "eng": "Fateful Encounter",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4154237",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/joe-vs-joe/episodes/4154237",
+                    "Titles": {
+                        "eng": "Seal the Nightmare",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4154238",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/joe-vs-joe/episodes/4154238",
+                    "Titles": {
+                        "eng": "The Snowy Illusion",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4154239",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/joe-vs-joe/episodes/4154239",
+                    "Titles": {
+                        "eng": "The Silent Bell",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4154240",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/joe-vs-joe/episodes/4154240",
+                    "Titles": {
+                        "eng": "Candor and Reclaim",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4154241",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/joe-vs-joe/episodes/4154241",
+                    "Titles": {
+                        "eng": "The Majestic Festival",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

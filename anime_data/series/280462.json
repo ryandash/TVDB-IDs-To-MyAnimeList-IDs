@@ -1,0 +1,61 @@
+{
+    "URL": "https://thetvdb.com/series/romantica-clock",
+    "Genres": [
+        "Animation",
+        "Mini-Series",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt3492720/",
+        "https://www.themoviedb.org/tv/112419"
+    ],
+    "Titles": {
+        "eng": "Romantica Clock",
+        "jpn": "ロマンチカクロック"
+    },
+    "Aliases": [],
+    "Modified": "2022-06-22",
+    "Seasons": {
+        "1": {
+            "ID": "582087",
+            "URL": "https://thetvdb.com/series/romantica-clock/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "4850431",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/romantica-clock/episodes/4850431",
+                    "Titles": {
+                        "eng": "Episode 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4850432",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/romantica-clock/episodes/4850432",
+                    "Titles": {
+                        "eng": "Episode 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4850433",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/romantica-clock/episodes/4850433",
+                    "Titles": {
+                        "eng": "Episode 3",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

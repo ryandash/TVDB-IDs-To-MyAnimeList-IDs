@@ -1,0 +1,86 @@
+{
+    "URL": "https://thetvdb.com/series/takegami-guardian-of-darkness",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Mini-Series"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0813396/",
+        "https://www.themoviedb.org/tv/76974"
+    ],
+    "Titles": {
+        "eng": "Takegami: Guardian of Darkness",
+        "jpn": "暗黒神伝承 武神"
+    },
+    "Aliases": [
+        "Guardian of Darkness",
+        "Takegami War God"
+    ],
+    "Modified": "2025-09-05",
+    "Seasons": {
+        "0": {
+            "ID": "545274",
+            "URL": "https://thetvdb.com/series/takegami-guardian-of-darkness/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "8744505",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/takegami-guardian-of-darkness/episodes/8744505",
+                    "Titles": {
+                        "eng": "Special Bonus: Yamazaki on",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "344021",
+            "URL": "https://thetvdb.com/series/takegami-guardian-of-darkness/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "3041771",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/takegami-guardian-of-darkness/episodes/3041771",
+                    "Titles": {
+                        "eng": "Shrine of the Eight-headed Dragon",
+                        "jpn": "十六夜情話"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "3041781",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/takegami-guardian-of-darkness/episodes/3041781",
+                    "Titles": {
+                        "eng": "Legend of 800 Priestesses",
+                        "jpn": "八百比丘尼"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "3041791",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/takegami-guardian-of-darkness/episodes/3041791",
+                    "Titles": {
+                        "eng": "The Mystery of Hiruko",
+                        "jpn": "水蛭子奇譚"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

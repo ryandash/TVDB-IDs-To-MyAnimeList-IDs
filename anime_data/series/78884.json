@@ -1,0 +1,184 @@
+{
+    "URL": "https://thetvdb.com/series/starship-operators",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Drama",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0498448/",
+        "https://www.themoviedb.org/tv/34790"
+    ],
+    "Titles": {
+        "eng": "Starship Operators",
+        "jpn": "スターシップ・オペレーターズ"
+    },
+    "Aliases": [],
+    "Modified": "2026-01-12",
+    "Seasons": {
+        "0": {
+            "ID": "535391",
+            "URL": "https://thetvdb.com/series/starship-operators/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "7094306",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starship-operators/episodes/7094306",
+                    "Titles": {
+                        "eng": "Epilogue",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "15801",
+            "URL": "https://thetvdb.com/series/starship-operators/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "298186",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starship-operators/episodes/298186",
+                    "Titles": {
+                        "eng": "Countdown",
+                        "jpn": "カウント・ダウン"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "298187",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starship-operators/episodes/298187",
+                    "Titles": {
+                        "eng": "Trafalgar Crisis",
+                        "jpn": "トラファルガー・クライシス"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "298188",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starship-operators/episodes/298188",
+                    "Titles": {
+                        "eng": "Call From Home",
+                        "jpn": "コール・フロム・ホーム"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "298189",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starship-operators/episodes/298189",
+                    "Titles": {
+                        "eng": "Final Answer",
+                        "jpn": "ファイナル・アンサー"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "298190",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starship-operators/episodes/298190",
+                    "Titles": {
+                        "eng": "Great Escape (1)",
+                        "jpn": "グレート・エスケープ（前編）"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "298191",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starship-operators/episodes/298191",
+                    "Titles": {
+                        "eng": "Great Escape (2)",
+                        "jpn": "グレート・エスケープ（後編）"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "298192",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starship-operators/episodes/298192",
+                    "Titles": {
+                        "eng": "Stardust Memory (1)",
+                        "jpn": "スターダスト・メモリー（前編）"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "298193",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starship-operators/episodes/298193",
+                    "Titles": {
+                        "eng": "Stardust Memory (2)",
+                        "jpn": "スターダスト・メモリー（後編）"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "298194",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starship-operators/episodes/298194",
+                    "Titles": {
+                        "eng": "Turning Point",
+                        "jpn": "ロスト・シップ"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "298195",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starship-operators/episodes/298195",
+                    "Titles": {
+                        "eng": "Sudden Death",
+                        "jpn": "サドン・デス"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "298196",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starship-operators/episodes/298196",
+                    "Titles": {
+                        "eng": "Return Match",
+                        "jpn": "リターン・マッチ"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "298197",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starship-operators/episodes/298197",
+                    "Titles": {
+                        "eng": "War Cry",
+                        "jpn": "ウォー・クライ"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "298198",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starship-operators/episodes/298198",
+                    "Titles": {
+                        "eng": "Moment of Truth",
+                        "jpn": "モーメント・オブ・トゥルース"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

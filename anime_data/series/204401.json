@@ -1,0 +1,555 @@
+{
+    "URL": "https://thetvdb.com/series/prince-planet",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Children",
+        "Family",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0127390/",
+        "https://www.themoviedb.org/tv/31689"
+    ],
+    "Titles": {
+        "eng": "Prince Planet",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2010-11-09",
+    "Seasons": {
+        "1": {
+            "ID": "352261",
+            "URL": "https://thetvdb.com/series/prince-planet/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 52,
+            "Episodes": {
+                "1": {
+                    "ID": "3111781",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3111781",
+                    "Titles": {
+                        "eng": "A Boy From Outer Space",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "3111791",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3111791",
+                    "Titles": {
+                        "eng": "Giant on the Matters",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "3111801",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3111801",
+                    "Titles": {
+                        "eng": "The Formidable Rival",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "3111811",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3111811",
+                    "Titles": {
+                        "eng": "The Arabian Magician",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "3111821",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3111821",
+                    "Titles": {
+                        "eng": "The Flying Jelly Fish",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "3111831",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3111831",
+                    "Titles": {
+                        "eng": "Dinosaur Men",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "3111841",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3111841",
+                    "Titles": {
+                        "eng": "A Big Showdown",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "3111851",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3111851",
+                    "Titles": {
+                        "eng": "Robot Island",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "3111861",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3111861",
+                    "Titles": {
+                        "eng": "The Overgrown Lizard",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "3111871",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3111871",
+                    "Titles": {
+                        "eng": "Shaberia",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "3111881",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3111881",
+                    "Titles": {
+                        "eng": "Fancy Machine",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "3111891",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3111891",
+                    "Titles": {
+                        "eng": "S.O.S. Global",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "3111901",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3111901",
+                    "Titles": {
+                        "eng": "Gold Picker",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "3111911",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3111911",
+                    "Titles": {
+                        "eng": "Attack of the Radioactive Ants",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "3111921",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3111921",
+                    "Titles": {
+                        "eng": "The Great Space War",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "3111931",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3111931",
+                    "Titles": {
+                        "eng": "The Star in Memory",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "3111941",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3111941",
+                    "Titles": {
+                        "eng": "The Space Zoo",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "3111951",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3111951",
+                    "Titles": {
+                        "eng": "The Stolen Mount Fuji",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "3111961",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3111961",
+                    "Titles": {
+                        "eng": "Pirate Satan",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "3111971",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3111971",
+                    "Titles": {
+                        "eng": "Planet Of Terror",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "3111981",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3111981",
+                    "Titles": {
+                        "eng": "Robot",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "3111991",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3111991",
+                    "Titles": {
+                        "eng": "Good-Bye Saturnian",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "3112001",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112001",
+                    "Titles": {
+                        "eng": "The Earth Zero Hour",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "3112011",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112011",
+                    "Titles": {
+                        "eng": "The Ghost Space Ship",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "3112021",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112021",
+                    "Titles": {
+                        "eng": "Battle on a Desert Island",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "3112031",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112031",
+                    "Titles": {
+                        "eng": "Secret Under the Sea",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "3112041",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112041",
+                    "Titles": {
+                        "eng": "The Rocket Pilot",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "3112051",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112051",
+                    "Titles": {
+                        "eng": "Gaist the Devilfish",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "3112061",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112061",
+                    "Titles": {
+                        "eng": "The Gift From Prince Planet",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "3112071",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112071",
+                    "Titles": {
+                        "eng": "Gollen, the Formidable Foe",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "3112081",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112081",
+                    "Titles": {
+                        "eng": "The Pollen Bomb",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "3112091",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112091",
+                    "Titles": {
+                        "eng": "Operation Rico",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "3112101",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112101",
+                    "Titles": {
+                        "eng": "Rico, the Great Detective",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "3112111",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112111",
+                    "Titles": {
+                        "eng": "A Spy From the Necro",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "3112121",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112121",
+                    "Titles": {
+                        "eng": "The Demon Scientist",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "3112131",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112131",
+                    "Titles": {
+                        "eng": "The Young Spies",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "3112141",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112141",
+                    "Titles": {
+                        "eng": "Alan, the Secret Agent",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "3112151",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112151",
+                    "Titles": {
+                        "eng": "The Magic Glove",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "3112161",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112161",
+                    "Titles": {
+                        "eng": "The Robot Prince",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "3112171",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112171",
+                    "Titles": {
+                        "eng": "Rico's Adventure",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "3112181",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112181",
+                    "Titles": {
+                        "eng": "The Lion in the Desert",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "3112191",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112191",
+                    "Titles": {
+                        "eng": "Crisis on the Earth",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "3112201",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112201",
+                    "Titles": {
+                        "eng": "The Horror of a Snowman",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "3112211",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112211",
+                    "Titles": {
+                        "eng": "Revenge in the Valley",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "3112221",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112221",
+                    "Titles": {
+                        "eng": "The Comet Missile",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "3112231",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112231",
+                    "Titles": {
+                        "eng": "The Mystery of a Mummy",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "3112241",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112241",
+                    "Titles": {
+                        "eng": "The Mystery of Organ",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "3112251",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112251",
+                    "Titles": {
+                        "eng": "Horror at 10:10 PM",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "3112261",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112261",
+                    "Titles": {
+                        "eng": "The Birdman Racket",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "3112271",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112271",
+                    "Titles": {
+                        "eng": "Secret Path into the Earth",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "3112281",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112281",
+                    "Titles": {
+                        "eng": "Ajababa's Grandchildren",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "3112301",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prince-planet/episodes/3112301",
+                    "Titles": {
+                        "eng": "The Star at Home",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

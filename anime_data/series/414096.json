@@ -1,0 +1,531 @@
+{
+    "URL": "https://thetvdb.com/series/urusei-yatsura",
+    "Genres": [
+        "Adaptation",
+        "Anime - Shonen"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt16764368/",
+        "https://uy-allstars.com/",
+        "http://www.reddit.com/r/uruseiyatsura",
+        "https://www.themoviedb.org/tv/154524",
+        "https://www.wikidata.org/wiki/Q110362821",
+        "https://en.wikipedia.org/wiki/Urusei_Yatsura_(2022_TV_series)",
+        "https://x.com/uy_allstars"
+    ],
+    "Titles": {
+        "eng": "Urusei Yatsura (2022)",
+        "jpn": "うる星やつら"
+    },
+    "Aliases": [
+        "Urusei Yatsura",
+        "うる星やつら (2022)",
+        "Lum, the Invader Girl (2022)"
+    ],
+    "Modified": "2026-02-15",
+    "Seasons": {
+        "0": {
+            "ID": "1974391",
+            "URL": "https://thetvdb.com/series/urusei-yatsura/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "9415587",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/9415587",
+                    "Titles": {
+                        "eng": "Urusei Yatsura x Onitsuka Tiger Collaboration",
+                        "jpn": "Onitsuka Tiger アニメ『うる星やつら』とコラボレーション"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "1974392",
+            "URL": "https://thetvdb.com/series/urusei-yatsura/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 23,
+            "Episodes": {
+                "1": {
+                    "ID": "8917523",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/8917523",
+                    "Titles": {
+                        "eng": "Young Love on the Run / Between a Rock and a Hard Place",
+                        "jpn": "かけめぐる青春／絶体絶命"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9395108",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/9395108",
+                    "Titles": {
+                        "eng": "Present for You / The Yellow Ribbon of Happiness",
+                        "jpn": "あなたにあげる／幸せの黄色いリボン"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9395109",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/9395109",
+                    "Titles": {
+                        "eng": "Trouble Rains Down!! / Amazed in a Maze",
+                        "jpn": "トラブルは舞い降りた！！／迷路でメロメロ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9395110",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/9395110",
+                    "Titles": {
+                        "eng": "Sealed With a Kiss!!",
+                        "jpn": "口づけと共に契らん！！"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "9395111",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/9395111",
+                    "Titles": {
+                        "eng": "The Glove of Love and Conflict / How I've Waited for You…",
+                        "jpn": "愛と闘魂のグローブ／君待てども…"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "9395112",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/9395112",
+                    "Titles": {
+                        "eng": "Good Day for a Departure / Oyuki / Ataru Retires",
+                        "jpn": "いい日旅立ち／お雪／あたるの引退"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "9395113",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/9395113",
+                    "Titles": {
+                        "eng": "Home Is Where You Find It / Marine Garbage Disposal",
+                        "jpn": "住めば都／生ゴミ、海へ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "9395114",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/9395114",
+                    "Titles": {
+                        "eng": "Transfer Student Close Call… / Farewell Party Close Call…",
+                        "jpn": "転入生、危機一髪…／お別れパーティー危機一髪…"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "9395115",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/9395115",
+                    "Titles": {
+                        "eng": "To Kill With Love / Studying Mayhem",
+                        "jpn": "愛で殺したい／自習騒動"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "9395116",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/9395116",
+                    "Titles": {
+                        "eng": "Parents' Day Horrors / Since Your Parting",
+                        "jpn": "戦慄の参観日／君去りし後"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "9395117",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/9395117",
+                    "Titles": {
+                        "eng": "Mendo Siblings!! / A Strange New Year at the Mendo Estate",
+                        "jpn": "面堂兄妹！！／面倒邸新年怪"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "9395118",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/9395118",
+                    "Titles": {
+                        "eng": "Ten Is Here / A Date for Just the Two of Us",
+                        "jpn": "テンちゃんがきた／ふたりだけのデート"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "9399062",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/9399062",
+                    "Titles": {
+                        "eng": "The Great Off-Campus Snack Battle / A Gift From Ten!!",
+                        "jpn": "買い食い大戦争／テンからの贈り物！！"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "9399063",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/9399063",
+                    "Titles": {
+                        "eng": "That Mizunokoji Boy / Love Letter Trouble",
+                        "jpn": "水乃小路家の男／トLOVE ル・レター"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "9399065",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/9399065",
+                    "Titles": {
+                        "eng": "Anko Pathos, the Taste of Love?! / Memories and a Close Call… / Adverse Effects",
+                        "jpn": "あんこ悲しや、恋の味！？／思い出危機一髪・・・／薬口害"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "9399066",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/9399066",
+                    "Titles": {
+                        "eng": "Family Feud!! / Hello, Sailor Suit!!",
+                        "jpn": "激闘、父子鷹!!／セーラー服よ、こんにちは!!"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "9399067",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/9399067",
+                    "Titles": {
+                        "eng": "A Chest Full of Longing!! / Wish Upon a Star",
+                        "jpn": "あこがれを胸に!!／星に願いを"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "9399068",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/9399068",
+                    "Titles": {
+                        "eng": "Indelible Lipstick Magic!! / Lethal Attacks: Yaminabe!",
+                        "jpn": "き・え・な・いルージュマジック!!／必殺！ヤミナベ"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "9399069",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/9399069",
+                    "Titles": {
+                        "eng": "Magic Realm! Jungle of Terror / Pickled",
+                        "jpn": "魔境！戦慄の密林／酔っぱらいブギ"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "9399072",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/9399072",
+                    "Titles": {
+                        "eng": "Recovering That Which Was Lost",
+                        "jpn": "失われたモノを求めて"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "9399074",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/9399074",
+                    "Titles": {
+                        "eng": "Cosmo Teacher CAO-2 / Ooh, Scary! Voodoo Doll",
+                        "jpn": "惑星教師CAO-2／あな恐ろしや、ワラ人形"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "9399077",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/9399077",
+                    "Titles": {
+                        "eng": "Big Bottle, Little Bottle / When Love Strikes",
+                        "jpn": "大ビン小ビン／愛がふれあうとき"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "9399079",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/9399079",
+                    "Titles": {
+                        "eng": "Title Match!! The Tomo-1 Queen Contest",
+                        "jpn": "決戦!!友1クイーンコンテスト"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "2054566",
+            "URL": "https://thetvdb.com/series/urusei-yatsura/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 23,
+            "Episodes": {
+                "1": {
+                    "ID": "10191483",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/10191483",
+                    "Titles": {
+                        "eng": "Fantasy Balloon Gum / Love Knows No Barriers",
+                        "jpn": "妄想フーセンガム／愛は国境を越えて"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10223126",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/10223126",
+                    "Titles": {
+                        "eng": "Trickle of Memories / Album of Memories / The Home Visit Blues: Feuding Fujinami Edition",
+                        "jpn": "想い出ボロボロ!?／想い出のアルバム／涙の家庭訪問 激闘の藤波家編"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10223127",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/10223127",
+                    "Titles": {
+                        "eng": "Electric Jungle",
+                        "jpn": "電飾の魔境"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "10223129",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/10223129",
+                    "Titles": {
+                        "eng": "Love Thief / That Mizunokoji Girl",
+                        "jpn": "恋人泥棒／水乃小路の娘"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "10223130",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/10223130",
+                    "Titles": {
+                        "eng": "The Continuation of: That Mizunokoji Girl",
+                        "jpn": "続・水乃小路の娘"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "10223131",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/10223131",
+                    "Titles": {
+                        "eng": "Kotatsu Love / Lum Becomes a Cow / The Home Visit Blues: Luxurious Mendo Edition",
+                        "jpn": "コタツにかけた愛／ラムちゃん、ウシになる／涙の家庭訪問　華麗なる面堂家編"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "10223132",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/10223132",
+                    "Titles": {
+                        "eng": "Eerie Earmuffs / Family Tree",
+                        "jpn": "イヤーマッフルの怪／系図"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "10223133",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/10223133",
+                    "Titles": {
+                        "eng": "Open the Door: Part 1",
+                        "jpn": "扉を開けて　前編"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "10223134",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/10223134",
+                    "Titles": {
+                        "eng": "Open the Door: Part 2 / The Home Visit Blues: Prohibitive Miyake Edition",
+                        "jpn": "扉を開けて　後編／涙の家庭訪問　禁じられた三宅家編"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "10223135",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/10223135",
+                    "Titles": {
+                        "eng": "Haunted Mendo / Last Date",
+                        "jpn": "あやかしの面堂／最後のデート"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "10223136",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/10223136",
+                    "Titles": {
+                        "eng": "The Case of the Battered Principal / The Secret Flower Garden / The Home Visit Blues: Hellish Moroboshi Edition",
+                        "jpn": "校長殴打事件／秘密の花園／涙の家庭訪問　地獄の諸星家編"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "10223137",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/10223137",
+                    "Titles": {
+                        "eng": "Lovely Darling in Danger!! / Foxes in the Moonlight / The Home Visit Blues: Mark Onsen Goes to Space",
+                        "jpn": "愛♡ダーリンの危機！！／月夜のキツネたち／涙の家庭訪問　温泉マーク宇宙へ"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "10223138",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/10223138",
+                    "Titles": {
+                        "eng": "Wretched Shutaro!!",
+                        "jpn": "みじめっ子・終太郎！！"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "10223139",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/10223139",
+                    "Titles": {
+                        "eng": "Asuka Returns / A Stormy Date: Part 1",
+                        "jpn": "飛鳥ふたたび／嵐を呼ぶデート　前編"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "10223140",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/10223140",
+                    "Titles": {
+                        "eng": "A Stormy Date: Part 2",
+                        "jpn": "嵐を呼ぶデート　後編"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "10223141",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/10223141",
+                    "Titles": {
+                        "eng": "Nagisa's Fiancé / The Fairy's Parasol",
+                        "jpn": "渚のフィアンセ／妖精のパラソル"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "10223142",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/10223142",
+                    "Titles": {
+                        "eng": "One Night's Battle / Deadly Peril in the Classroom",
+                        "jpn": "一夜の攻防戦／命かけます、授業中！！"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "10223143",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/10223143",
+                    "Titles": {
+                        "eng": "Flower Petals of Love and Courage",
+                        "jpn": "愛と勇気の花一輪"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "10223144",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/10223144",
+                    "Titles": {
+                        "eng": "Lum's Wrath / Steal My Heart",
+                        "jpn": "怒りのラムちゃん！！／ハートをつかめ"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "10223145",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/10223145",
+                    "Titles": {
+                        "eng": "Boy Meets Girl: The Morning of Farewell",
+                        "jpn": "ボーイ ミーツ ガール　別れの朝"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "10223146",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/10223146",
+                    "Titles": {
+                        "eng": "Boy Meets Girl: Are You Really Getting Married?",
+                        "jpn": "ボーイ ミーツ ガール　結婚するって本当ですか"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "10223147",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/10223147",
+                    "Titles": {
+                        "eng": "Boy Meets Girl: Crooked Heart",
+                        "jpn": "ボーイ ミーツ ガール　ねじれたハートで"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "10223148",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/urusei-yatsura/episodes/10223148",
+                    "Titles": {
+                        "eng": "Boy Meets Girl: I Want You When I Can't Have You",
+                        "jpn": "ボーイ ミーツ ガール　ないものねだりのI Want You"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

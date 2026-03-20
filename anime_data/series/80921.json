@@ -1,0 +1,557 @@
+{
+    "URL": "https://thetvdb.com/series/kekkaishi",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1608924/",
+        "https://www.themoviedb.org/tv/31678"
+    ],
+    "Titles": {
+        "eng": "Kekkaishi",
+        "jpn": "結界師"
+    },
+    "Aliases": [
+        "Kekkaishi",
+        "けっかいし"
+    ],
+    "Modified": "2025-05-27",
+    "Seasons": {
+        "1": {
+            "ID": "29604",
+            "URL": "https://thetvdb.com/series/kekkaishi/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 52,
+            "Episodes": {
+                "1": {
+                    "ID": "344526",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344526",
+                    "Titles": {
+                        "eng": "Scars",
+                        "jpn": "右腕の傷"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "344527",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344527",
+                    "Titles": {
+                        "eng": "Yoshimori and Tokine",
+                        "jpn": "良守と時音"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "344528",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344528",
+                    "Titles": {
+                        "eng": "The Beautiful Demon Tamer",
+                        "jpn": "美しき鬼使い"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "344529",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344529",
+                    "Titles": {
+                        "eng": "Her Treasure",
+                        "jpn": "彼女の大事なもの"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "344530",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344530",
+                    "Titles": {
+                        "eng": "A Confectioner's Ghost",
+                        "jpn": "お菓子な人間霊"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "344531",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344531",
+                    "Titles": {
+                        "eng": "Night Blooms of Karasumori",
+                        "jpn": "烏森の宵桜"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "344532",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344532",
+                    "Titles": {
+                        "eng": "The Best Cake in the World",
+                        "jpn": "最高のケーキ！"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "344533",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344533",
+                    "Titles": {
+                        "eng": "Yoshimori-like Days",
+                        "jpn": "良守な日々"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "344534",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344534",
+                    "Titles": {
+                        "eng": "Dangerous High School Teacher",
+                        "jpn": "危険な高校教師"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "344535",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344535",
+                    "Titles": {
+                        "eng": "Shikigami Chocolate Battle",
+                        "jpn": "式神チョコバトル"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "344574",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344574",
+                    "Titles": {
+                        "eng": "Kouya and Madarao",
+                        "jpn": "鋼夜と斑尾"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "344575",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344575",
+                    "Titles": {
+                        "eng": "Demon Dog Madarao's Sealing",
+                        "jpn": "妖犬斑尾封印"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "344576",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344576",
+                    "Titles": {
+                        "eng": "Appearance of Masamori, Captain of the Yagyou",
+                        "jpn": "夜行の頭領正守登場"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "344577",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344577",
+                    "Titles": {
+                        "eng": "Masamori's Plot",
+                        "jpn": "正守のたくらみ"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "344578",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344578",
+                    "Titles": {
+                        "eng": "Yoshimori's Ambition",
+                        "jpn": "良守の野望"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "344579",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344579",
+                    "Titles": {
+                        "eng": "Uro-sama of the Colorless Swamps",
+                        "jpn": "無色沼のウロ様"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "344580",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344580",
+                    "Titles": {
+                        "eng": "That is God's Territory",
+                        "jpn": "それは神の領域"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "344581",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344581",
+                    "Titles": {
+                        "eng": "Days of Toshimori, the Youngest Child",
+                        "jpn": "末っ子利守の日々"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "344582",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344582",
+                    "Titles": {
+                        "eng": "Attackers With White Feathers",
+                        "jpn": "白き羽の襲撃者"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "344583",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344583",
+                    "Titles": {
+                        "eng": "Weird Surveillant",
+                        "jpn": "不気味な監視者"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "344584",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344584",
+                    "Titles": {
+                        "eng": "Cold Transfer Student: Shishio Gen",
+                        "jpn": "非情な転校生志々尾限"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "344585",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344585",
+                    "Titles": {
+                        "eng": "Messenger from the Urakai",
+                        "jpn": "裏会からの使者"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "344586",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344586",
+                    "Titles": {
+                        "eng": "Taking Aim at the Legitimate Heir",
+                        "jpn": "狙われた正統継承者"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "344587",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344587",
+                    "Titles": {
+                        "eng": "Gen and Love's Attack",
+                        "jpn": "限と恋のアタック"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "344588",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344588",
+                    "Titles": {
+                        "eng": "Tokine and the Handsome Gentleman",
+                        "jpn": "時音にイケメン"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "344589",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344589",
+                    "Titles": {
+                        "eng": "A Night Without Yoshimori",
+                        "jpn": "良守がいない夜"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "344590",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344590",
+                    "Titles": {
+                        "eng": "The Elite of the Council of Twelve",
+                        "jpn": "最高幹部十二人会"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "344591",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344591",
+                    "Titles": {
+                        "eng": "Kokubourou's Declaration of War",
+                        "jpn": "黒芒楼の宣戦布告"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "344592",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344592",
+                    "Titles": {
+                        "eng": "The Magic Square of Spell-Sealing",
+                        "jpn": "呪力封じの魔方陣"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "344593",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344593",
+                    "Titles": {
+                        "eng": "Karasumori's Suitable Person",
+                        "jpn": "烏森の適任者"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "344594",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344594",
+                    "Titles": {
+                        "eng": "The Surprising Past of Shishio",
+                        "jpn": "志々尾驚きの経歴"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "344595",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344595",
+                    "Titles": {
+                        "eng": "Atora's Intense Training",
+                        "jpn": "強烈な亜十羅の試練"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "344596",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344596",
+                    "Titles": {
+                        "eng": "Shige-jii's Dire Flight",
+                        "jpn": "急げ繁じい本気走り"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "344597",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344597",
+                    "Titles": {
+                        "eng": "Dark Voice of Temptation from the Egg",
+                        "jpn": "卵から声　闇の誘い"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "344598",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344598",
+                    "Titles": {
+                        "eng": "Kokubourou Approaches",
+                        "jpn": "迫り来る黒芒楼"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "344599",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344599",
+                    "Titles": {
+                        "eng": "Karasumori's Destruction by Fire",
+                        "jpn": "烏森炎上"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "344600",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344600",
+                    "Titles": {
+                        "eng": "Shishio Gen's Last Battle",
+                        "jpn": "志々尾限最期の戦い"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "344601",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344601",
+                    "Titles": {
+                        "eng": "The Respective Repose of Souls",
+                        "jpn": "それぞれの鎮魂"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "344602",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344602",
+                    "Titles": {
+                        "eng": "Karasumori's Enigma",
+                        "jpn": "烏森の謎"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "344603",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344603",
+                    "Titles": {
+                        "eng": "The Road to Kurosusuki",
+                        "jpn": "黒芒への道"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "344604",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344604",
+                    "Titles": {
+                        "eng": "Days of Special Training",
+                        "jpn": "特訓の日々"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "344605",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344605",
+                    "Titles": {
+                        "eng": "The Entirety of the Yagyou",
+                        "jpn": "夜行の面々"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "344606",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344606",
+                    "Titles": {
+                        "eng": "Second Advent of the Black Clouds",
+                        "jpn": "暗雲の再来"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "344607",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344607",
+                    "Titles": {
+                        "eng": "Karasumori's War",
+                        "jpn": "烏森の激戦"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "344608",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344608",
+                    "Titles": {
+                        "eng": "Kokubourou's Human Sacrifice",
+                        "jpn": "黒芒楼の人柱"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "344609",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/344609",
+                    "Titles": {
+                        "eng": "Mysterious World's Maze",
+                        "jpn": "異界の迷路"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "358421",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/358421",
+                    "Titles": {
+                        "eng": "Destiny's Conclusion",
+                        "jpn": "因縁の決着"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "358422",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/358422",
+                    "Titles": {
+                        "eng": "Crumbling Castle",
+                        "jpn": "崩れゆく城郭"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "358423",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/358423",
+                    "Titles": {
+                        "eng": "Sad Demon Flower",
+                        "jpn": "哀しき妖花"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "358424",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/358424",
+                    "Titles": {
+                        "eng": "Final Battle!",
+                        "jpn": "最終決戦！"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "358425",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/358425",
+                    "Titles": {
+                        "eng": "Yoshimori and Kaguro",
+                        "jpn": "良森と火黒"
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "358426",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kekkaishi/episodes/358426",
+                    "Titles": {
+                        "eng": "The End of Kokubourou",
+                        "jpn": "黒芒楼の終焉"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

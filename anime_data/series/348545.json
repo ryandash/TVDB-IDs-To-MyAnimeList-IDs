@@ -1,0 +1,954 @@
+{
+    "URL": "https://thetvdb.com/series/demon-slayer-kimetsu-no-yaiba",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Fantasy",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt9335498/",
+        "http://www.reddit.com/r/DemonSlayerAnime",
+        "https://www.themoviedb.org/tv/85937"
+    ],
+    "Titles": {
+        "eng": "Demon Slayer: Kimetsu no Yaiba",
+        "jpn": "鬼滅の刃"
+    },
+    "Aliases": [
+        "Blade of Demon Destruction",
+        "Demon Slayer",
+        "Kimetsu no Yaiba",
+        "kny"
+    ],
+    "Modified": "2026-03-14",
+    "Seasons": {
+        "0": {
+            "ID": "767167",
+            "URL": "https://thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 16,
+            "Episodes": {
+                "1": {
+                    "ID": "7766030",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7766030",
+                    "Titles": {
+                        "eng": "Movie: Sibling's Bond",
+                        "jpn": "兄弟の絆"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7766161",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7766161",
+                    "Titles": {
+                        "eng": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+                        "jpn": "劇場版「鬼滅の刃」 無限列車編"
+                    },
+                    "Aliases": [
+                        "Gekijouban Kimetsu no Yaiba: Mugen Ressha Hen",
+                        "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+                        "Kimetsu no Yaiba: Mugen Ressha-hen",
+                        "Demon Slayer The Movie: Mugen Train",
+                        "Demon Slayer The Movie: Infinity Train"
+                    ]
+                },
+                "3": {
+                    "ID": "8861068",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8861068",
+                    "Titles": {
+                        "eng": "Junior High and High School!! Kimetsu Academy Story: Valentine Edition Episode 1",
+                        "jpn": "Kimetsu Gakuen: Valentine-hen 1"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "8861069",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8861069",
+                    "Titles": {
+                        "eng": "Junior High and High School!! Kimetsu Academy Story: Valentine Edition Episode 2",
+                        "jpn": "Kimetsu Gakuen: Valentine-hen 2"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "8861070",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8861070",
+                    "Titles": {
+                        "eng": "Junior High and High School!! Kimetsu Academy Story: Valentine Edition Episode 3",
+                        "jpn": "Kimetsu Gakuen: Valentine-hen 3"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "8861071",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8861071",
+                    "Titles": {
+                        "eng": "Junior High and High School!! Kimetsu Academy Story: Valentine Edition Episode 4",
+                        "jpn": "Kimetsu Gakuen: Valentine-hen 4"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "8863223",
+                    "TYPE": "Season Recaps",
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8863223",
+                    "Titles": {
+                        "eng": "First Night: Brother and Sister's Bond",
+                        "jpn": "竈門炭治郎 立志編 特別編集版 第一夜「兄妹の絆」"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "8863224",
+                    "TYPE": "Season Recaps",
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8863224",
+                    "Titles": {
+                        "eng": "Second Night: Asakusa",
+                        "jpn": "竈門炭治郎 立志編 特別編集版 第二夜「浅草編」"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "8863225",
+                    "TYPE": "Season Recaps",
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8863225",
+                    "Titles": {
+                        "eng": "Third Night: Tsuzumi Mansion",
+                        "jpn": "竈門炭治郎 立志編 特別編集版 第三夜「鼓屋敷編」"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "8863226",
+                    "TYPE": "Season Recaps",
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8863226",
+                    "Titles": {
+                        "eng": "Fourth Night: Mt. Natagumo",
+                        "jpn": "竈門炭治郎 立志編 特別編集版 第四夜「那田蜘蛛山編」"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "8863227",
+                    "TYPE": "Season Recaps",
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8863227",
+                    "Titles": {
+                        "eng": "Fifth Night: The Hashira Meeting/Butterfly Mansion",
+                        "jpn": "竈門炭治郎 立志編 特別編集版 第五夜「柱合会議・蝶屋敷編」"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "9820500",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/9820500",
+                    "Titles": {
+                        "eng": "Kimetsu no Utage Special Edition Episode 1",
+                        "jpn": "中高一貫!!キメツ学園物語 ～鬼滅の宴=特別編=～1"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "9820501",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/9820501",
+                    "Titles": {
+                        "eng": "Kimetsu no Utage Special Edition Episode 2",
+                        "jpn": "中高一貫!!キメツ学園物語 ～鬼滅の宴=特別編=～2"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "9820502",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/9820502",
+                    "Titles": {
+                        "eng": "Kimetsu no Utage Special Edition Episode 3",
+                        "jpn": "中高一貫!!キメツ学園物語 ～鬼滅の宴=特別編=～3"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "10398960",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/10398960",
+                    "Titles": {
+                        "eng": "Demon Slayer: Kimetsu no Yaiba - To the Hashira Training",
+                        "jpn": "鬼滅の刃 柱稽古編"
+                    },
+                    "Aliases": [
+                        "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
+                        "Kimetsu no Yaiba: Hashira Geiko-hen"
+                    ]
+                },
+                "16": {
+                    "ID": "11573737",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/11573737",
+                    "Titles": {
+                        "eng": "Demon Slayer: Kimetsu no Yaiba - Infinity Castle",
+                        "jpn": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来"
+                    },
+                    "Aliases": [
+                        "劇場版「鬼滅の刃」無限城編",
+                        "Gekijō-ban “Kimetsu no Yaiba” Mugen Jō-hen"
+                    ]
+                }
+            }
+        },
+        "1": {
+            "ID": "775298",
+            "URL": "https://thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/seasons/official/1",
+            "Titles": {
+                "eng": "Tanjiro Kamado, Unwavering Resolve Arc",
+                "jpn": "竈門炭治郎 立志編",
+                "fra": "Arc - La volonté ardente de Tanjiro Kamado",
+                "zho": "立志篇",
+                "pol": "Walka niezłomnego Tanjiro Kamado z przeciwnościami losu",
+                "spa": "Arco de Resolución Inquebrantable",
+                "vie": "Kamado Tanjiro, Lập Chí",
+                "pt": "Tanjiro Kamado, Arco da Determinação Inabalável",
+                "por": "Tanjiro Kamado, Arco da Determinação Inabalável",
+                "ita": "L'incrollabile determinazione di Tanjiro Kamado",
+                "kor": "카마도 탄지로 입지편",
+                "cat": "Arc de resolució inquebrantable",
+                "rus": "Непоколебимая решимость",
+                "ind": "Tanjiro Kamado: Saga Tekad Baja",
+                "deu": "Season 01"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "7122169",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7122169",
+                    "Titles": {
+                        "eng": "Cruelty",
+                        "jpn": "残酷"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7081351",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7081351",
+                    "Titles": {
+                        "eng": "Trainer Sakonji Urokodaki",
+                        "jpn": "育手・鱗滝左近次"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7081355",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7081355",
+                    "Titles": {
+                        "eng": "Sabito and Makomo",
+                        "jpn": "錆兎と真菰"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7081358",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7081358",
+                    "Titles": {
+                        "eng": "Final Selection",
+                        "jpn": "最終選別"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7081360",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7081360",
+                    "Titles": {
+                        "eng": "My Own Steel",
+                        "jpn": "己の鋼"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "7081361",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7081361",
+                    "Titles": {
+                        "eng": "Swordsman Accompanying a Demon",
+                        "jpn": "鬼を連れた剣士"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "7081364",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7081364",
+                    "Titles": {
+                        "eng": "Muzan Kibutsuji",
+                        "jpn": "鬼舞辻無慘"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "7081365",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7081365",
+                    "Titles": {
+                        "eng": "The Smell of Enchanting Blood",
+                        "jpn": "幻惑の血の香り"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "7081367",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7081367",
+                    "Titles": {
+                        "eng": "Temari Demon and Arrow Demon",
+                        "jpn": "手毬鬼と矢印鬼"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "7081370",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7081370",
+                    "Titles": {
+                        "eng": "Together Forever",
+                        "jpn": "ずっと一緒にいる"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "7081372",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7081372",
+                    "Titles": {
+                        "eng": "Tsuzumi Mansion",
+                        "jpn": "鼓の屋敷"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "7081374",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7081374",
+                    "Titles": {
+                        "eng": "The Boar Bares Its Fangs, Zenitsu Sleeps",
+                        "jpn": "猪は牙を剥き　善逸は眠る"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "7222634",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7222634",
+                    "Titles": {
+                        "eng": "Something More Important Than Life",
+                        "jpn": "命より大事なもの"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "7222635",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7222635",
+                    "Titles": {
+                        "eng": "The House With the Wisteria Family Crest",
+                        "jpn": "藤の花の家紋の家"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "7222637",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7222637",
+                    "Titles": {
+                        "eng": "Mount Natagumo",
+                        "jpn": "那田蜘蛛山"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "7222638",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7222638",
+                    "Titles": {
+                        "eng": "Letting Someone Else Go First",
+                        "jpn": "自分ではない誰かを前へ"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "7222640",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7222640",
+                    "Titles": {
+                        "eng": "You Must Master a Single Thing",
+                        "jpn": "ひとつのことを極め抜け"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "7222643",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7222643",
+                    "Titles": {
+                        "eng": "A Forged Bond",
+                        "jpn": "偽物の絆"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "7222645",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7222645",
+                    "Titles": {
+                        "eng": "Hinokami",
+                        "jpn": "ヒノカミ"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "7222646",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7222646",
+                    "Titles": {
+                        "eng": "Pretend Family",
+                        "jpn": "寄せ集めの家族"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "7222649",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7222649",
+                    "Titles": {
+                        "eng": "Against Corps Rules",
+                        "jpn": "隊律違反"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "7222652",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7222652",
+                    "Titles": {
+                        "eng": "Master of the Mansion",
+                        "jpn": "お館様"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "7222655",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7222655",
+                    "Titles": {
+                        "eng": "Hashira Meeting",
+                        "jpn": "柱合会議"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "7222656",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7222656",
+                    "Titles": {
+                        "eng": "Rehabilitation Training",
+                        "jpn": "機能回復訓練"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "7222659",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7222659",
+                    "Titles": {
+                        "eng": "Tsuguko, Kanao Tsuyuri",
+                        "jpn": "継子・栗花落カナヲ"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "7222660",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/7222660",
+                    "Titles": {
+                        "eng": "New Mission",
+                        "jpn": "新たなる任務"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "1958690",
+            "URL": "https://thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/seasons/official/2",
+            "Titles": {
+                "eng": "Mugen Train Arc",
+                "jpn": "無限列車編",
+                "kor": "무한열차편",
+                "pt": "Trem Infinito",
+                "por": "Arco do Trem Infinito",
+                "spa": "Arco del Tren Infinito",
+                "fra": "Le train de l'infini",
+                "ita": "Il treno Mugen",
+                "ara": "ارك قطار موغن",
+                "zho": "第二季",
+                "deu": "Mugen Train Arc",
+                "vie": "Chuyến Tàu Vô Tận",
+                "cat": "Arc del tren infinit",
+                "rus": "Бесконечный поезд"
+            },
+            "# Episodes": 7,
+            "Episodes": {
+                "1": {
+                    "ID": "8747422",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8747422",
+                    "Titles": {
+                        "eng": "Flame Hashira Kyojuro Rengoku",
+                        "jpn": "炎柱・煉獄杏寿郎"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8747423",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8747423",
+                    "Titles": {
+                        "eng": "Deep Sleep",
+                        "jpn": "深い眠り"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8747424",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8747424",
+                    "Titles": {
+                        "eng": "Should Have Been",
+                        "jpn": "本当なら"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "8747425",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8747425",
+                    "Titles": {
+                        "eng": "Insult",
+                        "jpn": "侮辱"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "8747426",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8747426",
+                    "Titles": {
+                        "eng": "Move Forward!",
+                        "jpn": "前へ！"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "8747427",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8747427",
+                    "Titles": {
+                        "eng": "Akaza",
+                        "jpn": "猗窩座"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "8747428",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8747428",
+                    "Titles": {
+                        "eng": "Set Your Heart Ablaze",
+                        "jpn": "心を燃やせ"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "1964288",
+            "URL": "https://thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/seasons/official/3",
+            "Titles": {
+                "eng": "Entertainment District Arc",
+                "jpn": "遊郭編",
+                "kor": "환락의 거리편",
+                "fra": "Le quartier des plaisirs",
+                "spa": "Arco del Distrito Rojo",
+                "ita": "Il distretto dei piaceri",
+                "ara": "ارك منطقة الترفيه",
+                "zho": "游郭篇",
+                "deu": "Entertainment District Arc",
+                "vie": "Kỹ Viện Trấn",
+                "por": "Arco do bairro do entretenimento",
+                "rus": "Квартал Красных Фонарей",
+                "pt": "Arco do Distrito do Entretenimento"
+            },
+            "# Episodes": 11,
+            "Episodes": {
+                "1": {
+                    "ID": "8729902",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8729902",
+                    "Titles": {
+                        "eng": "Sound Hashira Tengen Uzui",
+                        "jpn": "音柱・宇髄天元"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8747432",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8747432",
+                    "Titles": {
+                        "eng": "Infiltrating the Entertainment District",
+                        "jpn": "遊郭潜入"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8747433",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8747433",
+                    "Titles": {
+                        "eng": "What Are You?",
+                        "jpn": "何者？"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "8747434",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8747434",
+                    "Titles": {
+                        "eng": "Tonight",
+                        "jpn": "今夜"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "8747435",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8747435",
+                    "Titles": {
+                        "eng": "Things Are Gonna Get Real Flashy!!",
+                        "jpn": "ド派手に行くぜ‼"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "8747436",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8747436",
+                    "Titles": {
+                        "eng": "Layered Memories",
+                        "jpn": "重なる記憶"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "8747437",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8747437",
+                    "Titles": {
+                        "eng": "Transformation",
+                        "jpn": "変貌"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "8747438",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8747438",
+                    "Titles": {
+                        "eng": "Gathering",
+                        "jpn": "集結"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "8747439",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8747439",
+                    "Titles": {
+                        "eng": "Defeating an Upper Rank Demon",
+                        "jpn": "上弦の鬼を倒したら"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "8747440",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8747440",
+                    "Titles": {
+                        "eng": "Never Give Up",
+                        "jpn": "絶対諦めない"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "8747441",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/8747441",
+                    "Titles": {
+                        "eng": "No Matter How Many Lives",
+                        "jpn": "何度生まれ変わっても"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "4": {
+            "ID": "1987357",
+            "URL": "https://thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/seasons/official/4",
+            "Titles": {
+                "eng": "Swordsmith Village Arc",
+                "jpn": "刀鍛冶の里編",
+                "fra": "Le village des forgerons",
+                "spa": "Arco de la Aldea de los Herreros",
+                "deu": "Swordsmith Village Arc",
+                "kor": "도공 마을편",
+                "ita": "Il villaggio dei forgiatori di katana",
+                "zho": "刀匠村篇",
+                "vie": "Làng Thợ Rèn",
+                "rus": "Деревня кузнецов",
+                "ara": "أرك قرية حدادي السيوف",
+                "ukr": "Арка селища ковалів",
+                "pt": "Arco do Vilarejo dos Ferreiros",
+                "por": "Saga da aldeia dos ferreiros"
+            },
+            "# Episodes": 11,
+            "Episodes": {
+                "1": {
+                    "ID": "9499909",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/9499909",
+                    "Titles": {
+                        "eng": "Someone's Dream",
+                        "jpn": "誰かの夢"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9704254",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/9704254",
+                    "Titles": {
+                        "eng": "Yoriichi Type Zero",
+                        "jpn": "縁壱零式"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9704255",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/9704255",
+                    "Titles": {
+                        "eng": "A Sword From Over 300 Years Ago",
+                        "jpn": "300年以上前の刀"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9704256",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/9704256",
+                    "Titles": {
+                        "eng": "Thank You, Tokito",
+                        "jpn": "時透君ありがとう"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "9704257",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/9704257",
+                    "Titles": {
+                        "eng": "Bright Red Sword",
+                        "jpn": "赫刀"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "9704258",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/9704258",
+                    "Titles": {
+                        "eng": "Aren't You Going to Become a Hashira?",
+                        "jpn": "柱になるんじゃないのか!"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "9704259",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/9704259",
+                    "Titles": {
+                        "eng": "Awful Villain",
+                        "jpn": "極悪人"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "9704260",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/9704260",
+                    "Titles": {
+                        "eng": "The Mu in Muichiro",
+                        "jpn": "無一郎の無"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "9704261",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/9704261",
+                    "Titles": {
+                        "eng": "Mist Hashira Muichiro Tokito",
+                        "jpn": "霞柱　時透無一郎"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "9704262",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/9704262",
+                    "Titles": {
+                        "eng": "Love Hashira Mitsuri Kanroji",
+                        "jpn": "恋柱・甘露寺蜜璃"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "9704263",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/9704263",
+                    "Titles": {
+                        "eng": "A Connected Bond: Daybreak and First Light",
+                        "jpn": "繋いだ絆　彼は誰時　朝ぼらけ"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "5": {
+            "ID": "2119434",
+            "URL": "https://thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/seasons/official/5",
+            "Titles": {
+                "eng": "Hashira Training Arc",
+                "jpn": "柱稽古編",
+                "pt": "Arco do Treinamento Hashira",
+                "fra": "Entraînement des Piliers",
+                "spa": "Arco del Entrenamiento Pilar",
+                "rus": "Тренировка Хашира",
+                "ita": "L'allenamento dei pilastri",
+                "kor": "합동 강화 훈련편",
+                "deu": "Hashira Training Arc",
+                "zho": "柱训练篇"
+            },
+            "# Episodes": 8,
+            "Episodes": {
+                "1": {
+                    "ID": "10402475",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/10402475",
+                    "Titles": {
+                        "eng": "To Defeat Muzan Kibutsuji",
+                        "jpn": "鬼舞辻無惨を倒すために"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10445764",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/10445764",
+                    "Titles": {
+                        "eng": "Water Hashira Giyu Tomioka's Pain",
+                        "jpn": "水柱・冨岡義勇の痛み"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10445765",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/10445765",
+                    "Titles": {
+                        "eng": "Fully Recovered Tanjiro Joins the Hashira Training!!",
+                        "jpn": "炭治郎全快‼ 柱稽古大参加"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "10445766",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/10445766",
+                    "Titles": {
+                        "eng": "To Bring a Smile to One's Face",
+                        "jpn": "笑顔になれる"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "10445767",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/10445767",
+                    "Titles": {
+                        "eng": "I Even Ate Demons...",
+                        "jpn": "鬼を喰ってまで…"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "10445768",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/10445768",
+                    "Titles": {
+                        "eng": "The Strongest of the Demon Slayer Corps",
+                        "jpn": "鬼殺隊最強"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "10445769",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/10445769",
+                    "Titles": {
+                        "eng": "Stone Hashira Gyomei Himejima",
+                        "jpn": "岩柱・悲鳴嶼行冥"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "10445770",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/demon-slayer-kimetsu-no-yaiba/episodes/10445770",
+                    "Titles": {
+                        "eng": "The Hashira Unite",
+                        "jpn": "柱・結集"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

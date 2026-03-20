@@ -1,0 +1,256 @@
+{
+    "URL": "https://thetvdb.com/series/91-days",
+    "Genres": [
+        "Action",
+        "Anime",
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt5839706/",
+        "http://91days.family/",
+        "https://www.themoviedb.org/tv/67043"
+    ],
+    "Titles": {
+        "eng": "91 Days",
+        "jpn": "91Days"
+    },
+    "Aliases": [],
+    "Modified": "2026-01-11",
+    "Seasons": {
+        "0": {
+            "ID": "661476",
+            "URL": "https://thetvdb.com/series/91-days/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 9,
+            "Episodes": {
+                "1": {
+                    "ID": "5704266",
+                    "TYPE": "Season Recaps",
+                    "URL": "https://www.thetvdb.com/series/91-days/episodes/5704266",
+                    "Titles": {
+                        "eng": "Brief Candle",
+                        "jpn": "Day7.5\t短いローソク"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6248740",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/91-days/episodes/6248740",
+                    "Titles": {
+                        "eng": "Shoal of Time / All Our Yesterdays / Tomorrow, and Tomorrow",
+                        "jpn": "Day13 時の浅瀬／すべての昨日／明日、また明日"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7805440",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/91-days/episodes/7805440",
+                    "Titles": {
+                        "eng": "91 Daze: [Episode 01] Thug",
+                        "jpn": "91Daze〜刺客編〜"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7805444",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/91-days/episodes/7805444",
+                    "Titles": {
+                        "eng": "91 Daze: [Episode 02] Taste",
+                        "jpn": "91Daze〜味見編〜"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7805445",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/91-days/episodes/7805445",
+                    "Titles": {
+                        "eng": "91 Daze: [Episode 03] Misunderstanding",
+                        "jpn": "91Daze〜勘違い編〜"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "7805446",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/91-days/episodes/7805446",
+                    "Titles": {
+                        "eng": "91 Daze: [Episode 04] Anger.",
+                        "jpn": "91Daze〜怒り編〜"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "7805447",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/91-days/episodes/7805447",
+                    "Titles": {
+                        "eng": "91 Daze: [Episode 05] Rain",
+                        "jpn": "91Daze〜雨編〜"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "7805448",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/91-days/episodes/7805448",
+                    "Titles": {
+                        "eng": "91 Daze: [Episode 06] Eating",
+                        "jpn": "91Daze〜寝言編〜"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "7805449",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/91-days/episodes/7805449",
+                    "Titles": {
+                        "eng": "91 Daze: [Episode 07] Sleeptalk",
+                        "jpn": "91Daze〜食事編〜"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "667636",
+            "URL": "https://thetvdb.com/series/91-days/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "ara": "الموسم 1"
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "5620143",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/91-days/episodes/5620143",
+                    "Titles": {
+                        "eng": "Night of the Murder",
+                        "jpn": "殺人の夜"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5667242",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/91-days/episodes/5667242",
+                    "Titles": {
+                        "eng": "Phantom of Falsehood",
+                        "jpn": "いつわりの幻影"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5667243",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/91-days/episodes/5667243",
+                    "Titles": {
+                        "eng": "Where the Footfalls Lead",
+                        "jpn": "足音の行先"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5667244",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/91-days/episodes/5667244",
+                    "Titles": {
+                        "eng": "Losing to Win, and What Comes After",
+                        "jpn": "敗けて勝って、その後で"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5667245",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/91-days/episodes/5667245",
+                    "Titles": {
+                        "eng": "Blood Will Have Blood",
+                        "jpn": "血は血を呼ぶ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5667246",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/91-days/episodes/5667246",
+                    "Titles": {
+                        "eng": "To Slaughter a Pig",
+                        "jpn": "豚を殺しに"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5667247",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/91-days/episodes/5667247",
+                    "Titles": {
+                        "eng": "A Poor Player",
+                        "jpn": "あわれな役者"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5704267",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/91-days/episodes/5704267",
+                    "Titles": {
+                        "eng": "Behind the Curtain",
+                        "jpn": "帳の陰"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5704268",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/91-days/episodes/5704268",
+                    "Titles": {
+                        "eng": "Black and Deep Desires",
+                        "jpn": "黒ずんだ野望"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5704269",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/91-days/episodes/5704269",
+                    "Titles": {
+                        "eng": "Proof of Good Faith",
+                        "jpn": "誠実の証"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5704270",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/91-days/episodes/5704270",
+                    "Titles": {
+                        "eng": "All for Nothing",
+                        "jpn": "すべてがむだごと"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5704271",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/91-days/episodes/5704271",
+                    "Titles": {
+                        "eng": "Slipping Through the Dirty Sky",
+                        "jpn": "汚れた空をかいくぐり"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

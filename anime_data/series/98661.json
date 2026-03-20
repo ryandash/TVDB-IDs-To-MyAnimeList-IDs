@@ -1,0 +1,988 @@
+{
+    "URL": "https://thetvdb.com/series/stitch",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1409066/",
+        "https://tvlistings.zap2it.com/overview.html?programSeriesId=EP01213059",
+        "https://www.themoviedb.org/tv/20757"
+    ],
+    "Titles": {
+        "eng": "Stitch!",
+        "jpn": "スティッチ!"
+    },
+    "Aliases": [
+        "STITCH! (OVERALL SERIES)"
+    ],
+    "Modified": "2025-11-05",
+    "Seasons": {
+        "0": {
+            "ID": "539635",
+            "URL": "https://thetvdb.com/series/stitch/seasons/official/0",
+            "Titles": {
+                "eng": "New Specials",
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "5366322",
+                    "TYPE": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/5366322",
+                    "Titles": {
+                        "eng": "Stitch and the Planet of Sand (1)",
+                        "jpn": "スティッチと砂の惑星 (1)"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5897535",
+                    "TYPE": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/5897535",
+                    "Titles": {
+                        "eng": "Stitch and the Planet of Sand (2)",
+                        "jpn": "スティッチと砂の惑星 (2)"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10524333",
+                    "TYPE": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/10524333",
+                    "Titles": {
+                        "eng": "Stitch! Perfect Memory (1)",
+                        "jpn": "スティッチ！パーフェクト・メモリー (1)"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "10524334",
+                    "TYPE": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/10524334",
+                    "Titles": {
+                        "eng": "Stitch! Perfect Memory (2)",
+                        "jpn": "スティッチ！パーフェクト・メモリー (2)"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "76991",
+            "URL": "https://thetvdb.com/series/stitch/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "743401",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743401",
+                    "Titles": {
+                        "eng": "Ichariba Chodei",
+                        "jpn": "イチャリバチョーデー"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "743411",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743411",
+                    "Titles": {
+                        "eng": "The Good Deeds Counter",
+                        "jpn": "イイコトカウンター"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "743421",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743421",
+                    "Titles": {
+                        "eng": "Kijimunaa",
+                        "jpn": "森の最強妖怪 キジムナー"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "743431",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743431",
+                    "Titles": {
+                        "eng": "Bojo / Felix Redux",
+                        "jpn": "ペイント妖怪むうん"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "743441",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743441",
+                    "Titles": {
+                        "eng": "An Electrifying Experience",
+                        "jpn": "謎の電気ビリビリ·エイリアン"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "743451",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743451",
+                    "Titles": {
+                        "eng": "Angel's Flight",
+                        "jpn": "すきすき！エンジェル"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "743461",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743461",
+                    "Titles": {
+                        "eng": "Babeechik",
+                        "jpn": "スティッチ、ママになる"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "743471",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743471",
+                    "Titles": {
+                        "eng": "Stitch and the Stitches",
+                        "jpn": "スティッチがいっぱい！"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "743481",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743481",
+                    "Titles": {
+                        "eng": "Spring Cleaning",
+                        "jpn": "お掃除エイリアン フィリックス"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "743491",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743491",
+                    "Titles": {
+                        "eng": "Warracchi",
+                        "jpn": "ワラッチがやってきた！"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "743501",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743501",
+                    "Titles": {
+                        "eng": "Hull & Husk",
+                        "jpn": "パイナップル工場は大パニック"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "743511",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743511",
+                    "Titles": {
+                        "eng": "Foxy Beige",
+                        "jpn": "キツネ少女 ドローレス"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "743521",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743521",
+                    "Titles": {
+                        "eng": "Stitch and Santa",
+                        "jpn": "スティッチとサンタさん"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "743531",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743531",
+                    "Titles": {
+                        "eng": "Reuben's Rice Balls",
+                        "jpn": "おにぎりルーベン"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "743541",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743541",
+                    "Titles": {
+                        "eng": "Damacchi",
+                        "jpn": "火の玉ぼうや ダマッチ"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "743551",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743551",
+                    "Titles": {
+                        "eng": "Himamushi",
+                        "jpn": "スティッチ、グータラになる"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "743561",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743561",
+                    "Titles": {
+                        "eng": "Special Guest Star Stitch",
+                        "jpn": "スティッチ、アイドルデビュー?!"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "743571",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743571",
+                    "Titles": {
+                        "eng": "Stitch Sings!",
+                        "jpn": "スティッチのうたじまん"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "743581",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743581",
+                    "Titles": {
+                        "eng": "Stitch's Runaway Trolley",
+                        "jpn": "スティッチの暴走列車"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "743591",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743591",
+                    "Titles": {
+                        "eng": "Topsy-Turvy",
+                        "jpn": "教えてジャンバ先生"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "743601",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743601",
+                    "Titles": {
+                        "eng": "The Surprise Party",
+                        "jpn": "スティッチのサプライズパーティー"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "743611",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743611",
+                    "Titles": {
+                        "eng": "The Twin Caverns",
+                        "jpn": "キジムナー探検隊"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "743621",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743621",
+                    "Titles": {
+                        "eng": "Pilolo",
+                        "jpn": "眠れる森のエンジェル"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "743631",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743631",
+                    "Titles": {
+                        "eng": "Stitch vs. Hämsterviel Part 1",
+                        "jpn": "対決！スティッチ vs.ハムスターヴィール パート1"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "743641",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743641",
+                    "Titles": {
+                        "eng": "Stitch vs. Hämsterviel Part 2",
+                        "jpn": "対決！スティッチ vs.ハムスターヴィール パート2"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "743651",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/743651",
+                    "Titles": {
+                        "eng": "Stitch vs. Penny",
+                        "jpn": "ピーコからの挑戦状"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "496379",
+            "URL": "https://thetvdb.com/series/stitch/seasons/official/2",
+            "Titles": {
+                "eng": "The Mischievous Alien's Great Adventure",
+                "jpn": null
+            },
+            "# Episodes": 32,
+            "Episodes": {
+                "1": {
+                    "ID": "4359266",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359266",
+                    "Titles": {
+                        "eng": "BooGoo Part 1",
+                        "jpn": "宇宙一の迷惑キャラ、登場!"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4359267",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359267",
+                    "Titles": {
+                        "eng": "BooGoo Part 2",
+                        "jpn": "宇宙一の迷惑キャラ、登場!"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4359268",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359268",
+                    "Titles": {
+                        "eng": "A Stinky Episode",
+                        "jpn": "かわいい…けどクサイ! ステンチー"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4359269",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359269",
+                    "Titles": {
+                        "eng": "Dracula, Jr.",
+                        "jpn": "ハロウィーンはスティッチVS.バンパイア"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4359271",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359271",
+                    "Titles": {
+                        "eng": "Sasha",
+                        "jpn": "オシャレ転校生、サエちゃん"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4359272",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359272",
+                    "Titles": {
+                        "eng": "Stitch vs. Captain Khan",
+                        "jpn": "幽霊船を引き上げろ！！"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4359273",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359273",
+                    "Titles": {
+                        "eng": "Princess Penny",
+                        "jpn": "エイリアン・パワーでお姫さま！"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4359274",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359274",
+                    "Titles": {
+                        "eng": "Link-age",
+                        "jpn": "ライバルがくっついた！"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4359276",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359276",
+                    "Titles": {
+                        "eng": "Pteranodon!",
+                        "jpn": "ふくらみ過ぎた小さなウソ"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4359277",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359277",
+                    "Titles": {
+                        "eng": "We Wishy You a Washy Christmas",
+                        "jpn": "スティッチのクリスマスプレゼント"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4359279",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359279",
+                    "Titles": {
+                        "eng": "Switcheroo",
+                        "jpn": "草食系スティッチに変身"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4359280",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359280",
+                    "Titles": {
+                        "eng": "Dads Day",
+                        "jpn": "授業参観、パパも嵐もやってくる！"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4359281",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359281",
+                    "Titles": {
+                        "eng": "A Recurring Nightmare",
+                        "jpn": "ユウナの夢に潜入せよ"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4359283",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359283",
+                    "Titles": {
+                        "eng": "The Return of Amnesio",
+                        "jpn": "記憶をうばわれたスティッチ"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4359285",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359285",
+                    "Titles": {
+                        "eng": "Hunkahunka Burnin' Angel",
+                        "jpn": "エンジェル大好き！ハッピー バレンタイン"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4359287",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359287",
+                    "Titles": {
+                        "eng": "The Return of 627",
+                        "jpn": "スティッチ危うし！恋の最強ライバル"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4359289",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359289",
+                    "Titles": {
+                        "eng": "The Blue Panther",
+                        "jpn": "名探偵スティッチ、消えた名画を探せ！"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "9755350",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/9755350",
+                    "Titles": {
+                        "eng": "Pokopon",
+                        "jpn": "ウソ！？パパが突然イケメンに！"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4359290",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359290",
+                    "Titles": {
+                        "eng": "A Little Hamster Love",
+                        "jpn": "悪役だって愛されたい！"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "9755351",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/9755351",
+                    "Titles": {
+                        "eng": "Pleakley Loves Hollywood",
+                        "jpn": "さよなら、プリークリー"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4359302",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359302",
+                    "Titles": {
+                        "eng": "Stitch Power",
+                        "jpn": "スティッチ、宇宙一の力を手に入れる！？"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4359303",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359303",
+                    "Titles": {
+                        "eng": "Tigerlily",
+                        "jpn": "地球最強のズルい美女、登場！"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4359291",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359291",
+                    "Titles": {
+                        "eng": "Nosy Meets Tigerlily",
+                        "jpn": "逆襲！ズル子の秘密をバラせ！"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "4359292",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359292",
+                    "Titles": {
+                        "eng": "Hämsterviel's Epic Secret",
+                        "jpn": "探せ！世界の終わりを招く“アレ"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "4359293",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359293",
+                    "Titles": {
+                        "eng": "Shrink",
+                        "jpn": "小さな、小さなスティッチの大冒険"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "4359294",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359294",
+                    "Titles": {
+                        "eng": "Stitchman Meets Bonnie and Clyde",
+                        "jpn": "裏切られても、トモダチ"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "4359297",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359297",
+                    "Titles": {
+                        "eng": "Wormhole",
+                        "jpn": "スティッチ vs. もうひとりのスティッチ"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "4359298",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359298",
+                    "Titles": {
+                        "eng": "Meega Going to Disneyland!",
+                        "jpn": "スティッチ、東京ディズニーランドに行く！"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "4359299",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359299",
+                    "Titles": {
+                        "eng": "Raijin",
+                        "jpn": "スティッチ、電池になる！？"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "4359300",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359300",
+                    "Titles": {
+                        "eng": "The Return of Ploot",
+                        "jpn": "イザヨイ島を救え！／さよなら、スティッチ"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "4359301",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359301",
+                    "Titles": {
+                        "eng": "Experiment Zero",
+                        "jpn": "さよなら、スティッチ"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "4359295",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4359295",
+                    "Titles": {
+                        "eng": "Son of Sprout",
+                        "jpn": "宇宙一のお兄ちゃん"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "524909",
+            "URL": "https://thetvdb.com/series/stitch/seasons/official/3",
+            "Titles": {
+                "eng": "Best Friends Forever",
+                "jpn": null
+            },
+            "# Episodes": 30,
+            "Episodes": {
+                "1": {
+                    "ID": "4614323",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614323",
+                    "Titles": {
+                        "eng": "New Town",
+                        "jpn": "スティッチ、ニュータウンへ行く！"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4614324",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614324",
+                    "Titles": {
+                        "eng": "Yuna vs. Jessica",
+                        "jpn": "友達つくろう大作戦！"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4614325",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614325",
+                    "Titles": {
+                        "eng": "Jessica's Birthday",
+                        "jpn": "バースデー・パニック！"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4614326",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614326",
+                    "Titles": {
+                        "eng": "Dorkifier",
+                        "jpn": "イケメンの秘密"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4614327",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614327",
+                    "Titles": {
+                        "eng": "Spooky Toons",
+                        "jpn": "こわ～いサマーキャンプ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4614328",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614328",
+                    "Titles": {
+                        "eng": "P.J. 2.0",
+                        "jpn": "限定スイーツを手に入れろ！"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4614329",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614329",
+                    "Titles": {
+                        "eng": "Spike 2.0",
+                        "jpn": "燃えろ！クイズ大会"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4614330",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614330",
+                    "Titles": {
+                        "eng": "Sprout 2.0",
+                        "jpn": "スティッチは裏切り者？"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4614331",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614331",
+                    "Titles": {
+                        "eng": "Stitch's Birthday Part 1",
+                        "jpn": "スティッチが生まれた日（前編）"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4614332",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614332",
+                    "Titles": {
+                        "eng": "Stitch's Birthday Part 2",
+                        "jpn": "スティッチが生まれた日（後編）"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4614333",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614333",
+                    "Titles": {
+                        "eng": "Stitch Goes to Wishlanda",
+                        "jpn": "スティッチ、ピーター・パンになる！"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4614334",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614334",
+                    "Titles": {
+                        "eng": "Flute",
+                        "jpn": "スティッチ兄さん"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4614335",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614335",
+                    "Titles": {
+                        "eng": "Witch",
+                        "jpn": "魔女屋敷でハロウィーン・パーティー"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4614336",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614336",
+                    "Titles": {
+                        "eng": "Hämjock Vielvonster",
+                        "jpn": "炎のＨＶアタック！"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4614337",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614337",
+                    "Titles": {
+                        "eng": "Shogun",
+                        "jpn": "お殿様がやってきた！"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4614338",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614338",
+                    "Titles": {
+                        "eng": "Elastico 2.0",
+                        "jpn": "ユウナが犬になったワン！"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4614339",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614339",
+                    "Titles": {
+                        "eng": "The Petite Queen",
+                        "jpn": "あの子が人気者！？"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4614340",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614340",
+                    "Titles": {
+                        "eng": "Reuben 2.0",
+                        "jpn": "エンジェルを取り戻せ！"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4614341",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614341",
+                    "Titles": {
+                        "eng": "A Very Stinky Christmas",
+                        "jpn": "世界のクリスマスを守れ！"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4614342",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614342",
+                    "Titles": {
+                        "eng": "Swapper 2.0",
+                        "jpn": "スティッチがイケメンに！？"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4614343",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614343",
+                    "Titles": {
+                        "eng": "Experiment-a-palooza",
+                        "jpn": "メガスティッチとの約束"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4614344",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614344",
+                    "Titles": {
+                        "eng": "Stitch Ahoy!",
+                        "jpn": "豪華客船を守れ！"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4614345",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614345",
+                    "Titles": {
+                        "eng": "Lilo",
+                        "jpn": "リロと再会する日"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "4614346",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614346",
+                    "Titles": {
+                        "eng": "Toddler-fier",
+                        "jpn": "戦え！ちびっ子軍団！"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "4614347",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614347",
+                    "Titles": {
+                        "eng": "Chocolate Stitch",
+                        "jpn": "スティッチ、チョコになる"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "4614350",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614350",
+                    "Titles": {
+                        "eng": "Stitch's Dreams",
+                        "jpn": "行くぞ！スティッチの夢の中へ"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "4614353",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614353",
+                    "Titles": {
+                        "eng": "King Meega",
+                        "jpn": "王様になりたい！"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "4614356",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614356",
+                    "Titles": {
+                        "eng": "Boss",
+                        "jpn": "スティッチ親分、登場！"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "4614359",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614359",
+                    "Titles": {
+                        "eng": "Dark-End",
+                        "jpn": "史上最大のピンチ！立ちあがれスティッチ"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "4614361",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/stitch/episodes/4614361",
+                    "Titles": {
+                        "eng": "Ace's Back!",
+                        "jpn": "ヒーローはつらいよ"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

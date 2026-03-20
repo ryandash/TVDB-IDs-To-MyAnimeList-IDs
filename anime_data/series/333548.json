@@ -1,0 +1,64 @@
+{
+    "URL": "https://thetvdb.com/series/hellsing-the-dawn",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Fantasy",
+        "Horror"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2878716/",
+        "https://www.themoviedb.org/tv/115176"
+    ],
+    "Titles": {
+        "eng": "Hellsing: The Dawn",
+        "jpn": "HELLSING 外伝: THE DAWN"
+    },
+    "Aliases": [],
+    "Modified": "2025-06-05",
+    "Seasons": {
+        "1": {
+            "ID": "725554",
+            "URL": "https://thetvdb.com/series/hellsing-the-dawn/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "6264472",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hellsing-the-dawn/episodes/6264472",
+                    "Titles": {
+                        "eng": "A Supplementary of Hellsing",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6264473",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hellsing-the-dawn/episodes/6264473",
+                    "Titles": {
+                        "eng": "A Supplementary of Hellsing II",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6264474",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hellsing-the-dawn/episodes/6264474",
+                    "Titles": {
+                        "eng": "A Supplementary of Hellsing III",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

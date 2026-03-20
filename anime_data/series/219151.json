@@ -1,0 +1,293 @@
+{
+    "URL": "https://thetvdb.com/series/starry-sky",
+    "Genres": [
+        "Animation",
+        "Drama",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt13277752/",
+        "https://www.themoviedb.org/tv/38303"
+    ],
+    "Titles": {
+        "eng": "Starry Sky",
+        "jpn": "Starry☆Sky"
+    },
+    "Aliases": [
+        "Suta Suka"
+    ],
+    "Modified": "2022-04-17",
+    "Seasons": {
+        "1": {
+            "ID": "390271",
+            "URL": "https://thetvdb.com/series/starry-sky/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "3432341",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3432341",
+                    "Titles": {
+                        "eng": "Capricorn I",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "3432661",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3432661",
+                    "Titles": {
+                        "eng": "Capricorn II",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "3432831",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3432831",
+                    "Titles": {
+                        "eng": "Aquarius I",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "3470441",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3470441",
+                    "Titles": {
+                        "eng": "Aquarius II",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "3510931",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3510931",
+                    "Titles": {
+                        "eng": "Pisces I",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "3566671",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3566671",
+                    "Titles": {
+                        "eng": "Pisces II",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "3623151",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3623151",
+                    "Titles": {
+                        "eng": "Aries I",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "3623161",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3623161",
+                    "Titles": {
+                        "eng": "Aries II",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "3720441",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3720441",
+                    "Titles": {
+                        "eng": "Taurus I",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "3720451",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3720451",
+                    "Titles": {
+                        "eng": "Taurus II",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "3720471",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3720471",
+                    "Titles": {
+                        "eng": "Gemini I",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "3720481",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3720481",
+                    "Titles": {
+                        "eng": "Gemini II",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "3720491",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3720491",
+                    "Titles": {
+                        "eng": "Cancer I",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "3720501",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3720501",
+                    "Titles": {
+                        "eng": "Cancer II",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "3720511",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3720511",
+                    "Titles": {
+                        "eng": "Leo I",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "3720521",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3720521",
+                    "Titles": {
+                        "eng": "Leo II",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "3720531",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3720531",
+                    "Titles": {
+                        "eng": "Virgo I",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "3720541",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3720541",
+                    "Titles": {
+                        "eng": "Virgo II",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "3720551",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3720551",
+                    "Titles": {
+                        "eng": "Libra I",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "3720561",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3720561",
+                    "Titles": {
+                        "eng": "Libra II",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "3720571",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3720571",
+                    "Titles": {
+                        "eng": "Scorpio I",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "3720581",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3720581",
+                    "Titles": {
+                        "eng": "Scorpio II",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "3720591",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3720591",
+                    "Titles": {
+                        "eng": "Sagittarius I",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "3720601",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3720601",
+                    "Titles": {
+                        "eng": "Sagittarius II",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "3720611",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3720611",
+                    "Titles": {
+                        "eng": "Ophiuchus I",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "3720621",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starry-sky/episodes/3720621",
+                    "Titles": {
+                        "eng": "Ophiuchus II",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

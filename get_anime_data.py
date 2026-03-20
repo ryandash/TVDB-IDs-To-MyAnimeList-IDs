@@ -52,7 +52,7 @@ TEST_MODE = False
 # Global HTTP client and semaphore
 # -----------------------------
 BASE_DIR = Path("min_map_data")
-MOVIE_DIR = BASE_DIR / "movie"
+MOVIE_DIR = BASE_DIR / "movies"
 SERIES_DIR = BASE_DIR / "series"
 BASE_DIR.mkdir(parents=True, exist_ok=True)
 MOVIE_DIR.mkdir(parents=True, exist_ok=True)

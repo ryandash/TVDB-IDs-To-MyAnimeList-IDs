@@ -1,0 +1,2010 @@
+{
+    "URL": "https://thetvdb.com/series/astro-boy",
+    "Genres": [
+        "Animation",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/10826"
+    ],
+    "Titles": {
+        "eng": "Astro Boy",
+        "jpn": "鉄腕アトム"
+    },
+    "Aliases": [],
+    "Modified": "2024-10-18",
+    "Seasons": {
+        "0": {
+            "ID": "19419",
+            "URL": "https://thetvdb.com/series/astro-boy/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "4650950",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/4650950",
+                    "Titles": {
+                        "eng": "Interview with Fred Ladd",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4780850",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/4780850",
+                    "Titles": {
+                        "eng": "Goodbye",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6352662",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/6352662",
+                    "Titles": {
+                        "eng": "Behind the Scenes",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6352663",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/6352663",
+                    "Titles": {
+                        "eng": "Deleted Scenes",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "3276",
+            "URL": "https://thetvdb.com/series/astro-boy/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 193,
+            "Episodes": {
+                "1": {
+                    "ID": "68513",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68513",
+                    "Titles": {
+                        "eng": "The Birth of Astro Boy",
+                        "jpn": "アトム誕生"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "68514",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68514",
+                    "Titles": {
+                        "eng": "Colosso",
+                        "jpn": "フランケン"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "68515",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68515",
+                    "Titles": {
+                        "eng": "Expedition to Mars",
+                        "jpn": "火星探検"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "68526",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68526",
+                    "Titles": {
+                        "eng": "One Million Mammoth Snails",
+                        "jpn": "ゲルニカ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "68516",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68516",
+                    "Titles": {
+                        "eng": "The Sphinx",
+                        "jpn": "スフィンクス"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "68519",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68519",
+                    "Titles": {
+                        "eng": "Zero, the Invisible Robot",
+                        "jpn": "電光人間"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "68528",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68528",
+                    "Titles": {
+                        "eng": "Captain Atom",
+                        "jpn": "アトム大使"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "68522",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68522",
+                    "Titles": {
+                        "eng": "The Spirit Machine",
+                        "jpn": "幽霊製造機"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "68525",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68525",
+                    "Titles": {
+                        "eng": "The Deep Freeze",
+                        "jpn": "ブラックルックス"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "68523",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68523",
+                    "Titles": {
+                        "eng": "Strange Voyage",
+                        "jpn": "イワンの馬鹿"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "68530",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68530",
+                    "Titles": {
+                        "eng": "Time Machine",
+                        "jpn": "タイムマシン"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "68517",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68517",
+                    "Titles": {
+                        "eng": "Cross Island",
+                        "jpn": "十字架島"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "68529",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68529",
+                    "Titles": {
+                        "eng": "The Eyes of Christ",
+                        "jpn": "キリストの眼"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "68524",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68524",
+                    "Titles": {
+                        "eng": "The Artifical Sun",
+                        "jpn": "人工太陽"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "68518",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68518",
+                    "Titles": {
+                        "eng": "Grass Boy",
+                        "jpn": "植物人間"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "68520",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68520",
+                    "Titles": {
+                        "eng": "Silver Comet",
+                        "jpn": "白い惑星号"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "68521",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68521",
+                    "Titles": {
+                        "eng": "Hullabaloo Land",
+                        "jpn": "ロボットランド"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "68527",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68527",
+                    "Titles": {
+                        "eng": "Gangor the Monster",
+                        "jpn": "ガデム"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "68531",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68531",
+                    "Titles": {
+                        "eng": "The Cosmic Giant",
+                        "jpn": "アトム対魔神"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "68532",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68532",
+                    "Titles": {
+                        "eng": "Toxor, the Mist Man",
+                        "jpn": "気体人間"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "68533",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68533",
+                    "Titles": {
+                        "eng": "Satellite R-45",
+                        "jpn": "人工衛星R-45"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "68534",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68534",
+                    "Titles": {
+                        "eng": "Sea Serpent Isle",
+                        "jpn": "海蛇島"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "68535",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68535",
+                    "Titles": {
+                        "eng": "The Deadly Flies",
+                        "jpn": "ミュータント"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "68536",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68536",
+                    "Titles": {
+                        "eng": "Kingdom of the Sea",
+                        "jpn": "海底王国"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "68537",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68537",
+                    "Titles": {
+                        "eng": "The Deep-Underground Tank",
+                        "jpn": "地底戦車"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "68538",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68538",
+                    "Titles": {
+                        "eng": "Don Tay's Infernal Machine",
+                        "jpn": "アトラス"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "68539",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68539",
+                    "Titles": {
+                        "eng": "Pearl People",
+                        "jpn": "パール星"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "68540",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68540",
+                    "Titles": {
+                        "eng": "The Wacky Machine",
+                        "jpn": "マッドマシン"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "68541",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68541",
+                    "Titles": {
+                        "eng": "Memory Day",
+                        "jpn": "想い出の日"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "68542",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68542",
+                    "Titles": {
+                        "eng": "Secret Agent 3-Z",
+                        "jpn": "ZZZ総統"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "68543",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68543",
+                    "Titles": {
+                        "eng": "Mysterious Cosmic Rays",
+                        "jpn": "黒い宇宙線"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "68544",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68544",
+                    "Titles": {
+                        "eng": "Hot Dog Corps",
+                        "jpn": "ホットドッグ兵団"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "68545",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68545",
+                    "Titles": {
+                        "eng": "The Three Magicians",
+                        "jpn": "二人の魔術師"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "68546",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68546",
+                    "Titles": {
+                        "eng": "Beast From 20,000 Fathoms",
+                        "jpn": "ミドロが沼"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "68547",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68547",
+                    "Titles": {
+                        "eng": "Planet X",
+                        "jpn": "人間牧場"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "68548",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68548",
+                    "Titles": {
+                        "eng": "The Elixir of Life",
+                        "jpn": "プイプイ教"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "68549",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68549",
+                    "Titles": {
+                        "eng": "The Strange Birthday Present",
+                        "jpn": "ウランちゃん"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "68550",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68550",
+                    "Titles": {
+                        "eng": "The Asteroid Menace",
+                        "jpn": "狂った小惑星"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "68551",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68551",
+                    "Titles": {
+                        "eng": "The Mysterious Cat",
+                        "jpn": "赤い猫"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "68552",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68552",
+                    "Titles": {
+                        "eng": "The Abominable Snowman",
+                        "jpn": "ネオ・シーザー"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "68553",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68553",
+                    "Titles": {
+                        "eng": "Deadline to Danger",
+                        "jpn": "X爆弾"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "68554",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68554",
+                    "Titles": {
+                        "eng": "The Yellow Horse",
+                        "jpn": "黄色い馬"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "68555",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68555",
+                    "Titles": {
+                        "eng": "Ditto",
+                        "jpn": "デッドクロス殿下"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "68556",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68556",
+                    "Titles": {
+                        "eng": "Cleopatra's Heart",
+                        "jpn": "エジプト陰謀団"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "68557",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68557",
+                    "Titles": {
+                        "eng": "Return of Cleopatra",
+                        "jpn": "クレオパトラの首飾り"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "68558",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68558",
+                    "Titles": {
+                        "eng": "The Phantom Space Ship",
+                        "jpn": "ロボット宇宙艇"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "68559",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68559",
+                    "Titles": {
+                        "eng": "The Gigantic Space Crab",
+                        "jpn": "宇宙ガニ"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "68560",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68560",
+                    "Titles": {
+                        "eng": "The Great Space Horse",
+                        "jpn": "天馬族"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "68561",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68561",
+                    "Titles": {
+                        "eng": "3D Tee Vee",
+                        "jpn": "透明巨人"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "68562",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68562",
+                    "Titles": {
+                        "eng": "Westward, Ha!",
+                        "jpn": "アトム西部へ行く"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "68563",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68563",
+                    "Titles": {
+                        "eng": "Jimbo the Great",
+                        "jpn": "子象プーラ"
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "68564",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68564",
+                    "Titles": {
+                        "eng": "Snow Lion",
+                        "jpn": "雪ライオン"
+                    },
+                    "Aliases": []
+                },
+                "53": {
+                    "ID": "68565",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68565",
+                    "Titles": {
+                        "eng": "Goodbye 1963",
+                        "jpn": "さようなら1963年"
+                    },
+                    "Aliases": []
+                },
+                "54": {
+                    "ID": "68566",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68566",
+                    "Titles": {
+                        "eng": "Duel on the Alps",
+                        "jpn": "アルプスの決闘"
+                    },
+                    "Aliases": []
+                },
+                "55": {
+                    "ID": "68567",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68567",
+                    "Titles": {
+                        "eng": "Rejuvenating Gas",
+                        "jpn": "若返りガス"
+                    },
+                    "Aliases": []
+                },
+                "56": {
+                    "ID": "68568",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68568",
+                    "Titles": {
+                        "eng": "The Moon Monsters",
+                        "jpn": "地球防衛隊"
+                    },
+                    "Aliases": []
+                },
+                "57": {
+                    "ID": "68569",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68569",
+                    "Titles": {
+                        "eng": "Astro Boy Goes to School",
+                        "jpn": "ロボット学校"
+                    },
+                    "Aliases": []
+                },
+                "58": {
+                    "ID": "68570",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68570",
+                    "Titles": {
+                        "eng": "The Island of Mystery",
+                        "jpn": "13の怪神像"
+                    },
+                    "Aliases": []
+                },
+                "59": {
+                    "ID": "68571",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68571",
+                    "Titles": {
+                        "eng": "The Super Duper Robot",
+                        "jpn": "白熱人間"
+                    },
+                    "Aliases": []
+                },
+                "60": {
+                    "ID": "68572",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68572",
+                    "Titles": {
+                        "eng": "Dogma Palace",
+                        "jpn": "ダーマの宮殿"
+                    },
+                    "Aliases": []
+                },
+                "61": {
+                    "ID": "68573",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68573",
+                    "Titles": {
+                        "eng": "Space Parasites",
+                        "jpn": "宇宙の寄生虫"
+                    },
+                    "Aliases": []
+                },
+                "62": {
+                    "ID": "68574",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68574",
+                    "Titles": {
+                        "eng": "The Haunted Ship",
+                        "jpn": "幽霊船"
+                    },
+                    "Aliases": []
+                },
+                "63": {
+                    "ID": "68575",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68575",
+                    "Titles": {
+                        "eng": "The Man-Made Iceberg",
+                        "jpn": "人工氷山"
+                    },
+                    "Aliases": []
+                },
+                "64": {
+                    "ID": "68576",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68576",
+                    "Titles": {
+                        "eng": "Vampire Vale",
+                        "jpn": "こうもり伯爵"
+                    },
+                    "Aliases": []
+                },
+                "65": {
+                    "ID": "68577",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68577",
+                    "Titles": {
+                        "eng": "The Terrible Tidal Wave",
+                        "jpn": "勇敢な脱走者"
+                    },
+                    "Aliases": []
+                },
+                "66": {
+                    "ID": "68578",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68578",
+                    "Titles": {
+                        "eng": "Vikings",
+                        "jpn": "スペースバイキング"
+                    },
+                    "Aliases": []
+                },
+                "67": {
+                    "ID": "68579",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68579",
+                    "Titles": {
+                        "eng": "The Devil Doll",
+                        "jpn": "夜の勇士達"
+                    },
+                    "Aliases": []
+                },
+                "68": {
+                    "ID": "68580",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68580",
+                    "Titles": {
+                        "eng": "Dinosaur Dilemma",
+                        "jpn": "恐龍人の反乱"
+                    },
+                    "Aliases": []
+                },
+                "69": {
+                    "ID": "68581",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68581",
+                    "Titles": {
+                        "eng": "The Clock Tower Mystery",
+                        "jpn": "時計塔の秘密"
+                    },
+                    "Aliases": []
+                },
+                "70": {
+                    "ID": "68582",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68582",
+                    "Titles": {
+                        "eng": "The Flower Monster",
+                        "jpn": "ラフレシア"
+                    },
+                    "Aliases": []
+                },
+                "71": {
+                    "ID": "68583",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68583",
+                    "Titles": {
+                        "eng": "Attack From Space",
+                        "jpn": "地球最後の日"
+                    },
+                    "Aliases": []
+                },
+                "72": {
+                    "ID": "68584",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68584",
+                    "Titles": {
+                        "eng": "Shipwreck in Space",
+                        "jpn": "宇宙の漂流7日間"
+                    },
+                    "Aliases": []
+                },
+                "73": {
+                    "ID": "68585",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68585",
+                    "Titles": {
+                        "eng": "Big Titan",
+                        "jpn": "ビッグタイタン"
+                    },
+                    "Aliases": []
+                },
+                "74": {
+                    "ID": "68586",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68586",
+                    "Titles": {
+                        "eng": "Mission to the Middle of the World",
+                        "jpn": "地球探検"
+                    },
+                    "Aliases": []
+                },
+                "75": {
+                    "ID": "68587",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68587",
+                    "Titles": {
+                        "eng": "Inca Gold Fever",
+                        "jpn": "空とぶ町"
+                    },
+                    "Aliases": []
+                },
+                "76": {
+                    "ID": "68588",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68588",
+                    "Titles": {
+                        "eng": "The Monster Machine",
+                        "jpn": "モンスターマシーン"
+                    },
+                    "Aliases": []
+                },
+                "77": {
+                    "ID": "68589",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68589",
+                    "Titles": {
+                        "eng": "The Hooligan Whodunit",
+                        "jpn": "ケープタウンの子守歌"
+                    },
+                    "Aliases": []
+                },
+                "78": {
+                    "ID": "68590",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68590",
+                    "Titles": {
+                        "eng": "Funnel to the Future",
+                        "jpn": "50万年後の世界"
+                    },
+                    "Aliases": []
+                },
+                "79": {
+                    "ID": "68591",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68591",
+                    "Titles": {
+                        "eng": "Super Brain",
+                        "jpn": "ドクター脳"
+                    },
+                    "Aliases": []
+                },
+                "80": {
+                    "ID": "68592",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68592",
+                    "Titles": {
+                        "eng": "Mighty Minute",
+                        "jpn": "ヒューマノイドピル"
+                    },
+                    "Aliases": []
+                },
+                "81": {
+                    "ID": "68593",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68593",
+                    "Titles": {
+                        "eng": "Dream Machine",
+                        "jpn": "夢みる機械"
+                    },
+                    "Aliases": []
+                },
+                "82": {
+                    "ID": "68594",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68594",
+                    "Titles": {
+                        "eng": "The Robot Olympics",
+                        "jpn": "ロボット競技大会"
+                    },
+                    "Aliases": []
+                },
+                "83": {
+                    "ID": "68595",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68595",
+                    "Titles": {
+                        "eng": "Dunder, Bird of Doom",
+                        "jpn": "怪鳥ガルダ"
+                    },
+                    "Aliases": []
+                },
+                "84": {
+                    "ID": "68596",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68596",
+                    "Titles": {
+                        "eng": "Dolphins in Distress",
+                        "jpn": "イルカ文明"
+                    },
+                    "Aliases": []
+                },
+                "85": {
+                    "ID": "68597",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68597",
+                    "Titles": {
+                        "eng": "The Mad Beltway",
+                        "jpn": "狂ったベルトウェイ"
+                    },
+                    "Aliases": []
+                },
+                "86": {
+                    "ID": "68598",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68598",
+                    "Titles": {
+                        "eng": "The Terrible Time Gun",
+                        "jpn": "時間銃"
+                    },
+                    "Aliases": []
+                },
+                "87": {
+                    "ID": "68599",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68599",
+                    "Titles": {
+                        "eng": "Space Princess",
+                        "jpn": "新かぐや姫"
+                    },
+                    "Aliases": []
+                },
+                "88": {
+                    "ID": "68600",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68600",
+                    "Titles": {
+                        "eng": "Mighty Microbe Army",
+                        "jpn": "細菌部隊"
+                    },
+                    "Aliases": []
+                },
+                "89": {
+                    "ID": "68601",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68601",
+                    "Titles": {
+                        "eng": "Horrible King Horrid",
+                        "jpn": "ゴメスの亡霊"
+                    },
+                    "Aliases": []
+                },
+                "90": {
+                    "ID": "68602",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68602",
+                    "Titles": {
+                        "eng": "Mystery of the Amless Dam",
+                        "jpn": "ロボット砦"
+                    },
+                    "Aliases": []
+                },
+                "91": {
+                    "ID": "68603",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68603",
+                    "Titles": {
+                        "eng": "Galeom From Galaxy G",
+                        "jpn": "ガロン逆襲"
+                    },
+                    "Aliases": []
+                },
+                "92": {
+                    "ID": "68604",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68604",
+                    "Titles": {
+                        "eng": "The Three Robotiers",
+                        "jpn": "ロボット三銃士"
+                    },
+                    "Aliases": []
+                },
+                "93": {
+                    "ID": "68605",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68605",
+                    "Titles": {
+                        "eng": "Brother Jetto",
+                        "jpn": "コバルト"
+                    },
+                    "Aliases": []
+                },
+                "94": {
+                    "ID": "68606",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68606",
+                    "Titles": {
+                        "eng": "Angel of the Alps",
+                        "jpn": "アルプスの天使"
+                    },
+                    "Aliases": []
+                },
+                "95": {
+                    "ID": "68607",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68607",
+                    "Titles": {
+                        "eng": "Magic Punch Card",
+                        "jpn": "魔のパンチカード"
+                    },
+                    "Aliases": []
+                },
+                "96": {
+                    "ID": "68608",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68608",
+                    "Titles": {
+                        "eng": "The Great Rocket Robbery",
+                        "jpn": "ロボットヒューチャー"
+                    },
+                    "Aliases": []
+                },
+                "97": {
+                    "ID": "68609",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68609",
+                    "Titles": {
+                        "eng": "Contest in Space",
+                        "jpn": "宇宙の対決"
+                    },
+                    "Aliases": []
+                },
+                "98": {
+                    "ID": "68610",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68610",
+                    "Titles": {
+                        "eng": "Gift of Zeo",
+                        "jpn": "ゼオの遺産"
+                    },
+                    "Aliases": []
+                },
+                "99": {
+                    "ID": "68611",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68611",
+                    "Titles": {
+                        "eng": "A Deep Deep Secret",
+                        "jpn": "小さなコロンブス"
+                    },
+                    "Aliases": []
+                },
+                "100": {
+                    "ID": "68612",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68612",
+                    "Titles": {
+                        "eng": "The Wonderful Christmas Present",
+                        "jpn": "ロボットハウス"
+                    },
+                    "Aliases": []
+                },
+                "101": {
+                    "ID": "68613",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68613",
+                    "Titles": {
+                        "eng": "Uncharted World",
+                        "jpn": "地図にない世界"
+                    },
+                    "Aliases": []
+                },
+                "102": {
+                    "ID": "68614",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68614",
+                    "Titles": {
+                        "eng": "Jungle Mystery",
+                        "jpn": "魔境の女王"
+                    },
+                    "Aliases": []
+                },
+                "103": {
+                    "ID": "68615",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68615",
+                    "Titles": {
+                        "eng": "The Terrible Spaceman",
+                        "jpn": "宇宙への階段"
+                    },
+                    "Aliases": []
+                },
+                "104": {
+                    "ID": "68616",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68616",
+                    "Titles": {
+                        "eng": "The Devil's Balloon",
+                        "jpn": "悪魔の風船"
+                    },
+                    "Aliases": []
+                },
+                "105": {
+                    "ID": "68617",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68617",
+                    "Titles": {
+                        "eng": "General Astro",
+                        "jpn": "アトム将軍"
+                    },
+                    "Aliases": []
+                },
+                "106": {
+                    "ID": "68618",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68618",
+                    "Titles": {
+                        "eng": "The Mighty Mite from Ursa Minor",
+                        "jpn": "宇宙から来た少年"
+                    },
+                    "Aliases": []
+                },
+                "107": {
+                    "ID": "68619",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68619",
+                    "Titles": {
+                        "eng": "Mystery of the Metal Men",
+                        "jpn": "地球解放"
+                    },
+                    "Aliases": []
+                },
+                "108": {
+                    "ID": "68620",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68620",
+                    "Titles": {
+                        "eng": "Super Human Beings",
+                        "jpn": "サターンマン"
+                    },
+                    "Aliases": []
+                },
+                "109": {
+                    "ID": "68621",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68621",
+                    "Titles": {
+                        "eng": "Phoenix Bird",
+                        "jpn": "不死鳥"
+                    },
+                    "Aliases": []
+                },
+                "110": {
+                    "ID": "68622",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68622",
+                    "Titles": {
+                        "eng": "Expedition on Mercury",
+                        "jpn": "水星探検"
+                    },
+                    "Aliases": []
+                },
+                "111": {
+                    "ID": "68623",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68623",
+                    "Titles": {
+                        "eng": "Robot Polymer",
+                        "jpn": "ロボットポリマー"
+                    },
+                    "Aliases": []
+                },
+                "112": {
+                    "ID": "68624",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68624",
+                    "Titles": {
+                        "eng": "Samson's Hair",
+                        "jpn": "サムソンの髪の毛"
+                    },
+                    "Aliases": []
+                },
+                "113": {
+                    "ID": "68625",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68625",
+                    "Titles": {
+                        "eng": "'Back', the Country Without Laughter",
+                        "jpn": "笑わぬバック国"
+                    },
+                    "Aliases": []
+                },
+                "114": {
+                    "ID": "68626",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68626",
+                    "Titles": {
+                        "eng": "Metro Monster",
+                        "jpn": "メトロモンスター"
+                    },
+                    "Aliases": []
+                },
+                "115": {
+                    "ID": "68627",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68627",
+                    "Titles": {
+                        "eng": "The Big Runaway Safe",
+                        "jpn": "逃げだした大金庫"
+                    },
+                    "Aliases": []
+                },
+                "116": {
+                    "ID": "68628",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68628",
+                    "Titles": {
+                        "eng": "The Greatest Robot on Earth (1)",
+                        "jpn": "史上最大のロボット(前)"
+                    },
+                    "Aliases": []
+                },
+                "117": {
+                    "ID": "68629",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68629",
+                    "Titles": {
+                        "eng": "The Greatest Robot on Earth (2)",
+                        "jpn": "史上最大のロボット(後)"
+                    },
+                    "Aliases": []
+                },
+                "118": {
+                    "ID": "68630",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68630",
+                    "Titles": {
+                        "eng": "Robot Grabby",
+                        "jpn": "ロボットラグビー"
+                    },
+                    "Aliases": []
+                },
+                "119": {
+                    "ID": "68631",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68631",
+                    "Titles": {
+                        "eng": "The Flying Lens",
+                        "jpn": "空とぶレンズ"
+                    },
+                    "Aliases": []
+                },
+                "120": {
+                    "ID": "68632",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68632",
+                    "Titles": {
+                        "eng": "Time Hunter",
+                        "jpn": "タイムハンター"
+                    },
+                    "Aliases": []
+                },
+                "121": {
+                    "ID": "68633",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68633",
+                    "Titles": {
+                        "eng": "Ganimate",
+                        "jpn": "ガニメート号"
+                    },
+                    "Aliases": []
+                },
+                "122": {
+                    "ID": "68634",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68634",
+                    "Titles": {
+                        "eng": "The Monster Mantler",
+                        "jpn": "怪獣マントラー"
+                    },
+                    "Aliases": []
+                },
+                "123": {
+                    "ID": "68635",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68635",
+                    "Titles": {
+                        "eng": "Captain Dog",
+                        "jpn": "ドッグ隊長"
+                    },
+                    "Aliases": []
+                },
+                "124": {
+                    "ID": "68636",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68636",
+                    "Titles": {
+                        "eng": "Parting Gift",
+                        "jpn": "おきみやげ"
+                    },
+                    "Aliases": []
+                },
+                "125": {
+                    "ID": "68637",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68637",
+                    "Titles": {
+                        "eng": "Find the Bacteria",
+                        "jpn": "細菌をさがせ"
+                    },
+                    "Aliases": []
+                },
+                "126": {
+                    "ID": "68638",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68638",
+                    "Titles": {
+                        "eng": "Roboids",
+                        "jpn": "ロボイド"
+                    },
+                    "Aliases": []
+                },
+                "127": {
+                    "ID": "68639",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68639",
+                    "Titles": {
+                        "eng": "The Experimental Robot",
+                        "jpn": "実験ロボット"
+                    },
+                    "Aliases": []
+                },
+                "128": {
+                    "ID": "68640",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68640",
+                    "Titles": {
+                        "eng": "Treasures of the Inca Empire",
+                        "jpn": "インカ帝国の宝"
+                    },
+                    "Aliases": []
+                },
+                "129": {
+                    "ID": "68641",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68641",
+                    "Titles": {
+                        "eng": "Atom vs. Atom",
+                        "jpn": "アトム対アトム"
+                    },
+                    "Aliases": []
+                },
+                "130": {
+                    "ID": "68642",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68642",
+                    "Titles": {
+                        "eng": "The Storm on Mars",
+                        "jpn": "火星の嵐"
+                    },
+                    "Aliases": []
+                },
+                "131": {
+                    "ID": "68643",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68643",
+                    "Titles": {
+                        "eng": "The Moon Champion",
+                        "jpn": "ムーンチャンピオン"
+                    },
+                    "Aliases": []
+                },
+                "132": {
+                    "ID": "68644",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68644",
+                    "Titles": {
+                        "eng": "Prince Louis",
+                        "jpn": "ルイ王子"
+                    },
+                    "Aliases": []
+                },
+                "133": {
+                    "ID": "68645",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68645",
+                    "Titles": {
+                        "eng": "Revenge After Ten Years",
+                        "jpn": "10年目の復讐"
+                    },
+                    "Aliases": []
+                },
+                "134": {
+                    "ID": "68646",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68646",
+                    "Titles": {
+                        "eng": "Operation Escape",
+                        "jpn": "脱出作戦"
+                    },
+                    "Aliases": []
+                },
+                "135": {
+                    "ID": "68647",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68647",
+                    "Titles": {
+                        "eng": "The Robot-Dog Backy",
+                        "jpn": "ロボット犬バッキー"
+                    },
+                    "Aliases": []
+                },
+                "136": {
+                    "ID": "68648",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68648",
+                    "Titles": {
+                        "eng": "Inspector Jaguar",
+                        "jpn": "ジャガー警部"
+                    },
+                    "Aliases": []
+                },
+                "137": {
+                    "ID": "68649",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68649",
+                    "Titles": {
+                        "eng": "Little Cooley",
+                        "jpn": "小さいクーリー"
+                    },
+                    "Aliases": []
+                },
+                "138": {
+                    "ID": "68650",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68650",
+                    "Titles": {
+                        "eng": "1 Long Day",
+                        "jpn": "長い1日"
+                    },
+                    "Aliases": []
+                },
+                "139": {
+                    "ID": "68651",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68651",
+                    "Titles": {
+                        "eng": "Atom Stolen",
+                        "jpn": "盗まれたアトム"
+                    },
+                    "Aliases": []
+                },
+                "140": {
+                    "ID": "68652",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68652",
+                    "Titles": {
+                        "eng": "The King and Atom",
+                        "jpn": "王様とアトム"
+                    },
+                    "Aliases": []
+                },
+                "141": {
+                    "ID": "68653",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68653",
+                    "Titles": {
+                        "eng": "The Locomotive March",
+                        "jpn": "機関車行進曲"
+                    },
+                    "Aliases": []
+                },
+                "142": {
+                    "ID": "68654",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68654",
+                    "Titles": {
+                        "eng": "Minya's Star",
+                        "jpn": "ミーニャの星"
+                    },
+                    "Aliases": []
+                },
+                "143": {
+                    "ID": "68655",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68655",
+                    "Titles": {
+                        "eng": "Bird Street Story",
+                        "jpn": "バードストリート物語"
+                    },
+                    "Aliases": []
+                },
+                "144": {
+                    "ID": "68656",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68656",
+                    "Titles": {
+                        "eng": "Lost Friendship",
+                        "jpn": "失われた友情"
+                    },
+                    "Aliases": []
+                },
+                "145": {
+                    "ID": "68657",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68657",
+                    "Titles": {
+                        "eng": "Atom in the Deep Sea",
+                        "jpn": "アトム深海を行く"
+                    },
+                    "Aliases": []
+                },
+                "146": {
+                    "ID": "68658",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68658",
+                    "Titles": {
+                        "eng": "Report from the Future",
+                        "jpn": "未来からの報告"
+                    },
+                    "Aliases": []
+                },
+                "147": {
+                    "ID": "68659",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68659",
+                    "Titles": {
+                        "eng": "Mid-air Screen",
+                        "jpn": "空中スクリーン"
+                    },
+                    "Aliases": []
+                },
+                "148": {
+                    "ID": "68660",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68660",
+                    "Titles": {
+                        "eng": "Robio and Robiet",
+                        "jpn": "ロビオとロビエット"
+                    },
+                    "Aliases": []
+                },
+                "149": {
+                    "ID": "68661",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68661",
+                    "Titles": {
+                        "eng": "The Can Capriccio",
+                        "jpn": "カンヅメ狂騒曲"
+                    },
+                    "Aliases": []
+                },
+                "150": {
+                    "ID": "68662",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68662",
+                    "Titles": {
+                        "eng": "Miss Magnet",
+                        "jpn": "マグネットちゃん"
+                    },
+                    "Aliases": []
+                },
+                "151": {
+                    "ID": "68663",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68663",
+                    "Titles": {
+                        "eng": "Lonely Atom",
+                        "jpn": "ひとりぼっちのアトム"
+                    },
+                    "Aliases": []
+                },
+                "152": {
+                    "ID": "68664",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68664",
+                    "Titles": {
+                        "eng": "The Robot Bombs",
+                        "jpn": "ロボット爆弾"
+                    },
+                    "Aliases": []
+                },
+                "153": {
+                    "ID": "68665",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68665",
+                    "Titles": {
+                        "eng": "The Red Merry-Go-Round",
+                        "jpn": "赤い木馬"
+                    },
+                    "Aliases": []
+                },
+                "154": {
+                    "ID": "68666",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68666",
+                    "Titles": {
+                        "eng": "Blue Bird Story",
+                        "jpn": "青い鳥物語"
+                    },
+                    "Aliases": []
+                },
+                "155": {
+                    "ID": "68667",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68667",
+                    "Titles": {
+                        "eng": "The Crazed Boundary",
+                        "jpn": "狂った国境線"
+                    },
+                    "Aliases": []
+                },
+                "156": {
+                    "ID": "68668",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68668",
+                    "Titles": {
+                        "eng": "Robot Mayor",
+                        "jpn": "ロボット市長"
+                    },
+                    "Aliases": []
+                },
+                "157": {
+                    "ID": "68669",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68669",
+                    "Titles": {
+                        "eng": "Gypsy's Star",
+                        "jpn": "ジプシーの星"
+                    },
+                    "Aliases": []
+                },
+                "158": {
+                    "ID": "68670",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68670",
+                    "Titles": {
+                        "eng": "Funny Companion",
+                        "jpn": "おかしな道づれ"
+                    },
+                    "Aliases": []
+                },
+                "159": {
+                    "ID": "68671",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68671",
+                    "Titles": {
+                        "eng": "Devil and Angel",
+                        "jpn": "悪魔と天使"
+                    },
+                    "Aliases": []
+                },
+                "160": {
+                    "ID": "68672",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68672",
+                    "Titles": {
+                        "eng": "The Golden Flute",
+                        "jpn": "黄金のフルート"
+                    },
+                    "Aliases": []
+                },
+                "161": {
+                    "ID": "68673",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68673",
+                    "Titles": {
+                        "eng": "Dream-Selling Aliens",
+                        "jpn": "夢を売る宇宙人"
+                    },
+                    "Aliases": []
+                },
+                "162": {
+                    "ID": "68674",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68674",
+                    "Titles": {
+                        "eng": "Operation Candy",
+                        "jpn": "キャンデー作戦"
+                    },
+                    "Aliases": []
+                },
+                "163": {
+                    "ID": "68675",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68675",
+                    "Titles": {
+                        "eng": "Road to Another World",
+                        "jpn": "別世界への道"
+                    },
+                    "Aliases": []
+                },
+                "164": {
+                    "ID": "68676",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68676",
+                    "Titles": {
+                        "eng": "The Space Spider",
+                        "jpn": "宇宙ぐも"
+                    },
+                    "Aliases": []
+                },
+                "165": {
+                    "ID": "68677",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68677",
+                    "Titles": {
+                        "eng": "A Great Fuss Over Babies",
+                        "jpn": "赤ん坊騒動"
+                    },
+                    "Aliases": []
+                },
+                "166": {
+                    "ID": "68678",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68678",
+                    "Titles": {
+                        "eng": "The Jewel-Eating Monster",
+                        "jpn": "ジュエルの魔像"
+                    },
+                    "Aliases": []
+                },
+                "167": {
+                    "ID": "68679",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68679",
+                    "Titles": {
+                        "eng": "Plenty of Balloons",
+                        "jpn": "風船がいっぱい"
+                    },
+                    "Aliases": []
+                },
+                "168": {
+                    "ID": "68680",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68680",
+                    "Titles": {
+                        "eng": "The Island That Jumped Up",
+                        "jpn": "おどりあがった島"
+                    },
+                    "Aliases": []
+                },
+                "169": {
+                    "ID": "68681",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68681",
+                    "Titles": {
+                        "eng": "Gift from the Future",
+                        "jpn": "未来人の贈り物"
+                    },
+                    "Aliases": []
+                },
+                "170": {
+                    "ID": "68682",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68682",
+                    "Titles": {
+                        "eng": "Two Princesses",
+                        "jpn": "二人の王女"
+                    },
+                    "Aliases": []
+                },
+                "171": {
+                    "ID": "68683",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68683",
+                    "Titles": {
+                        "eng": "Kutcher Forever",
+                        "jpn": "永遠のクッチャー"
+                    },
+                    "Aliases": []
+                },
+                "172": {
+                    "ID": "68684",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68684",
+                    "Titles": {
+                        "eng": "The Herald Brothers",
+                        "jpn": "ヘラルド兄弟"
+                    },
+                    "Aliases": []
+                },
+                "173": {
+                    "ID": "68685",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68685",
+                    "Titles": {
+                        "eng": "Robotty",
+                        "jpn": "ロボッティ"
+                    },
+                    "Aliases": []
+                },
+                "174": {
+                    "ID": "68686",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68686",
+                    "Titles": {
+                        "eng": "The Great Submarine Canal",
+                        "jpn": "海底大運河"
+                    },
+                    "Aliases": []
+                },
+                "175": {
+                    "ID": "68687",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68687",
+                    "Titles": {
+                        "eng": "Robot Wars (1)",
+                        "jpn": "ロボット大戦争(前)"
+                    },
+                    "Aliases": []
+                },
+                "176": {
+                    "ID": "68688",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68688",
+                    "Titles": {
+                        "eng": "Robot Wars (2)",
+                        "jpn": "ロボット大戦争(後)"
+                    },
+                    "Aliases": []
+                },
+                "177": {
+                    "ID": "68689",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68689",
+                    "Titles": {
+                        "eng": "The Gigantic Robot",
+                        "jpn": "ばかでかいロボット"
+                    },
+                    "Aliases": []
+                },
+                "178": {
+                    "ID": "68690",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68690",
+                    "Titles": {
+                        "eng": "Chi-tan's Nighttime Adventure",
+                        "jpn": "チータン夜の冒険"
+                    },
+                    "Aliases": []
+                },
+                "179": {
+                    "ID": "68691",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68691",
+                    "Titles": {
+                        "eng": "Blue Horseman (1)",
+                        "jpn": "青騎士(前)"
+                    },
+                    "Aliases": []
+                },
+                "180": {
+                    "ID": "68692",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68692",
+                    "Titles": {
+                        "eng": "Blue Horseman (2)",
+                        "jpn": "青騎士(後)"
+                    },
+                    "Aliases": []
+                },
+                "181": {
+                    "ID": "68693",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68693",
+                    "Titles": {
+                        "eng": "Ghost Manufacturing Machine",
+                        "jpn": "幽霊製造機"
+                    },
+                    "Aliases": []
+                },
+                "182": {
+                    "ID": "68694",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68694",
+                    "Titles": {
+                        "eng": "Demented Cobalt",
+                        "jpn": "狂ったコバルト"
+                    },
+                    "Aliases": []
+                },
+                "183": {
+                    "ID": "68695",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68695",
+                    "Titles": {
+                        "eng": "Japanese People from Space",
+                        "jpn": "宇宙から来た日本人"
+                    },
+                    "Aliases": []
+                },
+                "184": {
+                    "ID": "68696",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68696",
+                    "Titles": {
+                        "eng": "Time War",
+                        "jpn": "タイム戦争"
+                    },
+                    "Aliases": []
+                },
+                "185": {
+                    "ID": "68697",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68697",
+                    "Titles": {
+                        "eng": "Star of Africa",
+                        "jpn": "アフリカの星"
+                    },
+                    "Aliases": []
+                },
+                "186": {
+                    "ID": "68698",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68698",
+                    "Titles": {
+                        "eng": "Monsters Come out at Night",
+                        "jpn": "おばけは夜来る"
+                    },
+                    "Aliases": []
+                },
+                "187": {
+                    "ID": "68699",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68699",
+                    "Titles": {
+                        "eng": "Baily’s Legend",
+                        "jpn": "べーリーの伝説"
+                    },
+                    "Aliases": []
+                },
+                "188": {
+                    "ID": "68700",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68700",
+                    "Titles": {
+                        "eng": "Tengu of Kurama",
+                        "jpn": "鞍馬の天狗"
+                    },
+                    "Aliases": []
+                },
+                "189": {
+                    "ID": "68701",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68701",
+                    "Titles": {
+                        "eng": "Confusion at the Shooting Studio",
+                        "jpn": "撮影所騒動"
+                    },
+                    "Aliases": []
+                },
+                "190": {
+                    "ID": "68702",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68702",
+                    "Titles": {
+                        "eng": "Miracle of Mesopotamia",
+                        "jpn": "メソポタミアの奇蹟"
+                    },
+                    "Aliases": []
+                },
+                "191": {
+                    "ID": "68703",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/68703",
+                    "Titles": {
+                        "eng": "Wandering Roppi",
+                        "jpn": "さすらいのロッピ"
+                    },
+                    "Aliases": []
+                },
+                "192": {
+                    "ID": "5276842",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/5276842",
+                    "Titles": {
+                        "eng": "Medusa's Mansion",
+                        "jpn": "メドッサの館"
+                    },
+                    "Aliases": []
+                },
+                "193": {
+                    "ID": "5276845",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy/episodes/5276845",
+                    "Titles": {
+                        "eng": "The Greatest Adventure on Earth",
+                        "jpn": "地球最大の冒険"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

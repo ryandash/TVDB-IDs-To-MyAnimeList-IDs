@@ -1,0 +1,187 @@
+{
+    "URL": "https://thetvdb.com/series/knights-and-magic",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt7124066/",
+        "http://knights-magic.com/",
+        "https://www.themoviedb.org/tv/72635",
+        "https://x.com/@naitsuma_anime"
+    ],
+    "Titles": {
+        "eng": "Knight's & Magic",
+        "jpn": "ナイツ＆マジック"
+    },
+    "Aliases": [
+        "Knight`s & Magic"
+    ],
+    "Modified": "2026-01-12",
+    "Seasons": {
+        "0": {
+            "ID": "709430",
+            "URL": "https://thetvdb.com/series/knights-and-magic/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "7489972",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/knights-and-magic/episodes/7489972",
+                    "Titles": {
+                        "eng": "Special",
+                        "jpn": "第1話 大事なことなのでもう一度放送しますスペシャル！"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "709587",
+            "URL": "https://thetvdb.com/series/knights-and-magic/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "6060429",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/knights-and-magic/episodes/6060429",
+                    "Titles": {
+                        "eng": "Robots & Fantasy",
+                        "jpn": "Robots & Fantasy"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6148630",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/knights-and-magic/episodes/6148630",
+                    "Titles": {
+                        "eng": "Hero & Beast",
+                        "jpn": "Hero & Beast"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6148632",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/knights-and-magic/episodes/6148632",
+                    "Titles": {
+                        "eng": "Scrap & Build",
+                        "jpn": "Scrap & Build"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6148633",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/knights-and-magic/episodes/6148633",
+                    "Titles": {
+                        "eng": "Light & Shadow",
+                        "jpn": "Light & Shadow"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6169866",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/knights-and-magic/episodes/6169866",
+                    "Titles": {
+                        "eng": "Hide & Seek",
+                        "jpn": "Hide & Seek"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6169868",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/knights-and-magic/episodes/6169868",
+                    "Titles": {
+                        "eng": "Trial & Error",
+                        "jpn": "Trial & Error"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6169869",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/knights-and-magic/episodes/6169869",
+                    "Titles": {
+                        "eng": "New & Old",
+                        "jpn": "New & Old"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6169870",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/knights-and-magic/episodes/6169870",
+                    "Titles": {
+                        "eng": "Secret & Quest",
+                        "jpn": "Secret & Quest"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6169871",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/knights-and-magic/episodes/6169871",
+                    "Titles": {
+                        "eng": "Force & Justice",
+                        "jpn": "Force & Justice"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6169872",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/knights-and-magic/episodes/6169872",
+                    "Titles": {
+                        "eng": "War & Princess",
+                        "jpn": "War & Princess"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6195781",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/knights-and-magic/episodes/6195781",
+                    "Titles": {
+                        "eng": "Hit & Away",
+                        "jpn": "Hit & Away"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6195782",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/knights-and-magic/episodes/6195782",
+                    "Titles": {
+                        "eng": "Knight & Dragon",
+                        "jpn": "Knight & Dragon"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "6195783",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/knights-and-magic/episodes/6195783",
+                    "Titles": {
+                        "eng": "Heaven & Earth",
+                        "jpn": "Heaven & Earth"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

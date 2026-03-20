@@ -1,0 +1,368 @@
+{
+    "URL": "https://thetvdb.com/series/mobile-suit-gundam-uc-re-0096",
+    "Genres": [
+        "Action",
+        "Anime",
+        "Drama"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/EA52-4A89-8426-BB90-13FC-H",
+        "https://www.imdb.com/title/tt28740765/",
+        "https://www.nagoyatv.com/gundam-unicorn/",
+        "https://www.themoviedb.org/tv/67524",
+        "https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_Unicorn"
+    ],
+    "Titles": {
+        "eng": "Mobile Suit Gundam Unicorn RE:0096",
+        "jpn": "機動戦士ガンダムUC RE:0096"
+    },
+    "Aliases": [
+        "Mobile Suit Gundam UC RE:0096",
+        "機動戦士ガンダムUC"
+    ],
+    "Modified": "2025-09-14",
+    "Seasons": {
+        "0": {
+            "ID": "542100",
+            "URL": "https://thetvdb.com/series/mobile-suit-gundam-uc-re-0096/seasons/official/0",
+            "Titles": {
+                "eng": "Mobile Suit Gundam Unicorn",
+                "jpn": null
+            },
+            "# Episodes": 10,
+            "Episodes": {
+                "1": {
+                    "ID": "1754351",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/1754351",
+                    "Titles": {
+                        "eng": "Mobile Suit Gundam Unicorn: Day of the Unicorn",
+                        "jpn": "ユニコーンの日"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2676941",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/2676941",
+                    "Titles": {
+                        "eng": "Mobile Suit Gundam Unicorn: The Second Coming of Char",
+                        "jpn": "赤い彗星"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "3069041",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/3069041",
+                    "Titles": {
+                        "eng": "Mobile Suit Gundam Unicorn: The Ghost of Laplace",
+                        "jpn": "ラプラスの亡霊"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4088689",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/4088689",
+                    "Titles": {
+                        "eng": "Mobile Suit Gundam Unicorn: At the Bottom of the Gravity Well",
+                        "jpn": "重力の井戸の底で"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4204900",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/4204900",
+                    "Titles": {
+                        "eng": "Mobile Suit Gundam Unicorn: The Black Unicorn",
+                        "jpn": "黒いユニコーン"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4423285",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/4423285",
+                    "Titles": {
+                        "eng": "Mobile Suit Gundam Unicorn: Two Worlds, Two Tomorrows",
+                        "jpn": "宇宙（そら）と地球（ほし）と"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4515804",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/4515804",
+                    "Titles": {
+                        "eng": "Mobile Suit Gundam Unicorn: Over The Rainbow",
+                        "jpn": "虹の彼方に"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4894863",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/4894863",
+                    "Titles": {
+                        "eng": "Mobile Suit Gundam Unicorn: Episode EX - 100 Years of Solitude",
+                        "jpn": "百年の孤独"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6065047",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/6065047",
+                    "Titles": {
+                        "eng": "Mobile Suit Gundam Unicorn: One of Seventy Two",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "7213426",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/7213426",
+                    "Titles": {
+                        "eng": "Mobile Suit Gundam Narrative",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "195881",
+            "URL": "https://thetvdb.com/series/mobile-suit-gundam-uc-re-0096/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 22,
+            "Episodes": {
+                "1": {
+                    "ID": "5570639",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/5570639",
+                    "Titles": {
+                        "eng": "Departure 0096",
+                        "jpn": "96年目の出発"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5570640",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/5570640",
+                    "Titles": {
+                        "eng": "First Blood",
+                        "jpn": "最初の血"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5570641",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/5570641",
+                    "Titles": {
+                        "eng": "They Called It Gundam",
+                        "jpn": "それはガンダムと呼ばれた"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5570642",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/5570642",
+                    "Titles": {
+                        "eng": "Full Frontal's Pursuit",
+                        "jpn": "フル・フロンタル追撃"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5576911",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/5576911",
+                    "Titles": {
+                        "eng": "Clash with the Red Comet",
+                        "jpn": "激突・赤い彗星"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5576912",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/5576912",
+                    "Titles": {
+                        "eng": "Under the Mask",
+                        "jpn": "その仮面の下に"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5576913",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/5576913",
+                    "Titles": {
+                        "eng": "The Battle at Palau",
+                        "jpn": "パラオ攻略戦"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5576914",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/5576914",
+                    "Titles": {
+                        "eng": "Laplace, Where It All Began",
+                        "jpn": "ラプラス、始まりの地"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5576915",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/5576915",
+                    "Titles": {
+                        "eng": "Retribution",
+                        "jpn": "リトリビューション"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5576916",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/5576916",
+                    "Titles": {
+                        "eng": "From the Scorching Earth",
+                        "jpn": "灼熱の大地から"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5576917",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/5576917",
+                    "Titles": {
+                        "eng": "Battle at Torrington",
+                        "jpn": "トリントン攻防"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5576918",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/5576918",
+                    "Titles": {
+                        "eng": "A Private War",
+                        "jpn": "個人の戦争"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "5576919",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/5576919",
+                    "Titles": {
+                        "eng": "Banagher Links, Soldier",
+                        "jpn": "戦士、バナージ・リンクス"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "5665681",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/5665681",
+                    "Titles": {
+                        "eng": "Clash of the Two Unicorns",
+                        "jpn": "死闘、二機のユニコーン"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "5673344",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/5673344",
+                    "Titles": {
+                        "eng": "Waiting in Space",
+                        "jpn": "宇宙(そら)で待つもの"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "5673345",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/5673345",
+                    "Titles": {
+                        "eng": "The Side Co-Prosperity Sphere",
+                        "jpn": "サイド共栄圏"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "5695358",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/5695358",
+                    "Titles": {
+                        "eng": "Nahel Argama Recaptured",
+                        "jpn": "奪還! ネェル・アーガマ"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "5703466",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/5703466",
+                    "Titles": {
+                        "eng": "Fateful Battle",
+                        "jpn": "宿命の戦い"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "5703467",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/5703467",
+                    "Titles": {
+                        "eng": "Another Cosmic Glow",
+                        "jpn": "再び光る宇宙"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "5703468",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/5703468",
+                    "Titles": {
+                        "eng": "Laplace's Box",
+                        "jpn": "ラプラスの箱"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "5728500",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/5728500",
+                    "Titles": {
+                        "eng": "To the World's End",
+                        "jpn": "この世の果てへ"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "5745795",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-uc-re-0096/episodes/5745795",
+                    "Titles": {
+                        "eng": "Return",
+                        "jpn": "帰還"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

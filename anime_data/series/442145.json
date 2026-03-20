@@ -1,0 +1,122 @@
+{
+    "URL": "https://thetvdb.com/series/terminator-anime",
+    "Genres": [
+        "Adaptation",
+        "Adult Animation",
+        "Anime - Seinen",
+        "Time Travel",
+        "Urban"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt14153236/",
+        "https://www.netflix.com/title/81217220",
+        "https://www.tvmaze.com/shows/56448/show-slug",
+        "https://www.themoviedb.org/tv/239287",
+        "https://www.wikidata.org/wiki/Q125996495",
+        "https://en.wikipedia.org/wiki/?curid=75316463"
+    ],
+    "Titles": {
+        "eng": "Terminator Zero",
+        "jpn": "ターミネーター0"
+    },
+    "Aliases": [
+        "Terminator 0",
+        "Terminator: The Anime Series"
+    ],
+    "Modified": "2026-02-14",
+    "Seasons": {
+        "1": {
+            "ID": "2093839",
+            "URL": "https://thetvdb.com/series/terminator-anime/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "fra": "Saison 1",
+                "rus": "Сезон 1"
+            },
+            "# Episodes": 8,
+            "Episodes": {
+                "1": {
+                    "ID": "10141014",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/terminator-anime/episodes/10141014",
+                    "Titles": {
+                        "eng": "Model 101",
+                        "jpn": "Model 101"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10497675",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/terminator-anime/episodes/10497675",
+                    "Titles": {
+                        "eng": "Model 102",
+                        "jpn": "Model 102"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10497676",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/terminator-anime/episodes/10497676",
+                    "Titles": {
+                        "eng": "Model 103",
+                        "jpn": "Model 103"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "10497677",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/terminator-anime/episodes/10497677",
+                    "Titles": {
+                        "eng": "Model 104",
+                        "jpn": "Model 104"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "10497678",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/terminator-anime/episodes/10497678",
+                    "Titles": {
+                        "eng": "Model 105",
+                        "jpn": "Model 105"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "10497680",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/terminator-anime/episodes/10497680",
+                    "Titles": {
+                        "eng": "Model 106",
+                        "jpn": "Model 106"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "10497682",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/terminator-anime/episodes/10497682",
+                    "Titles": {
+                        "eng": "Model 107",
+                        "jpn": "Model 107"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "10497683",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/terminator-anime/episodes/10497683",
+                    "Titles": {
+                        "eng": "Model 108",
+                        "jpn": "Model 108"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

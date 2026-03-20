@@ -1,0 +1,397 @@
+{
+    "URL": "https://thetvdb.com/series/sekirei",
+    "Genres": [
+        "Adaptation",
+        "Adult Animation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1339238/",
+        "https://www.themoviedb.org/tv/34805"
+    ],
+    "Titles": {
+        "eng": "Sekirei",
+        "jpn": "セキレイ"
+    },
+    "Aliases": [
+        "Sekirei: Pure Engagement",
+        "Wagtail",
+        "セキレイ～Pure Engagement～"
+    ],
+    "Modified": "2026-03-19",
+    "Seasons": {
+        "0": {
+            "ID": "34565",
+            "URL": "https://thetvdb.com/series/sekirei/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 9,
+            "Episodes": {
+                "1": {
+                    "ID": "469421",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/469421",
+                    "Titles": {
+                        "eng": "Kusano's First Shopping Trip",
+                        "jpn": "初メテノオツカイ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2726861",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/2726861",
+                    "Titles": {
+                        "eng": "Two-Topic Gossip",
+                        "jpn": "閑話弐題（鶺鴒診断/鶺鴒余暇）"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8919915",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/8919915",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Season 1 Opening Credit (Textless)"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "8919916",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/8919916",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Season 1 Ending Credit (Textless)"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "8919919",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/8919919",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Season 2 Opening Credit (Textless)"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "8919918",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/8919918",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Season 2 Ending Credit (Textless)"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "8919925",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/8919925",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Season 2 Episode 10 Textless Ending"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "8919917",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/8919917",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Season 1 Opening Credit (Textless)"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "11648089",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/11648089",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Season 1 Episode 11 Ending Credit (Textless)"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "34566",
+            "URL": "https://thetvdb.com/series/sekirei/seasons/official/1",
+            "Titles": {
+                "eng": "Sekirei",
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "383058",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/383058",
+                    "Titles": {
+                        "eng": "Sekirei",
+                        "jpn": "セキレイ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "383059",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/383059",
+                    "Titles": {
+                        "eng": "The Door to the New Residence",
+                        "jpn": "新屋ノ扉"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "383060",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/383060",
+                    "Titles": {
+                        "eng": "The Green Girl",
+                        "jpn": "緑ノ少女"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "383061",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/383061",
+                    "Titles": {
+                        "eng": "The Strange Tale of Maison Izumo",
+                        "jpn": "出雲荘奇談"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "383062",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/383062",
+                    "Titles": {
+                        "eng": "The Water Sekirei",
+                        "jpn": "水ノ鶺鴒"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "383063",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/383063",
+                    "Titles": {
+                        "eng": "Maison Izumo Flower War",
+                        "jpn": "出雲荘花軍"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "383064",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/383064",
+                    "Titles": {
+                        "eng": "The Black Sekirei",
+                        "jpn": "黒ノ鶺鴒"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "383065",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/383065",
+                    "Titles": {
+                        "eng": "The Closed Capital",
+                        "jpn": "閉ジタ帝都"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "383066",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/383066",
+                    "Titles": {
+                        "eng": "The Veil and the Wind",
+                        "jpn": "比礼ト風"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "388095",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/388095",
+                    "Titles": {
+                        "eng": "The Night Before The Escape",
+                        "jpn": "脱出前夜"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "388096",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/388096",
+                    "Titles": {
+                        "eng": "The Sekirei Symbol Disappears",
+                        "jpn": "鶺鴒紋消失"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "388097",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/388097",
+                    "Titles": {
+                        "eng": "The Sekirei of Fate",
+                        "jpn": "縁ノ鶺鴒"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "267111",
+            "URL": "https://thetvdb.com/series/sekirei/seasons/official/2",
+            "Titles": {
+                "eng": "Sekirei: Pure Engagement",
+                "jpn": null,
+                "deu": "Sekirei: Pure Engagement"
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "2392161",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/2392161",
+                    "Titles": {
+                        "eng": "Silent Omen",
+                        "jpn": "静ナル予兆"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2471621",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/2471621",
+                    "Titles": {
+                        "eng": "The Wind Blows",
+                        "jpn": "風立チヌ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "2471631",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/2471631",
+                    "Titles": {
+                        "eng": "The Wind's Response",
+                        "jpn": "風ノ答エ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "2471641",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/2471641",
+                    "Titles": {
+                        "eng": "The Final Feather",
+                        "jpn": "最後ノ一羽"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "2471651",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/2471651",
+                    "Titles": {
+                        "eng": "The Sekirei of Flame",
+                        "jpn": "炎ノ鶺鴒"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "2471661",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/2471661",
+                    "Titles": {
+                        "eng": "Words of Binding",
+                        "jpn": "婚グ言葉"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "2471671",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/2471671",
+                    "Titles": {
+                        "eng": "A Faraway Tale",
+                        "jpn": "遠イ物語"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "2471681",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/2471681",
+                    "Titles": {
+                        "eng": "Kusa's Play",
+                        "jpn": "草ノ遊戯"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "2471691",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/2471691",
+                    "Titles": {
+                        "eng": "A Multitude of Bonds",
+                        "jpn": "数多ノ絆"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "2471701",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/2471701",
+                    "Titles": {
+                        "eng": "Far-Reaching Sky",
+                        "jpn": "果ツル空"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "2471711",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/2471711",
+                    "Titles": {
+                        "eng": "Preparations for the Festival",
+                        "jpn": "祭ノ準備"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "2471721",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/2471721",
+                    "Titles": {
+                        "eng": "Tower of Confusion",
+                        "jpn": "乱戯ノ塔"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "2859571",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sekirei/episodes/2859571",
+                    "Titles": {
+                        "eng": "Bonds of Truth",
+                        "jpn": "真実ノ絆"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

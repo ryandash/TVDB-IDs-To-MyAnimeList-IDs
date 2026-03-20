@@ -1,0 +1,392 @@
+{
+    "URL": "https://thetvdb.com/series/the-world-of-golden-eggs",
+    "Genres": [
+        "Animation",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1139553/",
+        "https://www.themoviedb.org/tv/42944"
+    ],
+    "Titles": {
+        "eng": "The World of Golden Eggs",
+        "jpn": "The World of Golden Eggs"
+    },
+    "Aliases": [],
+    "Modified": "2025-07-20",
+    "Seasons": {
+        "0": {
+            "ID": "72971",
+            "URL": "https://thetvdb.com/series/the-world-of-golden-eggs/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 8,
+            "Episodes": {
+                "1": {
+                    "ID": "711141",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/711141",
+                    "Titles": {
+                        "eng": "Work Work Watching Vol. 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "711151",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/711151",
+                    "Titles": {
+                        "eng": "Work Work Watching Vol. 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "711161",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/711161",
+                    "Titles": {
+                        "eng": "Work Work Watching Vol. 3",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "711171",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/711171",
+                    "Titles": {
+                        "eng": "Work Work Watching Vol. 4",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "711181",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/711181",
+                    "Titles": {
+                        "eng": "Work Work Watching Vol. 5",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "711191",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/711191",
+                    "Titles": {
+                        "eng": "Work Work Watching Vol. 6",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "711201",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/711201",
+                    "Titles": {
+                        "eng": "Work Work Watching Vol. 7",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "711211",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/711211",
+                    "Titles": {
+                        "eng": "Work Work Watching Vol. 8",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "72981",
+            "URL": "https://thetvdb.com/series/the-world-of-golden-eggs/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "710881",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/710881",
+                    "Titles": {
+                        "eng": "Lisa and Rebecca's Afterschool Special",
+                        "jpn": "リサとレベッカの放課後"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "710891",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/710891",
+                    "Titles": {
+                        "eng": "Absent-mind Mr. Roberts",
+                        "jpn": "ロバート先生は上の空"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "710901",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/710901",
+                    "Titles": {
+                        "eng": "The Honest Paul",
+                        "jpn": "ポールは正直者"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "710911",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/710911",
+                    "Titles": {
+                        "eng": "Laura's Temptation",
+                        "jpn": "ローラの誘惑"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "710921",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/710921",
+                    "Titles": {
+                        "eng": "Kevin and Paul's Mission Is Possible?",
+                        "jpn": "ケヴィンとポールの大作戦"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "710931",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/710931",
+                    "Titles": {
+                        "eng": "Jackie and Simon",
+                        "jpn": "ジャッキーとサイモン"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "710941",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/710941",
+                    "Titles": {
+                        "eng": "My Uniform",
+                        "jpn": "僕のユニフォーム"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "710951",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/710951",
+                    "Titles": {
+                        "eng": "I Looove Black Poison",
+                        "jpn": "私のポイズン"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "710961",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/710961",
+                    "Titles": {
+                        "eng": "Kevin and Paul Threads The Thorny Path",
+                        "jpn": "ケヴィンとポールのイバラ道"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "710971",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/710971",
+                    "Titles": {
+                        "eng": "Michelle The Tutor",
+                        "jpn": "家庭教師ミシェル"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "710981",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/710981",
+                    "Titles": {
+                        "eng": "Vice Principal's Home Party",
+                        "jpn": "ホームパーティー"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "710991",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/710991",
+                    "Titles": {
+                        "eng": "Ranger, He Is The Man",
+                        "jpn": "レンジャーはんぱねぇ"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "5185668",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/5185668",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ワンモアタイム情事"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "72991",
+            "URL": "https://thetvdb.com/series/the-world-of-golden-eggs/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "711011",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/711011",
+                    "Titles": {
+                        "eng": "Coach's Secret Training",
+                        "jpn": "コーチの秘密特訓"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "711021",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/711021",
+                    "Titles": {
+                        "eng": "Weight Room",
+                        "jpn": "ボディービル部"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "711031",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/711031",
+                    "Titles": {
+                        "eng": "The Manager's Lost Items",
+                        "jpn": "マネージャーの忘れ物"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "711041",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/711041",
+                    "Titles": {
+                        "eng": "Lightning Paul",
+                        "jpn": "ポールにカミナリ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "711051",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/711051",
+                    "Titles": {
+                        "eng": "Robert's Drive",
+                        "jpn": "ロバート先生とドライブ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "711061",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/711061",
+                    "Titles": {
+                        "eng": "Betty and the Ladies Band",
+                        "jpn": "ベティとレディースバンド"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "711071",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/711071",
+                    "Titles": {
+                        "eng": "The Ranger's Gorilla Photograph",
+                        "jpn": "レンジャーのゲリラ撮影"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "711081",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/711081",
+                    "Titles": {
+                        "eng": "My Old Man",
+                        "jpn": "オレの爺ちゃん"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "711091",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/711091",
+                    "Titles": {
+                        "eng": "Zombie Island",
+                        "jpn": "ゾンビ島"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "711101",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/711101",
+                    "Titles": {
+                        "eng": "3 Cats",
+                        "jpn": "3匹のネコ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "711111",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/711111",
+                    "Titles": {
+                        "eng": "Rebecca's Homework",
+                        "jpn": "レベッカの宿題"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "711121",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/711121",
+                    "Titles": {
+                        "eng": "Coach's Mother in Law",
+                        "jpn": "コーチの義母"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "711131",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-world-of-golden-eggs/episodes/711131",
+                    "Titles": {
+                        "eng": "The Cheerleader",
+                        "jpn": "愛しのチアリーダー"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

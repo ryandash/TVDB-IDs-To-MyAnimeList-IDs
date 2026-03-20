@@ -1,0 +1,60 @@
+{
+    "URL": "https://thetvdb.com/series/moekan",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Drama"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/91161"
+    ],
+    "Titles": {
+        "eng": "Moekan",
+        "jpn": "モエかん THE ANIMATION"
+    },
+    "Aliases": [],
+    "Modified": "2024-09-06",
+    "Seasons": {
+        "1": {
+            "ID": "498334",
+            "URL": "https://thetvdb.com/series/moekan/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "4377369",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moekan/episodes/4377369",
+                    "Titles": {
+                        "eng": "Rinia",
+                        "jpn": "リニア"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4377370",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moekan/episodes/4377370",
+                    "Titles": {
+                        "eng": "Kazusa",
+                        "jpn": "かずさ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4377371",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moekan/episodes/4377371",
+                    "Titles": {
+                        "eng": "Takahiro",
+                        "jpn": "貴広"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

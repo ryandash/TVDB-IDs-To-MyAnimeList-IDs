@@ -1,0 +1,949 @@
+{
+    "URL": "https://thetvdb.com/series/star-blazers",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0078692/",
+        "https://www.themoviedb.org/tv/13339"
+    ],
+    "Titles": {
+        "eng": "Star Blazers",
+        "jpn": "宇宙戦艦ヤマト"
+    },
+    "Aliases": [
+        "Uchuu Senkan Yamato",
+        "Space Battleship Yamato",
+        "Uchū Senkan Yamato",
+        "Star Blazers The Comet Empire",
+        "Star Blazers (1974)"
+    ],
+    "Modified": "2026-02-01",
+    "Seasons": {
+        "0": {
+            "ID": "25230",
+            "URL": "https://thetvdb.com/series/star-blazers/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 10,
+            "Episodes": {
+                "1": {
+                    "ID": "376568",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/376568",
+                    "Titles": {
+                        "eng": "Space Battleship Yamato: The Movie",
+                        "jpn": "劇場版 宇宙戦艦ヤマト"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "376569",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/376569",
+                    "Titles": {
+                        "eng": "Farewell to Space Battleship Yamato",
+                        "jpn": "さらば宇宙戦艦ヤマト 愛の戦士たち"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "376570",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/376570",
+                    "Titles": {
+                        "eng": "Yamato: The New Voyage",
+                        "jpn": "宇宙戦艦ヤマト 新たなる旅立ち"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1028801",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/1028801",
+                    "Titles": {
+                        "eng": "Be Forever Yamato",
+                        "jpn": "ヤマトよ永遠に"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "1028811",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/1028811",
+                    "Titles": {
+                        "eng": "Final Yamato",
+                        "jpn": "宇宙戦艦ヤマト 完結編"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4433822",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/4433822",
+                    "Titles": {
+                        "eng": "Space Battleship Yamato: Resurrection",
+                        "jpn": "宇宙戦艦ヤマト 復活篇"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "7272882",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/7272882",
+                    "Titles": {
+                        "eng": "Yamato 2520: Hope For Tomorrow",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "7272884",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/7272884",
+                    "Titles": {
+                        "eng": "Yamato 2520: Launch",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "7272886",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/7272886",
+                    "Titles": {
+                        "eng": "Yamato 2520: Combat",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "7272888",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/7272888",
+                    "Titles": {
+                        "eng": "Space Battleship Yamato (Live Action)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "13572",
+            "URL": "https://thetvdb.com/series/star-blazers/seasons/official/1",
+            "Titles": {
+                "eng": "Quest for Iscandar",
+                "jpn": "宇宙戦艦ヤマト",
+                "ita": "La ricerca di Iskandar",
+                "pt": "A Busca Por Iscandar"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "258178",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258178",
+                    "Titles": {
+                        "eng": "The Battle at Pluto",
+                        "jpn": "SOS地球!!甦れ宇宙戦艦ヤマト"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "258179",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258179",
+                    "Titles": {
+                        "eng": "Carrier Attacks the Sleeping Yamato",
+                        "jpn": "号砲一発!!宇宙戦艦ヤマト始動!!"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "258180",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258180",
+                    "Titles": {
+                        "eng": "Ultra-Menace Missile",
+                        "jpn": "ヤマト発進!!29万6千光年への挑戦!!"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "258181",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258181",
+                    "Titles": {
+                        "eng": "Test Warp to Mars",
+                        "jpn": "驚異の世界!!光を飛び越えたヤマト"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "258182",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258182",
+                    "Titles": {
+                        "eng": "Jupiter's Floating Continent",
+                        "jpn": "浮遊大陸脱出!!危機を呼ぶ波動砲!!"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "258183",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258183",
+                    "Titles": {
+                        "eng": "Paladin",
+                        "jpn": "氷原に眠る宇宙駆逐艦ゆきかぜ!"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "258184",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258184",
+                    "Titles": {
+                        "eng": "The Reflex Gun (1)",
+                        "jpn": "ヤマト沈没!!運命の要塞攻略戦!!"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "258185",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258185",
+                    "Titles": {
+                        "eng": "The Reflex Gun (2)",
+                        "jpn": "決死のヤマト!!反射衛星砲撃破せよ!!"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "258186",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258186",
+                    "Titles": {
+                        "eng": "The Asteroid Ring",
+                        "jpn": "回転防禦!!アステロイド・ベルト!!"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "258187",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258187",
+                    "Titles": {
+                        "eng": "We Will Return",
+                        "jpn": "さらば太陽圏!銀河より愛をこめて!!"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "258188",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258188",
+                    "Titles": {
+                        "eng": "Desslok Mines",
+                        "jpn": "決断!!ガミラス絶対防衛線突入!!"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "258189",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258189",
+                    "Titles": {
+                        "eng": "The Sea of Fire",
+                        "jpn": "絶体絶命!!オリオンの願い星、地獄星"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "258190",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258190",
+                    "Titles": {
+                        "eng": "The Gamilon Pilot",
+                        "jpn": "急げヤマト!!地球は病んでいる!!"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "258191",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258191",
+                    "Titles": {
+                        "eng": "Octopus Star Storm",
+                        "jpn": "銀河の試練!!西暦2200年の発進!!"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "258192",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258192",
+                    "Titles": {
+                        "eng": "Galactic Whirlpool",
+                        "jpn": "必死の逃亡!!異次元のヤマト"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "258193",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258193",
+                    "Titles": {
+                        "eng": "Stop at Beeland",
+                        "jpn": "ビーメラ星、地下牢の死刑囚!!"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "258194",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258194",
+                    "Titles": {
+                        "eng": "Balanosaurus",
+                        "jpn": "突撃!!バラノドン特攻隊"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "258195",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258195",
+                    "Titles": {
+                        "eng": "Magnetron Wave",
+                        "jpn": "浮かぶ要塞島!!たった二人の決死隊!!"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "258196",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258196",
+                    "Titles": {
+                        "eng": "Communication Satellite",
+                        "jpn": "宇宙の望郷!!母の涙は我が涙"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "258197",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258197",
+                    "Titles": {
+                        "eng": "The Artificial Sun",
+                        "jpn": "バラン星に太陽が落下する日!!"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "258198",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258198",
+                    "Titles": {
+                        "eng": "Challenge of the Rainbow Galaxy",
+                        "jpn": "ドメル艦隊!!決死の挑戦状"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "258199",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258199",
+                    "Titles": {
+                        "eng": "The Battle of the Rainbow Galaxy",
+                        "jpn": "決戦!!七色星団の攻防戦!!"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "258200",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258200",
+                    "Titles": {
+                        "eng": "Dragged to Gamilon",
+                        "jpn": "遂に来た!!マゼラン星雲波高し!!"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "258201",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258201",
+                    "Titles": {
+                        "eng": "The Battle of Gamilon",
+                        "jpn": "死闘!!神よガミラスのために泣け!!"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "258202",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258202",
+                    "Titles": {
+                        "eng": "Iscandar",
+                        "jpn": "イスカンダル!!滅びゆくか愛の星よ!!"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "258203",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258203",
+                    "Titles": {
+                        "eng": "The Journey Home",
+                        "jpn": "地球よ!!ヤマトは帰ってきた!!"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "13573",
+            "URL": "https://thetvdb.com/series/star-blazers/seasons/official/2",
+            "Titles": {
+                "eng": "The Comet Empire",
+                "jpn": "宇宙戦艦ヤマト2",
+                "ita": "L'Impero della Cometa",
+                "pt": "O Cometa Império"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "258204",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258204",
+                    "Titles": {
+                        "eng": "Ambush at Jupiter",
+                        "jpn": "2201年ヤマト帰還せよ!"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "258205",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258205",
+                    "Titles": {
+                        "eng": "Blackout",
+                        "jpn": "彗星出現・ヤマトを改造せよ!"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "258206",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258206",
+                    "Titles": {
+                        "eng": "Underground City",
+                        "jpn": "地球の危機に起てヤマト!"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "258207",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258207",
+                    "Titles": {
+                        "eng": "Battle Satellite",
+                        "jpn": "未知への発進!"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "258208",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258208",
+                    "Titles": {
+                        "eng": "Crossing the Andromeda",
+                        "jpn": "主砲全開! 目標ヤマト!!"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "258209",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258209",
+                    "Titles": {
+                        "eng": "At Planet Brumas",
+                        "jpn": "激戦! 空間騎兵隊"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "258210",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258210",
+                    "Titles": {
+                        "eng": "Sub-Space Submarines",
+                        "jpn": "逆襲! 姿なき潜宙艦（スペース・サブ）"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "258211",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258211",
+                    "Titles": {
+                        "eng": "Time Trap",
+                        "jpn": "宇宙気流! 脱出不可能"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "258212",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258212",
+                    "Titles": {
+                        "eng": "Mazor",
+                        "jpn": "突撃! ヤマトを爆沈せよ"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "258213",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258213",
+                    "Titles": {
+                        "eng": "Asteroid Ring Defense Revisited",
+                        "jpn": "危機突破! 吠えろ波動砲"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "258214",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258214",
+                    "Titles": {
+                        "eng": "Starflies",
+                        "jpn": "復讐の鬼・デスラー総統"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "258215",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258215",
+                    "Titles": {
+                        "eng": "The Tunnel Satellite",
+                        "jpn": "ヤマト空洞惑星に死す!?"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "258216",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258216",
+                    "Titles": {
+                        "eng": "The Conspirators Meet",
+                        "jpn": "猛攻! テレザート上陸作戦"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "258217",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258217",
+                    "Titles": {
+                        "eng": "Second Day at Telezart",
+                        "jpn": "反撃! テレサを発見せよ"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "258218",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258218",
+                    "Titles": {
+                        "eng": "Third Day at Telezart",
+                        "jpn": "テレサ・愛のはじまり"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "258219",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258219",
+                    "Titles": {
+                        "eng": "Leaving Telezart",
+                        "jpn": "テレサ・愛と別れ"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "258220",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258220",
+                    "Titles": {
+                        "eng": "A Show of Force",
+                        "jpn": "テレザート・宇宙に散る!"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "258221",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258221",
+                    "Titles": {
+                        "eng": "Desslok's Escape",
+                        "jpn": "決戦・全艦戦闘開始!"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "258222",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258222",
+                    "Titles": {
+                        "eng": "Memorial",
+                        "jpn": "ヤマト・激突ワープ!!"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "258223",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258223",
+                    "Titles": {
+                        "eng": "The Carrier Fleet Battle",
+                        "jpn": "ヤマト・奇襲に賭けろ!"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "258224",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258224",
+                    "Titles": {
+                        "eng": "The Main Fleet Battle",
+                        "jpn": "壮烈・土方艦長の死!"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "258225",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258225",
+                    "Titles": {
+                        "eng": "Stop-Over at Ganymede",
+                        "jpn": "ヤマト・徹底抗戦せよ!"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "258226",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258226",
+                    "Titles": {
+                        "eng": "Desslok's Victory",
+                        "jpn": "宿命の対決!"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "258227",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258227",
+                    "Titles": {
+                        "eng": "Desslok's Turning",
+                        "jpn": "死闘 二人の勇士!"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "258228",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258228",
+                    "Titles": {
+                        "eng": "The Final Battle",
+                        "jpn": "ヤマト 都市帝国攻略作戦"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "258229",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258229",
+                    "Titles": {
+                        "eng": "Argo, Make Us Proud!",
+                        "jpn": "ヤマトよ永遠（とわ）に"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "13574",
+            "URL": "https://thetvdb.com/series/star-blazers/seasons/official/3",
+            "Titles": {
+                "eng": "The Bolar Wars",
+                "jpn": "宇宙戦艦ヤマトIII",
+                "ita": "Le guerre di Polar",
+                "pt": "A Guerra Bolar"
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "258230",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258230",
+                    "Titles": {
+                        "eng": "Solar System Faces Destruction",
+                        "jpn": "太陽系の破滅"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "258231",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258231",
+                    "Titles": {
+                        "eng": "Great Battle in the Silver Stream (Milky Way)",
+                        "jpn": "銀河系大戦"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "258232",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258232",
+                    "Titles": {
+                        "eng": "Star Force Embarks at Dawn",
+                        "jpn": "ヤマト暁の発進"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "258233",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258233",
+                    "Titles": {
+                        "eng": "Shoot for Planet Mars",
+                        "jpn": "あの火星を撃て"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "258234",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258234",
+                    "Titles": {
+                        "eng": "S.O.S. Legendra!",
+                        "jpn": "SOS! ラジェンドラ号"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "258235",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258235",
+                    "Titles": {
+                        "eng": "Great Battle Near Planet Brumus",
+                        "jpn": "激闘! 11番惑星空域"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "258236",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258236",
+                    "Titles": {
+                        "eng": "The Rough Seas of Alpha Centauri",
+                        "jpn": "アルファ星波高し"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "258237",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258237",
+                    "Titles": {
+                        "eng": "The Last Pioneer",
+                        "jpn": "最後の開拓者"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "258238",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258238",
+                    "Titles": {
+                        "eng": "Battle at Barnard's Star",
+                        "jpn": "バーナード星の決闘"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "258239",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258239",
+                    "Titles": {
+                        "eng": "Dagon's New Fleet Counter-Attacks",
+                        "jpn": "ダゴン新鋭艦隊の反撃"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "258240",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258240",
+                    "Titles": {
+                        "eng": "Star Force Faces Danger at Cygnus",
+                        "jpn": "ヤマト危し! 魔の白鳥座星域"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "258241",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258241",
+                    "Titles": {
+                        "eng": "Stellar Prison Camp",
+                        "jpn": "宇宙の流刑地"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "258242",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258242",
+                    "Titles": {
+                        "eng": "Dreadful Bolar Federation",
+                        "jpn": "恐るべし! ボラー連邦"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "258243",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258243",
+                    "Titles": {
+                        "eng": "Subspace Submarine Captain: Galman Wolf",
+                        "jpn": "次元潜航艇ガルマンウルフ"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "258244",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258244",
+                    "Titles": {
+                        "eng": "Star Force Becomes a Prisoner",
+                        "jpn": "ヤマト捕わる!!"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "258245",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258245",
+                    "Titles": {
+                        "eng": "Festive Day for Desslok",
+                        "jpn": "デスラーの祝日"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "258246",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258246",
+                    "Titles": {
+                        "eng": "Desslok's Empire in the Moment of Crisis",
+                        "jpn": "デスラー帝国危機一髪"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "258247",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258247",
+                    "Titles": {
+                        "eng": "The Angry Sun",
+                        "jpn": "怒る太陽"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "258248",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258248",
+                    "Titles": {
+                        "eng": "On the Way to Planet Phantom",
+                        "jpn": "惑星ファンタムへの道"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "258249",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258249",
+                    "Titles": {
+                        "eng": "Planet Phantom",
+                        "jpn": "幻の惑星"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "258250",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258250",
+                    "Titles": {
+                        "eng": "Lost Hope",
+                        "jpn": "打ち砕かれた希望"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "258251",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258251",
+                    "Titles": {
+                        "eng": "Farewell Planet Phantom",
+                        "jpn": "さらば 夢の星よ"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "258252",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258252",
+                    "Titles": {
+                        "eng": "Battle at the Scalageck Star Cluster",
+                        "jpn": "激戦! スカラゲック海峡星団"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "258253",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258253",
+                    "Titles": {
+                        "eng": "The Secret of Planet Guardiana",
+                        "jpn": "シャルバート星の秘密"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "258254",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/star-blazers/episodes/258254",
+                    "Titles": {
+                        "eng": "Star Force, Shoot That Sun!",
+                        "jpn": "ヤマト あの太陽を撃て!"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

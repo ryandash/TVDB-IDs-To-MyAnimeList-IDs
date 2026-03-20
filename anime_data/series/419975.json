@@ -1,0 +1,79 @@
+{
+    "URL": "https://thetvdb.com/series/oni-thunder-gods-tale",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Family",
+        "Fantasy",
+        "Mini-Series",
+        "Mystery"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt9894516/",
+        "https://www.netflix.com/title/81028343",
+        "https://www.themoviedb.org/tv/201213",
+        "https://www.themoviedb.org/tv/201213"
+    ],
+    "Titles": {
+        "eng": "Oni: Thunder God's Tale",
+        "jpn": null
+    },
+    "Aliases": [
+        "ONI"
+    ],
+    "Modified": "2025-06-18",
+    "Seasons": {
+        "1": {
+            "ID": "1999903",
+            "URL": "https://thetvdb.com/series/oni-thunder-gods-tale/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "9227083",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/oni-thunder-gods-tale/episodes/9227083",
+                    "Titles": {
+                        "eng": "Onari's Kushi Power",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9412157",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/oni-thunder-gods-tale/episodes/9412157",
+                    "Titles": {
+                        "eng": "The Mighty Storm Gods",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9412158",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/oni-thunder-gods-tale/episodes/9412158",
+                    "Titles": {
+                        "eng": "The Truth",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9412159",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/oni-thunder-gods-tale/episodes/9412159",
+                    "Titles": {
+                        "eng": "The Demon Moon Rises",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

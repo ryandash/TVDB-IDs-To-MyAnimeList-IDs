@@ -1,0 +1,95 @@
+{
+    "URL": "https://thetvdb.com/series/looking-up-at-the-half-moon",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1281341/",
+        "https://www.themoviedb.org/tv/34746"
+    ],
+    "Titles": {
+        "eng": "Looking Up At The Half-Moon",
+        "jpn": "半分の月がのぼる空"
+    },
+    "Aliases": [
+        "Hanbun no Tsuki ga Noboru Sora"
+    ],
+    "Modified": "2025-05-27",
+    "Seasons": {
+        "1": {
+            "ID": "32603",
+            "URL": "https://thetvdb.com/series/looking-up-at-the-half-moon/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "367863",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/looking-up-at-the-half-moon/episodes/367863",
+                    "Titles": {
+                        "eng": "Akiko-san, the Girl and Akutagawa Ryuunosuke",
+                        "jpn": "亜希子さんと少女と芥川龍之介"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "367864",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/looking-up-at-the-half-moon/episodes/367864",
+                    "Titles": {
+                        "eng": "Inheritance of the Tada Collection",
+                        "jpn": "多田コレクションの相続"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "367865",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/looking-up-at-the-half-moon/episodes/367865",
+                    "Titles": {
+                        "eng": "Ezaki Collection's demise and...",
+                        "jpn": "戎崎コレクションの終焉～そして"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "367866",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/looking-up-at-the-half-moon/episodes/367866",
+                    "Titles": {
+                        "eng": "Only One Day of School Life",
+                        "jpn": "一日だけのスクールライフ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "367867",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/looking-up-at-the-half-moon/episodes/367867",
+                    "Titles": {
+                        "eng": "The One Minute Which Has Been Stopped",
+                        "jpn": "とめられた一分"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "367868",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/looking-up-at-the-half-moon/episodes/367868",
+                    "Titles": {
+                        "eng": "As For Our Both Hands",
+                        "jpn": "僕たちの両手は"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

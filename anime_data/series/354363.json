@@ -1,0 +1,79 @@
+{
+    "URL": "https://thetvdb.com/series/hiyokoi",
+    "Genres": [
+        "Animation"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/103574"
+    ],
+    "Titles": {
+        "eng": "Hiyokoi",
+        "jpn": "ひよ恋"
+    },
+    "Aliases": [],
+    "Modified": "2025-05-28",
+    "Seasons": {
+        "0": {
+            "ID": "783074",
+            "URL": "https://thetvdb.com/series/hiyokoi/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "8893288",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hiyokoi/episodes/8893288",
+                    "Titles": {
+                        "eng": "Return to School & First Meeting",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8893289",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hiyokoi/episodes/8893289",
+                    "Titles": {
+                        "eng": "Competition & Chocolate",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8893290",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hiyokoi/episodes/8893290",
+                    "Titles": {
+                        "eng": "Watching Fireworks at a Festival",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "783075",
+            "URL": "https://thetvdb.com/series/hiyokoi/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "6869320",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hiyokoi/episodes/6869320",
+                    "Titles": {
+                        "eng": "OAD",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

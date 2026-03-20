@@ -1,0 +1,541 @@
+{
+    "URL": "https://thetvdb.com/series/blue-seed",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0111897/",
+        "https://www.themoviedb.org/tv/12634"
+    ],
+    "Titles": {
+        "eng": "Blue Seed",
+        "jpn": "BLUE SEED"
+    },
+    "Aliases": [
+        "ブルーシード"
+    ],
+    "Modified": "2026-01-10",
+    "Seasons": {
+        "0": {
+            "ID": "24153",
+            "URL": "https://thetvdb.com/series/blue-seed/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 19,
+            "Episodes": {
+                "1": {
+                    "ID": "431228",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/431228",
+                    "Titles": {
+                        "eng": "Mission: Eradicate Kushinada, Operation Mitama, Phase I",
+                        "jpn": "奇稲田封滅作戦 OPERATION MITAMA PHASE1"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "431229",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/431229",
+                    "Titles": {
+                        "eng": "Mission: Eradicate Kushinada, Operation Mitama, Phase II",
+                        "jpn": "奇稲田封滅作戦 OPERATION MITAMA PHASE2"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "431230",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/431230",
+                    "Titles": {
+                        "eng": "Six Babes Bathing in a Killer Hot Springs",
+                        "jpn": "美人OL6人旅 秘湯大爆破"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "431232",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/431232",
+                    "Titles": {
+                        "eng": "The Man Who Watches the Kushinada",
+                        "jpn": "BLUE SEED OMAKE THEATER 奇稲田を見守る男"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "431234",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/431234",
+                    "Titles": {
+                        "eng": "Blue Seed Living Room Theater",
+                        "jpn": "BLUE SEED OMAKE THEATER B.S お茶の間劇場"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "431237",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/431237",
+                    "Titles": {
+                        "eng": "X-File: In Case of Kunikida",
+                        "jpn": "BLUE SEED OMAKE THEATER X-FILE ～国木田のばやい～"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "431239",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/431239",
+                    "Titles": {
+                        "eng": "Go! Animation Girl!",
+                        "jpn": "BLUE SEED OMAKE THEATER 進め!動画少女"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "431240",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/431240",
+                    "Titles": {
+                        "eng": "On A Rainy Day",
+                        "jpn": "BLUE SEED OMAKE THEATER 雨の日に…"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "431241",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/431241",
+                    "Titles": {
+                        "eng": "Jong Jong Mahjong",
+                        "jpn": "BLUE SEED OMAKE THEATER ジャジャンとマージャン!"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "431242",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/431242",
+                    "Titles": {
+                        "eng": "Festival Night",
+                        "jpn": "BLUE SEED OMAKE THEATER FESTIVAL NIGHT"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "431243",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/431243",
+                    "Titles": {
+                        "eng": "Kunikida Ker-woosh!",
+                        "jpn": "BLUE SEED OMAKE THEATER 国木田どっぽーん"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "431244",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/431244",
+                    "Titles": {
+                        "eng": "The Day of Sugishita",
+                        "jpn": "BLUE SEED OMAKE THEATER THE DAY OF SUGISHITA"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "431245",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/431245",
+                    "Titles": {
+                        "eng": "Susano-oh, Oh NO!",
+                        "jpn": "BLUE SEED OMAKE THEATER スサノオ・オー・ノー!"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "431249",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/431249",
+                    "Titles": {
+                        "eng": "Blue Seed, The Biggest Battle on Earth!!",
+                        "jpn": "BLUE SEED OMAKE THEATER BLUE SEED 奇稲田・荒神・式神　地球最大の決戦　予告篇"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "431251",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/431251",
+                    "Titles": {
+                        "eng": "Grandma Go! Go!",
+                        "jpn": "BLUE SEED OMAKE THEATER ごいんきょGoGo!"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "431252",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/431252",
+                    "Titles": {
+                        "eng": "The Matsudaira Report",
+                        "jpn": "BLUE SEED OMAKE THEATER 松平レポート ～草薙護の生態について～"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "431272",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/431272",
+                    "Titles": {
+                        "eng": "Dancing Little Love",
+                        "jpn": "BLUE SEED OMAKE THEATER DANCING LITTLE LOVE"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4594353",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/4594353",
+                    "Titles": {
+                        "eng": "Blue Seed 1.5.1",
+                        "jpn": "BLUE SEED Ver1.5紅葉編"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4594355",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/4594355",
+                    "Titles": {
+                        "eng": "Blue Seed 1.5.2",
+                        "jpn": "BLUE SEED Ver1.5草薙編"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "11125",
+            "URL": "https://thetvdb.com/series/blue-seed/seasons/official/1",
+            "Titles": {
+                "eng": "Blue Seed",
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "208038",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208038",
+                    "Titles": {
+                        "eng": "Kushinada",
+                        "jpn": "奇稲田姫"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "208039",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208039",
+                    "Titles": {
+                        "eng": "It's Cruel! It's Mysterious! It's My Destiny!",
+                        "jpn": "謎です！ 酷です！ 私の運命！！"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "208040",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208040",
+                    "Titles": {
+                        "eng": "It's Spring, It's the Capital, I'll Do My Best!",
+                        "jpn": "春です！ 首都です！ 頑張らなくちゃ！！"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "208041",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208041",
+                    "Titles": {
+                        "eng": "More Bad Luck? Why Does This Always Happen to Me?",
+                        "jpn": "どーして？ サイアク！ 私は大凶？！"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "208042",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208042",
+                    "Titles": {
+                        "eng": "Surprise! She's the Mother of Science!",
+                        "jpn": "オドロキ！ 松の木！ 科学なママです！！"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "208043",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208043",
+                    "Titles": {
+                        "eng": "Complicated and Hard to Understand! Being a Man Puts You in Such a Difficult...",
+                        "jpn": "フクザツ！ 難解！ 男はつらいね？！"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "208044",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208044",
+                    "Titles": {
+                        "eng": "I'm Fired Up! I'll Do It! Because I'm the Kushinada!",
+                        "jpn": "燃えます！ やります！ 奇稲田だもん！！"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "208045",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208045",
+                    "Titles": {
+                        "eng": "What? How Strange! A Rival Appears!",
+                        "jpn": "何なの！ 変なの♥ ライバル登場？！"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "208046",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208046",
+                    "Titles": {
+                        "eng": "Are You Serious? Is This a Dream?! An Exciting Date!",
+                        "jpn": "マジなの？！ 夢なの？！ ドキドキデート！！"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "208047",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208047",
+                    "Titles": {
+                        "eng": "Innocence! Love! My First Kiss?!",
+                        "jpn": "純です！ 愛です！ ファーストキッス？！"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "208048",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208048",
+                    "Titles": {
+                        "eng": "Irritating! Jealous?! Unbelievable!",
+                        "jpn": "ヤキモキ！ ヤキモチ？！ アンビリーバボー！！"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "208049",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208049",
+                    "Titles": {
+                        "eng": "Can You Feel It? I Can't Ignore It! An Ominous Premonition of Catastrophe!",
+                        "jpn": "感じる？！ 気になる！ 破局の予感！！"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "208050",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208050",
+                    "Titles": {
+                        "eng": "I Love You! This Is Extreme! It's Time to Confess!",
+                        "jpn": "好きです！ 究極！ 告白タイム？！"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "208051",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208051",
+                    "Titles": {
+                        "eng": "A Chase Down Yamato Highway! Love Under Fire!!!",
+                        "jpn": "追います！ 大和路！ 恋の乱れ撃ち！！"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "208052",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208052",
+                    "Titles": {
+                        "eng": "Lost and Trembling on a Trip to Michinoku!",
+                        "jpn": "戸惑い ゆらめき みちのく紀行"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "208053",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208053",
+                    "Titles": {
+                        "eng": "Japan Is a Paradise! Tears in Wakasa!",
+                        "jpn": "日本[やまと]よ まほろば 嘆きの若狭"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "208054",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208054",
+                    "Titles": {
+                        "eng": "Let It Bloom, Japan! A Blizzard of One-Sided Love!!",
+                        "jpn": "咲かせて！ 日本！ 片恋吹雪！！"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "208055",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208055",
+                    "Titles": {
+                        "eng": "Geez! Oh, Man! Sakura's Not Good Enough?!",
+                        "jpn": "ジーザス！！ ガッデム！！ 桜は未熟？！"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "208056",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208056",
+                    "Titles": {
+                        "eng": "Heat Haze! Love, Start on a Journey! I Won't Be Far From You!",
+                        "jpn": "陽炎 旅立ち 愛、離れない！"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "208057",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208057",
+                    "Titles": {
+                        "eng": "I'm Home! Izumo! The Prologue of Hope!",
+                        "jpn": "ただいま！ 出雲[ふるさと]！ 希望の序章！！"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "208058",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208058",
+                    "Titles": {
+                        "eng": "Good Bye? No Way! A Tearful Farewell?",
+                        "jpn": "さよなら？ いやです！ 涙のわかれ？！"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "208059",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208059",
+                    "Titles": {
+                        "eng": "Sadness! Fate! Momiji Kushinada!",
+                        "jpn": "悲しみ 運命 奇稲田紅葉"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "208060",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208060",
+                    "Titles": {
+                        "eng": "Meeting Again! Starting the Journey! I Won't Lose!",
+                        "jpn": "再会 出発[たびだち] 私負けないっ！"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "208061",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208061",
+                    "Titles": {
+                        "eng": "The Setting Sun! The Coming Day! A Private Time for Each of Us!",
+                        "jpn": "沈む陽 迫る日 それぞれの時"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "208062",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208062",
+                    "Titles": {
+                        "eng": "All or Nothing! Decision! My Fate!",
+                        "jpn": "賭けます！ 決めます！ 私の運命！！"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "208063",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/208063",
+                    "Titles": {
+                        "eng": "New Soul!",
+                        "jpn": "新魂[あらたま]"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "2222439",
+            "URL": "https://thetvdb.com/series/blue-seed/seasons/official/2",
+            "Titles": {
+                "eng": "Blue Seed Beyond",
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "10261216",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/10261216",
+                    "Titles": {
+                        "eng": "Mission: Eradicate Kushinada, Operation MITAMA PHASE 1",
+                        "jpn": "奇稲田封滅作戦 Operation MITAMA PHASE 1"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10261217",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/10261217",
+                    "Titles": {
+                        "eng": "Mission: Eradicate Kushinada, Operation MITAMA PHASE 2",
+                        "jpn": "奇稲田封滅作戦 Operation MITAMA PHASE 2"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10261218",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/blue-seed/episodes/10261218",
+                    "Titles": {
+                        "eng": "Six Babes on a Trip, Big Explosion in a Secret Hotspring",
+                        "jpn": "美人OL6人旅 秘湯大爆破"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

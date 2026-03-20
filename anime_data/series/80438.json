@@ -1,0 +1,143 @@
+{
+    "URL": "https://thetvdb.com/series/rec",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0807834/",
+        "https://www.themoviedb.org/tv/34195"
+    ],
+    "Titles": {
+        "eng": "Rec",
+        "jpn": "●REC"
+    },
+    "Aliases": [],
+    "Modified": "2026-02-28",
+    "Seasons": {
+        "0": {
+            "ID": "28173",
+            "URL": "https://thetvdb.com/series/rec/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "1693641",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rec/episodes/1693641",
+                    "Titles": {
+                        "eng": "The Unforgiven",
+                        "jpn": "7.5話 『許されざる者』"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "28174",
+            "URL": "https://thetvdb.com/series/rec/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 9,
+            "Episodes": {
+                "1": {
+                    "ID": "333360",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rec/episodes/333360",
+                    "Titles": {
+                        "eng": "Roman Holiday",
+                        "jpn": "ローマの休日"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "333361",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rec/episodes/333361",
+                    "Titles": {
+                        "eng": "Sabrina Fair",
+                        "jpn": "麗しのサブリナ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "333362",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rec/episodes/333362",
+                    "Titles": {
+                        "eng": "Wait Until Dark",
+                        "jpn": "暗くなるまで待って"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "333363",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rec/episodes/333363",
+                    "Titles": {
+                        "eng": "Breakfast at Tiffany's",
+                        "jpn": "ティファニーで朝食を"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "333364",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rec/episodes/333364",
+                    "Titles": {
+                        "eng": "Love in the Afternoon",
+                        "jpn": "昼下がりの情事"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "333365",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rec/episodes/333365",
+                    "Titles": {
+                        "eng": "The Children's Hour",
+                        "jpn": "噂の二人"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "333366",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rec/episodes/333366",
+                    "Titles": {
+                        "eng": "War and Peace",
+                        "jpn": "戦争と平和"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "333368",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rec/episodes/333368",
+                    "Titles": {
+                        "eng": "My Fair Lady",
+                        "jpn": "マイ・フェア・レディ"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "333369",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rec/episodes/333369",
+                    "Titles": {
+                        "eng": "Two for the Road",
+                        "jpn": "いつも２人で"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

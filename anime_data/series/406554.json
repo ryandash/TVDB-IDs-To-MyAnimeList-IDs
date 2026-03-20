@@ -1,0 +1,106 @@
+{
+    "URL": "https://thetvdb.com/series/rurouni-kenshin-trust-and-betrayal",
+    "Genres": [
+        "Sword and Sandal"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0203082/",
+        "https://www.themoviedb.org/tv/129151"
+    ],
+    "Titles": {
+        "eng": "Rurouni Kenshin: Trust & Betrayal",
+        "jpn": "るろうに剣心 －明治剣客浪漫譚－ 追憶編"
+    },
+    "Aliases": [
+        "Rurouni Kenshin: Tsuioku-hen",
+        "るろうに剣心 追憶編",
+        "Rurouni Kenshin: Recollection or Reminiscence",
+        "Samurai X: Trust & Betrayal",
+        "Rurouni Kenshin: Trust and Betrayal"
+    ],
+    "Modified": "2026-01-12",
+    "Seasons": {
+        "0": {
+            "ID": "1941611",
+            "URL": "https://thetvdb.com/series/rurouni-kenshin-trust-and-betrayal/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "10408144",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/rurouni-kenshin-trust-and-betrayal/episodes/10408144",
+                    "Titles": {
+                        "eng": "Tokubetsu Han",
+                        "jpn": "Tokubetsu Han"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11256833",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/rurouni-kenshin-trust-and-betrayal/episodes/11256833",
+                    "Titles": {
+                        "eng": "Rurouni Kenshin: Trust & Betrayal Director's Cut",
+                        "jpn": "Rurouni Kenshin: Trust & Betrayal Director`s Cut"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "1941612",
+            "URL": "https://thetvdb.com/series/rurouni-kenshin-trust-and-betrayal/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "8553724",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rurouni-kenshin-trust-and-betrayal/episodes/8553724",
+                    "Titles": {
+                        "eng": "Act 1 - The Man of the Slashing Sword",
+                        "jpn": "斬る男"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8553725",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rurouni-kenshin-trust-and-betrayal/episodes/8553725",
+                    "Titles": {
+                        "eng": "Act 2 - The Lost Cat",
+                        "jpn": "迷い猫"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8553726",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rurouni-kenshin-trust-and-betrayal/episodes/8553726",
+                    "Titles": {
+                        "eng": "Act 3 - The Previous Night at the Mountain Home",
+                        "jpn": "宵里山"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "8553727",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rurouni-kenshin-trust-and-betrayal/episodes/8553727",
+                    "Titles": {
+                        "eng": "Act 4 - The Cross-Shaped Wound",
+                        "jpn": "十字傷"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -342,7 +342,7 @@ def build_titles_to_try(main_eng, main_jpn, series_eng, series_jpn):
 # Mapping
 # ----------------------
 
-movies_json = "mapped-tvdb-ids-movies.json"
+movies_json = "mapped-tvdb-ids-movie.json"
 series_json = "mapped-tvdb-ids-series.json"
 season_json = "mapped-tvdb-ids-seasons.json"
 episode_json = "mapped-tvdb-ids-episodes.json"
@@ -609,7 +609,7 @@ async def map_anime():
         all_unmapped_episodes.extend(unmapped_episodes)
 
         print(f"\nMapped series: {len(mapped_series)} mapped seasons: {len(mapped_seasons)} mapped episodes: {len(mapped_episodes)}")
-        print(f"\nUnmapped series/Movies: {len(unmapped_series)} unmapped seasons: {len(unmapped_seasons)} unmapped episodes: {len(unmapped_episodes)}")
+        print(f"\nUnmapped series/movies: {len(unmapped_series)} unmapped seasons: {len(unmapped_seasons)} unmapped episodes: {len(unmapped_episodes)}")
         
 
     with open("unmapped-series.json", "wb") as f:

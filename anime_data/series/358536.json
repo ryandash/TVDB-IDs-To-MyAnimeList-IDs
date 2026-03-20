@@ -1,0 +1,63 @@
+{
+    "URL": "https://thetvdb.com/series/beat-angel-escalayer",
+    "Genres": [
+        "Adaptation",
+        "Adult Animation",
+        "Superhero"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt13609702/",
+        "https://www.pinkpineapple.co.jp/detail.php?did=215",
+        "https://www.themoviedb.org/tv/85100",
+        "https://www.wikidata.org/wiki/Q4034944"
+    ],
+    "Titles": {
+        "eng": "Beat Angel Escalayer",
+        "jpn": "超昂天使エスカレイヤー"
+    },
+    "Aliases": [],
+    "Modified": "2025-07-16",
+    "Seasons": {
+        "1": {
+            "ID": "794981",
+            "URL": "https://thetvdb.com/series/beat-angel-escalayer/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "7002593",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/beat-angel-escalayer/episodes/7002593",
+                    "Titles": {
+                        "eng": "Doki Doki Dynamo, Charge Complete!",
+                        "jpn": "DDダイナモチャージ完了"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7002596",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/beat-angel-escalayer/episodes/7002596",
+                    "Titles": {
+                        "eng": "Assassin from Dielast",
+                        "jpn": "ダイラストからの刺客!"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7002600",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/beat-angel-escalayer/episodes/7002600",
+                    "Titles": {
+                        "eng": "Counter-Attack",
+                        "jpn": "カウンターアタック"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

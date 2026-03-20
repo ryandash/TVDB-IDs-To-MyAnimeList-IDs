@@ -1,0 +1,365 @@
+{
+    "URL": "https://thetvdb.com/series/battle-athletes-victory",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Science Fiction",
+        "Sport"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0195542/",
+        "https://www.themoviedb.org/tv/94196"
+    ],
+    "Titles": {
+        "eng": "Battle Athletes Victory",
+        "jpn": "バトルアスリーテス 大運動会"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-14",
+    "Seasons": {
+        "0": {
+            "ID": "531732",
+            "URL": "https://thetvdb.com/series/battle-athletes-victory/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "99720",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99720",
+                    "Titles": {
+                        "eng": "Mission One, Chronicle Beginning",
+                        "jpn": "年代記の始まり"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "99721",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99721",
+                    "Titles": {
+                        "eng": "Mission Two, Oath Entrant",
+                        "jpn": "誓いの新入生"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "99722",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99722",
+                    "Titles": {
+                        "eng": "Mission Three, Screaming Advance",
+                        "jpn": "驚きの進歩"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "99723",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99723",
+                    "Titles": {
+                        "eng": "Mission Four, Match Unexpected",
+                        "jpn": "思いがけない好敵手"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "99724",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99724",
+                    "Titles": {
+                        "eng": "Mission Five, Objective Tension",
+                        "jpn": "目標への努力"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "99725",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99725",
+                    "Titles": {
+                        "eng": "Mission Six, Stage Yonder",
+                        "jpn": "舞台の向こうに…"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "4781",
+            "URL": "https://thetvdb.com/series/battle-athletes-victory/seasons/official/1",
+            "Titles": {
+                "eng": "Battle Athletes Victory",
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "99726",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99726",
+                    "Titles": {
+                        "eng": "Ready Go!",
+                        "jpn": "よういどん"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "99727",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99727",
+                    "Titles": {
+                        "eng": "Kowloon's Attack!",
+                        "jpn": "クーロンズ・アタック"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "99728",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99728",
+                    "Titles": {
+                        "eng": "The Night of Woong-A-Ji",
+                        "jpn": "ンガジの夜"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "99729",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99729",
+                    "Titles": {
+                        "eng": "My Rival",
+                        "jpn": "マイライバル"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "99730",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99730",
+                    "Titles": {
+                        "eng": "Arrogance",
+                        "jpn": "傲慢"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "99731",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99731",
+                    "Titles": {
+                        "eng": "The Return Home",
+                        "jpn": "帰還"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "99732",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99732",
+                    "Titles": {
+                        "eng": "Lamentation",
+                        "jpn": "慟哭"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "99733",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99733",
+                    "Titles": {
+                        "eng": "The Sinking Talent",
+                        "jpn": "沈みゆく才能"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "99734",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99734",
+                    "Titles": {
+                        "eng": "The Thing on the Other Side",
+                        "jpn": "その向こう側にあるもの"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "99735",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99735",
+                    "Titles": {
+                        "eng": "The Promise Resurrected",
+                        "jpn": "蘇る約束"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "99736",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99736",
+                    "Titles": {
+                        "eng": "Girl Meets Girls",
+                        "jpn": "ガール・ミーツ・ガールズ"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "99737",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99737",
+                    "Titles": {
+                        "eng": "There Go the Three!",
+                        "jpn": "３匹が行く！"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "99738",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99738",
+                    "Titles": {
+                        "eng": "There Go the Three Again!",
+                        "jpn": "続・三匹が行く！"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "99739",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99739",
+                    "Titles": {
+                        "eng": "Three New Animals Go!",
+                        "jpn": "新・三匹が行く！"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "99741",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99741",
+                    "Titles": {
+                        "eng": "Light",
+                        "jpn": "光"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "99743",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99743",
+                    "Titles": {
+                        "eng": "Shadows",
+                        "jpn": "闇"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "99745",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99745",
+                    "Titles": {
+                        "eng": "I'm Sorry",
+                        "jpn": "ごめんなさい"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "99747",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99747",
+                    "Titles": {
+                        "eng": "Reason to Fight",
+                        "jpn": "戦う理由"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "99749",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99749",
+                    "Titles": {
+                        "eng": "From Heart, To Heart",
+                        "jpn": "フロム・ハート トゥ・ハート"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "99750",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99750",
+                    "Titles": {
+                        "eng": "Friend",
+                        "jpn": "ともだち"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "99740",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99740",
+                    "Titles": {
+                        "eng": "Save the Last Dance for Me",
+                        "jpn": "ラストダンスは私に"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "99742",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99742",
+                    "Titles": {
+                        "eng": "Farewell and Introductions",
+                        "jpn": "さよなら、こんにちは"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "99744",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99744",
+                    "Titles": {
+                        "eng": "Day of Resurrection",
+                        "jpn": "復活の日"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "99746",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99746",
+                    "Titles": {
+                        "eng": "Cultural Catastrophe",
+                        "jpn": "民族の災典"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "99748",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99748",
+                    "Titles": {
+                        "eng": "Oh God! The Evil Trap of the Nerilians",
+                        "jpn": "神よ泣け！ネリリ星人のひどい罠！"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "99751",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-athletes-victory/episodes/99751",
+                    "Titles": {
+                        "eng": "Goal!",
+                        "jpn": "ごぉるいん"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

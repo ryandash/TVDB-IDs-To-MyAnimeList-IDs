@@ -1,0 +1,62 @@
+{
+    "URL": "https://thetvdb.com/series/saber-marionette-r",
+    "Genres": [
+        "Action",
+        "Anime",
+        "Comedy",
+        "Martial Arts",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/28442"
+    ],
+    "Titles": {
+        "eng": "Saber Marionette R",
+        "jpn": "SMガールズ セイバーマリオネットR"
+    },
+    "Aliases": [],
+    "Modified": "2025-05-27",
+    "Seasons": {
+        "1": {
+            "ID": "33918",
+            "URL": "https://thetvdb.com/series/saber-marionette-r/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "377111",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/saber-marionette-r/episodes/377111",
+                    "Titles": {
+                        "eng": "Act 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "377112",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/saber-marionette-r/episodes/377112",
+                    "Titles": {
+                        "eng": "Act 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "377113",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/saber-marionette-r/episodes/377113",
+                    "Titles": {
+                        "eng": "Act 3",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

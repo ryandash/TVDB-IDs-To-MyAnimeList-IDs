@@ -1,0 +1,89 @@
+{
+    "URL": "https://thetvdb.com/series/345629-show",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0220381/",
+        "https://www.themoviedb.org/tv/83704"
+    ],
+    "Titles": {
+        "eng": "Hyper Combat Unit Dangaioh",
+        "jpn": "破邪大星ダンガイオー"
+    },
+    "Aliases": [
+        "Dangaioh",
+        "Dangaio",
+        "Haja Taisei Dangaiou"
+    ],
+    "Modified": "2025-06-05",
+    "Seasons": {
+        "0": {
+            "ID": "759450",
+            "URL": "https://thetvdb.com/series/345629-show/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "10586121",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/345629-show/episodes/10586121",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Dangaioh Hyper Combat"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "759451",
+            "URL": "https://thetvdb.com/series/345629-show/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "6635462",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/345629-show/episodes/6635462",
+                    "Titles": {
+                        "eng": "Cross Fight!!",
+                        "jpn": "クロス・ファイト!!"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6635463",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/345629-show/episodes/6635463",
+                    "Titles": {
+                        "eng": "Spiral Knuckles in Tears",
+                        "jpn": "涙のスパイラルナックル"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6635464",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/345629-show/episodes/6635464",
+                    "Titles": {
+                        "eng": "The Demonic Revenge of Gil Berg",
+                        "jpn": "復讐鬼ギル・バーグ"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

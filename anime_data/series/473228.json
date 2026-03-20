@@ -1,0 +1,45 @@
+{
+    "URL": "https://thetvdb.com/series/nippon-sangoku",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt40548519/",
+        "https://www.nipponsangoku.com/",
+        "https://www.themoviedb.org/tv/312474",
+        "https://www.wikidata.org/wiki/Q137909552",
+        "https://en.wikipedia.org/wiki/Nippon_Sangoku#Anime",
+        "https://x.com/sangoku_PR"
+    ],
+    "Titles": {
+        "eng": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
+        "jpn": "日本三國"
+    },
+    "Aliases": [
+        "Nippon Sangoku"
+    ],
+    "Modified": "2026-03-10",
+    "Seasons": {
+        "1": {
+            "ID": "2230016",
+            "URL": "https://thetvdb.com/series/nippon-sangoku/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11580609",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nippon-sangoku/episodes/11580609",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,859 @@
+{
+    "URL": "https://thetvdb.com/series/kimba-the-white-lion",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0058817/",
+        "https://www.themoviedb.org/tv/8853"
+    ],
+    "Titles": {
+        "eng": "Kimba the White Lion",
+        "jpn": "ジャングル大帝"
+    },
+    "Aliases": [
+        "Go Ahead Leo!",
+        "Jungle Emperor Leo",
+        "Jungle Taitei",
+        "New Jungle Emperor, Go Ahead Leo!",
+        "ジャングル大帝・進めレオ"
+    ],
+    "Modified": "2025-03-15",
+    "Seasons": {
+        "0": {
+            "ID": "30664",
+            "URL": "https://thetvdb.com/series/kimba-the-white-lion/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "5821046",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/5821046",
+                    "Titles": {
+                        "eng": "Jungle Emperor Leo: The Movie",
+                        "jpn": "ジャングル大帝 劇場版"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5821047",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/5821047",
+                    "Titles": {
+                        "eng": "The Brave Can Change the Future",
+                        "jpn": "ジャングル大帝 -勇気が未来をかえる-"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "30665",
+            "URL": "https://thetvdb.com/series/kimba-the-white-lion/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": "ジャングル大帝",
+                "ita": "Il grande imperatore della giungla"
+            },
+            "# Episodes": 52,
+            "Episodes": {
+                "1": {
+                    "ID": "351992",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/351992",
+                    "Titles": {
+                        "eng": "Go, White Lion!",
+                        "jpn": "行けパンジャの子"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "351993",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/351993",
+                    "Titles": {
+                        "eng": "The Wind in the Desert",
+                        "jpn": "砂漠の風"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "351994",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/351994",
+                    "Titles": {
+                        "eng": "A Human Friend",
+                        "jpn": "動物学校"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "351995",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/351995",
+                    "Titles": {
+                        "eng": "Great Caesar's Ghost",
+                        "jpn": "猛牛サムソン"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "351996",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/351996",
+                    "Titles": {
+                        "eng": "Fair Game",
+                        "jpn": "まぶたの大陸"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "351997",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/351997",
+                    "Titles": {
+                        "eng": "Jungle Thief",
+                        "jpn": "飢えたサバンナ"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "351998",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/351998",
+                    "Titles": {
+                        "eng": "Battle at Dead River",
+                        "jpn": "ドンガの決斗"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "351999",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/351999",
+                    "Titles": {
+                        "eng": "The Insect Invasion",
+                        "jpn": "気ちがい雲"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "352000",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/352000",
+                    "Titles": {
+                        "eng": "The Flying Tiger",
+                        "jpn": "翼ある王者"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "352005",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/352005",
+                    "Titles": {
+                        "eng": "Two Hearts and Two Minds",
+                        "jpn": "ふたつの心"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "352006",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/352006",
+                    "Titles": {
+                        "eng": "Catch 'Em if You Can",
+                        "jpn": "コンガ狩猟区(前編)"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "352007",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/352007",
+                    "Titles": {
+                        "eng": "The Hunting Ground",
+                        "jpn": "コンガ狩猟区(後編)"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "352008",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/352008",
+                    "Titles": {
+                        "eng": "The Trappers",
+                        "jpn": "密林の大合唱"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "352009",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/352009",
+                    "Titles": {
+                        "eng": "Journey Into Time",
+                        "jpn": "アンドロクレス物語"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "352010",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/352010",
+                    "Titles": {
+                        "eng": "Scrambled Eggs",
+                        "jpn": "卵・卵・卵"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "352011",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/352011",
+                    "Titles": {
+                        "eng": "Diamonds in The Gruff",
+                        "jpn": "燃える河"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "352012",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/352012",
+                    "Titles": {
+                        "eng": "The Magic Serpent",
+                        "jpn": "不気味な青蛇"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "432424",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432424",
+                    "Titles": {
+                        "eng": "The Runaway",
+                        "jpn": "ベラと勲章"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "432425",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432425",
+                    "Titles": {
+                        "eng": "The Mystery of the Deserted Village",
+                        "jpn": "開かずの小屋"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "432426",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432426",
+                    "Titles": {
+                        "eng": "Restaurant Trouble",
+                        "jpn": "レストラン騒動"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "432427",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432427",
+                    "Titles": {
+                        "eng": "The Bad Baboon",
+                        "jpn": "帰って来たサンディ"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "432428",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432428",
+                    "Titles": {
+                        "eng": "Dangerous Journey",
+                        "jpn": "バーシィとっつぁん"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "432429",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432429",
+                    "Titles": {
+                        "eng": "The Gigantic Grasshopper",
+                        "jpn": "大怪虫"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "432430",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432430",
+                    "Titles": {
+                        "eng": "Gypsy's Purple Potion",
+                        "jpn": "森のマミー"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "432431",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432431",
+                    "Titles": {
+                        "eng": "Too Many Elephants",
+                        "jpn": "子象ジャンボ"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "432432",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432432",
+                    "Titles": {
+                        "eng": "A Revolting Development",
+                        "jpn": "平和の肉"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "432433",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432433",
+                    "Titles": {
+                        "eng": "The Chameleon Who Cried Wolf",
+                        "jpn": "悲しいカメレオン"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "432434",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432434",
+                    "Titles": {
+                        "eng": "The Wild Wildcat",
+                        "jpn": "山猫ミュー"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "432435",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432435",
+                    "Titles": {
+                        "eng": "The Nightmare Narcissus",
+                        "jpn": "食獣花アラウネ"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "432436",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432436",
+                    "Titles": {
+                        "eng": "Adventure in the City",
+                        "jpn": "追跡旅行"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "432437",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432437",
+                    "Titles": {
+                        "eng": "City of Gold",
+                        "jpn": "死人洞の謎"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "432438",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432438",
+                    "Titles": {
+                        "eng": "The Last Poacher",
+                        "jpn": "最后の密猟者"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "432439",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432439",
+                    "Titles": {
+                        "eng": "Jungle Justice",
+                        "jpn": "牙なしヒューク事件"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "432440",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432440",
+                    "Titles": {
+                        "eng": "Jungle Fun",
+                        "jpn": "黒豹トットの逆襲(前編)"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "432441",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432441",
+                    "Titles": {
+                        "eng": "The Pretenders",
+                        "jpn": "黒豹トットの逆襲(後編)"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "432442",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432442",
+                    "Titles": {
+                        "eng": "The Monster of Petrified Valley",
+                        "jpn": "マスク谷の怪物"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "432443",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432443",
+                    "Titles": {
+                        "eng": "Legend of Hippo Valley",
+                        "jpn": "ほえる魔像"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "432444",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432444",
+                    "Titles": {
+                        "eng": "Volcano Island",
+                        "jpn": "火山湖島"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "432445",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432445",
+                    "Titles": {
+                        "eng": "Running Wild",
+                        "jpn": "狂気の季節"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "432446",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432446",
+                    "Titles": {
+                        "eng": "The Troublemaker",
+                        "jpn": "草原の暴れん坊"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "432447",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432447",
+                    "Titles": {
+                        "eng": "Destroyers from the Desert",
+                        "jpn": "さすらいの死神"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "432449",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432449",
+                    "Titles": {
+                        "eng": "The Balloon that Blows Up",
+                        "jpn": "わんぱく作戦"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "432450",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432450",
+                    "Titles": {
+                        "eng": "Monster of the Mountain",
+                        "jpn": "怒りのチミセット"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "432451",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432451",
+                    "Titles": {
+                        "eng": "A Friend In Deed",
+                        "jpn": "虹の谷"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "432452",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432452",
+                    "Titles": {
+                        "eng": "Such Sweet Sorrow",
+                        "jpn": "まぼろしの山"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "432453",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432453",
+                    "Titles": {
+                        "eng": "The Return of Fancy Prancy",
+                        "jpn": "町から来たジェーン"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "432454",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432454",
+                    "Titles": {
+                        "eng": "The Cobweb Caper",
+                        "jpn": "まだらグモ"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "432455",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432455",
+                    "Titles": {
+                        "eng": "The Red Menace",
+                        "jpn": "赤い牙"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "432456",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432456",
+                    "Titles": {
+                        "eng": "The Sun Tree",
+                        "jpn": "朝日をまねく木"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "432457",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432457",
+                    "Titles": {
+                        "eng": "Soldier of Fortune",
+                        "jpn": "冒険家オットー"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "432458",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432458",
+                    "Titles": {
+                        "eng": "The Day the Sun went out",
+                        "jpn": "ナイルの大神殿"
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "432459",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/432459",
+                    "Titles": {
+                        "eng": "Silvertail the Renegade",
+                        "jpn": "人食いライオン"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "211061",
+            "URL": "https://thetvdb.com/series/kimba-the-white-lion/seasons/official/2",
+            "Titles": {
+                "eng": "The New Jungle Emperor",
+                "jpn": "ジャングル大帝 進めレオ！",
+                "ita": "Il nuovo imperatore della giungla"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "1885111",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885111",
+                    "Titles": {
+                        "eng": "The First Adventure",
+                        "jpn": "白い王者"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1885121",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885121",
+                    "Titles": {
+                        "eng": "The Map of Danger",
+                        "jpn": "大草原の対決"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1885131",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885131",
+                    "Titles": {
+                        "eng": "The Blue Lion",
+                        "jpn": "青いたてがみのザンバ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1885141",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885141",
+                    "Titles": {
+                        "eng": "The Last Hunt of the Ahabi People",
+                        "jpn": "ピグミーの死の祭り"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "1885151",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885151",
+                    "Titles": {
+                        "eng": "Leo Becomes a Father",
+                        "jpn": "ルネの冒険旅行"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "1885161",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885161",
+                    "Titles": {
+                        "eng": "The Mighty Gorilla",
+                        "jpn": "巨獣ドンベ"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "1885171",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885171",
+                    "Titles": {
+                        "eng": "The Golden Bow",
+                        "jpn": "黄金の弓"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "1885181",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885181",
+                    "Titles": {
+                        "eng": "The Case of The Moonlight Stone",
+                        "jpn": "月光石の秘密"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "1885191",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885191",
+                    "Titles": {
+                        "eng": "The Falcons",
+                        "jpn": "恐怖の鳥"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "1885201",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885201",
+                    "Titles": {
+                        "eng": "Rick the Lycon",
+                        "jpn": "リカオンは啼かず"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "1885211",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885211",
+                    "Titles": {
+                        "eng": "Panja's Hide",
+                        "jpn": "パンジャ街へ行く"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "1885221",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885221",
+                    "Titles": {
+                        "eng": "The Poachers",
+                        "jpn": "密猟者の森"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "1885311",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885311",
+                    "Titles": {
+                        "eng": "Duel at Lubar Valley",
+                        "jpn": "ルバー谷の決斗"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "1885321",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885321",
+                    "Titles": {
+                        "eng": "The Saber-Toothed Tiger",
+                        "jpn": "吠える氷河"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "1885331",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885331",
+                    "Titles": {
+                        "eng": "The Marked Giraffe",
+                        "jpn": "ひとりぼっちの墓"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "1885341",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885341",
+                    "Titles": {
+                        "eng": "Lily the Black Leopard",
+                        "jpn": "密林の黒い牙"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "1885351",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885351",
+                    "Titles": {
+                        "eng": "Devil Falls",
+                        "jpn": "あくまの滝"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "1885361",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885361",
+                    "Titles": {
+                        "eng": "The Steel Monster",
+                        "jpn": "機関車そうどう"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "1885371",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885371",
+                    "Titles": {
+                        "eng": "A House for the Animals",
+                        "jpn": "石のとりで"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "1885381",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885381",
+                    "Titles": {
+                        "eng": "The White Cliff",
+                        "jpn": "白い絶壁"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "1885391",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885391",
+                    "Titles": {
+                        "eng": "Agura the Terrible",
+                        "jpn": "ジャングルを売った奴"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "1885401",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885401",
+                    "Titles": {
+                        "eng": "Candle Rock",
+                        "jpn": "ぞうの墓場"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "1885411",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885411",
+                    "Titles": {
+                        "eng": "The Silver Wolf",
+                        "jpn": "銀色の狼"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "1885421",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885421",
+                    "Titles": {
+                        "eng": "Adventure at Volcano Island",
+                        "jpn": "火山島の冒険"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "1885431",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885431",
+                    "Titles": {
+                        "eng": "The Green Plague",
+                        "jpn": "王城に陽は昇る"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "1885441",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kimba-the-white-lion/episodes/1885441",
+                    "Titles": {
+                        "eng": "The Eternal Mount Moon",
+                        "jpn": "ムーン山よ永遠に"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

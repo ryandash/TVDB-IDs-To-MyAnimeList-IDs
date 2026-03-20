@@ -1,0 +1,52 @@
+{
+    "URL": "https://thetvdb.com/series/wild-7",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt3638066/",
+        "https://www.themoviedb.org/tv/80265"
+    ],
+    "Titles": {
+        "eng": "Wild 7",
+        "jpn": "Wild 7"
+    },
+    "Aliases": [],
+    "Modified": "2025-06-05",
+    "Seasons": {
+        "1": {
+            "ID": "810233",
+            "URL": "https://thetvdb.com/series/wild-7/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "7177307",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/wild-7/episodes/7177307",
+                    "Titles": {
+                        "eng": "Seven Wild Guys",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7177310",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/wild-7/episodes/7177310",
+                    "Titles": {
+                        "eng": "The Biker Knights Case",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
