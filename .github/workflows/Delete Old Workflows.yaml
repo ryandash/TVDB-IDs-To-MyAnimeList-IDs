@@ -15,6 +15,5 @@ jobs:
       - uses: yanovation/delete-old-actions@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          days-ago: 30
-          keep-latest: 5
+          keep-latest: 10
           dry-run: false
