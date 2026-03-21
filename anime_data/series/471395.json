@@ -17,47 +17,6 @@
     "Aliases": [],
     "Modified": "2026-03-14",
     "Seasons": {
-        "0": {
-            "ID": "2220351",
-            "URL": "https://thetvdb.com/series/koarahui-ri-ji/seasons/official/0",
-            "Titles": {
-                "eng": null,
-                "jpn": null
-            },
-            "# Episodes": 3,
-            "Episodes": {
-                "1": {
-                    "ID": "11499536",
-                    "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11499536",
-                    "Titles": {
-                        "eng": null,
-                        "jpn": "10月まとめ(10月vol.1〜vol.5）"
-                    },
-                    "Aliases": []
-                },
-                "2": {
-                    "ID": "11568247",
-                    "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11568247",
-                    "Titles": {
-                        "eng": "[Work BGM] Koala Listening to Music | \"Koala's Diary\"",
-                        "jpn": "【作業用BGM】音楽を聴くコアラさん｜アニメ『コアラ絵日記』"
-                    },
-                    "Aliases": []
-                },
-                "3": {
-                    "ID": "11568315",
-                    "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11568315",
-                    "Titles": {
-                        "eng": "[Work BGM] Koala Staying Up Late | \"Koala's Diary\"",
-                        "jpn": "【作業用BGM】夜更かしをするコアラさん｜アニメ『コアラ絵日記』"
-                    },
-                    "Aliases": []
-                }
-            }
-        },
         "1": {
             "ID": "2220352",
             "URL": "https://thetvdb.com/series/koarahui-ri-ji/seasons/official/1",
@@ -65,7 +24,7 @@
                 "eng": null,
                 "jpn": null
             },
-            "# Episodes": 24,
+            "# Episodes": 25,
             "Episodes": {
                 "1": {
                     "ID": "11499511",
@@ -304,6 +263,16 @@
                     "Titles": {
                         "eng": "March Vol.2",
                         "jpn": "3月 vol.2"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "11689283",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11689283",
+                    "Titles": {
+                        "eng": "March Vol.3",
+                        "jpn": "3月 vol.3"
                     },
                     "Aliases": []
                 }
