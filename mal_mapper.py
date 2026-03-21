@@ -283,13 +283,13 @@ def load_existing_malids(category: str) -> dict[str, int]:
     for file in dirpath.glob("*.json"):
         try:
             data = safe_load_json(file)
-            mal_id = data.get("MalId")
-            if not mal_id:
+            mal_ids = data.get("MalIds")
+            if not mal_ids:
                 continue
             series_id = file.stem
-            existing_lookup[series_id] = int(mal_id)
+            existing_lookup[series_id] = int(mal_ids[0])
         except Exception as e:
-            print(f"[WARN] Skipping {file.name} — no valid MAL ID ({e})")
+            print(f"[WARN] Skipping {file.name} — invalid MAL IDs ({e})")
 
     return existing_lookup
 
