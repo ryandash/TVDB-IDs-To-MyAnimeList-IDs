@@ -1,0 +1,130 @@
+{
+    "URL": "https://thetvdb.com/series/golden-boy",
+    "Genres": [
+        "Adult Animation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0159145/",
+        "https://www.themoviedb.org/tv/34105"
+    ],
+    "Titles": {
+        "eng": "Golden Boy",
+        "jpn": "ゴールデンボーイ"
+    },
+    "Aliases": [],
+    "Modified": "2026-01-11",
+    "Seasons": {
+        "0": {
+            "ID": "531539",
+            "URL": "https://thetvdb.com/series/golden-boy/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "8835554",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/golden-boy/episodes/8835554",
+                    "Titles": {
+                        "eng": "Opening Theme: \"Golden Boy\" by Joyo Katayanagi",
+                        "jpn": "Bonus Episode 1"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8835555",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/golden-boy/episodes/8835555",
+                    "Titles": {
+                        "eng": "Opening Theme: \"My Golden Boy\" by Computerjockeys",
+                        "jpn": "Bonus Episode 2"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8835556",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/golden-boy/episodes/8835556",
+                    "Titles": {
+                        "eng": "Ending Theme: \"Study A Go! Go!\" by Golden Girls",
+                        "jpn": "Bonus Episode 3"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "4089",
+            "URL": "https://thetvdb.com/series/golden-boy/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "84871",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/golden-boy/episodes/84871",
+                    "Titles": {
+                        "eng": "Computer Studies",
+                        "jpn": "コンピューターでお勉強"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "84870",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/golden-boy/episodes/84870",
+                    "Titles": {
+                        "eng": "Temptation of the Maiden",
+                        "jpn": "乙女の誘惑"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "84869",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/golden-boy/episodes/84869",
+                    "Titles": {
+                        "eng": "Danger! The Virgin's First Love",
+                        "jpn": "危険!乙女の初恋"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "84868",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/golden-boy/episodes/84868",
+                    "Titles": {
+                        "eng": "Swimming in the Sea of Love",
+                        "jpn": "野性の海を泳ぐ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "84866",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/golden-boy/episodes/84866",
+                    "Titles": {
+                        "eng": "Unstoppable Youth",
+                        "jpn": "ノーブレーキの青春"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "84867",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/golden-boy/episodes/84867",
+                    "Titles": {
+                        "eng": "Animation is Fun!",
+                        "jpn": "アニメーションは面白い!"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

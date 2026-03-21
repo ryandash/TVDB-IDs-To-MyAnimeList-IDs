@@ -1,0 +1,537 @@
+{
+    "URL": "https://thetvdb.com/series/kaijuu-sekai-seifuku",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt35348212/",
+        "https://kaijyu-sekai.com/",
+        "https://www.themoviedb.org/tv/285260",
+        "https://x.com/kaijyu_sekai"
+    ],
+    "Titles": {
+        "eng": "Monster World Conquest",
+        "jpn": "かいじゅうせかいせいふく"
+    },
+    "Aliases": [
+        "Kaijū Sekai Seifuku",
+        "Kaijuu Sekai Seifuku",
+        "Kaijyu Sekai Seifuku"
+    ],
+    "Modified": "2026-03-14",
+    "Seasons": {
+        "1": {
+            "ID": "2134369",
+            "URL": "https://thetvdb.com/series/kaijuu-sekai-seifuku/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 50,
+            "Episodes": {
+                "1": {
+                    "ID": "10648769",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/10648769",
+                    "Titles": {
+                        "eng": "I Want You to Clean Up",
+                        "jpn": "かたづけてほしいんだが"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11084979",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11084979",
+                    "Titles": {
+                        "eng": "I Want to Go on a Diet",
+                        "jpn": "ダイエットしたいんだが"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "11097158",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11097158",
+                    "Titles": {
+                        "eng": "I Want to Go Outside and Play",
+                        "jpn": "そとであそびたいんだが"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "11102274",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11102274",
+                    "Titles": {
+                        "eng": "Ah, I'm grateful",
+                        "jpn": "あ, ありがたいんだが"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "11102275",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11102275",
+                    "Titles": {
+                        "eng": "It's Childrens Day",
+                        "jpn": "こどもの日なんだが"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "11102276",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11102276",
+                    "Titles": {
+                        "eng": "It's Moving Soba",
+                        "jpn": "引っ越しそばなんだが"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "11102277",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11102277",
+                    "Titles": {
+                        "eng": "They are New Monsters",
+                        "jpn": "あらたなかいじゅうたちなんだが"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "11102278",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11102278",
+                    "Titles": {
+                        "eng": "The House Next Door is Leaking",
+                        "jpn": "お隣は雨漏りなんだが"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "11170721",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11170721",
+                    "Titles": {
+                        "eng": "It's a Cat",
+                        "jpn": "ねこししょうなんだが"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "11170722",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11170722",
+                    "Titles": {
+                        "eng": "It's the Monsters' Secret",
+                        "jpn": "かいじゅうたちのヒミツなんだが"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "11180959",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11180959",
+                    "Titles": {
+                        "eng": "My First Time Meeting My Neighbor",
+                        "jpn": "初（はつ）お隣さんなんだが"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "11203168",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11203168",
+                    "Titles": {
+                        "eng": "My First Bookstore",
+                        "jpn": "はじめての本屋さんなんだが"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "11216482",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11216482",
+                    "Titles": {
+                        "eng": "I Go Out on Rainy Days",
+                        "jpn": "雨の日こそお出かけなんだが"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "11222846",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11222846",
+                    "Titles": {
+                        "eng": "I Want to See a Shooting Star",
+                        "jpn": "流れ星を見たいんだが"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "11238273",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11238273",
+                    "Titles": {
+                        "eng": "A Spicy Cheer Me Up",
+                        "jpn": "はげましの辛ムーチなんだが"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "11250214",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11250214",
+                    "Titles": {
+                        "eng": "Instant Noodle Eel Day",
+                        "jpn": "土用の丑の日はカップラ？なんだが"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "11251831",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11251831",
+                    "Titles": {
+                        "eng": "The Friends I Met over the Summer",
+                        "jpn": "夏に出会った友だちなんだが"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "11263100",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11263100",
+                    "Titles": {
+                        "eng": "I Tried the Summer Festival",
+                        "jpn": "夏まつりをやってみたんだが"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "11272823",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11272823",
+                    "Titles": {
+                        "eng": "It's Important to Get Up Early",
+                        "jpn": "早起きが大事なんだが"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "11285405",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11285405",
+                    "Titles": {
+                        "eng": "It's a Delicious Green Feast",
+                        "jpn": "おいしい緑の大宴会なんだが"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "11300251",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11300251",
+                    "Titles": {
+                        "eng": "It's So Hot, I Can't Stand It",
+                        "jpn": "暑くてたまらないんだが"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "11302893",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11302893",
+                    "Titles": {
+                        "eng": "Shaved Ice is the Best!",
+                        "jpn": "かき氷サイコー！なんだが"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "11322223",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11322223",
+                    "Titles": {
+                        "eng": "Typhoons are Dangerous!!",
+                        "jpn": "台風キケン!!なんだが"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "11334391",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11334391",
+                    "Titles": {
+                        "eng": "Dango is Better Than the Moon?",
+                        "jpn": "月よりだんご? なんだが"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "11342218",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11342218",
+                    "Titles": {
+                        "eng": "Turn into a Monster Eggplant!?",
+                        "jpn": "かいじゅうナスになる!?なんだが"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "11362974",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11362974",
+                    "Titles": {
+                        "eng": "We're the Three Snack-Buyers",
+                        "jpn": "買い食い三人衆なんだが"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "11362975",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11362975",
+                    "Titles": {
+                        "eng": "Autumn Art",
+                        "jpn": "芸術の秋なんだが"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "11382944",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11382944",
+                    "Titles": {
+                        "eng": "Autumn, the Season for Cleaning",
+                        "jpn": "おそうじの秋なんだが"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "11390064",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11390064",
+                    "Titles": {
+                        "eng": "I'm Picking Chestnuts",
+                        "jpn": "栗ひろいなんだが"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "11418782",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11418782",
+                    "Titles": {
+                        "eng": "Happy Halloween",
+                        "jpn": "ハッピーハロウィーンなんだが"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "11423294",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11423294",
+                    "Titles": {
+                        "eng": "The President is Surprised",
+                        "jpn": "社長びっくりなんだが"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "11440692",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11440692",
+                    "Titles": {
+                        "eng": "Mochasuke is Amazing",
+                        "jpn": "モカすけすごいんだが"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "11455392",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11455392",
+                    "Titles": {
+                        "eng": "It's a Monster Gathering",
+                        "jpn": "かいじゅう集会なんだが"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "11466639",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11466639",
+                    "Titles": {
+                        "eng": "Konbini are Paradise",
+                        "jpn": "コンビニはパラダイスなんだが"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "11486478",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11486478",
+                    "Titles": {
+                        "eng": "Picnics are Fun",
+                        "jpn": "ピクニックは楽しいんだが"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "11486479",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11486479",
+                    "Titles": {
+                        "eng": "It's Mochasuke in the Afternoon",
+                        "jpn": "昼下がりのモカすけなんだが"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "11500239",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11500239",
+                    "Titles": {
+                        "eng": "I Want to Bring Out the Kotatsu.",
+                        "jpn": "コタツを出したいんだが"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "11514927",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11514927",
+                    "Titles": {
+                        "eng": "Merry Christmas",
+                        "jpn": "メリークリスマスなんだが"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "11525053",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11525053",
+                    "Titles": {
+                        "eng": "It's the New Year's Holiday, But... (1)",
+                        "jpn": "正月休みなんだが・前編"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "11525054",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11525054",
+                    "Titles": {
+                        "eng": "It's the New Year's Holiday, But... (2)",
+                        "jpn": "正月休みなんだが・後編"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "11558204",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11558204",
+                    "Titles": {
+                        "eng": "I Love Omurice",
+                        "jpn": "オムライスらぶなんだが"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "11569368",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11569368",
+                    "Titles": {
+                        "eng": "It's a Sleepover Party",
+                        "jpn": "おとまり会なんだが"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "11583029",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11583029",
+                    "Titles": {
+                        "eng": "The President is a Hero",
+                        "jpn": "社長はヒーローなんだが"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "11593580",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11593580",
+                    "Titles": {
+                        "eng": "Thank You for Your Help, But...",
+                        "jpn": "お世話ありがとう、なんだが"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "11601647",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11601647",
+                    "Titles": {
+                        "eng": "Mochasuke the Helper",
+                        "jpn": "すけっとモカすけなんだが"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "11618165",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11618165",
+                    "Titles": {
+                        "eng": "There's No Mera (1)",
+                        "jpn": "めらがいないんだが・前編"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "11632661",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11632661",
+                    "Titles": {
+                        "eng": "There's No Mera (2)",
+                        "jpn": "めらがいないんだが・後編"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "11646487",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11646487",
+                    "Titles": {
+                        "eng": "It All Started with Oden (1)",
+                        "jpn": "それはおでんで始まったんだが・１"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "11667531",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11667531",
+                    "Titles": {
+                        "eng": "It All Started with Oden (2)",
+                        "jpn": "それはおでんで始まったんだが・２"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "11667533",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kaijuu-sekai-seifuku/episodes/11667533",
+                    "Titles": {
+                        "eng": "It's About Conquering the Monster World",
+                        "jpn": "かいじゅうせかいせいふくなんだが"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

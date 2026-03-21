@@ -1,0 +1,335 @@
+{
+    "URL": "https://thetvdb.com/series/rahxephon",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Romance",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0364863/",
+        "https://www.themoviedb.org/tv/13375"
+    ],
+    "Titles": {
+        "eng": "RahXephon",
+        "jpn": "ラーゼフォン"
+    },
+    "Aliases": [],
+    "Modified": "2026-01-12",
+    "Seasons": {
+        "0": {
+            "ID": "20185",
+            "URL": "https://thetvdb.com/series/rahxephon/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "740021",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/740021",
+                    "Titles": {
+                        "eng": "Pluralitas Concentio",
+                        "jpn": "ラーゼフォン　多元変奏曲"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "379478",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/379478",
+                    "Titles": {
+                        "eng": "Intermezzo: Her and Herself – Thatness And Thereness",
+                        "jpn": "間奏曲　「彼女と彼女自身と」"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "3117461",
+                    "TYPE": "Season Recaps",
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/3117461",
+                    "Titles": {
+                        "eng": "The Wings of Recollection",
+                        "jpn": "翼の記憶 -Memory-"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "4634",
+            "URL": "https://thetvdb.com/series/rahxephon/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "94591",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94591",
+                    "Titles": {
+                        "eng": "Invasion of the Capital",
+                        "jpn": "首都侵攻"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "94592",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94592",
+                    "Titles": {
+                        "eng": "God and Man Awaken",
+                        "jpn": "神人目覚める"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "94593",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94593",
+                    "Titles": {
+                        "eng": "City of Two",
+                        "jpn": "二人の街"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "94594",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94594",
+                    "Titles": {
+                        "eng": "His own Watch",
+                        "jpn": "自分の時計"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "94595",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94595",
+                    "Titles": {
+                        "eng": "Nirai-Kanai",
+                        "jpn": "ニライカナイ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "94596",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94596",
+                    "Titles": {
+                        "eng": "Obliterated Cities",
+                        "jpn": "消滅都市"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "94597",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94597",
+                    "Titles": {
+                        "eng": "Day of Assembly",
+                        "jpn": "集まる日"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "94598",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94598",
+                    "Titles": {
+                        "eng": "Bitterly Cold Holy Night",
+                        "jpn": "凍る聖夜"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "94599",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94599",
+                    "Titles": {
+                        "eng": "Small Shrine of Time",
+                        "jpn": "時の祠"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "94600",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94600",
+                    "Titles": {
+                        "eng": "Sonata of Recollection",
+                        "jpn": "追憶のソナタ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "94601",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94601",
+                    "Titles": {
+                        "eng": "Kyoja Circuit",
+                        "jpn": "虚邪回路"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "94602",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94602",
+                    "Titles": {
+                        "eng": "The Black Egg",
+                        "jpn": "黒い卵"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "94603",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94603",
+                    "Titles": {
+                        "eng": "Human Specimen #1",
+                        "jpn": "人間標本第１号"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "94604",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94604",
+                    "Titles": {
+                        "eng": "The Boy in the Mirror",
+                        "jpn": "鏡の中の少年"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "94605",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94605",
+                    "Titles": {
+                        "eng": "The Children's Night",
+                        "jpn": "子供たちの夜"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "94606",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94606",
+                    "Titles": {
+                        "eng": "Island of Others",
+                        "jpn": "他人の島"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "94607",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94607",
+                    "Titles": {
+                        "eng": "Return to the Labyrinth",
+                        "jpn": "迷宮への帰還"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "94608",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94608",
+                    "Titles": {
+                        "eng": "The Bond of Blue Blood",
+                        "jpn": "青き血の絆"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "94609",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94609",
+                    "Titles": {
+                        "eng": "Blue Friend",
+                        "jpn": "ブルーフレンド"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "94610",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94610",
+                    "Titles": {
+                        "eng": "The Artisan's Battle",
+                        "jpn": "綾なす人の戦い"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "94611",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94611",
+                    "Titles": {
+                        "eng": "The Carved Seal of Xephon",
+                        "jpn": "ゼフォンの刻印"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "94612",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94612",
+                    "Titles": {
+                        "eng": "Operation Jupiter Obliteration",
+                        "jpn": "木星消滅作戦"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "94613",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94613",
+                    "Titles": {
+                        "eng": "From Here to Eternity",
+                        "jpn": "ここより永遠に"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "94614",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94614",
+                    "Titles": {
+                        "eng": "Doorway to the Tuning",
+                        "jpn": "調律への扉"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "94615",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94615",
+                    "Titles": {
+                        "eng": "God's Uncertain Music",
+                        "jpn": "神の不確かな音"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "94616",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rahxephon/episodes/94616",
+                    "Titles": {
+                        "eng": "Far Beyond Eternity",
+                        "jpn": "遙か久遠の彼方"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

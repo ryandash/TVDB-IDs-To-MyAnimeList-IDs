@@ -1,0 +1,100 @@
+{
+    "URL": "https://thetvdb.com/series/spirit-warrior",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Fantasy",
+        "Horror",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt6532184/",
+        "https://www.themoviedb.org/tv/138688"
+    ],
+    "Titles": {
+        "eng": "Spirit Warrior",
+        "jpn": "孔雀王"
+    },
+    "Aliases": [
+        "Peacock King",
+        "Peacock King: Spirit Warrior",
+        "True Peakock King"
+    ],
+    "Modified": "2023-11-26",
+    "Seasons": {
+        "1": {
+            "ID": "255951",
+            "URL": "https://thetvdb.com/series/spirit-warrior/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "2301841",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/spirit-warrior/episodes/2301841",
+                    "Titles": {
+                        "eng": "Festival of the Ogres` Revival",
+                        "jpn": "鬼還祭"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2301851",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/spirit-warrior/episodes/2301851",
+                    "Titles": {
+                        "eng": "Castle of Illusion",
+                        "jpn": "幻影城"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "2301861",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/spirit-warrior/episodes/2301861",
+                    "Titles": {
+                        "eng": "A Harvest of Cherry Blossoms",
+                        "jpn": "櫻花豊穣"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "255971",
+            "URL": "https://thetvdb.com/series/spirit-warrior/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "zho": "真・孔雀王"
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "2301911",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/spirit-warrior/episodes/2301911",
+                    "Titles": {
+                        "eng": "Revival of Evil",
+                        "jpn": "真・孔雀王 上　天魔復活"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2301941",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/spirit-warrior/episodes/2301941",
+                    "Titles": {
+                        "eng": "Rumbling Kunlun Mountains",
+                        "jpn": "真・孔雀王 下　崑崙鳴動"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

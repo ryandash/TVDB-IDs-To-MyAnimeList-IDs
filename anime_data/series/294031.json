@@ -1,0 +1,63 @@
+{
+    "URL": "https://thetvdb.com/series/fuyu-no-semi",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Mini-Series",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/44219"
+    ],
+    "Titles": {
+        "eng": "Embracing Love: A Cicada in Winter",
+        "jpn": "冬の蝉"
+    },
+    "Aliases": [
+        "Fuyu no Semi"
+    ],
+    "Modified": "2025-06-03",
+    "Seasons": {
+        "1": {
+            "ID": "618679",
+            "URL": "https://thetvdb.com/series/fuyu-no-semi/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "5182948",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fuyu-no-semi/episodes/5182948",
+                    "Titles": {
+                        "eng": "Edo Love Song",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5182949",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fuyu-no-semi/episodes/5182949",
+                    "Titles": {
+                        "eng": "Record of Ezo War",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5182950",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fuyu-no-semi/episodes/5182950",
+                    "Titles": {
+                        "eng": "Tokyo Tragedy",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

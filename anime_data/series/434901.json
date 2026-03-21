@@ -1,0 +1,46 @@
+{
+    "URL": "https://thetvdb.com/series/434901-first-love",
+    "Genres": [
+        "Documentary"
+    ],
+    "Other Sites": [],
+    "Titles": {
+        "eng": "First Love",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2023-07-29",
+    "Seasons": {
+        "1": {
+            "ID": "2063667",
+            "URL": "https://thetvdb.com/series/434901-first-love/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "9788554",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/434901-first-love/episodes/9788554",
+                    "Titles": {
+                        "eng": "Sue Perkins",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9789740",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/434901-first-love/episodes/9789740",
+                    "Titles": {
+                        "eng": "Stephen Mangan",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

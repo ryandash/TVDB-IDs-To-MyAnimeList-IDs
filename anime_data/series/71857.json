@@ -1,0 +1,606 @@
+{
+    "URL": "https://thetvdb.com/series/the-wonderful-wizard-of-oz",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Children",
+        "Family",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0092486/",
+        "https://www.themoviedb.org/tv/66081"
+    ],
+    "Titles": {
+        "eng": "The Wonderful Wizard of Oz",
+        "jpn": "オズの魔法使い"
+    },
+    "Aliases": [
+        "Ozu no Mahōtsukai"
+    ],
+    "Modified": "2026-02-06",
+    "Seasons": {
+        "0": {
+            "ID": "531226",
+            "URL": "https://thetvdb.com/series/the-wonderful-wizard-of-oz/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "4749781",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/4749781",
+                    "Titles": {
+                        "eng": "The Wonderful Wizard of Oz",
+                        "jpn": "オズの魔法使い"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4749782",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/4749782",
+                    "Titles": {
+                        "eng": "The Marvelous Land of Oz",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4749783",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/4749783",
+                    "Titles": {
+                        "eng": "Ozma of Oz",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4749784",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/4749784",
+                    "Titles": {
+                        "eng": "The Emerald City of Oz",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "3113",
+            "URL": "https://thetvdb.com/series/the-wonderful-wizard-of-oz/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 52,
+            "Episodes": {
+                "1": {
+                    "ID": "62646",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62646",
+                    "Titles": {
+                        "eng": "Dorothy Meets the Munchkins (Dorothy and the Tornado)",
+                        "jpn": "ドロシーとたつまき"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "62647",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62647",
+                    "Titles": {
+                        "eng": "Dorothy Finds a Friend (Yellow Road)",
+                        "jpn": "黄色い道"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "62648",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62648",
+                    "Titles": {
+                        "eng": "Adventures Along the Yellow Brick Road (Departure to Hope)",
+                        "jpn": "希望への旅立ち"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "62649",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62649",
+                    "Titles": {
+                        "eng": "The Journey to Emerald City (The Difficult Road)",
+                        "jpn": "苦難の道"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "62650",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62650",
+                    "Titles": {
+                        "eng": "Saved By The Mouse Queen (Black Flower)",
+                        "jpn": "黒い花"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "62651",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62651",
+                    "Titles": {
+                        "eng": "The Emerald City, At Last (Emerald Palace)",
+                        "jpn": "エメラルドの都"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "3242251",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/3242251",
+                    "Titles": {
+                        "eng": "Wizard Wants A Favour (Witch of the West)",
+                        "jpn": "西の国の魔女"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "62652",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62652",
+                    "Titles": {
+                        "eng": "The Wicked Witch of the West (Winky's Battle)",
+                        "jpn": "ウインキーの戦い"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "62653",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62653",
+                    "Titles": {
+                        "eng": "Dorothy's Magic Powers (Witch's Castle)",
+                        "jpn": "魔女の館"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "62654",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62654",
+                    "Titles": {
+                        "eng": "Freedom from the Witch (After the Shoes)",
+                        "jpn": "ねらわれた靴"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "62655",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62655",
+                    "Titles": {
+                        "eng": "Mombi, Tip and the Golden Cap (Monbi and Chip)",
+                        "jpn": "モンビとチップ"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "62656",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62656",
+                    "Titles": {
+                        "eng": "Back to Emerald City (New King)",
+                        "jpn": "新しい王様"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "62657",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62657",
+                    "Titles": {
+                        "eng": "The Wizard's Disappointing Secret (Identity of the Great King of Oz)",
+                        "jpn": "オズ大王の正体"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "62658",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62658",
+                    "Titles": {
+                        "eng": "The Wizard Tries to Help (Left Behind)",
+                        "jpn": "とり残されて"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "62659",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62659",
+                    "Titles": {
+                        "eng": "Journey to the South (To The South)",
+                        "jpn": "南への旅"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "62660",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62660",
+                    "Titles": {
+                        "eng": "Glinda, the Good Witch (Witch Glinda's Castle)",
+                        "jpn": "魔女グリンダの城"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "62661",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62661",
+                    "Titles": {
+                        "eng": "Home Sweet Home Again (Glinda)",
+                        "jpn": "グリンダ"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "62662",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62662",
+                    "Titles": {
+                        "eng": "Dorothy Meets the Wizard, Again (Kansas)",
+                        "jpn": "カンザス"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "62663",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62663",
+                    "Titles": {
+                        "eng": "Back To Oz",
+                        "jpn": "再びオズへ"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "3242231",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/3242231",
+                    "Titles": {
+                        "eng": "The Escape from Mombi (Chip is a Father)",
+                        "jpn": "再びオズへ"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "62664",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62664",
+                    "Titles": {
+                        "eng": "General Jinjur Attacks (General Jinjur)",
+                        "jpn": "ジンジャー将軍"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "62665",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62665",
+                    "Titles": {
+                        "eng": "Escape from the Emerald City (Scarecrow King Runs Away)",
+                        "jpn": "かかし王逃げだす"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "62666",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62666",
+                    "Titles": {
+                        "eng": "Tinman to the Rescue (The Woodcutter's a King)",
+                        "jpn": "木こりは王様"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "62667",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62667",
+                    "Titles": {
+                        "eng": "Mombi's Terrible Magic (Monbi's Magic)",
+                        "jpn": "モンビの魔法"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "62668",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62668",
+                    "Titles": {
+                        "eng": "Trapped in the Palace (Join Strength)",
+                        "jpn": "力を合わせて"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "62669",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62669",
+                    "Titles": {
+                        "eng": "The Magical Escape (Gump)",
+                        "jpn": "ガンプ"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "62670",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62670",
+                    "Titles": {
+                        "eng": "Glinda Agrees to Help (Seeking Help)",
+                        "jpn": "助けを求めて"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "62671",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62671",
+                    "Titles": {
+                        "eng": "The Emerald City, Captured (Back to Emerald)",
+                        "jpn": "再びエメラルド"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "62672",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62672",
+                    "Titles": {
+                        "eng": "Mombi's Attempt to Trick Glinda (Monbi the Witch?)",
+                        "jpn": "魔法使いモンビ？"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "62673",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/62673",
+                    "Titles": {
+                        "eng": "Ozma, Princess of Oz (Chip's Secret)",
+                        "jpn": "チップの秘密"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "6318868",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/6318868",
+                    "Titles": {
+                        "eng": "Tik-Tok the Mechanical Man (Dorothy and Tick-Tock)",
+                        "jpn": "ドロシーとチックタック"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "6318871",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/6318871",
+                    "Titles": {
+                        "eng": "The Kidnapped Prince (Castle Langdia)",
+                        "jpn": "ラングディアの城"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "6318872",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/6318872",
+                    "Titles": {
+                        "eng": "The Deadly Desert (Desert Journey)",
+                        "jpn": "砂漠の旅"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "6318873",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/6318873",
+                    "Titles": {
+                        "eng": "The Talking Hen (Hen of the Desert)",
+                        "jpn": "砂漠のめんどり"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "6318874",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/6318874",
+                    "Titles": {
+                        "eng": "Monsters of Stone (Edge of Oz)",
+                        "jpn": "オズのさい果て"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "6318875",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/6318875",
+                    "Titles": {
+                        "eng": "The Underground Country of Gnomes (Gnome of the Underworld)",
+                        "jpn": "地底のノーム"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "6318877",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/6318877",
+                    "Titles": {
+                        "eng": "The Deadly Guessing Game (The King's Problem)",
+                        "jpn": "王様の難題"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "6318879",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/6318879",
+                    "Titles": {
+                        "eng": "Dorothy Outsmarts the King (The King's Favorite Thing)",
+                        "jpn": "王様の好きなもの"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "6318881",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/6318881",
+                    "Titles": {
+                        "eng": "The Secret Fear of the Nomes (Scary Room)",
+                        "jpn": "恐ろしい部屋"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "6318885",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/6318885",
+                    "Titles": {
+                        "eng": "The Nome King Sets a Trap (In Search of the Light)",
+                        "jpn": "明りを求めて"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "6318889",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/6318889",
+                    "Titles": {
+                        "eng": "Saved by the Sun (Back to the Surface)",
+                        "jpn": "再び地上へ"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "6318892",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/6318892",
+                    "Titles": {
+                        "eng": "The Nome King Plans Revenge (The Gnome's Counterattack)",
+                        "jpn": "ノームの反撃"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "6318895",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/6318895",
+                    "Titles": {
+                        "eng": "Princess Ozma's Secret (Secret of Emerald)",
+                        "jpn": "エメラルドの秘密"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "6318898",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/6318898",
+                    "Titles": {
+                        "eng": "Miss Cuttenclip and Mister Fuddle (Land of Chokkinpet)",
+                        "jpn": "チョッキンペットの国"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "6318900",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/6318900",
+                    "Titles": {
+                        "eng": "The Growleywog Joins the Nomes (Harvest in Oz)",
+                        "jpn": "オズの国の刈り入れ"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "6318901",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/6318901",
+                    "Titles": {
+                        "eng": "The Water of Oblivion (Spring of Forgetfulness)",
+                        "jpn": "忘れの泉"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "6318903",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/6318903",
+                    "Titles": {
+                        "eng": "Nomes on the March (Bakekubi Goes on a Rampage)",
+                        "jpn": "バケクビ暴れる"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "6318906",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/6318906",
+                    "Titles": {
+                        "eng": "A Winky Helps his King (Guff Becomes a Good Person)",
+                        "jpn": "ガフ善人になる"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "6318907",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/6318907",
+                    "Titles": {
+                        "eng": "The Crowning of Ozma (Coronation)",
+                        "jpn": "戴冠式"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "6318911",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/6318911",
+                    "Titles": {
+                        "eng": "The Nomes Attack (Victory of the Gnome King)",
+                        "jpn": "ノーム王の勝利"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "6318915",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/6318915",
+                    "Titles": {
+                        "eng": "Dorothy and Her Friends Defend the Palace (Dorothy Keeps Fighting)",
+                        "jpn": "ドロシーがんばる"
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "6318918",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-wizard-of-oz/episodes/6318918",
+                    "Titles": {
+                        "eng": "A Very Happy Ending (Back to Kansas)",
+                        "jpn": "なつかしのカンサス"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

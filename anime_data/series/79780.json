@@ -1,0 +1,76 @@
+{
+    "URL": "https://thetvdb.com/series/ghost-talkers-daydream",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0896540/",
+        "https://www.themoviedb.org/tv/74090"
+    ],
+    "Titles": {
+        "eng": "Ghost Talker's Daydream",
+        "jpn": "低俗霊DAYDREAM"
+    },
+    "Aliases": [
+        "Teizokurei Daydream"
+    ],
+    "Modified": "2026-01-10",
+    "Seasons": {
+        "1": {
+            "ID": "34674",
+            "URL": "https://thetvdb.com/series/ghost-talkers-daydream/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "383896",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ghost-talkers-daydream/episodes/383896",
+                    "Titles": {
+                        "eng": "Ghost Talker",
+                        "jpn": "口寄屋"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "383897",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ghost-talkers-daydream/episodes/383897",
+                    "Titles": {
+                        "eng": "Bindweed",
+                        "jpn": "ヒルガオ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "383898",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ghost-talkers-daydream/episodes/383898",
+                    "Titles": {
+                        "eng": "Mad Bones",
+                        "jpn": "狂骨"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "383899",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ghost-talkers-daydream/episodes/383899",
+                    "Titles": {
+                        "eng": "Water Spirit",
+                        "jpn": "水魂"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

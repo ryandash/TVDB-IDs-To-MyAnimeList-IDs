@@ -1,0 +1,534 @@
+{
+    "URL": "https://thetvdb.com/series/nadja",
+    "Genres": [
+        "Anime - Shojo",
+        "Period"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0447579/",
+        "https://www.themoviedb.org/tv/34821"
+    ],
+    "Titles": {
+        "eng": "Tomorrow's Nadja",
+        "jpn": "明日のナージャ"
+    },
+    "Aliases": [
+        "Nadja Applefield",
+        "The Adventures of Nadja",
+        "Ashita no Nadja"
+    ],
+    "Modified": "2024-09-04",
+    "Seasons": {
+        "1": {
+            "ID": "39455",
+            "URL": "https://thetvdb.com/series/nadja/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 50,
+            "Episodes": {
+                "1": {
+                    "ID": "424999",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/424999",
+                    "Titles": {
+                        "eng": "Nadja, the Door of Destiny!",
+                        "jpn": "ナージャ、運命の扉!!"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "425000",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425000",
+                    "Titles": {
+                        "eng": "Night of the Mysterious Thief Black Rose",
+                        "jpn": "怪盗黒バラの夜"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "425001",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425001",
+                    "Titles": {
+                        "eng": "Samurai Kennosuke, Running Wild!",
+                        "jpn": "サムライ・ケンノスケ大暴走!!"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "425002",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425002",
+                    "Titles": {
+                        "eng": "Dancing Princess Nadja and the Mummy Professor",
+                        "jpn": "舞姫ナージャとミイラ博士"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "425003",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425003",
+                    "Titles": {
+                        "eng": "Starry Night, A Waltz for Two",
+                        "jpn": "星の夜・二人だけのワルツ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "425004",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425004",
+                    "Titles": {
+                        "eng": "Parent and Child, Tied-Up Ball Diary",
+                        "jpn": "母子を結ぶ舞踏会の日記"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "425005",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425005",
+                    "Titles": {
+                        "eng": "Trap at the Masked Ball",
+                        "jpn": "仮面舞踏会のワナ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "425006",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425006",
+                    "Titles": {
+                        "eng": "Broken Wings and Tears of Love",
+                        "jpn": "折れた翼と恋の涙"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "425007",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425007",
+                    "Titles": {
+                        "eng": "The Troubled Genius Pianist!",
+                        "jpn": "悩める天才ピアニスト!"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "425008",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425008",
+                    "Titles": {
+                        "eng": "Music Box of Two Memories",
+                        "jpn": "ふたつの想い出オルゴール"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "425009",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425009",
+                    "Titles": {
+                        "eng": "A Narrow Escape!! Confession of Love in Paris",
+                        "jpn": "危機一髪!パリの告白"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "425010",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425010",
+                    "Titles": {
+                        "eng": "Treasure Hunting is Romantic!?",
+                        "jpn": "宝探しはロマンチック!?"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "425011",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425011",
+                    "Titles": {
+                        "eng": "Francis in the Morning Light",
+                        "jpn": "朝陽の中のフランシス"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "425012",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425012",
+                    "Titles": {
+                        "eng": "A Lie at the Alpine Flower Festival",
+                        "jpn": "アルプス花祭りのウソ"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "425013",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425013",
+                    "Titles": {
+                        "eng": "Family in a Storm",
+                        "jpn": "嵐の中の家族"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "425014",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425014",
+                    "Titles": {
+                        "eng": "I Don't Understand! The Game of Love That Adults Play",
+                        "jpn": "わからない!大人の恋愛ゲーム!"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "425015",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425015",
+                    "Titles": {
+                        "eng": "Love and Ambition in Milan",
+                        "jpn": "愛と野望のミラノ"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "425016",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425016",
+                    "Titles": {
+                        "eng": "Venice, The Tearful Mama Mia",
+                        "jpn": "ヴェネツィア、涙のマンマ・ミーア"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "425017",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425017",
+                    "Titles": {
+                        "eng": "Foggy Evening, The Black Rose's Truth",
+                        "jpn": "霧の夜・黒バラの真実"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "425449",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425449",
+                    "Titles": {
+                        "eng": "Very Dangerous! A Date in Rome",
+                        "jpn": "危険がいっぱい!ローマのデート"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "425450",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425450",
+                    "Titles": {
+                        "eng": "Mother and Daughter who Pass Each Other, The Two Birthdays",
+                        "jpn": "すれ違う母娘・ふたつの誕生日"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "425451",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425451",
+                    "Titles": {
+                        "eng": "Help Me! The Memory of Fire",
+                        "jpn": "助けて!炎の記憶"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "425486",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425486",
+                    "Titles": {
+                        "eng": "Terror! The Mediterranean Ghost Ship",
+                        "jpn": "恐怖!地中海の幽霊船"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "425508",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425508",
+                    "Titles": {
+                        "eng": "Olé! Solar Matador and Flamenco",
+                        "jpn": "オーレ!太陽の闘牛士とフラメンコ"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "425509",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425509",
+                    "Titles": {
+                        "eng": "Return of the Treacherous Beauty",
+                        "jpn": "帰ってきた裏切りの美女"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "425510",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425510",
+                    "Titles": {
+                        "eng": "The Other Side of Francis",
+                        "jpn": "フランシスの向こう側"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "425511",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425511",
+                    "Titles": {
+                        "eng": "Flying Kennosuke!",
+                        "jpn": "空飛ぶケンノスケ"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "425512",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425512",
+                    "Titles": {
+                        "eng": "The Dangerous Princess",
+                        "jpn": "危険なプリンセス"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "425513",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425513",
+                    "Titles": {
+                        "eng": "A Wonderful Life! The Man Who Saw Light and Shadow",
+                        "jpn": "すばらしき人生!光と影を見た男"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "425514",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425514",
+                    "Titles": {
+                        "eng": "The Muddy White Rose",
+                        "jpn": "泥まみれの白バラ"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "425515",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425515",
+                    "Titles": {
+                        "eng": "The Pierrot that Does Not Cry",
+                        "jpn": "泣かないピエロ"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "425516",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425516",
+                    "Titles": {
+                        "eng": "Nile's End, The Secret of the Ring",
+                        "jpn": "ナイルの果て・指輪の秘密"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "425517",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425517",
+                    "Titles": {
+                        "eng": "The Brooch That Vanished in a Pyramid",
+                        "jpn": "ピラミッドに消えたブローチ"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "425518",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425518",
+                    "Titles": {
+                        "eng": "Farewell, Dandelion Troupe",
+                        "jpn": "さよならダンデライオン一座"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "425519",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425519",
+                    "Titles": {
+                        "eng": "The Mischief of the Wind, The Irony of Fate",
+                        "jpn": "風のいたずら・運命の皮肉"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "425520",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425520",
+                    "Titles": {
+                        "eng": "Watch Out! The Black Rose who Risks His Life",
+                        "jpn": "危うし!命を賭けた黒バラ"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "425521",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425521",
+                    "Titles": {
+                        "eng": "Light and Darkness! The Brooch Recovery Operation",
+                        "jpn": "明暗!ブローチ奪還作戦"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "425522",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425522",
+                    "Titles": {
+                        "eng": "Rosemary, Conspiracy of a Smiling Face",
+                        "jpn": "ローズマリー笑顔の陰謀"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "425523",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425523",
+                    "Titles": {
+                        "eng": "Don't steal her! My Mother",
+                        "jpn": "盗らないで!私のお母さん"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "425524",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425524",
+                    "Titles": {
+                        "eng": "Morning of Decision! The Journey of Truth",
+                        "jpn": "決意の朝!本当の旅立ち"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "425525",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425525",
+                    "Titles": {
+                        "eng": "Joy and Pain Travelling Alone",
+                        "jpn": "喜びも苦しみもひとり旅"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "425526",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425526",
+                    "Titles": {
+                        "eng": "Lonely Home",
+                        "jpn": "ひとりぼっちの故郷"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "425527",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425527",
+                    "Titles": {
+                        "eng": "The Piano Lullaby That Binds Us",
+                        "jpn": "ピアノがつなぐ子守歌"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "425528",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425528",
+                    "Titles": {
+                        "eng": "Which do I love? The Final Selection",
+                        "jpn": "どっちが好き?究極の選択!"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "425529",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425529",
+                    "Titles": {
+                        "eng": "The Trio's pattern, Shaky Awakening of Love",
+                        "jpn": "三人模様・ぐらつく恋心"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "425530",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425530",
+                    "Titles": {
+                        "eng": "Two Nadjas, Confrontation!",
+                        "jpn": "二人のナージャ、対決!"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "425531",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425531",
+                    "Titles": {
+                        "eng": "Silence! The Captive White Rose",
+                        "jpn": "沈黙!囚われの白バラ"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "425532",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425532",
+                    "Titles": {
+                        "eng": "Reversal! The End of the Black Rose",
+                        "jpn": "逆転!黒バラの最後"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "425533",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425533",
+                    "Titles": {
+                        "eng": "Don't Give Up! The Power of Truth",
+                        "jpn": "諦めない!真実の力"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "425534",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nadja/episodes/425534",
+                    "Titles": {
+                        "eng": "The Door of a New Destiny",
+                        "jpn": "新たなる運命の扉"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

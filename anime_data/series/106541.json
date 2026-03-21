@@ -1,0 +1,76 @@
+{
+    "URL": "https://thetvdb.com/series/combustible-campus-guardress",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0279553/",
+        "https://www.themoviedb.org/tv/105339"
+    ],
+    "Titles": {
+        "eng": "Combustible Campus Guardress",
+        "jpn": "爆炎CAMPUSガードレス"
+    },
+    "Aliases": [
+        "Bakuen Campus Guardress"
+    ],
+    "Modified": "2025-07-21",
+    "Seasons": {
+        "1": {
+            "ID": "98581",
+            "URL": "https://thetvdb.com/series/combustible-campus-guardress/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "919031",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/combustible-campus-guardress/episodes/919031",
+                    "Titles": {
+                        "eng": "Thump Thump Shudder Shudder - The Dangerous Siblings!",
+                        "jpn": "ドキドキ☆ワクワク★危ない姉弟!"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "919041",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/combustible-campus-guardress/episodes/919041",
+                    "Titles": {
+                        "eng": "Nervous Nervous Sweat Sweat - Finals Are Scarier Than the Enemy!?",
+                        "jpn": "ハラハラ☆ヒヤヒヤ★期末テストは敵より怖い!?"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "919051",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/combustible-campus-guardress/episodes/919051",
+                    "Titles": {
+                        "eng": "Ache Ache Pant Pant - The Stressful Final Battle!",
+                        "jpn": "モンモン☆ヘロヘロ★悩み多き死闘!"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "919061",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/combustible-campus-guardress/episodes/919061",
+                    "Titles": {
+                        "eng": "Shred Shred Crumble Crumble - There Are Many Different Ways of Winning!",
+                        "jpn": "ズタズタ☆ボロボロ★勝ちにもいろいろありまして!"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

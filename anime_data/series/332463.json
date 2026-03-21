@@ -1,0 +1,932 @@
+{
+    "URL": "https://thetvdb.com/series/chis-sweet-adventure",
+    "Genres": [
+        "Animation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt6356032/",
+        "https://www.themoviedb.org/tv/115785"
+    ],
+    "Titles": {
+        "eng": "Chi's Sweet Adventure",
+        "jpn": "こねこのチー"
+    },
+    "Aliases": [],
+    "Modified": "2025-08-17",
+    "Seasons": {
+        "1": {
+            "ID": "722520",
+            "URL": "https://thetvdb.com/series/chis-sweet-adventure/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": "ポンポンらー大冒険"
+            },
+            "# Episodes": 51,
+            "Episodes": {
+                "1": {
+                    "ID": "6225352",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6225352",
+                    "Titles": {
+                        "eng": "Chi Comes Back",
+                        "jpn": "チー、帰ってくる"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6225354",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6225354",
+                    "Titles": {
+                        "eng": "Chi is Blocked",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6225355",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6225355",
+                    "Titles": {
+                        "eng": "Chi Takes Cat Lessons",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6225356",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6225356",
+                    "Titles": {
+                        "eng": "Chi Discovers Cheese",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6225357",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6225357",
+                    "Titles": {
+                        "eng": "Chi Takes on Halloween",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6225358",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6225358",
+                    "Titles": {
+                        "eng": "Chi Gets Groomed",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6225360",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6225360",
+                    "Titles": {
+                        "eng": "Chi Goes Camping",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6225361",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6225361",
+                    "Titles": {
+                        "eng": "Chi Goes to a Waterfall",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6225369",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6225369",
+                    "Titles": {
+                        "eng": "Chi's Showdown",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6225370",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6225370",
+                    "Titles": {
+                        "eng": "Chi Meets a Parakeet",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6225372",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6225372",
+                    "Titles": {
+                        "eng": "Chi Goes Out",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6225376",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6225376",
+                    "Titles": {
+                        "eng": "Chi Goes to a Nice Place",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "6225377",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6225377",
+                    "Titles": {
+                        "eng": "Chi Returns",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "6225378",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6225378",
+                    "Titles": {
+                        "eng": "Chi Warms Up",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "6225379",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6225379",
+                    "Titles": {
+                        "eng": "Chi Takes Cat Lessons 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "6225380",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6225380",
+                    "Titles": {
+                        "eng": "Chi Helps Daddy Work",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "6225381",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6225381",
+                    "Titles": {
+                        "eng": "Chi Takes Cat Lessons 3",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "6225382",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6225382",
+                    "Titles": {
+                        "eng": "Chi Coaches Mommy",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "6225384",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6225384",
+                    "Titles": {
+                        "eng": "Blackie Goes on Patrol",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "6225386",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6225386",
+                    "Titles": {
+                        "eng": "Chi Goes to a Meeting",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "6821293",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821293",
+                    "Titles": {
+                        "eng": "Chi Takes Cover from the Rain",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "6821295",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821295",
+                    "Titles": {
+                        "eng": "Chi is Worried Over",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "6821296",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821296",
+                    "Titles": {
+                        "eng": "Chi Plays with Yohei",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "6821297",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821297",
+                    "Titles": {
+                        "eng": "Chi Plays Detective",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "6821298",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821298",
+                    "Titles": {
+                        "eng": "Chi Makes New Friends Part 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "6821299",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821299",
+                    "Titles": {
+                        "eng": "Chi Makes New Friends Part 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "6821301",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821301",
+                    "Titles": {
+                        "eng": "Chi Jumps",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "6821302",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821302",
+                    "Titles": {
+                        "eng": "Chi Auditions",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "6821303",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821303",
+                    "Titles": {
+                        "eng": "Come-Come Smiles",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "6821304",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821304",
+                    "Titles": {
+                        "eng": "Chi's Sweet Memories",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "6821319",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821319",
+                    "Titles": {
+                        "eng": "Yohei Runs Away",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "6821322",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821322",
+                    "Titles": {
+                        "eng": "Chi and the Strange Feather",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "6821325",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821325",
+                    "Titles": {
+                        "eng": "Chi Hides",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "6821331",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821331",
+                    "Titles": {
+                        "eng": "Chi Takes Cat Lessons 4",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "6821333",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821333",
+                    "Titles": {
+                        "eng": "Chi Sneaks In",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "6821335",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821335",
+                    "Titles": {
+                        "eng": "Chi Investigates",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "6821338",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821338",
+                    "Titles": {
+                        "eng": "Chi Goes on an Adventure with Friends Part 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "6821340",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821340",
+                    "Titles": {
+                        "eng": "Chi Goes on an Adventure with Friends Part 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "6821345",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821345",
+                    "Titles": {
+                        "eng": "Chi is Happy",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "6821347",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821347",
+                    "Titles": {
+                        "eng": "Chi Runs",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "6821350",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821350",
+                    "Titles": {
+                        "eng": "Chi Catches Bugs",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "6821352",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821352",
+                    "Titles": {
+                        "eng": "Chi Plays with Toys",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "6821354",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821354",
+                    "Titles": {
+                        "eng": "Chi Hisses",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "6821356",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821356",
+                    "Titles": {
+                        "eng": "Remembering Lessons Part 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "6821358",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821358",
+                    "Titles": {
+                        "eng": "Remembering Lessons Part 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "6821360",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821360",
+                    "Titles": {
+                        "eng": "Chi Cools Off",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "6821361",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821361",
+                    "Titles": {
+                        "eng": "Yohei's Picture Diary",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "6821363",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821363",
+                    "Titles": {
+                        "eng": "Chi and the Secret Place",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "6821365",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821365",
+                    "Titles": {
+                        "eng": "Chi Tracks Blackie",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "6821367",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821367",
+                    "Titles": {
+                        "eng": "Chi Feels Empty",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "6821369",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6821369",
+                    "Titles": {
+                        "eng": "Chi Thinks of Home",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "761141",
+            "URL": "https://thetvdb.com/series/chis-sweet-adventure/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": "ポンポンらー大旅行"
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "6652004",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6652004",
+                    "Titles": {
+                        "eng": "Chi and the Goldfish",
+                        "jpn": "チー、キンギョと会う"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6652005",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6652005",
+                    "Titles": {
+                        "eng": "Chi Meets a Pigeon",
+                        "jpn": "チー、ハトと会う"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6652006",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6652006",
+                    "Titles": {
+                        "eng": "Chi Gets into mischief",
+                        "jpn": "チー、いたずらする"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6652008",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6652008",
+                    "Titles": {
+                        "eng": "Chi Stalks",
+                        "jpn": "チー、ねらう"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6683520",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6683520",
+                    "Titles": {
+                        "eng": "Chi Meets Julie",
+                        "jpn": "チー、ジュリと会う"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6683525",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6683525",
+                    "Titles": {
+                        "eng": "Chi Plays with Julie",
+                        "jpn": "チー、ジュリとあそぶ"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6683526",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6683526",
+                    "Titles": {
+                        "eng": "Chi Gets in the Way",
+                        "jpn": "チー、じゃまをする"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6683529",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6683529",
+                    "Titles": {
+                        "eng": "Chi and the Secret Thicket",
+                        "jpn": "チーと草むらのヒミツ"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6683532",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6683532",
+                    "Titles": {
+                        "eng": "Trip to the Fluffyland LEVEL 1",
+                        "jpn": "フワッフィーランドの旅 Lv1"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6683533",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6683533",
+                    "Titles": {
+                        "eng": "Trip to the Fluffyland LEVEL 2",
+                        "jpn": "フワッフィーランドの旅 Lv2"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6683537",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6683537",
+                    "Titles": {
+                        "eng": "Chi Cleans",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6683538",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6683538",
+                    "Titles": {
+                        "eng": "Chi Misunderstands Daddy",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "6757246",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6757246",
+                    "Titles": {
+                        "eng": "Come-Come`s Decision",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "6764142",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6764142",
+                    "Titles": {
+                        "eng": "Come-Come Reunites",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "6776033",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6776033",
+                    "Titles": {
+                        "eng": "Come-Come Sets Out",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "6776035",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6776035",
+                    "Titles": {
+                        "eng": "Come-Come Climbs a Mountain",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "6776036",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6776036",
+                    "Titles": {
+                        "eng": "Chi and the Blackout",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "6776038",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6776038",
+                    "Titles": {
+                        "eng": "Trip to the Fluffyland LEVEL 3",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "6776039",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6776039",
+                    "Titles": {
+                        "eng": "Come-Come Feels Down",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "6776040",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6776040",
+                    "Titles": {
+                        "eng": "Chi, Flutter, and the Thieving Cats",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "6776042",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6776042",
+                    "Titles": {
+                        "eng": "Chi Aims for a Pigeon Again",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "6776043",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6776043",
+                    "Titles": {
+                        "eng": "Come-Come Meets Mami",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "6776044",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6776044",
+                    "Titles": {
+                        "eng": "Come-Come's Answer",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "6776045",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6776045",
+                    "Titles": {
+                        "eng": "Adventures in Fluffyland, The Final Level",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "6776047",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/6776047",
+                    "Titles": {
+                        "eng": "Chi Has Fun",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "2125047",
+            "URL": "https://thetvdb.com/series/chis-sweet-adventure/seasons/official/3",
+            "Titles": {
+                "eng": null,
+                "jpn": "ポンポンらー夏休み",
+                "deu": "Sommerabenteuer"
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "10465609",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/10465609",
+                    "Titles": {
+                        "eng": "Episode 1",
+                        "jpn": "チー、おきなわへいく"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10599697",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/10599697",
+                    "Titles": {
+                        "eng": "Episode 2",
+                        "jpn": "チー、しれんする"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10599698",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/10599698",
+                    "Titles": {
+                        "eng": "Episode 3",
+                        "jpn": "チー、ヤモリと会う"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "10599699",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/10599699",
+                    "Titles": {
+                        "eng": "Episode 4",
+                        "jpn": "チー、カジカジをさがす"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "10599700",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/10599700",
+                    "Titles": {
+                        "eng": "Episode 5",
+                        "jpn": "チーとおいしいもの"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "10599701",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/10599701",
+                    "Titles": {
+                        "eng": "Episode 6",
+                        "jpn": "チー、森へいく"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "10599702",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/10599702",
+                    "Titles": {
+                        "eng": "Episode 7",
+                        "jpn": "チー、おどる"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "10599703",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/10599703",
+                    "Titles": {
+                        "eng": "Episode 8",
+                        "jpn": "ヨウヘイの自由研究"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "10599704",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/10599704",
+                    "Titles": {
+                        "eng": "Episode 9",
+                        "jpn": "チー、シーサーする"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "10599705",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/10599705",
+                    "Titles": {
+                        "eng": "Episode 10",
+                        "jpn": "ヨウヘイ、つりをする"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "10599706",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/10599706",
+                    "Titles": {
+                        "eng": "Episode 11",
+                        "jpn": "チーと台風の日"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "10599707",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/chis-sweet-adventure/episodes/10599707",
+                    "Titles": {
+                        "eng": "Episode 12",
+                        "jpn": "チー、おまつりする"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "URL": "https://thetvdb.com/series/418945-",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0110049/",
+        "https://www.themoviedb.org/tv/115853",
+        "https://www.themoviedb.org/tv/115853"
+    ],
+    "Titles": {
+        "eng": "Homeroom Affairs",
+        "jpn": "他人の関係"
+    },
+    "Aliases": [
+        "Tanin no Kankei"
+    ],
+    "Modified": "2025-05-21",
+    "Seasons": {
+        "1": {
+            "ID": "1994951",
+            "URL": "https://thetvdb.com/series/418945-/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "9107914",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/418945-/episodes/9107914",
+                    "Titles": {
+                        "eng": "I'll Teach You a Lesson You'll NEVER Forget!",
+                        "jpn": "私はあなたにあなたが決して忘れないであろうレッスンを教えます！"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9107915",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/418945-/episodes/9107915",
+                    "Titles": {
+                        "eng": "I Was Born Reckless",
+                        "jpn": "私は無謀に生まれました"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

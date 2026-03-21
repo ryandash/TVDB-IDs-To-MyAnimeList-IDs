@@ -1,0 +1,62 @@
+{
+    "URL": "https://thetvdb.com/series/cyborg-009-vs-devilman",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt5675016/"
+    ],
+    "Titles": {
+        "eng": "Cyborg 009 vs. Devilman",
+        "jpn": "サイボーグ009VSデビルマン"
+    },
+    "Aliases": [],
+    "Modified": "2025-08-14",
+    "Seasons": {
+        "1": {
+            "ID": "775790",
+            "URL": "https://thetvdb.com/series/cyborg-009-vs-devilman/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "6799171",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cyborg-009-vs-devilman/episodes/6799171",
+                    "Titles": {
+                        "eng": "Act 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6799190",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cyborg-009-vs-devilman/episodes/6799190",
+                    "Titles": {
+                        "eng": "Act 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6799195",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cyborg-009-vs-devilman/episodes/6799195",
+                    "Titles": {
+                        "eng": "Act 3",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

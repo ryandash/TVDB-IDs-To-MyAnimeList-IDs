@@ -1,0 +1,53 @@
+{
+    "URL": "https://thetvdb.com/series/eiken",
+    "Genres": [
+        "Animation",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0944093/",
+        "https://tvlistings.zap2it.com/overview.html?programSeriesId=SH839297",
+        "https://www.themoviedb.org/tv/34840"
+    ],
+    "Titles": {
+        "eng": "Eiken",
+        "jpn": "エイケン エイケンヴより愛をこめて"
+    },
+    "Aliases": [
+        "エイケン"
+    ],
+    "Modified": "2026-01-11",
+    "Seasons": {
+        "1": {
+            "ID": "16993",
+            "URL": "https://thetvdb.com/series/eiken/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "317126",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/eiken/episodes/317126",
+                    "Titles": {
+                        "eng": "From the Eiken Club with Love - Part 1",
+                        "jpn": "前編"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "317127",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/eiken/episodes/317127",
+                    "Titles": {
+                        "eng": "From the Eiken Club with Love - Part 2",
+                        "jpn": "後編"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

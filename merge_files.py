@@ -39,7 +39,7 @@ def collect_files(input_dir: Path, pattern: str) -> List[Path]:
 def merge_root_files(input_dir: Path, repo_root: Path):
     """Merge all mapped/unmapped files across all scraper artifacts."""
     patterns = [
-        "mapped-tvdb-ids-movies.json",
+        "mapped-tvdb-ids-movie.json",
         "mapped-tvdb-ids-series.json",
         "mapped-tvdb-ids-seasons.json",
         "mapped-tvdb-ids-episodes.json",

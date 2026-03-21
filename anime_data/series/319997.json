@@ -1,0 +1,626 @@
+{
+    "URL": "https://thetvdb.com/series/kemono-friends",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt6562940/",
+        "https://www.themoviedb.org/tv/69288"
+    ],
+    "Titles": {
+        "eng": "Kemono Friends",
+        "jpn": "けものフレンズ"
+    },
+    "Aliases": [],
+    "Modified": "2025-06-04",
+    "Seasons": {
+        "0": {
+            "ID": "689099",
+            "URL": "https://thetvdb.com/series/kemono-friends/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 33,
+            "Episodes": {
+                "1": {
+                    "ID": "6034117",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/6034117",
+                    "Titles": {
+                        "eng": "Episode 12.1 - Bus-like Special",
+                        "jpn": "ばすてき"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6257171",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/6257171",
+                    "Titles": {
+                        "eng": "Uma no Friends \"Horse Derby\"",
+                        "jpn": "けいばじょう"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6290335",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/6290335",
+                    "Titles": {
+                        "eng": "Anisama",
+                        "jpn": "あにさま"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6364110",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/6364110",
+                    "Titles": {
+                        "eng": "Nissin no Donbei x Kemono Friends",
+                        "jpn": "日清のどん兵衛 × けものフレンズ 「ふっくら」"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7274256",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7274256",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 1",
+                        "jpn": "ちょこっとアニメ けものフレンズ３ #01"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "7274258",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7274258",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 2",
+                        "jpn": "ちょこっとアニメ けものフレンズ３ #02"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "7274260",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7274260",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 3",
+                        "jpn": "ちょこっとアニメ けものフレンズ３ #03"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "7491292",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7491292",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 4",
+                        "jpn": "ちょこっとアニメ けものフレンズ３ #04"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "7491450",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7491450",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 5",
+                        "jpn": "ちょこっとアニメ けものフレンズ３ #05"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "7491452",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7491452",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 6",
+                        "jpn": "ちょこっとアニメ けものフレンズ３ #06"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "7491454",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7491454",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 7",
+                        "jpn": "ちょこっとアニメ けものフレンズ３ #07"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "7491455",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7491455",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 8",
+                        "jpn": "ちょこっとアニメ けものフレンズ３ #08"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "7491456",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7491456",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 9",
+                        "jpn": "ちょこっとアニメ けものフレンズ３ #09"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "7491458",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7491458",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 10",
+                        "jpn": "ちょこっとアニメ けものフレンズ３ #10"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "7491460",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7491460",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 11",
+                        "jpn": "ちょこっとアニメ けものフレンズ３ #11"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "7491461",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7491461",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 12",
+                        "jpn": "ちょこっとアニメ けものフレンズ３ #12"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "7491464",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7491464",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 13",
+                        "jpn": "ちょこっとアニメ けものフレンズ３ #13"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "7491516",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7491516",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 14",
+                        "jpn": "ちょこっとアニメ けものフレンズ３ #14"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "7617093",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7617093",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 15",
+                        "jpn": "ちょこっとアニメ けものフレンズ３ #12"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "7667566",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7667566",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 16",
+                        "jpn": "ちょこっとアニメ けものフレンズ３ #16"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "7875571",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7875571",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 17",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "7875572",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7875572",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 18",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "7875573",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7875573",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 19",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "7920657",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7920657",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 20",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "7991087",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7991087",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 21",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "8133140",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/8133140",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 22",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "8133146",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/8133146",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 23",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "8394644",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/8394644",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 24",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "8521435",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/8521435",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 25",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "9033866",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/9033866",
+                    "Titles": {
+                        "eng": "Chokotto Anime Kemono Friends 3 Web - Episode 26",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "7716675",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7716675",
+                    "Titles": {
+                        "eng": "「けものフレンズ２　#0」～尾崎由香、サーバルに会いに行く！",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "7716664",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7716664",
+                    "Titles": {
+                        "eng": "『けものフレンズ３』オープニングムービー",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "10032128",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/10032128",
+                    "Titles": {
+                        "eng": "Episode 12.4 - Japari Bun Hunt",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "689100",
+            "URL": "https://thetvdb.com/series/kemono-friends/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "5845940",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/5845940",
+                    "Titles": {
+                        "eng": "Savanna Area",
+                        "jpn": "さばんなちほー"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5932055",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/5932055",
+                    "Titles": {
+                        "eng": "Jungle Area",
+                        "jpn": "じゃんぐるちほー"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5932056",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/5932056",
+                    "Titles": {
+                        "eng": "Mountain",
+                        "jpn": "こうざん"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5947024",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/5947024",
+                    "Titles": {
+                        "eng": "Desert Area",
+                        "jpn": "さばくちほー"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5947025",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/5947025",
+                    "Titles": {
+                        "eng": "Lake Shore",
+                        "jpn": "こはん"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5947026",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/5947026",
+                    "Titles": {
+                        "eng": "Plains",
+                        "jpn": "へいげん"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5947027",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/5947027",
+                    "Titles": {
+                        "eng": "Japari Library",
+                        "jpn": "じゃぱりとしょかん"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5947029",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/5947029",
+                    "Titles": {
+                        "eng": "PPP Live",
+                        "jpn": "ぺぱぷらいぶ"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5987679",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/5987679",
+                    "Titles": {
+                        "eng": "Snowy Mountains Area",
+                        "jpn": "ゆきやまちほー"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5987680",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/5987680",
+                    "Titles": {
+                        "eng": "Lodge",
+                        "jpn": "ろっじ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5987681",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/5987681",
+                    "Titles": {
+                        "eng": "Cerulean",
+                        "jpn": "せるりあん"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5987682",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/5987682",
+                    "Titles": {
+                        "eng": "Amusement Park",
+                        "jpn": "ゆうえんち"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "786502",
+            "URL": "https://thetvdb.com/series/kemono-friends/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "6907097",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/6907097",
+                    "Titles": {
+                        "eng": "Beyond Memories",
+                        "jpn": "きおくのかなた"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6993594",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/6993594",
+                    "Titles": {
+                        "eng": "Panda and Panda",
+                        "jpn": "ぱんだとぱんだ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6993595",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/6993595",
+                    "Titles": {
+                        "eng": "Creatures of the Sea",
+                        "jpn": "うみのけもの"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7016657",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7016657",
+                    "Titles": {
+                        "eng": "Different Kinds of Houses",
+                        "jpn": "いろんなおうち"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7022832",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7022832",
+                    "Titles": {
+                        "eng": "The Power of Humans",
+                        "jpn": "ひとのちから"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "7038274",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7038274",
+                    "Titles": {
+                        "eng": "A New Morning",
+                        "jpn": "あたらしいあさ"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "7058327",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7058327",
+                    "Titles": {
+                        "eng": "Beyond Speed",
+                        "jpn": "すぴーどのむこう"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "7060108",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7060108",
+                    "Titles": {
+                        "eng": "New Song in Concert",
+                        "jpn": "しんきょくらいぶ"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "7081886",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7081886",
+                    "Titles": {
+                        "eng": "Go Back Home",
+                        "jpn": "おうちにおかえり"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "7081887",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7081887",
+                    "Titles": {
+                        "eng": "Check-in",
+                        "jpn": "ちぇっくいん"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "7102484",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7102484",
+                    "Titles": {
+                        "eng": "The Ocean's Mood",
+                        "jpn": "うみのごきげん"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "7104347",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kemono-friends/episodes/7104347",
+                    "Titles": {
+                        "eng": "I'm Home",
+                        "jpn": "ただいま"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

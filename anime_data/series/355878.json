@@ -1,0 +1,49 @@
+{
+    "URL": "https://thetvdb.com/series/birth-debut",
+    "Genres": [
+        "Anime",
+        "Romance"
+    ],
+    "Other Sites": [],
+    "Titles": {
+        "eng": "Birth ~Debut~",
+        "jpn": "誕生 ~Debut~"
+    },
+    "Aliases": [
+        "Tanjou: Debut"
+    ],
+    "Modified": "2025-06-05",
+    "Seasons": {
+        "1": {
+            "ID": "787285",
+            "URL": "https://thetvdb.com/series/birth-debut/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "6915473",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/birth-debut/episodes/6915473",
+                    "Titles": {
+                        "eng": "A new love",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6915474",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/birth-debut/episodes/6915474",
+                    "Titles": {
+                        "eng": "My dear friend",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "URL": "https://thetvdb.com/series/etotama",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt4808010/",
+        "https://www.themoviedb.org/tv/76494",
+        "https://en.wikipedia.org/wiki/Etotama"
+    ],
+    "Titles": {
+        "eng": "Etotama",
+        "jpn": "えとたま"
+    },
+    "Aliases": [
+        "えとたま（干支魂）"
+    ],
+    "Modified": "2025-06-03",
+    "Seasons": {
+        "0": {
+            "ID": "611288",
+            "URL": "https://thetvdb.com/series/etotama/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 7,
+            "Episodes": {
+                "6": {
+                    "ID": "5275362",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/etotama/episodes/5275362",
+                    "Titles": {
+                        "eng": "Ox-treme Teacher",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "8449902",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/etotama/episodes/8449902",
+                    "Titles": {
+                        "eng": "ONA: Meow-llions of Customers",
+                        "jpn": "えとたま 干支魂 猫客万来"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "616290",
+            "URL": "https://thetvdb.com/series/etotama/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "5157630",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/etotama/episodes/5157630",
+                    "Titles": {
+                        "eng": "The Exuberant Cat Girl",
+                        "jpn": "猫娘揚々"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5217411",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/etotama/episodes/5217411",
+                    "Titles": {
+                        "eng": "A Long, Serpentine Fate",
+                        "jpn": "縁縁長蛇"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5217412",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/etotama/episodes/5217412",
+                    "Titles": {
+                        "eng": "An Equestrian Fit for a Cat",
+                        "jpn": "一騎当猫"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5217413",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/etotama/episodes/5217413",
+                    "Titles": {
+                        "eng": "The Beauty of Flowers, Bird Steps, and Moon",
+                        "jpn": "花鳥歩月"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5217414",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/etotama/episodes/5217414",
+                    "Titles": {
+                        "eng": "Eternal Pervert",
+                        "jpn": "永久変態"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5246273",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/etotama/episodes/5246273",
+                    "Titles": {
+                        "eng": "Cat/Rat Shuffle",
+                        "jpn": "猫鼠異道"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5246274",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/etotama/episodes/5246274",
+                    "Titles": {
+                        "eng": "Eto in Full Bloom",
+                        "jpn": "干支繚乱"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

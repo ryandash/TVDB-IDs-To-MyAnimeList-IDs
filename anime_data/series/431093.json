@@ -1,0 +1,120 @@
+{
+    "URL": "https://thetvdb.com/series/pluto",
+    "Genres": [
+        "Adaptation",
+        "Anime - Seinen"
+    ],
+    "Other Sites": [
+        "https://www.facebook.com/pluto.anime.official",
+        "https://www.imdb.com/title/tt26737616/",
+        "https://pluto-anime.com/",
+        "http://www.reddit.com/r/PlutoSeries",
+        "https://www.themoviedb.org/tv/91997",
+        "https://www.wikidata.org/wiki/Q116783101",
+        "https://en.wikipedia.org/wiki/Pluto_(manga)",
+        "https://x.com/pluto_anime_"
+    ],
+    "Titles": {
+        "eng": "PLUTO",
+        "jpn": "プルートウ"
+    },
+    "Aliases": [
+        "Pluto",
+        "Purūto",
+        "Puruuto"
+    ],
+    "Modified": "2026-02-14",
+    "Seasons": {
+        "1": {
+            "ID": "2047492",
+            "URL": "https://thetvdb.com/series/pluto/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 8,
+            "Episodes": {
+                "1": {
+                    "ID": "9617842",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pluto/episodes/9617842",
+                    "Titles": {
+                        "eng": "Episode 1",
+                        "jpn": "エピソード1"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9876567",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pluto/episodes/9876567",
+                    "Titles": {
+                        "eng": "Episode 2",
+                        "jpn": "エピソード2"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9876568",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pluto/episodes/9876568",
+                    "Titles": {
+                        "eng": "Episode 3",
+                        "jpn": "エピソード3"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9876569",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pluto/episodes/9876569",
+                    "Titles": {
+                        "eng": "Episode 4",
+                        "jpn": "エピソード4"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "9876570",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pluto/episodes/9876570",
+                    "Titles": {
+                        "eng": "Episode 5",
+                        "jpn": "エピソード5"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "9876572",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pluto/episodes/9876572",
+                    "Titles": {
+                        "eng": "Episode 6",
+                        "jpn": "エピソード6"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "9876573",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pluto/episodes/9876573",
+                    "Titles": {
+                        "eng": "Episode 7",
+                        "jpn": "エピソード7"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "9876574",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/pluto/episodes/9876574",
+                    "Titles": {
+                        "eng": "Episode 8",
+                        "jpn": "エピソード8"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

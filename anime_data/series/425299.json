@@ -1,0 +1,114 @@
+{
+    "URL": "https://thetvdb.com/series/onimusha",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt22301234/",
+        "https://www.netflix.com/title/81153116",
+        "http://www.reddit.com/r/Onimusha",
+        "https://www.themoviedb.org/tv/210945",
+        "https://en.wikipedia.org/wiki/Onimusha#Anime_series"
+    ],
+    "Titles": {
+        "eng": "Onimusha",
+        "jpn": "鬼武者"
+    },
+    "Aliases": [
+        "ONIMUSHA"
+    ],
+    "Modified": "2026-02-14",
+    "Seasons": {
+        "1": {
+            "ID": "2021885",
+            "URL": "https://thetvdb.com/series/onimusha/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 8,
+            "Episodes": {
+                "1": {
+                    "ID": "9366277",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/onimusha/episodes/9366277",
+                    "Titles": {
+                        "eng": "Demon",
+                        "jpn": "Episode 1"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10121269",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/onimusha/episodes/10121269",
+                    "Titles": {
+                        "eng": "Mountain Demon",
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10121270",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/onimusha/episodes/10121270",
+                    "Titles": {
+                        "eng": "Nightmare",
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "10121272",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/onimusha/episodes/10121272",
+                    "Titles": {
+                        "eng": "Bewitch",
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "10121273",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/onimusha/episodes/10121273",
+                    "Titles": {
+                        "eng": "Yin Soul",
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "10121275",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/onimusha/episodes/10121275",
+                    "Titles": {
+                        "eng": "Oni",
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "10123704",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/onimusha/episodes/10123704",
+                    "Titles": {
+                        "eng": "Harbinger",
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "10123705",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/onimusha/episodes/10123705",
+                    "Titles": {
+                        "eng": "Yang Soul",
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,337 @@
+{
+    "URL": "https://thetvdb.com/series/air-gear",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Sport"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0953916/",
+        "https://www.themoviedb.org/tv/31670"
+    ],
+    "Titles": {
+        "eng": "Air Gear",
+        "jpn": "エア・ギア"
+    },
+    "Aliases": [
+        "AIR GEAR"
+    ],
+    "Modified": "2026-01-13",
+    "Seasons": {
+        "0": {
+            "ID": "27196",
+            "URL": "https://thetvdb.com/series/air-gear/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "371467",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/371467",
+                    "Titles": {
+                        "eng": "Episode 21.5: Special Trick",
+                        "jpn": "Trick:21.5"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "3229661",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/3229661",
+                    "Titles": {
+                        "eng": "Black Wings and Sleeping Forest - Break on the Sky - Part I",
+                        "jpn": "エア・ギア 黒の羽と眠りの森 -Break on the Sky- (1)"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "3436791",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/3436791",
+                    "Titles": {
+                        "eng": "Black Wings and Sleeping Forest - Break on the Sky - Part II",
+                        "jpn": "エア・ギア 黒の羽と眠りの森 -Break on the Sky- (2)"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4120985",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/4120985",
+                    "Titles": {
+                        "eng": "Black Wings and Sleeping Forest - Break on the Sky - Part III",
+                        "jpn": "エア・ギア 黒の羽と眠りの森 -Break on the Sky- (3)"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "17211",
+            "URL": "https://thetvdb.com/series/air-gear/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "319855",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319855",
+                    "Titles": {
+                        "eng": "The Invincible Baby Face",
+                        "jpn": "Trick:1"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "319856",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319856",
+                    "Titles": {
+                        "eng": "Screams of the Rez-Boa Dogs",
+                        "jpn": "Trick:2"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "319857",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319857",
+                    "Titles": {
+                        "eng": "Enter the Night Kings",
+                        "jpn": "Trick:3"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "319858",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319858",
+                    "Titles": {
+                        "eng": "A Battle for Kazu, Onigiri, and My Pride",
+                        "jpn": "Trick:4"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "319859",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319859",
+                    "Titles": {
+                        "eng": "My Body, My Heart is Being Set Aflame",
+                        "jpn": "Trick:5"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "319860",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319860",
+                    "Titles": {
+                        "eng": "It's a Rematch! I'll Get My Emblem Back!",
+                        "jpn": "Trick:6"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "319861",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319861",
+                    "Titles": {
+                        "eng": "What's Wrong with Rejection? Onigiri, We're Comrades!",
+                        "jpn": "Trick:7"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "319862",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319862",
+                    "Titles": {
+                        "eng": "Defeat Orihara-sensei's Supplementary Exam: Let's Rediscover Ton-chan-sensei's Past",
+                        "jpn": "Trick:8"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "319863",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319863",
+                    "Titles": {
+                        "eng": "Clash! Buffalo vs. Great White Shark",
+                        "jpn": "Trick:9"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "319864",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319864",
+                    "Titles": {
+                        "eng": "Agito, I'll Drag You Up From the Bottom of the Well",
+                        "jpn": "Trick:10"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "319865",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319865",
+                    "Titles": {
+                        "eng": "Team Kogarasumaru Take-off",
+                        "jpn": "Trick:11"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "319866",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319866",
+                    "Titles": {
+                        "eng": "She's Finally Here: The Savior Rider",
+                        "jpn": "Trick:12"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "319867",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319867",
+                    "Titles": {
+                        "eng": "What Do You Mean By Icarus' Wings? I'll Show You My Talent, Rika-nee",
+                        "jpn": "Trick:13"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "319868",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319868",
+                    "Titles": {
+                        "eng": "Collision! The Old & New Sky King's Heir vs. the Old & New Sleeping Forest",
+                        "jpn": "Trick:14"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "319869",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319869",
+                    "Titles": {
+                        "eng": "I'll Cut Off the Shackle of Thorns!",
+                        "jpn": "Trick:15"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "319870",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319870",
+                    "Titles": {
+                        "eng": "Let's Go, Kogarasumaru!",
+                        "jpn": "Trick:16"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "319871",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319871",
+                    "Titles": {
+                        "eng": "The Cube Battle in Hell: Kogarasumaru Evolves",
+                        "jpn": "Trick:17"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "319872",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319872",
+                    "Titles": {
+                        "eng": "Finally a Win",
+                        "jpn": "Trick:18"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "319873",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319873",
+                    "Titles": {
+                        "eng": "The Fang's Regalia of Destiny is Howling!",
+                        "jpn": "Trick:19"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "319874",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319874",
+                    "Titles": {
+                        "eng": "It's Finally the End",
+                        "jpn": "Trick:20"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "319875",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319875",
+                    "Titles": {
+                        "eng": "Genesis Strikes!",
+                        "jpn": "Trick:21"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "319876",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319876",
+                    "Titles": {
+                        "eng": "The Battle for Agito's Documents!",
+                        "jpn": "Trick:22"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "319877",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319877",
+                    "Titles": {
+                        "eng": "Genesis's Kansai Division Appears",
+                        "jpn": "Trick:23"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "319878",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319878",
+                    "Titles": {
+                        "eng": "A True Spirit's Battle!",
+                        "jpn": "Trick:24"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "319879",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/air-gear/episodes/319879",
+                    "Titles": {
+                        "eng": "I'm a Genius!",
+                        "jpn": "Trick:25"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

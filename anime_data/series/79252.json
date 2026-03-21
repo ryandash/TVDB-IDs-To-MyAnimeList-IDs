@@ -1,0 +1,540 @@
+{
+    "URL": "https://thetvdb.com/series/astro-boy-2003",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0387719/",
+        "https://tvlistings.zap2it.com/overview.html?programSeriesId=SH0063200700",
+        "https://www.themoviedb.org/tv/12050"
+    ],
+    "Titles": {
+        "eng": "Astro Boy (2003)",
+        "jpn": "ASTROBOY鉄腕アトム"
+    },
+    "Aliases": [
+        "ASTRO BOY 鉄腕アトム",
+        "アストロボーイ・鉄腕アトム"
+    ],
+    "Modified": "2025-10-01",
+    "Seasons": {
+        "1": {
+            "ID": "16631",
+            "URL": "https://thetvdb.com/series/astro-boy-2003/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 50,
+            "Episodes": {
+                "1": {
+                    "ID": "392924",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392924",
+                    "Titles": {
+                        "eng": "Power Up!",
+                        "jpn": "パワーアップ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "392925",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392925",
+                    "Titles": {
+                        "eng": "Rocket Ball",
+                        "jpn": "ロボットボール"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "392928",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392928",
+                    "Titles": {
+                        "eng": "Destination Deimos",
+                        "jpn": "アトム宇宙へ行く"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "392929",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392929",
+                    "Titles": {
+                        "eng": "Into Thin Air",
+                        "jpn": "電光"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "392930",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392930",
+                    "Titles": {
+                        "eng": "Rainbow Canyon",
+                        "jpn": "ロボット農場を救え！"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "392926",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392926",
+                    "Titles": {
+                        "eng": "Atlas",
+                        "jpn": "アトラル誕生"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "392927",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392927",
+                    "Titles": {
+                        "eng": "Astro vs Atlas",
+                        "jpn": "アトムＶＳアトラス"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "392931",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392931",
+                    "Titles": {
+                        "eng": "Neon Express",
+                        "jpn": "ロボット超特急"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "392932",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392932",
+                    "Titles": {
+                        "eng": "Franken",
+                        "jpn": "フランケン"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "392933",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392933",
+                    "Titles": {
+                        "eng": "The Venus Robots",
+                        "jpn": "金星ロボット襲来！"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "392945",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392945",
+                    "Titles": {
+                        "eng": "Robot Circus",
+                        "jpn": "さよならプリンセス"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "392934",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392934",
+                    "Titles": {
+                        "eng": "Reviving Jumbo",
+                        "jpn": "ロボットサーカスがやって来た！"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "392946",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392946",
+                    "Titles": {
+                        "eng": "Little Sister, Big Trouble",
+                        "jpn": "失われた記憶"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "392947",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392947",
+                    "Titles": {
+                        "eng": "Micro Adventure",
+                        "jpn": "ミクロの大冒険"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "392948",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392948",
+                    "Titles": {
+                        "eng": "Only a Machine",
+                        "jpn": "もしも涙を流せたら"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "392935",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392935",
+                    "Titles": {
+                        "eng": "Robot Hunters",
+                        "jpn": "よみがえったジャンボ"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "392936",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392936",
+                    "Titles": {
+                        "eng": "The Rise of Pluto",
+                        "jpn": "ウラン誕生"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "392937",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392937",
+                    "Titles": {
+                        "eng": "The Fall of Acheron",
+                        "jpn": "ミクロの大冒険"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "392949",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392949",
+                    "Titles": {
+                        "eng": "Robot Boy",
+                        "jpn": "青騎士登場"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "392950",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392950",
+                    "Titles": {
+                        "eng": "Dawn of the Techno-Revolution",
+                        "jpn": "名探偵ヒゲオヤジ"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "392938",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392938",
+                    "Titles": {
+                        "eng": "Dragon Lake",
+                        "jpn": "人口知能を守れ！"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "392951",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392951",
+                    "Titles": {
+                        "eng": "The Legend of Tohron",
+                        "jpn": "宇宙プラントの危機"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "392939",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392939",
+                    "Titles": {
+                        "eng": "Lost In Outland",
+                        "jpn": "闇のロボットハンター"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "392952",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392952",
+                    "Titles": {
+                        "eng": "March of the Micro Bears",
+                        "jpn": "ウランと名探偵"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "392940",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392940",
+                    "Titles": {
+                        "eng": "Deep City",
+                        "jpn": "地上最強のロボット"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "392941",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392941",
+                    "Titles": {
+                        "eng": "The Blue Knight",
+                        "jpn": "ブルートウは死なず"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "392953",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392953",
+                    "Titles": {
+                        "eng": "Old Dog, New Tricks",
+                        "jpn": "地底探検"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "392942",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392942",
+                    "Titles": {
+                        "eng": "Hydra-Jacked",
+                        "jpn": "ロボットボーイ"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "392954",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392954",
+                    "Titles": {
+                        "eng": "The Case of the Phantom Fowl",
+                        "jpn": "グーノンの大冒険"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "392943",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392943",
+                    "Titles": {
+                        "eng": "Geo-Raider",
+                        "jpn": "永遠の少年"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "392955",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392955",
+                    "Titles": {
+                        "eng": "Gideon",
+                        "jpn": "青騎士の秘密"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "392944",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392944",
+                    "Titles": {
+                        "eng": "The Secret of Blue Knight",
+                        "jpn": "湖の怪物"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "392956",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392956",
+                    "Titles": {
+                        "eng": "Fairy Tale",
+                        "jpn": "妖精物語"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "392957",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392957",
+                    "Titles": {
+                        "eng": "Shape Shifter",
+                        "jpn": "変形生命ムーピー"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "392958",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392958",
+                    "Titles": {
+                        "eng": "Firebird",
+                        "jpn": "アトムvsロック"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "392959",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392959",
+                    "Titles": {
+                        "eng": "Space Academy",
+                        "jpn": "恋するロボット"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "392960",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392960",
+                    "Titles": {
+                        "eng": "Atlas Strikes Back!",
+                        "jpn": "アトラス逆襲"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "392961",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392961",
+                    "Titles": {
+                        "eng": "Battle-Bot",
+                        "jpn": "エイミーの願い"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "392962",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392962",
+                    "Titles": {
+                        "eng": "Time Hunters",
+                        "jpn": "タイムハンター"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "392963",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392963",
+                    "Titles": {
+                        "eng": "Escape from Volcano Island",
+                        "jpn": "ロボット嫌い"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "392964",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392964",
+                    "Titles": {
+                        "eng": "Avalanche!",
+                        "jpn": "巨人の記録"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "392965",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392965",
+                    "Titles": {
+                        "eng": "Battle of Steel Island",
+                        "jpn": "鉄鋼島の戦い"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "392966",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392966",
+                    "Titles": {
+                        "eng": "Undercover",
+                        "jpn": "人間に憧れたロボット"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "392967",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392967",
+                    "Titles": {
+                        "eng": "Into the Dragon's Lair",
+                        "jpn": "龍の森へ"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "392968",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392968",
+                    "Titles": {
+                        "eng": "Night Before the Revolution",
+                        "jpn": "革命前夜"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "392969",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392969",
+                    "Titles": {
+                        "eng": "Robotonia",
+                        "jpn": "ロボタニア建国"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "392970",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392970",
+                    "Titles": {
+                        "eng": "Showdown in Robotonia",
+                        "jpn": "決戦！南極大陸"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "392971",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392971",
+                    "Titles": {
+                        "eng": "Journey to Tomorrow",
+                        "jpn": "明日への旅立ち"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "392972",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392972",
+                    "Titles": {
+                        "eng": "Astro Reborn",
+                        "jpn": "アトム復活"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "392973",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/astro-boy-2003/episodes/392973",
+                    "Titles": {
+                        "eng": "The Final Battle",
+                        "jpn": "最後の対決"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,1922 @@
+{
+    "URL": "https://thetvdb.com/series/ace-of-diamond",
+    "Genres": [
+        "Adaptation",
+        "Anime - Shonen"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt3105422/",
+        "https://diaace.com/",
+        "https://www.tvmaze.com/shows/2871/show-slug",
+        "https://www.themoviedb.org/tv/60761",
+        "https://en.wikipedia.org/wiki/Ace_of_Diamond#Anime",
+        "https://x.com/diaace_anime"
+    ],
+    "Titles": {
+        "eng": "Ace of Diamond",
+        "jpn": "ダイヤのA"
+    },
+    "Aliases": [
+        "Diamond no Ace",
+        "Ace of Diamond: Act II",
+        "ダイヤのA[エース]"
+    ],
+    "Modified": "2026-03-04",
+    "Seasons": {
+        "0": {
+            "ID": "562248",
+            "URL": "https://thetvdb.com/series/ace-of-diamond/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "5098092",
+                    "TYPE": "OVA",
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5098092",
+                    "Titles": {
+                        "eng": "OVA 1: Face",
+                        "jpn": "Face"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6465471",
+                    "TYPE": "OVA",
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/6465471",
+                    "Titles": {
+                        "eng": "OVA 2: Out Run",
+                        "jpn": "Out Run"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6465472",
+                    "TYPE": "OVA",
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/6465472",
+                    "Titles": {
+                        "eng": "OVA 3: Boys Be",
+                        "jpn": "Boys be…"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6465473",
+                    "TYPE": "OVA",
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/6465473",
+                    "Titles": {
+                        "eng": "OVA 4: Seidou Diary",
+                        "jpn": "青道ダイアリー／カムバック／ウィンターキャンプ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6465474",
+                    "TYPE": "OVA",
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/6465474",
+                    "Titles": {
+                        "eng": "OVA 5: Glory",
+                        "jpn": "Spirits／Glory"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "528842",
+            "URL": "https://thetvdb.com/series/ace-of-diamond/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 75,
+            "Episodes": {
+                "1": {
+                    "ID": "4652806",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4652806",
+                    "Titles": {
+                        "eng": "The One Pitch",
+                        "jpn": "運命の一球"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4677124",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4677124",
+                    "Titles": {
+                        "eng": "Partner",
+                        "jpn": "相棒"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4684464",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4684464",
+                    "Titles": {
+                        "eng": "Not Qualified to Be a Pitcher?",
+                        "jpn": "投手失格?"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4690865",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4690865",
+                    "Titles": {
+                        "eng": "Are You Like Me?",
+                        "jpn": "同じタイプ?"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4696453",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4696453",
+                    "Titles": {
+                        "eng": "A Clash",
+                        "jpn": "激突"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4696454",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4696454",
+                    "Titles": {
+                        "eng": "Head to Head",
+                        "jpn": "真っ向勝負!"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4714135",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4714135",
+                    "Titles": {
+                        "eng": "The Two Batteries",
+                        "jpn": "ふたつのバッテリー"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4714136",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4714136",
+                    "Titles": {
+                        "eng": "The Truth About Chris",
+                        "jpn": "クリスの真実"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4714137",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4714137",
+                    "Titles": {
+                        "eng": "With Chagrin in His Heart",
+                        "jpn": "悔しさ、胸に刻んで"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4714138",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4714138",
+                    "Titles": {
+                        "eng": "Hone Your Moving Fastball",
+                        "jpn": "磨け、クセ球"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4714139",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4714139",
+                    "Titles": {
+                        "eng": "Chris to the Field!",
+                        "jpn": "クリス出陣!"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4714140",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4714140",
+                    "Titles": {
+                        "eng": "Target",
+                        "jpn": "ターゲット"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4751690",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4751690",
+                    "Titles": {
+                        "eng": "You're in the First-String",
+                        "jpn": "一軍昇格"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4751691",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4751691",
+                    "Titles": {
+                        "eng": "Training Camp Begins!",
+                        "jpn": "合宿スタート!"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4770523",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4770523",
+                    "Titles": {
+                        "eng": "Lead with Your Plays!",
+                        "jpn": "プレーで引っぱれ!"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4770828",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4770828",
+                    "Titles": {
+                        "eng": "Challenge",
+                        "jpn": "試練"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4770829",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4770829",
+                    "Titles": {
+                        "eng": "Games Are Fun",
+                        "jpn": "試合は楽しい"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4770830",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4770830",
+                    "Titles": {
+                        "eng": "I Hate It, But...",
+                        "jpn": "ムカつくけど"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4770831",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4770831",
+                    "Titles": {
+                        "eng": "Fate",
+                        "jpn": "因縁"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4770832",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4770832",
+                    "Titles": {
+                        "eng": "Emergency",
+                        "jpn": "緊急事態"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4805664",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4805664",
+                    "Titles": {
+                        "eng": "To the Dream Stage",
+                        "jpn": "夢の舞台へ"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4805665",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4805665",
+                    "Titles": {
+                        "eng": "Calling for Attention",
+                        "jpn": "アピールタイム"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4805666",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4805666",
+                    "Titles": {
+                        "eng": "Official Game Debut",
+                        "jpn": "公式戦デビュー"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "4805667",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4805667",
+                    "Titles": {
+                        "eng": "Precision Machine",
+                        "jpn": "精密機械"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "4836082",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4836082",
+                    "Titles": {
+                        "eng": "Anti-Furuya Strategy",
+                        "jpn": "降谷攻略"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "4844115",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4844115",
+                    "Titles": {
+                        "eng": "Miracle Akikawa",
+                        "jpn": "ミラクル明川"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "4849042",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4849042",
+                    "Titles": {
+                        "eng": "I'm Not Running",
+                        "jpn": "逃げねえぞ"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "4854347",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4854347",
+                    "Titles": {
+                        "eng": "Path, Eijun Sawamura to the Scorching Mound",
+                        "jpn": "軌跡 沢村栄純 熱闘のマウンドへ"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "4860666",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4860666",
+                    "Titles": {
+                        "eng": "Neck and Neck",
+                        "jpn": "拮抗"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "4868312",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4868312",
+                    "Titles": {
+                        "eng": "Winner and Loser",
+                        "jpn": "勝者と敗者"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "4873575",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4873575",
+                    "Titles": {
+                        "eng": "Dark Horse",
+                        "jpn": "ダークホース"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "4886055",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4886055",
+                    "Titles": {
+                        "eng": "Summers",
+                        "jpn": "それぞれの夏"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "4891602",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4891602",
+                    "Titles": {
+                        "eng": "Money Tree",
+                        "jpn": "金のなる木"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "4891604",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4891604",
+                    "Titles": {
+                        "eng": "Reliable Teammates",
+                        "jpn": "頼れる先輩達"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "4896968",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4896968",
+                    "Titles": {
+                        "eng": "Potential",
+                        "jpn": "ポテンシャル"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "4903399",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4903399",
+                    "Titles": {
+                        "eng": "The Ace Takes the Mound",
+                        "jpn": "エース登場"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "4908714",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4908714",
+                    "Titles": {
+                        "eng": "Burst!",
+                        "jpn": "バースト!"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "4919531",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4919531",
+                    "Titles": {
+                        "eng": "Roles",
+                        "jpn": "それぞれの役割"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "4925498",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4925498",
+                    "Titles": {
+                        "eng": "Expectations of an Ace",
+                        "jpn": "期待を背負って"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "4932325",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4932325",
+                    "Titles": {
+                        "eng": "The Winning Shot",
+                        "jpn": "ウィニングショット"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "4937559",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4937559",
+                    "Titles": {
+                        "eng": "It's the Semifinal",
+                        "jpn": "いざ、準決勝"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "4942109",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4942109",
+                    "Titles": {
+                        "eng": "The Giant Looks Down",
+                        "jpn": "そびえる大巨人"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "4948332",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4948332",
+                    "Titles": {
+                        "eng": "Revenge",
+                        "jpn": "リベンジ"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "4956878",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4956878",
+                    "Titles": {
+                        "eng": "Best Pitch",
+                        "jpn": "決め球"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "4965784",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4965784",
+                    "Titles": {
+                        "eng": "Fantasy",
+                        "jpn": "夢物語"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "4971890",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4971890",
+                    "Titles": {
+                        "eng": "Pitching of Despair",
+                        "jpn": "絶望を呼ぶ投球"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "4980419",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4980419",
+                    "Titles": {
+                        "eng": "That Summer",
+                        "jpn": "、、、あの夏"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "4985337",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4985337",
+                    "Titles": {
+                        "eng": "At the Dorm",
+                        "jpn": "寮にて、、、、"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "4992212",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4992212",
+                    "Titles": {
+                        "eng": "A Face From the Past",
+                        "jpn": "懐かしい顔"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "4998495",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/4998495",
+                    "Titles": {
+                        "eng": "Footsteps to Tomorrow",
+                        "jpn": "明日への足跡"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "5003451",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5003451",
+                    "Titles": {
+                        "eng": "The Battle Begins!",
+                        "jpn": "決戦開始!"
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "5009361",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5009361",
+                    "Titles": {
+                        "eng": "I Don't Want to Lose",
+                        "jpn": "負けたくない"
+                    },
+                    "Aliases": []
+                },
+                "53": {
+                    "ID": "5020676",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5020676",
+                    "Titles": {
+                        "eng": "Change Gears",
+                        "jpn": "ギアチェンジ"
+                    },
+                    "Aliases": []
+                },
+                "54": {
+                    "ID": "5020694",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5020694",
+                    "Titles": {
+                        "eng": "Entrusted Faith and the Courage to Perform",
+                        "jpn": "託す信頼、応える勇気"
+                    },
+                    "Aliases": []
+                },
+                "55": {
+                    "ID": "5034453",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5034453",
+                    "Titles": {
+                        "eng": "Strong Men",
+                        "jpn": "強い男"
+                    },
+                    "Aliases": []
+                },
+                "56": {
+                    "ID": "5034454",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5034454",
+                    "Titles": {
+                        "eng": "Decision",
+                        "jpn": "決断"
+                    },
+                    "Aliases": []
+                },
+                "57": {
+                    "ID": "5047322",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5047322",
+                    "Titles": {
+                        "eng": "Reliable Underclassmen",
+                        "jpn": "頼もしい後輩達"
+                    },
+                    "Aliases": []
+                },
+                "58": {
+                    "ID": "5054153",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5054153",
+                    "Titles": {
+                        "eng": "The Batter Who Hits",
+                        "jpn": "前を打つ男"
+                    },
+                    "Aliases": []
+                },
+                "59": {
+                    "ID": "5061224",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5061224",
+                    "Titles": {
+                        "eng": "Fearless",
+                        "jpn": "怖いもの知らず"
+                    },
+                    "Aliases": []
+                },
+                "60": {
+                    "ID": "5072241",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5072241",
+                    "Titles": {
+                        "eng": "Lonely Sun",
+                        "jpn": "孤独な太陽"
+                    },
+                    "Aliases": []
+                },
+                "61": {
+                    "ID": "5072497",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5072497",
+                    "Titles": {
+                        "eng": "Determined",
+                        "jpn": "執念"
+                    },
+                    "Aliases": []
+                },
+                "62": {
+                    "ID": "5078144",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5078144",
+                    "Titles": {
+                        "eng": "Victory or Defeat",
+                        "jpn": "天王山"
+                    },
+                    "Aliases": []
+                },
+                "63": {
+                    "ID": "5083270",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5083270",
+                    "Titles": {
+                        "eng": "Lingering Feelings",
+                        "jpn": "残響"
+                    },
+                    "Aliases": []
+                },
+                "64": {
+                    "ID": "5083271",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5083271",
+                    "Titles": {
+                        "eng": "Restart",
+                        "jpn": "リスタート"
+                    },
+                    "Aliases": []
+                },
+                "65": {
+                    "ID": "5098840",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5098840",
+                    "Titles": {
+                        "eng": "In the Sun",
+                        "jpn": "日の当たる場所"
+                    },
+                    "Aliases": []
+                },
+                "66": {
+                    "ID": "5106020",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5106020",
+                    "Titles": {
+                        "eng": "Outsider",
+                        "jpn": "よそ者"
+                    },
+                    "Aliases": []
+                },
+                "67": {
+                    "ID": "5111293",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5111293",
+                    "Titles": {
+                        "eng": "The Kick",
+                        "jpn": "発奮材料"
+                    },
+                    "Aliases": []
+                },
+                "68": {
+                    "ID": "5116736",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5116736",
+                    "Titles": {
+                        "eng": "The Ace Title",
+                        "jpn": "エースの座"
+                    },
+                    "Aliases": []
+                },
+                "69": {
+                    "ID": "5122866",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5122866",
+                    "Titles": {
+                        "eng": "Can't Lose",
+                        "jpn": "負けらんねぇ!"
+                    },
+                    "Aliases": []
+                },
+                "70": {
+                    "ID": "5129057",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5129057",
+                    "Titles": {
+                        "eng": "Next Stage",
+                        "jpn": "Next Stage"
+                    },
+                    "Aliases": []
+                },
+                "71": {
+                    "ID": "5138179",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5138179",
+                    "Titles": {
+                        "eng": "Under the Sky in September",
+                        "jpn": "９月の空の下"
+                    },
+                    "Aliases": []
+                },
+                "72": {
+                    "ID": "5138180",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5138180",
+                    "Titles": {
+                        "eng": "Last Guide",
+                        "jpn": "最後の教え"
+                    },
+                    "Aliases": []
+                },
+                "73": {
+                    "ID": "5138181",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5138181",
+                    "Titles": {
+                        "eng": "Inheritance",
+                        "jpn": "継承"
+                    },
+                    "Aliases": []
+                },
+                "74": {
+                    "ID": "5159370",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5159370",
+                    "Titles": {
+                        "eng": "Guiding Light",
+                        "jpn": "道しるべ"
+                    },
+                    "Aliases": []
+                },
+                "75": {
+                    "ID": "5164387",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5164387",
+                    "Titles": {
+                        "eng": "In Pursuit",
+                        "jpn": "その場所を目指してーー"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "615547",
+            "URL": "https://thetvdb.com/series/ace-of-diamond/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 51,
+            "Episodes": {
+                "1": {
+                    "ID": "5150502",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5150502",
+                    "Titles": {
+                        "eng": "Roar of Midsummer",
+                        "jpn": "真夏の咆哮"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5165635",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5165635",
+                    "Titles": {
+                        "eng": "Sunshine of Midsummer",
+                        "jpn": "真夏の陽炎"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5165636",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5165636",
+                    "Titles": {
+                        "eng": "Champion of Midsummer",
+                        "jpn": "真夏の王者"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5165637",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5165637",
+                    "Titles": {
+                        "eng": "The Fall Tournament Begins!",
+                        "jpn": "いざ, 秋大!"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5165638",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5165638",
+                    "Titles": {
+                        "eng": "Cold Rain",
+                        "jpn": "冷たい雨"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5212560",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5212560",
+                    "Titles": {
+                        "eng": "Out of Order",
+                        "jpn": "OUT OF ORDER"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5212561",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5212561",
+                    "Titles": {
+                        "eng": "Where I Am",
+                        "jpn": "現在地"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5212562",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5212562",
+                    "Titles": {
+                        "eng": "Scenario",
+                        "jpn": "筋書き"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5212564",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5212564",
+                    "Titles": {
+                        "eng": "My Path",
+                        "jpn": "我が道"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5212565",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5212565",
+                    "Titles": {
+                        "eng": "Did You Just Pitch...",
+                        "jpn": "投げたよな"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5251910",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5251910",
+                    "Titles": {
+                        "eng": "The Underdog Story",
+                        "jpn": "下克上"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5251911",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5251911",
+                    "Titles": {
+                        "eng": "Self-Destruction",
+                        "jpn": "自壊"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "5259056",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5259056",
+                    "Titles": {
+                        "eng": "Fissure",
+                        "jpn": "亀裂"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "5265299",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5265299",
+                    "Titles": {
+                        "eng": "On My Shoulders",
+                        "jpn": "背負うモノ"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "5272769",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5272769",
+                    "Titles": {
+                        "eng": "Persistent and Diligent",
+                        "jpn": "粘り強く淡々と"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "5279091",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5279091",
+                    "Titles": {
+                        "eng": "Chain Reaction",
+                        "jpn": "連鎖反応"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "5283803",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5283803",
+                    "Titles": {
+                        "eng": "Shut Him Down!!",
+                        "jpn": "ねじ伏せろ!!"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "5291643",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5291643",
+                    "Titles": {
+                        "eng": "This Guy's Pretty Good",
+                        "jpn": "やるぜ, コイツ"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "5298064",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5298064",
+                    "Titles": {
+                        "eng": "An Uncompromising Challenge",
+                        "jpn": "妥協なき挑戦"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "5303982",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5303982",
+                    "Titles": {
+                        "eng": "With Heads Held High",
+                        "jpn": "上を向いて歩こう"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "5309578",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5309578",
+                    "Titles": {
+                        "eng": "Whispers of the Devil?",
+                        "jpn": "悪魔のささやき?"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "5315308",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5315308",
+                    "Titles": {
+                        "eng": "Winging It",
+                        "jpn": "ぶっつけ本番"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "5321499",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5321499",
+                    "Titles": {
+                        "eng": "School Academic Level",
+                        "jpn": "偏差値"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "5328233",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5328233",
+                    "Titles": {
+                        "eng": "Individual Minds",
+                        "jpn": "それぞれの頭脳"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "5334845",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5334845",
+                    "Titles": {
+                        "eng": "Zeal",
+                        "jpn": "躍動"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "5343004",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5343004",
+                    "Titles": {
+                        "eng": "The Conceited Underclassman",
+                        "jpn": "生意気な後輩"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "5350514",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5350514",
+                    "Titles": {
+                        "eng": "Step By Step",
+                        "jpn": "一歩 また一歩と"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "5359289",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5359289",
+                    "Titles": {
+                        "eng": "The Resilient Second-String",
+                        "jpn": "控えの意地"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "5369069",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5369069",
+                    "Titles": {
+                        "eng": "Demon Child",
+                        "jpn": "悪童"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "5376743",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5376743",
+                    "Titles": {
+                        "eng": "The Kings' Roar",
+                        "jpn": "王者の掛け声"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "5384168",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5384168",
+                    "Titles": {
+                        "eng": "The Courage He Gave Me",
+                        "jpn": "彼がくれた勇気"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "5390584",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5390584",
+                    "Titles": {
+                        "eng": "The Resolve for Responsibility",
+                        "jpn": "背負う覚悟"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "5397632",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5397632",
+                    "Titles": {
+                        "eng": "The Ace's Instinct",
+                        "jpn": "エースの本能"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "5403447",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5403447",
+                    "Titles": {
+                        "eng": "Innocent",
+                        "jpn": "イノセント"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "5411723",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5411723",
+                    "Titles": {
+                        "eng": "The World Beyond",
+                        "jpn": "その先の世界"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "5422468",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5422468",
+                    "Titles": {
+                        "eng": "Rematch",
+                        "jpn": "夏の続き"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "5432237",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5432237",
+                    "Titles": {
+                        "eng": "Priorities",
+                        "jpn": "優先順位"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "5438736",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5438736",
+                    "Titles": {
+                        "eng": "One Pitch",
+                        "jpn": "魔の一球"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "5447152",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5447152",
+                    "Titles": {
+                        "eng": "Meeting Expectations",
+                        "jpn": "期待に、応えたい"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "5463517",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5463517",
+                    "Titles": {
+                        "eng": "Play Ball",
+                        "jpn": "幕は待たない"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "5475471",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5475471",
+                    "Titles": {
+                        "eng": "The Lead-off Man",
+                        "jpn": "突破口"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "5483586",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5483586",
+                    "Titles": {
+                        "eng": "Fastball, Featuring Todoroki",
+                        "jpn": "轟球"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "5493516",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5493516",
+                    "Titles": {
+                        "eng": "To This Side",
+                        "jpn": "こっち側へ"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "5501512",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5501512",
+                    "Titles": {
+                        "eng": "The Best Fastball",
+                        "jpn": "最高のストレート"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "5509161",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5509161",
+                    "Titles": {
+                        "eng": "The Field",
+                        "jpn": "そこに立つ者"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "5517892",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5517892",
+                    "Titles": {
+                        "eng": "The Decision",
+                        "jpn": "独断"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "5527136",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5527136",
+                    "Titles": {
+                        "eng": "Partnership",
+                        "jpn": "パートナーシップ"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "5536334",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5536334",
+                    "Titles": {
+                        "eng": "Party Boys",
+                        "jpn": "お祭り男ども"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "5542329",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5542329",
+                    "Titles": {
+                        "eng": "Just You Wait!",
+                        "jpn": "待ってろ！"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "5554063",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5554063",
+                    "Titles": {
+                        "eng": "Last Inning",
+                        "jpn": "ラストイニング"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "5557940",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/5557940",
+                    "Titles": {
+                        "eng": "Seek Diamonds",
+                        "jpn": "Seek Diamonds"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "787420",
+            "URL": "https://thetvdb.com/series/ace-of-diamond/seasons/official/3",
+            "Titles": {
+                "eng": "Act II",
+                "jpn": "Act II"
+            },
+            "# Episodes": 52,
+            "Episodes": {
+                "1": {
+                    "ID": "6916964",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/6916964",
+                    "Titles": {
+                        "eng": "Beyond the Dream",
+                        "jpn": "夢の先"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7116476",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7116476",
+                    "Titles": {
+                        "eng": "Wanna Take The Mound",
+                        "jpn": "早く立ちたい"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7126018",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7126018",
+                    "Titles": {
+                        "eng": "Blessed by the Baseball Gods",
+                        "jpn": "野球の申し子"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7146290",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7146290",
+                    "Titles": {
+                        "eng": "The Day It Began",
+                        "jpn": "はじまりの日"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7152316",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7152316",
+                    "Titles": {
+                        "eng": "Joining",
+                        "jpn": "合流"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "7159855",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7159855",
+                    "Titles": {
+                        "eng": "Go Straight",
+                        "jpn": "Go Straight"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "7171424",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7171424",
+                    "Titles": {
+                        "eng": "King",
+                        "jpn": "KING"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "7197803",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7197803",
+                    "Titles": {
+                        "eng": "Camphor",
+                        "jpn": "カンフル剤"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "7210221",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7210221",
+                    "Titles": {
+                        "eng": "Battle, Battle",
+                        "jpn": "バトル×バトル"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "7210891",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7210891",
+                    "Titles": {
+                        "eng": "Debut",
+                        "jpn": "初陣"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "7230667",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7230667",
+                    "Titles": {
+                        "eng": "Where You Look",
+                        "jpn": "視線の先"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "7230679",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7230679",
+                    "Titles": {
+                        "eng": "Selfish",
+                        "jpn": "ワガママ"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "7250706",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7250706",
+                    "Titles": {
+                        "eng": "Batting First",
+                        "jpn": "先攻"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "7261576",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7261576",
+                    "Titles": {
+                        "eng": "Presence",
+                        "jpn": "気配"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "7264525",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7264525",
+                    "Titles": {
+                        "eng": "My Role",
+                        "jpn": "自分の役割"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "7284718",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7284718",
+                    "Titles": {
+                        "eng": "Only After You've Won",
+                        "jpn": "勝ってこそ"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "7285282",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7285282",
+                    "Titles": {
+                        "eng": "Three Months",
+                        "jpn": "三か月"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "7285288",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7285288",
+                    "Titles": {
+                        "eng": "Something to Find Out",
+                        "jpn": "確かめたいもの"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "7310587",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7310587",
+                    "Titles": {
+                        "eng": "Competitive Streak",
+                        "jpn": "戦う姿勢"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "7310947",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7310947",
+                    "Titles": {
+                        "eng": "Self-Assertive",
+                        "jpn": "自己主張"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "7327485",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7327485",
+                    "Titles": {
+                        "eng": "Out of Time",
+                        "jpn": "時間がない"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "7327507",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7327507",
+                    "Titles": {
+                        "eng": "Chosen",
+                        "jpn": "指名"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "7339856",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7339856",
+                    "Titles": {
+                        "eng": "One Pitch, One Second",
+                        "jpn": "一球一秒"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "7354038",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7354038",
+                    "Titles": {
+                        "eng": "Incomplete",
+                        "jpn": "未完成"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "7354300",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7354300",
+                    "Titles": {
+                        "eng": "Unleashed",
+                        "jpn": "解禁"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "7363719",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7363719",
+                    "Titles": {
+                        "eng": "Beneath the Same Banner",
+                        "jpn": "同じ旗の下"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "7372551",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7372551",
+                    "Titles": {
+                        "eng": "The Note",
+                        "jpn": "THE NOTE"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "7384025",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7384025",
+                    "Titles": {
+                        "eng": "I'm Not Stopping!",
+                        "jpn": "止まんねぇからな"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "7384037",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7384037",
+                    "Titles": {
+                        "eng": "After Spring Comes",
+                        "jpn": "春、そして──"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "7384048",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7384048",
+                    "Titles": {
+                        "eng": "The Bloom of Youth",
+                        "jpn": "BLOOM OF YOUTH"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "7384050",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7384050",
+                    "Titles": {
+                        "eng": "Kind of Like a Promise",
+                        "jpn": "誓いのようなもの"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "7384053",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7384053",
+                    "Titles": {
+                        "eng": "Hunger",
+                        "jpn": "渇望"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "7440683",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7440683",
+                    "Titles": {
+                        "eng": "Heat Transfer",
+                        "jpn": "伝熱"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "7449152",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7449152",
+                    "Titles": {
+                        "eng": "Competition",
+                        "jpn": "競演"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "7461011",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7461011",
+                    "Titles": {
+                        "eng": "Because He's Awesome",
+                        "jpn": "スゲー奴だから"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "7473172",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7473172",
+                    "Titles": {
+                        "eng": "As a Catcher",
+                        "jpn": "捕手として"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "7478687",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7478687",
+                    "Titles": {
+                        "eng": "Invincible Mentality",
+                        "jpn": "常勝思考"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "7498675",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7498675",
+                    "Titles": {
+                        "eng": "Fragile",
+                        "jpn": "フラジャイル"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "7498676",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7498676",
+                    "Titles": {
+                        "eng": "I'm Counting On You",
+                        "jpn": "頼んだぞ"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "7528239",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7528239",
+                    "Titles": {
+                        "eng": "Expression",
+                        "jpn": "面構え"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "7528692",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7528692",
+                    "Titles": {
+                        "eng": "Common Destiny",
+                        "jpn": "運命共同体"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "7539471",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7539471",
+                    "Titles": {
+                        "eng": "20 People",
+                        "jpn": "20人"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "7558294",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7558294",
+                    "Titles": {
+                        "eng": "Summer Training Camp",
+                        "jpn": "夏合宿"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "7560953",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7560953",
+                    "Titles": {
+                        "eng": "Setting Sail",
+                        "jpn": "航進"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "7577116",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7577116",
+                    "Titles": {
+                        "eng": "Go EXCEED!!",
+                        "jpn": "Go EXCEED!!"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "7586276",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7586276",
+                    "Titles": {
+                        "eng": "Encouragement",
+                        "jpn": "激励"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "7602625",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7602625",
+                    "Titles": {
+                        "eng": "Under the Feet",
+                        "jpn": "足元"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "7602628",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7602628",
+                    "Titles": {
+                        "eng": "Get Back",
+                        "jpn": "Get Back"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "7618955",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7618955",
+                    "Titles": {
+                        "eng": "Seido Goes All Out",
+                        "jpn": "本気の青道"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "7626511",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7626511",
+                    "Titles": {
+                        "eng": "FIRE AGE",
+                        "jpn": "FIRE AGE"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "7635471",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7635471",
+                    "Titles": {
+                        "eng": "That's the Reason Why",
+                        "jpn": "それでこそ"
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "7647137",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/7647137",
+                    "Titles": {
+                        "eng": "Ace of Diamond",
+                        "jpn": "Ace Of Diamond"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "4": {
+            "ID": "2128392",
+            "URL": "https://thetvdb.com/series/ace-of-diamond/seasons/official/4",
+            "Titles": {
+                "eng": "Act II Second Season",
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "10501542",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ace-of-diamond/episodes/10501542",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

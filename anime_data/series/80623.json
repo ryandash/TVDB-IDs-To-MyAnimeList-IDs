@@ -1,0 +1,298 @@
+{
+    "URL": "https://thetvdb.com/series/fighting-foodons",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0341765/",
+        "http://enoki-films.co.jp/pro_bistrorecipe.php",
+        "https://www.themoviedb.org/tv/16098"
+    ],
+    "Titles": {
+        "eng": "Fighting Foodons",
+        "jpn": "格闘料理伝説ビストロレシピ"
+    },
+    "Aliases": [
+        "Bistro Recipe",
+        "Bistro Recipe - Fighting Chef Zen",
+        "Kakuto Ryori Densetsu Bistro Recipe"
+    ],
+    "Modified": "2026-01-02",
+    "Seasons": {
+        "1": {
+            "ID": "273111",
+            "URL": "https://thetvdb.com/series/fighting-foodons/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "2435081",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435081",
+                    "Titles": {
+                        "eng": "Rice to Meet You",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2435151",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435151",
+                    "Titles": {
+                        "eng": "Pie Tin Power",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "2435171",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435171",
+                    "Titles": {
+                        "eng": "Mushroom With a View",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "2435191",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435191",
+                    "Titles": {
+                        "eng": "Ship of Foods",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "2435201",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435201",
+                    "Titles": {
+                        "eng": "We Have a Wiener!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "2435211",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435211",
+                    "Titles": {
+                        "eng": "Avast Ye Gluttons",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "2435181",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435181",
+                    "Titles": {
+                        "eng": "You Wanna Pizza Me?",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "2435221",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435221",
+                    "Titles": {
+                        "eng": "Battling Banana Island",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "2435231",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435231",
+                    "Titles": {
+                        "eng": "Hot Pepper Pursuit",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "2435241",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435241",
+                    "Titles": {
+                        "eng": "Boot Camp Buffet",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "2435251",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435251",
+                    "Titles": {
+                        "eng": "El Taco Grande",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "2435261",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435261",
+                    "Titles": {
+                        "eng": "Cinnamonkey's Secret",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "2435301",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435301",
+                    "Titles": {
+                        "eng": "Slaw and Order",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "2435311",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435311",
+                    "Titles": {
+                        "eng": "The Comeback Squid",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "2435321",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435321",
+                    "Titles": {
+                        "eng": "Swine Dining",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "2435331",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435331",
+                    "Titles": {
+                        "eng": "Attack of the Burger Brigade",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "2435341",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435341",
+                    "Titles": {
+                        "eng": "Use Your Noodle!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "2435351",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435351",
+                    "Titles": {
+                        "eng": "Assault and Pepper",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "2435361",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435361",
+                    "Titles": {
+                        "eng": "License to Grill",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "2435371",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435371",
+                    "Titles": {
+                        "eng": "To Catch a Beef",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "2435381",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435381",
+                    "Titles": {
+                        "eng": "Hot n' Spy-cy",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "2435391",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435391",
+                    "Titles": {
+                        "eng": "You Go Grill! Part 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "2435401",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435401",
+                    "Titles": {
+                        "eng": "You Go Grill! Part 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "2435411",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435411",
+                    "Titles": {
+                        "eng": "A Whole Lot at Steak",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "2435421",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435421",
+                    "Titles": {
+                        "eng": "Chase in Space",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "2435431",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fighting-foodons/episodes/2435431",
+                    "Titles": {
+                        "eng": "A Dish Served Cold",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "URL": "https://thetvdb.com/series/super-mobile-legend-dinagiga",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/115867"
+    ],
+    "Titles": {
+        "eng": "Super Mobile Legend DinaGiga",
+        "jpn": "超機動伝説ダイナギガ"
+    },
+    "Aliases": [
+        "Chou Kidou Densetsu DinaGiga"
+    ],
+    "Modified": "2025-06-05",
+    "Seasons": {
+        "1": {
+            "ID": "801745",
+            "URL": "https://thetvdb.com/series/super-mobile-legend-dinagiga/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "7080770",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-mobile-legend-dinagiga/episodes/7080770",
+                    "Titles": {
+                        "eng": "DinaGiga Startup: First Half",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7080821",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-mobile-legend-dinagiga/episodes/7080821",
+                    "Titles": {
+                        "eng": "DinaGiga Startup: Second Half",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

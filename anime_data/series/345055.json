@@ -1,0 +1,585 @@
+{
+    "URL": "https://thetvdb.com/series/gundam-build-divers",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt8631370/",
+        "https://www.themoviedb.org/tv/76821"
+    ],
+    "Titles": {
+        "eng": "Gundam Build Divers",
+        "jpn": "ガンダムビルドダイバーズ"
+    },
+    "Aliases": [],
+    "Modified": "2025-06-05",
+    "Seasons": {
+        "0": {
+            "ID": "757771",
+            "URL": "https://thetvdb.com/series/gundam-build-divers/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "6628310",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6628310",
+                    "Titles": {
+                        "eng": "Gundam Build Divers Prologue",
+                        "jpn": "プロローグ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9493036",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493036",
+                    "Titles": {
+                        "eng": "Gundam Build Divers Battlogue",
+                        "jpn": "ガンダムビルドダイバーズ バトローグ"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "757772",
+            "URL": "https://thetvdb.com/series/gundam-build-divers/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "6616940",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6616940",
+                    "Titles": {
+                        "eng": "Welcome to GBN",
+                        "jpn": "Welcome to GBN"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6632093",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6632093",
+                    "Titles": {
+                        "eng": "Chaotic Ogre",
+                        "jpn": "百鬼オーガ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6632094",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6632094",
+                    "Titles": {
+                        "eng": "The Protector",
+                        "jpn": "守る者"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6632095",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6632095",
+                    "Titles": {
+                        "eng": "Tigerwolf of the Sacred Mountain",
+                        "jpn": "霊山の虎狼"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6632097",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6632097",
+                    "Titles": {
+                        "eng": "Holy Land of Perisia",
+                        "jpn": "聖地・ペリシア"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6632098",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6632098",
+                    "Titles": {
+                        "eng": "Past and Future",
+                        "jpn": "過去と未来"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6632100",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6632100",
+                    "Titles": {
+                        "eng": "Force Battle",
+                        "jpn": "フォース戦"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6632101",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6632101",
+                    "Titles": {
+                        "eng": "Festival!",
+                        "jpn": "フェス！"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6632102",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6632102",
+                    "Titles": {
+                        "eng": "Return of the Ogre",
+                        "jpn": "オーガ再び"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6632103",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6632103",
+                    "Titles": {
+                        "eng": "Coalition of Volunteers",
+                        "jpn": "有志連合"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6632104",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6632104",
+                    "Titles": {
+                        "eng": "Ayame's Tears",
+                        "jpn": "アヤメの涙"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6632105",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6632105",
+                    "Titles": {
+                        "eng": "Shining Wings",
+                        "jpn": "光る翼"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "6740764",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6740764",
+                    "Titles": {
+                        "eng": "Duel",
+                        "jpn": "デュエル -決闘-"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "6749660",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6749660",
+                    "Titles": {
+                        "eng": "A New Power",
+                        "jpn": "新しい力"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "6756475",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6756475",
+                    "Titles": {
+                        "eng": "Lotus Challenge",
+                        "jpn": "ロータス・チャレンジ"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "6763532",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6763532",
+                    "Titles": {
+                        "eng": "Friends Reunited",
+                        "jpn": "再会、友よ"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "6776671",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6776671",
+                    "Titles": {
+                        "eng": "Joint Front",
+                        "jpn": "共同戦線"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "6783600",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6783600",
+                    "Titles": {
+                        "eng": "A Man's Will",
+                        "jpn": "男の意地"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "6785978",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6785978",
+                    "Titles": {
+                        "eng": "Nadeshiko-athlon",
+                        "jpn": "ナデシコアスロン"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "6790938",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6790938",
+                    "Titles": {
+                        "eng": "The Truth",
+                        "jpn": "真実"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "6799799",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6799799",
+                    "Titles": {
+                        "eng": "Your Feelings",
+                        "jpn": "君の想い"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "6815672",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6815672",
+                    "Titles": {
+                        "eng": "Devoted Heart",
+                        "jpn": "誓う心"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "6823917",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6823917",
+                    "Titles": {
+                        "eng": "The Fateful Two",
+                        "jpn": "宿命の二人"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "6832441",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6832441",
+                    "Titles": {
+                        "eng": "Decisive Battle",
+                        "jpn": "決戦"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "6838449",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/6838449",
+                    "Titles": {
+                        "eng": "A New World",
+                        "jpn": "新しい世界"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "2033599",
+            "URL": "https://thetvdb.com/series/gundam-build-divers/seasons/official/2",
+            "Titles": {
+                "eng": "Re:Rise",
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "9493046",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493046",
+                    "Titles": {
+                        "eng": "Wandering Core Gundam",
+                        "jpn": "彷徨のコアガンダム"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9493103",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493103",
+                    "Titles": {
+                        "eng": "Unknown Mission",
+                        "jpn": "知られざるミッション"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9493104",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493104",
+                    "Titles": {
+                        "eng": "A Place To Protect",
+                        "jpn": "守るべき場所"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9493105",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493105",
+                    "Titles": {
+                        "eng": "Wounded Wings",
+                        "jpn": "傷ついた翼"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "9493106",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493106",
+                    "Titles": {
+                        "eng": "Now Spread Your Wings",
+                        "jpn": "いま、翼ひろげて"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "9493107",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493107",
+                    "Titles": {
+                        "eng": "Hero on the Brink",
+                        "jpn": "崖っぷちのヒーロー"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "9493108",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493108",
+                    "Titles": {
+                        "eng": "Battered Crown",
+                        "jpn": "傷だらけの栄冠"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "9493109",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493109",
+                    "Titles": {
+                        "eng": "Duty and Illusion",
+                        "jpn": "使命と幻影"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "9493110",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493110",
+                    "Titles": {
+                        "eng": "Abyss of Isolation",
+                        "jpn": "隔絶の淵から"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "9493111",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493111",
+                    "Titles": {
+                        "eng": "The Ones Who Breathe There",
+                        "jpn": "そこにある息吹"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "9493112",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493112",
+                    "Titles": {
+                        "eng": "Last Mission",
+                        "jpn": "ラストミッション"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "9493113",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493113",
+                    "Titles": {
+                        "eng": "The Shuddering World",
+                        "jpn": "震える世界"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "9493114",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493114",
+                    "Titles": {
+                        "eng": "Somewhere in This Universe",
+                        "jpn": "この宇宙(そら)のどこかで"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "9493115",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493115",
+                    "Titles": {
+                        "eng": "Encounters, and Then…",
+                        "jpn": "めぐりあい、そして"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "9493116",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493116",
+                    "Titles": {
+                        "eng": "Mission, Once More",
+                        "jpn": "使命(ミッション)、再び"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "9493117",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493117",
+                    "Titles": {
+                        "eng": "To the Heavenly Land",
+                        "jpn": "天空の大地へ"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "9493118",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493118",
+                    "Titles": {
+                        "eng": "The Sacred Beast Cuadorn",
+                        "jpn": "星獣クアドルン"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "9493124",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493124",
+                    "Titles": {
+                        "eng": "Perfect Sniper",
+                        "jpn": "完璧な狙撃者"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "9493120",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493120",
+                    "Titles": {
+                        "eng": "If It Weren't for You",
+                        "jpn": "君がいなければ"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "9493128",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493128",
+                    "Titles": {
+                        "eng": "A Wish Entrusted",
+                        "jpn": "託された願い"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "9493131",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493131",
+                    "Titles": {
+                        "eng": "To Fly Once More",
+                        "jpn": "もういちど飛ぶために"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "9493132",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493132",
+                    "Titles": {
+                        "eng": "Seltsam's Deadline",
+                        "jpn": "刻限のゼルトザーム"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "9493125",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493125",
+                    "Titles": {
+                        "eng": "Moment of Choice",
+                        "jpn": "選択のとき"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "9493127",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493127",
+                    "Titles": {
+                        "eng": "Build Divers",
+                        "jpn": "ビルドダイバーズ"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "9493129",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493129",
+                    "Titles": {
+                        "eng": "To the Tomorrow I Envision",
+                        "jpn": "僕が描く未来あしたへ"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "9493130",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gundam-build-divers/episodes/9493130",
+                    "Titles": {
+                        "eng": "Re:RISE",
+                        "jpn": "Re:RISE"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "URL": "https://thetvdb.com/series/yukikaze",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Science Fiction",
+        "War"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0378730/",
+        "https://www.themoviedb.org/tv/69797"
+    ],
+    "Titles": {
+        "eng": "Yukikaze",
+        "jpn": "戦闘妖精雪風"
+    },
+    "Aliases": [
+        "Sentou Yousei Yukikaze"
+    ],
+    "Modified": "2026-02-06",
+    "Seasons": {
+        "0": {
+            "ID": "22385",
+            "URL": "https://thetvdb.com/series/yukikaze/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "8487245",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/yukikaze/episodes/8487245",
+                    "Titles": {
+                        "eng": "Fighting Fairy Girl: Rescue Me, Mave-chan!",
+                        "jpn": "戦闘妖精少女 たすけて！メイヴちゃん"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11163518",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/yukikaze/episodes/11163518",
+                    "Titles": {
+                        "eng": "Battle Fairy Yukikaze: Experimental Movie",
+                        "jpn": "戦闘妖精雪風 EXPERIMENTAL MOVIE"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "11163526",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/yukikaze/episodes/11163526",
+                    "Titles": {
+                        "eng": "Aircrafts in Yukikaze from the Pilot’s Eyes",
+                        "jpn": "「戦闘妖精雪風」の航空機表現"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "8199",
+            "URL": "https://thetvdb.com/series/yukikaze/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "157815",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/yukikaze/episodes/157815",
+                    "Titles": {
+                        "eng": "Danger Zone (1)",
+                        "jpn": "OPERATION:1"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "157816",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/yukikaze/episodes/157816",
+                    "Titles": {
+                        "eng": "Danger Zone (2)",
+                        "jpn": "OPERATION:2"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "157817",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/yukikaze/episodes/157817",
+                    "Titles": {
+                        "eng": "Fog of War (1)",
+                        "jpn": "OPERATION:3"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "157818",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/yukikaze/episodes/157818",
+                    "Titles": {
+                        "eng": "Fog of War (2)",
+                        "jpn": "OPERATION:4"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "343821",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/yukikaze/episodes/343821",
+                    "Titles": {
+                        "eng": "Evacuation",
+                        "jpn": "OPERATION:5"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

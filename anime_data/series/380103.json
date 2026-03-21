@@ -1,0 +1,80 @@
+{
+    "URL": "https://thetvdb.com/series/digimon-adventure-20th-memorial-story",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Drama"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/99042"
+    ],
+    "Titles": {
+        "eng": "Digimon Adventure 20th Memorial Story",
+        "jpn": "デジモンアドベンチャー20th メモリアルストーリー"
+    },
+    "Aliases": [],
+    "Modified": "2025-03-15",
+    "Seasons": {
+        "1": {
+            "ID": "1833595",
+            "URL": "https://thetvdb.com/series/digimon-adventure-20th-memorial-story/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "7684541",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/digimon-adventure-20th-memorial-story/episodes/7684541",
+                    "Titles": {
+                        "eng": "To Sora",
+                        "jpn": "空へ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7684542",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/digimon-adventure-20th-memorial-story/episodes/7684542",
+                    "Titles": {
+                        "eng": "Hole in the Heart",
+                        "jpn": "心の穴"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7684556",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/digimon-adventure-20th-memorial-story/episodes/7684556",
+                    "Titles": {
+                        "eng": "Medical Student Joe Kido",
+                        "jpn": "医学生・城戸丈"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7684559",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/digimon-adventure-20th-memorial-story/episodes/7684559",
+                    "Titles": {
+                        "eng": "The Desired Jogress Evolution",
+                        "jpn": "あこがれのジョグレス進化"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7694946",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/digimon-adventure-20th-memorial-story/episodes/7694946",
+                    "Titles": {
+                        "eng": "The Shibuya-ish Heroic Saga of Pump and Gotsu",
+                        "jpn": "パンプとゴツの渋谷系武勇伝"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

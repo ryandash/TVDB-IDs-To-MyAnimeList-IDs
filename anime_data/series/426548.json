@@ -1,0 +1,94 @@
+{
+    "URL": "https://thetvdb.com/series/hakuouki-sekkaroku",
+    "Genres": [
+        "Anime",
+        "Fantasy",
+        "History",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt5819830/"
+    ],
+    "Titles": {
+        "eng": "Hakuoki: Demon of the Fleeting Blossom - A Memory of Snow Flowers",
+        "jpn": "薄桜鬼 雪華録 新選組奇譚"
+    },
+    "Aliases": [
+        "Hakuouki Sekkaroku",
+        "Hakuouki: Sekka-roku - Shinsengumi Kitan"
+    ],
+    "Modified": "2026-02-13",
+    "Seasons": {
+        "1": {
+            "ID": "2027346",
+            "URL": "https://thetvdb.com/series/hakuouki-sekkaroku/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "9424927",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hakuouki-sekkaroku/episodes/9424927",
+                    "Titles": {
+                        "eng": "The Snowy White Dream",
+                        "jpn": "玄夜の白雪"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9424928",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hakuouki-sekkaroku/episodes/9424928",
+                    "Titles": {
+                        "eng": "The Winter's Banked Fire",
+                        "jpn": "冬の埋み火"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9424929",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hakuouki-sekkaroku/episodes/9424929",
+                    "Titles": {
+                        "eng": "The Spear That Slices the Sky",
+                        "jpn": "空裂く槍"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9424930",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hakuouki-sekkaroku/episodes/9424930",
+                    "Titles": {
+                        "eng": "A Drifting Boat",
+                        "jpn": "揺蕩う舟"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "9424931",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hakuouki-sekkaroku/episodes/9424931",
+                    "Titles": {
+                        "eng": "The Winds of Fate",
+                        "jpn": "天明の風"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "9424932",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hakuouki-sekkaroku/episodes/9424932",
+                    "Titles": {
+                        "eng": "Dance of the Snowflakes",
+                        "jpn": "雪華の舞"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

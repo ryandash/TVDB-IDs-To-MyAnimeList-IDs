@@ -1,0 +1,543 @@
+{
+    "URL": "https://thetvdb.com/series/mobile-suit-victory-gundam",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0159185/",
+        "https://www.themoviedb.org/tv/25797"
+    ],
+    "Titles": {
+        "eng": "Mobile Suit Victory Gundam",
+        "jpn": "機動戦士Vガンダム"
+    },
+    "Aliases": [],
+    "Modified": "2025-12-04",
+    "Seasons": {
+        "1": {
+            "ID": "2446",
+            "URL": "https://thetvdb.com/series/mobile-suit-victory-gundam/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 51,
+            "Episodes": {
+                "1": {
+                    "ID": "49028",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49028",
+                    "Titles": {
+                        "eng": "The White Mobile Suit",
+                        "jpn": "白いモビルスーツ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "49029",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49029",
+                    "Titles": {
+                        "eng": "The Day He Met the Machine",
+                        "jpn": "マシンと会った日"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "49030",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49030",
+                    "Titles": {
+                        "eng": "Üso's Battle",
+                        "jpn": "ウッソの戦い"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "49031",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49031",
+                    "Titles": {
+                        "eng": "For Whom Do We Fight?",
+                        "jpn": "戦いは誰のために"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "49032",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49032",
+                    "Titles": {
+                        "eng": "Godzorla's Counterattack",
+                        "jpn": "ゴッゾーラの反撃"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "49033",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49033",
+                    "Titles": {
+                        "eng": "A Warrior's Brilliance",
+                        "jpn": "戦士のかがやき"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "49034",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49034",
+                    "Titles": {
+                        "eng": "The Sound of the Guillotine",
+                        "jpn": "ギロチンの音"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "49035",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49035",
+                    "Titles": {
+                        "eng": "Clash! Wave Attack",
+                        "jpn": "激闘! 波状攻撃"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "49036",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49036",
+                    "Titles": {
+                        "eng": "Departure",
+                        "jpn": "旅立ち"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "49037",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49037",
+                    "Titles": {
+                        "eng": "Vivid! Shrike Team",
+                        "jpn": "鮮烈! シュラク隊"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "49038",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49038",
+                    "Titles": {
+                        "eng": "The Shrike Team Bulwark",
+                        "jpn": "シュラク隊の防壁"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "49039",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49039",
+                    "Titles": {
+                        "eng": "Smash the Guillotine",
+                        "jpn": "ギロチンを粉砕せよ"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "49040",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49040",
+                    "Titles": {
+                        "eng": "Gibraltar Airspace",
+                        "jpn": "ジブラルタル空域"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "49041",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49041",
+                    "Titles": {
+                        "eng": "The Battle of Gibraltar",
+                        "jpn": "ジブラルタル攻防"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "49042",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49042",
+                    "Titles": {
+                        "eng": "Space Dust",
+                        "jpn": "スペースダスト"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "49043",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49043",
+                    "Titles": {
+                        "eng": "Reinforce, Lift Off",
+                        "jpn": "リーンホース浮上"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "49044",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49044",
+                    "Titles": {
+                        "eng": "Queen of the Empire",
+                        "jpn": "帝国の女王"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "49045",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49045",
+                    "Titles": {
+                        "eng": "Space Fleet Battle",
+                        "jpn": "宇宙艦隊戦"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "49046",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49046",
+                    "Titles": {
+                        "eng": "Search for Shakti",
+                        "jpn": "シャクティを捜せ"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "49047",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49047",
+                    "Titles": {
+                        "eng": "Eve of the Decisive Battle",
+                        "jpn": "決戦前夜"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "49048",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49048",
+                    "Titles": {
+                        "eng": "Strike the Strategic Satellite",
+                        "jpn": "戦略衛星を叩け"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "49049",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49049",
+                    "Titles": {
+                        "eng": "The Tiger of Space",
+                        "jpn": "宇宙の虎"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "49050",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49050",
+                    "Titles": {
+                        "eng": "Infiltrating Zanscare",
+                        "jpn": "ザンスカール潜入"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "49051",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49051",
+                    "Titles": {
+                        "eng": "The Battle of the Capital",
+                        "jpn": "首都攻防"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "49052",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49052",
+                    "Titles": {
+                        "eng": "To Enemy Ships and Enemy Lands",
+                        "jpn": "敵艦と敵地へ"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "49053",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49053",
+                    "Titles": {
+                        "eng": "Maria and Üso",
+                        "jpn": "マリアとウッソ"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "49055",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49055",
+                    "Titles": {
+                        "eng": "A Flash That Runs Through Space",
+                        "jpn": "宇宙を走る閃光"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "49056",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49056",
+                    "Titles": {
+                        "eng": "The Great Escape",
+                        "jpn": "大脱走"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "49057",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49057",
+                    "Titles": {
+                        "eng": "The New Suit: V2",
+                        "jpn": "新しいスーツV2"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "49058",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49058",
+                    "Titles": {
+                        "eng": "Mother's Gundam",
+                        "jpn": "母のガンダム"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "49059",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49059",
+                    "Titles": {
+                        "eng": "Launch the Motorad",
+                        "jpn": "モトラッド発進"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "49060",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49060",
+                    "Titles": {
+                        "eng": "Doggoria's Violent Advance",
+                        "jpn": "ドッゴーラ激進"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "49061",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49061",
+                    "Titles": {
+                        "eng": "The People Who Dwell in the Sea",
+                        "jpn": "海に住む人々"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "49062",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49062",
+                    "Titles": {
+                        "eng": "Operation Giant Roller",
+                        "jpn": "巨大ローラー作戦"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "49063",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49063",
+                    "Titles": {
+                        "eng": "Mother or Shakti?",
+                        "jpn": "母かシャクティか"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "49064",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49064",
+                    "Titles": {
+                        "eng": "Mother, Return to the Earth",
+                        "jpn": "母よ大地にかえれ"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "49065",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49065",
+                    "Titles": {
+                        "eng": "Twinrad Counterattack",
+                        "jpn": "逆襲ツインラッド"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "49066",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49066",
+                    "Titles": {
+                        "eng": "Dyeing the North Sea in Flames",
+                        "jpn": "北海を炎にそめて"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "49067",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49067",
+                    "Titles": {
+                        "eng": "The Song of the Wings of Light",
+                        "jpn": "光の翼の歌"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "49068",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49068",
+                    "Titles": {
+                        "eng": "Beneath the Ultra-High Altitude Attack",
+                        "jpn": "超高空攻撃の下"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "49069",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49069",
+                    "Titles": {
+                        "eng": "The Battlefield That Father Made",
+                        "jpn": "父のつくった戦場"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "49070",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49070",
+                    "Titles": {
+                        "eng": "A Shining Vortex of Fresh Blood",
+                        "jpn": "鮮血は光の渦"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "49071",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49071",
+                    "Titles": {
+                        "eng": "Fuala, the Comet of the Battlefield",
+                        "jpn": "戦場の彗星ファラ"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "49072",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49072",
+                    "Titles": {
+                        "eng": "Love Lies at the End of Light",
+                        "jpn": "愛は光の果てに"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "49073",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49073",
+                    "Titles": {
+                        "eng": "Üso Dances in Hallucination",
+                        "jpn": "幻覚に踊るウッソ"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "49074",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49074",
+                    "Titles": {
+                        "eng": "Tassilo's Mutiny",
+                        "jpn": "タシロ反乱"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "49075",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49075",
+                    "Titles": {
+                        "eng": "The Women's Battlefield",
+                        "jpn": "女たちの戦場"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "49076",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49076",
+                    "Titles": {
+                        "eng": "Fading Life, Blooming Life",
+                        "jpn": "消える命 咲く命"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "49077",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49077",
+                    "Titles": {
+                        "eng": "Atop the Angel's Halo",
+                        "jpn": "天使の輪の上で"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "49078",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49078",
+                    "Titles": {
+                        "eng": "A Showdown Demanded by Hate",
+                        "jpn": "憎しみが呼ぶ対決"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "49079",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-victory-gundam/episodes/49079",
+                    "Titles": {
+                        "eng": "The Ascension of Angels",
+                        "jpn": "天使たちの昇天"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

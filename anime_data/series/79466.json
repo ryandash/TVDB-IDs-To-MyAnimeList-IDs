@@ -1,0 +1,43 @@
+{
+    "URL": "https://thetvdb.com/series/ar-tonelico",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Drama",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1087792/",
+        "https://www.themoviedb.org/tv/87066"
+    ],
+    "Titles": {
+        "eng": "Ar Tonelico",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2025-08-31",
+    "Seasons": {
+        "1": {
+            "ID": "223111",
+            "URL": "https://thetvdb.com/series/ar-tonelico/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "1989361",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ar-tonelico/episodes/1989361",
+                    "Titles": {
+                        "eng": "Ar Tonelico",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

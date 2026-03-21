@@ -1,0 +1,71 @@
+{
+    "URL": "https://thetvdb.com/series/kowarekake-no-orgel",
+    "Genres": [
+        "Animation",
+        "Science Fiction"
+    ],
+    "Other Sites": [],
+    "Titles": {
+        "eng": "Kowarekake no Orgel",
+        "jpn": "こわれかけのオルゴール"
+    },
+    "Aliases": [
+        "Half-Broken Music Box",
+        "Kowarekake no Orgol"
+    ],
+    "Modified": "2026-01-31",
+    "Seasons": {
+        "0": {
+            "ID": "223541",
+            "URL": "https://thetvdb.com/series/kowarekake-no-orgel/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "3701731",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kowarekake-no-orgel/episodes/3701731",
+                    "Titles": {
+                        "eng": "Sidestory",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5367373",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kowarekake-no-orgel/episodes/5367373",
+                    "Titles": {
+                        "eng": "Theater Etiquette",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "319701",
+            "URL": "https://thetvdb.com/series/kowarekake-no-orgel/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "2842681",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kowarekake-no-orgel/episodes/2842681",
+                    "Titles": {
+                        "eng": "Kowarekake no Orgel",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

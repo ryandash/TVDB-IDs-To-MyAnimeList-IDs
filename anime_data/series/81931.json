@@ -1,0 +1,61 @@
+{
+    "URL": "https://thetvdb.com/series/cyber-city-oedo-808",
+    "Genres": [
+        "Anime - Seinen"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0220218/",
+        "https://www.themoviedb.org/tv/64210",
+        "https://en.wikipedia.org/wiki/Cyber_City_Oedo_808"
+    ],
+    "Titles": {
+        "eng": "Cyber City Oedo 808",
+        "jpn": "電脳都市OEDO808"
+    },
+    "Aliases": [],
+    "Modified": "2026-01-20",
+    "Seasons": {
+        "1": {
+            "ID": "32222",
+            "URL": "https://thetvdb.com/series/cyber-city-oedo-808/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "fra": "Mort Virtuelle"
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "364938",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cyber-city-oedo-808/episodes/364938",
+                    "Titles": {
+                        "eng": "Data 1: Memories of the Past",
+                        "jpn": "Vol.1 古の記憶（メモリー）"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "364939",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cyber-city-oedo-808/episodes/364939",
+                    "Titles": {
+                        "eng": "Data 2: The Decoy Program",
+                        "jpn": "Vol.2 囮の機構（プログラム）"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "364940",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cyber-city-oedo-808/episodes/364940",
+                    "Titles": {
+                        "eng": "Data 3: Crimson Media",
+                        "jpn": "Vol.3 紅の媒体（メディア）"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

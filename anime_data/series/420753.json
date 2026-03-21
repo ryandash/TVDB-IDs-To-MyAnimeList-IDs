@@ -1,0 +1,80 @@
+{
+    "URL": "https://thetvdb.com/series/housing-complex-c",
+    "Genres": [
+        "Anime",
+        "Horror",
+        "Mystery",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/3AD7-AB21-915A-5444-4549-5",
+        "https://www.imdb.com/title/tt21826010/",
+        "https://www.adultswim.com/videos/housing-complex-c/",
+        "https://tvlistings.zap2it.com/overview.html?programSeriesId=SH04451261",
+        "https://www.tvmaze.com/shows/63561/show-slug",
+        "https://www.themoviedb.org/tv/195382",
+        "https://www.wikidata.org/wiki/Q112182688",
+        "https://en.wikipedia.org/wiki/Housing_Complex_C"
+    ],
+    "Titles": {
+        "eng": "Housing Complex C",
+        "jpn": "C団地"
+    },
+    "Aliases": [
+        "C Danchi"
+    ],
+    "Modified": "2026-01-07",
+    "Seasons": {
+        "1": {
+            "ID": "2003211",
+            "URL": "https://thetvdb.com/series/housing-complex-c/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "9198040",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/housing-complex-c/episodes/9198040",
+                    "Titles": {
+                        "eng": "Optical Illusion",
+                        "jpn": "めのさっかく"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9378047",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/housing-complex-c/episodes/9378047",
+                    "Titles": {
+                        "eng": "Mismatched Buttons",
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9378048",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/housing-complex-c/episodes/9378048",
+                    "Titles": {
+                        "eng": "The Wheel Comes Full Circle",
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9378049",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/housing-complex-c/episodes/9378049",
+                    "Titles": {
+                        "eng": "The End of the Line",
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

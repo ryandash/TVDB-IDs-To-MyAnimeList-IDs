@@ -1,0 +1,557 @@
+{
+    "URL": "https://thetvdb.com/series/mobile-suit-gundam-age",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2193783/",
+        "https://www.themoviedb.org/tv/45835"
+    ],
+    "Titles": {
+        "eng": "Mobile Suit Gundam AGE",
+        "jpn": "機動戦士ガンダムAGE"
+    },
+    "Aliases": [
+        "Gundam AGE"
+    ],
+    "Modified": "2025-04-22",
+    "Seasons": {
+        "0": {
+            "ID": "476063",
+            "URL": "https://thetvdb.com/series/mobile-suit-gundam-age/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4632465",
+                    "TYPE": "OVA",
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4632465",
+                    "Titles": {
+                        "eng": "Memory of Eden - OVA 1",
+                        "jpn": "MEMORY OF EDEN 前編"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7261119",
+                    "TYPE": "OVA",
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/7261119",
+                    "Titles": {
+                        "eng": "Memory of Eden - OVA 2",
+                        "jpn": "MEMORY OF EDEN 後編"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "476064",
+            "URL": "https://thetvdb.com/series/mobile-suit-gundam-age/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 49,
+            "Episodes": {
+                "1": {
+                    "ID": "4185386",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4185386",
+                    "Titles": {
+                        "eng": "The Savior, Gundam",
+                        "jpn": "救世主ガンダム"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4189330",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4189330",
+                    "Titles": {
+                        "eng": "The Power of AGE",
+                        "jpn": "AGEの力"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4190460",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4190460",
+                    "Titles": {
+                        "eng": "The Twisted Colony",
+                        "jpn": "ゆがむコロニー"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4190473",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4190473",
+                    "Titles": {
+                        "eng": "The White Wolf",
+                        "jpn": "白い狼"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4190474",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4190474",
+                    "Titles": {
+                        "eng": "The Demon Boy",
+                        "jpn": "魔少年"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4190475",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4190475",
+                    "Titles": {
+                        "eng": "Light and Shadow of Fardain",
+                        "jpn": "ファーデーンの光と影"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4190476",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4190476",
+                    "Titles": {
+                        "eng": "Evolving Gundam",
+                        "jpn": "進化するガンダム"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4190477",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4190477",
+                    "Titles": {
+                        "eng": "A Deadly Joint Front",
+                        "jpn": "決死の共同戦線"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4190478",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4190478",
+                    "Titles": {
+                        "eng": "The Secret Mobile Suit",
+                        "jpn": "秘密のモビルスーツ"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4190479",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4190479",
+                    "Titles": {
+                        "eng": "A Day of Fierce Battle",
+                        "jpn": "激戦の日"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4190480",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4190480",
+                    "Titles": {
+                        "eng": "Reunion at Minsry",
+                        "jpn": "ミンスリーの再会"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4190481",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4190481",
+                    "Titles": {
+                        "eng": "The Mutineers Set Sail",
+                        "jpn": "反逆者たちの船出"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4219830",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4219830",
+                    "Titles": {
+                        "eng": "Space Fortress Ambat",
+                        "jpn": "宇宙要塞アンバット"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4225822",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4225822",
+                    "Titles": {
+                        "eng": "A Flash of Sorrow",
+                        "jpn": "悲しみの閃光"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4225823",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4225823",
+                    "Titles": {
+                        "eng": "Those Tears Fall in Space",
+                        "jpn": "その涙、宇宙に落ちて"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4237901",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4237901",
+                    "Titles": {
+                        "eng": "The Gundam in the Stable",
+                        "jpn": "馬小屋のガンダム"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4237902",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4237902",
+                    "Titles": {
+                        "eng": "Friendship, Love and Mobile Suits",
+                        "jpn": "友情と恋とモビルスーツ"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4247382",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4247382",
+                    "Titles": {
+                        "eng": "Graduation Ceremony Battle",
+                        "jpn": "卒業式の戦闘"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4247383",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4247383",
+                    "Titles": {
+                        "eng": "Asemu's Departure",
+                        "jpn": "アセムの旅立ち"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4252734",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4252734",
+                    "Titles": {
+                        "eng": "The Red Mobile Suit",
+                        "jpn": "赤いモビルスーツ"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4255862",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4255862",
+                    "Titles": {
+                        "eng": "Phantoms in the Way",
+                        "jpn": "立ちはだかる幻影"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4261904",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4261904",
+                    "Titles": {
+                        "eng": "Big Ring Absolute Defense Line",
+                        "jpn": "ビッグリング絶対防衛線"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4268348",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4268348",
+                    "Titles": {
+                        "eng": "The Suspicious Colony",
+                        "jpn": "疑惑のコロニー"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "4273034",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4273034",
+                    "Titles": {
+                        "eng": "X-Rounder",
+                        "jpn": "Xラウンダー"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "4283394",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4283394",
+                    "Titles": {
+                        "eng": "The Terrifying Mu-szell",
+                        "jpn": "恐怖のミューセル"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "4283395",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4283395",
+                    "Titles": {
+                        "eng": "Earth is Eden",
+                        "jpn": "地球 それはエデン"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "4293159",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4293159",
+                    "Titles": {
+                        "eng": "I Saw a Red Sunset",
+                        "jpn": "赤い夕陽を見た"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "4293160",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4293160",
+                    "Titles": {
+                        "eng": "Chaos in the Earth Sphere",
+                        "jpn": "地球圏の動乱"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "4296484",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4296484",
+                    "Titles": {
+                        "eng": "Grandpa's Gundam",
+                        "jpn": "じいちゃんのガンダム"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "4301818",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4301818",
+                    "Titles": {
+                        "eng": "The City Becomes a Battlefield",
+                        "jpn": "戦場になる街"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "4307065",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4307065",
+                    "Titles": {
+                        "eng": "Terror! The Ghosts of the Desert",
+                        "jpn": "戦慄 砂漠の亡霊"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "4312660",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4312660",
+                    "Titles": {
+                        "eng": "Traitor",
+                        "jpn": "裏切り者"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "4321616",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4321616",
+                    "Titles": {
+                        "eng": "Howl to the Earth",
+                        "jpn": "大地に吠える"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "4321629",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4321629",
+                    "Titles": {
+                        "eng": "The Space Pirates Bisidian",
+                        "jpn": "宇宙海賊ビシディアン"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "4326917",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4326917",
+                    "Titles": {
+                        "eng": "Cursed Treasure",
+                        "jpn": "呪われし秘宝"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "4326916",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4326916",
+                    "Titles": {
+                        "eng": "The Stolen Gundam",
+                        "jpn": "奪われるガンダム"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "4343587",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4343587",
+                    "Titles": {
+                        "eng": "The World of Vagan",
+                        "jpn": "ヴェイガンの世界"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "4343588",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4343588",
+                    "Titles": {
+                        "eng": "Kio the Fugitive",
+                        "jpn": "逃亡者キオ"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "4343589",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4343589",
+                    "Titles": {
+                        "eng": "The Door to the New World",
+                        "jpn": "新世界の扉"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "4346484",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4346484",
+                    "Titles": {
+                        "eng": "Kio's Resolve, Together with the Gundam",
+                        "jpn": "キオの決意 ガンダムと共に"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "4354684",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4354684",
+                    "Titles": {
+                        "eng": "Beautiful Fram",
+                        "jpn": "華麗なフラム"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "4354675",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4354675",
+                    "Titles": {
+                        "eng": "Girard Spriggan",
+                        "jpn": "ジラード・スプリガン"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "4354676",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4354676",
+                    "Titles": {
+                        "eng": "Amazing - Triple Gundam",
+                        "jpn": "壮絶 トリプルガンダム"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "4354677",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4354677",
+                    "Titles": {
+                        "eng": "Paths Drawn Apart",
+                        "jpn": "別れゆく道"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "4354678",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4354678",
+                    "Titles": {
+                        "eng": "Shido the Destroyer",
+                        "jpn": "破壊者シド"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "4354679",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4354679",
+                    "Titles": {
+                        "eng": "Space Fortress La Gramis",
+                        "jpn": "宇宙要塞ラ・グラミス"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "4354680",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4354680",
+                    "Titles": {
+                        "eng": "Blue Planet, Lives Ending",
+                        "jpn": "青い星 散りゆく命"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "4354681",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4354681",
+                    "Titles": {
+                        "eng": "Flash of Despair",
+                        "jpn": "絶望の煌めき"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "4354682",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4354682",
+                    "Titles": {
+                        "eng": "The End of a Long Journey",
+                        "jpn": "長き旅の終わり"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

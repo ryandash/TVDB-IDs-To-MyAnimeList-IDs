@@ -1,0 +1,571 @@
+{
+    "URL": "https://thetvdb.com/series/turn-a-gundam",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Romance",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0189318/",
+        "https://www.themoviedb.org/tv/37546"
+    ],
+    "Titles": {
+        "eng": "Turn A Gundam",
+        "jpn": "ターンエーガンダム"
+    },
+    "Aliases": [
+        "∀ Gundam",
+        "∀ Gundam: Called Turn \"A\" Gundam",
+        "∀ガンダム"
+    ],
+    "Modified": "2026-03-17",
+    "Seasons": {
+        "0": {
+            "ID": "19052",
+            "URL": "https://thetvdb.com/series/turn-a-gundam/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "1988311",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/1988311",
+                    "Titles": {
+                        "eng": "Earth Light",
+                        "jpn": "∀ガンダムⅠ 地球光"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "3510991",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/3510991",
+                    "Titles": {
+                        "eng": "Moonlight Butterfly",
+                        "jpn": "∀ガンダムⅡ 月光蝶"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "2535",
+            "URL": "https://thetvdb.com/series/turn-a-gundam/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "fra": "Turn A Gundam"
+            },
+            "# Episodes": 50,
+            "Episodes": {
+                "1": {
+                    "ID": "51185",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51185",
+                    "Titles": {
+                        "eng": "Howl at the Moon",
+                        "jpn": "月に吠える"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "51186",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51186",
+                    "Titles": {
+                        "eng": "The Coming of Age Ceremony",
+                        "jpn": "成人式"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "51187",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51187",
+                    "Titles": {
+                        "eng": "After the Festival",
+                        "jpn": "祭の後"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "51188",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51188",
+                    "Titles": {
+                        "eng": "Soldiers From Home",
+                        "jpn": "ふるさとの軍人"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "51189",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51189",
+                    "Titles": {
+                        "eng": "Diana Descends",
+                        "jpn": "ディアナ降臨"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "51190",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51190",
+                    "Titles": {
+                        "eng": "The Forgotten Past",
+                        "jpn": "忘れられた過去"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "51191",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51191",
+                    "Titles": {
+                        "eng": "Training to Be a Lady",
+                        "jpn": "貴婦人修行"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "51192",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51192",
+                    "Titles": {
+                        "eng": "Laura's Cow",
+                        "jpn": "ローラの牛"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "51193",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51193",
+                    "Titles": {
+                        "eng": "Corin Shouts, It's a Gundam!",
+                        "jpn": "コレン、ガンダムと叫ぶ"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "51194",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51194",
+                    "Titles": {
+                        "eng": "Grave Visit",
+                        "jpn": "墓参り"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "51195",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51195",
+                    "Titles": {
+                        "eng": "The Fall of Nocis",
+                        "jpn": "ノックス崩壊"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "51196",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51196",
+                    "Titles": {
+                        "eng": "Underground Passageways",
+                        "jpn": "地下回廊"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "51197",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51197",
+                    "Titles": {
+                        "eng": "An Older Woman",
+                        "jpn": "年上のひと"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "51198",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51198",
+                    "Titles": {
+                        "eng": "Separated, Again",
+                        "jpn": "別離、再び"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "51199",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51199",
+                    "Titles": {
+                        "eng": "Fleeting Memories",
+                        "jpn": "思い出は消えて"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "51200",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51200",
+                    "Titles": {
+                        "eng": "All About Turn A (RECAP)",
+                        "jpn": "∀のすべて"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "51201",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51201",
+                    "Titles": {
+                        "eng": "Dust Blow at the State's Founding",
+                        "jpn": "建国のダストブロー"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "51202",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51202",
+                    "Titles": {
+                        "eng": "Kihel and Dianna",
+                        "jpn": "キエルとディアナ"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "51203",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51203",
+                    "Titles": {
+                        "eng": "Sochie's War",
+                        "jpn": "ソシエの戦争"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "51204",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51204",
+                    "Titles": {
+                        "eng": "Anise Power",
+                        "jpn": "アニス・パワー"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "51205",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51205",
+                    "Titles": {
+                        "eng": "Dianna's Hard Fight",
+                        "jpn": "ディアナ奮戦"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "51206",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51206",
+                    "Titles": {
+                        "eng": "Harry's Misfortune",
+                        "jpn": "ハリーの災難"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "51207",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51207",
+                    "Titles": {
+                        "eng": "Teteth's Last Words",
+                        "jpn": "テテスの遺言"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "51208",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51208",
+                    "Titles": {
+                        "eng": "Laura's Howl",
+                        "jpn": "ローラの遠吠え"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "51209",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51209",
+                    "Titles": {
+                        "eng": "The Willghem Lifts Off",
+                        "jpn": "ウィルゲム離陸"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "51210",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51210",
+                    "Titles": {
+                        "eng": "A Battle for Enlightenment",
+                        "jpn": "悟りの戦い"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "51211",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51211",
+                    "Titles": {
+                        "eng": "Midnight Sunrise",
+                        "jpn": "夜中の夜明け"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "51212",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51212",
+                    "Titles": {
+                        "eng": "The Burden",
+                        "jpn": "託されたもの"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "51213",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51213",
+                    "Titles": {
+                        "eng": "Two Aboard the Soleil",
+                        "jpn": "ソレイユのふたり"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "51214",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51214",
+                    "Titles": {
+                        "eng": "Close to the Heart",
+                        "jpn": "胸に抱えて"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "51215",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51215",
+                    "Titles": {
+                        "eng": "Pursuit! Crybaby Poe",
+                        "jpn": "追撃！泣き虫ポゥ"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "51216",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51216",
+                    "Titles": {
+                        "eng": "The King of Myth",
+                        "jpn": "神話の王"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "51217",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51217",
+                    "Titles": {
+                        "eng": "The Taking of Manupichi",
+                        "jpn": "マニューピチ攻略"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "51218",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51218",
+                    "Titles": {
+                        "eng": "Fly! Into the Stratosphere",
+                        "jpn": "飛べ！成層圏"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "51219",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51219",
+                    "Titles": {
+                        "eng": "Sackträger",
+                        "jpn": "ザックトレーガー"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "51220",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51220",
+                    "Titles": {
+                        "eng": "Militia Space Showdown",
+                        "jpn": "ミリシャ宇宙決戦"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "51221",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51221",
+                    "Titles": {
+                        "eng": "Gateway to the Moon",
+                        "jpn": "月世界の門"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "51222",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51222",
+                    "Titles": {
+                        "eng": "Warrior God Ghingnham",
+                        "jpn": "戦闘神ギンガナム"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "51223",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51223",
+                    "Titles": {
+                        "eng": "Shattering an Asteroid",
+                        "jpn": "小惑星爆烈"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "51224",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51224",
+                    "Titles": {
+                        "eng": "Sea Battle on the Moon",
+                        "jpn": "月面の海戦"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "51225",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51225",
+                    "Titles": {
+                        "eng": "The Decision to Fight",
+                        "jpn": "戦いの決断"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "51226",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51226",
+                    "Titles": {
+                        "eng": "The Turn X Activates",
+                        "jpn": "ターンＸ起動"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "51227",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51227",
+                    "Titles": {
+                        "eng": "The Shocking Dark History",
+                        "jpn": "衝撃の黒歴史"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "51228",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51228",
+                    "Titles": {
+                        "eng": "The Enemy Starts Anew",
+                        "jpn": "敵、新たなり"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "51229",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51229",
+                    "Titles": {
+                        "eng": "Guin the Traitor",
+                        "jpn": "裏切りのグエン"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "51230",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51230",
+                    "Titles": {
+                        "eng": "To Earth Once Again",
+                        "jpn": "再び、地球へ"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "51231",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51231",
+                    "Titles": {
+                        "eng": "Ghingnham Invades",
+                        "jpn": "ギンガナム襲来"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "51232",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51232",
+                    "Titles": {
+                        "eng": "The Return of Dianna",
+                        "jpn": "ディアナ帰還"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "51233",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51233",
+                    "Titles": {
+                        "eng": "Moonlight Butterfly",
+                        "jpn": "月光蝶"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "51234",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/turn-a-gundam/episodes/51234",
+                    "Titles": {
+                        "eng": "Golden Autumn",
+                        "jpn": "黄金の秋"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "URL": "https://thetvdb.com/series/modern-magic-made-simple",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1463155/",
+        "https://www.themoviedb.org/tv/25275"
+    ],
+    "Titles": {
+        "eng": "Modern Magic Made Simple",
+        "jpn": "よくわかる現代魔法"
+    },
+    "Aliases": [
+        "Yoku Wakaru Gendai Mahou"
+    ],
+    "Modified": "2024-12-29",
+    "Seasons": {
+        "0": {
+            "ID": "87801",
+            "URL": "https://thetvdb.com/series/modern-magic-made-simple/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "908891",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/modern-magic-made-simple/episodes/908891",
+                    "Titles": {
+                        "eng": "Cruncha Cruncha Cruncha",
+                        "jpn": "cruncha cruncha cruncha"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "87811",
+            "URL": "https://thetvdb.com/series/modern-magic-made-simple/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "836171",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/modern-magic-made-simple/episodes/836171",
+                    "Titles": {
+                        "eng": "Hello World",
+                        "jpn": "hello,world"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "836181",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/modern-magic-made-simple/episodes/836181",
+                    "Titles": {
+                        "eng": "Wizardry",
+                        "jpn": "wizardry"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "836191",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/modern-magic-made-simple/episodes/836191",
+                    "Titles": {
+                        "eng": "Deus In Machina",
+                        "jpn": "Deus In Machina"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "908871",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/modern-magic-made-simple/episodes/908871",
+                    "Titles": {
+                        "eng": "Jini",
+                        "jpn": "jini"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "908881",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/modern-magic-made-simple/episodes/908881",
+                    "Titles": {
+                        "eng": "Jump off into Never-Neverland",
+                        "jpn": "jump off into never-never land"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "1048661",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/modern-magic-made-simple/episodes/1048661",
+                    "Titles": {
+                        "eng": "Ghostscript",
+                        "jpn": "ghostscript"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "1048671",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/modern-magic-made-simple/episodes/1048671",
+                    "Titles": {
+                        "eng": "Voodoo Programming",
+                        "jpn": "voodoo programming"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "1048681",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/modern-magic-made-simple/episodes/1048681",
+                    "Titles": {
+                        "eng": "Scratch Monkey",
+                        "jpn": "scratch monkey"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "1048691",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/modern-magic-made-simple/episodes/1048691",
+                    "Titles": {
+                        "eng": "Open DeathTrap",
+                        "jpn": "Open DeathTrap"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "1067541",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/modern-magic-made-simple/episodes/1067541",
+                    "Titles": {
+                        "eng": "Quick and Dirty",
+                        "jpn": "quick-and-dirty"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "1067551",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/modern-magic-made-simple/episodes/1067551",
+                    "Titles": {
+                        "eng": "Dragon Book",
+                        "jpn": "Dragon Book"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "1118451",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/modern-magic-made-simple/episodes/1118451",
+                    "Titles": {
+                        "eng": "TMTOWTDI",
+                        "jpn": "TMTOWTDI"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
