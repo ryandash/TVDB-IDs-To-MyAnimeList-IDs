@@ -1,0 +1,55 @@
+{
+    "URL": "https://thetvdb.com/series/mutant-turtles-superman-legend",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Children"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/29955"
+    ],
+    "Titles": {
+        "eng": "Teenage Mutant Ninja Turtles: Legend of the Supermutants",
+        "jpn": "ミュータント タートルズ 超人伝説編"
+    },
+    "Aliases": [
+        "Mutant Turtles: Superman Legend",
+        "Teenage Mutant Ninja Turtles: Superman Legend",
+        "Mutant Turtles: Chôjin densetsu hen"
+    ],
+    "Modified": "2026-02-09",
+    "Seasons": {
+        "1": {
+            "ID": "522160",
+            "URL": "https://thetvdb.com/series/mutant-turtles-superman-legend/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4588124",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mutant-turtles-superman-legend/episodes/4588124",
+                    "Titles": {
+                        "eng": "The Great Crisis of the Super Turtles! The Saint Appears!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4588125",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/mutant-turtles-superman-legend/episodes/4588125",
+                    "Titles": {
+                        "eng": "The Coming of the Guardian Beasts - The Metal Turtles Appear!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

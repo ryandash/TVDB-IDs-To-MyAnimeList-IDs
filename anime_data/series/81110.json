@@ -1,0 +1,805 @@
+{
+    "URL": "https://thetvdb.com/series/fafner",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Drama",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0440987/",
+        "https://www.themoviedb.org/tv/42836"
+    ],
+    "Titles": {
+        "eng": "Fafner in the Azure",
+        "jpn": "蒼穹のファフナー"
+    },
+    "Aliases": [
+        "Fafner in the Azure: Dead Aggressor",
+        "Sōkyū no Fafner: Dead Aggressor",
+        "Soukyû no fafunâ",
+        "Soukyuu no Fafner",
+        "Fafner in the Azure: THE BEYOND",
+        "Fafner in the Azure: Exodus",
+        "Fafner of the Blue Sky",
+        "Fafner Dead Aggressor",
+        "蒼穹のファフナー Dead Aggressor THE BEYOND"
+    ],
+    "Modified": "2025-06-02",
+    "Seasons": {
+        "0": {
+            "ID": "30053",
+            "URL": "https://thetvdb.com/series/fafner/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 8,
+            "Episodes": {
+                "1": {
+                    "ID": "1817581",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/1817581",
+                    "Titles": {
+                        "eng": "Right of Left",
+                        "jpn": "蒼穹のファフナー RIGHT OF LEFT"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5361659",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5361659",
+                    "Titles": {
+                        "eng": "Arcadian Memory 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5361660",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5361660",
+                    "Titles": {
+                        "eng": "Arcadian Memory 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4065471",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/4065471",
+                    "Titles": {
+                        "eng": "Heaven and Earth",
+                        "jpn": "蒼穹のファフナー　HEAVEN AND EARTH"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6599437",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/6599437",
+                    "Titles": {
+                        "eng": "EXODUS #01",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6599439",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/6599439",
+                    "Titles": {
+                        "eng": "EXODUS #22",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "8880529",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/8880529",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "蒼穹のファフナー シリーズ17周年記念特番『THE BEYOND（そのさきへ）』"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "9963216",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/9963216",
+                    "Titles": {
+                        "eng": "BEHIND THE LINE",
+                        "jpn": "BEHIND THE LINE"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "32934",
+            "URL": "https://thetvdb.com/series/fafner/seasons/official/1",
+            "Titles": {
+                "eng": "Dead Aggressor",
+                "jpn": null,
+                "kor": "Dead Aggressor",
+                "fra": "Dead Aggressor",
+                "zho": "苍穹之法芙娜"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "370178",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370178",
+                    "Titles": {
+                        "eng": "Beginning (Paradise)",
+                        "jpn": "楽園～はじまり"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "370179",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370179",
+                    "Titles": {
+                        "eng": "Life (Confession)",
+                        "jpn": "告知～いのち"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "370180",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370180",
+                    "Titles": {
+                        "eng": "Truth (Labyrinth)",
+                        "jpn": "迷宮～しんじつ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "370181",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370181",
+                    "Titles": {
+                        "eng": "Departure (Escape)",
+                        "jpn": "逃航～ふなで"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "370182",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370182",
+                    "Titles": {
+                        "eng": "Pledge (Promise)",
+                        "jpn": "約束～ちかい"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "370183",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370183",
+                    "Titles": {
+                        "eng": "Sacrifice (Soaring Sky)",
+                        "jpn": "翔空～ぎせい"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "370184",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370184",
+                    "Titles": {
+                        "eng": "Parents & Children (Family)",
+                        "jpn": "家賊～おやこ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "370185",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370185",
+                    "Titles": {
+                        "eng": "Kouyou (Strife)",
+                        "jpn": "確執～こうよう"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "370186",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370186",
+                    "Titles": {
+                        "eng": "Parting (Assimilation)",
+                        "jpn": "同化～わかれ"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "370187",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370187",
+                    "Titles": {
+                        "eng": "Crossing Paths (Disintegration)",
+                        "jpn": "分解～すれちがい"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "370188",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370188",
+                    "Titles": {
+                        "eng": "Human Force (Old & New)",
+                        "jpn": "旧新～じんるいぐん"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "370189",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370189",
+                    "Titles": {
+                        "eng": "Desperation (Absence)",
+                        "jpn": "不在～あせり"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "370190",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370190",
+                    "Titles": {
+                        "eng": "Festum (Erosion)",
+                        "jpn": "侵蝕～フェストゥム"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "370191",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370191",
+                    "Titles": {
+                        "eng": "Occupation (Awakening)",
+                        "jpn": "覚醒～せんりょう"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "370192",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370192",
+                    "Titles": {
+                        "eng": "Scream (Memory)",
+                        "jpn": "記憶～さけび"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "370193",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370193",
+                    "Titles": {
+                        "eng": "Welcome Home (Friends)",
+                        "jpn": "朋友～おかえり"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "370194",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370194",
+                    "Titles": {
+                        "eng": "Device (Survival)",
+                        "jpn": "生存～しかけ"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "370195",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370195",
+                    "Titles": {
+                        "eng": "Memory (Father)",
+                        "jpn": "父親～おもいで"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "370196",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370196",
+                    "Titles": {
+                        "eng": "Sight (Maya)",
+                        "jpn": "真矢～まなざし"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "370197",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370197",
+                    "Titles": {
+                        "eng": "Light (Lantern)",
+                        "jpn": "燈火～ともしび"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "370198",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370198",
+                    "Titles": {
+                        "eng": "Future (Sakura)",
+                        "jpn": "咲良～みらい"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "370199",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370199",
+                    "Titles": {
+                        "eng": "Power (Protection)",
+                        "jpn": "守護～ちから"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "370200",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370200",
+                    "Titles": {
+                        "eng": "Decoy (Pillage)",
+                        "jpn": "劫掠～おとり"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "370201",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370201",
+                    "Titles": {
+                        "eng": "MIR (Conversation)",
+                        "jpn": "対話～ミール"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "370202",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/370202",
+                    "Titles": {
+                        "eng": "Symbiosis (The Final Battle)",
+                        "jpn": "決戦～きょうせい"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "376349",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/376349",
+                    "Titles": {
+                        "eng": "The Sky (Azure)",
+                        "jpn": "蒼穹～そら"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "584483",
+            "URL": "https://thetvdb.com/series/fafner/seasons/official/2",
+            "Titles": {
+                "eng": "EXODUS",
+                "jpn": "EXODUS",
+                "fra": "Exodus",
+                "spa": "EXODUS",
+                "zho": "苍穹之法芙娜EXODUS"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "4872720",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/4872720",
+                    "Titles": {
+                        "eng": "Visitor",
+                        "jpn": "来訪者"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5099064",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5099064",
+                    "Titles": {
+                        "eng": "The Name of Hope",
+                        "jpn": "希望の名は"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5099065",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5099065",
+                    "Titles": {
+                        "eng": "The Price of a Conversation",
+                        "jpn": "対話の代償"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5099066",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5099066",
+                    "Titles": {
+                        "eng": "The Successors",
+                        "jpn": "継承者たち"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5106296",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5106296",
+                    "Titles": {
+                        "eng": "To a New World",
+                        "jpn": "新世界へ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5107732",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5107732",
+                    "Titles": {
+                        "eng": "Blessed Time",
+                        "jpn": "祝福のとき"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5115809",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5115809",
+                    "Titles": {
+                        "eng": "Battle in a New Dimension",
+                        "jpn": "新次元戦闘"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5115810",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5115810",
+                    "Titles": {
+                        "eng": "Dreaming of Peace",
+                        "jpn": "平和を夢見て"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5121361",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5121361",
+                    "Titles": {
+                        "eng": "Two Heroes",
+                        "jpn": "英雄二人"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5121362",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5121362",
+                    "Titles": {
+                        "eng": "To the Land of Hope",
+                        "jpn": "希望の地へ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5155841",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5155841",
+                    "Titles": {
+                        "eng": "Transformation",
+                        "jpn": "変貌"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5155842",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5155842",
+                    "Titles": {
+                        "eng": "Children of the Battlefield",
+                        "jpn": "戦場の子供たち"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "5179181",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5179181",
+                    "Titles": {
+                        "eng": "A Future Within the Darkness",
+                        "jpn": "闇の中の未来"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "5358291",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5358291",
+                    "Titles": {
+                        "eng": "The March for Dawn",
+                        "jpn": "夜明けの行進"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "5363707",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5363707",
+                    "Titles": {
+                        "eng": "ROE Alpha",
+                        "jpn": "交戦規定アルファ"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "5364063",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5364063",
+                    "Titles": {
+                        "eng": "Where Life Is",
+                        "jpn": "命の行方"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "5380025",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5380025",
+                    "Titles": {
+                        "eng": "Flames of the Final Farewell",
+                        "jpn": "永訣の火"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "5381665",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5381665",
+                    "Titles": {
+                        "eng": "Layering Sins Upon Sins",
+                        "jpn": "罪を重ねて"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "5388461",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5388461",
+                    "Titles": {
+                        "eng": "The Oath of the Living",
+                        "jpn": "生者の誓い"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "5400548",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5400548",
+                    "Titles": {
+                        "eng": "The Soldiers Return Home",
+                        "jpn": "戦士の帰還"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "5401435",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5401435",
+                    "Titles": {
+                        "eng": "Time of Awakening",
+                        "jpn": "目覚めの時"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "5411210",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5411210",
+                    "Titles": {
+                        "eng": "Memories of Hatred",
+                        "jpn": "憎しみの記憶"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "5427625",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5427625",
+                    "Titles": {
+                        "eng": "Power Without Reason",
+                        "jpn": "理由なき力"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "5433541",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5433541",
+                    "Titles": {
+                        "eng": "The Third Alvis",
+                        "jpn": "第三アルヴィス"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "5437237",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5437237",
+                    "Titles": {
+                        "eng": "Operation Azure",
+                        "jpn": "蒼穹作戦"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "5444724",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/5444724",
+                    "Titles": {
+                        "eng": "Tatsumiyajima",
+                        "jpn": "龍宮島"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "832263",
+            "URL": "https://thetvdb.com/series/fafner/seasons/official/3",
+            "Titles": {
+                "eng": "THE BEYOND",
+                "jpn": "THE BEYOND",
+                "fra": "The Beyond",
+                "spa": "THE BEYOND",
+                "zho": "苍穹之法芙娜 THE BEYOND",
+                "deu": "The Beyond"
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "7487081",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/7487081",
+                    "Titles": {
+                        "eng": "Azure Operation",
+                        "jpn": "蒼穹作戦"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7487084",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/7487084",
+                    "Titles": {
+                        "eng": "Child of Paradise",
+                        "jpn": "楽園の子"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7487086",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/7487086",
+                    "Titles": {
+                        "eng": "Instrument of Destiny",
+                        "jpn": "運命の器"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7812322",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/7812322",
+                    "Titles": {
+                        "eng": "The Powerless Ones",
+                        "jpn": "力なき者"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7812324",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/7812324",
+                    "Titles": {
+                        "eng": "Pupil",
+                        "jpn": "教え子"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "7812325",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/7812325",
+                    "Titles": {
+                        "eng": "By Your Side",
+                        "jpn": "その傍らに"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "8167092",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/8167092",
+                    "Titles": {
+                        "eng": "Those Who Won't Return",
+                        "jpn": "帰らぬ人となりて"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "8167093",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/8167093",
+                    "Titles": {
+                        "eng": "Tell the Deceased",
+                        "jpn": "遺されしを伝え"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "8167094",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/8167094",
+                    "Titles": {
+                        "eng": "Second L plan",
+                        "jpn": "第二次L計画"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "8167095",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/8167095",
+                    "Titles": {
+                        "eng": "Arashi, Come and  Go",
+                        "jpn": "嵐、来たりて"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "8167096",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/8167096",
+                    "Titles": {
+                        "eng": "Heroes, Two People",
+                        "jpn": "英雄、二人"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "8167097",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fafner/episodes/8167097",
+                    "Titles": {
+                        "eng": "Beyond the Azure",
+                        "jpn": "蒼穹の彼方"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

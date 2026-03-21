@@ -1,0 +1,681 @@
+{
+    "URL": "https://thetvdb.com/series/albator-78",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0182646/",
+        "https://www.themoviedb.org/tv/31714"
+    ],
+    "Titles": {
+        "eng": "Space Pirate Captain Harlock",
+        "jpn": "宇宙海賊キャプテンハーロック"
+    },
+    "Aliases": [
+        "The Adventures of Captain Harlock",
+        "うちゅうかいぞくキャプテンハーロック",
+        "Uchuu Kaizoku Kyaputen Haarokku",
+        "Uchuu Kaizoku Captain Herlock"
+    ],
+    "Modified": "2026-03-08",
+    "Seasons": {
+        "0": {
+            "ID": "29499",
+            "URL": "https://thetvdb.com/series/albator-78/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 21,
+            "Episodes": {
+                "1": {
+                    "ID": "4427628",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/4427628",
+                    "Titles": {
+                        "eng": "Mystery of the Arcadia",
+                        "jpn": "アルカディア号の謎"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8672335",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/8672335",
+                    "Titles": {
+                        "eng": "Space Pirate Captain Harlock",
+                        "jpn": "Space Pirate Captain Harlock"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8672336",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/8672336",
+                    "Titles": {
+                        "eng": "Space Pirate Captain Harlock II",
+                        "jpn": "Space Pirate Captain Harlock II"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7403062",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/7403062",
+                    "Titles": {
+                        "eng": "Harlock: Space Pirate",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "7805699",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/7805699",
+                    "Titles": {
+                        "eng": "Festival d'Annecy 2001",
+                        "jpn": "Festival d'Annecy 2001"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5774847",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/5774847",
+                    "Titles": {
+                        "eng": "French ending",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5774846",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/5774846",
+                    "Titles": {
+                        "eng": "French opening",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "9923755",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/9923755",
+                    "Titles": {
+                        "eng": "Arcadia of My Youth",
+                        "jpn": "わが青春のアルカディア"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "10258751",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/10258751",
+                    "Titles": {
+                        "eng": "The Endless Odyssey: Blues of the Rubbish Heap",
+                        "jpn": "The Endless Odyssey: はきだめのブルース"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "10258752",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/10258752",
+                    "Titles": {
+                        "eng": "The Endless Odyssey: For Whom the Friend Sleeps",
+                        "jpn": "The Endless Odyssey: 誰がために友は眠る"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "10258753",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/10258753",
+                    "Titles": {
+                        "eng": "The Endless Odyssey: The Voice calling for Noo from Afar",
+                        "jpn": "The Endless Odyssey: はるかなるヌーの呼び声"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "10258754",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/10258754",
+                    "Titles": {
+                        "eng": "The Endless Odyssey: Yattaran's 30-Second Bet",
+                        "jpn": "The Endless Odyssey: ヤッタラン・30秒の賭け"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "10258755",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/10258755",
+                    "Titles": {
+                        "eng": "The Endless Odyssey: Battlefield-The Tombstone Planet",
+                        "jpn": "The Endless Odyssey: 戦場は墓標の星に"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "10258756",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/10258756",
+                    "Titles": {
+                        "eng": "The Endless Odyssey: A Gentle Smile on the Skull of Memory",
+                        "jpn": "The Endless Odyssey: 追憶の髑髏は優しく嗤う"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "10258757",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/10258757",
+                    "Titles": {
+                        "eng": "The Endless Odyssey: The Moon Waits in the Promised Land",
+                        "jpn": "The Endless Odyssey: 約束の地に月は待つ"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "10258758",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/10258758",
+                    "Titles": {
+                        "eng": "The Endless Odyssey: Somewhere within the Decimated Planet lies the Castle Ruins",
+                        "jpn": "The Endless Odyssey: 死滅の星の魔城"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "10258759",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/10258759",
+                    "Titles": {
+                        "eng": "The Endless Odyssey: In the Depths of the Shadows of the Soul",
+                        "jpn": "The Endless Odyssey: 友よ。魂の深き闇の果てに"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "10258760",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/10258760",
+                    "Titles": {
+                        "eng": "The Endless Odyssey: Kei-Illusion",
+                        "jpn": "The Endless Odyssey: 蛍・幻想"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "10258762",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/10258762",
+                    "Titles": {
+                        "eng": "The Endless Odyssey: Trembling Universe",
+                        "jpn": "The Endless Odyssey: 震える宇宙"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "10258763",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/10258763",
+                    "Titles": {
+                        "eng": "The Endless Odyssey: The Soul Drifts to the Far Ends, with No Words at Parting",
+                        "jpn": "The Endless Odyssey: さいはてに魂は流れる。別れに言葉もなく"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "10258764",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/10258764",
+                    "Titles": {
+                        "eng": "The Endless Odyssey: ... the end",
+                        "jpn": "The Endless Odyssey: …涯"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "29500",
+            "URL": "https://thetvdb.com/series/albator-78/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 42,
+            "Episodes": {
+                "1": {
+                    "ID": "343272",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343272",
+                    "Titles": {
+                        "eng": "The Jolly Roger That Flutters Through Space",
+                        "jpn": "宇宙にはためく海賊旗"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "343273",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343273",
+                    "Titles": {
+                        "eng": "A Message From the Unknown",
+                        "jpn": "未知からのメッセージ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "343274",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343274",
+                    "Titles": {
+                        "eng": "A Lady Who Burns Like Paper",
+                        "jpn": "紙のように燃える女"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "343275",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343275",
+                    "Titles": {
+                        "eng": "Under the Flag of Freedom!",
+                        "jpn": "自由の旗の下に!"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "343276",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343276",
+                    "Titles": {
+                        "eng": "To the Shores of Distant Stars...",
+                        "jpn": "はるかなる星の涯に…"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "343277",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343277",
+                    "Titles": {
+                        "eng": "The Phantom Mazone",
+                        "jpn": "幻のマゾーン"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "343278",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343278",
+                    "Titles": {
+                        "eng": "The Pyramid on the Ocean Floor",
+                        "jpn": "海底のピラミッド"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "343279",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343279",
+                    "Titles": {
+                        "eng": "The Queen's Space Fleet",
+                        "jpn": "女王の宇宙艦隊"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "343280",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343280",
+                    "Titles": {
+                        "eng": "The Fearsome Plant Life Form",
+                        "jpn": "戦慄の植物生命体"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "343281",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343281",
+                    "Titles": {
+                        "eng": "Advance on the Mystery Planet",
+                        "jpn": "謎の惑星に迫れ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "343282",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343282",
+                    "Titles": {
+                        "eng": "When Lola Shines Golden",
+                        "jpn": "ローラが金色に輝く時"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "343283",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343283",
+                    "Titles": {
+                        "eng": "Mother, Be Eternal",
+                        "jpn": "母よ、永遠なれ"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "343284",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343284",
+                    "Titles": {
+                        "eng": "The Castle of Evil in the Sea of Death",
+                        "jpn": "死の海の魔城"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "343285",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343285",
+                    "Titles": {
+                        "eng": "The Mausoleum of the Sphinx",
+                        "jpn": "スフィンクスの墓標"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "343286",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343286",
+                    "Titles": {
+                        "eng": "Tragic Love! The Northern Pole Aurora",
+                        "jpn": "悲恋!北極オーロラ"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "343287",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343287",
+                    "Titles": {
+                        "eng": "Kei: A Farewell Song",
+                        "jpn": "蛍・わかれうた"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "343288",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343288",
+                    "Titles": {
+                        "eng": "The Skeleton Hero",
+                        "jpn": "白骨の勇者"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "343289",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343289",
+                    "Titles": {
+                        "eng": "The Evil Shadow Soldiers",
+                        "jpn": "魔の幻影戦士"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "343290",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343290",
+                    "Titles": {
+                        "eng": "Queen Lafresia's Trap",
+                        "jpn": "女王ラフレシアの罠"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "343291",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343291",
+                    "Titles": {
+                        "eng": "The Extinct Planet Jura",
+                        "jpn": "死滅のジュラ星"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "343292",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343292",
+                    "Titles": {
+                        "eng": "Gohrum! The Tragic Soldier",
+                        "jpn": "ゴーラム!悲劇の戦士"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "343293",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343293",
+                    "Titles": {
+                        "eng": "The Space Graveyard: Deathshadow",
+                        "jpn": "宇宙の墓場・デスシャドウ"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "343294",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343294",
+                    "Titles": {
+                        "eng": "Yattaran, Song of a Plastic Model Fanatic",
+                        "jpn": "ヤッタラン、プラモ狂の詩"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "343295",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343295",
+                    "Titles": {
+                        "eng": "The Shooting Star of Pure Love",
+                        "jpn": "純愛流れ星"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "343296",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343296",
+                    "Titles": {
+                        "eng": "Dr. Zero and Mii",
+                        "jpn": "ドクター・ゼロとミー"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "343297",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343297",
+                    "Titles": {
+                        "eng": "A Long Way Away Voyage",
+                        "jpn": "はるかなる長い旅"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "343298",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343298",
+                    "Titles": {
+                        "eng": "The Will of the Arcadia",
+                        "jpn": "アルカディア号の意志"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "343299",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343299",
+                    "Titles": {
+                        "eng": "The Ulysses Nebula",
+                        "jpn": "ユリシーズの星雲"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "343300",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343300",
+                    "Titles": {
+                        "eng": "The Life-and-Death Struggle on the Rainbow Planet",
+                        "jpn": "虹の星の死闘"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "343301",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343301",
+                    "Titles": {
+                        "eng": "My Friend, My Youth",
+                        "jpn": "わが友わが青春"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "343302",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343302",
+                    "Titles": {
+                        "eng": "Arcadia: The Secret Story of Its Construction",
+                        "jpn": "アルカディア号建造秘話"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "343303",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343303",
+                    "Titles": {
+                        "eng": "The Call of the Star Flute",
+                        "jpn": "星笛が呼ぶ"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "343304",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343304",
+                    "Titles": {
+                        "eng": "A Lone Man's Charge",
+                        "jpn": "たった一人の突撃!"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "343305",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343305",
+                    "Titles": {
+                        "eng": "A Galactic Lullaby",
+                        "jpn": "銀河子守唄"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "343306",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343306",
+                    "Titles": {
+                        "eng": "The Beautiful Mystery Woman",
+                        "jpn": "美しき謎の女"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "343307",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343307",
+                    "Titles": {
+                        "eng": "The Eve of the Showdown",
+                        "jpn": "決戦前夜"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "343308",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343308",
+                    "Titles": {
+                        "eng": "Tears on a Red Sweater",
+                        "jpn": "赤いセーターの涙"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "343309",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343309",
+                    "Titles": {
+                        "eng": "Farewell! Mayu",
+                        "jpn": "さらば!まゆ"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "343310",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/343310",
+                    "Titles": {
+                        "eng": "Heroic! The Commander Dies",
+                        "jpn": "壮絶!長官死す"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "392857",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/392857",
+                    "Titles": {
+                        "eng": "Then, the Angels Sang",
+                        "jpn": "その時天使は歌った"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "392860",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/392860",
+                    "Titles": {
+                        "eng": "Duel! The Queen vs. Harlock",
+                        "jpn": "決闘!女王対ハーロック"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "392862",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/albator-78/episodes/392862",
+                    "Titles": {
+                        "eng": "Farewell, Space Outlaw",
+                        "jpn": "さらば宇宙の無法者"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,792 @@
+{
+    "URL": "https://thetvdb.com/series/fate-kaleid-liner-prisma-illya",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/2EB1-6EDA-E86B-4D87-F284-0",
+        "https://www.imdb.com/title/tt2904426/",
+        "http://anime.prisma-illya.jp/",
+        "https://www.tvmaze.com/shows/5202/show-slug",
+        "https://www.themoviedb.org/tv/63576",
+        "https://x.com/prisma_illya"
+    ],
+    "Titles": {
+        "eng": "Fate/kaleid liner PRISMA☆ILLYA",
+        "jpn": "Fate/kaleid liner プリズマ☆イリヤ"
+    },
+    "Aliases": [
+        "Fate/kaleid liner Prisma Illya",
+        "Fate/kaleid liner Prisma Illya 2wei!",
+        "Fate/kaleid liner Prisma Illya 2wei Herz!"
+    ],
+    "Modified": "2026-03-14",
+    "Seasons": {
+        "0": {
+            "ID": "518767",
+            "URL": "https://thetvdb.com/series/fate-kaleid-liner-prisma-illya/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 27,
+            "Episodes": {
+                "1": {
+                    "ID": "4698951",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4698951",
+                    "Titles": {
+                        "eng": "Ruby-chan's Exciting Bloomer-Filled Review",
+                        "jpn": "ルビーちゃんのドキッ☆ブルマだらけの大反省会"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4751043",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4751043",
+                    "Titles": {
+                        "eng": "Quiz Magical Rubyonaire",
+                        "jpn": "クイズ☆マジカルルビオネア"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4751045",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4751045",
+                    "Titles": {
+                        "eng": "Kilo Battle",
+                        "jpn": "キロバトル"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4751676",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4751676",
+                    "Titles": {
+                        "eng": "Her Circumstances",
+                        "jpn": "彼女たちの事情"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4751677",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4751677",
+                    "Titles": {
+                        "eng": "Undressing War",
+                        "jpn": "脱衣戦争"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4598509",
+                    "TYPE": "OVA",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4598509",
+                    "Titles": {
+                        "eng": "[OVA] Dance at the Sports Festival!",
+                        "jpn": "運動会 DE ダンス!"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4940928",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4940928",
+                    "Titles": {
+                        "eng": "2Wei Short 1 - First Bra: Illya",
+                        "jpn": "ファーストブラ イリヤ編"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5061775",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5061775",
+                    "Titles": {
+                        "eng": "First Bra: Miyu",
+                        "jpn": "ファーストブラ 美遊編"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5061787",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5061787",
+                    "Titles": {
+                        "eng": "2Wei Short 2 - Sister's Skin Treatment",
+                        "jpn": "おねえちゃんの人肌治療"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5061788",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5061788",
+                    "Titles": {
+                        "eng": "Elementary School Chinese Dress",
+                        "jpn": "小学生チャイナドレス"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5061789",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5061789",
+                    "Titles": {
+                        "eng": "2Wei Short 3 - Magical Girl Prisma ×××",
+                        "jpn": "魔法少女プリズマ×××"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4933911",
+                    "TYPE": "OVA",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4933911",
+                    "Titles": {
+                        "eng": "[OVA] Magical Girl in Hot Springs Inn",
+                        "jpn": "魔法少女in温泉旅行"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "5361251",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5361251",
+                    "Titles": {
+                        "eng": "Beast, Again!",
+                        "jpn": "ビースト、再び！"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "5420786",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5420786",
+                    "Titles": {
+                        "eng": "Unlimited Cloth Works",
+                        "jpn": "無限の服製"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "5448639",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5448639",
+                    "Titles": {
+                        "eng": "Girls, Embrace Your Fighting Spirit!, Part 1",
+                        "jpn": "乙女よ闘志を抱け（前編）"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "5450008",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5450008",
+                    "Titles": {
+                        "eng": "Girls, Embrace Your Fighting Spirit!, Part 2",
+                        "jpn": "乙女よ闘志を抱け（後編）"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "5450009",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5450009",
+                    "Titles": {
+                        "eng": "Bazett's First Part-time Job",
+                        "jpn": "バゼットはじめてのアルバイト"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "5888618",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5888618",
+                    "Titles": {
+                        "eng": "Elementary School Students' Training",
+                        "jpn": "小学生達の○○修行"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "5888619",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5888619",
+                    "Titles": {
+                        "eng": "Practical Survival Techniques",
+                        "jpn": "実践サバイバル術"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "5888620",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5888620",
+                    "Titles": {
+                        "eng": "Change Clothes, Farewell Memories",
+                        "jpn": "着替えよ、さらば思い出さん"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "5888621",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5888621",
+                    "Titles": {
+                        "eng": "I Absolutely Cannot Lose!",
+                        "jpn": "絶対負けるもんですか！"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "5888622",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5888622",
+                    "Titles": {
+                        "eng": "Erika's Sleepwear Study",
+                        "jpn": "エリカのねまき研究"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "5941544",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5941544",
+                    "Titles": {
+                        "eng": "Ruby's Observation Records of Miyu-san's Baths",
+                        "jpn": "ルビーの衛宮邸浴場観察録"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "5762207",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5762207",
+                    "Titles": {
+                        "eng": "Oath Under Snow",
+                        "jpn": "雪下の誓い"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "6590484",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/6590484",
+                    "Titles": {
+                        "eng": "Oath Under Snow Special: Dark Sakura's Room",
+                        "jpn": "黒桜の部屋"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "7105120",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/7105120",
+                    "Titles": {
+                        "eng": "Prisma Phantasm",
+                        "jpn": "Fate/kaleid liner プリズマ☆イリヤ プリズマ☆ファンタズム"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "8752967",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/8752967",
+                    "Titles": {
+                        "eng": "Licht Nameless Girl",
+                        "jpn": "名前の無い少女"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "518768",
+            "URL": "https://thetvdb.com/series/fate-kaleid-liner-prisma-illya/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "deu": "Fate/kaleid liner Prisma Illya",
+                "spa": "Fate/kaleid liner Prisma Illya",
+                "fra": "Fate/kaleid liner Prisma Illya",
+                "pol": "Fate/Kaleid Liner Prisma Illya"
+            },
+            "# Episodes": 10,
+            "Episodes": {
+                "1": {
+                    "ID": "4557756",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4557756",
+                    "Titles": {
+                        "eng": "A Magical Girl is Born!",
+                        "jpn": "誕生! 魔法少女!"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4607712",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4607712",
+                    "Titles": {
+                        "eng": "Who's That?",
+                        "jpn": "誰?"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4607898",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4607898",
+                    "Titles": {
+                        "eng": "Girl Meets Girl",
+                        "jpn": "ガール ミーツ ガール"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4607899",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4607899",
+                    "Titles": {
+                        "eng": "We Lost",
+                        "jpn": "負けました"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4607900",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4607900",
+                    "Titles": {
+                        "eng": "There are two options?",
+                        "jpn": "選択肢は2つ…?"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4607901",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4607901",
+                    "Titles": {
+                        "eng": "A Blank, and the End of Night…",
+                        "jpn": "空白 夜の終わり"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4607902",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4607902",
+                    "Titles": {
+                        "eng": "Victory and Flight",
+                        "jpn": "勝利と逃走"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4607903",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4607903",
+                    "Titles": {
+                        "eng": "I'll Be a Normal Girl Again",
+                        "jpn": "普通の女の子に戻ります"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4607904",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4607904",
+                    "Titles": {
+                        "eng": "I'll End This Right Here",
+                        "jpn": "ここで終わらせる"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4607905",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4607905",
+                    "Titles": {
+                        "eng": "Kaleidoscope",
+                        "jpn": "Kaleidoscope"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "529524",
+            "URL": "https://thetvdb.com/series/fate-kaleid-liner-prisma-illya/seasons/official/2",
+            "Titles": {
+                "eng": "Fate/kaleid liner Prisma Illya 2wei!",
+                "jpn": null,
+                "deu": "Fate/kaleid Liner PRISMA ILLYA 2wei!",
+                "spa": "Fate/kaleid liner Prisma Illya 2wei!",
+                "fra": "Fate/kaleid liner Prisma☆Illya 2wei!",
+                "pol": "Fate/Kaleid Liner Prisma Illya Zwei!"
+            },
+            "# Episodes": 10,
+            "Episodes": {
+                "1": {
+                    "ID": "4658497",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4658497",
+                    "Titles": {
+                        "eng": "Illya Grow Up!?",
+                        "jpn": "イリヤgrow up!?"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4928798",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4928798",
+                    "Titles": {
+                        "eng": "Illya x Illya",
+                        "jpn": "イリヤ×イリヤ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4928799",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4928799",
+                    "Titles": {
+                        "eng": "Normal Life Breaker",
+                        "jpn": "日常ブレイカ―"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4928800",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4928800",
+                    "Titles": {
+                        "eng": "The Wild Transfer Student",
+                        "jpn": "嵐の転校生"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4946046",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4946046",
+                    "Titles": {
+                        "eng": "Well, In Other Words",
+                        "jpn": "それは、つまり"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4955007",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4955007",
+                    "Titles": {
+                        "eng": "On the Other Side of Lies and Façade",
+                        "jpn": "嘘と強がりの向こう側"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4955008",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4955008",
+                    "Titles": {
+                        "eng": "Clash! Cooking Sisters",
+                        "jpn": "激突！クッキン・シスターズ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4968902",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4968902",
+                    "Titles": {
+                        "eng": "Her Name Is",
+                        "jpn": "彼女の名は"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4976639",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4976639",
+                    "Titles": {
+                        "eng": "Lone Battle",
+                        "jpn": "独りの戦い"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4982577",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4982577",
+                    "Titles": {
+                        "eng": "The Things Those Hands Protected",
+                        "jpn": "その手が守ったものは"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "596892",
+            "URL": "https://thetvdb.com/series/fate-kaleid-liner-prisma-illya/seasons/official/3",
+            "Titles": {
+                "eng": "Fate/kaleid liner Prisma Illya 2wei Herz!",
+                "jpn": null,
+                "deu": "Fate/kaleid Liner PRISMA ILLYA 2wei Herz!",
+                "spa": "Fate/kaleid liner Prisma☆Illya 2wei Herz!",
+                "fra": "Fate/kaleid liner Prisma☆Illya 2wei Herz!",
+                "pol": "Fate/Kaleid Liner Prisma Illya Zwei Herz!"
+            },
+            "# Episodes": 10,
+            "Episodes": {
+                "1": {
+                    "ID": "4989111",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/4989111",
+                    "Titles": {
+                        "eng": "It's Like Looking In a Mirror, and I Don't Like It",
+                        "jpn": "鏡にしてるみたいでイヤなんだけど"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5289281",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5289281",
+                    "Titles": {
+                        "eng": "Tricolore Birthday",
+                        "jpn": "トリコロール・バースデー"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5289282",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5289282",
+                    "Titles": {
+                        "eng": "Girls, Life is Short, so Rot Away!",
+                        "jpn": "命短し腐れよ乙女"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5289283",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5289283",
+                    "Titles": {
+                        "eng": "Theme Park Panic!",
+                        "jpn": "てーまぱーく・ぱにっく！"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5289284",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5289284",
+                    "Titles": {
+                        "eng": "Yukatas and Fireworks",
+                        "jpn": "浴衣と花火"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5289285",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5289285",
+                    "Titles": {
+                        "eng": "Blue Glass Moon",
+                        "jpn": "Blue glass moon"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5289723",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5289723",
+                    "Titles": {
+                        "eng": "Enforcer",
+                        "jpn": "執行者"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5289725",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5289725",
+                    "Titles": {
+                        "eng": "Observer",
+                        "jpn": "監視者"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5289726",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5289726",
+                    "Titles": {
+                        "eng": "Golden Boy",
+                        "jpn": "金色の少年"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5289727",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5289727",
+                    "Titles": {
+                        "eng": "Calling Your Name From a Corner of the World",
+                        "jpn": "世界の片隅で君の名を"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "4": {
+            "ID": "639514",
+            "URL": "https://thetvdb.com/series/fate-kaleid-liner-prisma-illya/seasons/official/4",
+            "Titles": {
+                "eng": "Fate/kaleid liner Prisma Illya 3rei!",
+                "jpn": null,
+                "deu": "Fate/kaleid liner Prisma Illya 3rei!!",
+                "spa": "Fate/kaleid liner Prisma Illya 3rei!",
+                "fra": "Fate/kaleid liner Prisma☆Illya 3rei!!",
+                "pol": "Fate/Kaleid Liner Prisma Illya Drei!!"
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "5349096",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5349096",
+                    "Titles": {
+                        "eng": "City Fading to Silver",
+                        "jpn": "銀色に沈む街"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5665421",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5665421",
+                    "Titles": {
+                        "eng": "Encounters and Reunions",
+                        "jpn": "邂逅と再会"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5665422",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5665422",
+                    "Titles": {
+                        "eng": "Your True Enemy",
+                        "jpn": "君の本当の敵"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5665423",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5665423",
+                    "Titles": {
+                        "eng": "For My Weak Little Sister",
+                        "jpn": "弱虫の妹へ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5665424",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5665424",
+                    "Titles": {
+                        "eng": "The Little Lady Attacks",
+                        "jpn": "リトルレディ、襲来"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5665425",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5665425",
+                    "Titles": {
+                        "eng": "Chilling Hostility",
+                        "jpn": "凍てつく敵意"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5700063",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5700063",
+                    "Titles": {
+                        "eng": "Dolls and Stuffed Animals",
+                        "jpn": "人形とぬいぐるみ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5700064",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5700064",
+                    "Titles": {
+                        "eng": "People and Tools",
+                        "jpn": "人と道具"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5700322",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5700322",
+                    "Titles": {
+                        "eng": "Illya's Choice",
+                        "jpn": "イリヤの選択"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5700323",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5700323",
+                    "Titles": {
+                        "eng": "To the Princess's Side",
+                        "jpn": "姫の元へ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5712632",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5712632",
+                    "Titles": {
+                        "eng": "You Are Not Alone",
+                        "jpn": "独りじゃない"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5712633",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fate-kaleid-liner-prisma-illya/episodes/5712633",
+                    "Titles": {
+                        "eng": "Woven Miracles",
+                        "jpn": "繋いだ奇跡"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

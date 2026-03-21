@@ -1,0 +1,824 @@
+{
+    "URL": "https://thetvdb.com/series/cats-eye",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Crime",
+        "Mystery",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0131160/",
+        "https://tvlistings.zap2it.com/overview.html?programSeriesId=SH934752",
+        "https://www.themoviedb.org/tv/34114"
+    ],
+    "Titles": {
+        "eng": "Cat's Eye",
+        "jpn": "キャッツ♥アイ"
+    },
+    "Aliases": [
+        "キャッツ・アイ",
+        "キャッツ アイ",
+        "CAT'S♥EYE",
+        "CAT'S EYE"
+    ],
+    "Modified": "2026-02-08",
+    "Seasons": {
+        "0": {
+            "ID": "27232",
+            "URL": "https://thetvdb.com/series/cats-eye/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "2714181",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/2714181",
+                    "Titles": {
+                        "eng": "Cat's Eye - The Movie",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6481929",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/6481929",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9592987",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/9592987",
+                    "Titles": {
+                        "eng": "Lupin The 3rd vs. Cat’s Eye",
+                        "jpn": "ルパン三世VSキャッツ・アイ"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "17295",
+            "URL": "https://thetvdb.com/series/cats-eye/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 36,
+            "Episodes": {
+                "1": {
+                    "ID": "320890",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320890",
+                    "Titles": {
+                        "eng": "You're a Sexy Thief",
+                        "jpn": "君はセクシーな泥棒"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "320891",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320891",
+                    "Titles": {
+                        "eng": "Welcome to the Police Station",
+                        "jpn": "ようこそ警察へ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "320892",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320892",
+                    "Titles": {
+                        "eng": "Be Careful of the Mini-Devil",
+                        "jpn": "うるさい小悪魔にご用心"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "320893",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320893",
+                    "Titles": {
+                        "eng": "The Challenger Smells Like Paris",
+                        "jpn": "挑戦者はパリの匂い"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "320894",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320894",
+                    "Titles": {
+                        "eng": "Night Flight Is a Dangerous Scent",
+                        "jpn": "夜間飛行は危険な香り"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "320895",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320895",
+                    "Titles": {
+                        "eng": "Feeling a Bit Like Lovers",
+                        "jpn": "ちょっとだけ恋人気分"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "320896",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320896",
+                    "Titles": {
+                        "eng": "Make the Love Sign Glamorous",
+                        "jpn": "ラブサインは華やかに"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "320897",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320897",
+                    "Titles": {
+                        "eng": "Far and Away Tottoccino",
+                        "jpn": "遥かなるトットチーノ"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "320898",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320898",
+                    "Titles": {
+                        "eng": "Bizarre Track, Thief Chases Police",
+                        "jpn": "とってもおかしな大追跡"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "320899",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320899",
+                    "Titles": {
+                        "eng": "Do You Like Dog Food?",
+                        "jpn": "ドッグフードはお好き"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "320900",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320900",
+                    "Titles": {
+                        "eng": "Dangerous American Temptation",
+                        "jpn": "アメリカの危険な誘惑"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "320901",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320901",
+                    "Titles": {
+                        "eng": "Gorgeous European Temptation",
+                        "jpn": "ヨーロッパの華麗な誘惑"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "320902",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320902",
+                    "Titles": {
+                        "eng": "Don't Go, My Love",
+                        "jpn": "行かないで私の恋"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "320903",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320903",
+                    "Titles": {
+                        "eng": "Cleopatra Ransom",
+                        "jpn": "クレオパトラの身代金"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "320904",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320904",
+                    "Titles": {
+                        "eng": "Bodysuit Flying at Night",
+                        "jpn": "真夜中に翔べレオタード"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "320905",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320905",
+                    "Titles": {
+                        "eng": "Monday Is the Time to Smile",
+                        "jpn": "月曜日は微笑む時"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "320906",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320906",
+                    "Titles": {
+                        "eng": "Bullets Suit the Death God",
+                        "jpn": "死神には銃弾がふさわしい"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "320907",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320907",
+                    "Titles": {
+                        "eng": "Cornered",
+                        "jpn": "追いつめられて"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "320908",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320908",
+                    "Titles": {
+                        "eng": "Only Say Good Night to You",
+                        "jpn": "あなただけに今晩は"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "320909",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320909",
+                    "Titles": {
+                        "eng": "Lovers' Holiday",
+                        "jpn": "恋人たちのホリデー"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "320910",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320910",
+                    "Titles": {
+                        "eng": "I Want to Meet You Just Once",
+                        "jpn": "一度だけあなたに会いたい"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "320911",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320911",
+                    "Titles": {
+                        "eng": "Visitor on a Snowy Day",
+                        "jpn": "雪降る日の訪問者"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "320912",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320912",
+                    "Titles": {
+                        "eng": "Winter Is Love's Warmth",
+                        "jpn": "冬は恋の陽だまり"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "320913",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320913",
+                    "Titles": {
+                        "eng": "Santa Claus from the Sky",
+                        "jpn": "サンタが空から降ってきた"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "320914",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320914",
+                    "Titles": {
+                        "eng": "When the Bell Tolls Twelve",
+                        "jpn": "12時の鐘が鳴るとき"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "320915",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320915",
+                    "Titles": {
+                        "eng": "Love from Luna Island",
+                        "jpn": "ルナン島より愛をこめて"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "320916",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320916",
+                    "Titles": {
+                        "eng": "A Close Call in Luna",
+                        "jpn": "ルナン島危機一髪"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "320917",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320917",
+                    "Titles": {
+                        "eng": "Lost Memory",
+                        "jpn": "うしなわれた記憶"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "320918",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320918",
+                    "Titles": {
+                        "eng": "The Magnificent Show",
+                        "jpn": "ショーは華やかに"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "320919",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320919",
+                    "Titles": {
+                        "eng": "The Athletic Club Smells of Death",
+                        "jpn": "アスレチックは死の匂い"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "320920",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320920",
+                    "Titles": {
+                        "eng": "It Began with a Kiss",
+                        "jpn": "それはキッスで始まった"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "320921",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320921",
+                    "Titles": {
+                        "eng": "The Art Museum Is Full of Danger",
+                        "jpn": "美術館は危険がいっぱい"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "320922",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320922",
+                    "Titles": {
+                        "eng": "The Target Is a Proposal",
+                        "jpn": "標的はプロポーズ"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "320923",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320923",
+                    "Titles": {
+                        "eng": "Have You Seen Heinz?",
+                        "jpn": "君はハインツを見たか？"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "320924",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320924",
+                    "Titles": {
+                        "eng": "Unleash Cat's Secrets!",
+                        "jpn": "暴け！キャッツの秘密"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "320925",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320925",
+                    "Titles": {
+                        "eng": "A Man Who Knew Heinz",
+                        "jpn": "ハインツを知る男"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "17296",
+            "URL": "https://thetvdb.com/series/cats-eye/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 37,
+            "Episodes": {
+                "1": {
+                    "ID": "320926",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320926",
+                    "Titles": {
+                        "eng": "Returning from France",
+                        "jpn": "フランスから来た牝猫"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "320927",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320927",
+                    "Titles": {
+                        "eng": "A Soaking Dance at Midnight",
+                        "jpn": "ミッドナイトに濡れて舞う"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "320928",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320928",
+                    "Titles": {
+                        "eng": "Angels' Ransom",
+                        "jpn": "天使たちの身代金"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "320929",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320929",
+                    "Titles": {
+                        "eng": "Tension in the Dark",
+                        "jpn": "暗闇でどっきり"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "320930",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320930",
+                    "Titles": {
+                        "eng": "The Hunter Wore a Badge",
+                        "jpn": "狩人はバッヂをつけていた"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "320931",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320931",
+                    "Titles": {
+                        "eng": "The Stolen \"I Love You\"",
+                        "jpn": "盗まれたアイ・ラブ・ユー"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "320932",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320932",
+                    "Titles": {
+                        "eng": "Happiness of Life",
+                        "jpn": "おいしい生活"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "320933",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320933",
+                    "Titles": {
+                        "eng": "Magnificent Trap",
+                        "jpn": "華麗なる罠"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "320934",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320934",
+                    "Titles": {
+                        "eng": "The Rhapsody of Love",
+                        "jpn": "恋の狂走曲"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "320935",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320935",
+                    "Titles": {
+                        "eng": "The Most Dangerous Game",
+                        "jpn": "もっとも危険なゲーム"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "320936",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320936",
+                    "Titles": {
+                        "eng": "The Gift Is Dad's Wine",
+                        "jpn": "プレゼントはパパのワイン"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "320937",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320937",
+                    "Titles": {
+                        "eng": "A Mystery for a Winter Night",
+                        "jpn": "冬の夜はミステリー"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "320938",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320938",
+                    "Titles": {
+                        "eng": "Osaka Bay Blues",
+                        "jpn": "横浜ベイブルース"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "320939",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320939",
+                    "Titles": {
+                        "eng": "For You, the Tear of the Stars",
+                        "jpn": "君に星の涙を"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "320940",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320940",
+                    "Titles": {
+                        "eng": "Fake Wedding Bells",
+                        "jpn": "偽りのウェディング・ベル"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "320941",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320941",
+                    "Titles": {
+                        "eng": "Beware of Sweet Invitations",
+                        "jpn": "甘い誘いに気をつけて"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "320942",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320942",
+                    "Titles": {
+                        "eng": "Farewell, Winter Seagull",
+                        "jpn": "さらば、冬のカモメ"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "320943",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320943",
+                    "Titles": {
+                        "eng": "The Woman Chief Fell For",
+                        "jpn": "課長のほれた女"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "320944",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320944",
+                    "Titles": {
+                        "eng": "Inunari Station Trio",
+                        "jpn": "犬鳴署三重奏"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "320945",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320945",
+                    "Titles": {
+                        "eng": "Uneasy Feelings About a Transfer Student",
+                        "jpn": "転校生に胸さわぎ"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "320946",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320946",
+                    "Titles": {
+                        "eng": "A Requiem for the Villains",
+                        "jpn": "悪党どもに鎮魂歌(レクイエム)を"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "320947",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320947",
+                    "Titles": {
+                        "eng": "Toshio Falls in Love with a Phantom Woman",
+                        "jpn": "幻の女を愛した俊夫"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "320948",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320948",
+                    "Titles": {
+                        "eng": "Sudden Love",
+                        "jpn": "恋は突然に"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "320949",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320949",
+                    "Titles": {
+                        "eng": "Hot April Fool's Day",
+                        "jpn": "エイプリルフールはお熱く"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "320950",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320950",
+                    "Titles": {
+                        "eng": "Urgent Duty Scramble",
+                        "jpn": "気まぐれスクランブル"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "320951",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320951",
+                    "Titles": {
+                        "eng": "Halftime of Love",
+                        "jpn": "恋のハーフタイム"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "320952",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320952",
+                    "Titles": {
+                        "eng": "Don't Cry, Inunari Trio",
+                        "jpn": "泣くな犬鳴トリオ"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "320953",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320953",
+                    "Titles": {
+                        "eng": "Farewell, Mother",
+                        "jpn": "サヨナラ・ボクのママ達"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "320954",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320954",
+                    "Titles": {
+                        "eng": "Cheers to the Elders",
+                        "jpn": "フルムーンに乾杯"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "320955",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320955",
+                    "Titles": {
+                        "eng": "Dancing in the Starry Night",
+                        "jpn": "ダンスは星空で"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "320956",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320956",
+                    "Titles": {
+                        "eng": "The Splendid Leotard",
+                        "jpn": "素晴しきレオタード"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "320957",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320957",
+                    "Titles": {
+                        "eng": "Hitomi Got Carried Away",
+                        "jpn": "瞳にくびったけ"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "320958",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320958",
+                    "Titles": {
+                        "eng": "Heartbreak for Cat's Eye",
+                        "jpn": "キャッツにハートブレイク"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "320959",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320959",
+                    "Titles": {
+                        "eng": "To the Southern Cross, with Love",
+                        "jpn": "南十字星に愛をこめて"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "320960",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320960",
+                    "Titles": {
+                        "eng": "Your True Face Is a Silhouette",
+                        "jpn": "君の素顔はシルエット"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "320961",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320961",
+                    "Titles": {
+                        "eng": "Just One Chance to Steal",
+                        "jpn": "盗みのチャンスは一度だけ"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "320962",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/320962",
+                    "Titles": {
+                        "eng": "Love's Curtain Call",
+                        "jpn": "愛のカーテンコール"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

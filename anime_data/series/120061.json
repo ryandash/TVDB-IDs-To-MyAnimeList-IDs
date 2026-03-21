@@ -1,0 +1,73 @@
+{
+    "URL": "https://thetvdb.com/series/earthian",
+    "Genres": [
+        "Animation",
+        "Drama",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0159843/",
+        "https://www.themoviedb.org/tv/44275"
+    ],
+    "Titles": {
+        "eng": "Earthian",
+        "jpn": "Earthian"
+    },
+    "Aliases": [
+        "アーシアン"
+    ],
+    "Modified": "2024-06-13",
+    "Seasons": {
+        "1": {
+            "ID": "134051",
+            "URL": "https://thetvdb.com/series/earthian/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "1204181",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/earthian/episodes/1204181",
+                    "Titles": {
+                        "eng": "The Beginning of the End",
+                        "jpn": "アーシアンⅠ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1204191",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/earthian/episodes/1204191",
+                    "Titles": {
+                        "eng": "Fallen Angel",
+                        "jpn": "アーシアンⅡ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1204201",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/earthian/episodes/1204201",
+                    "Titles": {
+                        "eng": "Angelic Destroyer",
+                        "jpn": "アーシアンⅢ Vol.1"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1204211",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/earthian/episodes/1204211",
+                    "Titles": {
+                        "eng": "Final Battle",
+                        "jpn": "アーシアンⅢ Vol.2"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

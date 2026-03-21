@@ -1,0 +1,2406 @@
+{
+    "URL": "https://thetvdb.com/series/incredible-zorori",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Children",
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1169180/",
+        "http://www.zorori.jp/",
+        "https://www.themoviedb.org/tv/45535"
+    ],
+    "Titles": {
+        "eng": "Zorori the Naughty Hero",
+        "jpn": "かいけつゾロリ"
+    },
+    "Aliases": [
+        "Zorori: The Naughty Hero",
+        "Kaiketsu Zorori",
+        "まじめにふまじめ かいけつゾロリ",
+        "もっと！まじめにふまじめ かいけつゾロリ"
+    ],
+    "Modified": "2024-10-05",
+    "Seasons": {
+        "0": {
+            "ID": "156351",
+            "URL": "https://thetvdb.com/series/incredible-zorori/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 7,
+            "Episodes": {
+                "1": {
+                    "ID": "3785541",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3785541",
+                    "Titles": {
+                        "eng": "Movie 1 Mahou Tsukai no Deshi",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4201601",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/4201601",
+                    "Titles": {
+                        "eng": "Movie 2 Nazo no Otakara Daisakusen",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4889049",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/4889049",
+                    "Titles": {
+                        "eng": "Movie 4 Da-Da-Da-Daibōken!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4889058",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/4889058",
+                    "Titles": {
+                        "eng": "Movie 5 Mamoru ze! Kyōryū no Tamago",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5653294",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/5653294",
+                    "Titles": {
+                        "eng": "Movie 6 Uchuu no Yuusha-tachi",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5653297",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/5653297",
+                    "Titles": {
+                        "eng": "Movie 3 Uchuu Tanken Taisakusen",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5653298",
+                    "TYPE": "OVA",
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/5653298",
+                    "Titles": {
+                        "eng": "OVA 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "156361",
+            "URL": "https://thetvdb.com/series/incredible-zorori/seasons/official/1",
+            "Titles": {
+                "eng": "Kaiketsu Zorori",
+                "jpn": "かいけつゾロリ"
+            },
+            "# Episodes": 52,
+            "Episodes": {
+                "1": {
+                    "ID": "1401001",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1401001",
+                    "Titles": {
+                        "eng": "Dragon Slayer",
+                        "jpn": "ドラゴンたいじ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1401011",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1401011",
+                    "Titles": {
+                        "eng": "The Great Battle for Zorori's Castle",
+                        "jpn": "大けっとうゾロリじょう"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1401941",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1401941",
+                    "Titles": {
+                        "eng": "I Love Mama",
+                        "jpn": "ママだーいすき"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1401961",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1401961",
+                    "Titles": {
+                        "eng": "The Haunted House",
+                        "jpn": "きょうふのやかた"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "1401971",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1401971",
+                    "Titles": {
+                        "eng": "The Sacred Book",
+                        "jpn": "せいなる本"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "1401981",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1401981",
+                    "Titles": {
+                        "eng": "The Wizard's Apprentice",
+                        "jpn": "まほうつかいのでし"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "1401991",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1401991",
+                    "Titles": {
+                        "eng": "The Great Pirate",
+                        "jpn": "大かいぞく"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "1402001",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1402001",
+                    "Titles": {
+                        "eng": "The Ghost Ship",
+                        "jpn": "ゆうれいせん"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "1402011",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1402011",
+                    "Titles": {
+                        "eng": "The Chocolate Castle",
+                        "jpn": "チョコレートじょう"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "1402021",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1402021",
+                    "Titles": {
+                        "eng": "The Great Dinosaur",
+                        "jpn": "大きょうりゅう"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "1913021",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913021",
+                    "Titles": {
+                        "eng": "The Car Race of Terror",
+                        "jpn": "きょうふのカーレース"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "1913031",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913031",
+                    "Titles": {
+                        "eng": "The Amusement Park of Terror",
+                        "jpn": "きょうふのゆうえんち"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "1913041",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913041",
+                    "Titles": {
+                        "eng": "The Delicious School",
+                        "jpn": "おいしいがっこう"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "1913051",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913051",
+                    "Titles": {
+                        "eng": "The Mysterious Plane",
+                        "jpn": "なぞのひこうき"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "1913061",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913061",
+                    "Titles": {
+                        "eng": "The Giant Monster",
+                        "jpn": "大かいじゅう"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "1913071",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913071",
+                    "Titles": {
+                        "eng": "A Decisive Battle! Cards vs. Crayons",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "1913081",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913081",
+                    "Titles": {
+                        "eng": "The Ghost of Hanako-san",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "1913091",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913091",
+                    "Titles": {
+                        "eng": "The Soccer Match of Terror",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "1913101",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913101",
+                    "Titles": {
+                        "eng": "Arrested!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "1913111",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913111",
+                    "Titles": {
+                        "eng": "The Great Escape",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "1913121",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913121",
+                    "Titles": {
+                        "eng": "Ishishi and Noshishi on their First Errand",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "1913131",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913131",
+                    "Titles": {
+                        "eng": "The Great Rocket Plan",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "1913141",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913141",
+                    "Titles": {
+                        "eng": "The Mysterious Space Aliens",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "1913161",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913161",
+                    "Titles": {
+                        "eng": "Zorori's Dream Castle",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "1913191",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913191",
+                    "Titles": {
+                        "eng": "A Fiance Appears!?",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "1913211",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913211",
+                    "Titles": {
+                        "eng": "The Great Riddle Plan",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "1913231",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913231",
+                    "Titles": {
+                        "eng": "The Great Ghost Plan",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "1913251",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913251",
+                    "Titles": {
+                        "eng": "The Great Oonyuudou Plan",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "1913281",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913281",
+                    "Titles": {
+                        "eng": "The Great Oyaji Gag Plan",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "1913311",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913311",
+                    "Titles": {
+                        "eng": "The Monster Major League",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "1913321",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913321",
+                    "Titles": {
+                        "eng": "The Magic Ball of Terror",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "1913351",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913351",
+                    "Titles": {
+                        "eng": "A Home Run Vow",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "1913381",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913381",
+                    "Titles": {
+                        "eng": "The Zorori Castle at the Bottom of the Sea",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "1913421",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913421",
+                    "Titles": {
+                        "eng": "The Great Treasure Card Plan",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "1913431",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913431",
+                    "Titles": {
+                        "eng": "The Great Ninja Plan",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "1913441",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913441",
+                    "Titles": {
+                        "eng": "Clash! The Great Mecha Ishishi & Noshishi Plan",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "1913451",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913451",
+                    "Titles": {
+                        "eng": "A Shocking Proposal",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "1913461",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913461",
+                    "Titles": {
+                        "eng": "I Marry!?",
+                        "jpn": "けっこんする！？"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "1913471",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913471",
+                    "Titles": {
+                        "eng": "The Great Part Time Job Plan",
+                        "jpn": "アルバイト大さくせん"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "1913481",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913481",
+                    "Titles": {
+                        "eng": "A Rich Man",
+                        "jpn": "大金もち"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "1913491",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913491",
+                    "Titles": {
+                        "eng": "A Close Call Princess",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "1913501",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913501",
+                    "Titles": {
+                        "eng": "The Close Call Video Game",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "1913511",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913511",
+                    "Titles": {
+                        "eng": "The Great Monster Squid Extermination Plan",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "1913521",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913521",
+                    "Titles": {
+                        "eng": "The Great Jump of Terror",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "1913531",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913531",
+                    "Titles": {
+                        "eng": "The Great Gold Medal Plan",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "1913541",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913541",
+                    "Titles": {
+                        "eng": "The Presents of Terror",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "1913551",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913551",
+                    "Titles": {
+                        "eng": "The Dream Prince Contest",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "1913561",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913561",
+                    "Titles": {
+                        "eng": "The Devil of Terror",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "1913571",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913571",
+                    "Titles": {
+                        "eng": "Heaven and Hell",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "1913581",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913581",
+                    "Titles": {
+                        "eng": "A Trip to Hell",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "1913601",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913601",
+                    "Titles": {
+                        "eng": "Zorori's Final Day!?",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "1913611",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/1913611",
+                    "Titles": {
+                        "eng": "The Flying in the Sky Zorori Castle",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "217971",
+            "URL": "https://thetvdb.com/series/incredible-zorori/seasons/official/2",
+            "Titles": {
+                "eng": "Majime ni Fumajime Kaiketsu Zorori",
+                "jpn": "まじめにふまじめ　かいけつゾロリ"
+            },
+            "# Episodes": 97,
+            "Episodes": {
+                "1": {
+                    "ID": "3727491",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727491",
+                    "Titles": {
+                        "eng": "The Great Cheer Up Plan",
+                        "jpn": "げんきもりもり大さくせん"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "3727511",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727511",
+                    "Titles": {
+                        "eng": "The Mystery of the Giant Cave",
+                        "jpn": "きょだいどうくつのなぞ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "3727521",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727521",
+                    "Titles": {
+                        "eng": "The Terrifying Treasure Hunt",
+                        "jpn": "きょうふのたからさがし"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "3727531",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727531",
+                    "Titles": {
+                        "eng": "The Mysterious Magical Girl",
+                        "jpn": "なぞのまほう少女"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "3727561",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727561",
+                    "Titles": {
+                        "eng": "The 3 Heroes",
+                        "jpn": "3人のゆうしゃ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "3727571",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727571",
+                    "Titles": {
+                        "eng": "The Wizard's Traps",
+                        "jpn": "まほうつかいのわな"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "3727581",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727581",
+                    "Titles": {
+                        "eng": "The Magic Room",
+                        "jpn": "まほうのへや"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "3727591",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727591",
+                    "Titles": {
+                        "eng": "The Power of Magic",
+                        "jpn": "まほうのちから"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "3727601",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727601",
+                    "Titles": {
+                        "eng": "Let's Go to the Hot Springs",
+                        "jpn": "おんせんへ行こう"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "3727611",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727611",
+                    "Titles": {
+                        "eng": "The Detective Has Appeared",
+                        "jpn": "めいたんていとうじょう"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "3727621",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727621",
+                    "Titles": {
+                        "eng": "Nelly's Mistake",
+                        "jpn": "ネリーちゃんのしっぱい"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "3727631",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727631",
+                    "Titles": {
+                        "eng": "A Bunch of Riddles",
+                        "jpn": "なぞなぞがいっぱい"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "3727641",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727641",
+                    "Titles": {
+                        "eng": "The Ramen King Appears",
+                        "jpn": "ラーメン王とうじょう"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "3727651",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727651",
+                    "Titles": {
+                        "eng": "It's hot! A Ramen Showdown",
+                        "jpn": "あついぜ！ラーメンたいけつ"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "3727661",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727661",
+                    "Titles": {
+                        "eng": "The Terrifying Popular Designer",
+                        "jpn": "きょうふのモテモテデザイナー"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "3727671",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727671",
+                    "Titles": {
+                        "eng": "The Flap to the World Designer",
+                        "jpn": "世界へはばたけデザイナー"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "3727681",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727681",
+                    "Titles": {
+                        "eng": "The Great Carnival Plan",
+                        "jpn": "カーニバルだいさくせん"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "3727691",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727691",
+                    "Titles": {
+                        "eng": "Keep Watch! Carnival Victory",
+                        "jpn": "めざせ！ゆうしょうカーニバル"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "3727701",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727701",
+                    "Titles": {
+                        "eng": "The Terrifying Carnival",
+                        "jpn": "きょうふのカーニバル"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "3727711",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727711",
+                    "Titles": {
+                        "eng": "The Magic Forest",
+                        "jpn": "まほうのもり"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "3727721",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727721",
+                    "Titles": {
+                        "eng": "The Tail Walking Fishes",
+                        "jpn": "おっぽであるくさかなたち"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "3727731",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727731",
+                    "Titles": {
+                        "eng": "The Great Prankster Kids Plan",
+                        "jpn": "いたずらこぞう大さくせん"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "3727741",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727741",
+                    "Titles": {
+                        "eng": "Climb! Terrifying Mt. Tongari",
+                        "jpn": "のぼれ！きょうふのトンガリ山"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "3727751",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727751",
+                    "Titles": {
+                        "eng": "The Cursed Valley",
+                        "jpn": "のろいの谷"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "3727761",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727761",
+                    "Titles": {
+                        "eng": "The Curse of the Haunted House",
+                        "jpn": "おばけやしきののろい"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "3727771",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727771",
+                    "Titles": {
+                        "eng": "The Monsters Have Come",
+                        "jpn": "ようかいたちがやってきた"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "3727781",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727781",
+                    "Titles": {
+                        "eng": "Zorori Can Be Eaten",
+                        "jpn": "ゾロリたべられる"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "3727801",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727801",
+                    "Titles": {
+                        "eng": "The Great Escape from Tonma",
+                        "jpn": "とんまからの大だっしゅつ"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "3727821",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727821",
+                    "Titles": {
+                        "eng": "The Dragon Farm Duel",
+                        "jpn": "ドラゴンぼくじょうのけっとう"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "3727841",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727841",
+                    "Titles": {
+                        "eng": "Zorori VS Gaon",
+                        "jpn": "ゾロリVSガオン"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "3727851",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727851",
+                    "Titles": {
+                        "eng": "Ishishi & Noshishi's 100 Close Calls",
+                        "jpn": "イシシ・ノシシきき100ぱつ"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "3727861",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727861",
+                    "Titles": {
+                        "eng": "The Great Curry Panic",
+                        "jpn": "カレー大パニック"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "3727871",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727871",
+                    "Titles": {
+                        "eng": "The Mysterious Giant Good Luck Cat",
+                        "jpn": "なぞの大まねきねこ"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "3727881",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727881",
+                    "Titles": {
+                        "eng": "The Terrifying Farting Squirrel Adventure",
+                        "jpn": "きょうふのへとリス・アドベンチャー"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "3727891",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727891",
+                    "Titles": {
+                        "eng": "The Fated 8 Hours",
+                        "jpn": "うんめいの8じかん"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "3727901",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727901",
+                    "Titles": {
+                        "eng": "Certain Death",
+                        "jpn": "ぜったいぜつめい"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "3727911",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727911",
+                    "Titles": {
+                        "eng": "The Terrifying Flower Monster",
+                        "jpn": "きょうふのフラワーモンスター"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "3727921",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727921",
+                    "Titles": {
+                        "eng": "Bridegroom Training",
+                        "jpn": "はなむこしゅぎょう"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "3727931",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727931",
+                    "Titles": {
+                        "eng": "Who's the Culprit!?",
+                        "jpn": "はんにんはだれだ！？"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "3727941",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727941",
+                    "Titles": {
+                        "eng": "The Secret of Dapon's Pharmacy",
+                        "jpn": "ダボンやっきょくのひみつ"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "3727951",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727951",
+                    "Titles": {
+                        "eng": "Rescue Nelly!",
+                        "jpn": "ネリーちゃんをすくえ！"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "3727961",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727961",
+                    "Titles": {
+                        "eng": "The Great Thief",
+                        "jpn": "大どろぼう"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "3727971",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727971",
+                    "Titles": {
+                        "eng": "Pursue Guramo!",
+                        "jpn": "グラモをおえ！"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "3727981",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727981",
+                    "Titles": {
+                        "eng": "Dapon's Great Revenge Plan",
+                        "jpn": "ダボンのふくしゅう大さくせん"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "3727991",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3727991",
+                    "Titles": {
+                        "eng": "Dapon's Meditation Hot Spring",
+                        "jpn": "ダボンのはんせいおんせん"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "3728001",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728001",
+                    "Titles": {
+                        "eng": "Giant Monster Dapon",
+                        "jpn": "大かいじゅうダボン"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "3728011",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728011",
+                    "Titles": {
+                        "eng": "The Great Dapon Rescue Plan",
+                        "jpn": "ダボンきゅうしゅつ大さくせん"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "3728021",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728021",
+                    "Titles": {
+                        "eng": "The Terrifying Great Meteorite",
+                        "jpn": "きょうふの大いんせき"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "3728031",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728031",
+                    "Titles": {
+                        "eng": "Search for the Fart Master",
+                        "jpn": "おならめいじんをさがせ"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "3728041",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728041",
+                    "Titles": {
+                        "eng": "The Earth's Final Day",
+                        "jpn": "ちきゅうさいごの日"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "3728051",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728051",
+                    "Titles": {
+                        "eng": "The Ghost Forest's Electric Eel",
+                        "jpn": "おばけの森のデンキウナギ"
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "3728061",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728061",
+                    "Titles": {
+                        "eng": "Blow Down the Piglet's House!",
+                        "jpn": "子ブタの家をぶっとばせ!"
+                    },
+                    "Aliases": []
+                },
+                "53": {
+                    "ID": "3728071",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728071",
+                    "Titles": {
+                        "eng": "Zorori Has Become a Child!?",
+                        "jpn": "ゾロリ子どもになる!?"
+                    },
+                    "Aliases": []
+                },
+                "54": {
+                    "ID": "3728081",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728081",
+                    "Titles": {
+                        "eng": "No Smiling Allowed in Nikoniko Town",
+                        "jpn": "笑っちゃだめだめニコニコタウン"
+                    },
+                    "Aliases": []
+                },
+                "55": {
+                    "ID": "3728091",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728091",
+                    "Titles": {
+                        "eng": "Zorori and Cinderella",
+                        "jpn": "ゾロリとシンデレラ"
+                    },
+                    "Aliases": []
+                },
+                "56": {
+                    "ID": "3728101",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728101",
+                    "Titles": {
+                        "eng": "The Prince of Fate",
+                        "jpn": "うんめいの王子さま"
+                    },
+                    "Aliases": []
+                },
+                "57": {
+                    "ID": "3728111",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728111",
+                    "Titles": {
+                        "eng": "Pursuing the Super Baby",
+                        "jpn": "スーパー赤ちゃん大ついせき"
+                    },
+                    "Aliases": []
+                },
+                "58": {
+                    "ID": "3728121",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728121",
+                    "Titles": {
+                        "eng": "The Great Get a Princess Plan",
+                        "jpn": "おひめさまゲット大さくせん"
+                    },
+                    "Aliases": []
+                },
+                "59": {
+                    "ID": "3728131",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728131",
+                    "Titles": {
+                        "eng": "Zorori, the Devil King, and the Prince",
+                        "jpn": "ゾロリとまおうと王子さま"
+                    },
+                    "Aliases": []
+                },
+                "60": {
+                    "ID": "3728141",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728141",
+                    "Titles": {
+                        "eng": "Rescue Princess Myan!",
+                        "jpn": "ミャン王女をすくえ!"
+                    },
+                    "Aliases": []
+                },
+                "61": {
+                    "ID": "3728161",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728161",
+                    "Titles": {
+                        "eng": "Aryaps' Puppe",
+                        "jpn": "アリャプスのプッペ"
+                    },
+                    "Aliases": []
+                },
+                "62": {
+                    "ID": "3728171",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728171",
+                    "Titles": {
+                        "eng": "Showdown at Mt. Kachimake",
+                        "jpn": "カチマケ山のたいけつ"
+                    },
+                    "Aliases": []
+                },
+                "63": {
+                    "ID": "3728181",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728181",
+                    "Titles": {
+                        "eng": "The Great Storm Escape",
+                        "jpn": "あらしからの大だっしゅつ"
+                    },
+                    "Aliases": []
+                },
+                "64": {
+                    "ID": "3728191",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728191",
+                    "Titles": {
+                        "eng": "Let's Get the Diamond!",
+                        "jpn": "ダイヤを手にいれろ!"
+                    },
+                    "Aliases": []
+                },
+                "65": {
+                    "ID": "3728201",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728201",
+                    "Titles": {
+                        "eng": "Zorori Lost His Memory!?",
+                        "jpn": "ゾロリきおくそうしつ!?"
+                    },
+                    "Aliases": []
+                },
+                "66": {
+                    "ID": "3728211",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728211",
+                    "Titles": {
+                        "eng": "Showdown! Little Red Ridding Hood",
+                        "jpn": "たいけつ！赤ずきんちゃん"
+                    },
+                    "Aliases": []
+                },
+                "67": {
+                    "ID": "3728221",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728221",
+                    "Titles": {
+                        "eng": "Mecha Gaon Appears!",
+                        "jpn": "メカガオンあらわる!"
+                    },
+                    "Aliases": []
+                },
+                "68": {
+                    "ID": "3728231",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728231",
+                    "Titles": {
+                        "eng": "Startlingly Surprised?! The Golf Tournament",
+                        "jpn": "どっきりびっくり?!ゴルフたいかい"
+                    },
+                    "Aliases": []
+                },
+                "69": {
+                    "ID": "3728241",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728241",
+                    "Titles": {
+                        "eng": "The Great Zorori Circus",
+                        "jpn": "ゾロリ大サーカス"
+                    },
+                    "Aliases": []
+                },
+                "70": {
+                    "ID": "3728251",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728251",
+                    "Titles": {
+                        "eng": "The Lonely Soldier",
+                        "jpn": "きょうふのガチャガチャ"
+                    },
+                    "Aliases": []
+                },
+                "71": {
+                    "ID": "3728261",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728261",
+                    "Titles": {
+                        "eng": "Winning Big with the Weather Machine",
+                        "jpn": "お天気マシンをぶっつぶせ"
+                    },
+                    "Aliases": []
+                },
+                "72": {
+                    "ID": "3728271",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728271",
+                    "Titles": {
+                        "eng": "Puppe's Secret",
+                        "jpn": "プッペのひみつ"
+                    },
+                    "Aliases": []
+                },
+                "73": {
+                    "ID": "3728281",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728281",
+                    "Titles": {
+                        "eng": "Showdown! The Legendary Prank King",
+                        "jpn": "たいけつ!でんせつのイタズラ王"
+                    },
+                    "Aliases": []
+                },
+                "74": {
+                    "ID": "3728291",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728291",
+                    "Titles": {
+                        "eng": "Goodbye! Puppe",
+                        "jpn": "さよなら!プッペ"
+                    },
+                    "Aliases": []
+                },
+                "75": {
+                    "ID": "3728301",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728301",
+                    "Titles": {
+                        "eng": "Tracking the Prank King",
+                        "jpn": "イタズラ王大ついせき"
+                    },
+                    "Aliases": []
+                },
+                "76": {
+                    "ID": "3728311",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728311",
+                    "Titles": {
+                        "eng": "Thank you Mr. Thank You",
+                        "jpn": "サンキューさんありがとう"
+                    },
+                    "Aliases": []
+                },
+                "77": {
+                    "ID": "3728321",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728321",
+                    "Titles": {
+                        "eng": "The Great Rescue Zorori Plan",
+                        "jpn": "ゾロリきゅうしゅつ大さくせん"
+                    },
+                    "Aliases": []
+                },
+                "78": {
+                    "ID": "3728331",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728331",
+                    "Titles": {
+                        "eng": "The Close Call Runaway Locomotive",
+                        "jpn": "ぼうそうきかんしゃききいっぱつ"
+                    },
+                    "Aliases": []
+                },
+                "79": {
+                    "ID": "3728341",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728341",
+                    "Titles": {
+                        "eng": "Showdown! Kids VS Adults",
+                        "jpn": "たいけつ!こどもVSおとな"
+                    },
+                    "Aliases": []
+                },
+                "80": {
+                    "ID": "3728351",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728351",
+                    "Titles": {
+                        "eng": "Zorori and Gaon's Terrifying 97 Matches",
+                        "jpn": "ゾロリとガオンきょうふの97ならべ"
+                    },
+                    "Aliases": []
+                },
+                "81": {
+                    "ID": "3728361",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728361",
+                    "Titles": {
+                        "eng": "The Certain Kill Pranksters",
+                        "jpn": "ひっさつイタズラ人"
+                    },
+                    "Aliases": []
+                },
+                "82": {
+                    "ID": "3728371",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728371",
+                    "Titles": {
+                        "eng": "The Terrifying Marathon Rally",
+                        "jpn": "きょうふのマラソンたいかい"
+                    },
+                    "Aliases": []
+                },
+                "83": {
+                    "ID": "3728381",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728381",
+                    "Titles": {
+                        "eng": "Ishishi and Noshishi's Candy Hell",
+                        "jpn": "イシシ・ノシシのおかしじごく"
+                    },
+                    "Aliases": []
+                },
+                "84": {
+                    "ID": "3728391",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728391",
+                    "Titles": {
+                        "eng": "Save Princess Elzie's Castle!",
+                        "jpn": "エルゼひめのおしろをすくえ!"
+                    },
+                    "Aliases": []
+                },
+                "85": {
+                    "ID": "3728401",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728401",
+                    "Titles": {
+                        "eng": "The Mysterious Magic Words are Honchara Konchara",
+                        "jpn": "なぞのじゅもんはホンチャラカンチャラ"
+                    },
+                    "Aliases": []
+                },
+                "86": {
+                    "ID": "3728411",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728411",
+                    "Titles": {
+                        "eng": "Puppe is God?",
+                        "jpn": "プッペがかみさま?"
+                    },
+                    "Aliases": []
+                },
+                "87": {
+                    "ID": "3728421",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728421",
+                    "Titles": {
+                        "eng": "The Big Prize is a Terrifying Premonition!?",
+                        "jpn": "きょうふのうらない大あたり!?"
+                    },
+                    "Aliases": []
+                },
+                "88": {
+                    "ID": "3728431",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728431",
+                    "Titles": {
+                        "eng": "Greetings! Mysterious Alien!",
+                        "jpn": "さいとうじょう!なぞのうちゅうじん!"
+                    },
+                    "Aliases": []
+                },
+                "89": {
+                    "ID": "3728451",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728451",
+                    "Titles": {
+                        "eng": "Eh! Zorori's Little Sister?",
+                        "jpn": "えっ！ゾロリのいもうと?"
+                    },
+                    "Aliases": []
+                },
+                "90": {
+                    "ID": "3728461",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728461",
+                    "Titles": {
+                        "eng": "Surprise! The Great Kick the Can Plan",
+                        "jpn": "びっくり!カンけり大さくせん!"
+                    },
+                    "Aliases": []
+                },
+                "91": {
+                    "ID": "3728471",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728471",
+                    "Titles": {
+                        "eng": "Look! A Super Hero",
+                        "jpn": "めざせ!スーパーヒーロー"
+                    },
+                    "Aliases": []
+                },
+                "92": {
+                    "ID": "3728481",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728481",
+                    "Titles": {
+                        "eng": "The Princess' Ghost",
+                        "jpn": "ゆうれいのおひめさま"
+                    },
+                    "Aliases": []
+                },
+                "93": {
+                    "ID": "3728491",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728491",
+                    "Titles": {
+                        "eng": "An Alien is Santa Claus",
+                        "jpn": "うちゅうじんはサンタクロース"
+                    },
+                    "Aliases": []
+                },
+                "94": {
+                    "ID": "3728501",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728501",
+                    "Titles": {
+                        "eng": "The Great Gift of the New Year's First Smile Plan",
+                        "jpn": "はつわらい おとしだま大さくせん"
+                    },
+                    "Aliases": []
+                },
+                "95": {
+                    "ID": "3728511",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728511",
+                    "Titles": {
+                        "eng": "The Out of Control Robot Maid",
+                        "jpn": "メイドロボット大ぼうそう"
+                    },
+                    "Aliases": []
+                },
+                "96": {
+                    "ID": "3728531",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728531",
+                    "Titles": {
+                        "eng": "The Prank King and the Mysterious Castle",
+                        "jpn": "イタズラ王となぞのしろ"
+                    },
+                    "Aliases": []
+                },
+                "97": {
+                    "ID": "3728541",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/3728541",
+                    "Titles": {
+                        "eng": "The Final Decisive Battle! The Legendary Prank King",
+                        "jpn": "いよいよけっせん!でんせつのイタズラ王"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "1834761",
+            "URL": "https://thetvdb.com/series/incredible-zorori/seasons/official/3",
+            "Titles": {
+                "eng": "Motto! Majime ni Fumajime Kaiketsu Zorori",
+                "jpn": "もっと！まじめにふまじめ かいけつゾロリ"
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "7690377",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/7690377",
+                    "Titles": {
+                        "eng": "A Bride and Zorori Castle",
+                        "jpn": "はなよめとゾロリじょう"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7690382",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/7690382",
+                    "Titles": {
+                        "eng": "Zorori Vs. The Hot-Blooded Beat",
+                        "jpn": "ゾロリVSねっけつのビート"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7690384",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/7690384",
+                    "Titles": {
+                        "eng": "Curry Vs. ESP",
+                        "jpn": "カレーVSちょうのうりょく"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7690387",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/7690387",
+                    "Titles": {
+                        "eng": "Kaiketsu Zorori In The Quiz King",
+                        "jpn": "かいけつゾロリのクイズ王"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7904544",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/7904544",
+                    "Titles": {
+                        "eng": "The Mysterious Spy and Chocolate",
+                        "jpn": "なぞのスパイとチョコレート"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "7904545",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/7904545",
+                    "Titles": {
+                        "eng": "Secret Weapons and a Soul Mate",
+                        "jpn": "ひみつへいきとうんめいの人"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "7904546",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/7904546",
+                    "Titles": {
+                        "eng": "Zorori, Beat, and the Girl Who Makes Flowers Bloom",
+                        "jpn": "ゾロリとビートと花咲かむすめ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "7904547",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/7904547",
+                    "Titles": {
+                        "eng": "Magic Lamp~oon",
+                        "jpn": "まほうのランプ~~~っ"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "7904548",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/7904548",
+                    "Titles": {
+                        "eng": "Zorori in a Pinch! Search for the Genie!",
+                        "jpn": "ゾロリピンチ! 大まじんをさがせ!"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "7904549",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/7904549",
+                    "Titles": {
+                        "eng": "The Mysterious Spy and 100 Roses",
+                        "jpn": "なぞのスパイと100本のバラ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "7904550",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/7904550",
+                    "Titles": {
+                        "eng": "Search for Gururu Kingdom's Treasure Box!",
+                        "jpn": "ガルル王国のたからばこをさがせ!"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "7904551",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/7904551",
+                    "Titles": {
+                        "eng": "The Process of Becoming a Prince",
+                        "jpn": "王子さまになるほうほう"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "7904552",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/7904552",
+                    "Titles": {
+                        "eng": "The Princess's Challenge!",
+                        "jpn": "お姫さまからのちょうせん!"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "7904553",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/7904553",
+                    "Titles": {
+                        "eng": "Zorori and the Takoyaki Love",
+                        "jpn": "ゾロリとたこやきの恋"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "7904555",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/7904555",
+                    "Titles": {
+                        "eng": "Zorori Channel",
+                        "jpn": "ゾロリちゃんねる"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "8150744",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8150744",
+                    "Titles": {
+                        "eng": "The Terrifying Monster Field Trip",
+                        "jpn": "きょうふのようかいえんそく"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "8150745",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8150745",
+                    "Titles": {
+                        "eng": "Zorori's Surprising Engagement!",
+                        "jpn": "ゾロリのこんやくオッタマゲロリン！"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "8150746",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8150746",
+                    "Titles": {
+                        "eng": "Ishishi and Noshishi Are in a Big Pinch!",
+                        "jpn": "イシシ・ノシシ大ピンチ！"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "8150747",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8150747",
+                    "Titles": {
+                        "eng": "Roaring Car Race!",
+                        "jpn": "ばくそうカーレース！"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "8150748",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8150748",
+                    "Titles": {
+                        "eng": "Mysterious Ghost Ship",
+                        "jpn": "なぞのゆうれいせん"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "8150749",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8150749",
+                    "Titles": {
+                        "eng": "Horror! The Town Where Doorknobs Disappeared!?",
+                        "jpn": "きょうふ！ドアノブがきえたまち！？"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "8150750",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8150750",
+                    "Titles": {
+                        "eng": "The Great Robot Plan",
+                        "jpn": "ロボット大さくせん"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "8150751",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8150751",
+                    "Titles": {
+                        "eng": "Fly! Gundapoot",
+                        "jpn": "とべ！ガンダブー"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "8150752",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8150752",
+                    "Titles": {
+                        "eng": "The Great Outer Space Plan",
+                        "jpn": "うちゅう大さくせん"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "8150753",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8150753",
+                    "Titles": {
+                        "eng": "The Greatest Rescue Mission in History!",
+                        "jpn": "しじょう最大のレスキュー！"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "4": {
+            "ID": "1896164",
+            "URL": "https://thetvdb.com/series/incredible-zorori/seasons/official/4",
+            "Titles": {
+                "eng": "Motto! Majime ni Fumajime Kaiketsu Zorori 2nd Series",
+                "jpn": "もっと! まじめにふまじめ かいけつゾロリ 第2シリーズ"
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "8150755",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8150755",
+                    "Titles": {
+                        "eng": "The Great Mecha Mecha Plan",
+                        "jpn": "メカメカ大さくせん"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8959768",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959768",
+                    "Titles": {
+                        "eng": "The Terrifying Beat Camp",
+                        "jpn": "きょうふのビートキャンプ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8959769",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959769",
+                    "Titles": {
+                        "eng": "When It Rains, It Pours",
+                        "jpn": "きけんな雨やどり"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "8959770",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959770",
+                    "Titles": {
+                        "eng": "A Sweet!? Stamp Rally",
+                        "jpn": "おかし！？なスタンプラリー"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "8959796",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959796",
+                    "Titles": {
+                        "eng": "The Great Help Yulia Plan",
+                        "jpn": "ユリアおたすけ大さくせん"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "8959797",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959797",
+                    "Titles": {
+                        "eng": "Beat's House of All Trades!?",
+                        "jpn": "ビートのなんでもやしき！？"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "8959773",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959773",
+                    "Titles": {
+                        "eng": "Zorori Hot Springs",
+                        "jpn": "ゾロリおんせん"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "8959799",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959799",
+                    "Titles": {
+                        "eng": "The Great Party Plan",
+                        "jpn": "パーティー大さくせん"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "8959800",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959800",
+                    "Titles": {
+                        "eng": "The Prank King vs. The Prank Emperor",
+                        "jpn": "いたずら王VSいたずら帝王"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "8959801",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959801",
+                    "Titles": {
+                        "eng": "Ishishi's Great Great Great Fortune!",
+                        "jpn": "イシシの大大大強運！"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "8959802",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959802",
+                    "Titles": {
+                        "eng": "A Strange Showdown in the Sweets Country",
+                        "jpn": "おかしの国のおかしな対決"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "8959779",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959779",
+                    "Titles": {
+                        "eng": "The Great Monster Sports Day",
+                        "jpn": "ようかい大うんどうかい"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "8959780",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959780",
+                    "Titles": {
+                        "eng": "The Dragon and the Young Prince",
+                        "jpn": "ドラゴンと若き王子"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "8959805",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959805",
+                    "Titles": {
+                        "eng": "The Terrifying Dodgeball",
+                        "jpn": "きょうふのドッジボール"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "8959806",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959806",
+                    "Titles": {
+                        "eng": "Suppoko Peppoko Peculiar Story",
+                        "jpn": "スッポコペッポコへんてこ話"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "8959783",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959783",
+                    "Titles": {
+                        "eng": "A Great Duo!? Zorori and Gaon",
+                        "jpn": "名コンビ！？ゾロリとガオン"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "8959808",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959808",
+                    "Titles": {
+                        "eng": "The Ghost and the Promised Treasure",
+                        "jpn": "ゆうれいとやくそくの秘宝"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "8959809",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959809",
+                    "Titles": {
+                        "eng": "A Sly Devil and the Wondrous Book",
+                        "jpn": "ずるっこあくまとふしぎな本"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "8959786",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959786",
+                    "Titles": {
+                        "eng": "Zorori's Deep Sea Adventure!",
+                        "jpn": "ゾロリのかいていたんけん！"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "8959811",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959811",
+                    "Titles": {
+                        "eng": "Zorori's Journey to the Center of the Earth!",
+                        "jpn": "ゾロリのちていたんけん！"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "8959812",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959812",
+                    "Titles": {
+                        "eng": "The Monarch Who Battles With Cards!",
+                        "jpn": "カードでバトルで王様だ！"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "8959789",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959789",
+                    "Titles": {
+                        "eng": "Kaiketsu! Zoro-salaryman",
+                        "jpn": "かいけつ！ゾロリーマン"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "8959814",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959814",
+                    "Titles": {
+                        "eng": "Find It! The Golden Flower",
+                        "jpn": "さがせ！おうごんの花"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "8959815",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959815",
+                    "Titles": {
+                        "eng": "Zorori Finally Debuts as a Singer!?",
+                        "jpn": "ゾロリ、ついに歌手デビュー！？"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "8959793",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959793",
+                    "Titles": {
+                        "eng": "Farewell, Zorori!",
+                        "jpn": "さらば、ゾロリ！"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "5": {
+            "ID": "1979055",
+            "URL": "https://thetvdb.com/series/incredible-zorori/seasons/official/5",
+            "Titles": {
+                "eng": "Motto! Majime ni Fumajime Kaiketsu Zorori 3rd Series",
+                "jpn": "もっと！まじめにふまじめ かいけつゾロリ 第3シリーズ"
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "8959821",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/8959821",
+                    "Titles": {
+                        "eng": "The Terrifying Super Express",
+                        "jpn": "きょうふのちょうとっきゅう"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9305006",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/9305006",
+                    "Titles": {
+                        "eng": "Drive, Zorori! Showdown With Rose",
+                        "jpn": "はしれゾロリ！たいけつローズ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9305007",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/9305007",
+                    "Titles": {
+                        "eng": "Make a Fortune by Traveling!?",
+                        "jpn": "旅するだけで大もうけ！？"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9305008",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/9305008",
+                    "Titles": {
+                        "eng": "Delicious Gold Medal",
+                        "jpn": "おいしい金メダル"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "9305009",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/9305009",
+                    "Titles": {
+                        "eng": "The Insect Kingdom and the Mystery of the Dung Beetle",
+                        "jpn": "ムシ王国とフンコロガシの謎"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "9305010",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/9305010",
+                    "Titles": {
+                        "eng": "Zoroe Saw It!",
+                        "jpn": "ゾロエは、見た！"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "9305011",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/9305011",
+                    "Titles": {
+                        "eng": "My Boyfriend is Zorori!",
+                        "jpn": "ボーイフレンドはゾロリ！"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "9305012",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/9305012",
+                    "Titles": {
+                        "eng": "The Terrifying Aliens",
+                        "jpn": "きょうふのエイリアン"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "9305013",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/9305013",
+                    "Titles": {
+                        "eng": "Zorori and the Sky Blue Dress",
+                        "jpn": "ゾロリと空色ドレス"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "9305014",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/9305014",
+                    "Titles": {
+                        "eng": "Zorori and the Giant Egg!",
+                        "jpn": "ゾロリと大きなタマゴ！"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "9305015",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/9305015",
+                    "Titles": {
+                        "eng": "The Great Villain Zorori Plan",
+                        "jpn": "あくとうゾロリ大さくせん"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "9305016",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/9305016",
+                    "Titles": {
+                        "eng": "Let's Eat! The Great Food Reportage Battle",
+                        "jpn": "たべるぜ！食リポ大けっせん"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "9305017",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/9305017",
+                    "Titles": {
+                        "eng": "Find the Red Diamond!!",
+                        "jpn": "レッドダイヤをさがせ！！"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "9305018",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/9305018",
+                    "Titles": {
+                        "eng": "Zorori vs Gaon vs Mama?",
+                        "jpn": "ゾロリ対ガオン対ママ？"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "9305019",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/9305019",
+                    "Titles": {
+                        "eng": "Why!? Beat's Tears",
+                        "jpn": "どうして！？ビートの涙"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "9305020",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/9305020",
+                    "Titles": {
+                        "eng": "The Great Diet Plan",
+                        "jpn": "ダイエット大さくせん"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "9305021",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/9305021",
+                    "Titles": {
+                        "eng": "The Mysterious Ishi Noshi Cipher",
+                        "jpn": "なぞのあんごう イシ・ノシ"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "9305022",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/9305022",
+                    "Titles": {
+                        "eng": "Zorori and the Scary Things Club",
+                        "jpn": "ゾロリとこわいものクラブ"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "9305023",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/9305023",
+                    "Titles": {
+                        "eng": "Zorori vs Gaon vs Beat",
+                        "jpn": "ゾロリ対ガオン対ビート"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "9305024",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/9305024",
+                    "Titles": {
+                        "eng": "Zorori and the Sealed Candy",
+                        "jpn": "ゾロリとふういんのアメ"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "9576005",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/9576005",
+                    "Titles": {
+                        "eng": "The Nonsense TV Channel",
+                        "jpn": "はちゃめちゃテレビ局"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "9576006",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/9576006",
+                    "Titles": {
+                        "eng": "Zorori and the Two Adventurers",
+                        "jpn": "ゾロリとふたりのぼうけんか"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "9576007",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/9576007",
+                    "Titles": {
+                        "eng": "The First Gift",
+                        "jpn": "はじめてのおくりもの"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "9576008",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/9576008",
+                    "Titles": {
+                        "eng": "Inventors Showdown!",
+                        "jpn": "はつめい対決！チョキンはV"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "9576009",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/incredible-zorori/episodes/9576009",
+                    "Titles": {
+                        "eng": "Chase the Red Plane!",
+                        "jpn": "あかいひこうきをおえ！"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

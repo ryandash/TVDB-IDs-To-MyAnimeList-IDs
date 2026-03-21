@@ -1,0 +1,66 @@
+{
+    "URL": "https://thetvdb.com/series/rayearth",
+    "Genres": [
+        "Adventure",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Mini-Series"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/410839",
+        "https://www.themoviedb.org/tv/41083"
+    ],
+    "Titles": {
+        "eng": "Rayearth (1997)",
+        "jpn": null
+    },
+    "Aliases": [
+        "Magic Knight Rayearth OVA"
+    ],
+    "Modified": "2024-05-13",
+    "Seasons": {
+        "1": {
+            "ID": "795035",
+            "URL": "https://thetvdb.com/series/rayearth/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "7003123",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rayearth/episodes/7003123",
+                    "Titles": {
+                        "eng": "Episode 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7003126",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rayearth/episodes/7003126",
+                    "Titles": {
+                        "eng": "Episode 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7003128",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/rayearth/episodes/7003128",
+                    "Titles": {
+                        "eng": "Episode 3",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

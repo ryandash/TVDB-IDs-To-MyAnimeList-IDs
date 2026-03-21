@@ -1,0 +1,53 @@
+{
+    "URL": "https://thetvdb.com/series/elf-princess-rane",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0113012/",
+        "https://www.themoviedb.org/tv/45401"
+    ],
+    "Titles": {
+        "eng": "Elf Princess Rane",
+        "jpn": "妖精姫レーン"
+    },
+    "Aliases": [
+        "Yousei Hime Ren"
+    ],
+    "Modified": "2026-01-10",
+    "Seasons": {
+        "1": {
+            "ID": "134071",
+            "URL": "https://thetvdb.com/series/elf-princess-rane/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "1204221",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/elf-princess-rane/episodes/1204221",
+                    "Titles": {
+                        "eng": "When the Treasure is Screwed Up, Everything is Screwed Up! A Recklessness Treasure Boy",
+                        "jpn": "第1話 お宝コケたらみなコケた"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1204231",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/elf-princess-rane/episodes/1204231",
+                    "Titles": {
+                        "eng": "The Phoenix Takes to the Sky. A Burst Birthday in a Hot Spring",
+                        "jpn": "第2話    「お風呂が空をとんでいた」"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

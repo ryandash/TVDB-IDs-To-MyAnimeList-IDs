@@ -1,0 +1,122 @@
+{
+    "URL": "https://thetvdb.com/series/geobreeders",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Crime",
+        "Mini-Series",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/AB54-A434-FB12-E551-972A-I",
+        "https://www.imdb.com/title/tt0238998/",
+        "http://www.jvcmusic.co.jp/m-serve/ova/jio/",
+        "https://www.tvmaze.com/shows/70537/show-slug",
+        "https://www.themoviedb.org/tv/99659",
+        "https://en.wikipedia.org/wiki/Geobreeders"
+    ],
+    "Titles": {
+        "eng": "Geobreeders",
+        "jpn": "ジオブリーダーズ 魍魎遊撃隊"
+    },
+    "Aliases": [],
+    "Modified": "2023-09-03",
+    "Seasons": {
+        "1": {
+            "ID": "40732",
+            "URL": "https://thetvdb.com/series/geobreeders/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": "File-X ちびねこ奪還",
+                "pol": "Akta-X \"Odzyskać kotka\""
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "435268",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/geobreeders/episodes/435268",
+                    "Titles": {
+                        "eng": "Get Back That Kitty: Act I",
+                        "jpn": "File-X ちびねこ奪還 act.1"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "435269",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/geobreeders/episodes/435269",
+                    "Titles": {
+                        "eng": "Get Back That Kitty: Act II",
+                        "jpn": "File-X ちびねこ奪還 act.2"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "435270",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/geobreeders/episodes/435270",
+                    "Titles": {
+                        "eng": "Get Back That Kitty: Act III",
+                        "jpn": "File-X ちびねこ奪還 act.3"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "40733",
+            "URL": "https://thetvdb.com/series/geobreeders/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": "File-XX 乱戦突破",
+                "pol": "Akta-XX \"Przełom\""
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "435271",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/geobreeders/episodes/435271",
+                    "Titles": {
+                        "eng": "Breakthrough: Act I",
+                        "jpn": "File-XX 乱戦突破 act.1"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "435272",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/geobreeders/episodes/435272",
+                    "Titles": {
+                        "eng": "Breakthrough: Act II",
+                        "jpn": "File-XX 乱戦突破 act.2"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "435273",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/geobreeders/episodes/435273",
+                    "Titles": {
+                        "eng": "Breakthrough: Act III",
+                        "jpn": "File-XX 乱戦突破 act.3"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "435274",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/geobreeders/episodes/435274",
+                    "Titles": {
+                        "eng": "Breakthrough: Act IV",
+                        "jpn": "File-XX 乱戦突破 act.4"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

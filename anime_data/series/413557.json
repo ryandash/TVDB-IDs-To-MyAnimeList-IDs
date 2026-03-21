@@ -1,0 +1,50 @@
+{
+    "URL": "https://thetvdb.com/series/413557-",
+    "Genres": [
+        "Adventure",
+        "Anime"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/79381",
+        "https://www.themoviedb.org/tv/79381"
+    ],
+    "Titles": {
+        "eng": "Escha Chron",
+        "jpn": "エスカクロン"
+    },
+    "Aliases": [],
+    "Modified": "2025-06-06",
+    "Seasons": {
+        "1": {
+            "ID": "1971998",
+            "URL": "https://thetvdb.com/series/413557-/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "8893825",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/413557-/episodes/8893825",
+                    "Titles": {
+                        "eng": "Summer Awakening",
+                        "jpn": "Episode 1"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8893826",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/413557-/episodes/8893826",
+                    "Titles": {
+                        "eng": "Footprints in the Snow",
+                        "jpn": "Episode 2"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

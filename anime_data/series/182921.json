@@ -1,0 +1,103 @@
+{
+    "URL": "https://thetvdb.com/series/battle-skipper",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/96292"
+    ],
+    "Titles": {
+        "eng": "Battle Skipper",
+        "jpn": "美少女遊撃隊バトルスキッパー"
+    },
+    "Aliases": [],
+    "Modified": "2010-08-16",
+    "Seasons": {
+        "0": {
+            "ID": "297241",
+            "URL": "https://thetvdb.com/series/battle-skipper/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "2638881",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-skipper/episodes/2638881",
+                    "Titles": {
+                        "eng": "The Lightning is Mine to Command",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2638891",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-skipper/episodes/2638891",
+                    "Titles": {
+                        "eng": "A Heartache Tonight",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "2638901",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-skipper/episodes/2638901",
+                    "Titles": {
+                        "eng": "The Super Radical One Night Show",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "297251",
+            "URL": "https://thetvdb.com/series/battle-skipper/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "3399961",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-skipper/episodes/3399961",
+                    "Titles": {
+                        "eng": "The Lightning is Mine to Command",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "3399971",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-skipper/episodes/3399971",
+                    "Titles": {
+                        "eng": "A Heartache Tonight",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "3399981",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/battle-skipper/episodes/3399981",
+                    "Titles": {
+                        "eng": "The Super Radical One Night Show",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "URL": "https://thetvdb.com/series/koe-de-oshigoto",
+    "Genres": [
+        "Animation",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt5444308/",
+        "https://www.themoviedb.org/tv/38605"
+    ],
+    "Titles": {
+        "eng": "Working with Voice!",
+        "jpn": "こえでおしごと! The ANIMATION"
+    },
+    "Aliases": [
+        "Working with Voice",
+        "Working with Voice!",
+        "Working with Voice - Koe de Oshigoto",
+        "Koe de Oshigoto!",
+        "Koe de Oshigoto! The Animation"
+    ],
+    "Modified": "2025-11-15",
+    "Seasons": {
+        "1": {
+            "ID": "357341",
+            "URL": "https://thetvdb.com/series/koe-de-oshigoto/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "3158361",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/koe-de-oshigoto/episodes/3158361",
+                    "Titles": {
+                        "eng": "Secret of a 16 Year Old",
+                        "jpn": "16歳のひめごと"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "3181481",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/koe-de-oshigoto/episodes/3181481",
+                    "Titles": {
+                        "eng": "A Voice Actress in Secret",
+                        "jpn": "ナイショで声優!"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

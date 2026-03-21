@@ -1,0 +1,347 @@
+{
+    "URL": "https://thetvdb.com/series/the-future-diary",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2069441/",
+        "http://www.future-diary.tv/",
+        "https://www.themoviedb.org/tv/46671",
+        "https://en.wikipedia.org/wiki/Future_Diary",
+        "https://x.com/mirai_nikki"
+    ],
+    "Titles": {
+        "eng": "The Future Diary",
+        "jpn": "未来日記"
+    },
+    "Aliases": [
+        "Mirai Nikki (2011)",
+        "Mirai Nikki (Anime)",
+        "The Future Diary"
+    ],
+    "Modified": "2026-01-13",
+    "Seasons": {
+        "0": {
+            "ID": "468693",
+            "URL": "https://thetvdb.com/series/the-future-diary/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "4122474",
+                    "TYPE": "OVA",
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4122474",
+                    "Titles": {
+                        "eng": "OVA",
+                        "jpn": "未来日記"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4577484",
+                    "TYPE": "OVA",
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4577484",
+                    "Titles": {
+                        "eng": "OVA: Redial",
+                        "jpn": "未来日記リダイヤル"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9658808",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/9658808",
+                    "Titles": {
+                        "eng": "Extra #5 Yomotsu Hirasaka (Yoshihisa Kawahara Version)",
+                        "jpn": "裏未来日記 #5 平坂黄泉(川原慶久バージョン)"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9658809",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/9658809",
+                    "Titles": {
+                        "eng": "Extra #10 Uryuu Minene, Nishijima Masumi (Clear dialogue version)",
+                        "jpn": "おまけ #10 雨流みねね, 西島真澄 (台詞クリアー版)"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "468694",
+            "URL": "https://thetvdb.com/series/the-future-diary/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "4122467",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4122467",
+                    "Titles": {
+                        "eng": "Sign Up",
+                        "jpn": "サインアップ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4186742",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4186742",
+                    "Titles": {
+                        "eng": "Contract Terms",
+                        "jpn": "契約条件"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4187972",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4187972",
+                    "Titles": {
+                        "eng": "Initial Failure",
+                        "jpn": "初期不良"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4187971",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4187971",
+                    "Titles": {
+                        "eng": "Hand-Written",
+                        "jpn": "手書き入力"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4187970",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4187970",
+                    "Titles": {
+                        "eng": "Voice Message",
+                        "jpn": "ボイスメモ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4187973",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4187973",
+                    "Titles": {
+                        "eng": "Silent Mode",
+                        "jpn": "マナーモード"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4187974",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4187974",
+                    "Titles": {
+                        "eng": "Answering Machine",
+                        "jpn": "留守応答"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4187975",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4187975",
+                    "Titles": {
+                        "eng": "New Model",
+                        "jpn": "新機種"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4187976",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4187976",
+                    "Titles": {
+                        "eng": "Blocking Calls",
+                        "jpn": "着信拒否"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4187977",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4187977",
+                    "Titles": {
+                        "eng": "Family Plan",
+                        "jpn": "家族プラン"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4187978",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4187978",
+                    "Titles": {
+                        "eng": "Service Terminated",
+                        "jpn": "サービス終了"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4187979",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4187979",
+                    "Titles": {
+                        "eng": "No Service Area",
+                        "jpn": "受信圏外"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4225798",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4225798",
+                    "Titles": {
+                        "eng": "Number Withheld",
+                        "jpn": "非通知設定"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4225799",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4225799",
+                    "Titles": {
+                        "eng": "Memory Erased",
+                        "jpn": "メモリー消去"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4225800",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4225800",
+                    "Titles": {
+                        "eng": "Double Holder",
+                        "jpn": "ダブルホルダー"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4225801",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4225801",
+                    "Titles": {
+                        "eng": "Repair",
+                        "jpn": "修理"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4225802",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4225802",
+                    "Titles": {
+                        "eng": "Family Discount",
+                        "jpn": "家族割り"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4225803",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4225803",
+                    "Titles": {
+                        "eng": "Crossed Lines",
+                        "jpn": "混線"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4225804",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4225804",
+                    "Titles": {
+                        "eng": "Clear Data",
+                        "jpn": "全件削除"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4225805",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4225805",
+                    "Titles": {
+                        "eng": "Transfer Data",
+                        "jpn": "データ転送"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4225806",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4225806",
+                    "Titles": {
+                        "eng": "Security Code",
+                        "jpn": "暗証番号"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4225807",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4225807",
+                    "Titles": {
+                        "eng": "Disconnect",
+                        "jpn": "切断"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4225808",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4225808",
+                    "Titles": {
+                        "eng": "Unfulfilled Contract",
+                        "jpn": "契約不履行"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "4225809",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4225809",
+                    "Titles": {
+                        "eng": "Searching",
+                        "jpn": "検索中"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "4286436",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4286436",
+                    "Titles": {
+                        "eng": "Reset",
+                        "jpn": "リセット"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "4292706",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-future-diary/episodes/4292706",
+                    "Titles": {
+                        "eng": "Format",
+                        "jpn": "初期化"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

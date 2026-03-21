@@ -1,0 +1,38 @@
+{
+    "URL": "https://thetvdb.com/series/399042-",
+    "Genres": [
+        "Anime",
+        "Comedy",
+        "Fantasy"
+    ],
+    "Other Sites": [],
+    "Titles": {
+        "eng": "Youjo Shenki",
+        "jpn": "ようじょしぇんき"
+    },
+    "Aliases": [],
+    "Modified": "2025-06-06",
+    "Seasons": {
+        "1": {
+            "ID": "1910483",
+            "URL": "https://thetvdb.com/series/399042-/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "9124090",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/399042-/episodes/9124090",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "1.1"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

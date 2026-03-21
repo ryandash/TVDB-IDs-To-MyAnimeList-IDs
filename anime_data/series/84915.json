@@ -1,0 +1,139 @@
+{
+    "URL": "https://thetvdb.com/series/crying-freeman",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Anime",
+        "Crime",
+        "Drama",
+        "Romance",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0159386/",
+        "https://www.themoviedb.org/tv/65959"
+    ],
+    "Titles": {
+        "eng": "Crying Freeman",
+        "jpn": "クライング フリーマン"
+    },
+    "Aliases": [
+        "Kuraingu Furiman",
+        "Kuraingu furīman"
+    ],
+    "Modified": "2026-01-11",
+    "Seasons": {
+        "0": {
+            "ID": "40264",
+            "URL": "https://thetvdb.com/series/crying-freeman/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "4146638",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/crying-freeman/episodes/4146638",
+                    "Titles": {
+                        "eng": "Crying Freeman (The Movie)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5957551",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/crying-freeman/episodes/5957551",
+                    "Titles": {
+                        "eng": "Killer's Romance (05-1990)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5957552",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/crying-freeman/episodes/5957552",
+                    "Titles": {
+                        "eng": "The Dragon From Russia (08-1990)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "40268",
+            "URL": "https://thetvdb.com/series/crying-freeman/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "431169",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/crying-freeman/episodes/431169",
+                    "Titles": {
+                        "eng": "Portrait of a Killer",
+                        "jpn": "Crying フリーマン"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "431184",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/crying-freeman/episodes/431184",
+                    "Titles": {
+                        "eng": "Shades of Death Fusei Kakurei (1)",
+                        "jpn": "風声鶴唳"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "431185",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/crying-freeman/episodes/431185",
+                    "Titles": {
+                        "eng": "Shades of Death Eternal Love (2)",
+                        "jpn": "比翼連理"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "431186",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/crying-freeman/episodes/431186",
+                    "Titles": {
+                        "eng": "A Taste of Revenge Oshu Tohgoku",
+                        "jpn": "雄首冬獄"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "431187",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/crying-freeman/episodes/431187",
+                    "Titles": {
+                        "eng": "Abduction in Chinatown Battlefield of Kishibojin",
+                        "jpn": "戦場の鬼子母神"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "431188",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/crying-freeman/episodes/431188",
+                    "Titles": {
+                        "eng": "The Russian Connection The Light in the Darkness",
+                        "jpn": "完結篇 無明流射"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

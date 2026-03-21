@@ -1,0 +1,132 @@
+{
+    "URL": "https://thetvdb.com/series/fastening-days",
+    "Genres": [
+        "Anime - Kodomomuke"
+    ],
+    "Other Sites": [
+        "http://www.ykkfastening.com/fd/"
+    ],
+    "Titles": {
+        "eng": "Fastening Days",
+        "jpn": "Fastening Days"
+    },
+    "Aliases": [],
+    "Modified": "2025-06-05",
+    "Seasons": {
+        "0": {
+            "ID": "724420",
+            "URL": "https://thetvdb.com/series/fastening-days/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "6476074",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fastening-days/episodes/6476074",
+                    "Titles": {
+                        "eng": "Fastening Days 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6476075",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fastening-days/episodes/6476075",
+                    "Titles": {
+                        "eng": "Fastening Days 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "724421",
+            "URL": "https://thetvdb.com/series/fastening-days/seasons/official/1",
+            "Titles": {
+                "eng": "Fastening Days 3",
+                "jpn": null,
+                "por": "Dias de Apertar o Fecho 3"
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "6248648",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fastening-days/episodes/6248648",
+                    "Titles": {
+                        "eng": "Episode 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6248649",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fastening-days/episodes/6248649",
+                    "Titles": {
+                        "eng": "Episode 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6476077",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fastening-days/episodes/6476077",
+                    "Titles": {
+                        "eng": "Episode 3",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "1846319",
+            "URL": "https://thetvdb.com/series/fastening-days/seasons/official/2",
+            "Titles": {
+                "eng": "Fastening Days 4",
+                "jpn": null,
+                "por": "Dias de Apertar o Fecho 4"
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "7770031",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fastening-days/episodes/7770031",
+                    "Titles": {
+                        "eng": "Episode 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7770033",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fastening-days/episodes/7770033",
+                    "Titles": {
+                        "eng": "Episode 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7770034",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fastening-days/episodes/7770034",
+                    "Titles": {
+                        "eng": "Episode 3",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

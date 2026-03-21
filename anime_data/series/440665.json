@@ -1,0 +1,64 @@
+{
+    "URL": "https://thetvdb.com/series/gall-force-earth-chapter",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Mini-Series",
+        "Science Fiction",
+        "War"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0158629/",
+        "https://www.themoviedb.org/tv/212124"
+    ],
+    "Titles": {
+        "eng": "Gall Force: Earth Chapter",
+        "jpn": "ガルフォース地球章"
+    },
+    "Aliases": [],
+    "Modified": "2025-06-06",
+    "Seasons": {
+        "1": {
+            "ID": "2087897",
+            "URL": "https://thetvdb.com/series/gall-force-earth-chapter/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "10080270",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gall-force-earth-chapter/episodes/10080270",
+                    "Titles": {
+                        "eng": "Chapter 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10080271",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gall-force-earth-chapter/episodes/10080271",
+                    "Titles": {
+                        "eng": "Chapter 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10080272",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/gall-force-earth-chapter/episodes/10080272",
+                    "Titles": {
+                        "eng": "Chapter 3",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

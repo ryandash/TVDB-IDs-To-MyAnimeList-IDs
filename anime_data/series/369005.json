@@ -1,0 +1,59 @@
+{
+    "URL": "https://thetvdb.com/series/nine",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Romance",
+        "Sport"
+    ],
+    "Other Sites": [],
+    "Titles": {
+        "eng": "Nine",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2022-08-30",
+    "Seasons": {
+        "1": {
+            "ID": "824338",
+            "URL": "https://thetvdb.com/series/nine/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "7341326",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/nine/episodes/7341326",
+                    "Titles": {
+                        "eng": "Nine: Original Version",
+                        "jpn": "Nine: Original-ban"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7341330",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nine/episodes/7341330",
+                    "Titles": {
+                        "eng": "Nine 2: Declaring Love",
+                        "jpn": "Koibito Sengen"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7341336",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nine/episodes/7341336",
+                    "Titles": {
+                        "eng": "Nine: Final",
+                        "jpn": "Kanketsuhen"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

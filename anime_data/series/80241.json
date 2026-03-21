@@ -1,0 +1,317 @@
+{
+    "URL": "https://thetvdb.com/series/toward-the-terra",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Drama",
+        "Science Fiction",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0985492/",
+        "https://www.themoviedb.org/tv/30237"
+    ],
+    "Titles": {
+        "eng": "Toward the Terra",
+        "jpn": "地球へ…"
+    },
+    "Aliases": [
+        "Terra e...",
+        "Terra e... (2007)"
+    ],
+    "Modified": "2026-01-04",
+    "Seasons": {
+        "0": {
+            "ID": "27712",
+            "URL": "https://thetvdb.com/series/toward-the-terra/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "2251421",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/2251421",
+                    "Titles": {
+                        "eng": "Toward the Terra",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6836398",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/6836398",
+                    "Titles": {
+                        "eng": "Terra e...: Type Blue - the Origin",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6836406",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/6836406",
+                    "Titles": {
+                        "eng": "Epilogue: Toward the last moment of soldier blue",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "35744",
+            "URL": "https://thetvdb.com/series/toward-the-terra/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 24,
+            "Episodes": {
+                "1": {
+                    "ID": "393257",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/393257",
+                    "Titles": {
+                        "eng": "Day of Awakening",
+                        "jpn": "目覚めの日"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "393258",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/393258",
+                    "Titles": {
+                        "eng": "The Ship of Muu",
+                        "jpn": "ミュウの船"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "393259",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/393259",
+                    "Titles": {
+                        "eng": "Ataraxia",
+                        "jpn": "アタラクシア"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "393260",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/393260",
+                    "Titles": {
+                        "eng": "Return From Space",
+                        "jpn": "宙からの帰還"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "393261",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/393261",
+                    "Titles": {
+                        "eng": "Leap of Death",
+                        "jpn": "死の跳躍"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "393262",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/393262",
+                    "Titles": {
+                        "eng": "Station E-1077",
+                        "jpn": "ステーション E-1077"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "393263",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/393263",
+                    "Titles": {
+                        "eng": "Shiroe of the Rebellion",
+                        "jpn": "反逆のシロエ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "393264",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/393264",
+                    "Titles": {
+                        "eng": "The Trembling Heart",
+                        "jpn": "震える心"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "393265",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/393265",
+                    "Titles": {
+                        "eng": "The Unreaching Thought",
+                        "jpn": "届かぬ思い"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "393267",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/393267",
+                    "Titles": {
+                        "eng": "The Star of Escape",
+                        "jpn": "逃れの星"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "393268",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/393268",
+                    "Titles": {
+                        "eng": "Child Of Nazca",
+                        "jpn": "ナスカの子"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "393266",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/393266",
+                    "Titles": {
+                        "eng": "The Lonesome Mu",
+                        "jpn": "孤独なるミュウ"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "393269",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/393269",
+                    "Titles": {
+                        "eng": "What Hides On the Planet",
+                        "jpn": "星に潜むもの"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "393270",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/393270",
+                    "Titles": {
+                        "eng": "Identical Memories",
+                        "jpn": "同じ記憶"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "393271",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/393271",
+                    "Titles": {
+                        "eng": "Omen of Change",
+                        "jpn": "変動の予兆"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "393272",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/393272",
+                    "Titles": {
+                        "eng": "Red Eyes, Blue Planet",
+                        "jpn": "赤い瞳 蒼い星"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "393273",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/393273",
+                    "Titles": {
+                        "eng": "With Eternity, With A Heat Haze",
+                        "jpn": "永遠と陽炎と"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "393274",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/393274",
+                    "Titles": {
+                        "eng": "Reunion on Artemisia",
+                        "jpn": "再会のアルテメシア"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "393275",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/393275",
+                    "Titles": {
+                        "eng": "Their Respective Locations",
+                        "jpn": "それぞれの場所"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "393276",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/393276",
+                    "Titles": {
+                        "eng": "The Night Before the Decisive Battle",
+                        "jpn": "決戦前夜"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "393277",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/393277",
+                    "Titles": {
+                        "eng": "Stardust Memory",
+                        "jpn": "星屑の記憶"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "393278",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/393278",
+                    "Titles": {
+                        "eng": "Dawning Life",
+                        "jpn": "暮れる命"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "393279",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/393279",
+                    "Titles": {
+                        "eng": "To (Earth) Terra...",
+                        "jpn": "地球《ちきゅう》へ"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "393256",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/393256",
+                    "Titles": {
+                        "eng": "Green Hills of Earth",
+                        "jpn": "地球の緑の丘"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,1135 @@
+{
+    "URL": "https://thetvdb.com/series/moomin",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Children",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0247117/",
+        "https://www.themoviedb.org/tv/67575"
+    ],
+    "Titles": {
+        "eng": "Moomin",
+        "jpn": "楽しいムーミン一家"
+    },
+    "Aliases": [
+        "Tanoshii Moomin Ikka"
+    ],
+    "Modified": "2026-03-06",
+    "Seasons": {
+        "0": {
+            "ID": "41069",
+            "URL": "https://thetvdb.com/series/moomin/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "965831",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/965831",
+                    "Titles": {
+                        "eng": "Comet in Moominland",
+                        "jpn": "楽しいムーミン一家 ムーミン谷の彗星"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5138565",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/5138565",
+                    "Titles": {
+                        "eng": "Moomin and Midsummer Madness",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5138566",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/5138566",
+                    "Titles": {
+                        "eng": "Moomins and the Comet Chase",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "41070",
+            "URL": "https://thetvdb.com/series/moomin/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "swe": "I Mumindalen",
+                "nor": "Vår i Mummidalen",
+                "fin": "Kausi 1",
+                "afr": "In die Moeminvallei",
+                "fao": "Vár í Mumidalinum"
+            },
+            "# Episodes": 78,
+            "Episodes": {
+                "1": {
+                    "ID": "438130",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/438130",
+                    "Titles": {
+                        "eng": "Spring in Moominvalley (1)",
+                        "jpn": "ムーミン谷の春"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "438131",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/438131",
+                    "Titles": {
+                        "eng": "Magic Hat (2)",
+                        "jpn": "魔法の帽子"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "438132",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/438132",
+                    "Titles": {
+                        "eng": "The Wreck (1)",
+                        "jpn": "浜で見つけた難破船"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "438133",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/438133",
+                    "Titles": {
+                        "eng": "The Desert Island (2)",
+                        "jpn": "おばけ島へようこそ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "438134",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/438134",
+                    "Titles": {
+                        "eng": "The Hattifatteners (3)",
+                        "jpn": "ニョロニョロの秘密"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "438135",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/438135",
+                    "Titles": {
+                        "eng": "Tiny Guests (1)",
+                        "jpn": "小さな小さなお客様"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "461761",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/461761",
+                    "Titles": {
+                        "eng": "The Suitcase (2)",
+                        "jpn": "スーツケースの中身"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "461771",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/461771",
+                    "Titles": {
+                        "eng": "The Hobgoblin (3)",
+                        "jpn": "飛行オニの魔術"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "461781",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/461781",
+                    "Titles": {
+                        "eng": "The Invisible Friend (1)",
+                        "jpn": "姿の見えないお友達"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "461791",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/461791",
+                    "Titles": {
+                        "eng": "The Invisible Child (2)",
+                        "jpn": "笑顔がもどったニンニ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "461801",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/461801",
+                    "Titles": {
+                        "eng": "The Wings",
+                        "jpn": "大空を飛ぶスノーク"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "900501",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900501",
+                    "Titles": {
+                        "eng": "The Pirates",
+                        "jpn": "ムーミン海賊と闘う"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "900511",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900511",
+                    "Titles": {
+                        "eng": "The Last Dragon on Earth",
+                        "jpn": "地球最後の龍"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "900521",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900521",
+                    "Titles": {
+                        "eng": "Our Neighbour is a Tough Teacher",
+                        "jpn": "お隣りさんは教育ママ"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "900541",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900541",
+                    "Titles": {
+                        "eng": "Snorkmaiden's Lost Memory",
+                        "jpn": "記憶を失ったフローレン"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "900551",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900551",
+                    "Titles": {
+                        "eng": "A Close Encounter with Aliens",
+                        "jpn": "ムーミン谷に火星人！"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "900561",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900561",
+                    "Titles": {
+                        "eng": "A Change of Air",
+                        "jpn": "ムーミンパパの家出"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "900571",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900571",
+                    "Titles": {
+                        "eng": "The Wooden Crate (1)",
+                        "jpn": "海から来た魔法の種"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "900601",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900601",
+                    "Titles": {
+                        "eng": "Buried in a Jungle (2)",
+                        "jpn": "ムーミン谷はジャングル"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "900631",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900631",
+                    "Titles": {
+                        "eng": "Moomin Saves the Tigers",
+                        "jpn": "ムーミン虎たちを救う"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "900651",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900651",
+                    "Titles": {
+                        "eng": "Snufkin Leaves Moominvalley",
+                        "jpn": "スナフキンの旅立ち"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "900671",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900671",
+                    "Titles": {
+                        "eng": "Moomin and Little My's Adventure (1)",
+                        "jpn": "ムーミンとミイの大冒険"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "900681",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900681",
+                    "Titles": {
+                        "eng": "Visitors in Winter (2)",
+                        "jpn": "ムーミン谷の冬の住人"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "900691",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900691",
+                    "Titles": {
+                        "eng": "Hurry Up Snufkin",
+                        "jpn": "帰ってこないスナフキン"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "900701",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900701",
+                    "Titles": {
+                        "eng": "The Lighthouse (1)",
+                        "jpn": "パパの夢をのせて"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "900711",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900711",
+                    "Titles": {
+                        "eng": "The Day the Lighthouse Lit Up (2)",
+                        "jpn": "灯台に明かりのともる日"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "900721",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900721",
+                    "Titles": {
+                        "eng": "Aunt Jane",
+                        "jpn": "お金持ちのジェーンおばさん"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "900731",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900731",
+                    "Titles": {
+                        "eng": "The Floating Theatre (1)",
+                        "jpn": "浮かぶばけもの屋敷"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "900741",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900741",
+                    "Titles": {
+                        "eng": "The Lost Children (2)",
+                        "jpn": "離れ離れの家族"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "900751",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900751",
+                    "Titles": {
+                        "eng": "Midsummer (3)",
+                        "jpn": "喜びの再会"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "900761",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900761",
+                    "Titles": {
+                        "eng": "The Big Explosion",
+                        "jpn": "スノークの空飛ぶ船"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "900771",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900771",
+                    "Titles": {
+                        "eng": "The Golden Fish",
+                        "jpn": "まぼろしの金色の魚"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "900781",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900781",
+                    "Titles": {
+                        "eng": "The Spirit in the Lamp",
+                        "jpn": "魔法のランプに願いを込めて"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "900791",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900791",
+                    "Titles": {
+                        "eng": "The Kite",
+                        "jpn": "たこに乗ったミイ"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "900801",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900801",
+                    "Titles": {
+                        "eng": "The Witch",
+                        "jpn": "帰ってきた魔女"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "900811",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900811",
+                    "Titles": {
+                        "eng": "Christmas Is Coming",
+                        "jpn": "クリスマスって何？"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "900831",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900831",
+                    "Titles": {
+                        "eng": "The Midwinter Bonfire",
+                        "jpn": "冬の生物たちのお祭り"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "900861",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900861",
+                    "Titles": {
+                        "eng": "The Spell",
+                        "jpn": "眠りの魔法"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "900881",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900881",
+                    "Titles": {
+                        "eng": "Things That Go Bang in the Night (1)",
+                        "jpn": "真夜中の不思議な音"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "900891",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900891",
+                    "Titles": {
+                        "eng": "The Secret Fireworks (2)",
+                        "jpn": "花火の秘密"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "900901",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900901",
+                    "Titles": {
+                        "eng": "Crooks in Moomin Valley",
+                        "jpn": "ムーミン谷の怪事件"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "900911",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900911",
+                    "Titles": {
+                        "eng": "The Solar Eclipse",
+                        "jpn": "魔女のほうき"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "900921",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900921",
+                    "Titles": {
+                        "eng": "The Prima Donna",
+                        "jpn": "サーカスのヒロイン"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "900931",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900931",
+                    "Titles": {
+                        "eng": "The Birthday Present",
+                        "jpn": "すてきなお誕生日"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "900941",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900941",
+                    "Titles": {
+                        "eng": "Moomin Builds a House",
+                        "jpn": "ムーミンの建てた家"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "900951",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900951",
+                    "Titles": {
+                        "eng": "Dame Elaine",
+                        "jpn": "パパは大金持ち？"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "900961",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900961",
+                    "Titles": {
+                        "eng": "The Hot Spring",
+                        "jpn": "温泉が出た！"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "900971",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900971",
+                    "Titles": {
+                        "eng": "The Bubbles",
+                        "jpn": "シャボン玉に乗ったムーミン"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "900981",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900981",
+                    "Titles": {
+                        "eng": "The Giant Pumpkin",
+                        "jpn": "ママの秘密"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "900991",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/900991",
+                    "Titles": {
+                        "eng": "The Imp",
+                        "jpn": "枯木の中の声"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "901001",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901001",
+                    "Titles": {
+                        "eng": "Snorkmaiden Goes Psychic",
+                        "jpn": "フローレンの超能力"
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "901011",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901011",
+                    "Titles": {
+                        "eng": "The Treasure Hunt",
+                        "jpn": "宝探しで大騒ぎ"
+                    },
+                    "Aliases": []
+                },
+                "53": {
+                    "ID": "901021",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901021",
+                    "Titles": {
+                        "eng": "The Water Nymph",
+                        "jpn": "水の妖精"
+                    },
+                    "Aliases": []
+                },
+                "54": {
+                    "ID": "901031",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901031",
+                    "Titles": {
+                        "eng": "Mymble's Diamond",
+                        "jpn": "ミムラに贈り物"
+                    },
+                    "Aliases": []
+                },
+                "55": {
+                    "ID": "901041",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901041",
+                    "Titles": {
+                        "eng": "Moominpappa's Second Youth",
+                        "jpn": "寂しそうなパパ"
+                    },
+                    "Aliases": []
+                },
+                "56": {
+                    "ID": "901051",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901051",
+                    "Titles": {
+                        "eng": "The Secret Dish",
+                        "jpn": "旅に出たママ"
+                    },
+                    "Aliases": []
+                },
+                "57": {
+                    "ID": "901061",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901061",
+                    "Titles": {
+                        "eng": "Motherly Love",
+                        "jpn": "フローレンの子育て"
+                    },
+                    "Aliases": []
+                },
+                "58": {
+                    "ID": "901071",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901071",
+                    "Titles": {
+                        "eng": "Artists in Moominvalley",
+                        "jpn": "ムーミン谷のコンテスト"
+                    },
+                    "Aliases": []
+                },
+                "59": {
+                    "ID": "901111",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901111",
+                    "Titles": {
+                        "eng": "Adventures of Moominpappa: Part 1",
+                        "jpn": "パパの思い出"
+                    },
+                    "Aliases": []
+                },
+                "60": {
+                    "ID": "901081",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901081",
+                    "Titles": {
+                        "eng": "The Terrible Little My",
+                        "jpn": "ミイのいたずら"
+                    },
+                    "Aliases": []
+                },
+                "61": {
+                    "ID": "901091",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901091",
+                    "Titles": {
+                        "eng": "Moomin's the Fortune-Teller",
+                        "jpn": "ムーミンは天才占い師"
+                    },
+                    "Aliases": []
+                },
+                "62": {
+                    "ID": "901101",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901101",
+                    "Titles": {
+                        "eng": "Witch-Walking",
+                        "jpn": "魔法の言葉"
+                    },
+                    "Aliases": []
+                },
+                "63": {
+                    "ID": "901121",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901121",
+                    "Titles": {
+                        "eng": "Adventures of Moominpappa: Part 2",
+                        "jpn": "オーケストラ号の冒険"
+                    },
+                    "Aliases": []
+                },
+                "64": {
+                    "ID": "901141",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901141",
+                    "Titles": {
+                        "eng": "Moomin and the Birds",
+                        "jpn": "巣立ちの日"
+                    },
+                    "Aliases": []
+                },
+                "65": {
+                    "ID": "901131",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901131",
+                    "Titles": {
+                        "eng": "The Fancy-Dress Ball",
+                        "jpn": "ムーミンの秘密"
+                    },
+                    "Aliases": []
+                },
+                "66": {
+                    "ID": "901161",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901161",
+                    "Titles": {
+                        "eng": "The Vampire",
+                        "jpn": "ムーミン谷の吸血鬼"
+                    },
+                    "Aliases": []
+                },
+                "67": {
+                    "ID": "901181",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901181",
+                    "Titles": {
+                        "eng": "The Chair",
+                        "jpn": "壊れたパパの大事な椅子"
+                    },
+                    "Aliases": []
+                },
+                "68": {
+                    "ID": "901151",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901151",
+                    "Titles": {
+                        "eng": "Adventures of Moominpappa: Part 3",
+                        "jpn": "ママと運命の出会い"
+                    },
+                    "Aliases": []
+                },
+                "69": {
+                    "ID": "901171",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901171",
+                    "Titles": {
+                        "eng": "The Phoenix",
+                        "jpn": "伝説の不死鳥の危機"
+                    },
+                    "Aliases": []
+                },
+                "70": {
+                    "ID": "901191",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901191",
+                    "Titles": {
+                        "eng": "Moomin's Big Fish",
+                        "jpn": "お魚パーティーで仲直り"
+                    },
+                    "Aliases": []
+                },
+                "71": {
+                    "ID": "901201",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901201",
+                    "Titles": {
+                        "eng": "The Slug-a-Bed Mushrooms",
+                        "jpn": "光るキノコの正体"
+                    },
+                    "Aliases": []
+                },
+                "72": {
+                    "ID": "901211",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901211",
+                    "Titles": {
+                        "eng": "Moomin and the Dolphin",
+                        "jpn": "ムーミンとイルカの友情"
+                    },
+                    "Aliases": []
+                },
+                "73": {
+                    "ID": "901221",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901221",
+                    "Titles": {
+                        "eng": "The Cave",
+                        "jpn": "ムーミン探検隊"
+                    },
+                    "Aliases": []
+                },
+                "74": {
+                    "ID": "901231",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901231",
+                    "Titles": {
+                        "eng": "A Wonderful Present",
+                        "jpn": "歌う花のプレゼント"
+                    },
+                    "Aliases": []
+                },
+                "75": {
+                    "ID": "901241",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901241",
+                    "Titles": {
+                        "eng": "The Fabulous Emerald",
+                        "jpn": "ムーミンのすてきな夢"
+                    },
+                    "Aliases": []
+                },
+                "76": {
+                    "ID": "901251",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901251",
+                    "Titles": {
+                        "eng": "Painting a House",
+                        "jpn": "こわれたおうち"
+                    },
+                    "Aliases": []
+                },
+                "77": {
+                    "ID": "901261",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901261",
+                    "Titles": {
+                        "eng": "The Great Race (1)",
+                        "jpn": "完成！空飛ぶ船"
+                    },
+                    "Aliases": []
+                },
+                "78": {
+                    "ID": "901271",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901271",
+                    "Titles": {
+                        "eng": "Going South (2)",
+                        "jpn": "ムーミン大空へ"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "96121",
+            "URL": "https://thetvdb.com/series/moomin/seasons/official/2",
+            "Titles": {
+                "eng": "Adventure Diary",
+                "jpn": "楽しいムーミン一家 冒険日記"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "901351",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/901351",
+                    "Titles": {
+                        "eng": "The Ring",
+                        "jpn": "ムーミンが結婚！？"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2208241",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208241",
+                    "Titles": {
+                        "eng": "The Girl With Birds",
+                        "jpn": "スニフの恋"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "2208251",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208251",
+                    "Titles": {
+                        "eng": "A Wind of Freedom",
+                        "jpn": "新しい生き方のすすめ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "2208261",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208261",
+                    "Titles": {
+                        "eng": "Caring Aunt",
+                        "jpn": "世話好きなおばさん"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "2208271",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208271",
+                    "Titles": {
+                        "eng": "A Real Gold Mine",
+                        "jpn": "金色のしっぽ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "2208281",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208281",
+                    "Titles": {
+                        "eng": "Sand Sculptures",
+                        "jpn": "ムーミン谷の彫刻展"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "2208291",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208291",
+                    "Titles": {
+                        "eng": "The Beach",
+                        "jpn": "僕らの浜辺をかえして"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "2208301",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208301",
+                    "Titles": {
+                        "eng": "A Bothersome Nephew",
+                        "jpn": "署長さんの悩み"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "2208311",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208311",
+                    "Titles": {
+                        "eng": "The Time Travel Machine",
+                        "jpn": "ご先祖様で大さわぎ"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "2208321",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208321",
+                    "Titles": {
+                        "eng": "The Circle of Secrets",
+                        "jpn": "チン入者で大騒動"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "2208331",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208331",
+                    "Titles": {
+                        "eng": "The Dragon",
+                        "jpn": "ジェーンおばさんからの招待状"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "2208341",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208341",
+                    "Titles": {
+                        "eng": "The Desert (1)",
+                        "jpn": "タイムマシーンふたたび発動 (1)"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "2208351",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208351",
+                    "Titles": {
+                        "eng": "Queen Cleothystra (2)",
+                        "jpn": "女王陛下とドッキンコ (2)"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "2208361",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208361",
+                    "Titles": {
+                        "eng": "The Treasure Map",
+                        "jpn": "ニョロニョロがぞろぞろ"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "2208371",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208371",
+                    "Titles": {
+                        "eng": "A Sniff at Everything",
+                        "jpn": "便利屋さんはコーリゴリ"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "2208381",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208381",
+                    "Titles": {
+                        "eng": "Funny Disguises",
+                        "jpn": "ムーミンが大変身"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "2208391",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208391",
+                    "Titles": {
+                        "eng": "Moomin in Cowboy Country",
+                        "jpn": "ムーミン西部に行く"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "2208401",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208401",
+                    "Titles": {
+                        "eng": "Moominson Crusoe",
+                        "jpn": "ムーミン一家漂流記"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "2208411",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208411",
+                    "Titles": {
+                        "eng": "Hidden love of Pretty Mee",
+                        "jpn": "ミィが恋わずらい？"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "2208421",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208421",
+                    "Titles": {
+                        "eng": "Tears of the Dragon",
+                        "jpn": "竜の涙を捜せ！"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "2208431",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208431",
+                    "Titles": {
+                        "eng": "Chouca Lisa",
+                        "jpn": "ムーミンルネッサンスへ行く"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "2208441",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208441",
+                    "Titles": {
+                        "eng": "The Night of the Red Moon",
+                        "jpn": "お月様が落っこちる？！"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "2208451",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208451",
+                    "Titles": {
+                        "eng": "Return to Childhood",
+                        "jpn": "パパのいたずら大作戦"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "2208461",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208461",
+                    "Titles": {
+                        "eng": "The Birthday Surprise",
+                        "jpn": "ミィのやけくそ誕生日"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "2208471",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208471",
+                    "Titles": {
+                        "eng": "The Moomins and the Fake Yeti (1)",
+                        "jpn": "秘密の薬を捜せ！ (1)"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "2208481",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/moomin/episodes/2208481",
+                    "Titles": {
+                        "eng": "The Starry Voyage (2)",
+                        "jpn": "笑顔の戻ったムーミン谷"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "URL": "https://thetvdb.com/series/bastard",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0309340/",
+        "https://www.themoviedb.org/tv/43798"
+    ],
+    "Titles": {
+        "eng": "Bastard!!",
+        "jpn": "BASTARD!! －暗黒の破壊神－(1992)"
+    },
+    "Aliases": [
+        "Bastard",
+        "Bastard! Destroyer of Darkness",
+        "Bastard!! Ankoku no Hakai Kami",
+        "Bastard!! Ankoku no Hakai-jin",
+        "バスタード!! 暗黒の破壊神"
+    ],
+    "Modified": "2025-10-14",
+    "Seasons": {
+        "1": {
+            "ID": "15855",
+            "URL": "https://thetvdb.com/series/bastard/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "299192",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/bastard/episodes/299192",
+                    "Titles": {
+                        "eng": "Resurrection of the Warlock",
+                        "jpn": "爆炎の魔術師"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "299193",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/bastard/episodes/299193",
+                    "Titles": {
+                        "eng": "Efreet the Fire Elemental",
+                        "jpn": "火炎魔神イーフリート"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "299194",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/bastard/episodes/299194",
+                    "Titles": {
+                        "eng": "Ninja Master Gara",
+                        "jpn": "ニンジャマスター・ガラ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "299195",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/bastard/episodes/299195",
+                    "Titles": {
+                        "eng": "The Immortal King Di-Amon",
+                        "jpn": "不死王 ダイ・アモン"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "299196",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/bastard/episodes/299196",
+                    "Titles": {
+                        "eng": "Thunder Empress Arshes Nei",
+                        "jpn": "雷帝アーシェス・ネイ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "299197",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/bastard/episodes/299197",
+                    "Titles": {
+                        "eng": "The Return of Dark Schneider",
+                        "jpn": "復活のダーク・シュナイダー"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

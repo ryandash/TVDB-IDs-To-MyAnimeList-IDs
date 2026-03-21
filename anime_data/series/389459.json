@@ -1,0 +1,95 @@
+{
+    "URL": "https://thetvdb.com/series/burn-the-witch",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt12011442/",
+        "https://burn-the-witch-anime.com",
+        "http://www.reddit.com/r/Burnthewitch",
+        "https://www.themoviedb.org/tv/110911",
+        "https://x.com/BTW_anime"
+    ],
+    "Titles": {
+        "eng": "Burn the Witch",
+        "jpn": "BURN THE WITCH"
+    },
+    "Aliases": [
+        "BURN ☩HE WITCH"
+    ],
+    "Modified": "2026-03-08",
+    "Seasons": {
+        "0": {
+            "ID": "1871252",
+            "URL": "https://thetvdb.com/series/burn-the-witch/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "10105791",
+                    "TYPE": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/burn-the-witch/episodes/10105791",
+                    "Titles": {
+                        "eng": "Don't Judge A Book By Its Cover",
+                        "jpn": "BURN THE WITCH #0.8"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10499780",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/burn-the-witch/episodes/10499780",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Burn the Witch"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "1871253",
+            "URL": "https://thetvdb.com/series/burn-the-witch/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "7972439",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/burn-the-witch/episodes/7972439",
+                    "Titles": {
+                        "eng": "Witches Blow a New Pipe",
+                        "jpn": "Witches Blow a New Pipe"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7972442",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/burn-the-witch/episodes/7972442",
+                    "Titles": {
+                        "eng": "Ghillie Suit / She Makes Me Special",
+                        "jpn": "Ghillie Suit ／ She Makes Me Special"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7972454",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/burn-the-witch/episodes/7972454",
+                    "Titles": {
+                        "eng": "If a lion could speak, we couldn't understand",
+                        "jpn": "If a lion could speak, we couldn't understand"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

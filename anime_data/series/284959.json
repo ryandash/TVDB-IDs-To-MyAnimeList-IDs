@@ -1,0 +1,62 @@
+{
+    "URL": "https://thetvdb.com/series/dream-dimension-hunter-fandora",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/44420",
+        "https://www.themoviedb.org/tv/44420"
+    ],
+    "Titles": {
+        "eng": "Dream Dimension Hunter Fandora",
+        "jpn": "夢次元ハンターファンドラ"
+    },
+    "Aliases": [],
+    "Modified": "2025-06-03",
+    "Seasons": {
+        "1": {
+            "ID": "594473",
+            "URL": "https://thetvdb.com/series/dream-dimension-hunter-fandora/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "4969975",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dream-dimension-hunter-fandora/episodes/4969975",
+                    "Titles": {
+                        "eng": "Rem Fight Volume",
+                        "jpn": "レム・ファイト編"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4969976",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dream-dimension-hunter-fandora/episodes/4969976",
+                    "Titles": {
+                        "eng": "Dead Lander Volume",
+                        "jpn": "デッドランダー編"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4969977",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dream-dimension-hunter-fandora/episodes/4969977",
+                    "Titles": {
+                        "eng": "Fantos Volume",
+                        "jpn": "ファントス編"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

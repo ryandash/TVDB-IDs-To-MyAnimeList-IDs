@@ -1,0 +1,517 @@
+{
+    "URL": "https://thetvdb.com/series/popee-the-performer",
+    "Genres": [
+        "Animation",
+        "Children",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt8344276/",
+        "https://www.themoviedb.org/tv/35427",
+        "https://www.youtube.com/c/UCsPs5MxOSH5HgDjcifNiJ7Q"
+    ],
+    "Titles": {
+        "eng": "Popee the Performer",
+        "jpn": "ポピーザぱフォーマー"
+    },
+    "Aliases": [
+        "Popee the Clown"
+    ],
+    "Modified": "2025-12-12",
+    "Seasons": {
+        "0": {
+            "ID": "541843",
+            "URL": "https://thetvdb.com/series/popee-the-performer/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "6791068",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/6791068",
+                    "Titles": {
+                        "eng": "Popee the Performer OP",
+                        "jpn": "ポピーザぱフォーマー OP"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6791070",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/6791070",
+                    "Titles": {
+                        "eng": "Popee the Performer ED",
+                        "jpn": "ポピーザぱフォーマー ED"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8388855",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/8388855",
+                    "Titles": {
+                        "eng": "Popee The Clown (Pilot)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "8388856",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/8388856",
+                    "Titles": {
+                        "eng": "Kids Station IDs (2001-2003)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "8388857",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/8388857",
+                    "Titles": {
+                        "eng": "Popee The Clown (Official Music Video)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "8467431",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/8467431",
+                    "Titles": {
+                        "eng": "Popee the Performer Countdown Special",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "181101",
+            "URL": "https://thetvdb.com/series/popee-the-performer/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "1616151",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616151",
+                    "Titles": {
+                        "eng": "Magic",
+                        "jpn": "Magic"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1616161",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616161",
+                    "Titles": {
+                        "eng": "Limbo",
+                        "jpn": "Limbo"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1616171",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616171",
+                    "Titles": {
+                        "eng": "Acrobatics",
+                        "jpn": "Acrobatics"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1616181",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616181",
+                    "Titles": {
+                        "eng": "Knife Thrower",
+                        "jpn": "Knife Thrower"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "1616191",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616191",
+                    "Titles": {
+                        "eng": "Fire Breather",
+                        "jpn": "Fire Breather"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "1616201",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616201",
+                    "Titles": {
+                        "eng": "Pantomime",
+                        "jpn": "Pantomime"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "1616211",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616211",
+                    "Titles": {
+                        "eng": "Karate Show",
+                        "jpn": "Karate Show"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "1616221",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616221",
+                    "Titles": {
+                        "eng": "Fire Ring",
+                        "jpn": "Fire Ring"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "1616231",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616231",
+                    "Titles": {
+                        "eng": "Mimic",
+                        "jpn": "Mimic"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "1616241",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616241",
+                    "Titles": {
+                        "eng": "Gunman",
+                        "jpn": "Gunman"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "1616251",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616251",
+                    "Titles": {
+                        "eng": "Swallower",
+                        "jpn": "Swallower"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "1616261",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616261",
+                    "Titles": {
+                        "eng": "Escape Show",
+                        "jpn": "Escape Show"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "1616271",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616271",
+                    "Titles": {
+                        "eng": "Dance",
+                        "jpn": "Dance"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "181111",
+            "URL": "https://thetvdb.com/series/popee-the-performer/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "1616281",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616281",
+                    "Titles": {
+                        "eng": "Great Magic",
+                        "jpn": "Great Magic"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1616291",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616291",
+                    "Titles": {
+                        "eng": "Mirage",
+                        "jpn": "Mirage"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1616301",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616301",
+                    "Titles": {
+                        "eng": "Stop the Gun",
+                        "jpn": "Stop the Gun"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1616311",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616311",
+                    "Titles": {
+                        "eng": "Poison",
+                        "jpn": "Poison"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "1616321",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616321",
+                    "Titles": {
+                        "eng": "Elephant",
+                        "jpn": "Elephant"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "1616331",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616331",
+                    "Titles": {
+                        "eng": "Dream",
+                        "jpn": "Dream"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "1616341",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616341",
+                    "Titles": {
+                        "eng": "Hypnotism",
+                        "jpn": "Hypnotism"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "1616351",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616351",
+                    "Titles": {
+                        "eng": "Super Strength",
+                        "jpn": "Super Strength"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "1616361",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616361",
+                    "Titles": {
+                        "eng": "Prediction",
+                        "jpn": "Prediction"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "1616371",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616371",
+                    "Titles": {
+                        "eng": "Ghost",
+                        "jpn": "Ghost"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "1616381",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616381",
+                    "Titles": {
+                        "eng": "Medicine",
+                        "jpn": "Medicine"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "1616391",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616391",
+                    "Titles": {
+                        "eng": "Samurai",
+                        "jpn": "Samurai"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "1616401",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616401",
+                    "Titles": {
+                        "eng": "Monocycle",
+                        "jpn": "Monocycle"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "181121",
+            "URL": "https://thetvdb.com/series/popee-the-performer/seasons/official/3",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "1616411",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616411",
+                    "Titles": {
+                        "eng": "Knife Game",
+                        "jpn": "Knife Game"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1616421",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616421",
+                    "Titles": {
+                        "eng": "Alien",
+                        "jpn": "Alien"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1616431",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616431",
+                    "Titles": {
+                        "eng": "Dark Side",
+                        "jpn": "Dark Side"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1616441",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616441",
+                    "Titles": {
+                        "eng": "VS God",
+                        "jpn": "VS God"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "1616451",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616451",
+                    "Titles": {
+                        "eng": "Sleep",
+                        "jpn": "Sleep"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "1616461",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616461",
+                    "Titles": {
+                        "eng": "In the Mind",
+                        "jpn": "In the Mind"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "1616471",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616471",
+                    "Titles": {
+                        "eng": "Mirror",
+                        "jpn": "Mirror"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "1616481",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616481",
+                    "Titles": {
+                        "eng": "Opening",
+                        "jpn": "Opening"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "1616491",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616491",
+                    "Titles": {
+                        "eng": "My Car",
+                        "jpn": "My Car"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "1616501",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616501",
+                    "Titles": {
+                        "eng": "Eraser",
+                        "jpn": "Eraser"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "1616511",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616511",
+                    "Titles": {
+                        "eng": "Loneliness",
+                        "jpn": "Loneliness"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "1616521",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616521",
+                    "Titles": {
+                        "eng": "Time",
+                        "jpn": "Time"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "1616531",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/popee-the-performer/episodes/1616531",
+                    "Titles": {
+                        "eng": "Face",
+                        "jpn": "Face"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

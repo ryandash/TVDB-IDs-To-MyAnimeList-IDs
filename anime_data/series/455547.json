@@ -1,0 +1,69 @@
+{
+    "URL": "https://thetvdb.com/series/hack-liminality",
+    "Genres": [
+        "Anime"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/36023",
+        "https://www.themoviedb.org/tv/36023"
+    ],
+    "Titles": {
+        "eng": ".hack//Liminality",
+        "jpn": ".hack//Liminality"
+    },
+    "Aliases": [],
+    "Modified": "2025-06-07",
+    "Seasons": {
+        "1": {
+            "ID": "2151136",
+            "URL": "https://thetvdb.com/series/hack-liminality/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "10746361",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-liminality/episodes/10746361",
+                    "Titles": {
+                        "eng": "In the case of Mai Minase",
+                        "jpn": "第1巻 水瀬麻衣の場合"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10746362",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-liminality/episodes/10746362",
+                    "Titles": {
+                        "eng": "In the case of Yuki Aihara",
+                        "jpn": "第2巻：相原ユキの場合"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10746363",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-liminality/episodes/10746363",
+                    "Titles": {
+                        "eng": "In the case of Kyoko Tohno",
+                        "jpn": "第3巻 遠野響子の場合"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "10746364",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-liminality/episodes/10746364",
+                    "Titles": {
+                        "eng": "Trismegistus",
+                        "jpn": "第4巻：トリスメギストス"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

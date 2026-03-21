@@ -1,0 +1,507 @@
+{
+    "URL": "https://thetvdb.com/series/dragon-quest-legend-of-the-hero-abel",
+    "Genres": [
+        "Adventure",
+        "Anime",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0105987/",
+        "https://www.themoviedb.org/tv/77025",
+        "https://www.themoviedb.org/tv/77025",
+        "https://www.wikidata.org/wiki/Q3028503"
+    ],
+    "Titles": {
+        "eng": "Dragon Quest: Legend of the Hero Abel",
+        "jpn": "ドラゴンクエスト 《勇者アベル伝説》"
+    },
+    "Aliases": [
+        "Dragon Warrior"
+    ],
+    "Modified": "2024-04-30",
+    "Seasons": {
+        "0": {
+            "ID": "182361",
+            "URL": "https://thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4470656",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/4470656",
+                    "Titles": {
+                        "eng": "The beginning of journey of the Hero Abel",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1634061",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634061",
+                    "Titles": {
+                        "eng": "A New Determination for the Heroes!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "182371",
+            "URL": "https://thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 32,
+            "Episodes": {
+                "1": {
+                    "ID": "1633741",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633741",
+                    "Titles": {
+                        "eng": "Level 1: Ariahan Village",
+                        "jpn": "アリアハンの村 別離"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1633751",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633751",
+                    "Titles": {
+                        "eng": "Level 2: Departure",
+                        "jpn": "アリアハンの城 旅立ち"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1633761",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633761",
+                    "Titles": {
+                        "eng": "Level 3: Leebe Village",
+                        "jpn": "レーべの村 地図を探せ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1633771",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633771",
+                    "Titles": {
+                        "eng": "Level 4: Girl Warrior Daisy",
+                        "jpn": "女戦士 デイジィ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "1633781",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633781",
+                    "Titles": {
+                        "eng": "Level 5: Port Myla",
+                        "jpn": "竜伝説 マイラの港へ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "1633791",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633791",
+                    "Titles": {
+                        "eng": "Level 6: Light of Hope",
+                        "jpn": "ブレスストーン 希望の灯をともせ"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "1633801",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633801",
+                    "Titles": {
+                        "eng": "Level 7: Escape from Dragon Channel",
+                        "jpn": "生か死か！？竜海峡脱出！"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "1633811",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633811",
+                    "Titles": {
+                        "eng": "Level 8: Lunar Eclipse",
+                        "jpn": "魔王バラモスの弱点！！月食の夜の怪奇"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "1633821",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633821",
+                    "Titles": {
+                        "eng": "Level 9: Attacking Guam",
+                        "jpn": "ルイーダの村 ガイムに突撃せよ"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "1633831",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633831",
+                    "Titles": {
+                        "eng": "Level 10: Training and Preparation",
+                        "jpn": "水上都市ヴェルギンへ修行！"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "1633841",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633841",
+                    "Titles": {
+                        "eng": "Level 11: Hardship in Nether",
+                        "jpn": "吹雪の剣を探せ！！ネザーの町 試練"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "1633851",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633851",
+                    "Titles": {
+                        "eng": "Level 12: General Rudolph",
+                        "jpn": "呪いを解け！悲しきルドルフ将軍"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "1633861",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633861",
+                    "Titles": {
+                        "eng": "Level 13: Naijimi Tower",
+                        "jpn": "竜の鍵を奪え！激突ナジミの塔"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "1633871",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633871",
+                    "Titles": {
+                        "eng": "Level 14: The Mystery of the Legendary Fearsome Dragon",
+                        "jpn": "海峡の門 恐るべき竜伝説の謎"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "1633881",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633881",
+                    "Titles": {
+                        "eng": "Level 15: Revenge of the Arch-Demon",
+                        "jpn": "カイシンの一撃！アークデーモンの逆襲"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "1633891",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633891",
+                    "Titles": {
+                        "eng": "Level 16: The Appearance of Zoma, Emperor of Darkness",
+                        "jpn": "戦慄！！闇の帝王ゾーマの出現"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "1633901",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633901",
+                    "Titles": {
+                        "eng": "Level 17: Creature from the Castle Doran",
+                        "jpn": "ドラン城の怪奇モンスター"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "1633911",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633911",
+                    "Titles": {
+                        "eng": "Level 18: Journey to the Isle of Malefic Ghosts",
+                        "jpn": "魔の海の亡霊の島へ"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "1633921",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633921",
+                    "Titles": {
+                        "eng": "Level 19: Return to Castle Doran",
+                        "jpn": "再びドラン城へ ジキドの陰謀！！"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "1633931",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633931",
+                    "Titles": {
+                        "eng": "Level 20: The Hero's New Departure",
+                        "jpn": "新たなる旅立ち 伝説の勇者たち"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "1633941",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633941",
+                    "Titles": {
+                        "eng": "Level 21: The Bazaar of Darkness",
+                        "jpn": "闇のバザール 勇者の武器を探せ"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "1633951",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633951",
+                    "Titles": {
+                        "eng": "Level 22: The Strange Ruined City of Domdora",
+                        "jpn": "砂漠の果て 廃墟の街ドムドーラの怪"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "1633961",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633961",
+                    "Titles": {
+                        "eng": "Level 23: Hurry Abel! Tiala is very close!",
+                        "jpn": "アベルよ急げ！！ティアラがすぐそこに"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "1633971",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633971",
+                    "Titles": {
+                        "eng": "Level 24: Awaken Tiala! Priestess of the Red Orb!",
+                        "jpn": "めざめよティアラ！赤き珠の聖女として"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "1633981",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633981",
+                    "Titles": {
+                        "eng": "Level 25: The Resurrection of the Legendary Dragon",
+                        "jpn": "正か邪か？いま甦る伝説の竜"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "1633991",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1633991",
+                    "Titles": {
+                        "eng": "Level 26: Take on the Dragon Abel!",
+                        "jpn": "アベルよ竜に立ち向かえ！封印せよ！！"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "1634001",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634001",
+                    "Titles": {
+                        "eng": "Level 27: Fight for Abel's Life on Windy Mountain",
+                        "jpn": "アベルを救え！風の山の死闘！！"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "1634011",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634011",
+                    "Titles": {
+                        "eng": "Level 28: Resurrection of Abel",
+                        "jpn": "アベル復活 うなれ！いなずまの剣"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "1634021",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634021",
+                    "Titles": {
+                        "eng": "Level 29: Ortega, the Mysterious Evil Warrior",
+                        "jpn": "呪いの兜 謎の戦士オルテガ"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "1634031",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634031",
+                    "Titles": {
+                        "eng": "Level 30: Return to Ariahan",
+                        "jpn": "竜伝説を追って再び故郷アリアハンへ"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "1634041",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634041",
+                    "Titles": {
+                        "eng": "Level 31: Abel vs Ortega!",
+                        "jpn": "激闘！！アベル対オルテガ意外な真実！！"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "1634051",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634051",
+                    "Titles": {
+                        "eng": "Level 32: Honor the Great Hero Abel!",
+                        "jpn": "大勇者アベルに栄光あれ！！"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "182381",
+            "URL": "https://thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 11,
+            "Episodes": {
+                "1": {
+                    "ID": "7860544",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/7860544",
+                    "Titles": {
+                        "eng": "A New Determination for the Heroes!!",
+                        "jpn": "勇者たちの新たなる決意!!"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1634071",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634071",
+                    "Titles": {
+                        "eng": "An Enemy or an Ally!? The Handsome Swordsman Adonis",
+                        "jpn": "敵か味方か！？謎の美剣士アドニス"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1634081",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634081",
+                    "Titles": {
+                        "eng": "Revive! Phoenix Lamia",
+                        "jpn": "甦れ！！不死鳥ラーミア"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1634091",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634091",
+                    "Titles": {
+                        "eng": "It Appears!! The Floating Island in the Sky",
+                        "jpn": "出現！！天空の浮遊島"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "1634101",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634101",
+                    "Titles": {
+                        "eng": "The Blue Shrine - Abel, Pull Out the Holy Sword!!",
+                        "jpn": "青き神殿アベルよ聖剣を抜け！！"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "1634111",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634111",
+                    "Titles": {
+                        "eng": "Assault! Decisive Battle at Estark Castle",
+                        "jpn": "突撃！エスターク城の決戦！！"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "1634121",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634121",
+                    "Titles": {
+                        "eng": "The Legendary Dragon is in Ariahan!?",
+                        "jpn": "伝説の竜はアリアハンに！？"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "1634131",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634131",
+                    "Titles": {
+                        "eng": "A Hidden Riddle at Dragon God Lake!?",
+                        "jpn": "竜神湖に秘められた謎！？"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "1634141",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634141",
+                    "Titles": {
+                        "eng": "Angered Dragon VS Super Baramos",
+                        "jpn": "怒れる竜VSスーパーバラモス"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "1634151",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634151",
+                    "Titles": {
+                        "eng": "The Birth of the Greatest Hero!! The Miracle of the Blue and Red Ball",
+                        "jpn": "大勇者 誕生！！青と赤の珠の奇跡"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "1634161",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-quest-legend-of-the-hero-abel/episodes/1634161",
+                    "Titles": {
+                        "eng": "The Final Decisive Battle!! Abel VS Baramos",
+                        "jpn": "最終決戦！！アベルVSバラモス"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

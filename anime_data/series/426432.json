@@ -1,0 +1,493 @@
+{
+    "URL": "https://thetvdb.com/series/hyakushou-kizoku",
+    "Genres": [
+        "Adaptation",
+        "Anime - Shojo",
+        "Educational Content"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt27617338/",
+        "https://s.mxtv.jp/anime/hyakusho_kizoku/",
+        "https://www.themoviedb.org/tv/221165",
+        "https://www.wikidata.org/wiki/Q5930814",
+        "https://en.wikipedia.org/wiki/Hyakush%C5%8D_Kizoku#Anime",
+        "https://x.com/hyakusho_kizoku"
+    ],
+    "Titles": {
+        "eng": "Hyakusho Kizoku-the farmer’s days",
+        "jpn": "百姓貴族"
+    },
+    "Aliases": [
+        "Hyakushō kizoku",
+        "Hyakushou Kizoku",
+        "The Peasant Noble",
+        "Noble Farmer"
+    ],
+    "Modified": "2026-02-14",
+    "Seasons": {
+        "0": {
+            "ID": "2026904",
+            "URL": "https://thetvdb.com/series/hyakushou-kizoku/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "10530880",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/10530880",
+                    "Titles": {
+                        "eng": "Arakawa the Manga Artist, Part 1",
+                        "jpn": "漫画家・荒川 前編"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10530881",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/10530881",
+                    "Titles": {
+                        "eng": "Arakawa the Manga Artist, Part 2",
+                        "jpn": "漫画家・荒川 後編"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "11130560",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/11130560",
+                    "Titles": {
+                        "eng": "Let`s Go to Tokachi! Part 1",
+                        "jpn": "十勝へGO！ 前編"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "11130561",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/11130561",
+                    "Titles": {
+                        "eng": "Let`s Go to Tokachi! Part 2",
+                        "jpn": "十勝へGO！ 後編"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "11494642",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/11494642",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "牛の博物館 前編"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "11494643",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/11494643",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "牛の博物館 後編"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "2026905",
+            "URL": "https://thetvdb.com/series/hyakushou-kizoku/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "9860190",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/9860190",
+                    "Titles": {
+                        "eng": "Milk",
+                        "jpn": "ミルク"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9888968",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/9888968",
+                    "Titles": {
+                        "eng": "Potatoes",
+                        "jpn": "じゃがいも"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9898788",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/9898788",
+                    "Titles": {
+                        "eng": "Bears",
+                        "jpn": "熊"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9915143",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/9915143",
+                    "Titles": {
+                        "eng": "Vegetables",
+                        "jpn": "野菜"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "9925490",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/9925490",
+                    "Titles": {
+                        "eng": "Veggie Thief",
+                        "jpn": "野菜ドロボー"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "9925491",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/9925491",
+                    "Titles": {
+                        "eng": "Disease Control",
+                        "jpn": "防疫"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "9949331",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/9949331",
+                    "Titles": {
+                        "eng": "Father",
+                        "jpn": "親父殿"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "9949332",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/9949332",
+                    "Titles": {
+                        "eng": "Dogs and Cats",
+                        "jpn": "犬と猫"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "9973627",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/9973627",
+                    "Titles": {
+                        "eng": "Cow Society",
+                        "jpn": "牛社会"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "9973628",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/9973628",
+                    "Titles": {
+                        "eng": "Child of a Farmer",
+                        "jpn": "百姓の子"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "9973629",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/9973629",
+                    "Titles": {
+                        "eng": "Agricultural High School",
+                        "jpn": "農業高校"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "9973630",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/9973630",
+                    "Titles": {
+                        "eng": "Mars Pioneer Farmer Arakawa",
+                        "jpn": "火星開拓農民 荒川"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "2119875",
+            "URL": "https://thetvdb.com/series/hyakushou-kizoku/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "10406703",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/10406703",
+                    "Titles": {
+                        "eng": "Compost",
+                        "jpn": "堆肥"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9961579",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/9961579",
+                    "Titles": {
+                        "eng": "Bear Storm",
+                        "jpn": "クマの嵐"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9966104",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/9966104",
+                    "Titles": {
+                        "eng": "Farm Machinery",
+                        "jpn": "農機"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "10730584",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/10730584",
+                    "Titles": {
+                        "eng": "Cow Trivia",
+                        "jpn": "牛知識"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "10730585",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/10730585",
+                    "Titles": {
+                        "eng": "Oyajidono: The Sequel!",
+                        "jpn": "続！ 親父殿"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "10730586",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/10730586",
+                    "Titles": {
+                        "eng": "Okan and Grandma",
+                        "jpn": "おかんとばあさん"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "10730587",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/10730587",
+                    "Titles": {
+                        "eng": "Horses",
+                        "jpn": "馬"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "10730588",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/10730588",
+                    "Titles": {
+                        "eng": "Farmer Snacks",
+                        "jpn": "農家のおやつ"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "10730589",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/10730589",
+                    "Titles": {
+                        "eng": "Charge of the Pests",
+                        "jpn": "害獣大進撃"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "10730590",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/10730590",
+                    "Titles": {
+                        "eng": "Farm Students, Be Ambitious",
+                        "jpn": "農高生よ大志を抱け"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "10730591",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/10730591",
+                    "Titles": {
+                        "eng": "Pioneering Tokachi",
+                        "jpn": "十勝開拓史"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "10730592",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/10730592",
+                    "Titles": {
+                        "eng": "Plan for an Independent Hokkaido",
+                        "jpn": "北海道独立計画"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "2207033",
+            "URL": "https://thetvdb.com/series/hyakushou-kizoku/seasons/official/3",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "11375817",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/11375817",
+                    "Titles": {
+                        "eng": "Raising Cattle",
+                        "jpn": "牛を飼う"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11375818",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/11375818",
+                    "Titles": {
+                        "eng": "Pasture",
+                        "jpn": "牧草"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "11375819",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/11375819",
+                    "Titles": {
+                        "eng": "Long live dogs and cats!",
+                        "jpn": "犬猫万歳"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "11375820",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/11375820",
+                    "Titles": {
+                        "eng": "Pumpkins",
+                        "jpn": "カボチャ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "11375821",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/11375821",
+                    "Titles": {
+                        "eng": "Butter",
+                        "jpn": "バター"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "11375822",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/11375822",
+                    "Titles": {
+                        "eng": "Birds",
+                        "jpn": "鳥"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "11375823",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/11375823",
+                    "Titles": {
+                        "eng": "Security",
+                        "jpn": "セキュリティ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "11375824",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/11375824",
+                    "Titles": {
+                        "eng": "A Vow Between Farmers",
+                        "jpn": "農家の契り"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "11375825",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/11375825",
+                    "Titles": {
+                        "eng": "Left Behind by Farmers",
+                        "jpn": "農家の落とし物"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "11375826",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/11375826",
+                    "Titles": {
+                        "eng": "Pigs",
+                        "jpn": "豚"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "11375827",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/11375827",
+                    "Titles": {
+                        "eng": "Bears Again",
+                        "jpn": "またまたクマ"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "11375828",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hyakushou-kizoku/episodes/11375828",
+                    "Titles": {
+                        "eng": "Arakawa Tensei",
+                        "jpn": "荒川転生"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

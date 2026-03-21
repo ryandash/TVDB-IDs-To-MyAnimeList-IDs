@@ -1,0 +1,341 @@
+{
+    "URL": "https://thetvdb.com/series/ef",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Mystery",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1132203/",
+        "https://www.themoviedb.org/tv/27866"
+    ],
+    "Titles": {
+        "eng": "Ef – a Tale of ...",
+        "jpn": "ef - a tale of memories."
+    },
+    "Aliases": [
+        "Ef - A Tale of Melodies",
+        "Ef - A Tale of Memories",
+        "ef: a tale of melodies",
+        "ef: a tale of memories"
+    ],
+    "Modified": "2026-02-23",
+    "Seasons": {
+        "0": {
+            "ID": "29559",
+            "URL": "https://thetvdb.com/series/ef/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "3204491",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/3204491",
+                    "Titles": {
+                        "eng": "Prologue",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4158914",
+                    "TYPE": "Season Recaps",
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/4158914",
+                    "Titles": {
+                        "eng": "Prelude",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4158916",
+                    "TYPE": "Season Recaps",
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/4158916",
+                    "Titles": {
+                        "eng": "Recollections",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "11312866",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/11312866",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "~prologue~"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "29560",
+            "URL": "https://thetvdb.com/series/ef/seasons/official/1",
+            "Titles": {
+                "eng": "ef A Tale of Memories.",
+                "jpn": "ef - a tale of memories."
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "343998",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/343998",
+                    "Titles": {
+                        "eng": "Eve",
+                        "jpn": "eve"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "343999",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/343999",
+                    "Titles": {
+                        "eng": "Upon a Time",
+                        "jpn": "upon a time"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "344000",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/344000",
+                    "Titles": {
+                        "eng": "Paradox",
+                        "jpn": "paradox"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "344001",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/344001",
+                    "Titles": {
+                        "eng": "Honesty",
+                        "jpn": "honesty"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "344002",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/344002",
+                    "Titles": {
+                        "eng": "Outline",
+                        "jpn": "outline"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "344003",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/344003",
+                    "Titles": {
+                        "eng": "Rain",
+                        "jpn": "rain"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "344004",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/344004",
+                    "Titles": {
+                        "eng": "I...",
+                        "jpn": "I..."
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "344005",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/344005",
+                    "Titles": {
+                        "eng": "Clear Colour",
+                        "jpn": "clear colour"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "344006",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/344006",
+                    "Titles": {
+                        "eng": "Forget Me Not",
+                        "jpn": "forget me not"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "344007",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/344007",
+                    "Titles": {
+                        "eng": "I'm Here",
+                        "jpn": "I'm here"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "346790",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/346790",
+                    "Titles": {
+                        "eng": "Ever Forever",
+                        "jpn": "ever forever"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "346791",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/346791",
+                    "Titles": {
+                        "eng": "Love",
+                        "jpn": "love"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "472889",
+            "URL": "https://thetvdb.com/series/ef/seasons/official/2",
+            "Titles": {
+                "eng": "ef A Tale of Melodies",
+                "jpn": "ef - a tale of melodies."
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "4158917",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/4158917",
+                    "Titles": {
+                        "eng": "Ever",
+                        "jpn": "ever"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4158918",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/4158918",
+                    "Titles": {
+                        "eng": "Read",
+                        "jpn": "read"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4158919",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/4158919",
+                    "Titles": {
+                        "eng": "Union",
+                        "jpn": "union"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4158920",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/4158920",
+                    "Titles": {
+                        "eng": "Turn",
+                        "jpn": "turn"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4158921",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/4158921",
+                    "Titles": {
+                        "eng": "Utter",
+                        "jpn": "utter"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4158922",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/4158922",
+                    "Titles": {
+                        "eng": "Flection",
+                        "jpn": "flection"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4158923",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/4158923",
+                    "Titles": {
+                        "eng": "Reflection",
+                        "jpn": "reflection"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4158924",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/4158924",
+                    "Titles": {
+                        "eng": "Reutter",
+                        "jpn": "reutter"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4158925",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/4158925",
+                    "Titles": {
+                        "eng": "Return",
+                        "jpn": "return"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4158926",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/4158926",
+                    "Titles": {
+                        "eng": "Reunion",
+                        "jpn": "reunion"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4158927",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/4158927",
+                    "Titles": {
+                        "eng": "Reread",
+                        "jpn": "reread"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4158928",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ef/episodes/4158928",
+                    "Titles": {
+                        "eng": "Forever",
+                        "jpn": "forever"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
