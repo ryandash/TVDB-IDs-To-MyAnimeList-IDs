@@ -11,7 +11,6 @@ import re
 from pathlib import Path
 from typing import Optional, Union
 
-from dataclasses import dataclass
 from rapidfuzz import fuzz
 from safe_jikan import SafeJikan
 from tqdm import tqdm
@@ -267,13 +266,6 @@ def load_mapped_lookup(mapped: list) -> dict[str, tuple[int, str]]:
         else:
             print(f"bad entry: {entry}")
     return lookup
-
-@dataclass
-class TVDBMatches:
-    TvdbId: int
-    MalId: int
-    Name: str
-    Url: str
 
 MIN_MAP_DIRS = {
     "series": Path("min_map_data/series"),

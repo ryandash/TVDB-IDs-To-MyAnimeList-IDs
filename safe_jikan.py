@@ -191,6 +191,20 @@ class SafeJikan:
             except Exception as e:
                 print(f"[SafeJikan] Failed to write cache for {mal_id}: {e}")
 
+    async def _invalidate_cache(self, mal_id: int):
+        """Remove from memory and disk cache if exists."""
+        key = ("anime_minimal", mal_id)
+        async with self._cache_lock:
+            self._cache.pop(key, None)
+
+        path = self._disk_cache_path(mal_id)
+        if path.exists():
+            try:
+                await asyncio.to_thread(path.unlink)
+                print(f"[SafeJikan] Invalidated disk cache for {mal_id}")
+            except Exception as e:
+                print(f"[SafeJikan] Failed to remove cache for {mal_id}: {e}")
+
     async def _cached_call(self, func: Callable[..., Any], *args: Any, **kwargs: Any) -> Any:
         key = (
             func.__name__,
@@ -276,7 +290,7 @@ class SafeJikan:
             return None
         return {"data": data.relations}
 
-    async def _get_anime_full(self, mal_id: int) -> Optional[MinimalAnime]:
+    async def _get_anime_full(self, mal_id: int, visited: bool = False) -> Optional[MinimalAnime]:
         """
         Fetch anime full data from Jikan, reduce it to minimal fields, and cache to disk.
         """
@@ -295,9 +309,7 @@ class SafeJikan:
         node = data.get("data", {})
 
         animeType = (node.get("type") or "").lower()
-
         titles = [TitleEntry(title=t["title"], type=t["type"]) for t in node.get("titles", [])]
-
         relations = [
             {"relation": rel.get("relation", ""), "entry": entries}
             for rel in node.get("relations", [])
@@ -317,10 +329,32 @@ class SafeJikan:
             url=url,
             aired=aired
         )
-        await self._write_disk_cache(mal_id, asdict(anime))
-        # if self._should_persist(aired) or animeType == "movie":
-        #     await self._write_disk_cache(mal_id, asdict(anime))
+        if not visited:
+            for rel in relations:
+                if rel["relation"].lower() == "prequel":
+                    for prequel_entry in rel["entry"]:
+                        preq_id = prequel_entry.get("mal_id")
+                        if not preq_id:
+                            continue
 
+                        preq_key = ("anime_minimal", preq_id)
+                        async with self._cache_lock:
+                            cached_prequel: Optional[MinimalAnime] = self._cache.get(preq_key)
+
+                        if cached_prequel:
+                            # Check if current mal_id exists in any relation
+                            found = any(
+                                e.get("mal_id") == mal_id
+                                for r in cached_prequel.relations
+                                for e in r.get("entry", [])
+                            )
+                            if not found:
+                                # Invalidate prequel and refetch
+                                await self._invalidate_cache(preq_id)
+                                await self._get_anime_full(preq_id, True)
+
+        # Write current anime cache
+        await self._write_disk_cache(mal_id, asdict(anime))
         async with self._cache_lock:
             self._cache[key] = anime
 

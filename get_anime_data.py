@@ -46,8 +46,6 @@ class TVDBMatches:
     Name: str
     Url: str
 
-TEST_MODE = False
-
 # -----------------------------
 # Global HTTP client and semaphore
 # -----------------------------
@@ -104,10 +102,10 @@ TITLE_PRIORITY = {
     "default": 2,
 }
 
-async def get_new_anime(existing_anime: List, meta_file: str | None, type_: str) -> List[MinimalAnime]:
+async def get_new_anime(existing_anime: List, type_: str) -> List[MinimalAnime]:
     meta: Optional[FetchMeta] = None
 
-    meta_path = BASE_DIR / Path(meta_file).with_suffix(".meta.json")
+    meta_path = BASE_DIR / Path(type_).with_suffix(".meta.json")
     if meta_path.exists():
         meta = FetchMeta(**json.loads(meta_path.read_text(encoding="utf-8")))
 
@@ -179,7 +177,6 @@ async def get_new_anime(existing_anime: List, meta_file: str | None, type_: str)
     await update_meta(meta_path, total_from_jikan, per_page)
     return new_entries
 
-
 async def update_meta(meta_path: Path, total: int, per_page: int):
     meta = FetchMeta(
         totalFetchedFromJikan=total, 
@@ -190,25 +187,48 @@ async def update_meta(meta_path: Path, total: int, per_page: int):
         json.dump(meta.__dict__, f, indent=2)
     print(f"Updated meta file: {meta_path}")
 
+REMOVE_TYPES = {"ova", "special", "tv_special"}
+TARGET_TYPES = {"tv", "ona"}
+def remove_unwanted_types_and_rewire(G: nx.DiGraph, mal_to_anime: dict[int, MinimalAnime]):
+    nodes_to_remove = []
 
-async def preload_file_map() -> dict[int, Path]:
-    file_map = {}
-    for folder in (MOVIE_DIR, SERIES_DIR):
-        for file in folder.glob("*.json"):
-            try:
-                data = json.loads(file.read_text("utf-8"))
-                mal_id = data.get("MalId")
-                if mal_id:
-                    file_map[int(mal_id)] = file
-            except Exception as e:
-                print(f"Failed to read {file}: {e}")
-    return file_map
+    for node in G.nodes:
+        anime_type = mal_to_anime[node].type.lower()
+        if anime_type not in REMOVE_TYPES:
+            continue
 
+        preds = list(G.predecessors(node))
+        succs = list(G.successors(node))
 
-async def insert_new_entries_based_on_relations(
+        # Check if connected to at least one TV/ONA node
+        connected_to_target = any(
+            mal_to_anime[p].type.lower() in TARGET_TYPES for p in preds
+        ) or any(
+            mal_to_anime[s].type.lower() in TARGET_TYPES for s in succs
+        )
+
+        if connected_to_target:
+            nodes_to_remove.append(node)
+
+    for node in nodes_to_remove:
+        preds = list(G.predecessors(node))
+        succs = list(G.successors(node))
+
+        # Rewire connections
+        for p in preds:
+            for s in succs:
+                if p != s:
+                    G.add_edge(p, s)
+
+        G.remove_node(node)
+
+REMOVE_IF_ISOLATED = {"special", "tv_special", "movie"}
+UNWANTED_GROUP_TYPES = {"movie", "special", "tv_special"}
+
+async def make_main_path_relations_map(
     new_entries: List[MinimalAnime],
     old_entries: List[MinimalAnime]
-) -> tuple[SortedListsOfMinimalAnime, SortedListsOfMinimalAnime]:
+) -> SortedListsOfMinimalAnime:
     """
     Insert new entries in proper order using relations.
     Returns:
@@ -217,76 +237,92 @@ async def insert_new_entries_based_on_relations(
     """
     mal_to_anime = {a.malId: a for a in old_entries}
     mal_to_anime.update({a.malId: a for a in new_entries})
-
     all_entries = list(mal_to_anime.values())
-
-    async def fetch_with_id(anime: MinimalAnime):
-        try:
-            result = await JIKAN.get_anime_relations(anime.malId)
-            return anime.malId, result
-        except Exception as e:
-            return anime.malId, e
-
-    tasks = [
-        asyncio.create_task(fetch_with_id(a))
-        for a in new_entries
-    ]
 
     relations_map = {}
 
-    for future in tqdm(
-        asyncio.as_completed(tasks),
-        total=len(tasks),
-        desc="Fetching relations"
-    ):
-        mal_id, result = await future
-        relations_map[mal_id] = result
+    async def fetch_relations_sequential(anime_list: List[MinimalAnime], desc: str):
+        for anime in tqdm(anime_list, desc=desc):
+            try:
+                result = await JIKAN.get_anime_relations(anime.malId)
+                relations_map[anime.malId] = result
+            except Exception as e:
+                relations_map[anime.malId] = e
+
+    # Fetch new entries first
+    await fetch_relations_sequential(new_entries, "Fetching relations (new entries)")
+
+    # Then old entries
+    await fetch_relations_sequential(old_entries, "Fetching relations (old entries)")
     
+    # -----------------------------
     # Build relation graph
-    G = nx.DiGraph()
+    # -----------------------------
+    G_main = nx.DiGraph()
     for anime in all_entries:
-        G.add_node(anime.malId)
+        G_main.add_node(anime.malId)
 
-    for anime in new_entries:
+    forward_edges = set()
+    reverse_edges = set()
+
+    for anime in all_entries:
         rel_data = relations_map.get(anime.malId)
-
-        if isinstance(rel_data, Exception) or not rel_data:
+        if isinstance(rel_data, Exception):
             continue
         for rel in rel_data.get("data", []):
-            rel_type = rel.get("relation", "").strip().lower()
-            if rel_type not in ("prequel", "sequel"):
-                continue
+            rel_type = rel.get("relation", "").lower()
             for e in rel.get("entry", []):
-                other_id = e.get("mal_id")
-                if not other_id or other_id not in mal_to_anime:
+                other = e.get("mal_id")
+                if not other:
                     continue
-                if rel_type == "prequel":
-                    G.add_edge(other_id, anime.malId)
-                elif rel_type == "sequel":
-                    G.add_edge(anime.malId, other_id)
+                if rel_type == "sequel":
+                    forward_edges.add((anime.malId, other))
+                elif rel_type == "prequel":
+                    reverse_edges.add((other, anime.malId))
 
-    # Break cycles if necessary
+    # Only add edges that exist in BOTH directions -> confirmed main path
+    for edge in forward_edges:
+        if edge in reverse_edges:
+            G_main.add_edge(*edge)
+
+    nodes_to_remove = []
+
+    for node in G_main.nodes:
+        anime = mal_to_anime[node]
+        if (
+            anime.type.lower() in REMOVE_IF_ISOLATED
+            and G_main.in_degree(node) == 0
+            and G_main.out_degree(node) == 0
+        ):
+            nodes_to_remove.append(node)
+
+    remove_unwanted_types_and_rewire(G_main, mal_to_anime)
+
+    G_main.remove_nodes_from(nodes_to_remove)
+
+    # Topological sort to linearize main path
     try:
-        sorted_ids = list(nx.topological_sort(G))
+        sorted_ids = list(nx.topological_sort(G_main))
     except nx.NetworkXUnfeasible:
-        # Simple cycle handling: remove self-loops and 2-node cycles
-        for node in list(G.nodes):
-            if G.has_edge(node, node):
-                G.remove_edge(node, node)
-        for i, cycle in enumerate(nx.simple_cycles(G)):
-            print(f"Cycle {i+1}: {cycle}")
+        # Handle cycles: remove self-loops and 2-node cycles
+        for node in list(G_main.nodes):
+            if G_main.has_edge(node, node):
+                G_main.remove_edge(node, node)
+        for i, cycle in enumerate(nx.simple_cycles(G_main)):
             if len(cycle) == 2:
                 a, b = cycle
-                if G.has_edge(a, b) and a > b:
-                    G.remove_edge(a, b)
-                elif G.has_edge(b, a) and b > a:
-                    G.remove_edge(b, a)
+                if G_main.has_edge(a, b) and a > b:
+                    G_main.remove_edge(a, b)
+                elif G_main.has_edge(b, a) and b > a:
+                    G_main.remove_edge(b, a)
         try:
-            sorted_ids = list(nx.topological_sort(G))
+            sorted_ids = list(nx.topological_sort(G_main))
         except nx.NetworkXUnfeasible:
             print("❌ Cannot sort even after breaking cycles")
 
-    # Build groups by franchise/sequel chains
+    # -----------------------------
+    # Build groups along main path only
+    # -----------------------------
     visited = set()
     all_sorted_groups: List[List[MinimalAnime]] = []
 
@@ -295,31 +331,24 @@ async def insert_new_entries_based_on_relations(
             return
         visited.add(node_id)
         current_group.append(node_id)
-        for successor in G.successors(node_id):
+        for successor in G_main.successors(node_id):
             dfs_group(successor, current_group)
 
     for mal_id in sorted_ids:
         if mal_id not in visited:
             group_ids: List[int] = []
             dfs_group(mal_id, group_ids)
-            group_anime = [mal_to_anime[m] for m in group_ids]
-            all_sorted_groups.append(group_anime)
+            if group_ids:
+                group_anime = [mal_to_anime[m] for m in group_ids]
+                all_sorted_groups.append(group_anime)
 
-    # Filter new entries groups
-    new_ids_set = {a.malId for a in new_entries}
-    new_sorted_groups = SortedListsOfMinimalAnime(
-        groups=[ [a for a in group if a.malId in new_ids_set] for group in all_sorted_groups if any(a.malId in new_ids_set for a in group)]
-    )
+    all_sorted_groups = [
+        group for group in all_sorted_groups
+        if not all(a.type.lower() in UNWANTED_GROUP_TYPES for a in group)
+    ]
 
-    all_sorted_groups_dto = SortedListsOfMinimalAnime(groups=all_sorted_groups)
+    return SortedListsOfMinimalAnime(groups=all_sorted_groups)
 
-    return all_sorted_groups_dto, new_sorted_groups
-
-
-PAREN_REGEX = re.compile(r"\s*\([^)]*\)")
-def remove_parentheses(s: str) -> str:
-    """Remove anything between ( and ) including the parentheses."""
-    return PAREN_REGEX.sub("", s).strip()
 
 # -----------------------------
 # Search TVDB and Save
@@ -372,7 +401,7 @@ async def get_tvdb_total_episodes(session: aiohttp.ClientSession, url: str) -> i
 
     total_eps = 0
 
-    season_rows = soup.select('#seasons-official table tbody tr')[1:-1]
+    season_rows = soup.select('#seasons-official table tbody tr')[2:-1]
 
     for s in season_rows:
         num_eps_elem = s.select_one('td:nth-child(4)')
@@ -402,6 +431,11 @@ def match_tvdb_to_mal(group: List[MinimalAnime], tvdb_total: int):
             break
 
     return matched, remaining
+
+PAREN_REGEX = re.compile(r"\s*\([^)]*\)")
+def remove_parentheses(s: str) -> str:
+    """Remove anything between ( and ) including the parentheses."""
+    return PAREN_REGEX.sub("", s).strip()
 
 async def process_group(session: aiohttp.ClientSession, group: List[MinimalAnime]):
     remaining_group = group.copy()
@@ -555,42 +589,96 @@ async def save_anime_json(path: Path, anime_groups: SortedListsOfMinimalAnime):
 # -----------------------------
 # Main
 # -----------------------------
-async def main(test_mode: bool):
+async def main():
     global JIKAN
     JIKAN = SafeJikan()
     await JIKAN.preload_disk_cache()
 
+    # Fetch Algolia key for TVDB
     key = await get_latest_algolia_key()
 
-    series_json_path = BASE_DIR / "all_anime.json"
-    old_series_groups = await load_anime_json(series_json_path)
-    print(f"Loaded {sum(len(g) for g in old_series_groups.groups)} series in {len(old_series_groups.groups)} groups from {series_json_path.name}.")
+    # -----------------------------
+    # Categories and JSON paths (all under BASE_DIR)
+    # -----------------------------
+    categories = {
+        "movie": BASE_DIR / "movies.json",
+        "tv": BASE_DIR / "tv.json",
+        "ona": BASE_DIR / "ona.json",
+        "ova": BASE_DIR / "ova.json",
+        "special": BASE_DIR / "special.json",
+        "tv_special": BASE_DIR / "tv_special.json",
+    }
 
-    old_series_flat = [a for group in old_series_groups.groups for a in group]
+    # -----------------------------
+    # Load existing entries per category
+    # -----------------------------
+    old_entries_per_category = {}
+    for cat, path in categories.items():
+        groups = await load_anime_json(path)
+        existing_flat = [a for group in groups.groups for a in group]
+        old_entries_per_category[cat] = existing_flat
+        print(f"Loaded {len(existing_flat)} entries for category '{cat}' from {path.name}.")
 
-    if test_mode:
-        all_entries_groups, all_new_series_groups = await insert_new_entries_based_on_relations(old_series_flat, [])
-    else:
-        new_movies = await get_new_anime(old_series_flat, "all_anime_movies", "movie")
-        new_tvs = await get_new_anime(old_series_flat, "all_tv_anime", "tv")
-        new_onas = await get_new_anime(old_series_flat, "all_ona_anime", "ona")
-        new_ovas = await get_new_anime(old_series_flat, "all_ova_anime", "ova")
-        new_specials = await get_new_anime(old_series_flat, "all_special_anime", "special")
-        tv_specials = await get_new_anime(old_series_flat, "all_tv_special_anime", "tv_special")
-        all_entries_groups, all_new_series_groups = await insert_new_entries_based_on_relations(
-            new_movies + new_tvs + new_onas + new_ovas + new_specials + tv_specials,
-            old_series_flat
-        )
+    # -----------------------------
+    # Fetch new entries per category
+    # -----------------------------
+    new_entries_per_category = {}
+    for cat in categories.keys():
+        print(f"\nFetching new entries for category: {cat}")
+        entries = await get_new_anime(old_entries_per_category[cat], cat)
+        new_entries_per_category[cat] = entries
 
-    await save_anime_json(series_json_path, all_entries_groups)
+    # -----------------------------
+    # Append new entries to old and save per category
+    # -----------------------------
+    for cat, path in categories.items():
+        combined = old_entries_per_category[cat] + new_entries_per_category[cat]
+        # Remove duplicates
+        seen = set()
+        deduped = []
+        for a in combined:
+            if a.malId not in seen:
+                deduped.append(a)
+                seen.add(a.malId)
+        await save_anime_json(path, SortedListsOfMinimalAnime(groups=[deduped]))
 
-    # --- SEARCH AND SAVE TO TVDB (process group by group) ---
-    await search_and_save_tvdb_hits(key, all_new_series_groups)
+    # -----------------------------
+    # Build relationships
+    # -----------------------------
+    all_new_entries = [a for entries in new_entries_per_category.values() for a in entries]
+    all_old_entries = [a for entries in old_entries_per_category.values() for a in entries]
+    main_path_groups = await make_main_path_relations_map(all_new_entries, all_old_entries)
+
+    # Load old main_path_groups.json if it exists
+    relations_path = BASE_DIR / "main_path_groups.json"
+    old_main_path_groups = await load_anime_json(relations_path)
+
+    # Build a set of MAL IDs from the old main path groups
+    old_main_path_ids = {a.malId for group in old_main_path_groups.groups for a in group}
+
+    # Filter out entries already in old main path
+    filtered_main_path_groups = SortedListsOfMinimalAnime(
+        groups=[
+            [a for a in group if a.malId not in old_main_path_ids]
+            for group in main_path_groups.groups
+        ]
+    )
+    # Remove any empty groups after filtering
+    filtered_main_path_groups.groups = [g for g in filtered_main_path_groups.groups if g]
+
+    # Save the updated filtered main path groups
+    await save_anime_json(relations_path, main_path_groups)
+    print(f"Saved full relationship groups to {relations_path.name}.")
+
+    # Wrap everything into groups for TVDB search (main path groups + new movies)
+    all_groups_to_process = filtered_main_path_groups.groups + [[a] for a in new_entries_per_category.get("movie", [])]
+    groups_for_tvdb = SortedListsOfMinimalAnime(groups=all_groups_to_process)
+    
+    # Search and save TVDB hits for both filtered main path + new movies
+    await search_and_save_tvdb_hits(key, groups_for_tvdb)
+
+    print("\n✅ All categories updated and new movies mapped to TVDB.")
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Fetch new anime and update JSON database.")
-    parser.add_argument("--test", action="store_true", help="Run in TEST_MODE (reprocess old entries without fetching new ones).")
-    args = parser.parse_args()
-
-    asyncio.run(main(test_mode=args.test))
+    asyncio.run(main())

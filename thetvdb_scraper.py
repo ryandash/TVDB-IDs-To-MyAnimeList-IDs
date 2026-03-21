@@ -213,14 +213,14 @@ def parse_special_category(li):
 # Episode / Season / Anime
 # -------------------
 
-async def scrape_episode(session: aiohttp.ClientSession, ep_info, season_eps: dict):
+async def scrape_episode(session: aiohttp.ClientSession, ep_info, season_eps: dict) -> bool:
     ep_id, ep_url, ep_num = ep_info
     if ep_num in season_eps:
-        return
+        return False
 
     html = await fetch_html(session, ep_url)
     if not html:
-        return
+        return False
 
     soup = BeautifulSoup(html, "html.parser")
     translations, aliases = parse_translations(soup)
@@ -228,7 +228,7 @@ async def scrape_episode(session: aiohttp.ClientSession, ep_info, season_eps: di
     # summaries = {lang: data.get("summary") for lang, data in translations.items()}
 
     if titles.get("eng", "") == "TBA":
-        return
+        return False
 
     eng_title = (titles.get("eng") or "").lower()
     type_text = None
@@ -252,29 +252,28 @@ async def scrape_episode(session: aiohttp.ClientSession, ep_info, season_eps: di
         "Aliases": aliases
     }
 
+    return True
+
 async def scrape_season(session: aiohttp.ClientSession, season_url: str, numEpisodes: int, season_dict: dict, season_number: str) -> bool:
     html = await fetch_html(session, season_url)
     if not html:
         return False
     soup = BeautifulSoup(html, "html.parser")
 
-    if not season_dict.get("ID"):        
+    if not season_dict.get("ID"):
         season_id_elem = soup.select_one('#general ul li span')
         if not season_id_elem:
             print(f"[FAIL] Missing season ID: {season_url}")
             return False
 
         season_id = season_id_elem.get_text(strip=True)
-
         translations = parse_season_translations(soup)
         titles = {lang: data.get("title") for lang, data in translations.items()}
-        # summaries = {lang: data.get("summary") for lang, data in translations.items()}
-        
+
         season_dict.update({
             "ID": season_id,
             "URL": season_url,
             "Titles": titles,
-            #"Summaries": summaries,
             "# Episodes": int(numEpisodes)
         })
     
@@ -313,11 +312,21 @@ async def scrape_season(session: aiohttp.ClientSession, season_url: str, numEpis
         ep_id = href.rstrip("/").split("/")[-1]
         ep_infos.append((ep_id, full_url, ep_num))
 
+    if not ep_infos:
+        # No episodes found
+        return False
+
+    valid_eps = 0
     for ep_info in ep_infos:
-        await scrape_episode(session, ep_info, existing_eps)
+        if await scrape_episode(session, ep_info, existing_eps):
+            valid_eps += 1
         await asyncio.sleep(0.5)
 
-    # --- Sort seasons by Season Number ---
+    if valid_eps == 0:
+        # All episodes were TBA or invalid
+        return False
+
+    # --- Sort episodes by episode number ---
     other_keys = {k: v for k, v in season_dict.items() if k != "Episodes"}
     season_dict.clear()
     season_dict.update(other_keys)
@@ -354,7 +363,6 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
         if "ID" in label:
             span = li.find("span")
             series_id = span.get_text(strip=True) if span else None
-
         elif "MODIFIED" in label:
             span = li.find("span")
             modified_date_text = span.get_text(strip=True) if span else None
@@ -364,10 +372,8 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
                     modified_date = parse_date(date_str)
                 except ValueError:
                     modified_date = None
-
         elif "GENRE" in label:
             genres = [g.get_text(strip=True) for g in li.select("span a")]
-
         elif "SITES" in label:
             other_sites = [s.get("href") for s in li.select("span a")]
 
@@ -378,12 +384,10 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
     if not existing:
         translations, aliases = parse_translations(soup)
         titles = {lang: data.get("title") for lang, data in translations.items()}
-        # summaries = {lang: data.get("summary") for lang, data in translations.items()}
 
         if not titles.get("eng"):
             if not titles.get("jpn"):
                 return
-            # titles["eng"], summaries["eng"] = titles.get("jpn"), summaries.get("jpn")
             titles["eng"] = titles.get("jpn")
         elif "Abridged" in titles["eng"]:
             return
@@ -393,7 +397,6 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
         "Genres": genres,
         "Other Sites": other_sites,
         "Titles": titles,
-        #"Summaries": summaries,
         "Aliases": aliases,
         "Modified": modified_date.isoformat() if modified_date else None,
         "Seasons": {}
@@ -409,7 +412,7 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
                 pass
     
     if existing_date and modified_date and modified_date <= existing_date:
-        print(f"\nSkipped {series_id}")
+        print(f"\nSkipped {series_id} (not modified)")
         enqueue_save_anime(series_id, anime_data, category)
         return
 
@@ -417,8 +420,6 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
         # --- Collect seasons ---
         season_rows = soup.select('#seasons-official table tbody tr')[1:-1]
         season_tasks = []
-        season_results = []
-
         season_sem = asyncio.Semaphore(MAX_SEASON_CONCURRENT)
 
         for idx, s in enumerate(season_rows, start=1):
@@ -436,7 +437,6 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
 
             a_elem = s.select_one('td:nth-child(1) a')
             href = a_elem.get("href") if a_elem else None
-
             if not href:
                 continue
             
@@ -451,29 +451,21 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
                 season_wrapper(season_number, href, num_eps, season_temp)
             )
 
-        completed = []
-
-        for future in tqdm_asyncio.as_completed(
-            season_tasks,
-            desc=f"{series_id} Seasons",
-            total=len(season_tasks),
-            leave=False
-        ):
+        completed_seasons = []
+        for future in tqdm_asyncio.as_completed(season_tasks, total=len(season_tasks), leave=False):
             season_number, result, season_temp = await future
-
-            season_results.append(result)
-
             if result:
-                completed.append((season_number, season_temp))
+                completed_seasons.append((season_number, season_temp))
             else:
-                print(f"[FAIL] Season {season_number} failed for {series_id}")
+                print(f"[DROP] Season {season_number} skipped (no valid episodes)")
 
-        if not all(season_results):
-            print(f"[DROP] Skipping {series_id} due to failed season scrape")
+        if not completed_seasons:
+            print(f"[DROP] Skipping {series_id} entirely (no valid seasons)")
             return
 
+        # Sort and update
         anime_data["Seasons"] = {
-            k: v for k, v in sorted(completed, key=lambda x: int(x[0]))
+            k: v for k, v in sorted(completed_seasons, key=lambda x: int(x[0]))
         }
 
     enqueue_save_anime(series_id, anime_data, category)
