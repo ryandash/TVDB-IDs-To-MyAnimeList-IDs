@@ -234,7 +234,6 @@ jobs:
             echo "- ✅ Mapped Series: **$mapped_series**"
             echo "- ✅ Mapped Seasons: **$mapped_seasons**"
             echo "- ✅ Mapped Episodes: **$mapped_episodes**"
-            echo ""
             echo "- ❌ Unmapped Series/Movies: **$unmapped_series**"
             echo "- ❌ Unmapped Seasons: **$unmapped_seasons**"
             echo "- ❌ Unmapped Episodes: **$unmapped_episodes**"
