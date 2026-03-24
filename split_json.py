@@ -1,6 +1,7 @@
 import json
 from pathlib import Path
 import sys
+from typing import Union
 
 # Input files (match your main script)
 movies_json = Path("mapped-tvdb-ids-movie.json")
@@ -39,36 +40,109 @@ def load_json(path: Path):
     with path.open("r", encoding="utf-8") as f:
         return json.load(f)
 
+def write_json(path: Path, data):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as f:
+        json.dump(data, f, indent=4, ensure_ascii=False)
 
-def process_entries(data, tvdb_dir, counter_name):
+def write_hierarchical_json(base_dir: Path, ids: list[Union[int, str]], entry: dict):
+    """
+    Write a JSON file in a hierarchical folder structure.
+    - base_dir: root directory
+    - ids: list of folder names + file name (last element is file name)
+    - entry: dict to write
+    """
+    path = base_dir.joinpath(*map(str, ids[:-1]), f"{ids[-1]}.json")
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as f:
+        json.dump([entry], f, indent=4, ensure_ascii=False)
+
+def process_movies(data):
     count = 0
-
     for entry in data:
         mal_id = entry.get("myanimelist")
         tvdb_id = entry.get("thetvdb")
 
-        # MAL aggregation
         if mal_id is not None:
             mal_entries.setdefault(mal_id, []).append(entry)
 
-        # TVDB split (avoid duplicates)
-        if tvdb_id is not None and tvdb_id not in tvdb_seen:
-            path = tvdb_dir / f"{tvdb_id}.json"
-            with path.open("w", encoding="utf-8") as f:
-                json.dump([entry], f, indent=4, ensure_ascii=False)
-
+        if tvdb_id and tvdb_id not in tvdb_seen:
+            write_json(tvdb_movie_dir / f"{tvdb_id}.json", [entry])
             tvdb_seen.add(tvdb_id)
             count += 1
 
     return count
 
+def process_series(data):
+    count = 0
+    for entry in data:
+        mal_id = entry.get("myanimelist")
+        series_id = entry.get("thetvdb")
+
+        if mal_id is not None:
+            mal_entries.setdefault(mal_id, []).append(entry)
+
+        if series_id and series_id not in tvdb_seen:
+            write_json(tvdb_series_dir / f"{series_id}.json", [entry])
+            tvdb_seen.add(series_id)
+            count += 1
+
+    return count
+
+def process_seasons(data):
+    count = 0
+    for entry in data:
+        mal_id = entry.get("myanimelist")
+        season_id = entry.get("thetvdb")
+        series_id = entry.get("series id")
+        season_number = entry.get("season")
+
+        if mal_id is not None:
+            mal_entries.setdefault(mal_id, []).append(entry)
+
+        if season_id and season_id not in tvdb_seen:
+            write_hierarchical_json(tvdb_seasons_dir, [season_id], entry)
+
+            if series_id and season_number is not None:
+                (tvdb_series_dir / str(series_id) / str(season_number)).mkdir(parents=True, exist_ok=True)
+
+            tvdb_seen.add(season_id)
+            count += 1
+
+    return count
+
+def process_episodes(data):
+    count = 0
+    for entry in data:
+        mal_id = entry.get("myanimelist")
+        episode_id = entry.get("thetvdb")
+        series_id = entry.get("series id")
+        season_id = entry.get("season id")
+        season_number = entry.get("season")
+        episode_number = entry.get("episode")
+
+        if mal_id is not None:
+            mal_entries.setdefault(mal_id, []).append(entry)
+
+        if episode_id and episode_id not in tvdb_seen:
+            write_hierarchical_json(tvdb_episodes_dir, [episode_id], entry)
+
+            if series_id and season_number is not None and episode_number is not None:
+                write_hierarchical_json(tvdb_series_dir, [series_id, season_number, episode_number], entry)
+
+            if season_id and episode_number is not None:
+                write_hierarchical_json(tvdb_seasons_dir, [season_id, episode_number], entry)
+
+            tvdb_seen.add(episode_id)
+            count += 1
+
+    return count
 
 # --- Process files ---
-tvdb_count_movie = process_entries(load_json(movies_json), tvdb_movie_dir, "movie")
-tvdb_count_series = process_entries(load_json(series_json), tvdb_series_dir, "series")
-tvdb_count_seasons = process_entries(load_json(season_json), tvdb_seasons_dir, "season")
-tvdb_count_episodes = process_entries(load_json(episode_json), tvdb_episodes_dir, "episode")
-
+tvdb_count_movie = process_movies(load_json(movies_json))
+tvdb_count_series = process_series(load_json(series_json))
+tvdb_count_seasons = process_seasons(load_json(season_json))
+tvdb_count_episodes = process_episodes(load_json(episode_json))
 
 # --- Sorting ---
 def sort_entries(entries):

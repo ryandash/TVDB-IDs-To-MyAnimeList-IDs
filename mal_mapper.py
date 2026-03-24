@@ -479,7 +479,8 @@ async def map_anime():
                                 "thetvdb url": season_tvdb_url, 
                                 "myanimelist url": await get_mal_url(SeasonMalID, None),
                                 "myanimelist": int(SeasonMalID),
-                                "thetvdb": int(season_id)
+                                "thetvdb": int(season_id),
+                                "series id": int(series_id)
                             })
                         else:
                             unmapped_seasons.append({
@@ -566,6 +567,8 @@ async def map_anime():
                         if EpisodeMALID and record["myanimelist url"]:
                             record["myanimelist"] = int(EpisodeMALID)
                             record["thetvdb"] = int(ep_id)
+                            record["series id"] = int(series_id)
+                            record["season id"] = int(season_id)
                             mapped_episodes.append(record)
                             
                         else:
@@ -591,6 +594,8 @@ async def map_anime():
                             record["myanimelist url"] = episodeMALURL
                             record["myanimelist"] = int(SeasonMalID)
                             record["thetvdb"] = int(ep_id)
+                            record["series id"] = int(series_id)
+                            record["season id"] = int(season_id)
                             mapped_episodes.append(record)
                         else:
                             record["thetvdb"] = int(ep_id)
