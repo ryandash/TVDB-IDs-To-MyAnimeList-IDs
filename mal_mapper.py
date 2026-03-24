@@ -244,8 +244,7 @@ def load_lookup_file(path: str) -> dict:
     if not p.exists():
         return {}
 
-    with p.open("r", encoding="utf-8") as f:
-        return load_mapped_lookup(orjson.load(f))
+    return load_mapped_lookup(safe_load_json(p))
 
 def load_mapped_lookup(mapped: list) -> dict[str, tuple[int, str]]:
     lookup = {}
