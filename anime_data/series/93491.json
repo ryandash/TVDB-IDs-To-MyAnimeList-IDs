@@ -1,0 +1,235 @@
+{
+    "URL": "https://thetvdb.com/series/prism-ark",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1132210/",
+        "https://www.themoviedb.org/tv/22131"
+    ],
+    "Titles": {
+        "eng": "Prism Ark",
+        "jpn": "プリズム・アーク"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "63091",
+            "URL": "https://thetvdb.com/series/prism-ark/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 7,
+            "Episodes": {
+                "1": {
+                    "ID": "821351",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/prism-ark/episodes/821351",
+                    "Titles": {
+                        "eng": "Pri Ark! 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4162828",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/prism-ark/episodes/4162828",
+                    "Titles": {
+                        "eng": "Pri Ark! 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4162829",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/prism-ark/episodes/4162829",
+                    "Titles": {
+                        "eng": "Pri Ark! 3",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4162830",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/prism-ark/episodes/4162830",
+                    "Titles": {
+                        "eng": "Pri Ark! 4",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4162831",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/prism-ark/episodes/4162831",
+                    "Titles": {
+                        "eng": "Pri Ark! 5",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4162832",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/prism-ark/episodes/4162832",
+                    "Titles": {
+                        "eng": "Pri Ark! 6",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4193912",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/prism-ark/episodes/4193912",
+                    "Titles": {
+                        "eng": "Prism Magical - Prism Generations!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "63101",
+            "URL": "https://thetvdb.com/series/prism-ark/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "624751",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prism-ark/episodes/624751",
+                    "Titles": {
+                        "eng": "The Battlefield of Knights",
+                        "jpn": "騎士たちの戦場"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "624761",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prism-ark/episodes/624761",
+                    "Titles": {
+                        "eng": "The School of Knights",
+                        "jpn": "騎士たちの学園（はなぞの）"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "624771",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prism-ark/episodes/624771",
+                    "Titles": {
+                        "eng": "The Goals of Knights",
+                        "jpn": "騎士たちの目標"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "624781",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prism-ark/episodes/624781",
+                    "Titles": {
+                        "eng": "The Prides of Knights",
+                        "jpn": "騎士たちの誇り"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "624791",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prism-ark/episodes/624791",
+                    "Titles": {
+                        "eng": "The Ordeal for Knights",
+                        "jpn": "騎士たちの試練"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "624801",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prism-ark/episodes/624801",
+                    "Titles": {
+                        "eng": "The Day off for Knights",
+                        "jpn": "騎士たちの休日"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "624811",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prism-ark/episodes/624811",
+                    "Titles": {
+                        "eng": "The First campaign of Knights",
+                        "jpn": "騎士たちの初陣"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "624821",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prism-ark/episodes/624821",
+                    "Titles": {
+                        "eng": "Wandering Knights",
+                        "jpn": "彷徨う騎士たち"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "624831",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prism-ark/episodes/624831",
+                    "Titles": {
+                        "eng": "Knights meet again",
+                        "jpn": "再会する騎士たち"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "624841",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prism-ark/episodes/624841",
+                    "Titles": {
+                        "eng": "The Heart of Knights",
+                        "jpn": "騎士たちの剣魂（ハート）"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "624851",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prism-ark/episodes/624851",
+                    "Titles": {
+                        "eng": "The Dance of Knights",
+                        "jpn": "騎士たちの円舞"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "624861",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/prism-ark/episodes/624861",
+                    "Titles": {
+                        "eng": "The Ark of Knights",
+                        "jpn": "騎士たちの閃光（アーク）"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

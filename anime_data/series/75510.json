@@ -1,0 +1,100 @@
+{
+    "URL": "https://thetvdb.com/series/cosplay-complex",
+    "Genres": [
+        "Anime"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt4146020/",
+        "https://www.themoviedb.org/tv/35440"
+    ],
+    "Titles": {
+        "eng": "Cosplay Complex",
+        "jpn": "こすぷれCOMPLEX"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "22971",
+            "URL": "https://thetvdb.com/series/cosplay-complex/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "2503711",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cosplay-complex/episodes/2503711",
+                    "Titles": {
+                        "eng": "Identification 101",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5648754",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cosplay-complex/episodes/5648754",
+                    "Titles": {
+                        "eng": "Production Sketches",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5648755",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cosplay-complex/episodes/5648755",
+                    "Titles": {
+                        "eng": "Photos of Cosplay",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "8964",
+            "URL": "https://thetvdb.com/series/cosplay-complex/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "172458",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cosplay-complex/episodes/172458",
+                    "Titles": {
+                        "eng": "Round 1: The Cosplay Club is Born",
+                        "jpn": "ROUND1 コスプレ部誕生！"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "172460",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cosplay-complex/episodes/172460",
+                    "Titles": {
+                        "eng": "Round 2: Summer Training Camp of Charm",
+                        "jpn": "ROUND2 魅惑の夏合宿！！"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "172459",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/cosplay-complex/episodes/172459",
+                    "Titles": {
+                        "eng": "Round 3: The Final Battle: Showdown in the East Oizumi Academy Gym",
+                        "jpn": "ROUND3  決戦！大泉東学園体育館は赤く燃えている！"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "URL": "https://thetvdb.com/series/paradise-of-innocence",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt4006060/",
+        "https://www.themoviedb.org/tv/88156"
+    ],
+    "Titles": {
+        "eng": "Paradise of Innocence",
+        "jpn": "無邪気の楽園"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "601593",
+            "URL": "https://thetvdb.com/series/paradise-of-innocence/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "5031366",
+                    "TYPE": "OVA",
+                    "URL": "https://www.thetvdb.com/series/paradise-of-innocence/episodes/5031366",
+                    "Titles": {
+                        "eng": "OVA: Paradise of Miracles, Captured in Paradise, Insects and Paradise",
+                        "jpn": "OAD「奇跡の楽園／孤立無援の楽園／虫が誘う楽園」"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5376308",
+                    "TYPE": "OVA",
+                    "URL": "https://www.thetvdb.com/series/paradise-of-innocence/episodes/5376308",
+                    "Titles": {
+                        "eng": "OVA: Sketches in Paradise, Competition in Paradise",
+                        "jpn": "OAD「ストレッチの楽園／勝負の楽園」"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6056867",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/paradise-of-innocence/episodes/6056867",
+                    "Titles": {
+                        "eng": "OAD: 'Paradise in the pool / Paradise in the starry sky'",
+                        "jpn": "OAD「プールの楽園／星空の楽園」"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6056868",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/paradise-of-innocence/episodes/6056868",
+                    "Titles": {
+                        "eng": "OP 'full chorus version'",
+                        "jpn": "OP「フルコーラスバージョン」"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "627444",
+            "URL": "https://thetvdb.com/series/paradise-of-innocence/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "5266031",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/paradise-of-innocence/episodes/5266031",
+                    "Titles": {
+                        "eng": "Paradise of Miracles; Captured in Paradise; Insects and Paradise",
+                        "jpn": "奇跡の楽園／孤立無援の楽園／虫が誘う楽園"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5266032",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/paradise-of-innocence/episodes/5266032",
+                    "Titles": {
+                        "eng": "Sketches in Paradise; Competition in Paradise",
+                        "jpn": "ストレッチの楽園／勝負の楽園"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5750497",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/paradise-of-innocence/episodes/5750497",
+                    "Titles": {
+                        "eng": "Poolside Paradise/Overcoming in Paradise; Starry Paradise",
+                        "jpn": "プールの楽園／星空の楽園"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

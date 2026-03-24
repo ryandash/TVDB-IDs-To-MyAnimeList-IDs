@@ -1,0 +1,80 @@
+{
+    "URL": "https://thetvdb.com/series/everyones-daily-life",
+    "Genres": [
+        "Superhero"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt14017226/",
+        "https://www.themoviedb.org/tv/106432",
+        "https://www.themoviedb.org/tv/106432"
+    ],
+    "Titles": {
+        "eng": "Kamen Rider Zero-One Short Anime: Everyone's Daily Life",
+        "jpn": "仮面ライダーゼロワン・ショートアニメ: EVERYONE’S DAILY LIFE"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "1900239",
+            "URL": "https://thetvdb.com/series/everyones-daily-life/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "8190089",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/everyones-daily-life/episodes/8190089",
+                    "Titles": {
+                        "eng": "Izu Gives Him a Tour of Hiden",
+                        "jpn": "イズ、カレに飛電紹介するってよ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8190090",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/everyones-daily-life/episodes/8190090",
+                    "Titles": {
+                        "eng": "Fuwa and Yaiba Get Excited About That",
+                        "jpn": "不破と刃がアレでドキドキ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8190091",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/everyones-daily-life/episodes/8190091",
+                    "Titles": {
+                        "eng": "Their Secret Game",
+                        "jpn": "カレらのヒミツのゲーム"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "8190092",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/everyones-daily-life/episodes/8190092",
+                    "Titles": {
+                        "eng": "What Does He Do After That?",
+                        "jpn": "アイツ、アノ後ナニしてる？"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "8190107",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/everyones-daily-life/episodes/8190107",
+                    "Titles": {
+                        "eng": "This is My Dream",
+                        "jpn": "コレがオレの夢"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "URL": "https://thetvdb.com/series/voltage-fighter-gowcaizer",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/115869"
+    ],
+    "Titles": {
+        "eng": "Voltage Fighter Gowcaizer",
+        "jpn": "超人学園ゴウカイザー THE VOLTAGE FIGHTERS"
+    },
+    "Aliases": [
+        "Choujin Gakuen Gowcaizer"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "555097",
+            "URL": "https://thetvdb.com/series/voltage-fighter-gowcaizer/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "8572698",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/voltage-fighter-gowcaizer/episodes/8572698",
+                    "Titles": {
+                        "eng": "Voltage Fighters: Gowcaizer the Movie",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "498571",
+            "URL": "https://thetvdb.com/series/voltage-fighter-gowcaizer/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "4379760",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/voltage-fighter-gowcaizer/episodes/4379760",
+                    "Titles": {
+                        "eng": "Volume 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4379763",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/voltage-fighter-gowcaizer/episodes/4379763",
+                    "Titles": {
+                        "eng": "Volume 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4379765",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/voltage-fighter-gowcaizer/episodes/4379765",
+                    "Titles": {
+                        "eng": "Volume 3",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

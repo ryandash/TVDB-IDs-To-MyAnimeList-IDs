@@ -1,0 +1,49 @@
+{
+    "URL": "https://thetvdb.com/series/nu-xi-jia-zu-yin-mou",
+    "Genres": [
+        "Anime"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt21364936/",
+        "https://www.themoviedb.org/tv/97844"
+    ],
+    "Titles": {
+        "eng": "The Immorals",
+        "jpn": "女系家族 ~淫謀~"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "2178385",
+            "URL": "https://thetvdb.com/series/nu-xi-jia-zu-yin-mou/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "11043407",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nu-xi-jia-zu-yin-mou/episodes/11043407",
+                    "Titles": {
+                        "eng": "Episode 1",
+                        "jpn": "Inbou ep1"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11043408",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/nu-xi-jia-zu-yin-mou/episodes/11043408",
+                    "Titles": {
+                        "eng": "Episode 2",
+                        "jpn": "Inbou ep2"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

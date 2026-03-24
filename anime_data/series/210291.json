@@ -1,0 +1,109 @@
+{
+    "URL": "https://thetvdb.com/series/bungaku-shoujo",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Suspense"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/96737"
+    ],
+    "Titles": {
+        "eng": "Book Girl: Memoire",
+        "jpn": "\"文学少女\" メモワール"
+    },
+    "Aliases": [
+        "Bungaku Shoujo: Memoire",
+        "Literature Girl: Memoire",
+        "Book Girl Memories",
+        "\"Bungaku Shoujo\" Memoire",
+        "Bungaku Shōjo Memoir",
+        "Yume-Miru Shōjo no Prelude",
+        "Yumemiru Shoujo no Prelude",
+        "Sora-Mau Tenshi no Requiem",
+        "Sora Mau Tenshi no Requiem",
+        "Koi Suru Otome no Rhapsody",
+        "Koisuru Otome no Rhapsody",
+        "\"Bungaku shōjo\" memowāru",
+        "Bungaku shōjo memowāru"
+    ],
+    "Modified": "2024-01-25",
+    "Seasons": {
+        "0": {
+            "ID": "367971",
+            "URL": "https://thetvdb.com/series/bungaku-shoujo/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "3253061",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/bungaku-shoujo/episodes/3253061",
+                    "Titles": {
+                        "eng": "Today's Snack: First Love",
+                        "jpn": "今日のおやつ 〜はつ恋〜"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "3253051",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/bungaku-shoujo/episodes/3253051",
+                    "Titles": {
+                        "eng": "Book Girl",
+                        "jpn": "劇場版“文学少女”"
+                    },
+                    "Aliases": [
+                        "Bungaku Shōjo Movie"
+                    ]
+                }
+            }
+        },
+        "1": {
+            "ID": "367981",
+            "URL": "https://thetvdb.com/series/bungaku-shoujo/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "3252751",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/bungaku-shoujo/episodes/3252751",
+                    "Titles": {
+                        "eng": "Prelude of the Dreaming Girl",
+                        "jpn": "夢見る少女の前奏曲（プレリュード）/ Yumemiru Shoujo no Prelude"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "3252851",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/bungaku-shoujo/episodes/3252851",
+                    "Titles": {
+                        "eng": "Requiem of the Sky Dancing Angel",
+                        "jpn": "ソラ舞う天使の鎮魂曲（レクイエム） / Sora-Mau Tenshi no Requiem"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "3252841",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/bungaku-shoujo/episodes/3252841",
+                    "Titles": {
+                        "eng": "Rhapsody of the Girl in Love",
+                        "jpn": "恋する乙女の狂想曲（ラプソディ）/ Koisuru Otome no Rhapsody"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

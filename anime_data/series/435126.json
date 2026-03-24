@@ -1,0 +1,86 @@
+{
+    "URL": "https://thetvdb.com/series/435126-series",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.facebook.com/100089689373993",
+        "https://www.imdb.com/title/tt27721782/",
+        "https://www.instagram.com/bastions.sevenkey",
+        "https://bastions.kr/",
+        "https://www.themoviedb.org/tv/226226",
+        "https://x.com/BastionSevenKey"
+    ],
+    "Titles": {
+        "eng": "BASTIONS",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2023-11-27",
+    "Seasons": {
+        "1": {
+            "ID": "2064611",
+            "URL": "https://thetvdb.com/series/435126-series/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "9807528",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/435126-series/episodes/9807528",
+                    "Titles": {
+                        "eng": "Birth of a New Hero",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9807529",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/435126-series/episodes/9807529",
+                    "Titles": {
+                        "eng": "Someone Tell Me What to Do in This Situation",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9807530",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/435126-series/episodes/9807530",
+                    "Titles": {
+                        "eng": "Want to Forget but Can’t",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9807531",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/435126-series/episodes/9807531",
+                    "Titles": {
+                        "eng": "More and More",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "9807532",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/435126-series/episodes/9807532",
+                    "Titles": {
+                        "eng": "Episode 5",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

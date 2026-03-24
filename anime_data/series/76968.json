@@ -1,0 +1,129 @@
+{
+    "URL": "https://thetvdb.com/series/please-save-my-earth",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Drama",
+        "Fantasy",
+        "Romance",
+        "Science Fiction",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0256569/",
+        "https://www.themoviedb.org/tv/65967"
+    ],
+    "Titles": {
+        "eng": "Please Save My Earth",
+        "jpn": "ぼくの地球を守って"
+    },
+    "Aliases": [
+        "Boku no Chikyuu o Mamotte",
+        "Boku no Chikyuu wo Mamotte"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "534171",
+            "URL": "https://thetvdb.com/series/please-save-my-earth/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "5702946",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/please-save-my-earth/episodes/5702946",
+                    "Titles": {
+                        "eng": "Alice kara, Rin Kun e",
+                        "jpn": "総集編完全版 ～亜梨子から、輪くんへ～"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5702947",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/please-save-my-earth/episodes/5702947",
+                    "Titles": {
+                        "eng": "Kin'iro no Toki Nagarete",
+                        "jpn": "金色の時、流れて ミュージック・イメージ・ビデオ"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "11818",
+            "URL": "https://thetvdb.com/series/please-save-my-earth/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "222428",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/please-save-my-earth/episodes/222428",
+                    "Titles": {
+                        "eng": "Awakening",
+                        "jpn": "覚醒(めざ) め"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "222429",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/please-save-my-earth/episodes/222429",
+                    "Titles": {
+                        "eng": "Meeting",
+                        "jpn": "出会い"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "222430",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/please-save-my-earth/episodes/222430",
+                    "Titles": {
+                        "eng": "Memories",
+                        "jpn": "月の記憶"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "222431",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/please-save-my-earth/episodes/222431",
+                    "Titles": {
+                        "eng": "Feelings",
+                        "jpn": "想い"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "222432",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/please-save-my-earth/episodes/222432",
+                    "Titles": {
+                        "eng": "E.S.P.",
+                        "jpn": "｢E・S・P"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "222433",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/please-save-my-earth/episodes/222433",
+                    "Titles": {
+                        "eng": "Reincarnation",
+                        "jpn": "転生、そして……"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

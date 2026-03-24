@@ -1,0 +1,84 @@
+{
+    "URL": "https://thetvdb.com/series/saiyuki-gaiden",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Martial Arts"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt5791166/",
+        "https://www.themoviedb.org/tv/66854"
+    ],
+    "Titles": {
+        "eng": "Saiyuki Gaiden",
+        "jpn": "最遊記外伝"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "1979157",
+            "URL": "https://thetvdb.com/series/saiyuki-gaiden/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11200266",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/saiyuki-gaiden/episodes/11200266",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Saiyuki Gaiden: Fragment Chapter"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "1979158",
+            "URL": "https://thetvdb.com/series/saiyuki-gaiden/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "8960830",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/saiyuki-gaiden/episodes/8960830",
+                    "Titles": {
+                        "eng": "Episode 1",
+                        "jpn": "Episode 1"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8960831",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/saiyuki-gaiden/episodes/8960831",
+                    "Titles": {
+                        "eng": "Episode 2",
+                        "jpn": "Episode 2"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8960832",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/saiyuki-gaiden/episodes/8960832",
+                    "Titles": {
+                        "eng": "Episode 3",
+                        "jpn": "Episode 3"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

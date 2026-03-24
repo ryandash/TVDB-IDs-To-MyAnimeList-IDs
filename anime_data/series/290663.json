@@ -1,0 +1,77 @@
+{
+    "URL": "https://thetvdb.com/series/ogre-slayer",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0114030/",
+        "https://www.themoviedb.org/tv/45319"
+    ],
+    "Titles": {
+        "eng": "Ogre Slayer",
+        "jpn": "鬼切丸"
+    },
+    "Aliases": [
+        "Onikirimaru"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "609632",
+            "URL": "https://thetvdb.com/series/ogre-slayer/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "5101353",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ogre-slayer/episodes/5101353",
+                    "Titles": {
+                        "eng": "Chapter of Ozunu",
+                        "jpn": "ozunu no shō"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5101355",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ogre-slayer/episodes/5101355",
+                    "Titles": {
+                        "eng": "Chapter of Ohtakemaru",
+                        "jpn": "ōtakemaru no shō"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5101357",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ogre-slayer/episodes/5101357",
+                    "Titles": {
+                        "eng": "Chapter of Han'nya",
+                        "jpn": "han'nya no shō"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5101359",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/ogre-slayer/episodes/5101359",
+                    "Titles": {
+                        "eng": "Chapter of the Requiem of the Resentful",
+                        "jpn": "enki aika no shō"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

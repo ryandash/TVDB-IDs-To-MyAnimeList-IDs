@@ -1,0 +1,65 @@
+{
+    "URL": "https://thetvdb.com/series/borgman-2058",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Drama",
+        "Mini-Series",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt4087106/"
+    ],
+    "Titles": {
+        "eng": "Borgman 2058",
+        "jpn": "超音戦士ボーグマン2 [SECOND] -新世紀2058-"
+    },
+    "Aliases": [
+        "Sonic Soldier Borgman 2: A New Century 2058"
+    ],
+    "Modified": "2024-11-11",
+    "Seasons": {
+        "1": {
+            "ID": "621629",
+            "URL": "https://thetvdb.com/series/borgman-2058/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "5212387",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/borgman-2058/episodes/5212387",
+                    "Titles": {
+                        "eng": "ENDLESSS CITY",
+                        "jpn": "ENDLESSS CITY"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5212388",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/borgman-2058/episodes/5212388",
+                    "Titles": {
+                        "eng": "DOWN TOWN BLUSE",
+                        "jpn": "DOWN TOWN BLUSE"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5212389",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/borgman-2058/episodes/5212389",
+                    "Titles": {
+                        "eng": "LONELY PROLOGUE",
+                        "jpn": "LONELY PROLOGUE"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "URL": "https://thetvdb.com/series/411635-",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Fantasy",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt15400722/",
+        "https://www.themoviedb.org/tv/120471",
+        "https://www.themoviedb.org/tv/120471"
+    ],
+    "Titles": {
+        "eng": "The Ancient Magus' Bride: The Boy from the West and the Knight of the Blue Storm",
+        "jpn": "魔法使いの嫁 西の少年と青嵐の騎士"
+    },
+    "Aliases": [
+        "Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "1963604",
+            "URL": "https://thetvdb.com/series/411635-/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "8793672",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/411635-/episodes/8793672",
+                    "Titles": {
+                        "eng": "Don't be caught by the hunting party",
+                        "jpn": "第1話"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8793673",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/411635-/episodes/8793673",
+                    "Titles": {
+                        "eng": "I am what I look for. I am what I face",
+                        "jpn": "第2話"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8793674",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/411635-/episodes/8793674",
+                    "Titles": {
+                        "eng": "And the story begins again.",
+                        "jpn": "第3話"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

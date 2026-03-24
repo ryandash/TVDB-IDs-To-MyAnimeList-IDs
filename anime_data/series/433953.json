@@ -1,0 +1,290 @@
+{
+    "URL": "https://thetvdb.com/series/medalist",
+    "Genres": [
+        "Adaptation",
+        "Anime - Seinen"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt33310730/",
+        "https://medalist-pr.com/",
+        "http://www.reddit.com/r/Medalist",
+        "https://www.themoviedb.org/tv/237529",
+        "https://www.wikidata.org/wiki/Q118451823",
+        "https://en.wikipedia.org/wiki/Medalist_(manga)",
+        "https://x.com/medalist_PR",
+        "https://www.youtube.com/c/../@medalist_PR"
+    ],
+    "Titles": {
+        "eng": "Medalist",
+        "jpn": "メダリスト"
+    },
+    "Aliases": [
+        "Medarisuto"
+    ],
+    "Modified": "2026-03-22",
+    "Seasons": {
+        "0": {
+            "ID": "2059671",
+            "URL": "https://thetvdb.com/series/medalist/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11578388",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/medalist/episodes/11578388",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Sequel movie"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "2059672",
+            "URL": "https://thetvdb.com/series/medalist/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "9795436",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/medalist/episodes/9795436",
+                    "Titles": {
+                        "eng": "A Genius on the Ice",
+                        "jpn": "氷上の天才"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10849822",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/medalist/episodes/10849822",
+                    "Titles": {
+                        "eng": "Prelim Badge Test",
+                        "jpn": "初級バッジテスト"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10849823",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/medalist/episodes/10849823",
+                    "Titles": {
+                        "eng": "Taiyaki and Cake",
+                        "jpn": "たい焼きとケーキ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "10849824",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/medalist/episodes/10849824",
+                    "Titles": {
+                        "eng": "Meikoh Cup, Junior Women's Prelim Free Skating (Part One)",
+                        "jpn": "名港杯 初級女子FS（前）"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "10849825",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/medalist/episodes/10849825",
+                    "Titles": {
+                        "eng": "Meikoh Cup, Junior Women's Prelim Free Skating (Part Two)",
+                        "jpn": "名港杯 初級女子FS（後）"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "10849826",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/medalist/episodes/10849826",
+                    "Titles": {
+                        "eng": "The Night of the First Competition",
+                        "jpn": "初戦の夜"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "10849827",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/medalist/episodes/10849827",
+                    "Titles": {
+                        "eng": "Level One Badge Test",
+                        "jpn": "1級バッジテスト"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "10849828",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/medalist/episodes/10849828",
+                    "Titles": {
+                        "eng": "Western Powerhouses (Part One)",
+                        "jpn": "西の強豪（前）"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "10849829",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/medalist/episodes/10849829",
+                    "Titles": {
+                        "eng": "Western Powerhouses (Part Two)",
+                        "jpn": "西の強豪（後）"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "10849830",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/medalist/episodes/10849830",
+                    "Titles": {
+                        "eng": "Howling at Night",
+                        "jpn": "夜に吠える"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "10849831",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/medalist/episodes/10849831",
+                    "Titles": {
+                        "eng": "Dance the Night",
+                        "jpn": "夜を踊れ"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "10849832",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/medalist/episodes/10849832",
+                    "Titles": {
+                        "eng": "Shirone's Lesson",
+                        "jpn": "白猫のレッスン"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "10849833",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/medalist/episodes/10849833",
+                    "Titles": {
+                        "eng": "Morning Arrives",
+                        "jpn": "朝が来る"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "2179728",
+            "URL": "https://thetvdb.com/series/medalist/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 9,
+            "Episodes": {
+                "1": {
+                    "ID": "11058058",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/medalist/episodes/11058058",
+                    "Titles": {
+                        "eng": "The Athlete's Pledge",
+                        "jpn": "選手宣誓"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11522434",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/medalist/episodes/11522434",
+                    "Titles": {
+                        "eng": "My Cards",
+                        "jpn": "私のカード"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "11522435",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/medalist/episodes/11522435",
+                    "Titles": {
+                        "eng": "The Queen's Leap",
+                        "jpn": "女王のジャンプ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "11522436",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/medalist/episodes/11522436",
+                    "Titles": {
+                        "eng": "Ascendance",
+                        "jpn": "下剋上"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "11522437",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/medalist/episodes/11522437",
+                    "Titles": {
+                        "eng": "Beacon",
+                        "jpn": "狼煙"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "11522438",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/medalist/episodes/11522438",
+                    "Titles": {
+                        "eng": "Intensive Training",
+                        "jpn": "強化練習"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "11522439",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/medalist/episodes/11522439",
+                    "Titles": {
+                        "eng": "The Frozen Lake",
+                        "jpn": "氷の湖"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "11522440",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/medalist/episodes/11522440",
+                    "Titles": {
+                        "eng": "Hot Passion",
+                        "jpn": "熱血"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "11522441",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/medalist/episodes/11522441",
+                    "Titles": {
+                        "eng": "It Begins",
+                        "jpn": "開幕"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

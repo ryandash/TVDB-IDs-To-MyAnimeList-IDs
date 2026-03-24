@@ -1,0 +1,102 @@
+{
+    "URL": "https://thetvdb.com/series/trava-fist-planet",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Anime",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/131941"
+    ],
+    "Titles": {
+        "eng": "Trava: Fist Planet",
+        "jpn": "拉瓦拳星球"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "548475",
+            "URL": "https://thetvdb.com/series/trava-fist-planet/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "7044775",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/trava-fist-planet/episodes/7044775",
+                    "Titles": {
+                        "eng": "Trava: Fist Planet (Movie Edition)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7044782",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/trava-fist-planet/episodes/7044782",
+                    "Titles": {
+                        "eng": "Redline",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "466373",
+            "URL": "https://thetvdb.com/series/trava-fist-planet/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "4109543",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/trava-fist-planet/episodes/4109543",
+                    "Titles": {
+                        "eng": "Part 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4109544",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/trava-fist-planet/episodes/4109544",
+                    "Titles": {
+                        "eng": "Part 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4109545",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/trava-fist-planet/episodes/4109545",
+                    "Titles": {
+                        "eng": "Part 3",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4109546",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/trava-fist-planet/episodes/4109546",
+                    "Titles": {
+                        "eng": "Part 4",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

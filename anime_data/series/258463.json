@@ -1,0 +1,82 @@
+{
+    "URL": "https://thetvdb.com/series/super-atragon",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0303104/"
+    ],
+    "Titles": {
+        "eng": "Super Atragon",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2025-04-22",
+    "Seasons": {
+        "0": {
+            "ID": "490966",
+            "URL": "https://thetvdb.com/series/super-atragon/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4314572",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-atragon/episodes/4314572",
+                    "Titles": {
+                        "eng": "Episode 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4314573",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-atragon/episodes/4314573",
+                    "Titles": {
+                        "eng": "Episode 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "490967",
+            "URL": "https://thetvdb.com/series/super-atragon/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4314570",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-atragon/episodes/4314570",
+                    "Titles": {
+                        "eng": "Zero Hour to Destruction",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4725653",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-atragon/episodes/4725653",
+                    "Titles": {
+                        "eng": "Memories of the Ocean",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

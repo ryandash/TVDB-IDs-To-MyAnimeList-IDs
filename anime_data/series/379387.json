@@ -1,0 +1,72 @@
+{
+    "URL": "https://thetvdb.com/series/379387-",
+    "Genres": [
+        "Anime",
+        "Comedy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/113153"
+    ],
+    "Titles": {
+        "eng": "Star Cat Full House",
+        "jpn": "星猫フルハウス"
+    },
+    "Aliases": [
+        "Hoshi Neko Full House"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "1830725",
+            "URL": "https://thetvdb.com/series/379387-/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "8225121",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/379387-/episodes/8225121",
+                    "Titles": {
+                        "eng": "Humanity at Present: One Man and Three Beautiful Girls",
+                        "jpn": "Unknown"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8225122",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/379387-/episodes/8225122",
+                    "Titles": {
+                        "eng": "A Talkative Star Cat",
+                        "jpn": "Unknown"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8225123",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/379387-/episodes/8225123",
+                    "Titles": {
+                        "eng": "Everyone's Naked on a Shuddering Earth",
+                        "jpn": "Unknown"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "8225124",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/379387-/episodes/8225124",
+                    "Titles": {
+                        "eng": "Chiraku Goes to Heaven",
+                        "jpn": "Unknown"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "URL": "https://thetvdb.com/series/my-dear-marie",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0300194/",
+        "https://www.themoviedb.org/tv/105650"
+    ],
+    "Titles": {
+        "eng": "My Dear Marie",
+        "jpn": "ぼくのマリー"
+    },
+    "Aliases": [
+        "Boku no Marie"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "493195",
+            "URL": "https://thetvdb.com/series/my-dear-marie/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "4332349",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/my-dear-marie/episodes/4332349",
+                    "Titles": {
+                        "eng": "The Birth of Marie",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4332350",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/my-dear-marie/episodes/4332350",
+                    "Titles": {
+                        "eng": "The Appearance of Hibiki Kennou",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4332348",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/my-dear-marie/episodes/4332348",
+                    "Titles": {
+                        "eng": "Dreaming Android",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

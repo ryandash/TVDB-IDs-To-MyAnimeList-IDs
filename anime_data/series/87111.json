@@ -1,0 +1,129 @@
+{
+    "URL": "https://thetvdb.com/series/starship-troopers-ova",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0161032/",
+        "https://www.themoviedb.org/tv/79334"
+    ],
+    "Titles": {
+        "eng": "Starship Troopers",
+        "jpn": "宇宙の戦士 (アニメ)"
+    },
+    "Aliases": [
+        "Universal Warriors",
+        "Universal Soldiers",
+        "Soldier of Space",
+        "Uchû no senshi"
+    ],
+    "Modified": "2026-03-08",
+    "Seasons": {
+        "0": {
+            "ID": "538938",
+            "URL": "https://thetvdb.com/series/starship-troopers-ova/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "5653858",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/starship-troopers-ova/episodes/5653858",
+                    "Titles": {
+                        "eng": "Movie 1 - Invasion",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6554183",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/starship-troopers-ova/episodes/6554183",
+                    "Titles": {
+                        "eng": "Movie 2 - Traitor of Mars",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "46151",
+            "URL": "https://thetvdb.com/series/starship-troopers-ova/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "483761",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starship-troopers-ova/episodes/483761",
+                    "Titles": {
+                        "eng": "Johnny",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "483771",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starship-troopers-ova/episodes/483771",
+                    "Titles": {
+                        "eng": "Hendrick",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "483781",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starship-troopers-ova/episodes/483781",
+                    "Titles": {
+                        "eng": "Maria",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "483791",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starship-troopers-ova/episodes/483791",
+                    "Titles": {
+                        "eng": "Greg",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "483801",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starship-troopers-ova/episodes/483801",
+                    "Titles": {
+                        "eng": "Cherenkov",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "483811",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/starship-troopers-ova/episodes/483811",
+                    "Titles": {
+                        "eng": "Carmencita",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

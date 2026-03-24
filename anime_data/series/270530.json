@@ -1,0 +1,81 @@
+{
+    "URL": "https://thetvdb.com/series/quiz-magic-academy",
+    "Genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt3422232/"
+    ],
+    "Titles": {
+        "eng": "Quiz Magic Academy",
+        "jpn": "クイズマジックアカデミーOVA"
+    },
+    "Aliases": [],
+    "Modified": "2025-06-20",
+    "Seasons": {
+        "0": {
+            "ID": "522089",
+            "URL": "https://thetvdb.com/series/quiz-magic-academy/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4587119",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/quiz-magic-academy/episodes/4587119",
+                    "Titles": {
+                        "eng": "The Original Animation - Quiz Magic Academy",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4587120",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/quiz-magic-academy/episodes/4587120",
+                    "Titles": {
+                        "eng": "The Original Animation 2 - Quiz Magic Academy",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "820481",
+            "URL": "https://thetvdb.com/series/quiz-magic-academy/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "7305298",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/quiz-magic-academy/episodes/7305298",
+                    "Titles": {
+                        "eng": "Quiz Magic Academy The Original Animation",
+                        "jpn": "Episode 1"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10725824",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/quiz-magic-academy/episodes/10725824",
+                    "Titles": {
+                        "eng": "Quiz Magic Academy The Original Animation 2",
+                        "jpn": "Episode 2"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

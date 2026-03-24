@@ -1,0 +1,515 @@
+{
+    "URL": "https://thetvdb.com/series/super-shiro",
+    "Genres": [
+        "Superhero"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt9845246/",
+        "https://www.instagram.com/super_shiro_official/",
+        "https://www.shinchan-app.jp/super-shiro/",
+        "http://www.reddit.com/r/SuperShiro/",
+        "https://www.themoviedb.org/tv/94572",
+        "https://x.com/supershiro_info"
+    ],
+    "Titles": {
+        "eng": "Super Shiro",
+        "jpn": "SUPER SHIRO"
+    },
+    "Aliases": [
+        "スーパーシロ"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "1836087",
+            "URL": "https://thetvdb.com/series/super-shiro/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 48,
+            "Episodes": {
+                "1": {
+                    "ID": "7698075",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7698075",
+                    "Titles": {
+                        "eng": "Shiro Is a Super Hero",
+                        "jpn": "シロはスーパーヒーロー"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7707028",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707028",
+                    "Titles": {
+                        "eng": "The Wack Snack Factory",
+                        "jpn": "おかしなおかし工場"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7707029",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707029",
+                    "Titles": {
+                        "eng": "A Jewel Is the Bobobobo-bone",
+                        "jpn": "宝石はボボボボボーン"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7707030",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707030",
+                    "Titles": {
+                        "eng": "Steal the Eggs!",
+                        "jpn": "たまごを奪え!"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7707032",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707032",
+                    "Titles": {
+                        "eng": "In the Pond...",
+                        "jpn": "池の中は..."
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "7707033",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707033",
+                    "Titles": {
+                        "eng": "Summer Break Exercises with Shinnosuke",
+                        "jpn": "しんのすけと夏休み体操"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "7707035",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707035",
+                    "Titles": {
+                        "eng": "The Fun Museum",
+                        "jpn": "楽しい博物館"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "7707037",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707037",
+                    "Titles": {
+                        "eng": "The Rope Bridge Rhapsody",
+                        "jpn": "吊り橋ラプソディ"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "7707038",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707038",
+                    "Titles": {
+                        "eng": "The Hardworking Ants",
+                        "jpn": "働きもののアリさん"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "7707039",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707039",
+                    "Titles": {
+                        "eng": "Can`t Handle the Cold",
+                        "jpn": "寒いのは苦手"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "7707040",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707040",
+                    "Titles": {
+                        "eng": "Follow the Balloon!",
+                        "jpn": "風船を追え!"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "7707041",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707041",
+                    "Titles": {
+                        "eng": "Birth of a Super Hero",
+                        "jpn": "スーパーなヒーロー誕生"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "7707042",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707042",
+                    "Titles": {
+                        "eng": "Wild Canned Food",
+                        "jpn": "ワイルドな缶詰"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "7707043",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707043",
+                    "Titles": {
+                        "eng": "The Beautiful CanCan",
+                        "jpn": "麗しのキャンキャン"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "7707044",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707044",
+                    "Titles": {
+                        "eng": "Jolly Bowling",
+                        "jpn": "ゆかいなボウリング"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "7707047",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707047",
+                    "Titles": {
+                        "eng": "Forgotten Umbrellas",
+                        "jpn": "傘は忘れがち"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "7707049",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707049",
+                    "Titles": {
+                        "eng": "The Dangerous Construction Site",
+                        "jpn": "きけんな工事現場"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "7707051",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707051",
+                    "Titles": {
+                        "eng": "Bottles, Bottles, Bottles",
+                        "jpn": "ビン・ビン・ビン"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "7707054",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707054",
+                    "Titles": {
+                        "eng": "Showdown in the Corn Field",
+                        "jpn": "決闘はとうもろこし畑で"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "7707056",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707056",
+                    "Titles": {
+                        "eng": "CanCan Loves the Swings",
+                        "jpn": "キャンキャンはブランコがお好き"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "7707057",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707057",
+                    "Titles": {
+                        "eng": "Mayhem While Fishing for Sardines",
+                        "jpn": "ワカサギ釣りで大騒動"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "7707068",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707068",
+                    "Titles": {
+                        "eng": "Quiet During Nap Time",
+                        "jpn": "お昼寝中はおしずかに"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "7707069",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707069",
+                    "Titles": {
+                        "eng": "Welcome to the Space Museum",
+                        "jpn": "ようこそ宇宙博物館へ"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "7707071",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707071",
+                    "Titles": {
+                        "eng": "Dekapoo, Aim to Be World President",
+                        "jpn": "デカプー, 世界大統領をめざす"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "7707073",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707073",
+                    "Titles": {
+                        "eng": "The Sweet Life of Honey Bees",
+                        "jpn": "ミツバチの甘い生活"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "7707075",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707075",
+                    "Titles": {
+                        "eng": "The Scary Professor's Mansion",
+                        "jpn": "こわ~い博士の館"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "7707077",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707077",
+                    "Titles": {
+                        "eng": "Don't Move!",
+                        "jpn": "動いちゃダメ!"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "7707079",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707079",
+                    "Titles": {
+                        "eng": "Muscles! Muscles! Muscles!",
+                        "jpn": "マッスル! マッスル! マッスル!"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "7707085",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707085",
+                    "Titles": {
+                        "eng": "Take Care of Your Teeth",
+                        "jpn": "歯は大切に"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "7707086",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707086",
+                    "Titles": {
+                        "eng": "The Doberman's Favorite",
+                        "jpn": "ドーベルマンのお気た入り"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "7707088",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707088",
+                    "Titles": {
+                        "eng": "Having Fun Picking Mushrooms",
+                        "jpn": "楽しいきのこ狩り"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "7707089",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707089",
+                    "Titles": {
+                        "eng": "The Show-off Sing-off",
+                        "jpn": "自慢ののと自慢"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "7707091",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707091",
+                    "Titles": {
+                        "eng": "The Trash House in the Pond",
+                        "jpn": "池の中のゴミ屋敷"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "7707092",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7707092",
+                    "Titles": {
+                        "eng": "A Hero's Holiday",
+                        "jpn": "ヒーローの休日"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "7774344",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7774344",
+                    "Titles": {
+                        "eng": "Adventures in the Jungle",
+                        "jpn": "ジャングルで大冒険"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "7774345",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7774345",
+                    "Titles": {
+                        "eng": "The Daily Life of CanCan",
+                        "jpn": "キャンキャンの日常"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "7774346",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7774346",
+                    "Titles": {
+                        "eng": "Shiro Becomes a Ninja",
+                        "jpn": "シロ、忍者になる"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "7774347",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7774347",
+                    "Titles": {
+                        "eng": "The Secrets  of the Badge",
+                        "jpn": "バッジの秘密"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "7808858",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7808858",
+                    "Titles": {
+                        "eng": "The Life of Ants",
+                        "jpn": "アリさんの生活"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "7808860",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7808860",
+                    "Titles": {
+                        "eng": "Sunday Golf",
+                        "jpn": "日曜日のゴルフ"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "7808864",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7808864",
+                    "Titles": {
+                        "eng": "One Sleepless Night",
+                        "jpn": "眠れない夜"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "7808866",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7808866",
+                    "Titles": {
+                        "eng": "The Hero Catches a Cold",
+                        "jpn": "ヒーロー、風邪をひく"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "7808869",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7808869",
+                    "Titles": {
+                        "eng": "Run, Flee, and Follow",
+                        "jpn": "走って、逃げて、追いかけろ"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "7808872",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7808872",
+                    "Titles": {
+                        "eng": "The Mysterious Bobobobo-bone",
+                        "jpn": "不思議なボボボボボーン"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "7808875",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7808875",
+                    "Titles": {
+                        "eng": "Popopopo-popcorn",
+                        "jpn": "ポポポポポップコーン"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "7808876",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7808876",
+                    "Titles": {
+                        "eng": "The Marvelous Laundry",
+                        "jpn": "華麗なる洗濯物"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "7808878",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7808878",
+                    "Titles": {
+                        "eng": "The Big Watermelon",
+                        "jpn": "大きなスイカ"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "7808880",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/super-shiro/episodes/7808880",
+                    "Titles": {
+                        "eng": "Midnight at the Department Store",
+                        "jpn": "真夜中のデパート"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

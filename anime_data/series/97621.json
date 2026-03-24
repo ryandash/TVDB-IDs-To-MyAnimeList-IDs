@@ -1,0 +1,528 @@
+{
+    "URL": "https://thetvdb.com/series/fireball",
+    "Genres": [
+        "Anime - Seinen",
+        "Political",
+        "Slapstick Comedy",
+        "Steampunk"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1211530/",
+        "https://web.archive.org/web/20160305022118/http://www.disneychannel.jp/fireball/index.php",
+        "http://www.reddit.com/r/fireballdisney/",
+        "https://www.tvmaze.com/shows/15751/fireball-charming/show-slug",
+        "https://www.themoviedb.org/tv/21326",
+        "https://en.wikipedia.org/wiki/Fireball_(TV_series)",
+        "https://x.com/disneyfireball"
+    ],
+    "Titles": {
+        "eng": "Fireball",
+        "jpn": "ファイアボール"
+    },
+    "Aliases": [
+        "Fireball Charming",
+        "Fireball Humorous",
+        "Gebäude Bäude",
+        "ファイアボール チャーミング",
+        "ファイアボール ユーモラス",
+        "ゲボイデ-ボイデ"
+    ],
+    "Modified": "2025-10-01",
+    "Seasons": {
+        "0": {
+            "ID": "74141",
+            "URL": "https://thetvdb.com/series/fireball/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "4090844",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/4090844",
+                    "Titles": {
+                        "eng": "Making of Fireball",
+                        "jpn": "メイキング・オブ・ファイアボール"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7950871",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/7950871",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ファイアボール ユーモラス DlifeコラボCM 「ココで見ル、タダで見ル。」篇"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7950872",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/7950872",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ファイアボール ユーモラス 第01話予告"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7950875",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/7950875",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ファイアボール ユーモラス 第02話予告"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7950876",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/7950876",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ファイアボール ユーモラス 第03話予告"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "91271",
+            "URL": "https://thetvdb.com/series/fireball/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "861481",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/861481",
+                    "Titles": {
+                        "eng": "Delphinus",
+                        "jpn": "その水棲動物をみよ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "861491",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/861491",
+                    "Titles": {
+                        "eng": "9:25",
+                        "jpn": "9:25"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "861501",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/861501",
+                    "Titles": {
+                        "eng": "Flügel",
+                        "jpn": "イルカが飛んだ日"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "861511",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/861511",
+                    "Titles": {
+                        "eng": "Epistles",
+                        "jpn": "セントエルモの火"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "861521",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/861521",
+                    "Titles": {
+                        "eng": "Klein Bottle",
+                        "jpn": "前頭葉の悪魔"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "861531",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/861531",
+                    "Titles": {
+                        "eng": "Pulse",
+                        "jpn": "ゆるぎないこころ"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "861541",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/861541",
+                    "Titles": {
+                        "eng": "Prophecy",
+                        "jpn": "プロフェシー"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "861551",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/861551",
+                    "Titles": {
+                        "eng": "Monkeys",
+                        "jpn": "座面の猿"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "861561",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/861561",
+                    "Titles": {
+                        "eng": "Mimesis",
+                        "jpn": "バタフライ"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "861571",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/861571",
+                    "Titles": {
+                        "eng": "Terminus",
+                        "jpn": "終着駅"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "861581",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/861581",
+                    "Titles": {
+                        "eng": "Saboteurs",
+                        "jpn": "侵入者たち"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "861591",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/861591",
+                    "Titles": {
+                        "eng": "An Eye",
+                        "jpn": "虚像の眼"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "861601",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/861601",
+                    "Titles": {
+                        "eng": "Twilight",
+                        "jpn": "夢の生まれる場所"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "460421",
+            "URL": "https://thetvdb.com/series/fireball/seasons/official/2",
+            "Titles": {
+                "eng": "Charming",
+                "jpn": "チャーミング"
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "4052941",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/4052941",
+                    "Titles": {
+                        "eng": "The Bootstrap Continuum",
+                        "jpn": "ブートストラップ連続体"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4052951",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/4052951",
+                    "Titles": {
+                        "eng": "Trojan Horse",
+                        "jpn": "トロイに木馬"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4052961",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/4052961",
+                    "Titles": {
+                        "eng": "Klein Bottle-Healer",
+                        "jpn": "クラインの壷直し"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4052971",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/4052971",
+                    "Titles": {
+                        "eng": "The Empty Universe",
+                        "jpn": "うつろな宇宙"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4052981",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/4052981",
+                    "Titles": {
+                        "eng": "The Dining Table Of Champions",
+                        "jpn": "チャンピオンたちの食卓"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4053001",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/4053001",
+                    "Titles": {
+                        "eng": "Brain Salad Symposium",
+                        "jpn": "恐怖の頭脳会議"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4053011",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/4053011",
+                    "Titles": {
+                        "eng": "Wuthering Heights",
+                        "jpn": "嵐が丘"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4053021",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/4053021",
+                    "Titles": {
+                        "eng": "Gauntlet",
+                        "jpn": "ガントレット"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4053031",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/4053031",
+                    "Titles": {
+                        "eng": "Rules Of The Game",
+                        "jpn": "ゲームの規則"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4053041",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/4053041",
+                    "Titles": {
+                        "eng": "Now Wait for Last Year",
+                        "jpn": "去年を待ちながら"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4053051",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/4053051",
+                    "Titles": {
+                        "eng": "Limbo",
+                        "jpn": "リンボ"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4053061",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/4053061",
+                    "Titles": {
+                        "eng": "The Spinning Wheel Of Gravity",
+                        "jpn": "重力の糸車"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4053071",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/4053071",
+                    "Titles": {
+                        "eng": "Loveless",
+                        "jpn": "アイなき世界"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "733186",
+            "URL": "https://thetvdb.com/series/fireball/seasons/official/3",
+            "Titles": {
+                "eng": "Humorous",
+                "jpn": "ユーモラス"
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "6354389",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/6354389",
+                    "Titles": {
+                        "eng": "The World To Come",
+                        "jpn": "きたるべき世界"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6363641",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/6363641",
+                    "Titles": {
+                        "eng": "Heart Of Gold",
+                        "jpn": "黄金のこころ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6363642",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/6363642",
+                    "Titles": {
+                        "eng": "The Hyperion Intersection",
+                        "jpn": "ハイペリオン交点"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "4": {
+            "ID": "1879913",
+            "URL": "https://thetvdb.com/series/fireball/seasons/official/4",
+            "Titles": {
+                "eng": "Gebäude Bäude",
+                "jpn": "ゲボイデ＝ボイデ"
+            },
+            "# Episodes": 10,
+            "Episodes": {
+                "1": {
+                    "ID": "8038810",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/8038810",
+                    "Titles": {
+                        "eng": "Imaginary Border",
+                        "jpn": "辰砂暦39298年　まぼろしの国境線"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8038814",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/8038814",
+                    "Titles": {
+                        "eng": "No Signal",
+                        "jpn": "辰砂暦39314年　テセウスから遠く圏外"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8038821",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/8038821",
+                    "Titles": {
+                        "eng": "Please Stand By",
+                        "jpn": "しばらくお待ちください"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "8038824",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/8038824",
+                    "Titles": {
+                        "eng": "Event Horizon",
+                        "jpn": "事象の地平線"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "8038826",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/8038826",
+                    "Titles": {
+                        "eng": "Hugin, Munin",
+                        "jpn": "フギン・ムニン"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "8142463",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/8142463",
+                    "Titles": {
+                        "eng": "Nearly Harmless",
+                        "jpn": "おおむね無害"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "8142464",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/8142464",
+                    "Titles": {
+                        "eng": "White Night",
+                        "jpn": "ユグドラシルの長い午後"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "8142465",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/8142465",
+                    "Titles": {
+                        "eng": "Valkyrie",
+                        "jpn": "ワルキューレ"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "8142466",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/8142466",
+                    "Titles": {
+                        "eng": "Lagrangian Point",
+                        "jpn": "ラグランジュの暗点"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "8142467",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/fireball/episodes/8142467",
+                    "Titles": {
+                        "eng": "The Method Of Bungee Jumping (Ariadne's Thread)",
+                        "jpn": "バンジージャンプ・メソッド（アリアドネの糸）"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

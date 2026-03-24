@@ -1,0 +1,83 @@
+{
+    "URL": "https://thetvdb.com/series/uzumaki",
+    "Genres": [
+        "Adaptation",
+        "Anime - Seinen"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/A06D-908D-0A85-FBC2-ED35-D",
+        "https://www.imdb.com/title/tt10905902/",
+        "https://www.adultswim.com/videos/uzumaki",
+        "http://www.reddit.com/r/Uzumaki",
+        "https://www.tvmaze.com/shows/46565/show-slug",
+        "https://www.themoviedb.org/tv/93241",
+        "https://www.wikidata.org/wiki/Q98582069",
+        "https://en.wikipedia.org/wiki/Uzumaki",
+        "https://x.com/UzumakiAnime1"
+    ],
+    "Titles": {
+        "eng": "Uzumaki",
+        "jpn": "うずまき"
+    },
+    "Aliases": [
+        "Uzumaki",
+        "UZUMAKI: Animated TV Series",
+        "The Spiral",
+        "Spiral",
+        "Uzumaki: Spiral Into Horror"
+    ],
+    "Modified": "2026-03-05",
+    "Seasons": {
+        "1": {
+            "ID": "824408",
+            "URL": "https://thetvdb.com/series/uzumaki/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "7341873",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/uzumaki/episodes/7341873",
+                    "Titles": {
+                        "eng": "Episode 1",
+                        "jpn": "第1話"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7341874",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/uzumaki/episodes/7341874",
+                    "Titles": {
+                        "eng": "Episode 2",
+                        "jpn": "第2話"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7341875",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/uzumaki/episodes/7341875",
+                    "Titles": {
+                        "eng": "Episode 3",
+                        "jpn": "第3話"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7341876",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/uzumaki/episodes/7341876",
+                    "Titles": {
+                        "eng": "Episode 4",
+                        "jpn": "第4話"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

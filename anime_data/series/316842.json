@@ -1,0 +1,943 @@
+{
+    "URL": "https://thetvdb.com/series/the-ancient-magus-bride",
+    "Genres": [
+        "Adaptation",
+        "Anime - Shonen"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/15A6-D826-5D6F-34CE-96AC-V",
+        "https://www.imdb.com/title/tt7326322/",
+        "http://mahoyome.jp/",
+        "http://www.reddit.com/r/AncientMagusBride",
+        "https://www.tvmaze.com/shows/31395/show-slug",
+        "https://www.themoviedb.org/tv/73833",
+        "https://www.wikidata.org/wiki/Q18460519",
+        "https://en.wikipedia.org/wiki/The_Ancient_Magus%27_Bride",
+        "https://x.com/mahoyomeproject"
+    ],
+    "Titles": {
+        "eng": "The Ancient Magus' Bride",
+        "jpn": "魔法使いの嫁"
+    },
+    "Aliases": [
+        "The Magician's Bride",
+        "The Ancient Magus Bride",
+        "The Ancient Magus' Bride: Those Awaiting a Star",
+        "Mahou Tsukai no Yome: Hoshi Matsu Hito",
+        "魔法使いの嫁 星待つひと",
+        "Mahou Tsukai no Yome",
+        "Mahoutsukai no Yome"
+    ],
+    "Modified": "2026-01-27",
+    "Seasons": {
+        "0": {
+            "ID": "680535",
+            "URL": "https://thetvdb.com/series/the-ancient-magus-bride/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 39,
+            "Episodes": {
+                "1": {
+                    "ID": "6019757",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6019757",
+                    "Titles": {
+                        "eng": "The Ancient Magus' Bride: Those Awaiting a Star 1",
+                        "jpn": "魔法使いの嫁 星待つひと：前篇"
+                    },
+                    "Aliases": [
+                        "Mahoutsukai no Yome: Hoshi Matsu Hito: Zenpen"
+                    ]
+                },
+                "2": {
+                    "ID": "5785010",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/5785010",
+                    "Titles": {
+                        "eng": "The Ancient Magus' Bride: Those Awaiting a Star 2",
+                        "jpn": "魔法使いの嫁 星待つひと：中篇"
+                    },
+                    "Aliases": [
+                        "Mahoutsukai no Yome: Hoshi Matsu Hito: Chuuhen"
+                    ]
+                },
+                "3": {
+                    "ID": "5785011",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/5785011",
+                    "Titles": {
+                        "eng": "The Ancient Magus' Bride: Those Awaiting a Star 3",
+                        "jpn": "魔法使いの嫁 星待つひと：後篇"
+                    },
+                    "Aliases": [
+                        "Mahoutsukai no Yome: Hoshi Matsu Hito: Kouhen"
+                    ]
+                },
+                "4": {
+                    "ID": "6407429",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407429",
+                    "Titles": {
+                        "eng": "MahoYome 0 - Greetings",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6407431",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407431",
+                    "Titles": {
+                        "eng": "MahoYome 1 - MahoYome",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6407434",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407434",
+                    "Titles": {
+                        "eng": "MahoYome 2 - The Dinner Table",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6407435",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407435",
+                    "Titles": {
+                        "eng": "MahoYome 3 - Trip",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6407457",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407457",
+                    "Titles": {
+                        "eng": "MahoYome 4 - Halloween",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6407464",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407464",
+                    "Titles": {
+                        "eng": "MahoYome 5 - Magic",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6407474",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407474",
+                    "Titles": {
+                        "eng": "MahoYome 6 - Pet Food",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6407476",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407476",
+                    "Titles": {
+                        "eng": "MahoYome 7 - Thanks",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6407477",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407477",
+                    "Titles": {
+                        "eng": "MahoYome 8 - Sleeping Position",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "6407478",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407478",
+                    "Titles": {
+                        "eng": "MahoYome 9 - Snacks",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "6407479",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407479",
+                    "Titles": {
+                        "eng": "MahoYome 10 - New Creation",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "6407480",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407480",
+                    "Titles": {
+                        "eng": "MahoYome 11 - Preference",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "6407481",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407481",
+                    "Titles": {
+                        "eng": "MahoYome 12 - Socks",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "6407482",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407482",
+                    "Titles": {
+                        "eng": "MahoYome 13 - Silky's Job",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "6407483",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407483",
+                    "Titles": {
+                        "eng": "MahoYome 14 - Frisbee",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "6407484",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407484",
+                    "Titles": {
+                        "eng": "MahoYome 15 - Pain",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "6407485",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407485",
+                    "Titles": {
+                        "eng": "MahoYome 16 - Shogi",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "6407488",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407488",
+                    "Titles": {
+                        "eng": "MahoYome 17 - Bone",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "6407489",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407489",
+                    "Titles": {
+                        "eng": "MahoYome 18 - Medicinal Plant Gathering",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "6407491",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407491",
+                    "Titles": {
+                        "eng": "MahoYome 19 - Fish Pie",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "6407492",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407492",
+                    "Titles": {
+                        "eng": "MahoYome 20 - Bath",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "6407493",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407493",
+                    "Titles": {
+                        "eng": "MahoYome 21 - Outfits",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "6407494",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407494",
+                    "Titles": {
+                        "eng": "MahoYome 22 - Regret",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "6407495",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407495",
+                    "Titles": {
+                        "eng": "MahoYome 23 - Letter",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "6407496",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6407496",
+                    "Titles": {
+                        "eng": "MahoYome 24 - Embrace",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "9056669",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/9056669",
+                    "Titles": {
+                        "eng": "MahoYome 25 - Mouse",
+                        "jpn": "まほよめ 第25話 「ねずみ」"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "9056670",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/9056670",
+                    "Titles": {
+                        "eng": "MahoYome 26 - Condition",
+                        "jpn": "まほよめ 第26話 「じょうけん」"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "9056671",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/9056671",
+                    "Titles": {
+                        "eng": "MahoYome 27 - Gardening",
+                        "jpn": "まほよめ 第27話 「ガーデニング」"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "9056672",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/9056672",
+                    "Titles": {
+                        "eng": "MahoYome 28 - Lid",
+                        "jpn": "まほよめ 第28話 「ふた」"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "9056673",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/9056673",
+                    "Titles": {
+                        "eng": "MahoYome 29 - Rule",
+                        "jpn": "まほよめ 第29話 「るーる」"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "9056674",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/9056674",
+                    "Titles": {
+                        "eng": "MahoYome 30 - Medicine",
+                        "jpn": "まほよめ 第30話 「おくすり」"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "6474250",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6474250",
+                    "Titles": {
+                        "eng": "Episode 12.5 - Recap",
+                        "jpn": "魔法使いの嫁 スペシャルダイジェスト"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "8272191",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/8272191",
+                    "Titles": {
+                        "eng": "The Boy from the West and the Knight of the Blue Storm I",
+                        "jpn": "西の少年と青嵐の騎士 前篇"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "8272192",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/8272192",
+                    "Titles": {
+                        "eng": "The Boy from the West and the Knight of the Blue Storm II",
+                        "jpn": "西の少年と青嵐の騎士 中篇"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "8272193",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/8272193",
+                    "Titles": {
+                        "eng": "The Boy from the West and the Knight of the Blue Storm III",
+                        "jpn": "西の少年と青嵐の騎士 後篇"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "10607046",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/10607046",
+                    "Titles": {
+                        "eng": "Chise is Going to College PV",
+                        "jpn": "『魔法使いの嫁 学院篇』コミックス宣伝PV"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "716552",
+            "URL": "https://thetvdb.com/series/the-ancient-magus-bride/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 24,
+            "Episodes": {
+                "1": {
+                    "ID": "6139159",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6139159",
+                    "Titles": {
+                        "eng": "April showers bring May flowers.",
+                        "jpn": "April showers bring May flowers."
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6139160",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6139160",
+                    "Titles": {
+                        "eng": "One today is worth two tomorrows.",
+                        "jpn": "One today is worth two tomorrows."
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6139161",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6139161",
+                    "Titles": {
+                        "eng": "The balance distinguishes not between gold and lead.",
+                        "jpn": "The balance distinguishes not between gold and lead."
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6139274",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6139274",
+                    "Titles": {
+                        "eng": "Everything must have a beginning.",
+                        "jpn": "Everything must have a beginning."
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6139275",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6139275",
+                    "Titles": {
+                        "eng": "Love conquers all.",
+                        "jpn": "Love conquers all."
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6139276",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6139276",
+                    "Titles": {
+                        "eng": "The Faerie Queene.",
+                        "jpn": "The Faerie Queene."
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6139277",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6139277",
+                    "Titles": {
+                        "eng": "Talk of the devil, and he is sure to appear.",
+                        "jpn": "Talk of the devil, and he is sure to appear."
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6139278",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6139278",
+                    "Titles": {
+                        "eng": "Let sleeping dogs lie.",
+                        "jpn": "Let sleeping dogs lie."
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6139279",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6139279",
+                    "Titles": {
+                        "eng": "None so deaf as those who will not hear.",
+                        "jpn": "None so deaf as those who will not hear."
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6139280",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6139280",
+                    "Titles": {
+                        "eng": "We live and learn.",
+                        "jpn": "We live and learn."
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6139281",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6139281",
+                    "Titles": {
+                        "eng": "Lovers ever run before the clock.",
+                        "jpn": "Lovers ever run before the clock."
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6139282",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6139282",
+                    "Titles": {
+                        "eng": "Better to ask the way than go astray.",
+                        "jpn": "Better to ask the way than go astray."
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "6143150",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6143150",
+                    "Titles": {
+                        "eng": "East, west, home's best.",
+                        "jpn": "East, west, home's best."
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "6143151",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6143151",
+                    "Titles": {
+                        "eng": "Looks breed love.",
+                        "jpn": "Looks breed love."
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "6143152",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6143152",
+                    "Titles": {
+                        "eng": "There is no place like home.",
+                        "jpn": "There is no place like home."
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "6143153",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6143153",
+                    "Titles": {
+                        "eng": "God's mill grinds slow but sure.",
+                        "jpn": "God's mill grinds slow but sure."
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "6143154",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6143154",
+                    "Titles": {
+                        "eng": "Look before you leap.",
+                        "jpn": "Look before you leap."
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "6143155",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6143155",
+                    "Titles": {
+                        "eng": "Forgive and forget.",
+                        "jpn": "Forgive and forget."
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "6143156",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6143156",
+                    "Titles": {
+                        "eng": "Any port in a storm.",
+                        "jpn": "Any port in a storm."
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "6143157",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6143157",
+                    "Titles": {
+                        "eng": "You can't make an omelet without breaking a few eggs.",
+                        "jpn": "You can't make an omelet without breaking a few eggs."
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "6143158",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6143158",
+                    "Titles": {
+                        "eng": "Necessity has no law.",
+                        "jpn": "Necessity has no law."
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "6143159",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6143159",
+                    "Titles": {
+                        "eng": "As you sow, so shall you reap.",
+                        "jpn": "As you sow, so shall you reap."
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "6143160",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6143160",
+                    "Titles": {
+                        "eng": "Nothing seek, nothing find.",
+                        "jpn": "Nothing seek, nothing find."
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "6143161",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/6143161",
+                    "Titles": {
+                        "eng": "Live and let live.",
+                        "jpn": "Live and let live."
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "1972660",
+            "URL": "https://thetvdb.com/series/the-ancient-magus-bride/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 24,
+            "Episodes": {
+                "1": {
+                    "ID": "9364050",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/9364050",
+                    "Titles": {
+                        "eng": "Live and let live. II",
+                        "jpn": "Live and let live.II"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9714611",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/9714611",
+                    "Titles": {
+                        "eng": "Birds of a feather flock together. I",
+                        "jpn": "Birds of a feather flock together. I"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9714612",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/9714612",
+                    "Titles": {
+                        "eng": "Birds of a feather flock together. II",
+                        "jpn": "Birds of a feather flock together. II"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9714613",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/9714613",
+                    "Titles": {
+                        "eng": "The cowl does not make the monk.",
+                        "jpn": "The cowl does not make the monk."
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "9714614",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/9714614",
+                    "Titles": {
+                        "eng": "First impressions are the most lasting.",
+                        "jpn": "First impressions are the most lasting."
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "9714615",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/9714615",
+                    "Titles": {
+                        "eng": "Better bend than break.",
+                        "jpn": "Better bend than break."
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "9714616",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/9714616",
+                    "Titles": {
+                        "eng": "Slow and sure. I",
+                        "jpn": "Slow and sure. I"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "9714617",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/9714617",
+                    "Titles": {
+                        "eng": "Slow and sure. II",
+                        "jpn": "Slow and sure. II"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "9714618",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/9714618",
+                    "Titles": {
+                        "eng": "Conscience does make cowards of us all. I",
+                        "jpn": "Conscience does make cowards of us all. I"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "9714620",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/9714620",
+                    "Titles": {
+                        "eng": "Conscience does make cowards of us all. II",
+                        "jpn": "Conscience does make cowards of us all.Ⅱ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "9714622",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/9714622",
+                    "Titles": {
+                        "eng": "A small leak will sink a great ship. I",
+                        "jpn": "A small leak will sink a great ship. I"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "9714623",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/9714623",
+                    "Titles": {
+                        "eng": "A small leak will sink a great ship. II",
+                        "jpn": "A small leak will sink a great ship.Ⅱ"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "9860428",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/9860428",
+                    "Titles": {
+                        "eng": "Nothing venture, nothing have. I",
+                        "jpn": "Nothing venture, nothing have.I"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "10029546",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/10029546",
+                    "Titles": {
+                        "eng": "Nothing venture, nothing have. II",
+                        "jpn": "Nothing venture, nothing have.Ⅱ"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "10029547",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/10029547",
+                    "Titles": {
+                        "eng": "Needs must when the devil drives. I",
+                        "jpn": "Needs must when the devil drives.Ⅰ"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "10029548",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/10029548",
+                    "Titles": {
+                        "eng": "Needs must when the devil drives. II",
+                        "jpn": "Needs must when the devil drives.Ⅱ"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "10029549",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/10029549",
+                    "Titles": {
+                        "eng": "Gather ye rosebuds while ye may.",
+                        "jpn": "Gather ye rosebuds while ye may."
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "10029550",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/10029550",
+                    "Titles": {
+                        "eng": "Coming events cast their shadows before.",
+                        "jpn": "Coming events cast their shadows before."
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "10029551",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/10029551",
+                    "Titles": {
+                        "eng": "Man's extremity is God's opportunity",
+                        "jpn": "Man's extremity is God's opportunity."
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "10029552",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/10029552",
+                    "Titles": {
+                        "eng": "Even a worm will turn",
+                        "jpn": "Even a worm will turn."
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "10029553",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/10029553",
+                    "Titles": {
+                        "eng": "A burnt child dreads the fire.",
+                        "jpn": "A burnt child dreads the fire."
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "10029554",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/10029554",
+                    "Titles": {
+                        "eng": "Give a thief enough rope and he'll hang himself.",
+                        "jpn": "Give a thief enough rope and he'll hang himself."
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "10029555",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/10029555",
+                    "Titles": {
+                        "eng": "Of two evils choose the less",
+                        "jpn": "Of two evils choose the less."
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "10029556",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-ancient-magus-bride/episodes/10029556",
+                    "Titles": {
+                        "eng": "The show must go on. I",
+                        "jpn": "Show must go on. I"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

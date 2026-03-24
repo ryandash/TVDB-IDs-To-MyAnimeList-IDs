@@ -1,0 +1,58 @@
+{
+    "URL": "https://thetvdb.com/series/refrain-blue",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Drama"
+    ],
+    "Other Sites": [],
+    "Titles": {
+        "eng": "Refrain Blue",
+        "jpn": "リフレインブルー"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "479458",
+            "URL": "https://thetvdb.com/series/refrain-blue/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "4214054",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/refrain-blue/episodes/4214054",
+                    "Titles": {
+                        "eng": "Scarlet Reminiscence",
+                        "jpn": "緋色の追憶"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4214055",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/refrain-blue/episodes/4214055",
+                    "Titles": {
+                        "eng": "In the Moonlight",
+                        "jpn": "月影の下で…"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4214056",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/refrain-blue/episodes/4214056",
+                    "Titles": {
+                        "eng": "Eternity of Blue Waves",
+                        "jpn": "碧波の永遠"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

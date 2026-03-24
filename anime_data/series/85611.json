@@ -1,0 +1,136 @@
+{
+    "URL": "https://thetvdb.com/series/hatenkou-yugi",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Romance",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1160834/",
+        "https://www.themoviedb.org/tv/45265"
+    ],
+    "Titles": {
+        "eng": "Hatenkou Yugi",
+        "jpn": "破天荒遊戯"
+    },
+    "Aliases": [],
+    "Modified": "2021-11-06",
+    "Seasons": {
+        "1": {
+            "ID": "42121",
+            "URL": "https://thetvdb.com/series/hatenkou-yugi/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 10,
+            "Episodes": {
+                "1": {
+                    "ID": "447781",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hatenkou-yugi/episodes/447781",
+                    "Titles": {
+                        "eng": "Eternal Light",
+                        "jpn": "永遠のともしび"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "447791",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hatenkou-yugi/episodes/447791",
+                    "Titles": {
+                        "eng": "Wound of the Scar",
+                        "jpn": "きずあとのきず"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "447801",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hatenkou-yugi/episodes/447801",
+                    "Titles": {
+                        "eng": "A Silent Song of Lullaby",
+                        "jpn": "かくもささやかな子守唄"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "447811",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hatenkou-yugi/episodes/447811",
+                    "Titles": {
+                        "eng": "Must Not Violate Paradise",
+                        "jpn": "楽園に触れるなかれ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "447821",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hatenkou-yugi/episodes/447821",
+                    "Titles": {
+                        "eng": "The Sun in Your Palms (Part 1)",
+                        "jpn": "てのひらのたいよう・前編"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "447831",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hatenkou-yugi/episodes/447831",
+                    "Titles": {
+                        "eng": "The Sun in Your Palms (Part 2)",
+                        "jpn": "てのひらのたいよう・後編"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "447841",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hatenkou-yugi/episodes/447841",
+                    "Titles": {
+                        "eng": "When the Flower Blooms",
+                        "jpn": "花が咲いたら"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "447851",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hatenkou-yugi/episodes/447851",
+                    "Titles": {
+                        "eng": "Unknown Destination (Part 1)",
+                        "jpn": "ゆくさきをしらない・前編"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "447861",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hatenkou-yugi/episodes/447861",
+                    "Titles": {
+                        "eng": "Unknown Destination (Part 2)",
+                        "jpn": "ゆくさきをしらない・後編"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "447871",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hatenkou-yugi/episodes/447871",
+                    "Titles": {
+                        "eng": "A Present for You",
+                        "jpn": "君に贈ろう"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

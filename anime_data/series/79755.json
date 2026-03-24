@@ -1,0 +1,146 @@
+{
+    "URL": "https://thetvdb.com/series/afro-samurai",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0465316/",
+        "https://tvlistings.zap2it.com/overview.html?programSeriesId=SH883483",
+        "https://www.themoviedb.org/tv/19544"
+    ],
+    "Titles": {
+        "eng": "Afro Samurai",
+        "jpn": "アフロサムライ"
+    },
+    "Aliases": [],
+    "Modified": "2025-10-26",
+    "Seasons": {
+        "0": {
+            "ID": "27156",
+            "URL": "https://thetvdb.com/series/afro-samurai/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "1975741",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/afro-samurai/episodes/1975741",
+                    "Titles": {
+                        "eng": "The Movie (Director's Cut)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "429558",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/afro-samurai/episodes/429558",
+                    "Titles": {
+                        "eng": "Afro Samurai: Resurrection",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "412980",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/afro-samurai/episodes/412980",
+                    "Titles": {
+                        "eng": "Character Profiles with Commentary",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "412981",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/afro-samurai/episodes/412981",
+                    "Titles": {
+                        "eng": "In The Booth: The Voice Talent of Afro Samurai",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "412982",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/afro-samurai/episodes/412982",
+                    "Titles": {
+                        "eng": "RZA Music Production Tour",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "17138",
+            "URL": "https://thetvdb.com/series/afro-samurai/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "318340",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/afro-samurai/episodes/318340",
+                    "Titles": {
+                        "eng": "Revenge",
+                        "jpn": "Number Two"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "318341",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/afro-samurai/episodes/318341",
+                    "Titles": {
+                        "eng": "The Dream Reader",
+                        "jpn": "OKIKU"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "318342",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/afro-samurai/episodes/318342",
+                    "Titles": {
+                        "eng": "The Empty Seven Clan",
+                        "jpn": "THE EMPTY SEVEN CLAN"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "319020",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/afro-samurai/episodes/319020",
+                    "Titles": {
+                        "eng": "Duel",
+                        "jpn": "KUMA"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "319366",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/afro-samurai/episodes/319366",
+                    "Titles": {
+                        "eng": "Justice",
+                        "jpn": "JUSTICE"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

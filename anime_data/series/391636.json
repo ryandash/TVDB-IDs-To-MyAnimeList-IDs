@@ -1,0 +1,73 @@
+{
+    "URL": "https://thetvdb.com/series/thus-spoke-kishibe-rohan",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt13887556/",
+        "https://www.netflix.com/mx/title/81280998",
+        "https://www.themoviedb.org/tv/118443"
+    ],
+    "Titles": {
+        "eng": "Thus Spoke Kishibe Rohan",
+        "jpn": "岸辺露伴は動かない"
+    },
+    "Aliases": [
+        "Kishibe Rohan wa Ugokanai",
+        "Thus Spoke Kishibe Rohan (2017)"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "1879887",
+            "URL": "https://thetvdb.com/series/thus-spoke-kishibe-rohan/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "8038592",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/thus-spoke-kishibe-rohan/episodes/8038592",
+                    "Titles": {
+                        "eng": "Episode 5: Millionaire Village",
+                        "jpn": "エピソード#05 富豪村"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8090885",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/thus-spoke-kishibe-rohan/episodes/8090885",
+                    "Titles": {
+                        "eng": "Episode 2: Mutsu-kabe Hill",
+                        "jpn": "エピソード#02 六壁坂"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8090886",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/thus-spoke-kishibe-rohan/episodes/8090886",
+                    "Titles": {
+                        "eng": "Episode 16: At a Confessional",
+                        "jpn": "エピソード#16 懺悔室"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "8090887",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/thus-spoke-kishibe-rohan/episodes/8090887",
+                    "Titles": {
+                        "eng": "Episode 9: The Run",
+                        "jpn": "エピソード#09 ザ・ラン"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

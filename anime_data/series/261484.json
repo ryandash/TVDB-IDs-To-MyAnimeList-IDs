@@ -1,0 +1,93 @@
+{
+    "URL": "https://thetvdb.com/series/one-off",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Mini-Series"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2329226/",
+        "https://www.themoviedb.org/tv/107328"
+    ],
+    "Titles": {
+        "eng": "One Off",
+        "jpn": "わんおふ -one off-"
+    },
+    "Aliases": [],
+    "Modified": "2022-06-24",
+    "Seasons": {
+        "0": {
+            "ID": "498465",
+            "URL": "https://thetvdb.com/series/one-off/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "4378672",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/one-off/episodes/4378672",
+                    "Titles": {
+                        "eng": "Advance Screening Vol.1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "498632",
+            "URL": "https://thetvdb.com/series/one-off/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "4380432",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/one-off/episodes/4380432",
+                    "Titles": {
+                        "eng": "A Breeze on the Café Terrace",
+                        "jpn": "風のカフェテラス"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4380433",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/one-off/episodes/4380433",
+                    "Titles": {
+                        "eng": "Haruno's Overture",
+                        "jpn": "はるのオーバーチュア"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4380435",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/one-off/episodes/4380435",
+                    "Titles": {
+                        "eng": "Poco a Poco",
+                        "jpn": "ぽこ・あ・ぽこ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4424056",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/one-off/episodes/4424056",
+                    "Titles": {
+                        "eng": "And Thus Began Their Memories",
+                        "jpn": "そして始まるメモリーズ"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

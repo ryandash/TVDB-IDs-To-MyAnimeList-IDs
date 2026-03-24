@@ -1,0 +1,45 @@
+{
+    "URL": "https://thetvdb.com/series/lets-go-kaikigumi",
+    "Genres": [
+        "Adaptation",
+        "Anime - Shonen"
+    ],
+    "Other Sites": [
+        "https://kaikigumi.com",
+        "https://www.themoviedb.org/tv/302824",
+        "https://www.wikidata.org/wiki/Q136477216",
+        "https://en.wikipedia.org/wiki/Let's_Go_Kaikigumi#Anime",
+        "https://x.com/kaikigumi"
+    ],
+    "Titles": {
+        "eng": "Let's Go Kaikigumi",
+        "jpn": "レッツゴー怪奇組"
+    },
+    "Aliases": [
+        "Rettsu Gō Kaikigumi"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "2210955",
+            "URL": "https://thetvdb.com/series/lets-go-kaikigumi/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11391545",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/lets-go-kaikigumi/episodes/11391545",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

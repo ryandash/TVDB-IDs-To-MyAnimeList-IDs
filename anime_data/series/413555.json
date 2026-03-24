@@ -1,0 +1,101 @@
+{
+    "URL": "https://thetvdb.com/series/the-orbital-children",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt13351614/",
+        "https://www.netflix.com/title/81340914",
+        "https://www.themoviedb.org/tv/138190",
+        "https://www.themoviedb.org/tv/138190",
+        "https://x.com/Chikyugai_BG"
+    ],
+    "Titles": {
+        "eng": "The Orbital Children",
+        "jpn": "地球外少年少女"
+    },
+    "Aliases": [
+        "Chikyūgai Shōnen Shōjo",
+        "Chikyuugai Shounen Shoujo",
+        "Extra-Terrestrial Boys & Girls"
+    ],
+    "Modified": "2026-01-07",
+    "Seasons": {
+        "1": {
+            "ID": "1971990",
+            "URL": "https://thetvdb.com/series/the-orbital-children/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "8898238",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-orbital-children/episodes/8898238",
+                    "Titles": {
+                        "eng": "Extraterrestrial Emissaries",
+                        "jpn": "地球外からの使者"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8898248",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-orbital-children/episodes/8898248",
+                    "Titles": {
+                        "eng": "Mist and Darkness",
+                        "jpn": "霧と闇"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8898249",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-orbital-children/episodes/8898249",
+                    "Titles": {
+                        "eng": "Lunatic Seven",
+                        "jpn": "ルナティック・セブン"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "8898250",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-orbital-children/episodes/8898250",
+                    "Titles": {
+                        "eng": "Seven's Pattern",
+                        "jpn": "セブンズ・パターン"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "8898252",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-orbital-children/episodes/8898252",
+                    "Titles": {
+                        "eng": "A Story Ends",
+                        "jpn": "おわりの物語"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "8898253",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-orbital-children/episodes/8898253",
+                    "Titles": {
+                        "eng": "A Story Begins",
+                        "jpn": "はじまりの物語"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

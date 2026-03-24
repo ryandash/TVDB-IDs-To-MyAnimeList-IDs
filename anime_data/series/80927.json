@@ -1,0 +1,338 @@
+{
+    "URL": "https://thetvdb.com/series/hero-tales",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1132204/",
+        "https://www.themoviedb.org/tv/29565"
+    ],
+    "Titles": {
+        "eng": "Hero Tales",
+        "jpn": "獣神演武 -HERO TALES-"
+    },
+    "Aliases": [
+        "Juushin Enbu Hero Tales",
+        "獣神演武"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "29623",
+            "URL": "https://thetvdb.com/series/hero-tales/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "4417708",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/4417708",
+                    "Titles": {
+                        "eng": "Star Battle: Special Round Table Part 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4417709",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/4417709",
+                    "Titles": {
+                        "eng": "Star Battle: Special Round Table Part 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4417710",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/4417710",
+                    "Titles": {
+                        "eng": "Star Battle: Special Round Table Part 3",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "29624",
+            "URL": "https://thetvdb.com/series/hero-tales/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "344720",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/344720",
+                    "Titles": {
+                        "eng": "The Destroyed Army's Howling Engraving",
+                        "jpn": "破軍吼ゆる刻"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "344721",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/344721",
+                    "Titles": {
+                        "eng": "Military Song of Karma",
+                        "jpn": "武曲の宿業(さだめ)"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "344722",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/344722",
+                    "Titles": {
+                        "eng": "Honorable Pledge",
+                        "jpn": "操気の契り"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "344723",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/344723",
+                    "Titles": {
+                        "eng": "The Five Divine Warriors",
+                        "jpn": "五神闘士"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "344724",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/344724",
+                    "Titles": {
+                        "eng": "The Diseased Empire",
+                        "jpn": "病みし帝国"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "344725",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/344725",
+                    "Titles": {
+                        "eng": "Crimson Hero",
+                        "jpn": "紅き英傑"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "380792",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/380792",
+                    "Titles": {
+                        "eng": "The Sorrow of the Rokuson",
+                        "jpn": "哀しみの禄存"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "380793",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/380793",
+                    "Titles": {
+                        "eng": "Echoes in the Valley..",
+                        "jpn": "渓谷に木霊するは・・・"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "380794",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/380794",
+                    "Titles": {
+                        "eng": "The Shadows Cast Upon the Capital",
+                        "jpn": "帝都にさす影"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "380795",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/380795",
+                    "Titles": {
+                        "eng": "The Lonely Emperor",
+                        "jpn": "孤独なる皇帝"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "380796",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/380796",
+                    "Titles": {
+                        "eng": "Hokushinkiki",
+                        "jpn": "北辰紀記"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "380797",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/380797",
+                    "Titles": {
+                        "eng": "The Moonlight`s Sparkle",
+                        "jpn": "月下の煌き"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "380798",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/380798",
+                    "Titles": {
+                        "eng": "Nitenshinson",
+                        "jpn": "二天神尊"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "380799",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/380799",
+                    "Titles": {
+                        "eng": "Turning Away from the Fierce Fang",
+                        "jpn": "闘牙回顧"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "380800",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/380800",
+                    "Titles": {
+                        "eng": "The Hagun's path",
+                        "jpn": "破軍の道標"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "824291",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/824291",
+                    "Titles": {
+                        "eng": "The Imperial Tonrou",
+                        "jpn": "天(あま)食む貪狼"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "824301",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/824301",
+                    "Titles": {
+                        "eng": "Bond of Father and Son",
+                        "jpn": "父子の絆"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "824311",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/824311",
+                    "Titles": {
+                        "eng": "Rentsuuji Aflame",
+                        "jpn": "蓮通寺炎上"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "824321",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/824321",
+                    "Titles": {
+                        "eng": "Division of the Stars",
+                        "jpn": "わかたれし星"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "824331",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/824331",
+                    "Titles": {
+                        "eng": "The Beginning of Turmoil",
+                        "jpn": "動乱の幕開け"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "824341",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/824341",
+                    "Titles": {
+                        "eng": "White Rage of Grief",
+                        "jpn": "悲憤の白衣(びゃくえ)"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "824351",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/824351",
+                    "Titles": {
+                        "eng": "Complication in the Imperial City",
+                        "jpn": "帝都錯綜"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "824361",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/824361",
+                    "Titles": {
+                        "eng": "Clash",
+                        "jpn": "激突"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "824371",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/824371",
+                    "Titles": {
+                        "eng": "A Fate of Rampage",
+                        "jpn": "暴走せし宿業(さだめ)"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "824381",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/824381",
+                    "Titles": {
+                        "eng": "Tonrou's Transformation",
+                        "jpn": "貪狼神"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "824391",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hero-tales/episodes/824391",
+                    "Titles": {
+                        "eng": "The End of the Fight",
+                        "jpn": "演武の果て"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

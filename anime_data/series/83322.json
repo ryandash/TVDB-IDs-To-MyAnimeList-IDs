@@ -1,0 +1,901 @@
+{
+    "URL": "https://thetvdb.com/series/a-certain-magical-index",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Romance",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1308089/",
+        "https://toaru-project.com/index_1_2/",
+        "https://www.themoviedb.org/tv/30980"
+    ],
+    "Titles": {
+        "eng": "A Certain Magical Index",
+        "jpn": "とある魔術の禁書目録"
+    },
+    "Aliases": [
+        "To Aru Majutsu no Index",
+        "Toaru Majutsu no Index"
+    ],
+    "Modified": "2026-01-10",
+    "Seasons": {
+        "0": {
+            "ID": "35909",
+            "URL": "https://thetvdb.com/series/a-certain-magical-index/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 8,
+            "Episodes": {
+                "1": {
+                    "ID": "441588",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/441588",
+                    "Titles": {
+                        "eng": "A Certain Magical Index-tan",
+                        "jpn": "とある魔術の禁書目録[インデックス]たん"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "851011",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/851011",
+                    "Titles": {
+                        "eng": "A Certain Magical Index-tan II",
+                        "jpn": "とある魔術の禁書目録[インデックス]たん 2"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "3510941",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/3510941",
+                    "Titles": {
+                        "eng": "A Certain Magical Index-tan III",
+                        "jpn": "とある魔術の禁書目録[インデックス]たん 3"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "2973731",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/2973731",
+                    "Titles": {
+                        "eng": "A Certain Magical Index-tan IV",
+                        "jpn": "とある魔術の禁書目録[インデックス]たん 4"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4183230",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/4183230",
+                    "Titles": {
+                        "eng": "A Certain Magical Index Movie: The Miracle of Endymion",
+                        "jpn": "劇場版 とある魔術の禁書目録[インデックス] エンデュミオンの奇蹟"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4704822",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/4704822",
+                    "Titles": {
+                        "eng": "A Certain Magical Index Movie: The Miracle of Endymion Special",
+                        "jpn": "劇場版とある魔術の禁書目録たん -エンデュミオンの奇蹟-があったりなかったり"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "7054512",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/7054512",
+                    "Titles": {
+                        "eng": "A Certain Magical Index-tan VI",
+                        "jpn": "とある魔術の禁書目録[インデックス]たん 6"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "7452532",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/7452532",
+                    "Titles": {
+                        "eng": "A Certain Magical Index-tan VII",
+                        "jpn": "とある魔術の禁書目録[インデックス]たん 7"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "35910",
+            "URL": "https://thetvdb.com/series/a-certain-magical-index/seasons/official/1",
+            "Titles": {
+                "eng": "A Certain Magical Index",
+                "jpn": null,
+                "spa": "To Aru Majutsu no Indekkusu",
+                "pol": "A Certain Magical Index",
+                "deu": "A Certain Magical Index"
+            },
+            "# Episodes": 24,
+            "Episodes": {
+                "1": {
+                    "ID": "394926",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/394926",
+                    "Titles": {
+                        "eng": "Academy City",
+                        "jpn": "学園都市"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "395179",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/395179",
+                    "Titles": {
+                        "eng": "Innocentius (The Witch Hunter King)",
+                        "jpn": "魔女狩りの王(イノケンティウス)"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "396768",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/396768",
+                    "Titles": {
+                        "eng": "Necessarius (The Church of Necessary Evil)",
+                        "jpn": "必要悪の教会(ネセサリウス)"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "401856",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/401856",
+                    "Titles": {
+                        "eng": "Perfect Memory Ability",
+                        "jpn": "完全記憶能力"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "402960",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/402960",
+                    "Titles": {
+                        "eng": "Limit (12 o'clock)",
+                        "jpn": "十二時(リミット)"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "402961",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/402961",
+                    "Titles": {
+                        "eng": "Imagine Breaker",
+                        "jpn": "幻想殺し(イマジンブレイカー)"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "402962",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/402962",
+                    "Titles": {
+                        "eng": "The Science Cult (Misawa Cram School)",
+                        "jpn": "三沢塾(かがくすうはい)"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "411159",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/411159",
+                    "Titles": {
+                        "eng": "Ars Magna (Golden Transmutation)",
+                        "jpn": "黄金練成(アルス＝マグナ)"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "411160",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/411160",
+                    "Titles": {
+                        "eng": "Deep Blood (Vampire Killer)",
+                        "jpn": "吸血殺し(ディープブラッド)"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "414045",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/414045",
+                    "Titles": {
+                        "eng": "Mikoto Misaka (Sissy)",
+                        "jpn": "お姉様(みさかみこと)"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "414046",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/414046",
+                    "Titles": {
+                        "eng": "Sisters (Sisters)",
+                        "jpn": "妹達(シスターズ)"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "417811",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/417811",
+                    "Titles": {
+                        "eng": "Level 6 (Absolute Ability)",
+                        "jpn": "絶対能力(レベル6)"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "418857",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/418857",
+                    "Titles": {
+                        "eng": "Accelerator (One Way)",
+                        "jpn": "一方通行(アクセラレータ)"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "424122",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/424122",
+                    "Titles": {
+                        "eng": "Weakest vs. Strongest (Strongest vs. Weakest)",
+                        "jpn": "最強(さいじゃく)VS最弱(さいきょう)"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "424123",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/424123",
+                    "Titles": {
+                        "eng": "Angel Fall (Angel Fall)",
+                        "jpn": "御使堕し(エンゼルフォール)"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "428791",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/428791",
+                    "Titles": {
+                        "eng": "Toya Kamijo (Father)",
+                        "jpn": "父親(かみじょうとうや)"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "432117",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/432117",
+                    "Titles": {
+                        "eng": "The Power of God (Archangel)",
+                        "jpn": "大天使(かみのちから)"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "432118",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/432118",
+                    "Titles": {
+                        "eng": "Replica (Impostor)",
+                        "jpn": "偽者(レプリカ)"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "436598",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/436598",
+                    "Titles": {
+                        "eng": "Last Order (The End)",
+                        "jpn": "打ち止め(ラストオーダー)"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "436599",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/436599",
+                    "Titles": {
+                        "eng": "Virus Code (Final Signal)",
+                        "jpn": "最終信号(ウイルス・コード)"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "441435",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/441435",
+                    "Titles": {
+                        "eng": "Counter Stop (Identity Unknown)",
+                        "jpn": "正体不明(カウンターストップ)"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "441630",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/441630",
+                    "Titles": {
+                        "eng": "Golem (Stone Figure)",
+                        "jpn": "石像(ゴーレム)"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "445701",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/445701",
+                    "Titles": {
+                        "eng": "Friends (Hyoka Kazakiri)",
+                        "jpn": "風斬氷華(トモダチ)"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "445702",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/445702",
+                    "Titles": {
+                        "eng": "Imaginary Number School District - Five-Element Agency",
+                        "jpn": "虚数学区・五行機関"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "272661",
+            "URL": "https://thetvdb.com/series/a-certain-magical-index/seasons/official/2",
+            "Titles": {
+                "eng": "A Certain Magical Index II",
+                "jpn": "とある魔術の禁書目録II",
+                "spa": "To Aru Majutsu no Index II",
+                "pol": "A Certain Magical Index II",
+                "deu": "A Certain Magical Index II"
+            },
+            "# Episodes": 24,
+            "Episodes": {
+                "1": {
+                    "ID": "2431051",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/2431051",
+                    "Titles": {
+                        "eng": "The Last Day (August 31)",
+                        "jpn": "8月31日(さいごのひ)"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2818001",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/2818001",
+                    "Titles": {
+                        "eng": "The Book of Law",
+                        "jpn": "法の書"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "2818011",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/2818011",
+                    "Titles": {
+                        "eng": "The Amakusa Church",
+                        "jpn": "天草式"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "2818021",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/2818021",
+                    "Titles": {
+                        "eng": "Sheol Fear (Voice of the Magicbane)",
+                        "jpn": "魔滅の声(シェオールフィア)"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "2818031",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/2818031",
+                    "Titles": {
+                        "eng": "Lotus Wand",
+                        "jpn": "蓮の杖(ロータスワンド)"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "2818041",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/2818041",
+                    "Titles": {
+                        "eng": "Remnant (Wreckage)",
+                        "jpn": "残骸(レムナント)"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "2818051",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/2818051",
+                    "Titles": {
+                        "eng": "Move Point (Coordinate Relocation)",
+                        "jpn": "座標移動(ムーブポイント)"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "2818061",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/2818061",
+                    "Titles": {
+                        "eng": "The Daihasei Festival",
+                        "jpn": "大覇星祭"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "2818071",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/2818071",
+                    "Titles": {
+                        "eng": "Route Disturb (Pursuit Inhibited)",
+                        "jpn": "追跡封じ(ルートディスターブ)"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "2818081",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/2818081",
+                    "Titles": {
+                        "eng": "Shorthand (Stenographic Sourebook)",
+                        "jpn": "速記原典(ショートハンド)"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "2818091",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/2818091",
+                    "Titles": {
+                        "eng": "Stab Sword",
+                        "jpn": "刺突抗剣(スタブソード)"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "2818101",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/2818101",
+                    "Titles": {
+                        "eng": "Belvedere (The Observatory)",
+                        "jpn": "天文台(ベルヴェデーレ)"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "2818111",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/2818111",
+                    "Titles": {
+                        "eng": "Croce di Pietro (Apostolic Cross)",
+                        "jpn": "使徒十字(クローチェディピエトロ)"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "3435991",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/3435991",
+                    "Titles": {
+                        "eng": "City of Water",
+                        "jpn": "水の都"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "3449691",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/3449691",
+                    "Titles": {
+                        "eng": "Queen's Fleet",
+                        "jpn": "女王艦隊"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "3449701",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/3449701",
+                    "Titles": {
+                        "eng": "Rosary of the Appointed Time",
+                        "jpn": "刻限のロザリオ"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "3449711",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/3449711",
+                    "Titles": {
+                        "eng": "Penalty Game",
+                        "jpn": "罰ゲーム"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "3449721",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/3449721",
+                    "Titles": {
+                        "eng": "Serial Number (Specimen Number)",
+                        "jpn": "検体番号(シリアルナンバー)"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "3449731",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/3449731",
+                    "Titles": {
+                        "eng": "The Researcher (Amata Kihara)",
+                        "jpn": "木原数多(けんきゅうしゃ)"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "3449741",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/3449741",
+                    "Titles": {
+                        "eng": "Hound Dog (Hound Squad)",
+                        "jpn": "猟犬部隊(ハウンドドッグ)"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "3449751",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/3449751",
+                    "Titles": {
+                        "eng": "Testament (Learning Device)",
+                        "jpn": "学習装置(テスタメント)"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "3449761",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/3449761",
+                    "Titles": {
+                        "eng": "The Divine Retribution Spell",
+                        "jpn": "天罰術式"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "3449771",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/3449771",
+                    "Titles": {
+                        "eng": "Prewar",
+                        "jpn": "開戦前"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "3449781",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/3449781",
+                    "Titles": {
+                        "eng": "Skill Out (Armed Gang)",
+                        "jpn": "武装集団(スキルアウト)"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "767549",
+            "URL": "https://thetvdb.com/series/a-certain-magical-index/seasons/official/3",
+            "Titles": {
+                "eng": "A Certain Magical Index III",
+                "jpn": "とある魔術の禁書目録III",
+                "spa": "To Aru Majutsu no Index III",
+                "deu": "A Certain Magical Index III"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "6717869",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/6717869",
+                    "Titles": {
+                        "eng": "Unrest",
+                        "jpn": "混乱"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6827259",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/6827259",
+                    "Titles": {
+                        "eng": "The Right Seat of God",
+                        "jpn": "神の右席"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6827260",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/6827260",
+                    "Titles": {
+                        "eng": "The Document of C",
+                        "jpn": "C文書"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6827261",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/6827261",
+                    "Titles": {
+                        "eng": "The Dark Side of Academy City",
+                        "jpn": "学園都市暗部"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6827262",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/6827262",
+                    "Titles": {
+                        "eng": "Dark Matter",
+                        "jpn": "未元物質(ダークマター)"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6827263",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/6827263",
+                    "Titles": {
+                        "eng": "Super-espers",
+                        "jpn": "超能力者達"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6827264",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/6827264",
+                    "Titles": {
+                        "eng": "The Third Level",
+                        "jpn": "第三階層"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6827265",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/6827265",
+                    "Titles": {
+                        "eng": "Saint Breakout",
+                        "jpn": "聖人崩し"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6827266",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/6827266",
+                    "Titles": {
+                        "eng": "Holy Mother Veneration",
+                        "jpn": "聖母崇拝"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6827267",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/6827267",
+                    "Titles": {
+                        "eng": "Sky Bus 365",
+                        "jpn": "スカイバス３６５"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6827268",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/6827268",
+                    "Titles": {
+                        "eng": "British Labyrinth",
+                        "jpn": "英国迷路"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6827269",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/6827269",
+                    "Titles": {
+                        "eng": "Mercenaries",
+                        "jpn": "傭兵"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "6827270",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/6827270",
+                    "Titles": {
+                        "eng": "Curtana Original",
+                        "jpn": "カーテナ＝オリジナル"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "6932385",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/6932385",
+                    "Titles": {
+                        "eng": "Heroes",
+                        "jpn": "英雄達"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "6932386",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/6932386",
+                    "Titles": {
+                        "eng": "Spark Signal",
+                        "jpn": "迎電部隊"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "6932388",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/6932388",
+                    "Titles": {
+                        "eng": "The Governing Board",
+                        "jpn": "統括理事会"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "6932389",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/6932389",
+                    "Titles": {
+                        "eng": "DRAGON",
+                        "jpn": "怪物"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "6951734",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/6951734",
+                    "Titles": {
+                        "eng": "The Alliance of Independent Nations",
+                        "jpn": "独立国同盟"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "6951735",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/6951735",
+                    "Titles": {
+                        "eng": "Misaka Worst",
+                        "jpn": "番外個体"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "6951736",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/6951736",
+                    "Titles": {
+                        "eng": "A Reason to Protect",
+                        "jpn": "守る理由"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "6951737",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/6951737",
+                    "Titles": {
+                        "eng": "The Star of B'Tselem",
+                        "jpn": "ベツレヘムの星"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "6951738",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/6951738",
+                    "Titles": {
+                        "eng": "Angel Power (Gabriel)",
+                        "jpn": "天使の力"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "6951739",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/6951739",
+                    "Titles": {
+                        "eng": "Fuse=KAZAKIRI",
+                        "jpn": "ヒューズ＝カザキリ"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "6951740",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/6951740",
+                    "Titles": {
+                        "eng": "List of Prohibited Books (Index)",
+                        "jpn": "禁書目録"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "7077605",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/7077605",
+                    "Titles": {
+                        "eng": "Wings",
+                        "jpn": "翼"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "7077606",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/a-certain-magical-index/episodes/7077606",
+                    "Titles": {
+                        "eng": "Son of God",
+                        "jpn": "神の子"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "URL": "https://thetvdb.com/series/king-of-fighters-another-day",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Mini-Series"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt5925320/",
+        "https://www.themoviedb.org/tv/88023"
+    ],
+    "Titles": {
+        "eng": "The King of Fighters Another Day",
+        "jpn": null
+    },
+    "Aliases": [
+        "The King of Fighters: Another Day",
+        "King of Fighters Another Day",
+        "King of Fighters: Another Day"
+    ],
+    "Modified": "2026-01-12",
+    "Seasons": {
+        "1": {
+            "ID": "27797",
+            "URL": "https://thetvdb.com/series/king-of-fighters-another-day/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "330961",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/king-of-fighters-another-day/episodes/330961",
+                    "Titles": {
+                        "eng": "All Out",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "330962",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/king-of-fighters-another-day/episodes/330962",
+                    "Titles": {
+                        "eng": "Accede",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "330963",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/king-of-fighters-another-day/episodes/330963",
+                    "Titles": {
+                        "eng": "In the Dark",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "330964",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/king-of-fighters-another-day/episodes/330964",
+                    "Titles": {
+                        "eng": "All Over",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

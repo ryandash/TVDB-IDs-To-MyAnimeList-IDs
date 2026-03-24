@@ -1,0 +1,622 @@
+{
+    "URL": "https://thetvdb.com/series/speed-racer",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Children",
+        "Comedy",
+        "Family",
+        "Science Fiction",
+        "Sport"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0061300/",
+        "https://www.themoviedb.org/tv/30986"
+    ],
+    "Titles": {
+        "eng": "Speed Racer",
+        "jpn": "マッハGoGoGo"
+    },
+    "Aliases": [
+        "Speed Racer (1967)",
+        "マッハGoGoGo（1967）",
+        "Mach Go Go Go"
+    ],
+    "Modified": "2026-02-02",
+    "Seasons": {
+        "0": {
+            "ID": "25234",
+            "URL": "https://thetvdb.com/series/speed-racer/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "4231363",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/4231363",
+                    "Titles": {
+                        "eng": "Speed Racer: The Movie",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4325154",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/4325154",
+                    "Titles": {
+                        "eng": "The History of Speed Racer",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4751975",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/4751975",
+                    "Titles": {
+                        "eng": "Speed Race (Mahha GoGoGo) Japanese opening (1967)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4751979",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/4751979",
+                    "Titles": {
+                        "eng": "Dexter: Mock 5",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4752009",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/4752009",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "13578",
+            "URL": "https://thetvdb.com/series/speed-racer/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 52,
+            "Episodes": {
+                "1": {
+                    "ID": "258295",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258295",
+                    "Titles": {
+                        "eng": "The Great Plan (1)",
+                        "jpn": "飛ばせ！マッハ号（前編）"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "258296",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258296",
+                    "Titles": {
+                        "eng": "The Great Plan (2)",
+                        "jpn": "飛ばせ！マッハ号（後編）"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "258297",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258297",
+                    "Titles": {
+                        "eng": "Challenge of the Masked Racer (1)",
+                        "jpn": "謎の覆面レーサー（前編）"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "258298",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258298",
+                    "Titles": {
+                        "eng": "Challenge of the Masked Racer (2)",
+                        "jpn": "謎の覆面レーサー（後編）"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "258299",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258299",
+                    "Titles": {
+                        "eng": "The Secret Engine (1)",
+                        "jpn": "クラシックカーの秘密（前編）"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "258300",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258300",
+                    "Titles": {
+                        "eng": "The Secret Engine (2)",
+                        "jpn": "クラシックカーの秘密（後編）"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "258301",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258301",
+                    "Titles": {
+                        "eng": "The Race Against the Mammoth Car (1)",
+                        "jpn": "マンモスカーの挑戦（前編）"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "258302",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258302",
+                    "Titles": {
+                        "eng": "The Race Against the Mammoth Car (2)",
+                        "jpn": "マンモスカーの挑戦（後編）"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "258303",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258303",
+                    "Titles": {
+                        "eng": "The Most Dangerous Race (1)",
+                        "jpn": "魔のアクロバット族（前編）"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "258304",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258304",
+                    "Titles": {
+                        "eng": "The Most Dangerous Race (2)",
+                        "jpn": "魔のアクロバット族（中編）"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "258305",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258305",
+                    "Titles": {
+                        "eng": "The Most Dangerous Race (3)",
+                        "jpn": "魔のアクロバット族（後編）"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "258306",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258306",
+                    "Titles": {
+                        "eng": "Race for Revenge (1)",
+                        "jpn": "マレンゴの復讐（前編）"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "258307",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258307",
+                    "Titles": {
+                        "eng": "Race for Revenge (2)",
+                        "jpn": "マレンゴの復讐（後編）"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "258308",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258308",
+                    "Titles": {
+                        "eng": "The Desperate Desert Race (1)",
+                        "jpn": "死の砂漠レース（前編）"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "258309",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258309",
+                    "Titles": {
+                        "eng": "The Desperate Desert Race (2)",
+                        "jpn": "死の砂漠レース（後編）"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "258310",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258310",
+                    "Titles": {
+                        "eng": "The Fire Race (1)",
+                        "jpn": "インカ地底レース（前編）"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "258311",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258311",
+                    "Titles": {
+                        "eng": "The Fire Race (2)",
+                        "jpn": "インカ地底レース（後編）"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "258312",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258312",
+                    "Titles": {
+                        "eng": "Girl Daredevil (1)",
+                        "jpn": "ナイアガラの秘宝（前編）"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "258313",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258313",
+                    "Titles": {
+                        "eng": "Girl Daredevil (2)",
+                        "jpn": "ナイアガラの秘宝（後編）"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "258314",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258314",
+                    "Titles": {
+                        "eng": "The Fastest Car on Earth (1)",
+                        "jpn": "悪魔のレースカー（前編）"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "258315",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258315",
+                    "Titles": {
+                        "eng": "The Fastest Car on Earth (2)",
+                        "jpn": "悪魔のレースカー（後編）"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "258316",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258316",
+                    "Titles": {
+                        "eng": "Mach 5 vs. Mach 5 (1)",
+                        "jpn": "マッハ号危機一髪（前編）"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "258317",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258317",
+                    "Titles": {
+                        "eng": "Mach 5 vs. Mach 5 (2)",
+                        "jpn": "マッハ号危機一髪（後編）"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "258318",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258318",
+                    "Titles": {
+                        "eng": "The Royal Racer (1)",
+                        "jpn": "チビッコ・グランプリ（前編）"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "258319",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258319",
+                    "Titles": {
+                        "eng": "The Royal Racer (2)",
+                        "jpn": "チビッコ・グランプリ（後編）"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "258320",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258320",
+                    "Titles": {
+                        "eng": "The Car Hater",
+                        "jpn": "スピードを消せ！"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "258321",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258321",
+                    "Titles": {
+                        "eng": "The Terrifying Gambler",
+                        "jpn": "呪いのクレオパトラ（前編）"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "258322",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258322",
+                    "Titles": {
+                        "eng": "The Race Against Time (1)",
+                        "jpn": "呪いのクレオパトラ（後編）"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "258323",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258323",
+                    "Titles": {
+                        "eng": "The Race Against Time (2)",
+                        "jpn": "黄金の腕"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "258324",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258324",
+                    "Titles": {
+                        "eng": "The Snake Track",
+                        "jpn": "ダムサイドの対決"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "258325",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258325",
+                    "Titles": {
+                        "eng": "The Man on the Lam",
+                        "jpn": "疾風！忍者カー（前編）"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "258326",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258326",
+                    "Titles": {
+                        "eng": "Gang of Assassins (1)",
+                        "jpn": "疾風！忍者カー（後編）"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "258327",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258327",
+                    "Titles": {
+                        "eng": "Gang of Assassins (2)",
+                        "jpn": "嵐の決闘"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "258328",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258328",
+                    "Titles": {
+                        "eng": "The Race for Life",
+                        "jpn": "暴走！レコードカー"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "258329",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258329",
+                    "Titles": {
+                        "eng": "The Supersonic Car",
+                        "jpn": "密林の怪戦車（前編）"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "258330",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258330",
+                    "Titles": {
+                        "eng": "Crash in the Jungle (1)",
+                        "jpn": "密林の怪戦車（後編）"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "258331",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258331",
+                    "Titles": {
+                        "eng": "Crash in the Jungle (2)",
+                        "jpn": "地獄の計算魔"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "258332",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258332",
+                    "Titles": {
+                        "eng": "The Secret Invaders (1)",
+                        "jpn": "秘密情報部員ＮＯ.９（前編）"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "258333",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258333",
+                    "Titles": {
+                        "eng": "The Secret Invaders (2)",
+                        "jpn": "秘密情報部員ＮＯ.９（後編）"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "258334",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258334",
+                    "Titles": {
+                        "eng": "The Man Behind the Mask",
+                        "jpn": "恐怖の爆弾カー"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "258335",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258335",
+                    "Titles": {
+                        "eng": "The Car Destroyer",
+                        "jpn": "鉄のまぼろし城"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "258336",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258336",
+                    "Titles": {
+                        "eng": "The Desperate Racer",
+                        "jpn": "パイナップル・レース"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "258337",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258337",
+                    "Titles": {
+                        "eng": "The Dangerous Witness",
+                        "jpn": "魔女ナンバー・０（ｾﾞﾛ）"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "258338",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258338",
+                    "Titles": {
+                        "eng": "Race the Laser Tank",
+                        "jpn": "殺人カー・Ｖ２号"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "258339",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258339",
+                    "Titles": {
+                        "eng": "The Great Car Wrestling Match",
+                        "jpn": "カーレスラー・Ｘ（ｴｯｸｽ）"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "258340",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258340",
+                    "Titles": {
+                        "eng": "Motorcycle Apaches",
+                        "jpn": "オート・アパッチの襲撃"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "258341",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258341",
+                    "Titles": {
+                        "eng": "Car with a Brain",
+                        "jpn": "モンスターカーの復活"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "258342",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258342",
+                    "Titles": {
+                        "eng": "Junk Car Grand Prix",
+                        "jpn": "ポンコツカー・グランプリ"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "258343",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258343",
+                    "Titles": {
+                        "eng": "The Car in the Sky",
+                        "jpn": "決死の風船脱出"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "258344",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258344",
+                    "Titles": {
+                        "eng": "The Trick Race",
+                        "jpn": "アクロバット族の逆襲"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "258345",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258345",
+                    "Titles": {
+                        "eng": "Race Around the World (1)",
+                        "jpn": "史上最大のレース（前編）"
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "258346",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/speed-racer/episodes/258346",
+                    "Titles": {
+                        "eng": "Race Around the World (2)",
+                        "jpn": "史上最大のレース（後編）"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

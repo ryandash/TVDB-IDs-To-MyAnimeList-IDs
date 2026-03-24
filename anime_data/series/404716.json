@@ -1,0 +1,120 @@
+{
+    "URL": "https://thetvdb.com/series/exception",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Science Fiction",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt14825954/",
+        "https://www.netflix.com/title/81002444",
+        "https://www.tvmaze.com/shows/55831/show-slug",
+        "https://www.themoviedb.org/tv/127325",
+        "https://www.wikidata.org/wiki/Q114658322",
+        "https://en.wikipedia.org/wiki/Exception_(TV_series)",
+        "https://x.com/NetflixJP_Anime/status/1403125003671904260"
+    ],
+    "Titles": {
+        "eng": "exception",
+        "jpn": "エクセプション"
+    },
+    "Aliases": [],
+    "Modified": "2026-01-09",
+    "Seasons": {
+        "1": {
+            "ID": "1934029",
+            "URL": "https://thetvdb.com/series/exception/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 8,
+            "Episodes": {
+                "1": {
+                    "ID": "8485801",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/exception/episodes/8485801",
+                    "Titles": {
+                        "eng": "Misprint",
+                        "jpn": "misprint"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9398170",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/exception/episodes/9398170",
+                    "Titles": {
+                        "eng": "Hunger",
+                        "jpn": "hunger"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9398171",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/exception/episodes/9398171",
+                    "Titles": {
+                        "eng": "Contact",
+                        "jpn": "contact"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9398172",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/exception/episodes/9398172",
+                    "Titles": {
+                        "eng": "Collusion",
+                        "jpn": "collusion"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "9398173",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/exception/episodes/9398173",
+                    "Titles": {
+                        "eng": "Investigation",
+                        "jpn": "investigation"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "9398174",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/exception/episodes/9398174",
+                    "Titles": {
+                        "eng": "Betrayal",
+                        "jpn": "betrayal"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "9398175",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/exception/episodes/9398175",
+                    "Titles": {
+                        "eng": "Survival",
+                        "jpn": "survival"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "9398176",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/exception/episodes/9398176",
+                    "Titles": {
+                        "eng": "Gravitation",
+                        "jpn": "gravitation"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

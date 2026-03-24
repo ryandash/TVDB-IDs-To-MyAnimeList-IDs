@@ -1,0 +1,632 @@
+{
+    "URL": "https://thetvdb.com/series/assassination-classroom",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/FD97-EF90-6958-5F7F-ABD6-K",
+        "https://www.imdb.com/title/tt3837246/",
+        "http://www.ansatsu-anime.com/main.php",
+        "https://www.themoviedb.org/tv/62110"
+    ],
+    "Titles": {
+        "eng": "Assassination Classroom",
+        "jpn": "暗殺教室"
+    },
+    "Aliases": [
+        "Ansatsu Kyoushitsu",
+        "Assassination Classroom - Extracurricular Lesson"
+    ],
+    "Modified": "2026-02-24",
+    "Seasons": {
+        "0": {
+            "ID": "591538",
+            "URL": "https://thetvdb.com/series/assassination-classroom/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 10,
+            "Episodes": {
+                "1": {
+                    "ID": "5006324",
+                    "TYPE": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5006324",
+                    "Titles": {
+                        "eng": "Jump Festa 2013 Special",
+                        "jpn": "ジャンプ・スーパーアニメツアー2013 修学旅行編"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5222869",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5222869",
+                    "Titles": {
+                        "eng": "Episode 0 \"Meeting Time\"",
+                        "jpn": "出会いの時間"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6840990",
+                    "TYPE": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/6840990",
+                    "Titles": {
+                        "eng": "Extracurricular Lesson Takebayashi's Time 1",
+                        "jpn": "課外授業編 第01話 「竹林の時間-1」"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6840993",
+                    "TYPE": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/6840993",
+                    "Titles": {
+                        "eng": "Extracurricular Lesson Takebayashi's Time 2",
+                        "jpn": "課外授業編 第02話 「竹林の時間-2」"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6840995",
+                    "TYPE": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/6840995",
+                    "Titles": {
+                        "eng": "Extracurricular Lesson Sovereign Time, 2nd Period 1",
+                        "jpn": "課外授業編 第03話 「支配者の時間・2時間目-1」"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6840996",
+                    "TYPE": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/6840996",
+                    "Titles": {
+                        "eng": "Extracurricular Lesson Sovereign Time, 2nd Period 2",
+                        "jpn": "課外授業編 第04話 「支配者の時間・2時間目-2」"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6841904",
+                    "TYPE": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/6841904",
+                    "Titles": {
+                        "eng": "Extracurricular Lesson Everyone's Time 1",
+                        "jpn": "課外授業編 第05話 「それぞれの時間-1」"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6841905",
+                    "TYPE": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/6841905",
+                    "Titles": {
+                        "eng": "Extracurricular Lesson Everyone's Time 2",
+                        "jpn": "課外授業編 第06話 「それぞれの時間-2」"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6841906",
+                    "TYPE": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/6841906",
+                    "Titles": {
+                        "eng": "Extracurricular Lesson Everyone's Time 3",
+                        "jpn": "課外授業編 第07話 「それぞれの時間-3」"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "6841907",
+                    "TYPE": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/6841907",
+                    "Titles": {
+                        "eng": "Extracurricular Lesson Everyone's Time 4",
+                        "jpn": "課外授業編 第08話 「それぞれの時間-4」"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "591539",
+            "URL": "https://thetvdb.com/series/assassination-classroom/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "pt": "Temporada 1",
+                "spa": "Temporada 1"
+            },
+            "# Episodes": 22,
+            "Episodes": {
+                "1": {
+                    "ID": "4937696",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/4937696",
+                    "Titles": {
+                        "eng": "Assassination Time",
+                        "jpn": "暗殺の時間"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5097574",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5097574",
+                    "Titles": {
+                        "eng": "Baseball Time",
+                        "jpn": "野球の時間"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5097575",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5097575",
+                    "Titles": {
+                        "eng": "Karma Time",
+                        "jpn": "カルマの時間"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5097576",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5097576",
+                    "Titles": {
+                        "eng": "Grown-Up Time",
+                        "jpn": "大人の時間"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5107725",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5107725",
+                    "Titles": {
+                        "eng": "Assembly Time",
+                        "jpn": "集会の時間"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5107726",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5107726",
+                    "Titles": {
+                        "eng": "Test Time",
+                        "jpn": "テストの時間"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5111744",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5111744",
+                    "Titles": {
+                        "eng": "School Trip Time, First Period",
+                        "jpn": "修学旅行の時間・1時間目"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5111745",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5111745",
+                    "Titles": {
+                        "eng": "School Trip Time, Second Period",
+                        "jpn": "修学旅行の時間・2時間目"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5129527",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5129527",
+                    "Titles": {
+                        "eng": "Transfer Student Time",
+                        "jpn": "転校生の時間"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5129528",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5129528",
+                    "Titles": {
+                        "eng": "L and R Time",
+                        "jpn": "LRの時間"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5161364",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5161364",
+                    "Titles": {
+                        "eng": "Transfer Student Time, Second Period",
+                        "jpn": "転校生の時間・2時間目"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5161365",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5161365",
+                    "Titles": {
+                        "eng": "Ball Game Tournament Time",
+                        "jpn": "球技大会の時間"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "5164680",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5164680",
+                    "Titles": {
+                        "eng": "Talent Time",
+                        "jpn": "才能の時間"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "5164681",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5164681",
+                    "Titles": {
+                        "eng": "Vision Time",
+                        "jpn": "ビジョンの時間"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "5164682",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5164682",
+                    "Titles": {
+                        "eng": "End-of-Term Time",
+                        "jpn": "期末の時間"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "5164683",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5164683",
+                    "Titles": {
+                        "eng": "School's Out - First Term",
+                        "jpn": "終業の時間・1学期"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "5164684",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5164684",
+                    "Titles": {
+                        "eng": "Island Time",
+                        "jpn": "島の時間"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "5164685",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5164685",
+                    "Titles": {
+                        "eng": "Action Time",
+                        "jpn": "決行の時間"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "5164686",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5164686",
+                    "Titles": {
+                        "eng": "Pandemonium Time",
+                        "jpn": "伏魔の時間"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "5164687",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5164687",
+                    "Titles": {
+                        "eng": "Karma Time, Second Period",
+                        "jpn": "カルマの時間・2時間目"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "5164688",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5164688",
+                    "Titles": {
+                        "eng": "XX Time",
+                        "jpn": "××の時間"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "5164689",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5164689",
+                    "Titles": {
+                        "eng": "Nagisa Time",
+                        "jpn": "渚の時間"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "626671",
+            "URL": "https://thetvdb.com/series/assassination-classroom/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "pt": "Temporada 2"
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "5257344",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5257344",
+                    "Titles": {
+                        "eng": "Summer Festival Time",
+                        "jpn": "夏祭りの時間"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5465969",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5465969",
+                    "Titles": {
+                        "eng": "Kaede Time",
+                        "jpn": "カエデの時間"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5465970",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5465970",
+                    "Titles": {
+                        "eng": "Itona Horibe Time",
+                        "jpn": "堀部糸成の時間"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5465971",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5465971",
+                    "Titles": {
+                        "eng": "Spinning Time",
+                        "jpn": "紡ぐ時間"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5465972",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5465972",
+                    "Titles": {
+                        "eng": "Leader Time",
+                        "jpn": "リーダーの時間"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5465973",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5465973",
+                    "Titles": {
+                        "eng": "Before & After Time",
+                        "jpn": "ビフォーアフターの時間"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5465974",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5465974",
+                    "Titles": {
+                        "eng": "Reaper Time, Part 1",
+                        "jpn": "死神の時間 前編"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5469909",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5469909",
+                    "Titles": {
+                        "eng": "Reaper Time, Part 2",
+                        "jpn": "死神の時間 後編"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5469910",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5469910",
+                    "Titles": {
+                        "eng": "Round Two Time",
+                        "jpn": "２周目の時間"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5469911",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5469911",
+                    "Titles": {
+                        "eng": "School Festival Time",
+                        "jpn": "学園祭の時間"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5469912",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5469912",
+                    "Titles": {
+                        "eng": "End-of-Term Time - Second Period",
+                        "jpn": "期末の時間 2時間目"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5469913",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5469913",
+                    "Titles": {
+                        "eng": "Think Outside the Box Time",
+                        "jpn": "空間の時間"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "5469914",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5469914",
+                    "Titles": {
+                        "eng": "Let Live Time",
+                        "jpn": "生かす時間"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "5469915",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5469915",
+                    "Titles": {
+                        "eng": "Secret Identity Time",
+                        "jpn": "正体の時間"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "5469916",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5469916",
+                    "Titles": {
+                        "eng": "Confession Time",
+                        "jpn": "告白の時間"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "5469918",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5469918",
+                    "Titles": {
+                        "eng": "Past Time",
+                        "jpn": "過去の時間"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "5469919",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5469919",
+                    "Titles": {
+                        "eng": "Discord Time",
+                        "jpn": "分裂の時間"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "5469920",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5469920",
+                    "Titles": {
+                        "eng": "Outcome Time",
+                        "jpn": "結果の時間"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "5469921",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5469921",
+                    "Titles": {
+                        "eng": "Outer Space Time",
+                        "jpn": "宇宙の時間"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "5469922",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5469922",
+                    "Titles": {
+                        "eng": "Valentine's Day Time",
+                        "jpn": "バレンタインの時間"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "5469928",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5469928",
+                    "Titles": {
+                        "eng": "Trust Time",
+                        "jpn": "信頼の時間"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "5469929",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5469929",
+                    "Titles": {
+                        "eng": "Happy Birthday Time",
+                        "jpn": "ハッピーバースディの時間"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "5469930",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5469930",
+                    "Titles": {
+                        "eng": "Final Boss Time",
+                        "jpn": "ラスボスの時間"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "5469931",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5469931",
+                    "Titles": {
+                        "eng": "Graduation Time",
+                        "jpn": "卒業の時間"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "5469934",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/assassination-classroom/episodes/5469934",
+                    "Titles": {
+                        "eng": "Future Time",
+                        "jpn": "未来の時間"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

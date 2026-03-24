@@ -1,0 +1,583 @@
+{
+    "URL": "https://thetvdb.com/series/343237-show",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Science Fiction",
+        "War"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt7407236/",
+        "https://www.themoviedb.org/tv/74018"
+    ],
+    "Titles": {
+        "eng": "Legend of the Galactic Heroes: Die Neue These",
+        "jpn": "銀河英雄伝説 Die Neue These"
+    },
+    "Aliases": [
+        "Legend of the Galactic Heroes: The New Thesis",
+        "銀河英雄伝説 Die Neue These 邂逅",
+        "銀河英雄伝説 Die Neue These 星乱",
+        "Ginga Eiyū Densetsu Die Neue These Kaikō",
+        "Ginga Eiyuu Densetsu: Die Neue These - Kaikou",
+        "Ginga Eiyū Densetsu Die Neue These Seiran",
+        "Ginga Eiyuu Densetsu: Die Neue These - Seiran",
+        "銀河英雄伝説 Die Neue These 激突",
+        "Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu",
+        "Ginga Eiyuu Densetsu: Die Neue These"
+    ],
+    "Modified": "2026-02-26",
+    "Seasons": {
+        "0": {
+            "ID": "752796",
+            "URL": "https://thetvdb.com/series/343237-show/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "6698417",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/6698417",
+                    "Titles": {
+                        "eng": "Kircheis' Visit to Iserlohn",
+                        "jpn": "キルヒアイスのイゼルローン訪問記"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "755169",
+            "URL": "https://thetvdb.com/series/343237-show/seasons/official/1",
+            "Titles": {
+                "eng": "Encounter",
+                "jpn": "邂逅 (Kaikō / Kaikou)",
+                "kor": "해후"
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "6588618",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/6588618",
+                    "Titles": {
+                        "eng": "In the Eternal Night",
+                        "jpn": "永遠の夜の中で"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6627608",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/6627608",
+                    "Titles": {
+                        "eng": "The Battle of Astarte",
+                        "jpn": "アスターテ会戦"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6641300",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/6641300",
+                    "Titles": {
+                        "eng": "An Indomitable Prodigy",
+                        "jpn": "常勝の天才"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6641301",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/6641301",
+                    "Titles": {
+                        "eng": "The Unbeatable Magician",
+                        "jpn": "不敗の魔術師"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6641302",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/6641302",
+                    "Titles": {
+                        "eng": "Birth of the 13th Fleet",
+                        "jpn": "第十三艦隊誕生"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6641303",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/6641303",
+                    "Titles": {
+                        "eng": "The Capture of Iserlohn (Part 1)",
+                        "jpn": "イゼルローン攻略[前編]"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6641304",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/6641304",
+                    "Titles": {
+                        "eng": "The Capture of Iserlohn (Part 2)",
+                        "jpn": "イゼルローン攻略[後編]"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6641305",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/6641305",
+                    "Titles": {
+                        "eng": "The Castrop Rebellion",
+                        "jpn": "カストロプ動乱"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6641306",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/6641306",
+                    "Titles": {
+                        "eng": "Each Person's Star",
+                        "jpn": "それぞれの星"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6641307",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/6641307",
+                    "Titles": {
+                        "eng": "Interlude",
+                        "jpn": "幕間狂言"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6641308",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/6641308",
+                    "Titles": {
+                        "eng": "The Verge of Death (Part 1)",
+                        "jpn": "死線[前編]"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6641309",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/6641309",
+                    "Titles": {
+                        "eng": "The Verge of Death (Part 2)",
+                        "jpn": "死線[後編]"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "1898701",
+            "URL": "https://thetvdb.com/series/343237-show/seasons/official/2",
+            "Titles": {
+                "eng": "Stellar War",
+                "jpn": "星乱 (Seiran)",
+                "kor": "성난"
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "7375929",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/7375929",
+                    "Titles": {
+                        "eng": "Amritsar",
+                        "jpn": "アムリッツァ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7375930",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/7375930",
+                    "Titles": {
+                        "eng": "Demise of the Emperor",
+                        "jpn": "皇帝崩御"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7375931",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/7375931",
+                    "Titles": {
+                        "eng": "Before the Storm",
+                        "jpn": "嵐の前"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7403102",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/7403102",
+                    "Titles": {
+                        "eng": "Ignition Point",
+                        "jpn": "発火点"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7403103",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/7403103",
+                    "Titles": {
+                        "eng": "The Yang Fleet Mobilizes",
+                        "jpn": "ヤン艦隊出動"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "7403104",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/7403104",
+                    "Titles": {
+                        "eng": "Bloodshed in Space",
+                        "jpn": "流血の宇宙"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "7403105",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/7403105",
+                    "Titles": {
+                        "eng": "The Battle of the Doria Starzone",
+                        "jpn": "ドーリア星域の会戦"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "7403107",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/7403107",
+                    "Titles": {
+                        "eng": "Tragedy",
+                        "jpn": "惨劇"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "7403108",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/7403108",
+                    "Titles": {
+                        "eng": "Victory for Whose Sake?",
+                        "jpn": "誰がための勝利"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "7403109",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/7403109",
+                    "Titles": {
+                        "eng": "The Fall of Goldenbaum",
+                        "jpn": "銀金樹は倒れた"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "7403111",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/7403111",
+                    "Titles": {
+                        "eng": "Farewell to the Days of Old",
+                        "jpn": "さらば、遠き日"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "7403112",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/7403112",
+                    "Titles": {
+                        "eng": "My Dear Friend",
+                        "jpn": "わが友"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "1993246",
+            "URL": "https://thetvdb.com/series/343237-show/seasons/official/3",
+            "Titles": {
+                "eng": "Collision",
+                "jpn": "激突 (Gekitotsu)",
+                "kor": "격돌"
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "9090243",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/9090243",
+                    "Titles": {
+                        "eng": "First Campaign",
+                        "jpn": "初陣"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9090244",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/9090244",
+                    "Titles": {
+                        "eng": "The Twin Pillars",
+                        "jpn": "双璧"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9090245",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/9090245",
+                    "Titles": {
+                        "eng": "A Stormy Night",
+                        "jpn": "嵐の夜"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9098459",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/9098459",
+                    "Titles": {
+                        "eng": "Reformer",
+                        "jpn": "改革者"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "9098598",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/9098598",
+                    "Titles": {
+                        "eng": "The Geier Takes Flight",
+                        "jpn": "はばたく禿鷹(ガイエ)"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "9111220",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/9111220",
+                    "Titles": {
+                        "eng": "A Single Fine Thread",
+                        "jpn": "細い一本の糸"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "9127333",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/9127333",
+                    "Titles": {
+                        "eng": "What Was Lost",
+                        "jpn": "失われたもの"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "9139699",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/9139699",
+                    "Titles": {
+                        "eng": "Inquiry",
+                        "jpn": "査問会"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "9141231",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/9141231",
+                    "Titles": {
+                        "eng": "War Without Weapons",
+                        "jpn": "武器なき戦い"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "9139700",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/9139700",
+                    "Titles": {
+                        "eng": "Fortress vs. Fortress Akt I: Cannon Fire",
+                        "jpn": "要塞対要塞 AktI:巨砲、相撃つ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "9139717",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/9139717",
+                    "Titles": {
+                        "eng": "Fortress vs. Fortress Akt II: Fierce Fighting",
+                        "jpn": "要塞対要塞 AktII:激闘"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "9139774",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/9139774",
+                    "Titles": {
+                        "eng": "Fortress vs. Fortress Akt III: The Return of the Magician",
+                        "jpn": "要塞対要塞 AktIII:魔術師の帰還"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "4": {
+            "ID": "2003553",
+            "URL": "https://thetvdb.com/series/343237-show/seasons/official/4",
+            "Titles": {
+                "eng": "Intrigue",
+                "jpn": "策謀 (Sakubō / Sakubou)",
+                "kor": "책모"
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "9197535",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/9197535",
+                    "Titles": {
+                        "eng": "Fortress vs. Fortress Akt IV: Conclusion",
+                        "jpn": "要塞対要塞 AktIV: 決着"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9376306",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/9376306",
+                    "Titles": {
+                        "eng": "Determination and Ambition",
+                        "jpn": "決意と野心"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9390357",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/9390357",
+                    "Titles": {
+                        "eng": "Thunderclaps",
+                        "jpn": "雷鳴"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9390358",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/9390358",
+                    "Titles": {
+                        "eng": "Maze",
+                        "jpn": "迷宮"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "9390359",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/9390359",
+                    "Titles": {
+                        "eng": "The Die Is Cast",
+                        "jpn": "矢は放たれた"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "9390360",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/9390360",
+                    "Titles": {
+                        "eng": "The Legitimate Galactic Empire Government",
+                        "jpn": "銀河帝国正統政府"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "9390361",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/9390361",
+                    "Titles": {
+                        "eng": "Declaration of War",
+                        "jpn": "宣戦布告"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "9390362",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/9390362",
+                    "Titles": {
+                        "eng": "Departure",
+                        "jpn": "旅立ち"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "9390363",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/9390363",
+                    "Titles": {
+                        "eng": "Emperor Overthrown",
+                        "jpn": "皇帝廃立"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "9390364",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/9390364",
+                    "Titles": {
+                        "eng": "Operation: Ragnarök",
+                        "jpn": "作戦名「神々の黄昏(ラグナロック)」"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "9390365",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/9390365",
+                    "Titles": {
+                        "eng": "Invitation to a Requiem",
+                        "jpn": "鎮魂曲(レクイエム)への招待"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "9390366",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/343237-show/episodes/9390366",
+                    "Titles": {
+                        "eng": "The Occupation of Fezzan",
+                        "jpn": "フェザーン占領"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

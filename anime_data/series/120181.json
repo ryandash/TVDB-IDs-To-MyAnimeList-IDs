@@ -1,0 +1,112 @@
+{
+    "URL": "https://thetvdb.com/series/one-kagayaku-kisetsu-e",
+    "Genres": [
+        "Animation"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/194694"
+    ],
+    "Titles": {
+        "eng": "One ~To the Radiant Season~",
+        "jpn": "ONE～輝く季節へ～"
+    },
+    "Aliases": [
+        "Kagayaku Kisetsu e",
+        "ONE ~to a shining season~"
+    ],
+    "Modified": "2024-11-02",
+    "Seasons": {
+        "0": {
+            "ID": "540851",
+            "URL": "https://thetvdb.com/series/one-kagayaku-kisetsu-e/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "7582686",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/one-kagayaku-kisetsu-e/episodes/7582686",
+                    "Titles": {
+                        "eng": "True Stories: Volume 1",
+                        "jpn": "True Stories EPISODE1"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7582692",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/one-kagayaku-kisetsu-e/episodes/7582692",
+                    "Titles": {
+                        "eng": "True Stories: Volume 2",
+                        "jpn": "True Stories EPISODE2"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7582695",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/one-kagayaku-kisetsu-e/episodes/7582695",
+                    "Titles": {
+                        "eng": "True Stories: Volume 3",
+                        "jpn": "True Stories EPISODE3"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "134311",
+            "URL": "https://thetvdb.com/series/one-kagayaku-kisetsu-e/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "1205011",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/one-kagayaku-kisetsu-e/episodes/1205011",
+                    "Titles": {
+                        "eng": "Akane Shiiko - The Rain Chapter",
+                        "jpn": "雨の章"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1205021",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/one-kagayaku-kisetsu-e/episodes/1205021",
+                    "Titles": {
+                        "eng": "Rumi Mizuka - The Wind Chapter",
+                        "jpn": "風の章"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1205031",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/one-kagayaku-kisetsu-e/episodes/1205031",
+                    "Titles": {
+                        "eng": "Misaki Mito - The Snow Chapter",
+                        "jpn": "雪の章"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1205041",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/one-kagayaku-kisetsu-e/episodes/1205041",
+                    "Titles": {
+                        "eng": "Mizuka Mayu - The Cherry Blossom Chapter",
+                        "jpn": "桜の章"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

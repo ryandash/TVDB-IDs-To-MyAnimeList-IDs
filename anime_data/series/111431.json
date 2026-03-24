@@ -1,0 +1,73 @@
+{
+    "URL": "https://thetvdb.com/series/the-abashiri-family",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/122517"
+    ],
+    "Titles": {
+        "eng": "The Abashiri Family",
+        "jpn": "Abashiri Ikka"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "111951",
+            "URL": "https://thetvdb.com/series/the-abashiri-family/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "1034071",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-abashiri-family/episodes/1034071",
+                    "Titles": {
+                        "eng": "Explosion of Violence!! We Don't Have Justice!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1034081",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-abashiri-family/episodes/1034081",
+                    "Titles": {
+                        "eng": "HELL! Paradise School",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1034091",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-abashiri-family/episodes/1034091",
+                    "Titles": {
+                        "eng": "Riot! A Storm in the Paradise",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1034101",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/the-abashiri-family/episodes/1034101",
+                    "Titles": {
+                        "eng": "The Price of Betrayal",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

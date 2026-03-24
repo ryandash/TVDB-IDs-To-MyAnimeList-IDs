@@ -1,0 +1,41 @@
+{
+    "URL": "https://thetvdb.com/series/shang-shan",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://www.fujitv.co.jp/shozen/",
+        "https://www.themoviedb.org/tv/305716",
+        "https://www.wikidata.org/wiki/Q138711763",
+        "https://x.com/shozen_anime"
+    ],
+    "Titles": {
+        "eng": "Shang Shan",
+        "jpn": "尚善"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "2240165",
+            "URL": "https://thetvdb.com/series/shang-shan/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11682827",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shang-shan/episodes/11682827",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

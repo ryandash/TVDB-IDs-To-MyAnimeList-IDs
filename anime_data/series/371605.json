@@ -1,0 +1,55 @@
+{
+    "URL": "https://thetvdb.com/series/dramatic-memory-honoo-no-alpenrose",
+    "Genres": [
+        "Adventure",
+        "Anime",
+        "Drama",
+        "History",
+        "Romance",
+        "War"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0296351/"
+    ],
+    "Titles": {
+        "eng": "Dramatic Memory Honoo no Alpenrose",
+        "jpn": "ドラマチックメモリー 炎のアルペンローゼ"
+    },
+    "Aliases": [
+        "Honoo no Alpenrose"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "831986",
+            "URL": "https://thetvdb.com/series/dramatic-memory-honoo-no-alpenrose/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "7427446",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dramatic-memory-honoo-no-alpenrose/episodes/7427446",
+                    "Titles": {
+                        "eng": "The Sepia Labyrinth",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7427447",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dramatic-memory-honoo-no-alpenrose/episodes/7427447",
+                    "Titles": {
+                        "eng": "Going Along Love-Me Road",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

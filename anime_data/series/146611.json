@@ -1,0 +1,64 @@
+{
+    "URL": "https://thetvdb.com/series/i-dream-of-mimi",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Comedy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0444994/",
+        "https://www.themoviedb.org/tv/44618"
+    ],
+    "Titles": {
+        "eng": "I Dream of Mimi",
+        "jpn": "ぶっとび！！ ＣＰＵ"
+    },
+    "Aliases": [
+        "Buttobi CPU"
+    ],
+    "Modified": "2026-01-21",
+    "Seasons": {
+        "1": {
+            "ID": "205491",
+            "URL": "https://thetvdb.com/series/i-dream-of-mimi/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "1830611",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/i-dream-of-mimi/episodes/1830611",
+                    "Titles": {
+                        "eng": "Extreme Access",
+                        "jpn": "過激にアクセス！"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1830621",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/i-dream-of-mimi/episodes/1830621",
+                    "Titles": {
+                        "eng": "Gentle Hang Up",
+                        "jpn": "やさしくハングアップ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1830641",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/i-dream-of-mimi/episodes/1830641",
+                    "Titles": {
+                        "eng": "Graceful Reset",
+                        "jpn": "優雅にリセット"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

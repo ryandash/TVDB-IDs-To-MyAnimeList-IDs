@@ -1,0 +1,386 @@
+{
+    "URL": "https://thetvdb.com/series/shadow-skill",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Martial Arts"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0407446/",
+        "https://www.themoviedb.org/tv/42673"
+    ],
+    "Titles": {
+        "eng": "Shadow Skill",
+        "jpn": "影技 SHADOW SKILL"
+    },
+    "Aliases": [
+        "影技 シャドウスキル"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "19879",
+            "URL": "https://thetvdb.com/series/shadow-skill/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 8,
+            "Episodes": {
+                "1": {
+                    "ID": "446461",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/446461",
+                    "Titles": {
+                        "eng": "Sevalle",
+                        "jpn": "セヴァール"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "446462",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/446462",
+                    "Titles": {
+                        "eng": "Septia",
+                        "jpn": "セプティア"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "446463",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/446463",
+                    "Titles": {
+                        "eng": "Sui Rame",
+                        "jpn": "スイレーム"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "446460",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/446460",
+                    "Titles": {
+                        "eng": "Epilogue",
+                        "jpn": "OVA"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "808401",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/808401",
+                    "Titles": {
+                        "eng": "Secret of the Kurudan Style",
+                        "jpn": "SHADOW SKILL クルダ流交殺法の秘密"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "10588587",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/10588587",
+                    "Titles": {
+                        "eng": "Shadow Skill: The Movie",
+                        "jpn": "影技 SHADOW SKILL"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "10589810",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/10589810",
+                    "Titles": {
+                        "eng": "Shadow Skill: The Origin",
+                        "jpn": "Shadow Skill: The Origin"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "11039987",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/11039987",
+                    "Titles": {
+                        "eng": "act.16 KARMA",
+                        "jpn": "act.16 KARMA"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "27750",
+            "URL": "https://thetvdb.com/series/shadow-skill/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "339245",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339245",
+                    "Titles": {
+                        "eng": "The Power of My Blow has No Equal!",
+                        "jpn": "我が一撃は無敵なり"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "339246",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339246",
+                    "Titles": {
+                        "eng": "Duelists",
+                        "jpn": "決闘者たち"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "339247",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339247",
+                    "Titles": {
+                        "eng": "Phantom's Keepsake",
+                        "jpn": "ファントムの忘れ形見"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "339248",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339248",
+                    "Titles": {
+                        "eng": "What My Father Left Me",
+                        "jpn": "父が遺したもの"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "339249",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339249",
+                    "Titles": {
+                        "eng": "Proud Battlefield",
+                        "jpn": "誇り高き戦場"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "339250",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339250",
+                    "Titles": {
+                        "eng": "White and Black Flash",
+                        "jpn": "白と黒の閃光"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "339251",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339251",
+                    "Titles": {
+                        "eng": "Destined Confrontation",
+                        "jpn": "宿命の対決"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "339252",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339252",
+                    "Titles": {
+                        "eng": "Dangerous Human Weapon. To the North",
+                        "jpn": "人間凶器.北へ"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "339253",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339253",
+                    "Titles": {
+                        "eng": "Violent Bombing of the Holy City",
+                        "jpn": "聖都爆烈す"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "339254",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339254",
+                    "Titles": {
+                        "eng": "Clash of White and Black",
+                        "jpn": "白と黒の衝突"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "339255",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339255",
+                    "Titles": {
+                        "eng": "Invasion",
+                        "jpn": "侵攻"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "339256",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339256",
+                    "Titles": {
+                        "eng": "Black Howling",
+                        "jpn": "黒き咆哮"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "339257",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339257",
+                    "Titles": {
+                        "eng": "With the Heart of a Friend",
+                        "jpn": "友の心とともに"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "339258",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339258",
+                    "Titles": {
+                        "eng": "The Temple of Moonlight",
+                        "jpn": "月影神殿"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "339259",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339259",
+                    "Titles": {
+                        "eng": "Ghost",
+                        "jpn": "亡霊"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "339260",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339260",
+                    "Titles": {
+                        "eng": "An Attacker From the Past",
+                        "jpn": "過去からの襲撃者"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "339261",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339261",
+                    "Titles": {
+                        "eng": "Crimson",
+                        "jpn": "紅蓮"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "339262",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339262",
+                    "Titles": {
+                        "eng": "The Seventh Dawn",
+                        "jpn": "第七の暁"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "339263",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339263",
+                    "Titles": {
+                        "eng": "Fang, 2nd Generation",
+                        "jpn": "牙, 二代"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "339264",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339264",
+                    "Titles": {
+                        "eng": "Darkness and Death",
+                        "jpn": "闇と死と"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "339265",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339265",
+                    "Titles": {
+                        "eng": "Cannon",
+                        "jpn": "神音 -カノン-"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "339266",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339266",
+                    "Titles": {
+                        "eng": "Older Sister, Younger Brother",
+                        "jpn": "あね, おとうと"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "339267",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339267",
+                    "Titles": {
+                        "eng": "Prepare Yourself",
+                        "jpn": "覚悟を決めろ"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "339268",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339268",
+                    "Titles": {
+                        "eng": "Fist of God",
+                        "jpn": "神の拳"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "339269",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339269",
+                    "Titles": {
+                        "eng": "Ying-style Demon",
+                        "jpn": "陰流の魔徒"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "339270",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/shadow-skill/episodes/339270",
+                    "Titles": {
+                        "eng": "Path of a Sevaar",
+                        "jpn": "修練闘士"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

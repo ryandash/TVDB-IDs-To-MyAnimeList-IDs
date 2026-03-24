@@ -1,0 +1,47 @@
+{
+    "URL": "https://thetvdb.com/series/yuri-seijin-naoko-san",
+    "Genres": [
+        "Animation",
+        "Comedy"
+    ],
+    "Other Sites": [],
+    "Titles": {
+        "eng": "Yuri Seijin Naoko-san",
+        "jpn": "百合星人ナオコサン"
+    },
+    "Aliases": [],
+    "Modified": "2025-09-24",
+    "Seasons": {
+        "1": {
+            "ID": "639616",
+            "URL": "https://thetvdb.com/series/yuri-seijin-naoko-san/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "5349981",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/yuri-seijin-naoko-san/episodes/5349981",
+                    "Titles": {
+                        "eng": "Yuri Seijin Naoko-san (2010)",
+                        "jpn": "百合星人ナオコサン  (2010)"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5349989",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/yuri-seijin-naoko-san/episodes/5349989",
+                    "Titles": {
+                        "eng": "Yuri Seijin Naoko-san (2012)",
+                        "jpn": "百合星人ナオコサン (2012)"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "URL": "https://thetvdb.com/series/kyomu-senshi-miroku",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Fantasy",
+        "History",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt14045292/",
+        "https://www.themoviedb.org/tv/116433"
+    ],
+    "Titles": {
+        "eng": "Expunged Chronicle of Miroku",
+        "jpn": "虚無戦史MIROKU"
+    },
+    "Aliases": [
+        "Kyomu Senshi Miroku"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "1815738",
+            "URL": "https://thetvdb.com/series/kyomu-senshi-miroku/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "7545967",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kyomu-senshi-miroku/episodes/7545967",
+                    "Titles": {
+                        "eng": "The Resurrection of King Azhara",
+                        "jpn": "阿邪羅王の復活"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7545971",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kyomu-senshi-miroku/episodes/7545971",
+                    "Titles": {
+                        "eng": "Death Battle! Kowloon vs Sanada",
+                        "jpn": "死闘!九龍対真田"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7545986",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kyomu-senshi-miroku/episodes/7545986",
+                    "Titles": {
+                        "eng": "The Chosen One!",
+                        "jpn": "選ばれし者!"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7545991",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kyomu-senshi-miroku/episodes/7545991",
+                    "Titles": {
+                        "eng": "The New Battle",
+                        "jpn": "新たなる戦い"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7545992",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kyomu-senshi-miroku/episodes/7545992",
+                    "Titles": {
+                        "eng": "Kowloon City Yan Shang",
+                        "jpn": "九龍城炎上"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "7545993",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kyomu-senshi-miroku/episodes/7545993",
+                    "Titles": {
+                        "eng": "The Way to the Galaxy",
+                        "jpn": "銀河への道"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

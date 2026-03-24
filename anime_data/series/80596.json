@@ -1,0 +1,625 @@
+{
+    "URL": "https://thetvdb.com/series/angel-heart",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Mystery"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0965544/",
+        "https://www.themoviedb.org/tv/42999"
+    ],
+    "Titles": {
+        "eng": "Angel Heart",
+        "jpn": "エンジェル・ハート"
+    },
+    "Aliases": [],
+    "Modified": "2025-03-12",
+    "Seasons": {
+        "0": {
+            "ID": "536138",
+            "URL": "https://thetvdb.com/series/angel-heart/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 8,
+            "Episodes": {
+                "1": {
+                    "ID": "4944543",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/4944543",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4944544",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/4944544",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4944545",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/4944545",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4944546",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/4944546",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4944547",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/4944547",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4944548",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/4944548",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4944549",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/4944549",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4944550",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/4944550",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "28654",
+            "URL": "https://thetvdb.com/series/angel-heart/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 50,
+            "Episodes": {
+                "1": {
+                    "ID": "336636",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336636",
+                    "Titles": {
+                        "eng": "Glass Heart",
+                        "jpn": "ガラスの心臓 -グラス・ハート-"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "336637",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336637",
+                    "Titles": {
+                        "eng": "Kaori has Returned",
+                        "jpn": "香が帰ってきた"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "336638",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336638",
+                    "Titles": {
+                        "eng": "City of XYZ",
+                        "jpn": "XYZの街"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "336639",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336639",
+                    "Titles": {
+                        "eng": "Wavering Heart",
+                        "jpn": "さまようHEART"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "336640",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336640",
+                    "Titles": {
+                        "eng": "Farewell...Kaori",
+                        "jpn": "永別（さよなら）…カオリ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "336641",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336641",
+                    "Titles": {
+                        "eng": "Reunion",
+                        "jpn": "再会"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "336642",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336642",
+                    "Titles": {
+                        "eng": "My Beloved Town",
+                        "jpn": "俺の愛すべき街"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "336643",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336643",
+                    "Titles": {
+                        "eng": "True Friends",
+                        "jpn": "真実（ホント）の仲間"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "336644",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336644",
+                    "Titles": {
+                        "eng": "Shan-In~Lost Name~",
+                        "jpn": "香瑩 〜失われた名前〜"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "336645",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336645",
+                    "Titles": {
+                        "eng": "Angel Smile",
+                        "jpn": "エンジェル スマイル"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "336646",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336646",
+                    "Titles": {
+                        "eng": "Family Time",
+                        "jpn": "父娘（おやこ）の時間"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "336647",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336647",
+                    "Titles": {
+                        "eng": "Encounter and Separation On Board The Ship",
+                        "jpn": "船上の出会いと別れ"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "336648",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336648",
+                    "Titles": {
+                        "eng": "Present from Master Li",
+                        "jpn": "李大人からの贈り物"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "336649",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336649",
+                    "Titles": {
+                        "eng": "Revival, City Hunter!",
+                        "jpn": "復活C・H（シティーハンター）!"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "336651",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336651",
+                    "Titles": {
+                        "eng": "Find Papa!",
+                        "jpn": "パパを捜して!"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "336652",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336652",
+                    "Titles": {
+                        "eng": "City Hunter's Qualifications",
+                        "jpn": "C・H（シティーハンター）としての資格"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "336653",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336653",
+                    "Titles": {
+                        "eng": "Encounter in a Dream",
+                        "jpn": "夢の中の出会い"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "336654",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336654",
+                    "Titles": {
+                        "eng": "Familial Ties",
+                        "jpn": "親子の絆"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "336655",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336655",
+                    "Titles": {
+                        "eng": "Old Man Chen's Place",
+                        "jpn": "陳老人の店"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "336656",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336656",
+                    "Titles": {
+                        "eng": "Fated Prelude",
+                        "jpn": "宿命のプレリュード"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "336657",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336657",
+                    "Titles": {
+                        "eng": "Sorrowful Guardian",
+                        "jpn": "哀しき守護者（ガーディアン）"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "336658",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336658",
+                    "Titles": {
+                        "eng": "Unfair Happiness",
+                        "jpn": "不公平な幸せ"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "336659",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336659",
+                    "Titles": {
+                        "eng": "Melody of Departure",
+                        "jpn": "出発（たびだち）のメロディー"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "336660",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336660",
+                    "Titles": {
+                        "eng": "With The Beat...",
+                        "jpn": "鼓動と共に…"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "336661",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336661",
+                    "Titles": {
+                        "eng": "A Client With a Death Wish",
+                        "jpn": "死にたがる依頼者"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "336662",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336662",
+                    "Titles": {
+                        "eng": "Going Back to Those Times",
+                        "jpn": "もう一度あの頃に"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "336663",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336663",
+                    "Titles": {
+                        "eng": "Am I in love!?",
+                        "jpn": "私、恋してる!?"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "336664",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336664",
+                    "Titles": {
+                        "eng": "Promise",
+                        "jpn": "約束"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "336665",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336665",
+                    "Titles": {
+                        "eng": "My Sister...Kaori",
+                        "jpn": "私の妹…香"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "336666",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336666",
+                    "Titles": {
+                        "eng": "This City Means Everything to Me",
+                        "jpn": "この街は私の全て"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "336667",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336667",
+                    "Titles": {
+                        "eng": "The Vision She Saw on the Last Night",
+                        "jpn": "最後の夜に見た奇跡"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "336668",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336668",
+                    "Titles": {
+                        "eng": "The Woman from the Organization",
+                        "jpn": "組織から来た女"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "336669",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336669",
+                    "Titles": {
+                        "eng": "Blessed Child from God",
+                        "jpn": "神から授かりし子"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "336670",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336670",
+                    "Titles": {
+                        "eng": "Their Determination",
+                        "jpn": "二人の決意"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "336671",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336671",
+                    "Titles": {
+                        "eng": "To the Future...",
+                        "jpn": "未来へ…"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "336672",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336672",
+                    "Titles": {
+                        "eng": "The Girl Who Carries Happiness",
+                        "jpn": "幸せを運ぶ女の子"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "336673",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336673",
+                    "Titles": {
+                        "eng": "Untainted Heart",
+                        "jpn": "汚れのない心"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "336674",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336674",
+                    "Titles": {
+                        "eng": "Become My Eyes",
+                        "jpn": "オレの目になってくれ"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "336675",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336675",
+                    "Titles": {
+                        "eng": "The Client is a Famous Actress",
+                        "jpn": "依頼者は大女優"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "336676",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336676",
+                    "Titles": {
+                        "eng": "Miki's Hidden Secret",
+                        "jpn": "ミキの隠された秘密"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "336677",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336677",
+                    "Titles": {
+                        "eng": "Where I Belong",
+                        "jpn": "自分の居場所"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "336678",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336678",
+                    "Titles": {
+                        "eng": "Their Secret Signal",
+                        "jpn": "二人だけのサイン"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "336679",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336679",
+                    "Titles": {
+                        "eng": "My Everyday Life",
+                        "jpn": "私が生きる日常"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "336680",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336680",
+                    "Titles": {
+                        "eng": "For the Sake of Our Children",
+                        "jpn": "俺たちの子供のために"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "336681",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336681",
+                    "Titles": {
+                        "eng": "Human Nuclear Warhead, Yang",
+                        "jpn": "人間核弾頭、楊"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "336682",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336682",
+                    "Titles": {
+                        "eng": "Mother Heart",
+                        "jpn": "マザー・ハート"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "336683",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336683",
+                    "Titles": {
+                        "eng": "Bright Future?!",
+                        "jpn": "アカルイミライ!?"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "336684",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336684",
+                    "Titles": {
+                        "eng": "Drawing in Destiny",
+                        "jpn": "引き寄せられる運命"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "336685",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336685",
+                    "Titles": {
+                        "eng": "Get My Life",
+                        "jpn": "Get My Life"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "336686",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/angel-heart/episodes/336686",
+                    "Titles": {
+                        "eng": "Last Present",
+                        "jpn": "ラストプレゼント"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

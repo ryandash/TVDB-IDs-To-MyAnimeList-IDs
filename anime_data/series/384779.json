@@ -1,0 +1,45 @@
+{
+    "URL": "https://thetvdb.com/series/get-up-get-live",
+    "Genres": [
+        "Anime",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt12623424/",
+        "http://getup-getlive.com/short-anime",
+        "https://www.themoviedb.org/tv/105713"
+    ],
+    "Titles": {
+        "eng": "Get Up! Get Live! #Geragera",
+        "jpn": "GETUP! GETLIVE! #げらげら"
+    },
+    "Aliases": [
+        "Get Up! Get Live! #Geragera",
+        "GET UP! GET LIVE!(ゲラゲラ)",
+        "GET UP! GET LIVE!"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "1852553",
+            "URL": "https://thetvdb.com/series/get-up-get-live/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "7819227",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/get-up-get-live/episodes/7819227",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Episode 1"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

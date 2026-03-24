@@ -1,0 +1,81 @@
+{
+    "URL": "https://thetvdb.com/series/kara-the-animation",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2565784/",
+        "https://www.themoviedb.org/tv/65756"
+    ],
+    "Titles": {
+        "eng": "Kara The Animation",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2025-09-05",
+    "Seasons": {
+        "1": {
+            "ID": "515637",
+            "URL": "https://thetvdb.com/series/kara-the-animation/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "4530305",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kara-the-animation/episodes/4530305",
+                    "Titles": {
+                        "eng": "Lethal Frontier: Adios For Mala Amigo!! (Gyuri)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4530306",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kara-the-animation/episodes/4530306",
+                    "Titles": {
+                        "eng": "Alien Space: 6 Hours To Time Out!! (Seungyeon)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4530307",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kara-the-animation/episodes/4530307",
+                    "Titles": {
+                        "eng": "Under Speed: Romance Over Hell-Sailing!! (Nicole)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4530308",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kara-the-animation/episodes/4530308",
+                    "Titles": {
+                        "eng": "Die Guard: Happily Never After!! (Hara)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4530309",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kara-the-animation/episodes/4530309",
+                    "Titles": {
+                        "eng": "Tower Draft: Cool Dancing With Flame!! (Jiyoung)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

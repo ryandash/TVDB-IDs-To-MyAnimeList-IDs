@@ -1,0 +1,976 @@
+{
+    "URL": "https://thetvdb.com/series/hack-1",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0361140/",
+        "https://www.themoviedb.org/tv/8864"
+    ],
+    "Titles": {
+        "eng": ".hack",
+        "jpn": ".hack"
+    },
+    "Aliases": [
+        ".hack//SIGN",
+        "．ｈａｃｋ／／ＳＩＧＮ",
+        ".hack//黄昏の腕輪伝説",
+        ".hack//Tasogare no udewa densetsu"
+    ],
+    "Modified": "2025-12-29",
+    "Seasons": {
+        "0": {
+            "ID": "26546",
+            "URL": "https://thetvdb.com/series/hack-1/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "389671",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/389671",
+                    "Titles": {
+                        "eng": "Intermezzo",
+                        "jpn": "Intermezzo（間奏曲）"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4234406",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4234406",
+                    "Titles": {
+                        "eng": "In the Case of Mai Minase",
+                        "jpn": "in case of MINASE,Mai"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4234407",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4234407",
+                    "Titles": {
+                        "eng": "In the Case of Yuki Aihara",
+                        "jpn": "in case of AIHARA,Yuki"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4234408",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4234408",
+                    "Titles": {
+                        "eng": "In the Case of Kyoko Tohno",
+                        "jpn": "in case of TOHNO Kyoko"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4234409",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4234409",
+                    "Titles": {
+                        "eng": "Trismegistus",
+                        "jpn": "Trismegistus"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "389672",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/389672",
+                    "Titles": {
+                        "eng": "Unison",
+                        "jpn": "Unison（ユニゾン）"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "520801",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/520801",
+                    "Titles": {
+                        "eng": ".hack//GIFT",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4234410",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4234410",
+                    "Titles": {
+                        "eng": "Walking Party",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4234411",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4234411",
+                    "Titles": {
+                        "eng": "Wired Prisφner",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4234412",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4234412",
+                    "Titles": {
+                        "eng": "tHe ωORLdeNd PaLLbeaReR",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4237671",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237671",
+                    "Titles": {
+                        "eng": ".hack//G.U. Trilogy",
+                        "jpn": ".hack//G.U. Trilogy"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4237672",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237672",
+                    "Titles": {
+                        "eng": ".hack//G.U. Trilogy (Parody Mode)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4237673",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237673",
+                    "Titles": {
+                        "eng": ".hack//G.U. Returner",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4237674",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237674",
+                    "Titles": {
+                        "eng": ".hack//The Movie",
+                        "jpn": "ドットハック セカイの向こうに"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4918651",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4918651",
+                    "Titles": {
+                        "eng": ".hack//Versus: The Thanatos Report",
+                        "jpn": ".hack//Versus タナトスレポート"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4940633",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4940633",
+                    "Titles": {
+                        "eng": ".hack//Quantum: Go, Our Chim Chims!! Part 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4940634",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4940634",
+                    "Titles": {
+                        "eng": ".hack//Quantum: Go, Our Chim Chims!! Part 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4940635",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4940635",
+                    "Titles": {
+                        "eng": ".hack//Quantum: Go, Our Chim Chims!! Part 3",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4940636",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4940636",
+                    "Titles": {
+                        "eng": ".hack//Quantum: Ogura Yui`s YuiYui Cooking",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4940637",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4940637",
+                    "Titles": {
+                        "eng": ".hack//Quantum: Ogura Yui`s YuiYui Club",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4940638",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4940638",
+                    "Titles": {
+                        "eng": ".hack//Quantum: Ogura Yui`s YuiYui Quantum Cult Quiz",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4234393",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4234393",
+                    "Titles": {
+                        "eng": "Let's Meet Offline",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "8087288",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/8087288",
+                    "Titles": {
+                        "eng": "Online Jack 01",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "8087292",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/8087292",
+                    "Titles": {
+                        "eng": "Online Jack 02",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "8087294",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/8087294",
+                    "Titles": {
+                        "eng": "Online Jack 03",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "9780028",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/9780028",
+                    "Titles": {
+                        "eng": "Learn in 3 Minutes!! .hack History",
+                        "jpn": "Daitai 3-pun de Wakaru .hack History"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "16036",
+            "URL": "https://thetvdb.com/series/hack-1/seasons/official/1",
+            "Titles": {
+                "eng": "SIGN",
+                "jpn": ".hack//SIGN",
+                "deu": ".hack//SIGN",
+                "fra": ".hack//SIGN",
+                "rus": ".хак//Знак"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "302688",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302688",
+                    "Titles": {
+                        "eng": "Role Play",
+                        "jpn": "Role Play（ロールプレイ）"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "302689",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302689",
+                    "Titles": {
+                        "eng": "Guardian",
+                        "jpn": "Guardian（ガーディアン）"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "302690",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302690",
+                    "Titles": {
+                        "eng": "Folklore",
+                        "jpn": "Folklore（伝承）"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "302691",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302691",
+                    "Titles": {
+                        "eng": "Wanted",
+                        "jpn": "Wanted（指名手配）"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "302692",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302692",
+                    "Titles": {
+                        "eng": "Captured",
+                        "jpn": "Captured（虜囚）"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "302693",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302693",
+                    "Titles": {
+                        "eng": "Encounter",
+                        "jpn": "Encounter（エンカウント）"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "302694",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302694",
+                    "Titles": {
+                        "eng": "Reason",
+                        "jpn": "Reason（理由）"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "302695",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302695",
+                    "Titles": {
+                        "eng": "Promise",
+                        "jpn": "Promise（約束）"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "302696",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302696",
+                    "Titles": {
+                        "eng": "Epitaph",
+                        "jpn": "Epitaph（エピタフ）"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "302697",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302697",
+                    "Titles": {
+                        "eng": "Compensation",
+                        "jpn": "Compensation（代償行為）"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "302698",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302698",
+                    "Titles": {
+                        "eng": "Party",
+                        "jpn": "Party（パーティー）"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "302699",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302699",
+                    "Titles": {
+                        "eng": "Entanglement",
+                        "jpn": "Entanglement（錯綜）"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "302700",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302700",
+                    "Titles": {
+                        "eng": "Twilight Eye",
+                        "jpn": "Twilight Eye（黄昏の眼）"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "302701",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302701",
+                    "Titles": {
+                        "eng": "Castle",
+                        "jpn": "Castle（逆城都市）"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "3022201",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/3022201",
+                    "Titles": {
+                        "eng": "Evidence",
+                        "jpn": "Evidence（証）"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "302702",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302702",
+                    "Titles": {
+                        "eng": "Depth",
+                        "jpn": "Depth（深淵）"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "302703",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302703",
+                    "Titles": {
+                        "eng": "Conflict",
+                        "jpn": "Conflict（コンフリクト）"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "302704",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302704",
+                    "Titles": {
+                        "eng": "Declaration",
+                        "jpn": "Declaration（宣言）"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "302705",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302705",
+                    "Titles": {
+                        "eng": "Recollection",
+                        "jpn": "Recollection（追憶）"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "302706",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302706",
+                    "Titles": {
+                        "eng": "Tempest",
+                        "jpn": "Tempest（嵐）"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "302707",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302707",
+                    "Titles": {
+                        "eng": "Despair",
+                        "jpn": "Despair（絶望）"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "302708",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302708",
+                    "Titles": {
+                        "eng": "Phantom",
+                        "jpn": "Phantom（幽霊）"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "302709",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302709",
+                    "Titles": {
+                        "eng": "The Eve",
+                        "jpn": "The Eve（前夜）"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "302710",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302710",
+                    "Titles": {
+                        "eng": "Net Slum",
+                        "jpn": "Net Slum（ネットスラム）"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "302711",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302711",
+                    "Titles": {
+                        "eng": "Catastrophe",
+                        "jpn": "Catastrophe（カタストロフ）"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "302712",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/302712",
+                    "Titles": {
+                        "eng": "Return",
+                        "jpn": "Return（帰還）"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "481903",
+            "URL": "https://thetvdb.com/series/hack-1/seasons/official/2",
+            "Titles": {
+                "eng": "Legend of the Twilight",
+                "jpn": ".hack//黄昏の腕輪伝説",
+                "deu": ".hack//Legend of the Twilight",
+                "fra": ".hack//Legend of the Twilight",
+                "rus": ".хак//Легенда Сумеречного Браслета"
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "4234394",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4234394",
+                    "Titles": {
+                        "eng": "The Legendary Hero",
+                        "jpn": "伝説の勇者"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4234395",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4234395",
+                    "Titles": {
+                        "eng": "Kite's Bracelet",
+                        "jpn": "カイトの腕輪"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4234396",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4234396",
+                    "Titles": {
+                        "eng": "The Phoenix Feather",
+                        "jpn": "不死鳥の羽"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4234397",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4234397",
+                    "Titles": {
+                        "eng": "Tanabata Night",
+                        "jpn": "七夕の夜"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4234398",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4234398",
+                    "Titles": {
+                        "eng": "Mansion of Terror",
+                        "jpn": "恐怖の館"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4234399",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4234399",
+                    "Titles": {
+                        "eng": "Trap of the Steaming Hot Water",
+                        "jpn": "湯けむりの罠"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4234400",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4234400",
+                    "Titles": {
+                        "eng": "Twilight Moon",
+                        "jpn": "黄昏の月"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4234401",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4234401",
+                    "Titles": {
+                        "eng": "The Solitary Knight",
+                        "jpn": "孤高の騎士"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4234402",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4234402",
+                    "Titles": {
+                        "eng": "Footsteps of Collapse",
+                        "jpn": "崩壊の足音"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4234403",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4234403",
+                    "Titles": {
+                        "eng": "Capitol of Illusion",
+                        "jpn": "幻の都"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4234404",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4234404",
+                    "Titles": {
+                        "eng": "The End of the World",
+                        "jpn": "世界の終わり"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4234405",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4234405",
+                    "Titles": {
+                        "eng": "The Legend Begins",
+                        "jpn": "伝説のはじまり"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "482226",
+            "URL": "https://thetvdb.com/series/hack-1/seasons/official/3",
+            "Titles": {
+                "eng": "Roots",
+                "jpn": ".hack//Roots",
+                "deu": ".hack//Roots",
+                "fra": ".hack//Roots",
+                "rus": ".хак//Корни"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "4237645",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237645",
+                    "Titles": {
+                        "eng": "Welcome to \"The World\"",
+                        "jpn": "歓迎"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4237646",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237646",
+                    "Titles": {
+                        "eng": "Twilight Brigade",
+                        "jpn": "黄昏の旅団"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4237647",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237647",
+                    "Titles": {
+                        "eng": "Join",
+                        "jpn": "入団"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4237648",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237648",
+                    "Titles": {
+                        "eng": "Forefeel",
+                        "jpn": "予感"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4237649",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237649",
+                    "Titles": {
+                        "eng": "Distrust",
+                        "jpn": "不信"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4237650",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237650",
+                    "Titles": {
+                        "eng": "Conflict",
+                        "jpn": "葛藤"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4237651",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237651",
+                    "Titles": {
+                        "eng": "Intrigue",
+                        "jpn": "錯綜"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4237652",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237652",
+                    "Titles": {
+                        "eng": "Starting",
+                        "jpn": "始動"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4237653",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237653",
+                    "Titles": {
+                        "eng": "Melee",
+                        "jpn": "混戦"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4237654",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237654",
+                    "Titles": {
+                        "eng": "Missing",
+                        "jpn": "失踪"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4237655",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237655",
+                    "Titles": {
+                        "eng": "Discord",
+                        "jpn": "不一致"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4237656",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237656",
+                    "Titles": {
+                        "eng": "Breakup",
+                        "jpn": "崩壊"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4237657",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237657",
+                    "Titles": {
+                        "eng": "Tragedy",
+                        "jpn": "悲劇"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4237658",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237658",
+                    "Titles": {
+                        "eng": "Lost One",
+                        "jpn": "未帰還者"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4237659",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237659",
+                    "Titles": {
+                        "eng": "Pad",
+                        "jpn": "パッド"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4237660",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237660",
+                    "Titles": {
+                        "eng": "Resolution",
+                        "jpn": "決断"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4237661",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237661",
+                    "Titles": {
+                        "eng": "Painful Forest",
+                        "jpn": "苦痛な森林"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4237662",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237662",
+                    "Titles": {
+                        "eng": "Limit",
+                        "jpn": "限界"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4237663",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237663",
+                    "Titles": {
+                        "eng": "Violation",
+                        "jpn": "違反"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4237664",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237664",
+                    "Titles": {
+                        "eng": "Pursuit",
+                        "jpn": "追撃"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4237665",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237665",
+                    "Titles": {
+                        "eng": "Defeat",
+                        "jpn": "敗北"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4237666",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237666",
+                    "Titles": {
+                        "eng": "Bonds",
+                        "jpn": "束縳"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4237667",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237667",
+                    "Titles": {
+                        "eng": "Trial",
+                        "jpn": "試験"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "4237668",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237668",
+                    "Titles": {
+                        "eng": "Confront",
+                        "jpn": "直面"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "4237669",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237669",
+                    "Titles": {
+                        "eng": "Truth",
+                        "jpn": "真実"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "4237670",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hack-1/episodes/4237670",
+                    "Titles": {
+                        "eng": "Determination",
+                        "jpn": "決意"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

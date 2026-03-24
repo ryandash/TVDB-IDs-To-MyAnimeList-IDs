@@ -1,0 +1,42 @@
+{
+    "URL": "https://thetvdb.com/series/tank-chair",
+    "Genres": [
+        "Animation",
+        "Anime"
+    ],
+    "Other Sites": [
+        "https://tankchair-anime.com/",
+        "https://www.wikidata.org/wiki/Q138711766",
+        "https://en.wikipedia.org/wiki/Tank_Chair#Anime",
+        "https://x.com/anime_tankchair"
+    ],
+    "Titles": {
+        "eng": "Tank Chair",
+        "jpn": "戦車椅子－ＴＡＮＫ ＣＨＡＩＲ－"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "2240168",
+            "URL": "https://thetvdb.com/series/tank-chair/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11682829",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/tank-chair/episodes/11682829",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,615 @@
+{
+    "URL": "https://thetvdb.com/series/heavy-metal-l-gaim",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0377207/",
+        "https://www.themoviedb.org/tv/9429"
+    ],
+    "Titles": {
+        "eng": "Heavy Metal L-Gaim",
+        "jpn": "重戦機エルガイム"
+    },
+    "Aliases": [
+        "Jûsenki Erugaimu"
+    ],
+    "Modified": "2025-11-11",
+    "Seasons": {
+        "0": {
+            "ID": "91191",
+            "URL": "https://thetvdb.com/series/heavy-metal-l-gaim/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "4747976",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/4747976",
+                    "Titles": {
+                        "eng": "I: Pentagona Window + Lady Gyabure",
+                        "jpn": "ペンタゴナ ウインドウ＋レディ ギャブレー"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4747977",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/4747977",
+                    "Titles": {
+                        "eng": "II: Farewell My Lovely + Pentagona Doors",
+                        "jpn": "フェアウェル マイラブリー＋ペンタゴナ ドールズ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4747978",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/4747978",
+                    "Titles": {
+                        "eng": "III: Full Metal Soldier",
+                        "jpn": "フルメタル ソルジャー"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "91201",
+            "URL": "https://thetvdb.com/series/heavy-metal-l-gaim/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 54,
+            "Episodes": {
+                "1": {
+                    "ID": "860861",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/860861",
+                    "Titles": {
+                        "eng": "Dreamers",
+                        "jpn": "ドリーマーズ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "860871",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/860871",
+                    "Titles": {
+                        "eng": "Prearmo Scandal",
+                        "jpn": "スキャンダル・P"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "860881",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/860881",
+                    "Titles": {
+                        "eng": "Coming Man",
+                        "jpn": "カミング・マン"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "860891",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/860891",
+                    "Titles": {
+                        "eng": "The Connection",
+                        "jpn": "ザ・コネクション"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "860901",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/860901",
+                    "Titles": {
+                        "eng": "Escape Run",
+                        "jpn": "エスケープ・ラン"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "860911",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/860911",
+                    "Titles": {
+                        "eng": "Sea Jack",
+                        "jpn": "シー・ジャック"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "860921",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/860921",
+                    "Titles": {
+                        "eng": "Scramble",
+                        "jpn": "スクランブル"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "860931",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/860931",
+                    "Titles": {
+                        "eng": "Yaman Clan",
+                        "jpn": "ヤーマン・クラン"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "860941",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/860941",
+                    "Titles": {
+                        "eng": "Army Base",
+                        "jpn": "アーミィ・ベース"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "860951",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/860951",
+                    "Titles": {
+                        "eng": "Time Limit",
+                        "jpn": "タイム・リミット"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "860961",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/860961",
+                    "Titles": {
+                        "eng": "Jealousy Game",
+                        "jpn": "ジェラシー・ゲーム"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "860971",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/860971",
+                    "Titles": {
+                        "eng": "Decoy Decoy",
+                        "jpn": "ディコイ・ディコイ"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "860981",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/860981",
+                    "Titles": {
+                        "eng": "Contact",
+                        "jpn": "コンタクト"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "860991",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/860991",
+                    "Titles": {
+                        "eng": "Lady Poseidal",
+                        "jpn": "レディ・ポセイダル"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "861001",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/861001",
+                    "Titles": {
+                        "eng": "Pride",
+                        "jpn": "プライド"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "861011",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/861011",
+                    "Titles": {
+                        "eng": "Broken Heart",
+                        "jpn": "ブロークン・ハート"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "861021",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/861021",
+                    "Titles": {
+                        "eng": "Lime Light",
+                        "jpn": "ライム・ライト"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "861031",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/861031",
+                    "Titles": {
+                        "eng": "Gustgal Demo",
+                        "jpn": "ガストガル・デモ"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "861041",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/861041",
+                    "Titles": {
+                        "eng": "Go and Come",
+                        "jpn": "ゴーアンドカム"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "867411",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867411",
+                    "Titles": {
+                        "eng": "Star Dust",
+                        "jpn": "スター・ダスト"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "867421",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867421",
+                    "Titles": {
+                        "eng": "The Tension",
+                        "jpn": "ザ・テンション"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "867431",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867431",
+                    "Titles": {
+                        "eng": "Quwasan Olibee",
+                        "jpn": "クワサン・オリビー"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "867441",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867441",
+                    "Titles": {
+                        "eng": "General Clotho",
+                        "jpn": "ゼネラル・クロソ"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "867451",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867451",
+                    "Titles": {
+                        "eng": "Asphy Heart",
+                        "jpn": "アスフィー・ハート"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "867461",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867461",
+                    "Titles": {
+                        "eng": "Love Again",
+                        "jpn": "ラブ・アゲイン"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "867471",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867471",
+                    "Titles": {
+                        "eng": "Search II",
+                        "jpn": "サーチII"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "867481",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867481",
+                    "Titles": {
+                        "eng": "Mistake Love",
+                        "jpn": "ミステイク・ラブ"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "867491",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867491",
+                    "Titles": {
+                        "eng": "Nei Crisis",
+                        "jpn": "ネイ・クライシス"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "867501",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867501",
+                    "Titles": {
+                        "eng": "Cross Point",
+                        "jpn": "クロス・ポイント"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "867511",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867511",
+                    "Titles": {
+                        "eng": "Our Master",
+                        "jpn": "アワ・マスター"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "867521",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867521",
+                    "Titles": {
+                        "eng": "Catch War",
+                        "jpn": "キャッチ・ウォー"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "867531",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867531",
+                    "Titles": {
+                        "eng": "Flashing Nei",
+                        "jpn": "フラッシング・ネイ"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "867541",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867541",
+                    "Titles": {
+                        "eng": "My Earth",
+                        "jpn": "マイ・アース"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "867551",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867551",
+                    "Titles": {
+                        "eng": "Leccee Mind",
+                        "jpn": "レッシィ・マインド"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "867561",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867561",
+                    "Titles": {
+                        "eng": "Peril Mission",
+                        "jpn": "ペリル・ミッション"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "867571",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867571",
+                    "Titles": {
+                        "eng": "Old Soldier",
+                        "jpn": "オールド・ソルジャー"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "867581",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867581",
+                    "Titles": {
+                        "eng": "Olibee Crisis",
+                        "jpn": "オリビー・クライシス"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "867591",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867591",
+                    "Titles": {
+                        "eng": "Escape Giwaza",
+                        "jpn": "エスケープ・ギワザ"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "867601",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867601",
+                    "Titles": {
+                        "eng": "The Omen",
+                        "jpn": "ザ・オーメン"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "867611",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867611",
+                    "Titles": {
+                        "eng": "Full Flat",
+                        "jpn": "フル・フラット"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "867621",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867621",
+                    "Titles": {
+                        "eng": "Spy in Spy",
+                        "jpn": "スパイ・イン・スパイ"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "867631",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867631",
+                    "Titles": {
+                        "eng": "Young Passion",
+                        "jpn": "ヤング・パッション"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "867641",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867641",
+                    "Titles": {
+                        "eng": "Lady and Girl",
+                        "jpn": "レディ&ガール"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "867651",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867651",
+                    "Titles": {
+                        "eng": "Picaresque Giwaza",
+                        "jpn": "ピカレスク・ギワザ"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "867661",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867661",
+                    "Titles": {
+                        "eng": "Lilith Memory",
+                        "jpn": "リリス・メモリー"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "867671",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867671",
+                    "Titles": {
+                        "eng": "Quwasan Wave",
+                        "jpn": "クワサン・ウェイブ"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "867681",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867681",
+                    "Titles": {
+                        "eng": "Boys Boys",
+                        "jpn": "ボーイズ・ボーイズ"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "867691",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867691",
+                    "Titles": {
+                        "eng": "First Attack",
+                        "jpn": "ファースト・アタック"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "867701",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867701",
+                    "Titles": {
+                        "eng": "Lady Killer",
+                        "jpn": "レディ・キラー"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "867711",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867711",
+                    "Titles": {
+                        "eng": "Excite Amm",
+                        "jpn": "エキサイト・アム"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "867721",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867721",
+                    "Titles": {
+                        "eng": "My Love",
+                        "jpn": "マイ・ラブ"
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "867731",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867731",
+                    "Titles": {
+                        "eng": "Final Time",
+                        "jpn": "ファイナル・タイム"
+                    },
+                    "Aliases": []
+                },
+                "53": {
+                    "ID": "867741",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867741",
+                    "Titles": {
+                        "eng": "The Dictator",
+                        "jpn": "ザ・ディクテイター"
+                    },
+                    "Aliases": []
+                },
+                "54": {
+                    "ID": "867751",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/heavy-metal-l-gaim/episodes/867751",
+                    "Titles": {
+                        "eng": "Dreamers Again",
+                        "jpn": "ドリーマーズアゲン"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

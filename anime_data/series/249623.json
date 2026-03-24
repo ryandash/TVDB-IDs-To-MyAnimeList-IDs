@@ -1,0 +1,108 @@
+{
+    "URL": "https://thetvdb.com/series/sakura-taisen-new-york-ny",
+    "Genres": [
+        "Adventure",
+        "Comedy"
+    ],
+    "Other Sites": [],
+    "Titles": {
+        "eng": "Sakura Taisen: New York, NY",
+        "jpn": "サクラ大戦 ニューヨーク・紐育"
+    },
+    "Aliases": [],
+    "Modified": "2022-04-28",
+    "Seasons": {
+        "0": {
+            "ID": "468152",
+            "URL": "https://thetvdb.com/series/sakura-taisen-new-york-ny/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "4118125",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sakura-taisen-new-york-ny/episodes/4118125",
+                    "Titles": {
+                        "eng": "Me & My Girl",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4118130",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sakura-taisen-new-york-ny/episodes/4118130",
+                    "Titles": {
+                        "eng": "X... And The City",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4118132",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sakura-taisen-new-york-ny/episodes/4118132",
+                    "Titles": {
+                        "eng": "Under The Bright Starlit Night",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4118133",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sakura-taisen-new-york-ny/episodes/4118133",
+                    "Titles": {
+                        "eng": "Mother, I Want To Sing",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4118134",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sakura-taisen-new-york-ny/episodes/4118134",
+                    "Titles": {
+                        "eng": "The Forbidden Paradise",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4118135",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sakura-taisen-new-york-ny/episodes/4118135",
+                    "Titles": {
+                        "eng": "Far Away, Beyond New York",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "1998092",
+            "URL": "https://thetvdb.com/series/sakura-taisen-new-york-ny/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "9137481",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/sakura-taisen-new-york-ny/episodes/9137481",
+                    "Titles": {
+                        "eng": "Me & My Girl",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

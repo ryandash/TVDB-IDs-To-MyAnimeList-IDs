@@ -1,0 +1,113 @@
+{
+    "URL": "https://thetvdb.com/series/425285-",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt22297722/",
+        "https://www.netflix.com/title/81177634",
+        "https://www.themoviedb.org/tv/210942"
+    ],
+    "Titles": {
+        "eng": "Lookism (2022)",
+        "jpn": "外見至上主義"
+    },
+    "Aliases": [
+        "Oemojisangjuui"
+    ],
+    "Modified": "2026-02-25",
+    "Seasons": {
+        "1": {
+            "ID": "2021838",
+            "URL": "https://thetvdb.com/series/425285-/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "pt": "Temporada 1"
+            },
+            "# Episodes": 8,
+            "Episodes": {
+                "1": {
+                    "ID": "9366009",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/425285-/episodes/9366009",
+                    "Titles": {
+                        "eng": "Change",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9495752",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/425285-/episodes/9495752",
+                    "Titles": {
+                        "eng": "New Life",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9495753",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/425285-/episodes/9495753",
+                    "Titles": {
+                        "eng": "Friends",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9495776",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/425285-/episodes/9495776",
+                    "Titles": {
+                        "eng": "Mom",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "9495778",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/425285-/episodes/9495778",
+                    "Titles": {
+                        "eng": "Kindness",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "9495780",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/425285-/episodes/9495780",
+                    "Titles": {
+                        "eng": "Recommendation",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "9495782",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/425285-/episodes/9495782",
+                    "Titles": {
+                        "eng": "Special Training",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "9495783",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/425285-/episodes/9495783",
+                    "Titles": {
+                        "eng": "Wall",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

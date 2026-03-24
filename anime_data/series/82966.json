@@ -1,0 +1,55 @@
+{
+    "URL": "https://thetvdb.com/series/judge",
+    "Genres": [],
+    "Other Sites": [],
+    "Titles": {
+        "eng": "Judge",
+        "jpn": "ジャッジ"
+    },
+    "Aliases": [],
+    "Modified": "2023-11-10",
+    "Seasons": {
+        "0": {
+            "ID": "34947",
+            "URL": "https://thetvdb.com/series/judge/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "2732861",
+                    "TYPE": "OVA",
+                    "URL": "https://www.thetvdb.com/series/judge/episodes/2732861",
+                    "Titles": {
+                        "eng": "OVA",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "306911",
+            "URL": "https://thetvdb.com/series/judge/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "2732871",
+                    "TYPE": "OVA",
+                    "URL": "https://www.thetvdb.com/series/judge/episodes/2732871",
+                    "Titles": {
+                        "eng": "OVA",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

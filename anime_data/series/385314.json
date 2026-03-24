@@ -1,0 +1,105 @@
+{
+    "URL": "https://thetvdb.com/series/dragons-dogma",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt10011298/",
+        "https://www.netflix.com/title/80992784",
+        "https://www.themoviedb.org/tv/99769"
+    ],
+    "Titles": {
+        "eng": "Dragon's Dogma",
+        "jpn": "ドラゴンズドグマ"
+    },
+    "Aliases": [],
+    "Modified": "2025-06-09",
+    "Seasons": {
+        "1": {
+            "ID": "1854684",
+            "URL": "https://thetvdb.com/series/dragons-dogma/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 7,
+            "Episodes": {
+                "1": {
+                    "ID": "7840596",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragons-dogma/episodes/7840596",
+                    "Titles": {
+                        "eng": "Wrath",
+                        "jpn": "憤怒"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7913166",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragons-dogma/episodes/7913166",
+                    "Titles": {
+                        "eng": "Gluttony",
+                        "jpn": "暴食"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7913168",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragons-dogma/episodes/7913168",
+                    "Titles": {
+                        "eng": "Envy",
+                        "jpn": "嫉妬"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7913171",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragons-dogma/episodes/7913171",
+                    "Titles": {
+                        "eng": "Sloth",
+                        "jpn": "怠惰"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7913173",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragons-dogma/episodes/7913173",
+                    "Titles": {
+                        "eng": "Greed",
+                        "jpn": "強欲"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "7913175",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragons-dogma/episodes/7913175",
+                    "Titles": {
+                        "eng": "Lust",
+                        "jpn": "色欲"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "7913178",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/dragons-dogma/episodes/7913178",
+                    "Titles": {
+                        "eng": "Pride",
+                        "jpn": "傲慢"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

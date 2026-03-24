@@ -1,0 +1,579 @@
+{
+    "URL": "https://thetvdb.com/series/344220-show",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Sport"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt8253268/",
+        "https://anime-umamusume.jp/",
+        "http://www.reddit.com/r/UmaMusume",
+        "https://www.themoviedb.org/tv/77694",
+        "https://www.wikidata.org/wiki/Q104333785",
+        "https://en.wikipedia.org/wiki/Uma_Musume_Pretty_Derby",
+        "https://x.com/uma_musu_anime",
+        "https://www.youtube.com/c/../@UMAMUSUME_official"
+    ],
+    "Titles": {
+        "eng": "Umamusume: Pretty Derby",
+        "jpn": "ウマ娘 プリティーダービー"
+    },
+    "Aliases": [
+        "Uma Musume - Pretty Derby",
+        "Umamusume - Pretty Derby",
+        "Uma Musume Pretty Derby",
+        "Uma Musume: Pretty Derby"
+    ],
+    "Modified": "2026-03-17",
+    "Seasons": {
+        "0": {
+            "ID": "755604",
+            "URL": "https://thetvdb.com/series/344220-show/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 11,
+            "Episodes": {
+                "1": {
+                    "ID": "6729898",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/6729898",
+                    "Titles": {
+                        "eng": "The Oath of BNW Part 1",
+                        "jpn": "BNWの誓い（1）"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7238328",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/7238328",
+                    "Titles": {
+                        "eng": "The Oath of BNW Part 2",
+                        "jpn": "BNWの誓い（2）"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7238329",
+                    "TYPE": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/7238329",
+                    "Titles": {
+                        "eng": "The Oath of BNW Part 3",
+                        "jpn": "BNWの誓い（3）"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9052286",
+                    "TYPE": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/9052286",
+                    "Titles": {
+                        "eng": "1st Anniversary Special Animation",
+                        "jpn": "『ウマ娘 プリティーダービー』1st Anniversary Special Animation"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "9066972",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/9066972",
+                    "Titles": {
+                        "eng": "Anime Song! Premium! \"Uma Musume x Horse Racing SP\"",
+                        "jpn": "アニソン！プレミアム！「ウマ娘×競馬SP」"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "9792357",
+                    "TYPE": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/9792357",
+                    "Titles": {
+                        "eng": "Road to the Top Part 1 - A Dream's Starting Gate",
+                        "jpn": "『ウマ娘 プリティーダービー ROAD TO THE TOP』第1話 「夢のはじまり」"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "9792358",
+                    "TYPE": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/9792358",
+                    "Titles": {
+                        "eng": "Road to the Top Part 2 - A Glorious Stage",
+                        "jpn": "『ウマ娘 プリティーダービー ROAD TO THE TOP』第2話 「栄光の舞台」"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "9792359",
+                    "TYPE": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/9792359",
+                    "Titles": {
+                        "eng": "Road to the Top Part 3 - Reason to Run",
+                        "jpn": "『ウマ娘 プリティーダービー ROAD TO THE TOP』第3話 「走る理由」"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "9792360",
+                    "TYPE": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/9792360",
+                    "Titles": {
+                        "eng": "Road to the Top Part 4 - One Dream",
+                        "jpn": "『ウマ娘 プリティーダービー ROAD TO THE TOP』第4話 「想いはひとつ」"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "10837237",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/10837237",
+                    "Titles": {
+                        "eng": "Umamusume: Pretty Derby – Beginning of a New Era",
+                        "jpn": "ウマ娘 プリティーダービー 新時代の扉"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "11019605",
+                    "TYPE": "Movies",
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/11019605",
+                    "Titles": {
+                        "eng": "Uma Musume: Pretty Derby - ROAD TO THE TOP Movie",
+                        "jpn": "ウマ娘 プリティーダービー ROAD TO THE TOP 劇場用再編集版"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "755605",
+            "URL": "https://thetvdb.com/series/344220-show/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "6593660",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/6593660",
+                    "Titles": {
+                        "eng": "Gate of Dreams!",
+                        "jpn": "夢のゲートつ！"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6628497",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/6628497",
+                    "Titles": {
+                        "eng": "The Debut Race Out of Nowhere",
+                        "jpn": "いきなりのデビュー戦"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6628715",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/6628715",
+                    "Titles": {
+                        "eng": "First Big Win",
+                        "jpn": "初めての大一番"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6629054",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/6629054",
+                    "Titles": {
+                        "eng": "Special Training!",
+                        "jpn": "特訓ですっ！"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6629055",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/6629055",
+                    "Titles": {
+                        "eng": "The Derby With Rivals",
+                        "jpn": "ライバルとのダービー"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6629056",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/6629056",
+                    "Titles": {
+                        "eng": "Autumn Skies and Horse Girls",
+                        "jpn": "天高く、ウマ娘燃ゆる秋"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6629057",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/6629057",
+                    "Titles": {
+                        "eng": "Promise",
+                        "jpn": "約束"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6629058",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/6629058",
+                    "Titles": {
+                        "eng": "For You",
+                        "jpn": "あなたの為に"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6629059",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/6629059",
+                    "Titles": {
+                        "eng": "Dreams of Spica",
+                        "jpn": "スピカの夢"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6629060",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/6629060",
+                    "Titles": {
+                        "eng": "No Matter How Many Times I Lose",
+                        "jpn": "何度負けても"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6629062",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/6629062",
+                    "Titles": {
+                        "eng": "Welcome Back!",
+                        "jpn": "おかえりなさい！"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6629066",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/6629066",
+                    "Titles": {
+                        "eng": "Stage of Dreams",
+                        "jpn": "夢の舞台"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "6629067",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/6629067",
+                    "Titles": {
+                        "eng": "Echo, Fanfare!",
+                        "jpn": "響け、ファンファーレ！"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "1887908",
+            "URL": "https://thetvdb.com/series/344220-show/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "kor": "우마무스메 PRETTY DERBY 시즌 2",
+                "zho": "赛马娘 Pretty Derby 第二季"
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "8095492",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/8095492",
+                    "Titles": {
+                        "eng": "Tokai Teio",
+                        "jpn": "トウカイテイオー"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8118186",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/8118186",
+                    "Titles": {
+                        "eng": "Never Gonna Give It Up!",
+                        "jpn": "譲れないから！"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8118190",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/8118190",
+                    "Titles": {
+                        "eng": "Meetings",
+                        "jpn": "出会い"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "8118193",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/8118193",
+                    "Titles": {
+                        "eng": "TM Showdown!",
+                        "jpn": "ＴＭ対決！"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "8122774",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/8122774",
+                    "Titles": {
+                        "eng": "Unbeaten Champion",
+                        "jpn": "無敗と連覇"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "8122780",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/8122780",
+                    "Titles": {
+                        "eng": "Searching for a Reason",
+                        "jpn": "なんのために"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "8122782",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/8122782",
+                    "Titles": {
+                        "eng": "A Blessed Name",
+                        "jpn": "祝福の名前"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "8122786",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/8122786",
+                    "Titles": {
+                        "eng": "A Small Wish",
+                        "jpn": "ささやかな祈り"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "8122787",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/8122787",
+                    "Titles": {
+                        "eng": "Stopwatch",
+                        "jpn": "ストップウオッチ"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "8122790",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/8122790",
+                    "Titles": {
+                        "eng": "One Day, Without a Doubt",
+                        "jpn": "必ず、きっと"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "8122792",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/8122792",
+                    "Titles": {
+                        "eng": "What I Feel",
+                        "jpn": "この気持ちって"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "8122794",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/8122794",
+                    "Titles": {
+                        "eng": "Together",
+                        "jpn": "ふたり"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "8122796",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/8122796",
+                    "Titles": {
+                        "eng": "Galloping After Our Dreams",
+                        "jpn": "夢をかける"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "2079400",
+            "URL": "https://thetvdb.com/series/344220-show/seasons/official/3",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "9966504",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/9966504",
+                    "Titles": {
+                        "eng": "The Stage Long Dreamed Of",
+                        "jpn": "憧れた景色"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10066722",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/10066722",
+                    "Titles": {
+                        "eng": "The Start Line",
+                        "jpn": "スタートライン"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10066723",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/10066723",
+                    "Titles": {
+                        "eng": "The Dream Never Ends",
+                        "jpn": "夢は終わらない"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "10066724",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/10066724",
+                    "Titles": {
+                        "eng": "My Own Shine",
+                        "jpn": "あたしだけの輝き"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "10066725",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/10066725",
+                    "Titles": {
+                        "eng": "Proving Oneself",
+                        "jpn": "自分の証明"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "10066727",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/10066727",
+                    "Titles": {
+                        "eng": "Diamond",
+                        "jpn": "ダイヤモンド"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "10066728",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/10066728",
+                    "Titles": {
+                        "eng": "Our Arima Kinen",
+                        "jpn": "あたしたちの有マ記念"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "10066729",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/10066729",
+                    "Titles": {
+                        "eng": "What's Always Been There",
+                        "jpn": "ずっとあったもの"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "10066730",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/10066730",
+                    "Titles": {
+                        "eng": "Pushed by the Approaching Heat",
+                        "jpn": "迫る熱に押されて"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "10066731",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/10066731",
+                    "Titles": {
+                        "eng": "Festival",
+                        "jpn": "お祭り"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "10066732",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/10066732",
+                    "Titles": {
+                        "eng": "Decision",
+                        "jpn": "決意"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "10066733",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/10066733",
+                    "Titles": {
+                        "eng": "Kitasan Black",
+                        "jpn": "キタサンブラック"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "10069614",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/344220-show/episodes/10069614",
+                    "Titles": {
+                        "eng": "And Yours...",
+                        "jpn": "そしてあなたの……"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

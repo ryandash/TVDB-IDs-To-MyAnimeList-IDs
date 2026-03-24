@@ -1,0 +1,174 @@
+{
+    "URL": "https://thetvdb.com/series/339401-show",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt6918688/",
+        "https://www.themoviedb.org/tv/76120"
+    ],
+    "Titles": {
+        "eng": "Dame×Prince Anime Caravan",
+        "jpn": "ダメプリ ANIME CARAVAN"
+    },
+    "Aliases": [
+        "DamePri Anime Caravan"
+    ],
+    "Modified": "2025-09-05",
+    "Seasons": {
+        "0": {
+            "ID": "742200",
+            "URL": "https://thetvdb.com/series/339401-show/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "7490130",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/339401-show/episodes/7490130",
+                    "Titles": {
+                        "eng": "Special",
+                        "jpn": "放送直前晩餐会"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "742201",
+            "URL": "https://thetvdb.com/series/339401-show/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "6456661",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/339401-show/episodes/6456661",
+                    "Titles": {
+                        "eng": "Dame Prince x Grand Entrance",
+                        "jpn": "ダメ王子 × 登場！"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6509313",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/339401-show/episodes/6509313",
+                    "Titles": {
+                        "eng": "Militarism x Milidonia",
+                        "jpn": "軍事国家 × ミリドニア"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6509450",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/339401-show/episodes/6509450",
+                    "Titles": {
+                        "eng": "Indoctrination x Selenfalen",
+                        "jpn": "宗教国家 × セレンファーレン"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6519889",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/339401-show/episodes/6519889",
+                    "Titles": {
+                        "eng": "Grim Prospects x Courtesy Call",
+                        "jpn": "前途多難!? × 表敬訪問"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6529341",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/339401-show/episodes/6529341",
+                    "Titles": {
+                        "eng": "Great Man Hunt x Little Lost Prince",
+                        "jpn": "大捜索 × ロイヤル迷子"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6529342",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/339401-show/episodes/6529342",
+                    "Titles": {
+                        "eng": "Showdown x Fashionista",
+                        "jpn": "対決 × オシャレさん"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6558252",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/339401-show/episodes/6558252",
+                    "Titles": {
+                        "eng": "Nothing but Naked x Hot Spring Town",
+                        "jpn": "裸一貫 × 温泉郷"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6564874",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/339401-show/episodes/6564874",
+                    "Titles": {
+                        "eng": "Terrifying x The Town of No Adults",
+                        "jpn": "恐怖 × 大人が消えた村"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6589852",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/339401-show/episodes/6589852",
+                    "Titles": {
+                        "eng": "Last Dance x Duel",
+                        "jpn": "ラストダンス × 争奪戦"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6601313",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/339401-show/episodes/6601313",
+                    "Titles": {
+                        "eng": "Maelstorm x Milidonia",
+                        "jpn": "動乱 × ミリドニア"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6611291",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/339401-show/episodes/6611291",
+                    "Titles": {
+                        "eng": "Secret Dealings x Selenfalen",
+                        "jpn": "暗躍 × セレンファーレン"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6611292",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/339401-show/episodes/6611292",
+                    "Titles": {
+                        "eng": "Finale! x Dame Prince",
+                        "jpn": "決着！ × ダメ王子"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

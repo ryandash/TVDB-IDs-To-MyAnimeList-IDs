@@ -1,0 +1,63 @@
+{
+    "URL": "https://thetvdb.com/series/garzeys-wing",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0377962/"
+    ],
+    "Titles": {
+        "eng": "Garzey's Wing",
+        "jpn": "ガーゼィの翼"
+    },
+    "Aliases": [
+        "Tales of Byston Well: Garzey's Wing",
+        "Garzey no tsubasa"
+    ],
+    "Modified": "2026-01-08",
+    "Seasons": {
+        "1": {
+            "ID": "381231",
+            "URL": "https://thetvdb.com/series/garzeys-wing/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "4109945",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garzeys-wing/episodes/4109945",
+                    "Titles": {
+                        "eng": "Other World",
+                        "jpn": "其の一「異世界」"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4109946",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garzeys-wing/episodes/4109946",
+                    "Titles": {
+                        "eng": "Signs of the Enemy",
+                        "jpn": "其の二「敵影」"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4109947",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/garzeys-wing/episodes/4109947",
+                    "Titles": {
+                        "eng": "Shining Wings",
+                        "jpn": "其の三「光る翼」"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
