@@ -26,202 +26,253 @@
     ],
     "Modified": "2026-02-18",
     "Seasons": {
-        "2": {
-            "ID": "2220738",
-            "URL": "https://thetvdb.com/series/kagaku-survival/seasons/official/2",
+        "0": {
+            "ID": "2111635",
+            "URL": "https://thetvdb.com/series/kagaku-survival/seasons/official/0",
             "Titles": {
                 "eng": null,
                 "jpn": null
             },
-            "# Episodes": 19,
+            "# Episodes": 2,
             "Episodes": {
                 "1": {
-                    "ID": "11503546",
+                    "ID": "11503557",
                     "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11503546",
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11503557",
                     "Titles": {
-                        "eng": "Water Shortage Survival Part 1",
-                        "jpn": "水不足のサバイバル その1"
+                        "eng": "Survive! Inside the Human Body",
+                        "jpn": "人体のサバイバル!"
                     },
                     "Aliases": []
                 },
                 "2": {
-                    "ID": "11503547",
+                    "ID": "11503558",
                     "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11503547",
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11503558",
                     "Titles": {
-                        "eng": "Water Shortage Survival Part 2",
-                        "jpn": "水不足のサバイバル その2"
+                        "eng": "Survive! In the Deep Sea",
+                        "jpn": "生き延びる！深海で"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "1": {
+            "ID": "2111636",
+            "URL": "https://thetvdb.com/series/kagaku-survival/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 21,
+            "Episodes": {
+                "1": {
+                    "ID": "10541397",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/10541397",
+                    "Titles": {
+                        "eng": "Extreme Weather Survival 1",
+                        "jpn": "異常気象のサバイバル その1"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10736245",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/10736245",
+                    "Titles": {
+                        "eng": "Extreme Weather Survival 2",
+                        "jpn": "異常気象のサバイバル その2"
                     },
                     "Aliases": []
                 },
                 "3": {
-                    "ID": "11503548",
+                    "ID": "10751033",
                     "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11503548",
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/10751033",
                     "Titles": {
-                        "eng": "Water Shortage Survival Part 3",
-                        "jpn": "水不足のサバイバル その3"
+                        "eng": "Extreme Weather Survival 3",
+                        "jpn": "異常気象のサバイバル その3"
                     },
                     "Aliases": []
                 },
                 "4": {
-                    "ID": "11503549",
+                    "ID": "10751034",
                     "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11503549",
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/10751034",
                     "Titles": {
-                        "eng": "Survival in a Major Earthquake Part 1",
-                        "jpn": "巨大地震のサバイバル　その１"
+                        "eng": "Survival, World of Insect Part 1",
+                        "jpn": "昆虫世界のサバイバル その1"
                     },
                     "Aliases": []
                 },
                 "5": {
-                    "ID": "11503550",
+                    "ID": "10763291",
                     "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11503550",
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/10763291",
                     "Titles": {
-                        "eng": "Survival in a Major Earthquake Part 2",
-                        "jpn": "巨大地震のサバイバル　その2"
+                        "eng": "Survival, World of Insect Part 2",
+                        "jpn": "昆虫世界のサバイバルその2"
                     },
                     "Aliases": []
                 },
                 "6": {
-                    "ID": "11503551",
+                    "ID": "10782580",
                     "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11503551",
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/10782580",
                     "Titles": {
-                        "eng": "Survival in a Major Earthquake Part 3",
-                        "jpn": "巨大地震のサバイバル　その3"
+                        "eng": "Survival, World of Insect Part 3",
+                        "jpn": "昆虫世界のサバイバル その3"
                     },
                     "Aliases": []
                 },
                 "7": {
-                    "ID": "11503552",
+                    "ID": "10797882",
                     "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11503552",
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/10797882",
                     "Titles": {
-                        "eng": "Survival on the Tidal Flats Part 1",
-                        "jpn": "干潟のサバイバル　その１"
+                        "eng": "Survival - New Virus Part 1",
+                        "jpn": "新型ウイルスのサバイバル　その1"
                     },
                     "Aliases": []
                 },
                 "8": {
-                    "ID": "11503553",
+                    "ID": "10814867",
                     "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11503553",
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/10814867",
                     "Titles": {
-                        "eng": "Survival on the Tidal Flats Part 2",
-                        "jpn": "干潟のサバイバル　その2"
+                        "eng": "Survival - New Virus Part 2",
+                        "jpn": "新型ウイルスのサバイバル　その2"
                     },
                     "Aliases": []
                 },
                 "9": {
-                    "ID": "11503554",
+                    "ID": "10844220",
                     "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11503554",
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/10844220",
                     "Titles": {
-                        "eng": "Survival on the Tidal Flats Part 3",
-                        "jpn": "干潟のサバイバル　その3"
+                        "eng": "Survival - New Virus Part 3",
+                        "jpn": "新型ウイルスのサバイバル　その3"
                     },
                     "Aliases": []
                 },
                 "10": {
-                    "ID": "11620751",
+                    "ID": "10844228",
                     "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11620751",
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/10844228",
                     "Titles": {
-                        "eng": "Night Safari Survival Part 1",
-                        "jpn": "ナイトサファリのサバイバル　その1"
+                        "eng": "Survival, AI Part 1",
+                        "jpn": "AIのサバイバル　その1"
                     },
                     "Aliases": []
                 },
                 "11": {
-                    "ID": "11620752",
+                    "ID": "10844229",
                     "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11620752",
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/10844229",
                     "Titles": {
-                        "eng": "Night Safari Survival Part 2",
-                        "jpn": "ナイトサファリのサバイバル　その2"
+                        "eng": "Survival, AI Part 2",
+                        "jpn": "AIのサバイバル　その2"
                     },
                     "Aliases": []
                 },
                 "12": {
-                    "ID": "11620753",
+                    "ID": "10859441",
                     "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11620753",
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/10859441",
                     "Titles": {
-                        "eng": "Night Safari Survival Part 3",
-                        "jpn": "ナイトサファリのサバイバル　その3"
+                        "eng": "Survival, AI Part 3",
+                        "jpn": "AIのサバイバル　その3"
                     },
                     "Aliases": []
                 },
                 "13": {
-                    "ID": "11620754",
+                    "ID": "10884535",
                     "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11620754",
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/10884535",
                     "Titles": {
-                        "eng": "Moon Survival Part 1",
-                        "jpn": "月のサバイバル　その1"
+                        "eng": "Antarctic Survival Part 1",
+                        "jpn": "南極のサバイバル　その1"
                     },
                     "Aliases": []
                 },
                 "14": {
-                    "ID": "11620755",
+                    "ID": "10926181",
                     "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11620755",
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/10926181",
                     "Titles": {
-                        "eng": "Moon Survival Part 2",
-                        "jpn": "月のサバイバル　その2"
+                        "eng": "Antarctic Survival Part 2",
+                        "jpn": "南極のサバイバル　その2"
                     },
                     "Aliases": []
                 },
                 "15": {
-                    "ID": "11620756",
+                    "ID": "10949128",
                     "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11620756",
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/10949128",
                     "Titles": {
-                        "eng": "Mountain Survival Part 1",
-                        "jpn": "山のサバイバル　その1"
+                        "eng": "Survival, World of Dinosaur Part 1",
+                        "jpn": "恐竜世界のサバイバル その1"
                     },
                     "Aliases": []
                 },
                 "16": {
-                    "ID": "11689699",
+                    "ID": "10949129",
                     "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11689699",
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/10949129",
                     "Titles": {
-                        "eng": "Mountain Survival Part 2",
-                        "jpn": "山のサバイバル　その2"
+                        "eng": "Survival, World of Dinosaur Part 2",
+                        "jpn": "恐竜世界のサバイバル その2"
                     },
                     "Aliases": []
                 },
                 "17": {
-                    "ID": "11689700",
+                    "ID": "10961229",
                     "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11689700",
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/10961229",
                     "Titles": {
-                        "eng": "Surviving Rising Sea Levels Part 1",
-                        "jpn": "海面上昇のサバイバル　その1"
+                        "eng": "Survival, World of Dinosaur Part 3",
+                        "jpn": "恐竜世界のサバイバルその3"
                     },
                     "Aliases": []
                 },
                 "18": {
-                    "ID": "11689701",
+                    "ID": "10997755",
                     "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11689701",
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/10997755",
                     "Titles": {
-                        "eng": "Surviving Rising Sea Levels Part 2",
-                        "jpn": "海面上昇のサバイバル　その2"
+                        "eng": "Survival, Energy Crisis Part 1",
+                        "jpn": "エネルギー危機のサバイバル　その1"
                     },
                     "Aliases": []
                 },
                 "19": {
-                    "ID": "11689702",
+                    "ID": "11011749",
                     "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11689702",
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11011749",
                     "Titles": {
-                        "eng": "Surviving Rising Sea Levels Part 3",
-                        "jpn": "海面上昇のサバイバル　その3"
+                        "eng": "Survival, Energy Crisis Part 2",
+                        "jpn": "エネルギー危機のサバイバル　その2"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "11011750",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11011750",
+                    "Titles": {
+                        "eng": "Survival, Energy Crisis Part 3",
+                        "jpn": "エネルギー危機のサバイバル　その3"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "11011751",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/kagaku-survival/episodes/11011751",
+                    "Titles": {
+                        "eng": "Survival, Energy Crisis Part 4",
+                        "jpn": "エネルギー危機のサバイバル　その4"
                     },
                     "Aliases": []
                 }

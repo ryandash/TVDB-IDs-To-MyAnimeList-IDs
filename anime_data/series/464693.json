@@ -29,7 +29,7 @@
                 "eng": null,
                 "jpn": null
             },
-            "# Episodes": 12,
+            "# Episodes": 13,
             "Episodes": {
                 "1": {
                     "ID": "11189552",
@@ -148,6 +148,16 @@
                     "Titles": {
                         "eng": "Epilogue",
                         "jpn": "恵緋浪愚"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "11693951",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/yoroi-shin-den-samurai-troopers/episodes/11693951",
+                    "Titles": {
+                        "eng": "A New Chapter",
+                        "jpn": "シンショウ"
                     },
                     "Aliases": []
                 }
