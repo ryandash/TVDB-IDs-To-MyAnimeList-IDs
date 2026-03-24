@@ -210,7 +210,7 @@ async def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, vis
 
     print(f"New mal id {sequel_id} mal_eps: {mal_eps} offset_eps: {offset_eps}")
 
-    if (anime_type == "Special") or (mal_eps and mal_eps < offset_eps):
+    if (anime_type != "tv" or anime_type != "ona") and (mal_eps and mal_eps < offset_eps):
         return await get_mal_relations(sequel_id, offset_eps, season_title, visited)
 
     return sequel_id
@@ -367,7 +367,7 @@ async def map_anime():
 
         for series_id, series in tqdm(anime_data.items(), total=len(anime_data), desc=f"Mapping series", unit="series"):
             if series_id is None:
-                print("Bad series id")
+                print(f"Bad series id: {series_id}")
                 continue
             series_id = int(series_id)
             titles = series.get("Titles", {})
