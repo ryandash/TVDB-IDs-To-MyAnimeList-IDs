@@ -4,9 +4,9 @@ export default {
 
     try {
       const url = new URL(request.url);
-      const path = url.pathname.slice(1); // e.g. "thetvdb-series"
-
+      const path = url.pathname.slice(1);
       const { GITHUB_OWNER: owner, GITHUB_REPO: repo } = env;
+
       if (!owner || !repo) {
         return new Response("Server not configured", { status: 500 });
       }
@@ -19,13 +19,15 @@ Valid paths:
   /myanimelist
   /thetvdb-series
   /thetvdb-movie
+  /thetvdb-seasons
+  /thetvdb-episodes
 
 Required query parameter:
   ?id=YOUR_ID
 
 Optional parameter:
   &crossIDs   (Use this if you want to fetch cross-referenced IDs from animeAPI)
-          
+
 Example usage:
   /thetvdb-series?id=361957&crossIDs
   /myanimelist?id=21`,
@@ -33,21 +35,34 @@ Example usage:
         );
       }
 
-      if (!["myanimelist", "thetvdb-series", "thetvdb-movie"].includes(path)) {
-        return new Response(
-          "Invalid path. Use /myanimelist or /thetvdb-series or /thetvdb-movie",
-          { status: 400 }
-        );
-      }
+      const pathRules = {
+        "myanimelist": ["id"],
+        "thetvdb-movie": ["id"],
+        "thetvdb-series": ["id", "season", "episode"],
+        "thetvdb-seasons": ["id", "episode"],
+        "thetvdb-episodes": ["id"]
+      };
 
       const id = url.searchParams.get("id");
       if (!id) {
         return new Response(
           `Missing ?id=YOUR_ID for ${path}.
-      
+
 Example usage:
   /${path}?id=YOUR_ID
   /${path}?id=YOUR_ID&crossIDs`,
+          { status: 400, headers: { "Content-Type": "text/plain" } }
+        );
+      }
+
+      const season = url.searchParams.get("season");
+      const episode = url.searchParams.get("episode");
+      
+      // Validate params
+      const allowedParams = pathRules[path];
+      if ((season && !allowedParams.includes("season")) || (episode && !allowedParams.includes("episode"))) {
+        return new Response(
+          `Invalid parameters for ${path}. Allowed query parameters: ${allowedParams.join(", ")}`,
           { status: 400, headers: { "Content-Type": "text/plain" } }
         );
       }
@@ -58,11 +73,7 @@ Example usage:
         const cacheKey = new Request(`https://animeapi-cache.local/myanimelist/${malId}`);
         let cached = await cache.match(cacheKey);
         if (cached) {
-          try {
-            return await cached.json();
-          } catch {
-            // fall through to refetch
-          }
+          try { return await cached.json(); } catch {}
         }
 
         const resp = await fetch(`https://animeapi.my.id/myanimelist/${malId}`, {
@@ -73,15 +84,9 @@ Example usage:
         const data = await resp.json();
 
         // Cache for 1 hour
-        cache.put(
-          cacheKey,
-          new Response(JSON.stringify(data), {
-            headers: {
-              "Content-Type": "application/json",
-              "Cache-Control": "public, max-age=3600, immutable",
-            },
-          })
-        ).catch(() => {});
+        cache.put(cacheKey, new Response(JSON.stringify(data), {
+          headers: { "Content-Type": "application/json", "Cache-Control": "public, max-age=3600, immutable" },
+        })).catch(() => {});
 
         return data;
       }
@@ -93,7 +98,6 @@ Example usage:
         if (malIds.length === 0) return dataArray;
 
         const fetches = await Promise.allSettled(malIds.map(fetchCrossID));
-
         const crossMap = new Map();
         fetches.forEach((res, i) => {
           if (res.status === "fulfilled" && res.value) {
@@ -120,47 +124,56 @@ Example usage:
         });
       }
 
-      // Return cached version if available
-      const cachedResp = await cache.match(request);
+      async function fetchGithubJSON(basePath, id, season, episode) {
+        const baseUrl = `https://${owner}.github.io/${repo}/api/${basePath}`;
+      
+        switch (basePath) {
+          case "thetvdb-series":
+            if (!season) return fetch(`${baseUrl}/${encodeURIComponent(id)}.json`);
+            if (season && !episode) return fetch(`${baseUrl}/${encodeURIComponent(id)}/${encodeURIComponent(season)}.json`);
+            if (season && episode) return fetch(`${baseUrl}/${encodeURIComponent(id)}/${encodeURIComponent(season)}/${encodeURIComponent(episode)}.json`);
+            break;
+      
+          case "thetvdb-seasons":
+            if (!episode) return fetch(`${baseUrl}/${encodeURIComponent(id)}.json`);
+            if (episode) return fetch(`${baseUrl}/${encodeURIComponent(id)}/${encodeURIComponent(episode)}.json`);
+            break;
+      
+          case "thetvdb-movie":
+          case "myanimelist":
+          case "thetvdb-episodes":
+            return fetch(`${baseUrl}/${encodeURIComponent(id)}.json`);
+      
+          default:
+            return null;
+        }
+      }
+
+      // --- Check cache first ---
+      let cachedResp = await cache.match(request);
+      let githubData = null;
+
       if (cachedResp && !crossIDs) {
         return new Response(cachedResp.body, cachedResp);
       }
 
-      let githubData = null;
       if (cachedResp && crossIDs) {
-        try {
-          githubData = await cachedResp.json();
-        } catch {
-          githubData = null;
-        }
+        try { githubData = await cachedResp.json(); } catch { githubData = null; }
       }
 
-      // Fetch from GitHub Pages
+      // --- Fetch from GitHub Pages ---
       if (!githubData) {
-        const ghResp = await fetch(
-          `https://${owner}.github.io/${repo}/api/${path}/${encodeURIComponent(id)}.json`,
-          { cf: { cacheTtl: 60, cacheEverything: false } }
-        );
+        const season = url.searchParams.get("season");
+        const episode = url.searchParams.get("episode");
 
-        const contentType = ghResp.headers.get("content-type") || "";
-        if (ghResp.ok && contentType.includes("application/json")) {
-          githubData = await ghResp.json();
+        // --- Fetch GitHub JSON dynamically based on parameters ---
+        const ghResp = await fetchGithubJSON(path, id, season, episode);
 
-          // Cache it
-          cache.put(
-            request,
-            new Response(JSON.stringify(githubData), {
-              headers: {
-                "Content-Type": "application/json",
-                "Cache-Control": "public, max-age=86400, immutable",
-                "X-Source": "github_pages",
-              },
-            })
-          ).catch(() => {});
-        } else {
+        // If the fetch failed (404, 403, etc.) or returned HTML, return a clear message
+        if (!ghResp || !ghResp.ok) {
           return new Response(
             JSON.stringify({
-              message: `Data not found for ${path}/${id}`,
+              message: `No data found for ${path}/${id}${season ? `/${season}` : ""}${episode ? `/${episode}` : ""}`
             }),
             {
               status: 404,
@@ -168,21 +181,35 @@ Example usage:
             }
           );
         }
+
+        try {
+          githubData = await ghResp.json();
+        } catch {
+          return new Response(
+            JSON.stringify({
+              message: `No data found for ${path}/${id}${season ? `/${season}` : ""}${episode ? `/${episode}` : ""}`
+            }),
+            {
+              status: 404,
+              headers: { "Content-Type": "application/json" },
+            }
+          );
+        }
+
+        cache.put(request, new Response(JSON.stringify(githubData), {
+          headers: { "Content-Type": "application/json", "Cache-Control": "public, max-age=86400, immutable", "X-Source": "github_pages" },
+        })).catch(() => {});
       }
 
-      // Enrich with cross IDs if requested
-      const finalData =
-        crossIDs && ["thetvdb-series", "thetvdb-movie", "myanimelist"].includes(path)
-          ? await enrichWithCrossIDs(githubData)
-          : githubData;
+      // --- Enrich with crossIDs if requested ---
+      const finalData = crossIDs && ["thetvdb-series", "thetvdb-movie", "myanimelist", "thetvdb-seasons", "thetvdb-episodes"].includes(path)
+        ? await enrichWithCrossIDs(githubData)
+        : githubData;
 
       return new Response(JSON.stringify(finalData), {
-        headers: {
-          "Content-Type": "application/json",
-          "Cache-Control": "no-store",
-          "X-Source": cachedResp ? "cache" : "github_pages",
-        },
+        headers: { "Content-Type": "application/json", "Cache-Control": "no-store", "X-Source": cachedResp ? "cache" : "github_pages" },
       });
+
     } catch (err) {
       return new Response(`Worker error: ${err.message}`, { status: 500 });
     }
