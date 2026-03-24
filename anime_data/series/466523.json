@@ -25,7 +25,7 @@
                 "eng": null,
                 "jpn": null
             },
-            "# Episodes": 10,
+            "# Episodes": 12,
             "Episodes": {
                 "1": {
                     "ID": "11563795",
@@ -124,6 +124,26 @@
                     "Titles": {
                         "eng": null,
                         "jpn": "ポップコーンジュビリー"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "11691590",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hoppe-chan/episodes/11691590",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Hey! Yo! ブラボー!"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "11691591",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/hoppe-chan/episodes/11691591",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "みんなはどんなほっぺちゃん?"
                     },
                     "Aliases": []
                 }
