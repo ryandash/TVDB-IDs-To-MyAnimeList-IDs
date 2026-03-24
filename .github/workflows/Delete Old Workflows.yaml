@@ -12,9 +12,11 @@ jobs:
   delete-old-actions:
     runs-on: ubuntu-latest
     steps:
-      - uses: yanovation/delete-old-actions@v1
+      - name: Delete old workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          days-ago: 10
-          keep-latest: 5
-          dry-run: false
+          retain_days: 7
+          keep_minimum_runs: 5
+
+          
