@@ -285,7 +285,7 @@ def load_existing_malids(category: str) -> dict[str, int]:
             mal_ids = data.get("MalIds")
             if not mal_ids:
                 continue
-            series_id = file.stem
+            series_id = int(file.stem)
             existing_lookup[series_id] = int(mal_ids[0])
         except Exception as e:
             print(f"[WARN] Skipping {file.name} — invalid MAL IDs ({e})")
@@ -366,6 +366,10 @@ async def map_anime():
         unmapped_series, unmapped_seasons, unmapped_episodes = [], [], []
 
         for series_id, series in tqdm(anime_data.items(), total=len(anime_data), desc=f"Mapping series", unit="series"):
+            if series_id is None:
+                print("Bad series id")
+                continue
+            series_id = int(series_id)
             titles = series.get("Titles", {})
             series_title_eng = titles.get("eng")
             series_title_jpn = titles.get("jpn")
@@ -430,6 +434,10 @@ async def map_anime():
             changeSeason = True
             for season_num, season_data in tqdm(seasons.items(), desc=f"  {series_id} seasons", unit="season", leave=False):
                 season_id = season_data.get("ID")
+                if season_id is None:
+                    print(f"Missing episode id for season {series_id}")
+                    continue
+                season_id = int(season_id)
                 season_titles = season_data.get("Titles", {})
                 season_title_eng = season_titles.get("eng")
                 season_title_jpn = season_titles.get("jpn")
@@ -485,6 +493,10 @@ async def map_anime():
                 mal_episode_counter = {}
                 for ep_num, ep_data in tqdm(episodes.items(), desc=f"    {season_id} Season {season_num} episodes", unit="ep", leave=False):
                     ep_id = ep_data.get("ID")
+                    if ep_id is None:
+                        print(f"Missing episode id for season {season_id}")
+                        continue
+                    ep_id = int(ep_id)
                     ep_titles = ep_data.get("Titles", {})
                     ep_title_eng = ep_titles.get("eng")
                     ep_title_jpn = ep_titles.get("jpn")
@@ -493,6 +505,7 @@ async def map_anime():
                     ep_aliases = ep_data.get("Aliases") or []
                     episode_offset += 1
                     if ep_id in lookup_episodes:
+                        print(f"[SKIP] Episode {ep_id}")
                         EpisodeMALID = lookup_episodes[ep_id][0]
                         mal_episode_counter[EpisodeMALID] = mal_episode_counter.get(EpisodeMALID, 0) + 1
                         malurl = lookup_episodes[ep_id][1]
