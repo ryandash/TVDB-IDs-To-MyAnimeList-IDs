@@ -14,72 +14,32 @@
     "Aliases": [],
     "Modified": "2025-07-15",
     "Seasons": {
-        "1": {
-            "ID": "2196481",
-            "URL": "https://thetvdb.com/series/discipline-465858/seasons/official/1",
+        "0": {
+            "ID": "2196480",
+            "URL": "https://thetvdb.com/series/discipline-465858/seasons/official/0",
             "Titles": {
                 "eng": null,
                 "jpn": null
             },
-            "# Episodes": 6,
+            "# Episodes": 2,
             "Episodes": {
                 "1": {
-                    "ID": "11245287",
+                    "ID": "11690971",
                     "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/discipline-465858/episodes/11245287",
+                    "URL": "https://www.thetvdb.com/series/discipline-465858/episodes/11690971",
                     "Titles": {
-                        "eng": null,
-                        "jpn": "Discipline –Joshou–"
+                        "eng": "Discipline Zero - 1",
+                        "jpn": "零 1"
                     },
                     "Aliases": []
                 },
                 "2": {
-                    "ID": "11245288",
+                    "ID": "11690972",
                     "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/discipline-465858/episodes/11245288",
+                    "URL": "https://www.thetvdb.com/series/discipline-465858/episodes/11690972",
                     "Titles": {
-                        "eng": null,
-                        "jpn": "Discipline Dainishou ~Kankin~"
-                    },
-                    "Aliases": []
-                },
-                "3": {
-                    "ID": "11245289",
-                    "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/discipline-465858/episodes/11245289",
-                    "Titles": {
-                        "eng": null,
-                        "jpn": "Discipline Daisanshou ~Ryouzai~"
-                    },
-                    "Aliases": []
-                },
-                "4": {
-                    "ID": "11245290",
-                    "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/discipline-465858/episodes/11245290",
-                    "Titles": {
-                        "eng": null,
-                        "jpn": "Discipline Daiyonshou ~Kairitsu~"
-                    },
-                    "Aliases": []
-                },
-                "5": {
-                    "ID": "11245291",
-                    "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/discipline-465858/episodes/11245291",
-                    "Titles": {
-                        "eng": null,
-                        "jpn": "Discipline Daigoshou ~Sennyuu~"
-                    },
-                    "Aliases": []
-                },
-                "6": {
-                    "ID": "11245292",
-                    "TYPE": null,
-                    "URL": "https://www.thetvdb.com/series/discipline-465858/episodes/11245292",
-                    "Titles": {
-                        "eng": null,
-                        "jpn": "Discipline Saishuu ~Akira~"
+                        "eng": "Discipline Zero - 2",
+                        "jpn": "零 2"
                     },
                     "Aliases": []
                 }
