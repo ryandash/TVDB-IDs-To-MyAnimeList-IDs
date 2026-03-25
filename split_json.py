@@ -26,7 +26,10 @@ for d in [mal_dir, tvdb_series_dir, tvdb_seasons_dir, tvdb_episodes_dir, tvdb_mo
 
 # State
 mal_entries = {}
-tvdb_seen = set()
+tvdb_seen_movie = set()
+tvdb_seen_series = set()
+tvdb_seen_seasons = set()
+tvdb_seen_episodes = set()
 
 tvdb_count_series = 0
 tvdb_count_movie = 0
@@ -66,9 +69,9 @@ def process_movies(data):
         if mal_id is not None:
             mal_entries.setdefault(mal_id, []).append(entry)
 
-        if tvdb_id and tvdb_id not in tvdb_seen:
+        if tvdb_id and tvdb_id not in tvdb_seen_movie:
             write_json(tvdb_movie_dir / f"{tvdb_id}.json", [entry])
-            tvdb_seen.add(tvdb_id)
+            tvdb_seen_movie.add(tvdb_id)
             count += 1
 
     return count
@@ -82,9 +85,9 @@ def process_series(data):
         if mal_id is not None:
             mal_entries.setdefault(mal_id, []).append(entry)
 
-        if series_id and series_id not in tvdb_seen:
+        if series_id and series_id not in tvdb_seen_series:
             write_json(tvdb_series_dir / f"{series_id}.json", [entry])
-            tvdb_seen.add(series_id)
+            tvdb_seen_series.add(series_id)
             count += 1
 
     return count
@@ -100,13 +103,13 @@ def process_seasons(data):
         if mal_id is not None:
             mal_entries.setdefault(mal_id, []).append(entry)
 
-        if season_id and season_id not in tvdb_seen:
+        if season_id and season_id not in tvdb_seen_seasons:
             write_hierarchical_json(tvdb_seasons_dir, [season_id], entry)
 
             if series_id and season_number is not None:
                 (tvdb_series_dir / str(series_id) / str(season_number)).mkdir(parents=True, exist_ok=True)
 
-            tvdb_seen.add(season_id)
+            tvdb_seen_seasons.add(season_id)
             count += 1
 
     return count
@@ -124,7 +127,7 @@ def process_episodes(data):
         if mal_id is not None:
             mal_entries.setdefault(mal_id, []).append(entry)
 
-        if episode_id and episode_id not in tvdb_seen:
+        if episode_id and episode_id not in tvdb_seen_episodes:
             write_hierarchical_json(tvdb_episodes_dir, [episode_id], entry)
 
             if series_id and season_number is not None and episode_number is not None:
@@ -133,7 +136,7 @@ def process_episodes(data):
             if season_id and episode_number is not None:
                 write_hierarchical_json(tvdb_seasons_dir, [season_id, episode_number], entry)
 
-            tvdb_seen.add(episode_id)
+            tvdb_seen_episodes.add(episode_id)
             count += 1
 
     return count
