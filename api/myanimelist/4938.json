@@ -1,5 +1,11 @@
 [
     {
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/series/96171",
+        "myanimelist url": "https://myanimelist.net/anime/4938",
+        "myanimelist": 4938,
+        "thetvdb": 96171
+    },
+    {
         "season": 0,
         "episode": 5,
         "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/5049990",
@@ -18,5 +24,33 @@
         "thetvdb": 5049994,
         "series id": 76023,
         "season id": 23481
+    },
+    {
+        "season": 1,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/season/70041",
+        "myanimelist url": "https://myanimelist.net/anime/4938",
+        "myanimelist": 4938,
+        "thetvdb": 70041,
+        "series id": 96171
+    },
+    {
+        "season": 1,
+        "episode": 1,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/683021",
+        "myanimelist url": "https://myanimelist.net/anime/4938/Tsubasa__Shunraiki/episode/1",
+        "myanimelist": 4938,
+        "thetvdb": 683021,
+        "series id": 96171,
+        "season id": 70041
+    },
+    {
+        "season": 1,
+        "episode": 2,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/683031",
+        "myanimelist url": "https://myanimelist.net/anime/4938/Tsubasa__Shunraiki/episode/2",
+        "myanimelist": 4938,
+        "thetvdb": 683031,
+        "series id": 96171,
+        "season id": 70041
     }
 ]
