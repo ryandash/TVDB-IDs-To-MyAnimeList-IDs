@@ -132,5 +132,23 @@
         "thetvdb": 9244432,
         "series id": 416588,
         "season id": 1985202
+    },
+    {
+        "season": 2,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/season/2218719",
+        "myanimelist url": "https://myanimelist.net/anime/51064",
+        "myanimelist": 51064,
+        "thetvdb": 2218719,
+        "series id": 416588
+    },
+    {
+        "season": 2,
+        "episode": 1,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/11481898",
+        "myanimelist url": "https://myanimelist.net/anime/510641",
+        "myanimelist": 51064,
+        "thetvdb": 11481898,
+        "series id": 416588,
+        "season id": 2218719
     }
 ]
