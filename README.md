@@ -8,7 +8,7 @@ Example: https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/myanimelist/
 ### To use for thetvdb series, season, or episode ids to myanimelist
 https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/thetvdb-series/{thetvdb-id}.json
 
-Example: https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/thetvdb-series/361957.json
+Example: https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/thetvdb-series/78857.json
 
 ### To use for thetvdb movie ids to myanimelist
 https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/thetvdb-movie/{thetvdb-id}.json
@@ -24,11 +24,11 @@ https://github-checker-worker.ryandash0.workers.dev/
 <!---counts-start--->
 ### TVDB → MAL Mapping Stats
 
-- ✅ Mapped Movies: **1665**
-- ✅ Mapped Series: **5339**
-- ✅ Mapped Seasons: **7621**
-- ✅ Mapped Episodes: **169518**
+- ✅ Mapped Movies: **1666**
+- ✅ Mapped Series: **5340**
+- ✅ Mapped Seasons: **7750**
+- ✅ Mapped Episodes: **175041**
 - ❌ Unmapped Series/Movies: **0**
 - ❌ Unmapped Seasons: **143**
-- ❌ Unmapped Episodes: **8509**
+- ❌ Unmapped Episodes: **8534**
 <!---counts-end--->
