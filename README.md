@@ -8,7 +8,7 @@ Example: https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/myanimelist/
 ### To use for thetvdb series, season, or episode ids to myanimelist
 https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/thetvdb-series/{thetvdb-id}.json
 
-Example: https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/thetvdb-series/361957.json
+Example: https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/thetvdb-series/78857.json
 
 ### To use for thetvdb movie ids to myanimelist
 https://ryandash.github.io/TVDB-IDs-To-MyAnimeList-IDs/api/thetvdb-movie/{thetvdb-id}.json
