@@ -1,0 +1,36 @@
+[
+    {
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/series/249586",
+        "myanimelist url": "https://myanimelist.net/anime/10590",
+        "myanimelist": 10590,
+        "thetvdb": 249586
+    },
+    {
+        "season": 1,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/season/468067",
+        "myanimelist url": "https://myanimelist.net/anime/10590",
+        "myanimelist": 10590,
+        "thetvdb": 468067,
+        "series id": 249586
+    },
+    {
+        "season": 1,
+        "episode": 1,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/4117400",
+        "myanimelist url": "https://myanimelist.net/anime/10590/Reunion/episode/1",
+        "myanimelist": 10590,
+        "thetvdb": 4117400,
+        "series id": 249586,
+        "season id": 468067
+    },
+    {
+        "season": 1,
+        "episode": 2,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/4117403",
+        "myanimelist url": "https://myanimelist.net/anime/10590/Reunion/episode/2",
+        "myanimelist": 10590,
+        "thetvdb": 4117403,
+        "series id": 249586,
+        "season id": 468067
+    }
+]

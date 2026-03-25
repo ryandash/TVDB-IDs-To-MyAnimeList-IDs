@@ -27,7 +27,7 @@
                 "eng": null,
                 "jpn": null
             },
-            "# Episodes": 24,
+            "# Episodes": 25,
             "Episodes": {
                 "1": {
                     "ID": "11395335",
@@ -266,6 +266,16 @@
                     "Titles": {
                         "eng": "Drifting Classroom",
                         "jpn": "ドリフティング・クラスルーム"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "11696188",
+                    "TYPE": null,
+                    "URL": "https://www.thetvdb.com/series/yuan-zu-bandorichiyan/episodes/11696188",
+                    "Titles": {
+                        "eng": "The Udagawa Hypnotic Frequency",
+                        "jpn": "宇田川催眠波"
                     },
                     "Aliases": []
                 }

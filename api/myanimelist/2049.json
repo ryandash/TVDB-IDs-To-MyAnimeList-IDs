@@ -1,0 +1,36 @@
+[
+    {
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/series/234951",
+        "myanimelist url": "https://myanimelist.net/anime/2049",
+        "myanimelist": 2049,
+        "thetvdb": 234951
+    },
+    {
+        "season": 1,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/season/430211",
+        "myanimelist url": "https://myanimelist.net/anime/2049",
+        "myanimelist": 2049,
+        "thetvdb": 430211,
+        "series id": 234951
+    },
+    {
+        "season": 1,
+        "episode": 1,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/3777071",
+        "myanimelist url": "https://myanimelist.net/anime/2049/Kouryuu_Densetsu_Villgust/episode/1",
+        "myanimelist": 2049,
+        "thetvdb": 3777071,
+        "series id": 234951,
+        "season id": 430211
+    },
+    {
+        "season": 1,
+        "episode": 2,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/3777081",
+        "myanimelist url": "https://myanimelist.net/anime/2049/Kouryuu_Densetsu_Villgust/episode/2",
+        "myanimelist": 2049,
+        "thetvdb": 3777081,
+        "series id": 234951,
+        "season id": 430211
+    }
+]
