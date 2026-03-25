@@ -214,7 +214,7 @@ def parse_special_category(li):
 # -------------------
 
 async def scrape_episode(session: aiohttp.ClientSession, ep_info, season_eps: dict) -> bool:
-    ep_id, ep_url, ep_num = ep_info
+    ep_id, ep_url, ep_num, category = ep_info
     if ep_num in season_eps:
         return False
 
@@ -246,6 +246,7 @@ async def scrape_episode(session: aiohttp.ClientSession, ep_info, season_eps: di
     season_eps[ep_num] = {
         "ID": ep_id,
         "TYPE": type_text,
+        "CATEGORY": category,
         "URL": ep_url,
         "Titles": titles,
         #"Summaries": summaries,
@@ -253,6 +254,105 @@ async def scrape_episode(session: aiohttp.ClientSession, ep_info, season_eps: di
     }
 
     return True
+
+special_categories = {
+    "Episodic Special",
+    "Movies",
+    "OVAs",
+    "Season Recaps",
+    "Uncategorized",
+    "Webisodes and Shorts"
+}
+special_categories_lower = [c.lower() for c in special_categories]
+
+from rapidfuzz import fuzz
+def group_similar_episodes(episodes: list, threshold=80):
+    groups = []
+    for ep in episodes:
+        ep_title = (ep['Titles'].get('eng') or "").lower()
+        placed = False
+        for group in groups:
+            group_title = (group[0]['Titles'].get('eng') or "").lower()
+            if fuzz.ratio(ep_title, group_title) >= threshold:
+                group.append(ep)
+                placed = True
+                break
+        if not placed:
+            groups.append([ep])
+    return groups
+
+def assign_episode_numbers(season_eps: dict, similarity_threshold=80):
+    """
+    season_eps: dict of episodes for a season
+    Modifies in-place: adds 'Episode #' and 'Num Episodes' based on CATEGORY & similar titles
+    """
+    # Flatten into a list
+    eps_list = []
+    for ep_num, ep_data in season_eps.items():
+        ep_copy = ep_data.copy()
+        ep_copy["OriginalNum"] = int(ep_num)
+        eps_list.append(ep_copy)
+
+    # Group by CATEGORY
+    categories = {}
+    for ep in eps_list:
+        cat = ep.get("CATEGORY") or "Uncategorized"
+        categories.setdefault(cat, []).append(ep)
+
+    # Process each category
+    for cat_name, cat_eps in categories.items():
+        if cat_name == "Movies":
+            # Optional: assign 1 for single-movie entries
+            for ep in cat_eps:
+                ep["Episode #"] = 1
+                ep["Num Episodes"] = 1
+            continue
+
+        # Sort by original episode number
+        cat_eps.sort(key=lambda x: x["OriginalNum"])
+        
+        # Group by similar titles
+        groups = group_similar_episodes(cat_eps, threshold=similarity_threshold)
+
+        # Assign Episode # and Num Episodes
+        for group in groups:
+            group.sort(key=lambda x: x["OriginalNum"])
+            num_eps = len(group)
+            for idx, ep in enumerate(group, start=1):
+                ep["Episode #"] = idx
+                ep["Num Episodes"] = num_eps
+
+    # Write back to season_eps
+    for ep in eps_list:
+        ep_num_str = str(ep["OriginalNum"])
+        season_eps[ep_num_str].update({
+            "Episode #": ep["Episode #"],
+            "Num Episodes": ep["Num Episodes"]
+        })
+
+def extract_episode_rows(soup, season_number):
+    rows_with_category = []
+
+    if season_number == "0":
+        for h3 in soup.select("#episodes > h3"):
+            category = h3.get_text(strip=True)
+            category_lower = category.strip().lower()
+
+            if not any(cat in category_lower for cat in special_categories_lower):
+                continue
+
+            table = h3.find_next_sibling("table")
+            if not table:
+                continue
+
+            for row in table.select("tbody tr"):
+                rows_with_category.append((row, category))
+
+    else:
+        for row in soup.select("#episodes table tbody tr"):
+            rows_with_category.append((row, None))
+
+    return rows_with_category
 
 async def scrape_season(session: aiohttp.ClientSession, season_url: str, numEpisodes: int, season_dict: dict, season_number: str) -> bool:
     html = await fetch_html(session, season_url)
@@ -277,22 +377,11 @@ async def scrape_season(session: aiohttp.ClientSession, season_url: str, numEpis
             "# Episodes": int(numEpisodes)
         })
     
-    ep_rows = []
     existing_eps = season_dict.setdefault("Episodes", {})
-
-    if season_number == "0":
-        special_categories = {"Episodic Special", "Movies", "OVAs", "Season Recaps", "Uncategorized", "Webisodes and Shorts"}
-        for h3 in soup.select("#episodes > h3"):
-            text = h3.get_text(strip=True)
-            if any(cat.lower() in text.lower() for cat in special_categories):
-                next_table = h3.find_next_sibling("table")
-                if next_table:
-                    ep_rows.extend(next_table.select("tbody tr"))
-    else:
-        ep_rows = soup.select("#episodes table tbody tr")
-    
+    rows_with_category = extract_episode_rows(soup, season_number)
     ep_infos = []
-    for erow in ep_rows or []:
+
+    for erow, category in rows_with_category:
         a_tag = erow.select_one("td:nth-child(2) a")
         code_td = erow.select_one("td:nth-child(1)")
         if not a_tag or not code_td:
@@ -301,6 +390,7 @@ async def scrape_season(session: aiohttp.ClientSession, season_url: str, numEpis
         code_text = code_td.get_text(strip=True).upper()
         match = re.search(r"E(\d+)", code_text)
         ep_num = str(int(match.group(1))) if match else None
+
         if not ep_num or ep_num in existing_eps:
             continue
 
@@ -310,17 +400,20 @@ async def scrape_season(session: aiohttp.ClientSession, season_url: str, numEpis
 
         full_url = urljoin("https://www.thetvdb.com", href)
         ep_id = href.rstrip("/").split("/")[-1]
-        ep_infos.append((ep_id, full_url, ep_num))
+
+        ep_infos.append((ep_id, full_url, ep_num, category))
 
     if not ep_infos:
         # No episodes found
         return False
 
-    valid_eps = 0
-    for ep_info in ep_infos:
-        if await scrape_episode(session, ep_info, existing_eps):
-            valid_eps += 1
-        await asyncio.sleep(0.5)
+    ep_sem = asyncio.Semaphore(5)
+    async def wrapped(ep_info):
+        async with ep_sem:
+            return await scrape_episode(session, ep_info, existing_eps)
+
+    results = await asyncio.gather(*(wrapped(e) for e in ep_infos))
+    valid_eps = sum(results)
 
     if valid_eps == 0:
         # All episodes were TBA or invalid
@@ -331,6 +424,10 @@ async def scrape_season(session: aiohttp.ClientSession, season_url: str, numEpis
     season_dict.clear()
     season_dict.update(other_keys)
     season_dict["Episodes"] = dict(sorted(existing_eps.items(), key=lambda x: int(x[0])))
+
+    if season_number == "0":
+        # --- Assign Episode # and Num Episodes ---
+        assign_episode_numbers(season_dict["Episodes"])
 
     return True
 
