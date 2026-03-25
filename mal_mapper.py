@@ -210,7 +210,7 @@ async def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, vis
 
     print(f"New mal id {sequel_id} mal_eps: {mal_eps} offset_eps: {offset_eps}")
 
-    if (anime_type != "tv" or anime_type != "ona") and (mal_eps and mal_eps < offset_eps):
+    if anime_type not in ("tv", "ona") and (mal_eps and mal_eps < offset_eps):
         return await get_mal_relations(sequel_id, offset_eps, season_title, visited)
 
     return sequel_id
@@ -455,7 +455,7 @@ async def map_anime():
                         previousSeasonMalID = SeasonMalID
                         
                         if season_num != "1":
-                            if mal_eps and episode_offset >= mal_eps:
+                            if mal_eps and episode_offset > mal_eps:
                                 changeSeason = True
                                 SeasonMalID = await get_mal_relations(SeasonMalID, total_episodes, season_title_jpn or season_title_eng)
                         
@@ -580,7 +580,7 @@ async def map_anime():
                     elif SeasonMalID:
                         # Regular episodes
                         previousSeasonMalID = SeasonMalID
-                        if mal_eps and mal_eps < episode_offset:
+                        if mal_eps and episode_offset > mal_eps:
                             SeasonMalID = await get_mal_relations(SeasonMalID, total_episodes - episode_offset + 1, None)
                             if SeasonMalID:
                                 mal_eps = await get_mal_episode_count(SeasonMalID)
