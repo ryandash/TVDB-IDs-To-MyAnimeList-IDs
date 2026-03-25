@@ -22,15 +22,22 @@ Valid paths:
   /thetvdb-seasons
   /thetvdb-episodes
 
-Required query parameter:
+Required Query Parameter:
   ?id=YOUR_ID
 
-Optional parameter:
-  &crossIDs   (Use this if you want to fetch cross-referenced IDs from animeAPI)
+Optional Query Parameters:
+  &crossIDs   (Use to fetch cross-referenced IDs from animeAPI NOTE: this uses another api so results will vary and it will take longer)
+
+  &season=SEASON_NUMBER (For series paths, fetch a specific season for a series)
+
+  &episode=EPISODE_NUMBER (For series/season paths, fetch a specific episode for a series or season)
 
 Example usage:
-  /thetvdb-series?id=361957&crossIDs
-  /myanimelist?id=21`,
+  - Fetch the mapped data for episode 5 of season 2 for Naruto:
+  /thetvdb-series?id=78857&season=2&episode=5
+
+  - Fetch the mapped data for One Piece with cross-referenced IDs for the MyAnimeList id #21
+  /myanimelist?id=21&crossIDs`,
           { status: 200, headers: { "Content-Type": "text/plain" } }
         );
       }
