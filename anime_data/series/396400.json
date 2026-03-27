@@ -1,0 +1,846 @@
+{
+    "URL": "https://thetvdb.com/series/396400-",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt6219010/",
+        "https://www.themoviedb.org/tv/126170"
+    ],
+    "Titles": {
+        "eng": "Mojacko",
+        "jpn": "モジャ公"
+    },
+    "Aliases": [],
+    "Modified": "2021-02-06",
+    "Seasons": {
+        "1": {
+            "ID": "1899757",
+            "URL": "https://thetvdb.com/series/396400-/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 74,
+            "Episodes": {
+                "1": {
+                    "ID": "8185286",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185286",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "宇宙から来た友達"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8185314",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185314",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "コスモストーンを探せ!"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8185288",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185288",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "怪獣惑星に行くモジャ!"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "8185289",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185289",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "空夫の結婚?大予言"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "8185290",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185290",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "モジャ公のオタフクカゼ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "8185318",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185318",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ドロボーの星ボドロー"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "8185319",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185319",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ピテカンはエスパー?"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "8185294",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185294",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "つきまくり?カジノの星"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "8185295",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185295",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "宿題のない星はパラダイス?"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "8185322",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185322",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "空夫の学校に行くモジャ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "8185323",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185323",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "SFクラブへようこそ"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "8185324",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185324",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ドンモのホワイトクリスマス"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "8185325",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185325",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "クルクル回る禁断の星"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "8185300",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185300",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "おフロは熱いのがいいモジャ!"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "8185327",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185327",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "バーベキューの星"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "8185302",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185302",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ピテカンの子分、モジャ公?"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "8185303",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185303",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "空夫、家出します!"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "8185304",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185304",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "モジャリ、モジャル登場(前)"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "8185305",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185305",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "モジャリ、モジャル登場(後)"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "8185306",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185306",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ゴンスケの野望"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "8185333",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185333",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ちょっとポッドでお買いもの"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "8185334",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185334",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "るす番は楽しいモジャ!"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "8185335",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185335",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ママこうりゃく作戦"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "8185336",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185336",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "11人のモジャ公"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "8185311",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185311",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "モジャ公の花さか爺さん"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "8185347",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185347",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "空夫の家に引っ越すベー!"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "8185348",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185348",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ペットになりたいモジャ"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "8185349",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185349",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "カッパも宇宙人?"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "8185350",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185350",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "寿司はうまいモジャ!"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "8185351",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185351",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "なかなおりマシンだモジャ"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "8185353",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185353",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "占いはもてるモジャ!"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "8185354",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185354",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "だいすき、歯医者さん!"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "8185355",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185355",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "飛べ飛べ!モジャピー"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "8185356",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185356",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "まほう使いになりたい"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "8185357",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185357",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "カビカビ大作戦"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "8185358",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185358",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ムキムキでモテモテモジャ"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "8185359",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185359",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ウナギが食べたいモジャ"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "8185360",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185360",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "名たんていモジャ公"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "8185361",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185361",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ヒトダマで肝だめし"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "8185362",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185362",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "スピードオーバー"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "8185363",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185363",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "モジャ公、天使になる?!"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "8185364",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185364",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "み～んなダイヤが好きでちゅ"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "8185365",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185365",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "スイカ割り勝負だモジャ!"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "8185366",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185366",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "モジャルが泣かなかった日"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "8185367",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185367",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "かき氷が食べたいモジャ"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "8185368",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185368",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "宝さがしに行くモジャ!"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "8185369",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185369",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "モジャル、さらわれる?"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "8185370",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185370",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "とうめいモジャ公現る?"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "8185371",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185371",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "スーパーヒーロー、モジャ公!"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "8185372",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185372",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "食べ合わせは恐いモジャ"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "8185385",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185385",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ライバル登場!その名はモモンジャ"
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "8185386",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185386",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "見よ!モモンジャ流モンモン術"
+                    },
+                    "Aliases": []
+                },
+                "53": {
+                    "ID": "8185387",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185387",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "小さな大ぼうけんモジャ"
+                    },
+                    "Aliases": []
+                },
+                "54": {
+                    "ID": "8185388",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185388",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "空夫とタイムカプセル"
+                    },
+                    "Aliases": []
+                },
+                "55": {
+                    "ID": "8185389",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185389",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ドンモ改造計画"
+                    },
+                    "Aliases": []
+                },
+                "56": {
+                    "ID": "8185390",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185390",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "モジャ公かんていします"
+                    },
+                    "Aliases": []
+                },
+                "57": {
+                    "ID": "8185391",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185391",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "みきちゃん たんじょう日モジャ"
+                    },
+                    "Aliases": []
+                },
+                "58": {
+                    "ID": "8185392",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185392",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "にじの星に行くモジャ"
+                    },
+                    "Aliases": []
+                },
+                "59": {
+                    "ID": "8185393",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185393",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ゴンスケのイモの星"
+                    },
+                    "Aliases": []
+                },
+                "60": {
+                    "ID": "8185394",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185394",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "にげる雪だるまモジャ"
+                    },
+                    "Aliases": []
+                },
+                "61": {
+                    "ID": "8185395",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185395",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "クリスマスが食べられちゃう?"
+                    },
+                    "Aliases": []
+                },
+                "62": {
+                    "ID": "8185396",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185396",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ピテカン大作戦"
+                    },
+                    "Aliases": []
+                },
+                "63": {
+                    "ID": "8185397",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185397",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "雪男に似てるのだあれ?"
+                    },
+                    "Aliases": []
+                },
+                "64": {
+                    "ID": "8185398",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185398",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "オッサンの地球ツアー"
+                    },
+                    "Aliases": []
+                },
+                "65": {
+                    "ID": "8185399",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185399",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "よみがえったミイラ男"
+                    },
+                    "Aliases": []
+                },
+                "66": {
+                    "ID": "8185400",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185400",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "モジャリ、ママになる"
+                    },
+                    "Aliases": []
+                },
+                "67": {
+                    "ID": "8185401",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185401",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "とにかくカネを払ってオクレ"
+                    },
+                    "Aliases": []
+                },
+                "68": {
+                    "ID": "8185402",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185402",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ラーメン大王の究極のラーメン"
+                    },
+                    "Aliases": []
+                },
+                "69": {
+                    "ID": "8185403",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185403",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "モジャ公親分てえへんだい!"
+                    },
+                    "Aliases": []
+                },
+                "70": {
+                    "ID": "8185405",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185405",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "モモンジャの大告白モジャ"
+                    },
+                    "Aliases": []
+                },
+                "71": {
+                    "ID": "8185406",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185406",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "モモンジャ里のひみつ"
+                    },
+                    "Aliases": []
+                },
+                "72": {
+                    "ID": "8185407",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185407",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "宇宙でいちばんの宝物1"
+                    },
+                    "Aliases": []
+                },
+                "73": {
+                    "ID": "8185408",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185408",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "宇宙でいちばんの宝物2"
+                    },
+                    "Aliases": []
+                },
+                "74": {
+                    "ID": "8185409",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396400-/episodes/8185409",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "宇宙でいちばんの宝物3"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

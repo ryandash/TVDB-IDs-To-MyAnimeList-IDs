@@ -1,0 +1,382 @@
+{
+    "URL": "https://thetvdb.com/series/hellsing",
+    "Genres": [
+        "Adaptation",
+        "Anime - Seinen"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0325547/",
+        "https://www.themoviedb.org/tv/16830"
+    ],
+    "Titles": {
+        "eng": "Hellsing",
+        "jpn": "HELLSING"
+    },
+    "Aliases": [
+        "Hellsing (2001)"
+    ],
+    "Modified": "2026-03-03",
+    "Seasons": {
+        "0": {
+            "ID": "530897",
+            "URL": "https://thetvdb.com/series/hellsing/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 15,
+            "Episodes": {
+                "1": {
+                    "ID": "9507528",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/9507528",
+                    "Titles": {
+                        "eng": "Psalm of Darkness",
+                        "jpn": "Hellsing: Psalm of the Darkness"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "10259616",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/10259616",
+                    "Titles": {
+                        "eng": "Hellsing Ultimate I",
+                        "jpn": "Hellsing Ultimate I"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 10
+                },
+                "3": {
+                    "ID": "10259617",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/10259617",
+                    "Titles": {
+                        "eng": "Hellsing Ultimate II",
+                        "jpn": "Hellsing Ultimate II"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 10
+                },
+                "4": {
+                    "ID": "10259618",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/10259618",
+                    "Titles": {
+                        "eng": "Hellsing Ultimate III",
+                        "jpn": "Hellsing Ultimate III"
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 10
+                },
+                "5": {
+                    "ID": "10259619",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/10259619",
+                    "Titles": {
+                        "eng": "Hellsing Ultimate IV",
+                        "jpn": "Hellsing Ultimate IV"
+                    },
+                    "Aliases": [],
+                    "Episode #": 4,
+                    "Num Episodes": 10
+                },
+                "6": {
+                    "ID": "10259620",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/10259620",
+                    "Titles": {
+                        "eng": "Hellsing Ultimate V",
+                        "jpn": "Hellsing Ultimate V"
+                    },
+                    "Aliases": [],
+                    "Episode #": 5,
+                    "Num Episodes": 10
+                },
+                "7": {
+                    "ID": "10259621",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/10259621",
+                    "Titles": {
+                        "eng": "Hellsing Ultimate VI",
+                        "jpn": "Hellsing Ultimate VI"
+                    },
+                    "Aliases": [],
+                    "Episode #": 6,
+                    "Num Episodes": 10
+                },
+                "8": {
+                    "ID": "10259622",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/10259622",
+                    "Titles": {
+                        "eng": "Hellsing Ultimate VII",
+                        "jpn": "Hellsing Ultimate VII"
+                    },
+                    "Aliases": [],
+                    "Episode #": 7,
+                    "Num Episodes": 10
+                },
+                "9": {
+                    "ID": "10259623",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/10259623",
+                    "Titles": {
+                        "eng": "Hellsing Ultimate VIII",
+                        "jpn": "Hellsing Ultimate VIII"
+                    },
+                    "Aliases": [],
+                    "Episode #": 8,
+                    "Num Episodes": 10
+                },
+                "10": {
+                    "ID": "10259624",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/10259624",
+                    "Titles": {
+                        "eng": "Hellsing Ultimate IX",
+                        "jpn": "Hellsing Ultimate IX"
+                    },
+                    "Aliases": [],
+                    "Episode #": 9,
+                    "Num Episodes": 10
+                },
+                "11": {
+                    "ID": "10259625",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/10259625",
+                    "Titles": {
+                        "eng": "Hellsing Ultimate X",
+                        "jpn": "Hellsing Ultimate X"
+                    },
+                    "Aliases": [],
+                    "Episode #": 10,
+                    "Num Episodes": 10
+                },
+                "12": {
+                    "ID": "10259626",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/10259626",
+                    "Titles": {
+                        "eng": "The Dawn I",
+                        "jpn": "The Dawn I"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 3
+                },
+                "13": {
+                    "ID": "10259627",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/10259627",
+                    "Titles": {
+                        "eng": "The Dawn II",
+                        "jpn": "The Dawn II"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 3
+                },
+                "14": {
+                    "ID": "10259628",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/10259628",
+                    "Titles": {
+                        "eng": "The Dawn III",
+                        "jpn": "The Dawn III"
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 3
+                },
+                "15": {
+                    "ID": "10978218",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/10978218",
+                    "Titles": {
+                        "eng": "Digest For Freaks",
+                        "jpn": "Digest for Freaks"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "2003",
+            "URL": "https://thetvdb.com/series/hellsing/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "ita": "Stagione 1"
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "41162",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/41162",
+                    "Titles": {
+                        "eng": "Order 01: The Undead",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "41163",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/41163",
+                    "Titles": {
+                        "eng": "Order 02: Club M",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "41164",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/41164",
+                    "Titles": {
+                        "eng": "Order 03: Sword Dancer",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "41165",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/41165",
+                    "Titles": {
+                        "eng": "Order 04: Innocent as a Human",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "41166",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/41166",
+                    "Titles": {
+                        "eng": "Order 05: Brotherhood",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "41167",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/41167",
+                    "Titles": {
+                        "eng": "Order 06: Dead Zone",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "41168",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/41168",
+                    "Titles": {
+                        "eng": "Order 07: Duel",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "41169",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/41169",
+                    "Titles": {
+                        "eng": "Order 08: Kill House",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "41170",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/41170",
+                    "Titles": {
+                        "eng": "Order 09: Red Rose Vertigo",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "41171",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/41171",
+                    "Titles": {
+                        "eng": "Order 10: Master of Monster",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "41172",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/41172",
+                    "Titles": {
+                        "eng": "Order 11: Transcend Force",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "41173",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/41173",
+                    "Titles": {
+                        "eng": "Order 12: Total Destruction",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "41174",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hellsing/episodes/41174",
+                    "Titles": {
+                        "eng": "Order 13: Hellfire",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

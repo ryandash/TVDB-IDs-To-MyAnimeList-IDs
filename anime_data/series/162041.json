@@ -1,0 +1,58 @@
+{
+    "URL": "https://thetvdb.com/series/1-2-paradise",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0331810/",
+        "https://www.themoviedb.org/tv/44230"
+    ],
+    "Titles": {
+        "eng": "1+2=Paradise",
+        "jpn": "1+2=パラダイス"
+    },
+    "Aliases": [
+        "いちたすにはパラダイス",
+        "いちたすにはぱらだいす",
+        "１＋２＝パラダイス"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "724203",
+            "URL": "https://thetvdb.com/series/1-2-paradise/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "6246839",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/1-2-paradise/episodes/6246839",
+                    "Titles": {
+                        "eng": "Bouncing Bossoms Everywhere",
+                        "jpn": "あっちもこっちもプリンプリン"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6246840",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/1-2-paradise/episodes/6246840",
+                    "Titles": {
+                        "eng": "Showdown! Pink Sisters vs. Lusty Queenbee",
+                        "jpn": "対決!桃色姉妹V.S.好色女王蜂"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

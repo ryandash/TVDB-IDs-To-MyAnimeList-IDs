@@ -1,0 +1,1925 @@
+{
+    "URL": "https://thetvdb.com/series/dragon-ball",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Children",
+        "Fantasy",
+        "Science Fiction",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/B0F7-0B5D-95F6-3A2C-BFF3-T",
+        "https://www.imdb.com/title/tt0088509/",
+        "https://www.themoviedb.org/tv/12609"
+    ],
+    "Titles": {
+        "eng": "Dragon Ball",
+        "jpn": "ドラゴンボール"
+    },
+    "Aliases": [
+        "Dragonball",
+        "Dragon Ball (1986)"
+    ],
+    "Modified": "2026-03-16",
+    "Seasons": {
+        "0": {
+            "ID": "24124",
+            "URL": "https://thetvdb.com/series/dragon-ball/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "por": "Filmes e Especiais",
+                "spa": "Especiales y Peliculas",
+                "pt": "Filmes e Especiais"
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "375376",
+                    "TYPE": null,
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/375376",
+                    "Titles": {
+                        "eng": "Dragon Ball: Curse of the Blood Rubies",
+                        "jpn": "ドラゴンボール 神龍の伝説"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "375377",
+                    "TYPE": null,
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/375377",
+                    "Titles": {
+                        "eng": "Dragon Ball: Sleeping Princess in Devil's Castle",
+                        "jpn": "ドラゴンボール 魔神城のねむり姫"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "375378",
+                    "TYPE": null,
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/375378",
+                    "Titles": {
+                        "eng": "Dragon Ball: Mystical Adventure",
+                        "jpn": "ドラゴンボール 摩訶不思議大冒険"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "375379",
+                    "TYPE": null,
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/375379",
+                    "Titles": {
+                        "eng": "Dragon Ball: The Path to Power",
+                        "jpn": "ドラゴンボール 最強への道"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "5": {
+                    "ID": "4185378",
+                    "TYPE": null,
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/4185378",
+                    "Titles": {
+                        "eng": "Dragon Ball: Goku & Fire Brigade",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "6": {
+                    "ID": "4185381",
+                    "TYPE": null,
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/4185381",
+                    "Titles": {
+                        "eng": "Dragon Ball: Goku & Traffic Safety",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "11061",
+            "URL": "https://thetvdb.com/series/dragon-ball/seasons/official/1",
+            "Titles": {
+                "eng": "Emperor Pilaf Saga",
+                "jpn": null,
+                "zho": "第1次寻找龙珠篇",
+                "pol": "Draggonball",
+                "pt": "Temporada 1 - Saga de Pilaf",
+                "spa": "Saga de Pilaf",
+                "ita": "La Saga di Pilaf",
+                "cat": "La Saga de l'Emperador Pilaf",
+                "fra": "Saga Son Goku",
+                "deu": "Prinz Pilaw Saga",
+                "kor": "피라후 편",
+                "hun": "Pilaf nagyúr Saga"
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "206679",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206679",
+                    "Titles": {
+                        "eng": "Secret of the Dragon Balls",
+                        "jpn": "ブルマと孫悟空"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "206680",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206680",
+                    "Titles": {
+                        "eng": "The Emperor's Quest",
+                        "jpn": "あらららー!タマがない!"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "206681",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206681",
+                    "Titles": {
+                        "eng": "The Nimbus Cloud of Roshi",
+                        "jpn": "亀仙人のキント雲"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "206682",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206682",
+                    "Titles": {
+                        "eng": "Oolong the Terrible",
+                        "jpn": "人さらい妖怪ウーロン"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "206683",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206683",
+                    "Titles": {
+                        "eng": "Yamcha the Desert Bandit",
+                        "jpn": "つよくて悪い砂漠のヤムチャ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "206684",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206684",
+                    "Titles": {
+                        "eng": "Keep an Eye on the Dragon Balls",
+                        "jpn": "真夜中の訪問者たち"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "206685",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206685",
+                    "Titles": {
+                        "eng": "The Ox-King on Fire Mountain",
+                        "jpn": "フライパン山の牛魔王"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "206686",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206686",
+                    "Titles": {
+                        "eng": "The Kamehameha Wave",
+                        "jpn": "亀仙人のカメハメ波"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "206687",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206687",
+                    "Titles": {
+                        "eng": "Boss Rabbit's Magic Touch",
+                        "jpn": "うさぎオヤブンの得意技"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "206688",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206688",
+                    "Titles": {
+                        "eng": "The Dragon Balls are Stolen!",
+                        "jpn": "D.B.（ドラゴンボール）うばわれる!!"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "206689",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206689",
+                    "Titles": {
+                        "eng": "The Penalty is Pinball",
+                        "jpn": "ついに龍あらわる!"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "206690",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206690",
+                    "Titles": {
+                        "eng": "A Wish to the Eternal Dragon",
+                        "jpn": "神龍への願い"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "206691",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206691",
+                    "Titles": {
+                        "eng": "The Legend of Goku",
+                        "jpn": "悟空の大変身"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "11062",
+            "URL": "https://thetvdb.com/series/dragon-ball/seasons/official/2",
+            "Titles": {
+                "eng": "Tournament Saga",
+                "jpn": null,
+                "zho": "第二十一届天下一武道会篇",
+                "spa": "21° Edición del Torneo de Artes Marciales",
+                "ita": "Saga del 21° Torneo Tenkaichi",
+                "fra": "Saga 21e Tenkaichi Budokai",
+                "cat": "Saga del gran torneig de les arts marcials",
+                "kor": "21회 천하제일무도회 편",
+                "pt": "Saga do Torneio",
+                "deu": "21. Große Turnier Saga",
+                "hun": "A 21. Harcművészetek Nagytornája Saga"
+            },
+            "# Episodes": 15,
+            "Episodes": {
+                "1": {
+                    "ID": "1210301",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210301",
+                    "Titles": {
+                        "eng": "Goku's Rival",
+                        "jpn": "悟空のライバル？ 参上!!"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1210311",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210311",
+                    "Titles": {
+                        "eng": "Look Out for Launch!",
+                        "jpn": "?な女の子ランチ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1210321",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210321",
+                    "Titles": {
+                        "eng": "Find That Stone",
+                        "jpn": "修行・石さがし"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1210331",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210331",
+                    "Titles": {
+                        "eng": "Milk Delivery",
+                        "jpn": "命がけ! 牛乳はいたつ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "1210341",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210341",
+                    "Titles": {
+                        "eng": "The Turtle Hermit Way",
+                        "jpn": "亀仙流きつーい修行"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "1210351",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210351",
+                    "Titles": {
+                        "eng": "The Tournament Begins",
+                        "jpn": "天下一武道会はじまる!"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "1210361",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210361",
+                    "Titles": {
+                        "eng": "Elimination Round",
+                        "jpn": "でるか!? 修行の威力"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "1210371",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210371",
+                    "Titles": {
+                        "eng": "Smells Like Trouble",
+                        "jpn": "危うし! クリリン"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "1210381",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210381",
+                    "Titles": {
+                        "eng": "Quarter Finals Begin",
+                        "jpn": "ヤムチャVSジャッキーチュン"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "1210391",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210391",
+                    "Titles": {
+                        "eng": "Monster Beast Giran",
+                        "jpn": "出たーっ! 強敵ギラン"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "1210401",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210401",
+                    "Titles": {
+                        "eng": "Krillin's Frantic Attack!",
+                        "jpn": "クリリン必死の大攻防戦"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "1210411",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210411",
+                    "Titles": {
+                        "eng": "Danger From Above",
+                        "jpn": "たて悟空! 恐るべき天空×字拳"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "1210421",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210421",
+                    "Titles": {
+                        "eng": "The Grand Finals",
+                        "jpn": "決勝戦だ!! カメハメ波"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "1210431",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210431",
+                    "Titles": {
+                        "eng": "Number One Under The Moon",
+                        "jpn": "悟空・最大のピンチ"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "1210441",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210441",
+                    "Titles": {
+                        "eng": "The Final Blow",
+                        "jpn": "激突!! パワー対パワー"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "11063",
+            "URL": "https://thetvdb.com/series/dragon-ball/seasons/official/3",
+            "Titles": {
+                "eng": "Red Ribbon Army Saga",
+                "jpn": null,
+                "zho": "第2次寻找龙珠篇",
+                "spa": "Saga del Ejército Red Ribbon",
+                "fra": "Saga Armée du Red Ribbon",
+                "cat": "Saga del exèrcit de la cinta vermella",
+                "ita": "Saga del Fiocco Rosso",
+                "kor": "레드리본군 편",
+                "pt": "Saga Red Ribbon",
+                "deu": "Red Ribbon Armee-Saga",
+                "hun": "Vörös Szalagrend Saga"
+            },
+            "# Episodes": 40,
+            "Episodes": {
+                "1": {
+                    "ID": "1210081",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210081",
+                    "Titles": {
+                        "eng": "The Roaming Lake",
+                        "jpn": "ふたたび冒険さまよう湖"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1210091",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210091",
+                    "Titles": {
+                        "eng": "Pilaf and The Mystery Force",
+                        "jpn": "ピラフと謎の軍団"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1210111",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210111",
+                    "Titles": {
+                        "eng": "Wedding Plans",
+                        "jpn": "ゲゲ! ニセ悟空出現!!"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1210121",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210121",
+                    "Titles": {
+                        "eng": "The Flying Fortress – Vanished!",
+                        "jpn": "消えた!? 空とぶ要塞"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "1210131",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210131",
+                    "Titles": {
+                        "eng": "The Legend of a Dragon",
+                        "jpn": "龍の伝説"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "1210141",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210141",
+                    "Titles": {
+                        "eng": "Cruel General Red",
+                        "jpn": "非情のレッドリボン"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "1210161",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210161",
+                    "Titles": {
+                        "eng": "Cold Reception",
+                        "jpn": "北の少女スノ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "1210181",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210181",
+                    "Titles": {
+                        "eng": "Major Metallitron",
+                        "jpn": "マッスル塔の恐怖"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "1210191",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210191",
+                    "Titles": {
+                        "eng": "Ninja Murasaki is Coming!",
+                        "jpn": "忍者ムラサキ参上"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "1210201",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210201",
+                    "Titles": {
+                        "eng": "Five Murasakis",
+                        "jpn": "恐るべし!! 分身の術"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "1210221",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210221",
+                    "Titles": {
+                        "eng": "Mysterious Android No. 8",
+                        "jpn": "謎の人造人間8号"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "1210231",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210231",
+                    "Titles": {
+                        "eng": "Horrifying Buyon",
+                        "jpn": "どうする悟空!! 戦慄のブヨン"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "1210241",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210241",
+                    "Titles": {
+                        "eng": "The Fall of Muscle Tower",
+                        "jpn": "マッスルタワーの最期"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "1210261",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210261",
+                    "Titles": {
+                        "eng": "The Secret of Dr. Flappe",
+                        "jpn": "危機一髪!! ガンバレ8ちゃん"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "1210271",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210271",
+                    "Titles": {
+                        "eng": "A Trip to the City",
+                        "jpn": "西の都のブルマんち"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "1210281",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210281",
+                    "Titles": {
+                        "eng": "Master Thief, Haski",
+                        "jpn": "悟空と仲間と危険がいっぱい"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "1210291",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210291",
+                    "Titles": {
+                        "eng": "Danger in the Air",
+                        "jpn": "気をつけろ! 空中の罠"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "1209941",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209941",
+                    "Titles": {
+                        "eng": "Bulma's Bad Day",
+                        "jpn": "ブルマの大失敗"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "1209951",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209951",
+                    "Titles": {
+                        "eng": "Kame House - Found!",
+                        "jpn": "KAME HOUSE発見さる!!"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "1209961",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209961",
+                    "Titles": {
+                        "eng": "Deep Blue Sea",
+                        "jpn": "ブルー将軍攻撃開始!!"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "1209971",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209971",
+                    "Titles": {
+                        "eng": "Roshi Surprise",
+                        "jpn": "危うしランチさん"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "1209981",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209981",
+                    "Titles": {
+                        "eng": "The Trap is Sprung",
+                        "jpn": "海賊たちのワナ"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "1209991",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209991",
+                    "Titles": {
+                        "eng": "Beware of Robot",
+                        "jpn": "海底のガードマン"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "1210001",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210001",
+                    "Titles": {
+                        "eng": "The Pirate Treasure",
+                        "jpn": "やった! お宝発見"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "1210011",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210011",
+                    "Titles": {
+                        "eng": "Blue, Black and Blue",
+                        "jpn": "恐怖の光る眼"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "1210021",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210021",
+                    "Titles": {
+                        "eng": "Escape From Pirate Cave",
+                        "jpn": "逃げろや逃げろ!! 大脱出"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "1210031",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210031",
+                    "Titles": {
+                        "eng": "Penguin Village",
+                        "jpn": "んちゃ! 追ってペンギン村"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "1210041",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210041",
+                    "Titles": {
+                        "eng": "Strange Visitor",
+                        "jpn": "うほほーい! アラレ雲にのる"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "1210051",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1210051",
+                    "Titles": {
+                        "eng": "Arale vs. Blue",
+                        "jpn": "対決! アラレVSブルー"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "1209791",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209791",
+                    "Titles": {
+                        "eng": "The Land of Korin",
+                        "jpn": "魔境の聖地カリン"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "1209801",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209801",
+                    "Titles": {
+                        "eng": "The Notorious Mercenary",
+                        "jpn": "きた!世界一の殺し屋“桃白白”"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "1209811",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209811",
+                    "Titles": {
+                        "eng": "Tao Attacks!",
+                        "jpn": "勝負!! カメハメ波VSどどん波"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "1209821",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209821",
+                    "Titles": {
+                        "eng": "Korin Tower",
+                        "jpn": "カリン塔のカリン様"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "1209831",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209831",
+                    "Titles": {
+                        "eng": "Sacred Water",
+                        "jpn": "果たして!? 超聖水のききめ"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "1209841",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209841",
+                    "Titles": {
+                        "eng": "The Return of Goku",
+                        "jpn": "孫悟空の逆襲"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "1209851",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209851",
+                    "Titles": {
+                        "eng": "The Last of Mercenary Tao",
+                        "jpn": "最後の桃白白"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "1209861",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209861",
+                    "Titles": {
+                        "eng": "Confront the Red Ribbon Army",
+                        "jpn": "ゆけ悟空! 突撃開始"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "1209871",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209871",
+                    "Titles": {
+                        "eng": "A Real Bind",
+                        "jpn": "レッドリボン軍必死の攻防"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "1209881",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209881",
+                    "Titles": {
+                        "eng": "The End of Commander Red",
+                        "jpn": "レッド総帥死す!!"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "1269841",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1269841",
+                    "Titles": {
+                        "eng": "The Last Dragon Ball",
+                        "jpn": "最後のドラゴンボール"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "4": {
+            "ID": "11064",
+            "URL": "https://thetvdb.com/series/dragon-ball/seasons/official/4",
+            "Titles": {
+                "eng": "22nd Tenkaichi Budokai Saga",
+                "jpn": null,
+                "zho": "第22回天下第一武道会篇",
+                "spa": "Saga El Palacio de Uranai Baba y 22º Torneo de Artes Marciales",
+                "cat": "Saga 22e Tenkaichi Budokai",
+                "fra": "Saga 22e Tenkaichi Budokai",
+                "ita": "Saga del 22° Torneo Tenkaichi",
+                "kor": "점쟁이 바바 편",
+                "pt": "Saga Tenshinhan",
+                "deu": "Uranai Baba-Saga & 22. Große Turnier Saga",
+                "hun": "Baba, a látnok + 22. Harcművészetek Nagytornája Saga"
+            },
+            "# Episodes": 33,
+            "Episodes": {
+                "1": {
+                    "ID": "1209631",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209631",
+                    "Titles": {
+                        "eng": "Who is Fortuneteller Baba?",
+                        "jpn": "キュートな!? 占いババ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1209641",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209641",
+                    "Titles": {
+                        "eng": "We Are The Five Warriors",
+                        "jpn": "突撃! われら5人の戦士"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1209651",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209651",
+                    "Titles": {
+                        "eng": "Deadly Battle",
+                        "jpn": "決死の大流血戦"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1209661",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209661",
+                    "Titles": {
+                        "eng": "Goku's Turn",
+                        "jpn": "悟空見参! 悪魔の便所"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "1209671",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209671",
+                    "Titles": {
+                        "eng": "The Devilmite Beam",
+                        "jpn": "必殺アクマイト光線とは!?"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "1209681",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209681",
+                    "Titles": {
+                        "eng": "The Mysterious Fifth Man",
+                        "jpn": "なぞの五人目の男"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "1209691",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209691",
+                    "Titles": {
+                        "eng": "The Strong Ones",
+                        "jpn": "激突!! 強敵同志"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "1209701",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209701",
+                    "Titles": {
+                        "eng": "The True Colors of the Masked Man",
+                        "jpn": "仮面男の正体は!?"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "1209711",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209711",
+                    "Titles": {
+                        "eng": "Pilaf's Tactics",
+                        "jpn": "ピラフの大作戦"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "1209721",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209721",
+                    "Titles": {
+                        "eng": "The Eternal Dragon Rises",
+                        "jpn": "神龍ふたたび"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "1209731",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209731",
+                    "Titles": {
+                        "eng": "Terror and Plague",
+                        "jpn": "金角・銀角の人食いひょうたん"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "1209741",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209741",
+                    "Titles": {
+                        "eng": "Goku vs. Sky Dragon",
+                        "jpn": "いざ御前試合! 悟空VS天龍"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "1209751",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209751",
+                    "Titles": {
+                        "eng": "Goku Goes to Demon Land",
+                        "jpn": "悟空・魔界へ行く"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "1209761",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209761",
+                    "Titles": {
+                        "eng": "The Rampage Of InoShikaCho",
+                        "jpn": "あばれ怪獣イノシカチョウ"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "1209771",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/1209771",
+                    "Titles": {
+                        "eng": "Which Way to Papaya Island?",
+                        "jpn": "いそげ悟空! 天下一武道会"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "206762",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206762",
+                    "Titles": {
+                        "eng": "Rivals and Arrivals",
+                        "jpn": "めざせ武道天下一!!"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "206763",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206763",
+                    "Titles": {
+                        "eng": "Preliminary Peril",
+                        "jpn": "勝ちのこるぞっ!! 予選サバイバル"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "206764",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206764",
+                    "Titles": {
+                        "eng": "Then There Were Eight",
+                        "jpn": "決定!! 8人の勇者たち"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "206765",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206765",
+                    "Titles": {
+                        "eng": "Yamcha vs. Tien",
+                        "jpn": "対決!! ヤムチャVS天津飯"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "206766",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206766",
+                    "Titles": {
+                        "eng": "Yamcha's Big Break",
+                        "jpn": "ゆけヤムチャ! 恐るべし天津飯"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "206767",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206767",
+                    "Titles": {
+                        "eng": "Full-Moon Vengeance",
+                        "jpn": "恐怖!! 満月の恨み"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "206768",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206768",
+                    "Titles": {
+                        "eng": "The Dodon Wave!",
+                        "jpn": "なななっ!! なんと どどん波"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "206769",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206769",
+                    "Titles": {
+                        "eng": "Counting Controversy!",
+                        "jpn": "逆転!! クリリンの8でんネ大作戦"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "206770",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206770",
+                    "Titles": {
+                        "eng": "Goku Enters The Ring",
+                        "jpn": "おまたせーっ! 孫悟空参上!!"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "206771",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206771",
+                    "Titles": {
+                        "eng": "Tien Shinhan vs. Jackie Chun",
+                        "jpn": "実力伯仲!! 天津飯VSジャッキー"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "206772",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206772",
+                    "Titles": {
+                        "eng": "Stepping Down",
+                        "jpn": "ゲゲゲッ!! 新鶴仙流・太陽拳"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "206773",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206773",
+                    "Titles": {
+                        "eng": "Goku vs. Krillin",
+                        "jpn": "ファイト!! 悟空VSクリリン"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "206774",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206774",
+                    "Titles": {
+                        "eng": "Tail's Tale",
+                        "jpn": "まさか悟空!? クリリンの大作戦"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "206775",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206775",
+                    "Titles": {
+                        "eng": "Final Match: Goku vs. Tien Shinhan",
+                        "jpn": "決勝!! はたして武道天下一は!?"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "206776",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206776",
+                    "Titles": {
+                        "eng": "Victory's Edge",
+                        "jpn": "秘技・排球拳VS戦闘パワー"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "206777",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206777",
+                    "Titles": {
+                        "eng": "Tien's Insurrection",
+                        "jpn": "天津飯の苦悩!!"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "206778",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206778",
+                    "Titles": {
+                        "eng": "The Spirit Cannon",
+                        "jpn": "生か死か!? 最後の手段"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "206779",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206779",
+                    "Titles": {
+                        "eng": "The Fallen",
+                        "jpn": "武道会終了! そして…!!"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "5": {
+            "ID": "11065",
+            "URL": "https://thetvdb.com/series/dragon-ball/seasons/official/5",
+            "Titles": {
+                "eng": "King Piccolo Saga",
+                "jpn": null,
+                "zho": "短笛大魔王篇",
+                "ita": "Saga del Grande Mago Piccolo",
+                "spa": "Saga del Rey Piccolo",
+                "cat": "Saga del rei Cor Petit",
+                "fra": "Saga Roi Démon Piccolo",
+                "kor": "22회 천하제일무도회 편",
+                "pt": "Saga Piccolo Daimaoh",
+                "deu": "Oberteufel Piccolo Saga",
+                "hun": "Szívtelen Sátán / Piccolo Daimao Saga"
+            },
+            "# Episodes": 31,
+            "Episodes": {
+                "1": {
+                    "ID": "206780",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206780",
+                    "Titles": {
+                        "eng": "Enter King Piccolo",
+                        "jpn": "クリリンの死 恐ろしき陰謀!!"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "206781",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206781",
+                    "Titles": {
+                        "eng": "Tambourine Attacks!",
+                        "jpn": "ピッコロ大魔王の恐怖!!"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "206782",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206782",
+                    "Titles": {
+                        "eng": "Mark of the Demon",
+                        "jpn": "よみがえれ孫悟空!!"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "206783",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206783",
+                    "Titles": {
+                        "eng": "Here Comes Yajirobe",
+                        "jpn": "怪男児・ヤジロベー登場!!"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "206784",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206784",
+                    "Titles": {
+                        "eng": "Terrible Tambourine",
+                        "jpn": "魔獣・タンバリンがやってくる!!"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "206785",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206785",
+                    "Titles": {
+                        "eng": "Tien's Atonement",
+                        "jpn": "孫悟空・怒り爆発!!"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "206786",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206786",
+                    "Titles": {
+                        "eng": "Goku's Revenge",
+                        "jpn": "ピッコロ大魔王 降り立つ!!"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "206787",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206787",
+                    "Titles": {
+                        "eng": "Goku vs. King Piccolo",
+                        "jpn": "孫悟空対ピッコロ大魔王"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "206788",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206788",
+                    "Titles": {
+                        "eng": "Piccolo Closes In",
+                        "jpn": "がんばれっ!孫悟空!!"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "206789",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206789",
+                    "Titles": {
+                        "eng": "Roshi's Gambit",
+                        "jpn": "亀仙人の最後の魔封波!!"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "206790",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206790",
+                    "Titles": {
+                        "eng": "King Piccolo's Wish",
+                        "jpn": "若返るか!? ピッコロ大魔王"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "206791",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206791",
+                    "Titles": {
+                        "eng": "Siege on Chow Castle",
+                        "jpn": "キングキャッスルの攻防!!"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "206792",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206792",
+                    "Titles": {
+                        "eng": "Conquest and Power",
+                        "jpn": "悟空のねがい!! カリン様もなやむ"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "206793",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206793",
+                    "Titles": {
+                        "eng": "Awaken Darkness",
+                        "jpn": "手に入れろ!謎の超神水"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "206794",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206794",
+                    "Titles": {
+                        "eng": "A Taste of Destiny",
+                        "jpn": "生きていた亀仙人!?"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "206795",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206795",
+                    "Titles": {
+                        "eng": "The Ultimate Sacrifice",
+                        "jpn": "孫悟空ついに発進!!"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "206796",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206796",
+                    "Titles": {
+                        "eng": "Prelude to Vengeance",
+                        "jpn": "天津飯の決意!!"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "206797",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206797",
+                    "Titles": {
+                        "eng": "Battle Cry",
+                        "jpn": "きまるか!? 伝説の魔封波"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "206798",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206798",
+                    "Titles": {
+                        "eng": "Goku Strikes Back",
+                        "jpn": "悟空・怒りのフルパワー!!"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "206799",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206799",
+                    "Titles": {
+                        "eng": "The Biggest Crisis",
+                        "jpn": "孫悟空最大の危機!!"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "206800",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206800",
+                    "Titles": {
+                        "eng": "Final Showdown",
+                        "jpn": "最後の賭け!!"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "206801",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206801",
+                    "Titles": {
+                        "eng": "Lost and Found",
+                        "jpn": "如意棒の秘密"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "206802",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206802",
+                    "Titles": {
+                        "eng": "Temple Above the Clouds",
+                        "jpn": "雲の上の神殿"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "206803",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206803",
+                    "Titles": {
+                        "eng": "Earth's Guardian Emerges",
+                        "jpn": "神様登場!!"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "206804",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206804",
+                    "Titles": {
+                        "eng": "Eternal Dragon Resurrected",
+                        "jpn": "よみがえる神龍!!"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "206805",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206805",
+                    "Titles": {
+                        "eng": "Quicker Than Lightning",
+                        "jpn": "カミナリよりも速く!!"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "206806",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206806",
+                    "Titles": {
+                        "eng": "Secret of the Woods",
+                        "jpn": "空のように静かに"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "206807",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206807",
+                    "Titles": {
+                        "eng": "The Time Room",
+                        "jpn": "時をかける悟空"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "206808",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206808",
+                    "Titles": {
+                        "eng": "Goku's Doll?",
+                        "jpn": "悟空の敵は‥悟空!?"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "206809",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206809",
+                    "Titles": {
+                        "eng": "Walking Their Own Ways",
+                        "jpn": "それぞれの道をめざして"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "206810",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206810",
+                    "Titles": {
+                        "eng": "Hotter Than Lava",
+                        "jpn": "マグマより熱く"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "6": {
+            "ID": "743121",
+            "URL": "https://thetvdb.com/series/dragon-ball/seasons/official/6",
+            "Titles": {
+                "eng": "Piccolo Jr. Saga",
+                "jpn": null,
+                "zho": "第23回天下第一武道会篇",
+                "ita": "Saga del 23° Torneo Tenkaichi",
+                "spa": "Saga de Piccolo Jr.",
+                "cat": "Saga de Cor Petit Jr.",
+                "fra": "Saga Piccolo Jr.",
+                "kor": "피콜로 대마왕 편",
+                "pt": "Saga Piccolo Jr.",
+                "deu": "Piccolo Jr.-Saga",
+                "hun": "Ifjú Sátán / Piccolo Jr. Saga"
+            },
+            "# Episodes": 21,
+            "Episodes": {
+                "1": {
+                    "ID": "206811",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206811",
+                    "Titles": {
+                        "eng": "Changes",
+                        "jpn": "嵐の前の再開"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "206812",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206812",
+                    "Titles": {
+                        "eng": "Preliminary Peril",
+                        "jpn": "波乱の天下一武道会"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "206813",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206813",
+                    "Titles": {
+                        "eng": "Battle of Eight",
+                        "jpn": "選ばれた8人"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "206814",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206814",
+                    "Titles": {
+                        "eng": "Tien Shinhan vs Mercenary Tao",
+                        "jpn": "殺し屋桃白白の逆襲"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "206815",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206815",
+                    "Titles": {
+                        "eng": "Anonymous Proposal",
+                        "jpn": "孫悟空の結婚"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "206816",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206816",
+                    "Titles": {
+                        "eng": "The Mysterious Hero",
+                        "jpn": "謎の男・シェン"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "206817",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206817",
+                    "Titles": {
+                        "eng": "Rematch",
+                        "jpn": "激闘ふたたび!悟空VS天津飯"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "206818",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206818",
+                    "Titles": {
+                        "eng": "Goku Gains Speed",
+                        "jpn": "ほんとうの力"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "206819",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206819",
+                    "Titles": {
+                        "eng": "The Four Faces of Tien",
+                        "jpn": "四人の天津飯"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "206820",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206820",
+                    "Titles": {
+                        "eng": "Kami vs Piccolo",
+                        "jpn": "どっちが強い!?神VSピッコロ大魔王"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "206821",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206821",
+                    "Titles": {
+                        "eng": "Battle for the Future",
+                        "jpn": "この世の運命を賭けて!"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "206822",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206822",
+                    "Titles": {
+                        "eng": "Super Kamehameha",
+                        "jpn": "出た!究極の超カメハメ波"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "206823",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206823",
+                    "Titles": {
+                        "eng": "Junior no More",
+                        "jpn": "ピッコロ大魔王超巨身術"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "206824",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206824",
+                    "Titles": {
+                        "eng": "Goku's Trap",
+                        "jpn": "孫悟空のワナ"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "206825",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206825",
+                    "Titles": {
+                        "eng": "Goku Hangs On",
+                        "jpn": "万事休す!!"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "206826",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206826",
+                    "Titles": {
+                        "eng": "The Victor",
+                        "jpn": "やった!地球上最強の男"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "206827",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206827",
+                    "Titles": {
+                        "eng": "Dress in Flames",
+                        "jpn": "炎の中のウエディングドレス"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "206828",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206828",
+                    "Titles": {
+                        "eng": "The Fire-Eater",
+                        "jpn": "幻の火喰い鳥"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "206829",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206829",
+                    "Titles": {
+                        "eng": "Outrageous Octagon",
+                        "jpn": "チチの花嫁修行のおかげです"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "206830",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206830",
+                    "Titles": {
+                        "eng": "Mystery of the Dark World",
+                        "jpn": "いそげ悟空!五行山のなぞ"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "206831",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball/episodes/206831",
+                    "Titles": {
+                        "eng": "The End, The Beginning",
+                        "jpn": "燃えるフライパン山!一瞬の決死行"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

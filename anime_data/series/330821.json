@@ -1,0 +1,41 @@
+{
+    "URL": "https://thetvdb.com/series/goulart-knights-evoked-the-beginning-black",
+    "Genres": [
+        "Action",
+        "Drama",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt8843922/"
+    ],
+    "Titles": {
+        "eng": "Goulart Knights: Evoked the Beginning Black",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2022-03-15",
+    "Seasons": {
+        "1": {
+            "ID": "718126",
+            "URL": "https://thetvdb.com/series/goulart-knights-evoked-the-beginning-black/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "6160094",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/goulart-knights-evoked-the-beginning-black/episodes/6160094",
+                    "Titles": {
+                        "eng": "Goulart Knights: Evoked the Beginning Black",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

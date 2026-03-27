@@ -1,0 +1,201 @@
+{
+    "URL": "https://thetvdb.com/series/artiswitch",
+    "Genres": [
+        "Anime",
+        "Drama",
+        "Mystery"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt14648632/",
+        "http://artiswitch.com/",
+        "https://www.themoviedb.org/tv/125515",
+        "https://x.com/artiswitch_jp"
+    ],
+    "Titles": {
+        "eng": "Artiswitch",
+        "jpn": "アーティスウィッチ"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "1931276",
+            "URL": "https://thetvdb.com/series/artiswitch/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 7,
+            "Episodes": {
+                "1": {
+                    "ID": "8892298",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/artiswitch/episodes/8892298",
+                    "Titles": {
+                        "eng": "Picture Drama (Haruka)",
+                        "jpn": "ピクチャードラマ（ハルカ）"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 5
+                },
+                "2": {
+                    "ID": "8892299",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/artiswitch/episodes/8892299",
+                    "Titles": {
+                        "eng": "Picture Drama (Mana)",
+                        "jpn": "ピクチャードラマ（マナ）"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 5
+                },
+                "3": {
+                    "ID": "10646473",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/artiswitch/episodes/10646473",
+                    "Titles": {
+                        "eng": "Picture Drama (Akihiro)",
+                        "jpn": "ピクチャードラマ（アキヒロ）"
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 5
+                },
+                "4": {
+                    "ID": "10646474",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/artiswitch/episodes/10646474",
+                    "Titles": {
+                        "eng": "Picture Drama (Ruru)",
+                        "jpn": "ピクチャードラマ（るる）"
+                    },
+                    "Aliases": [],
+                    "Episode #": 4,
+                    "Num Episodes": 5
+                },
+                "5": {
+                    "ID": "10646475",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/artiswitch/episodes/10646475",
+                    "Titles": {
+                        "eng": "Picture Drama (Saki)",
+                        "jpn": "ピクチャードラマ（さき）"
+                    },
+                    "Aliases": [],
+                    "Episode #": 5,
+                    "Num Episodes": 5
+                },
+                "6": {
+                    "ID": "10646476",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/artiswitch/episodes/10646476",
+                    "Titles": {
+                        "eng": "Ruru's Episodes of Memories #01",
+                        "jpn": "るるの思い出エピソード #01"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "7": {
+                    "ID": "10646477",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/artiswitch/episodes/10646477",
+                    "Titles": {
+                        "eng": "Ruru's Episodes of Memories #02",
+                        "jpn": "るるの思い出エピソード #02"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        },
+        "1": {
+            "ID": "1931277",
+            "URL": "https://thetvdb.com/series/artiswitch/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "8465324",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/artiswitch/episodes/8465324",
+                    "Titles": {
+                        "eng": "Haruka \"G4L\"",
+                        "jpn": "ハルカ「G4L」"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8465325",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/artiswitch/episodes/8465325",
+                    "Titles": {
+                        "eng": "Mana \"Color\"",
+                        "jpn": "マナ 「color」"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8465326",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/artiswitch/episodes/8465326",
+                    "Titles": {
+                        "eng": "Akihiro \"Look at Me\"",
+                        "jpn": "アキヒロ「わたしをみて」"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "8465327",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/artiswitch/episodes/8465327",
+                    "Titles": {
+                        "eng": "Ruru \"Ghost Food\"",
+                        "jpn": "るる「GHOST FOOD」"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "8465328",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/artiswitch/episodes/8465328",
+                    "Titles": {
+                        "eng": "Tiara \"In the Picture\"",
+                        "jpn": "てぃあら「絵で」"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "8465329",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/artiswitch/episodes/8465329",
+                    "Titles": {
+                        "eng": "Nina \"Jump, The Farthest Ends.\"",
+                        "jpn": "ニーナ「飛ぶ、サイハテ。」"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

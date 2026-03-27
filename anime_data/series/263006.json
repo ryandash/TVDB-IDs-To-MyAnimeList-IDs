@@ -1,0 +1,985 @@
+{
+    "URL": "https://thetvdb.com/series/the-space-sagittarius",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Children",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0320998/",
+        "https://www.themoviedb.org/tv/44371",
+        "https://www.wikidata.org/wiki/Q3547706"
+    ],
+    "Titles": {
+        "eng": "Spaceship Sagittarius",
+        "jpn": "宇宙船サジタリウス"
+    },
+    "Aliases": [
+        "Uchūsen Sagittarius",
+        "Uchūsen Sajitariusu"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "555995",
+            "URL": "https://thetvdb.com/series/the-space-sagittarius/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 7,
+            "Episodes": {
+                "1": {
+                    "ID": "6270918",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/6270918",
+                    "Titles": {
+                        "eng": "Opening",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "6270919",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/6270919",
+                    "Titles": {
+                        "eng": "Ending",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "6270920",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/6270920",
+                    "Titles": {
+                        "eng": "Come",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "6270921",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/6270921",
+                    "Titles": {
+                        "eng": "Every One Have Dream",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "5": {
+                    "ID": "6270922",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/6270922",
+                    "Titles": {
+                        "eng": "Don\\'t Be Selfish",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "6": {
+                    "ID": "6270923",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/6270923",
+                    "Titles": {
+                        "eng": "Samar Home",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "7": {
+                    "ID": "6270924",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/6270924",
+                    "Titles": {
+                        "eng": "This Hearts are Stone",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "502511",
+            "URL": "https://thetvdb.com/series/the-space-sagittarius/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 77,
+            "Episodes": {
+                "1": {
+                    "ID": "4412339",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412339",
+                    "Titles": {
+                        "eng": "Chasing Down The Missing Beautiful Professor",
+                        "jpn": "消えた美人教授を追え！"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4412340",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412340",
+                    "Titles": {
+                        "eng": "Mysterious Alien? Sibip Appears",
+                        "jpn": "謎の異星人！？ シビップ現わる"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4412341",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412341",
+                    "Titles": {
+                        "eng": "Pursuit! Toppy At A Critical Moment",
+                        "jpn": "追跡！ トッピー危機一髪"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4412342",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412342",
+                    "Titles": {
+                        "eng": "Flying Snake! Save Baby Monster",
+                        "jpn": "空とぶ蛇！ 赤ちゃん怪獣を救え"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4412343",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412343",
+                    "Titles": {
+                        "eng": "Mysterious Lailala Village",
+                        "jpn": "ライララ村は不思議な村ライララ村は不思議な村"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4412344",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412344",
+                    "Titles": {
+                        "eng": "Professor Anne's Secret Weapon Of Love",
+                        "jpn": "アン教授の恋の秘密兵器"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4412345",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412345",
+                    "Titles": {
+                        "eng": "Have A Fight And Be Happy",
+                        "jpn": "ケンカをやって幸せになろう"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4412346",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412346",
+                    "Titles": {
+                        "eng": "Robbery Is A Real Business!",
+                        "jpn": "強盗こそすてきな商売！"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4412347",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412347",
+                    "Titles": {
+                        "eng": "The Truth About Devil Of Death Mountain?",
+                        "jpn": "死の山の魔王の正体は？"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4412348",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412348",
+                    "Titles": {
+                        "eng": "Parents' Feeling That Kids Never Understand",
+                        "jpn": "子供にわからない親の気持ち"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4412349",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412349",
+                    "Titles": {
+                        "eng": "Vanishing Monster - Garu's Attack",
+                        "jpn": "謎の消える怪獣・ガルの襲撃"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4412350",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412350",
+                    "Titles": {
+                        "eng": "Unexpectedly, Sibip Gets Possessed By King Of Darkness",
+                        "jpn": "意外、シビップは魔王の変身！"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4412351",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412351",
+                    "Titles": {
+                        "eng": "Surprise! The Secret Of Sibip's Song",
+                        "jpn": "まさか！ シビップの歌のヒミツ"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4412352",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412352",
+                    "Titles": {
+                        "eng": "Parbala, Princess of Unknown Planet",
+                        "jpn": "未知の星の王女パルバラ姫"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4412353",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412353",
+                    "Titles": {
+                        "eng": "Don't Run Away, It's A Devil's Trick",
+                        "jpn": "逃げたらあかん！ 魔王のワナだ"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4412354",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412354",
+                    "Titles": {
+                        "eng": "Once Intoxicated With Flower, All Is Over",
+                        "jpn": "花に酔ったらおしまいよ"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4412355",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412355",
+                    "Titles": {
+                        "eng": "Wow! One More Of Me And You",
+                        "jpn": "ナント！ もうひとりの僕が…君がいる"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4412356",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412356",
+                    "Titles": {
+                        "eng": "Weeping Forest! Bleeding Land",
+                        "jpn": "森が泣く！ 地面が血を流す"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4412357",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412357",
+                    "Titles": {
+                        "eng": "The Secret Of Ultimate Weapon - Suido -",
+                        "jpn": "最終兵器スイードの謎"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4412358",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412358",
+                    "Titles": {
+                        "eng": "Even Without Meat, Lasagna Is Super",
+                        "jpn": "肉がなくてもラザニアは最高の味"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4412359",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412359",
+                    "Titles": {
+                        "eng": "Give My Child Back! Wanna See My Beloved",
+                        "jpn": "子供を返せ！ 恋人に逢いたい"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4412360",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412360",
+                    "Titles": {
+                        "eng": "What! Lulu And Giraffe Under One Umbrella",
+                        "jpn": "えっ！ ルルとジラフは傘マーク"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4412361",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412361",
+                    "Titles": {
+                        "eng": "Ms. Rana, What A Beautiful Woman",
+                        "jpn": "美女になったラナ子さん"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "4412362",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412362",
+                    "Titles": {
+                        "eng": "Rana Pretends To Be Dead And Then Dies!?",
+                        "jpn": "死んだフリして死んだラナ!?"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "4412363",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412363",
+                    "Titles": {
+                        "eng": "Illusive Trumpet Disappearing Amid Gunfire Sound",
+                        "jpn": "銃声に消えた幻のトランペット"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "4412364",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412364",
+                    "Titles": {
+                        "eng": "A Weapon Better Than Ultimate Weapon",
+                        "jpn": "最終兵器に勝った武器"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "4412365",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412365",
+                    "Titles": {
+                        "eng": "Dimo - Disappearing Rare-Creature",
+                        "jpn": "消えゆく珍獣ダイム登場"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "4412366",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412366",
+                    "Titles": {
+                        "eng": "Frankenstein And The Dimo",
+                        "jpn": "怪物を可愛い息子と言う老婆"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "4412367",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412367",
+                    "Titles": {
+                        "eng": "Sibip At the Circus",
+                        "jpn": "ダイムの皮膚を狙え！"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "4412368",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412368",
+                    "Titles": {
+                        "eng": "Rana, The Star Of The Show",
+                        "jpn": "スター誕生！ ラナ舞い上がる"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "4412369",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412369",
+                    "Titles": {
+                        "eng": "Franken Changes His Mind",
+                        "jpn": "怪物フランケンの裏切り"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "4412370",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412370",
+                    "Titles": {
+                        "eng": "Hymn For Endangered Species",
+                        "jpn": "滅びゆく動物達に捧げる挽歌"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "4412371",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412371",
+                    "Titles": {
+                        "eng": "Sobbing Organ Of Death Planet",
+                        "jpn": "死の惑星のすすり泣くオルガン"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "4412372",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412372",
+                    "Titles": {
+                        "eng": "Stone Statue Moves! Comes Attacking...",
+                        "jpn": "石像が動いた！ 襲ってくる…"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "4412373",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412373",
+                    "Titles": {
+                        "eng": "Eliminate Those Who Cannot Work!",
+                        "jpn": "“働ケナイ者ハ消セ！”"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "4412374",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412374",
+                    "Titles": {
+                        "eng": "Death Calling Siren vs. Sibip's Song",
+                        "jpn": "死を呼ぶサイレンVSシビップの歌"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "4412375",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412375",
+                    "Titles": {
+                        "eng": "Mystery Object \"Z\" Dumped Into Incinerator",
+                        "jpn": "焼却炉に捨てられた謎の物体Z"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "4412376",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412376",
+                    "Titles": {
+                        "eng": "Rana Shoots Giant Sibip",
+                        "jpn": "巨人シビップを撃ったラナ"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "4412377",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412377",
+                    "Titles": {
+                        "eng": "Desperate Situation! Contamination Of The Death Fallout",
+                        "jpn": "絶体絶命！ 遂に…死の灰の汚染"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "4412378",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412378",
+                    "Titles": {
+                        "eng": "Pirate Eradication Driven By Man's Jealousy",
+                        "jpn": "男の嫉妬で海賊退治"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "4412379",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412379",
+                    "Titles": {
+                        "eng": "Surprise! The Pirate Is President Mark",
+                        "jpn": "えっ！ 海賊の正体はマルク社長"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "4412380",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412380",
+                    "Titles": {
+                        "eng": "The Legend Of The Treasure Of The Labyrinth",
+                        "jpn": "迷宮の黄金伝説"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "4412381",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412381",
+                    "Titles": {
+                        "eng": "Unexpected Secret Of The Treasure Legend",
+                        "jpn": "黄金伝説の意外な秘密"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "4412382",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412382",
+                    "Titles": {
+                        "eng": "Impossible! Giraffe The Bigamist?",
+                        "jpn": "ウッソォ！ ジラフが二重結婚!?"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "4412383",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412383",
+                    "Titles": {
+                        "eng": "Blimey! Honeymoon turns into divorce trip!",
+                        "jpn": "ナント！ 新婚旅行が離婚旅行"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "4412384",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412384",
+                    "Titles": {
+                        "eng": "Roast Sweet Potato That Has Defeated The Flamethrower",
+                        "jpn": "火炎放射器に勝った焼きイモ"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "4412385",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412385",
+                    "Titles": {
+                        "eng": "President Who Controls Monster Bird \"Paradon\"",
+                        "jpn": "怪鳥パラドンをあやつる大統領"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "4412386",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412386",
+                    "Titles": {
+                        "eng": "Shells... Avalanches... And Monster Birds Come Attacking!",
+                        "jpn": "砲弾が…雪崩が…怪鳥が襲う！"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "4412387",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412387",
+                    "Titles": {
+                        "eng": "Paradon Festival At Gallows",
+                        "jpn": "死刑台のパラドン祭り"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "4412388",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412388",
+                    "Titles": {
+                        "eng": "Poisoned Delicasy",
+                        "jpn": "消えたラナ！ うまいスープの罠"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "4412389",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412389",
+                    "Titles": {
+                        "eng": "An Infernal Paradise",
+                        "jpn": "超美人パラノアの恐るべき正体"
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "4412390",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412390",
+                    "Titles": {
+                        "eng": "Warrior Insects",
+                        "jpn": "トッピーを噛め！ 猛毒昆虫"
+                    },
+                    "Aliases": []
+                },
+                "53": {
+                    "ID": "4412391",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412391",
+                    "Titles": {
+                        "eng": "The Bold Karin",
+                        "jpn": "113才の子供カリン登場!!"
+                    },
+                    "Aliases": []
+                },
+                "54": {
+                    "ID": "4412392",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412392",
+                    "Titles": {
+                        "eng": "Pursued By Spies",
+                        "jpn": "女スパイを母と慕うカリン"
+                    },
+                    "Aliases": []
+                },
+                "55": {
+                    "ID": "4412393",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412393",
+                    "Titles": {
+                        "eng": "Bitter Tears",
+                        "jpn": "カリンの最後！ シビップ泣く"
+                    },
+                    "Aliases": []
+                },
+                "56": {
+                    "ID": "4412394",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412394",
+                    "Titles": {
+                        "eng": "Sibip, Where Are You?",
+                        "jpn": "助けてェ～ペポ!! シビップ故郷へ"
+                    },
+                    "Aliases": []
+                },
+                "57": {
+                    "ID": "4412395",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412395",
+                    "Titles": {
+                        "eng": "Sibip Sold By Auction!",
+                        "jpn": "お願い!! シビップ買って下さい"
+                    },
+                    "Aliases": []
+                },
+                "58": {
+                    "ID": "4412396",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412396",
+                    "Titles": {
+                        "eng": "Goodbye, Sibip",
+                        "jpn": "遂に、シビップはく製になる…!?"
+                    },
+                    "Aliases": []
+                },
+                "59": {
+                    "ID": "4412397",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412397",
+                    "Titles": {
+                        "eng": "The Legend Of The Derdans",
+                        "jpn": "アン教授・怪物デルダンのいけにえに…"
+                    },
+                    "Aliases": []
+                },
+                "60": {
+                    "ID": "4412398",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412398",
+                    "Titles": {
+                        "eng": "Rana, By Himself",
+                        "jpn": "ラナ怪物退治の神様になる"
+                    },
+                    "Aliases": []
+                },
+                "61": {
+                    "ID": "4412399",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412399",
+                    "Titles": {
+                        "eng": "A Big Misunderstanding",
+                        "jpn": "アッと驚く怪物デルダンの意外な正体"
+                    },
+                    "Aliases": []
+                },
+                "62": {
+                    "ID": "4412402",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412402",
+                    "Titles": {
+                        "eng": "The Quarrelsome Twins",
+                        "jpn": "国境の壁になったサジタリウス号"
+                    },
+                    "Aliases": []
+                },
+                "63": {
+                    "ID": "4412403",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412403",
+                    "Titles": {
+                        "eng": "Everything Conspire To Harm Us",
+                        "jpn": "女王をもてあそぶゴゼット教師の陰謀"
+                    },
+                    "Aliases": []
+                },
+                "64": {
+                    "ID": "4412404",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412404",
+                    "Titles": {
+                        "eng": "Reconciliation And Unity",
+                        "jpn": "ゴゼット教師遂に国王となる！"
+                    },
+                    "Aliases": []
+                },
+                "65": {
+                    "ID": "4412405",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412405",
+                    "Titles": {
+                        "eng": "Strange Passengers",
+                        "jpn": "3人の奇妙な乗客と死の星へ不時着!?"
+                    },
+                    "Aliases": []
+                },
+                "66": {
+                    "ID": "4412406",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412406",
+                    "Titles": {
+                        "eng": "The Secret",
+                        "jpn": "トッピーを見殺しにしたトライ少佐"
+                    },
+                    "Aliases": []
+                },
+                "67": {
+                    "ID": "4412407",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412407",
+                    "Titles": {
+                        "eng": "Fire!",
+                        "jpn": "札束で防げ！ カニロボットの襲撃"
+                    },
+                    "Aliases": []
+                },
+                "68": {
+                    "ID": "4412408",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412408",
+                    "Titles": {
+                        "eng": "The Treasure Is Ours",
+                        "jpn": "やったぁ！ 宇宙一の宝石を発見"
+                    },
+                    "Aliases": []
+                },
+                "69": {
+                    "ID": "4412409",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412409",
+                    "Titles": {
+                        "eng": "The Raptors",
+                        "jpn": "俺達はぜい沢ざんまい大金持ち"
+                    },
+                    "Aliases": []
+                },
+                "70": {
+                    "ID": "4412410",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412410",
+                    "Titles": {
+                        "eng": "The Loser Wins",
+                        "jpn": "心をまどわす秘宝の恐しい輝き"
+                    },
+                    "Aliases": []
+                },
+                "71": {
+                    "ID": "4412411",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412411",
+                    "Titles": {
+                        "eng": "The Theft Of Sagittarius",
+                        "jpn": "えっ！ ハイジャック犯人はC級の少年"
+                    },
+                    "Aliases": []
+                },
+                "72": {
+                    "ID": "4412412",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412412",
+                    "Titles": {
+                        "eng": "An Explosion In Perspective",
+                        "jpn": "第七惑星は天国れずか地獄れずか？"
+                    },
+                    "Aliases": []
+                },
+                "73": {
+                    "ID": "4412413",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412413",
+                    "Titles": {
+                        "eng": "A Calculated Risk",
+                        "jpn": "がんばれ！ カメの赤ちゃん"
+                    },
+                    "Aliases": []
+                },
+                "74": {
+                    "ID": "4412414",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412414",
+                    "Titles": {
+                        "eng": "As Long As There Is Life",
+                        "jpn": "いちかばちか！ トッピー遂に死の輸送便"
+                    },
+                    "Aliases": []
+                },
+                "75": {
+                    "ID": "4412415",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412415",
+                    "Titles": {
+                        "eng": "Toppy Has No Chance",
+                        "jpn": "便利舎解散！ 全員ばらばらトラバーユ"
+                    },
+                    "Aliases": []
+                },
+                "76": {
+                    "ID": "4412416",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412416",
+                    "Titles": {
+                        "eng": "Lost In Space",
+                        "jpn": "暗黒の宇宙へ一人で消えたトッピー"
+                    },
+                    "Aliases": []
+                },
+                "77": {
+                    "ID": "4412417",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-space-sagittarius/episodes/4412417",
+                    "Titles": {
+                        "eng": "Friendship Forever",
+                        "jpn": "別人？ 記憶喪失？ うりふたつのトッピー"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "URL": "https://thetvdb.com/series/professor-pain",
+    "Genres": [
+        "Animation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0457574/",
+        "https://www.themoviedb.org/tv/103252"
+    ],
+    "Titles": {
+        "eng": "Professor Pain",
+        "jpn": "Professor Pain"
+    },
+    "Aliases": [],
+    "Modified": "2025-03-02",
+    "Seasons": {
+        "1": {
+            "ID": "2174673",
+            "URL": "https://thetvdb.com/series/professor-pain/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "10997095",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/professor-pain/episodes/10997095",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "1"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10997096",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/professor-pain/episodes/10997096",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "2"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

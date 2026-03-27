@@ -1,0 +1,3442 @@
+{
+    "URL": "https://thetvdb.com/series/hamtaro",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Children",
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0318895/",
+        "https://www.themoviedb.org/tv/5622",
+        "https://en.wikipedia.org/wiki/List_of_Hamtaro_episodes"
+    ],
+    "Titles": {
+        "eng": "Hamtaro: Little Hamsters, Big Adventures",
+        "jpn": "とっとこハム太郎"
+    },
+    "Aliases": [
+        "Tottoko Hamtarou"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "530617",
+            "URL": "https://thetvdb.com/series/hamtaro/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 9,
+            "Episodes": {
+                "1": {
+                    "ID": "5622259",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5622259",
+                    "Titles": {
+                        "eng": "Hamtaro Movie 1: Adventures in Ham-Ham Land",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "5622264",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5622264",
+                    "Titles": {
+                        "eng": "Hamtaro Movie 2: The Captive Princess",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "5622265",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5622265",
+                    "Titles": {
+                        "eng": "Hamtaro Movie 3: Ham Ham Grand Prix - The Miracle of Aurora Valley",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "5622266",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5622266",
+                    "Titles": {
+                        "eng": "Hamtaro Movie 4: The Mysterious Ogre's Picture Book Tower",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "5": {
+                    "ID": "5695816",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695816",
+                    "Titles": {
+                        "eng": "Happy Birthday Hamtaro - 3000 Hammy Steps In Search Of Mommy",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "6": {
+                    "ID": "5695817",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695817",
+                    "Titles": {
+                        "eng": "Ham-Hams Ahoy!",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "7": {
+                    "ID": "5695818",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695818",
+                    "Titles": {
+                        "eng": "Ham-Hams and the Prince of Rainbow Land",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "8": {
+                    "ID": "5695819",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695819",
+                    "Titles": {
+                        "eng": "Ham-Ham Games",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "1138",
+            "URL": "https://thetvdb.com/series/hamtaro/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 52,
+            "Episodes": {
+                "1": {
+                    "ID": "24406",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24406",
+                    "Titles": {
+                        "eng": "Hamtaro",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "24408",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24408",
+                    "Titles": {
+                        "eng": "The Ham-Ham Clubhouse",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "24410",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24410",
+                    "Titles": {
+                        "eng": "Calling all Ham-Hams!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "24412",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24412",
+                    "Titles": {
+                        "eng": "Come Out, Bijou!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "24414",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24414",
+                    "Titles": {
+                        "eng": "Diamonds of Sugar",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "24416",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24416",
+                    "Titles": {
+                        "eng": "First Time at the Beach",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "24418",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24418",
+                    "Titles": {
+                        "eng": "A Summer Festival Adventure",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "24420",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24420",
+                    "Titles": {
+                        "eng": "The Sunflower Field",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "24422",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24422",
+                    "Titles": {
+                        "eng": "Much Ado about School!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "24424",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24424",
+                    "Titles": {
+                        "eng": "Jingle, the Wanderer",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "24426",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24426",
+                    "Titles": {
+                        "eng": "The Wise, Elder-Ham",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "24428",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24428",
+                    "Titles": {
+                        "eng": "Bijou's in Danger!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "24430",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24430",
+                    "Titles": {
+                        "eng": "Let's Dance, Sandy!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "24432",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24432",
+                    "Titles": {
+                        "eng": "The Search for Sandy's Brother",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "24434",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24434",
+                    "Titles": {
+                        "eng": "Bijou's Favorite Ribbon",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "24436",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24436",
+                    "Titles": {
+                        "eng": "Get Well, Laura",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "24438",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24438",
+                    "Titles": {
+                        "eng": "Hamtaro, the Super Sleuth!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "24440",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24440",
+                    "Titles": {
+                        "eng": "The Slipper Chase (aka: The Glass Slipper)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "24442",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24442",
+                    "Titles": {
+                        "eng": "Panda's Ham-Ham Fun Park!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "24444",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24444",
+                    "Titles": {
+                        "eng": "The Snoozer Mystery (aka: It's a Mystery, Snoozer!)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "24407",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24407",
+                    "Titles": {
+                        "eng": "Courage, Cappy! (a.k.a. Cappy's Courage)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "24409",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24409",
+                    "Titles": {
+                        "eng": "Pashmina's Present",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "24411",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24411",
+                    "Titles": {
+                        "eng": "Maxwell's Big Scoop",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "24413",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24413",
+                    "Titles": {
+                        "eng": "Hamtaro, Please come Home!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "24415",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24415",
+                    "Titles": {
+                        "eng": "Merry Christmas!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "24417",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24417",
+                    "Titles": {
+                        "eng": "The Legend of the Courageous Hamtaro!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "24419",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24419",
+                    "Titles": {
+                        "eng": "The Snowball Fight! (a.k.a. The Snow Storm)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "24421",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24421",
+                    "Titles": {
+                        "eng": "The Amazing Auntie Viv",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "24423",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24423",
+                    "Titles": {
+                        "eng": "The Search for Dad's Glasses!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "24425",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24425",
+                    "Titles": {
+                        "eng": "Brandy's Big Race",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "24427",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24427",
+                    "Titles": {
+                        "eng": "Boss is a Mom!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "24429",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24429",
+                    "Titles": {
+                        "eng": "Valentine's Day!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "24431",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24431",
+                    "Titles": {
+                        "eng": "Let's Cross the Rainbow!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "24433",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24433",
+                    "Titles": {
+                        "eng": "Watching Over Cute Penelope",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "24435",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24435",
+                    "Titles": {
+                        "eng": "Midnight Celebration (a.k.a. Yahoo! It's Girl's Day)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "24437",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24437",
+                    "Titles": {
+                        "eng": "Farewell, Bijou!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "24439",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24439",
+                    "Titles": {
+                        "eng": "Oxnard's Big Crush",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "24441",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24441",
+                    "Titles": {
+                        "eng": "The Precious Letter!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "24443",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24443",
+                    "Titles": {
+                        "eng": "The Flying Ham-Hams!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "24445",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24445",
+                    "Titles": {
+                        "eng": "The Blossoms Of Friendship!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "24446",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24446",
+                    "Titles": {
+                        "eng": "The Scary Museum!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "24447",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24447",
+                    "Titles": {
+                        "eng": "Welcome Pepper",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "24448",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24448",
+                    "Titles": {
+                        "eng": "The Great Chicken Chase",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "24449",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24449",
+                    "Titles": {
+                        "eng": "I Love My Grandpa!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "24450",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24450",
+                    "Titles": {
+                        "eng": "Ham-Ham Gang At The Aquarium",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "24451",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24451",
+                    "Titles": {
+                        "eng": "The Sports Festival!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "24452",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24452",
+                    "Titles": {
+                        "eng": "Romancing the Roosters (a.k.a. The Romantic Set-Up)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "24453",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24453",
+                    "Titles": {
+                        "eng": "Ham-Ham Clubhouse in Danger!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "24454",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24454",
+                    "Titles": {
+                        "eng": "In Search of the Pendant",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "24455",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24455",
+                    "Titles": {
+                        "eng": "Even the Ham-Hams get Seasick",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "24456",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24456",
+                    "Titles": {
+                        "eng": "Stan and Sandy Make Up",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "24457",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24457",
+                    "Titles": {
+                        "eng": "It's Robin-Ham!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "1139",
+            "URL": "https://thetvdb.com/series/hamtaro/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 141,
+            "Episodes": {
+                "1": {
+                    "ID": "4779610",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/4779610",
+                    "Titles": {
+                        "eng": "Pepper's Visit! (a.k.a. The Star Festival)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "24459",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24459",
+                    "Titles": {
+                        "eng": "Pop Star",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "24463",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24463",
+                    "Titles": {
+                        "eng": "Laura is Really Gone!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "24464",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24464",
+                    "Titles": {
+                        "eng": "Boss, the Cool Ham of the Sea!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "24465",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24465",
+                    "Titles": {
+                        "eng": "Ghost Mountain!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "24466",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24466",
+                    "Titles": {
+                        "eng": "The Fresh Summer Breeze!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "24460",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24460",
+                    "Titles": {
+                        "eng": "In A Pinch A Rival Appears",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "24467",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24467",
+                    "Titles": {
+                        "eng": "The Chicken Contest",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "24461",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24461",
+                    "Titles": {
+                        "eng": "Treasure Hunting",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "24468",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24468",
+                    "Titles": {
+                        "eng": "Penelope Makes a Friend",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "24462",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24462",
+                    "Titles": {
+                        "eng": "The Scary Principal!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "24469",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24469",
+                    "Titles": {
+                        "eng": "The Reconciliation!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "24470",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24470",
+                    "Titles": {
+                        "eng": "Mimi's Dream Park!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "24471",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24471",
+                    "Titles": {
+                        "eng": "The Sunflower Ferris Wheel",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "24472",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24472",
+                    "Titles": {
+                        "eng": "The Zoo Date",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "24473",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24473",
+                    "Titles": {
+                        "eng": "The Haunting",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "24474",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24474",
+                    "Titles": {
+                        "eng": "A Fortune Comes True!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "24475",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24475",
+                    "Titles": {
+                        "eng": "The Baby Goat",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "24476",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24476",
+                    "Titles": {
+                        "eng": "The Animal Hospital",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "24477",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24477",
+                    "Titles": {
+                        "eng": "The Knitting Craze",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "24478",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24478",
+                    "Titles": {
+                        "eng": "A Breath of Autumn!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "24479",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24479",
+                    "Titles": {
+                        "eng": "Welcome Home Penelope!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "24480",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24480",
+                    "Titles": {
+                        "eng": "The Abominable Snow Woman",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "24481",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24481",
+                    "Titles": {
+                        "eng": "Hamtaro is a Star! (a.k.a. Laura and the Seven Hamsters)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "24482",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24482",
+                    "Titles": {
+                        "eng": "A Wonderful Santa Claus!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "24483",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24483",
+                    "Titles": {
+                        "eng": "The Little Bandits!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "24484",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24484",
+                    "Titles": {
+                        "eng": "The New Year's Kite Adventure",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "24485",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24485",
+                    "Titles": {
+                        "eng": "Sunset Proposal",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "24486",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24486",
+                    "Titles": {
+                        "eng": "Stucky's Tunnel",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "24487",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24487",
+                    "Titles": {
+                        "eng": "Ham-Romance",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "6186696",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/6186696",
+                    "Titles": {
+                        "eng": "The Kindergarten Monsters!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "24488",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24488",
+                    "Titles": {
+                        "eng": "Laura's Valentine",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "24489",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24489",
+                    "Titles": {
+                        "eng": "Roberto's Ally",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "24490",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24490",
+                    "Titles": {
+                        "eng": "Super Hamster Robo-Joe",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "24491",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24491",
+                    "Titles": {
+                        "eng": "Maria's Birthday Party",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "24492",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24492",
+                    "Titles": {
+                        "eng": "Nin-Ham The Ninja!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "24493",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24493",
+                    "Titles": {
+                        "eng": "The Search for Spring!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "24494",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24494",
+                    "Titles": {
+                        "eng": "Hamtaro and the Space Ship!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "24495",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24495",
+                    "Titles": {
+                        "eng": "Boss Runs Away",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "24496",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24496",
+                    "Titles": {
+                        "eng": "Auntie Viv and Elder Ham",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "24497",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24497",
+                    "Titles": {
+                        "eng": "Hannah is in Love!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "24498",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24498",
+                    "Titles": {
+                        "eng": "Doctor Lion",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "24499",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24499",
+                    "Titles": {
+                        "eng": "Dance, Chef Ham!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "24500",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24500",
+                    "Titles": {
+                        "eng": "The Flying Carp",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "24501",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24501",
+                    "Titles": {
+                        "eng": "The Ham-Ham Express",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "24502",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24502",
+                    "Titles": {
+                        "eng": "Who Stole My Shoe?",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "24503",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24503",
+                    "Titles": {
+                        "eng": "Keeping Promises",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "24504",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24504",
+                    "Titles": {
+                        "eng": "The Very Best Present",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "24505",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24505",
+                    "Titles": {
+                        "eng": "How To Rescue a Wedding",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "24506",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24506",
+                    "Titles": {
+                        "eng": "Office Adventures",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "24507",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24507",
+                    "Titles": {
+                        "eng": "Clubhouse Intruders  (aka: The Ham-Hams Rescue Stan)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "24508",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24508",
+                    "Titles": {
+                        "eng": "The Tale of Princess Bijou",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "53": {
+                    "ID": "24509",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/24509",
+                    "Titles": {
+                        "eng": "The Milky Way",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "54": {
+                    "ID": "5695551",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695551",
+                    "Titles": {
+                        "eng": "Stucky Falls In Love!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "55": {
+                    "ID": "5695552",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695552",
+                    "Titles": {
+                        "eng": "The Rolling Giant Egg",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "56": {
+                    "ID": "5695554",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695554",
+                    "Titles": {
+                        "eng": "The Seaside Rest House",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "57": {
+                    "ID": "5695564",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695564",
+                    "Titles": {
+                        "eng": "Go For It, Super Hamster Robo-Joe",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "58": {
+                    "ID": "5695565",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695565",
+                    "Titles": {
+                        "eng": "Stepping Ham-Hams",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "59": {
+                    "ID": "5695566",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695566",
+                    "Titles": {
+                        "eng": "Spooky Night at School!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "60": {
+                    "ID": "5695567",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695567",
+                    "Titles": {
+                        "eng": "The Tightrope of Love!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "61": {
+                    "ID": "5695568",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695568",
+                    "Titles": {
+                        "eng": "Sparkle's Vacation",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "62": {
+                    "ID": "5695569",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695569",
+                    "Titles": {
+                        "eng": "Hamtaro, the Knight",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "63": {
+                    "ID": "5695570",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695570",
+                    "Titles": {
+                        "eng": "Fly Away! Super Hamster Robo-Joe",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "64": {
+                    "ID": "5695571",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695571",
+                    "Titles": {
+                        "eng": "Return of the Rooster Trio",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "65": {
+                    "ID": "5695572",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695572",
+                    "Titles": {
+                        "eng": "Dreamwatcher! Penelope",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "66": {
+                    "ID": "5695573",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695573",
+                    "Titles": {
+                        "eng": "This is the Ham-Ham Castle!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "67": {
+                    "ID": "5695574",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695574",
+                    "Titles": {
+                        "eng": "Oxnard's Pure Heart",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "68": {
+                    "ID": "5695575",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695575",
+                    "Titles": {
+                        "eng": "Where Are You, Cappy!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "69": {
+                    "ID": "5695576",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695576",
+                    "Titles": {
+                        "eng": "Boss's Showdown",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "70": {
+                    "ID": "5695577",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695577",
+                    "Titles": {
+                        "eng": "Watch out for a Wolf",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "71": {
+                    "ID": "5695578",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695578",
+                    "Titles": {
+                        "eng": "Doomed Ham-Ham Clubhouse",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "72": {
+                    "ID": "5695579",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695579",
+                    "Titles": {
+                        "eng": "Mother's Home-Style Cooking",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "73": {
+                    "ID": "5695580",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695580",
+                    "Titles": {
+                        "eng": "Trouble-making Nin-Ham",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "74": {
+                    "ID": "5695581",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695581",
+                    "Titles": {
+                        "eng": "Sweet Little Flora",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "75": {
+                    "ID": "5695582",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695582",
+                    "Titles": {
+                        "eng": "Brandy the Rescue Squad",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "76": {
+                    "ID": "5695583",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695583",
+                    "Titles": {
+                        "eng": "Sparkle in Love",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "77": {
+                    "ID": "5695584",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695584",
+                    "Titles": {
+                        "eng": "Mimi's Christmas",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "78": {
+                    "ID": "5695585",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695585",
+                    "Titles": {
+                        "eng": "Harmony's Love Magic",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "79": {
+                    "ID": "5695590",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695590",
+                    "Titles": {
+                        "eng": "Ham-Hams' Joyful Day",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "80": {
+                    "ID": "5695591",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695591",
+                    "Titles": {
+                        "eng": "Maria's Memorable Book",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "81": {
+                    "ID": "5695592",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695592",
+                    "Titles": {
+                        "eng": "Knitting Barrette",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "82": {
+                    "ID": "5695593",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695593",
+                    "Titles": {
+                        "eng": "Smile, Hillary!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "83": {
+                    "ID": "5695594",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695594",
+                    "Titles": {
+                        "eng": "Hamtaro Gets Cold",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "84": {
+                    "ID": "5695595",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695595",
+                    "Titles": {
+                        "eng": "Come on, Stan!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "85": {
+                    "ID": "5695596",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695596",
+                    "Titles": {
+                        "eng": "Vanished Hamtaro",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "86": {
+                    "ID": "5695597",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695597",
+                    "Titles": {
+                        "eng": "Pepper in Girl's Day",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "87": {
+                    "ID": "5695598",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695598",
+                    "Titles": {
+                        "eng": "Yume, the Story-teller",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "88": {
+                    "ID": "5695599",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695599",
+                    "Titles": {
+                        "eng": "Thrilled Ook-Ook",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "89": {
+                    "ID": "5695600",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695600",
+                    "Titles": {
+                        "eng": "I Love You, Hamtaro",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "90": {
+                    "ID": "5695601",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695601",
+                    "Titles": {
+                        "eng": "Make a Wish to Cherry Blossom!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "91": {
+                    "ID": "5695602",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695602",
+                    "Titles": {
+                        "eng": "Triplets! Hambini",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "92": {
+                    "ID": "5695603",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695603",
+                    "Titles": {
+                        "eng": "Duel at the Flower Ranch",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "93": {
+                    "ID": "5695604",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695604",
+                    "Titles": {
+                        "eng": "Boss's New Room",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "94": {
+                    "ID": "5695605",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695605",
+                    "Titles": {
+                        "eng": "Our Biggest Memories!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "95": {
+                    "ID": "5695606",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695606",
+                    "Titles": {
+                        "eng": "Leave it to us, the Ham-Ham Nurse Team!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "96": {
+                    "ID": "5695607",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695607",
+                    "Titles": {
+                        "eng": "Mother Viv",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "97": {
+                    "ID": "5695608",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695608",
+                    "Titles": {
+                        "eng": "Sparkle's Scandal",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "98": {
+                    "ID": "5695609",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695609",
+                    "Titles": {
+                        "eng": "A Big Change, Robo-Joe!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "99": {
+                    "ID": "5695611",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695611",
+                    "Titles": {
+                        "eng": "Snoozer and Turtly",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "100": {
+                    "ID": "5695612",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695612",
+                    "Titles": {
+                        "eng": "Finding the Flower in the Rain",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "101": {
+                    "ID": "5695613",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695613",
+                    "Titles": {
+                        "eng": "Taking Care of Our Greeny",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "102": {
+                    "ID": "5695614",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695614",
+                    "Titles": {
+                        "eng": "A Trip of Hunger",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "103": {
+                    "ID": "5695615",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695615",
+                    "Titles": {
+                        "eng": "Young Girl Thieves of Justice!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "104": {
+                    "ID": "5695617",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695617",
+                    "Titles": {
+                        "eng": "A Little Love Story",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "105": {
+                    "ID": "5695619",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695619",
+                    "Titles": {
+                        "eng": "Danger! Chicken Trio!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "106": {
+                    "ID": "5695621",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695621",
+                    "Titles": {
+                        "eng": "Sparkle is a Star!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "107": {
+                    "ID": "5695624",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695624",
+                    "Titles": {
+                        "eng": "Potato's Warm Love",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "108": {
+                    "ID": "5695626",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695626",
+                    "Titles": {
+                        "eng": "Lost at the Amusement Park",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "109": {
+                    "ID": "5695627",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695627",
+                    "Titles": {
+                        "eng": "Let's Swim, Seamore!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "110": {
+                    "ID": "5695629",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695629",
+                    "Titles": {
+                        "eng": "Summer, Ghost Stories!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "111": {
+                    "ID": "5695631",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695631",
+                    "Titles": {
+                        "eng": "Summer Color, Solara!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "112": {
+                    "ID": "5695633",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695633",
+                    "Titles": {
+                        "eng": "Nim-Ham and his Home of Iga-Iga",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "113": {
+                    "ID": "5695635",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695635",
+                    "Titles": {
+                        "eng": "Tomy-T and Eggy-P",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "114": {
+                    "ID": "5695636",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695636",
+                    "Titles": {
+                        "eng": "Pi-hyoro, Ham-Hams!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "115": {
+                    "ID": "5695637",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695637",
+                    "Titles": {
+                        "eng": "The Baby's Big Adventure",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "116": {
+                    "ID": "5695638",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695638",
+                    "Titles": {
+                        "eng": "I Want To See You, Bijou!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "117": {
+                    "ID": "5695639",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695639",
+                    "Titles": {
+                        "eng": "You're Arrested, Robo-Joe!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "118": {
+                    "ID": "5695640",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695640",
+                    "Titles": {
+                        "eng": "Mimi's Fun Sports Day",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "119": {
+                    "ID": "5695642",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695642",
+                    "Titles": {
+                        "eng": "Seamore and the Dolphin",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "120": {
+                    "ID": "5695644",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695644",
+                    "Titles": {
+                        "eng": "Marron's Autumn Festival",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "121": {
+                    "ID": "5695645",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695645",
+                    "Titles": {
+                        "eng": "Ham-Ham Halloween",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "122": {
+                    "ID": "5695646",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695646",
+                    "Titles": {
+                        "eng": "A Romance, Ham-Ham Explorers!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "123": {
+                    "ID": "5695647",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695647",
+                    "Titles": {
+                        "eng": "Where Did You Go, Brandy?",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "124": {
+                    "ID": "5695648",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695648",
+                    "Titles": {
+                        "eng": "Pipo, Ham-Ham Nurse Team!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "125": {
+                    "ID": "5695650",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695650",
+                    "Titles": {
+                        "eng": "Shiny, Shooting Star!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "126": {
+                    "ID": "5695652",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695652",
+                    "Titles": {
+                        "eng": "Where Is He? Dad's Great Chase!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "127": {
+                    "ID": "5695654",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695654",
+                    "Titles": {
+                        "eng": "Run, Pepper!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "128": {
+                    "ID": "5695655",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695655",
+                    "Titles": {
+                        "eng": "The Mysterious Gift",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "129": {
+                    "ID": "5695656",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695656",
+                    "Titles": {
+                        "eng": "Bo and the Mammoth",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "130": {
+                    "ID": "5695660",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695660",
+                    "Titles": {
+                        "eng": "Happy Ook-Ook!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "131": {
+                    "ID": "5695663",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695663",
+                    "Titles": {
+                        "eng": "Marron's Winter Festival",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "132": {
+                    "ID": "5695666",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695666",
+                    "Titles": {
+                        "eng": "I'm Dad, Hambini!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "133": {
+                    "ID": "5695668",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695668",
+                    "Titles": {
+                        "eng": "Baby, Scatter The Ogres!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "134": {
+                    "ID": "5695669",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695669",
+                    "Titles": {
+                        "eng": "The Knitting Girl and Seamore!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "135": {
+                    "ID": "5695670",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695670",
+                    "Titles": {
+                        "eng": "Mystery of the Valentine Chocolate!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "136": {
+                    "ID": "5695672",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695672",
+                    "Titles": {
+                        "eng": "Pashmina's Transformation!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "137": {
+                    "ID": "5695673",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695673",
+                    "Titles": {
+                        "eng": "I'm Worried About Sis!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "138": {
+                    "ID": "5695674",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695674",
+                    "Titles": {
+                        "eng": "Bonjour, Oshare!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "139": {
+                    "ID": "5695675",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695675",
+                    "Titles": {
+                        "eng": "Marron's Little Secret",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "140": {
+                    "ID": "5695677",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695677",
+                    "Titles": {
+                        "eng": "Sparkle in Hollywood",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "141": {
+                    "ID": "5695678",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695678",
+                    "Titles": {
+                        "eng": "I'm Parting, Clubhouse!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "719980",
+            "URL": "https://thetvdb.com/series/hamtaro/seasons/official/3",
+            "Titles": {
+                "eng": "Sweet Paradise",
+                "jpn": null
+            },
+            "# Episodes": 51,
+            "Episodes": {
+                "1": {
+                    "ID": "5695680",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695680",
+                    "Titles": {
+                        "eng": "Lapis and Lazuli",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5695681",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695681",
+                    "Titles": {
+                        "eng": "Sweet Paradise",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5695683",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695683",
+                    "Titles": {
+                        "eng": "A Mysterious Seed Experiment",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5695684",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695684",
+                    "Titles": {
+                        "eng": "Bijou's Love Rival!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5695685",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695685",
+                    "Titles": {
+                        "eng": "Zuzuzu, Inside the Dream!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5695687",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695687",
+                    "Titles": {
+                        "eng": "It's Your Turn, Hero-Ham!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5695688",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695688",
+                    "Titles": {
+                        "eng": "Bear in Trouble!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5695689",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695689",
+                    "Titles": {
+                        "eng": "Talk, Magic Flower!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5695690",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695690",
+                    "Titles": {
+                        "eng": "It's Art, Otome's Crew!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5695692",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695692",
+                    "Titles": {
+                        "eng": "A Mischievous Unicorn!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5695693",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695693",
+                    "Titles": {
+                        "eng": "Appearance! Muha-Muha Alien",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5695694",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695694",
+                    "Titles": {
+                        "eng": "A Sweet Worm Surprise",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "5695696",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695696",
+                    "Titles": {
+                        "eng": "Here I Am, Clubhouse!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "5695698",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695698",
+                    "Titles": {
+                        "eng": "The Sweet Milky Way!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "5695699",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695699",
+                    "Titles": {
+                        "eng": "Cupid Sparkle!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "5695700",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695700",
+                    "Titles": {
+                        "eng": "We're upset! Lapis and Lazuli",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "5695701",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695701",
+                    "Titles": {
+                        "eng": "Our Trip to the Sunflowers",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "5695702",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695702",
+                    "Titles": {
+                        "eng": "Here Come the Djungarians!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "5695703",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695703",
+                    "Titles": {
+                        "eng": "Summertime, Searching for the Treasure!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "5695704",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695704",
+                    "Titles": {
+                        "eng": "Swimming in the Jungle!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "5695705",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695705",
+                    "Titles": {
+                        "eng": "Become the King of the Jungle!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "5695707",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695707",
+                    "Titles": {
+                        "eng": "Let's Do It, Otome!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "5695708",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695708",
+                    "Titles": {
+                        "eng": "The Changing Mirror",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "5695709",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695709",
+                    "Titles": {
+                        "eng": "I Want to See You, Wan!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "5695711",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695711",
+                    "Titles": {
+                        "eng": "Sparkling Fashion",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "5695712",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695712",
+                    "Titles": {
+                        "eng": "Dashing Robin-Ham!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "5695714",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695714",
+                    "Titles": {
+                        "eng": "Big Penelope!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "5695715",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695715",
+                    "Titles": {
+                        "eng": "The Little Cheering Team!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "5695716",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695716",
+                    "Titles": {
+                        "eng": "I'm Going, Ham-Hams!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "5695717",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695717",
+                    "Titles": {
+                        "eng": "Eternal Hero",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "5695718",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695718",
+                    "Titles": {
+                        "eng": "Djungarian's Halloween",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "5695719",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695719",
+                    "Titles": {
+                        "eng": "Troublesome Magical Seeds",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "5695720",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695720",
+                    "Titles": {
+                        "eng": "Flora's Wedding!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "5695721",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695721",
+                    "Titles": {
+                        "eng": "Talk, Bow-Wow Cookies!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "5695722",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695722",
+                    "Titles": {
+                        "eng": "Being a Dad Can Be Painful!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "5695723",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695723",
+                    "Titles": {
+                        "eng": "Sparkle's Art!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "5695724",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695724",
+                    "Titles": {
+                        "eng": "Lucky, Sweet Fortunetelling",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "5695726",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695726",
+                    "Titles": {
+                        "eng": "Arriving to Your Smile!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "5695727",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695727",
+                    "Titles": {
+                        "eng": "It's Santa, Merry Christmas!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "5695728",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695728",
+                    "Titles": {
+                        "eng": "Auspicious Angels!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "5695729",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695729",
+                    "Titles": {
+                        "eng": "See You Again, Snowman!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "5695731",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695731",
+                    "Titles": {
+                        "eng": "Non Non, Oshare!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "5695732",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695732",
+                    "Titles": {
+                        "eng": "There Are Ogres, Ham-Hams!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "5695734",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695734",
+                    "Titles": {
+                        "eng": "Thick Rainbow Girls",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "5695735",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695735",
+                    "Titles": {
+                        "eng": "Love Love, Valentine!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "5695736",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695736",
+                    "Titles": {
+                        "eng": "Sweet Paradise Disappears!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "5695737",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695737",
+                    "Titles": {
+                        "eng": "You're Late, Prince!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "5695738",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695738",
+                    "Titles": {
+                        "eng": "Hyper Robo-Joe!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "5695739",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695739",
+                    "Titles": {
+                        "eng": "Nice To See You, Pepper!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "5695740",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695740",
+                    "Titles": {
+                        "eng": "Let's Travel, Ham-Ham Train!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "5695741",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695741",
+                    "Titles": {
+                        "eng": "Pfpth, A Big Panic!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "4": {
+            "ID": "719979",
+            "URL": "https://thetvdb.com/series/hamtaro/seasons/official/4",
+            "Titles": {
+                "eng": "Hamha Tree",
+                "jpn": null
+            },
+            "# Episodes": 52,
+            "Episodes": {
+                "1": {
+                    "ID": "5695742",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695742",
+                    "Titles": {
+                        "eng": "Snoozer Disappears!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5695743",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695743",
+                    "Titles": {
+                        "eng": "Laura's Date",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5695744",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695744",
+                    "Titles": {
+                        "eng": "Elder-Ham Views the Cherry Blossoms",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5695745",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695745",
+                    "Titles": {
+                        "eng": "We Are The Best of Friends!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5695746",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695746",
+                    "Titles": {
+                        "eng": "The First Love Letter",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5695747",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695747",
+                    "Titles": {
+                        "eng": "It's Useless! Zack and his Mom",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5695748",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695748",
+                    "Titles": {
+                        "eng": "Oh No, Hamtaro!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5695749",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695749",
+                    "Titles": {
+                        "eng": "Fluffy Gelato",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5695750",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695750",
+                    "Titles": {
+                        "eng": "A Piping Hot Battle!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5695751",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695751",
+                    "Titles": {
+                        "eng": "Can You Trade It?",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5695752",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695752",
+                    "Titles": {
+                        "eng": "Smell Strongly, Marron!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5695753",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695753",
+                    "Titles": {
+                        "eng": "A Lost Thing of Smiles!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "5695898",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695898",
+                    "Titles": {
+                        "eng": "Space Ham-Hams",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "5695754",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695754",
+                    "Titles": {
+                        "eng": "Go Go, Ham-Hams!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "5695755",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695755",
+                    "Titles": {
+                        "eng": "Start, Ham-Hams!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "5695756",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695756",
+                    "Titles": {
+                        "eng": "Crossing The Sky, Skyham!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "5695757",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695757",
+                    "Titles": {
+                        "eng": "Okini, the Seedgatherer",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "5695758",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695758",
+                    "Titles": {
+                        "eng": "Fortune Telling, Atarinchu",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "5695759",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695759",
+                    "Titles": {
+                        "eng": "Pitter-patter, Hamha Tree",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "5695760",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695760",
+                    "Titles": {
+                        "eng": "Let's Dance, Ham-Ham Ondo",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "5695761",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695761",
+                    "Titles": {
+                        "eng": "Let's Enjoy the Sunflower Field!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "5695762",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695762",
+                    "Titles": {
+                        "eng": "Summer, Broski!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "5695763",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695763",
+                    "Titles": {
+                        "eng": "Hesitation! Don't Give Up!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "5695764",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695764",
+                    "Titles": {
+                        "eng": "Ice and Lolly",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "5695765",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695765",
+                    "Titles": {
+                        "eng": "Satisfied Bijou",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "5695766",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695766",
+                    "Titles": {
+                        "eng": "Dig, Dig, Mole!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "5695767",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695767",
+                    "Titles": {
+                        "eng": "Hamha-Man the Justice Hero",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "5695768",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695768",
+                    "Titles": {
+                        "eng": "Fired up, Sports Day!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "5695769",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695769",
+                    "Titles": {
+                        "eng": "It's Art, Sandy!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "5695770",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695770",
+                    "Titles": {
+                        "eng": "Why Nande",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "5695771",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695771",
+                    "Titles": {
+                        "eng": "Showtime, Okini!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "5695772",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695772",
+                    "Titles": {
+                        "eng": "So Popular! Being a man is hard",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "5695773",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695773",
+                    "Titles": {
+                        "eng": "I'm a Lady! Lapis!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "5695774",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695774",
+                    "Titles": {
+                        "eng": "Once Again! Why is that?",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "5695775",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695775",
+                    "Titles": {
+                        "eng": "A Miracle, Magical!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "5695776",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695776",
+                    "Titles": {
+                        "eng": "Peron! Chestnut Alien",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "5695777",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695777",
+                    "Titles": {
+                        "eng": "Tux and Salia!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "5695778",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695778",
+                    "Titles": {
+                        "eng": "Shaking, the Monster of Winter!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "5695780",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695780",
+                    "Titles": {
+                        "eng": "A Christmas Ride!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "5695782",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695782",
+                    "Titles": {
+                        "eng": "Happy Dream, Ham-Ham Train!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "5695783",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695783",
+                    "Titles": {
+                        "eng": "Oxnard and Pepper",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "5695785",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695785",
+                    "Titles": {
+                        "eng": "A Strange Love! Skyham",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "5695786",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695786",
+                    "Titles": {
+                        "eng": "Caw, Caw, A Crow Problem!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "5695787",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695787",
+                    "Titles": {
+                        "eng": "Okini is Scared!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "5695788",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695788",
+                    "Titles": {
+                        "eng": "A Valentine Battle!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "5695789",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695789",
+                    "Titles": {
+                        "eng": "Skyham is a Hero!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "5695790",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695790",
+                    "Titles": {
+                        "eng": "Super Digger Robo-Joe!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "5695791",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695791",
+                    "Titles": {
+                        "eng": "A Partnership, Being Cautious",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "5695792",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695792",
+                    "Titles": {
+                        "eng": "Setting Off, Spring's Wind!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "5695793",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695793",
+                    "Titles": {
+                        "eng": "A Picnic Date!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "5695794",
+                    "TYPE": "OVA",
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695794",
+                    "Titles": {
+                        "eng": "The Lovable Brandy",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "5695795",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hamtaro/episodes/5695795",
+                    "Titles": {
+                        "eng": "Happy Ham-Ham Wedding",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

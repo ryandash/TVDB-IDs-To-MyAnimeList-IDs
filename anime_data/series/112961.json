@@ -1,0 +1,102 @@
+{
+    "URL": "https://thetvdb.com/series/hades-project-zeorymer",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Romance",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0158772/",
+        "https://www.themoviedb.org/tv/81014"
+    ],
+    "Titles": {
+        "eng": "Hades Project Zeorymer",
+        "jpn": "冥王計画ゼオライマー"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "115981",
+            "URL": "https://thetvdb.com/series/hades-project-zeorymer/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "2273871",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/hades-project-zeorymer/episodes/2273871",
+                    "Titles": {
+                        "eng": "New Work Information",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "253031",
+            "URL": "https://thetvdb.com/series/hades-project-zeorymer/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "2273831",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hades-project-zeorymer/episodes/2273831",
+                    "Titles": {
+                        "eng": "Separation",
+                        "jpn": "-決別-"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2273841",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hades-project-zeorymer/episodes/2273841",
+                    "Titles": {
+                        "eng": "Misgivings",
+                        "jpn": "-疑惑-"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "2273851",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hades-project-zeorymer/episodes/2273851",
+                    "Titles": {
+                        "eng": "Disillusionment",
+                        "jpn": "-覚醒-"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "2273861",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hades-project-zeorymer/episodes/2273861",
+                    "Titles": {
+                        "eng": "Extinction",
+                        "jpn": "-終焉-"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

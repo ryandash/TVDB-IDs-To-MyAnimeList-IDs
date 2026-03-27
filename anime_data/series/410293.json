@@ -1,0 +1,43 @@
+{
+    "URL": "https://thetvdb.com/series/410293-",
+    "Genres": [
+        "Animation",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt12838778/",
+        "https://www.themoviedb.org/tv/128386"
+    ],
+    "Titles": {
+        "eng": "Ahare! Masterpiece",
+        "jpn": "あはれ!名作くん"
+    },
+    "Aliases": [
+        "Aware! Meisaku-kun"
+    ],
+    "Modified": "2021-10-05",
+    "Seasons": {
+        "1": {
+            "ID": "1957403",
+            "URL": "https://thetvdb.com/series/410293-/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "8697579",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/410293-/episodes/8697579",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Episode 1"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

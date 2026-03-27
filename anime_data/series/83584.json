@@ -1,0 +1,216 @@
+{
+    "URL": "https://thetvdb.com/series/aquarian-age",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Romance",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1202772/",
+        "https://www.themoviedb.org/tv/9113"
+    ],
+    "Titles": {
+        "eng": "Aquarian Age",
+        "jpn": "アクエリアンエイジ"
+    },
+    "Aliases": [
+        "Aquarian Age: Sign for Evolution"
+    ],
+    "Modified": "2026-02-16",
+    "Seasons": {
+        "0": {
+            "ID": "36714",
+            "URL": "https://thetvdb.com/series/aquarian-age/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "1148631",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/aquarian-age/episodes/1148631",
+                    "Titles": {
+                        "eng": "Aquarian Age Saga II ~ Don't forget me... ~",
+                        "jpn": "アクエリアンエイジＳａｇａⅡ～Ｄｏｎ’ｔ ｆｏｒｇｅｔ ｍｅ…～"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "6037405",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/aquarian-age/episodes/6037405",
+                    "Titles": {
+                        "eng": "Aquarian Age the Movie",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "36715",
+            "URL": "https://thetvdb.com/series/aquarian-age/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "509161",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarian-age/episodes/509161",
+                    "Titles": {
+                        "eng": "Deep Blue Prelude",
+                        "jpn": "深青の序曲"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "509181",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarian-age/episodes/509181",
+                    "Titles": {
+                        "eng": "Burning Premonition of Destiny",
+                        "jpn": "炎緑の予感"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "509191",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarian-age/episodes/509191",
+                    "Titles": {
+                        "eng": "Tainted Crimson Melody",
+                        "jpn": "濁赤の憂鬱"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "509201",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarian-age/episodes/509201",
+                    "Titles": {
+                        "eng": "Preemptive Dark Offering",
+                        "jpn": "潜黒の供物"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "509221",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarian-age/episodes/509221",
+                    "Titles": {
+                        "eng": "Inevitable Flash of White",
+                        "jpn": "閃白の必然"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "509231",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarian-age/episodes/509231",
+                    "Titles": {
+                        "eng": "False Sense of Relief",
+                        "jpn": "幻緑の救済"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "509251",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarian-age/episodes/509251",
+                    "Titles": {
+                        "eng": "Deep Crimson Offshoot",
+                        "jpn": "深紅の分蘖"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "509261",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarian-age/episodes/509261",
+                    "Titles": {
+                        "eng": "Soft Indigo Awakening",
+                        "jpn": "薄紫の覚醒"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "509281",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarian-age/episodes/509281",
+                    "Titles": {
+                        "eng": "Burning Silver Remains of Shadows",
+                        "jpn": "烈銀の残影"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "509291",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarian-age/episodes/509291",
+                    "Titles": {
+                        "eng": "A Yellow and Green Reality",
+                        "jpn": "萌黄の此岸"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "509301",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarian-age/episodes/509301",
+                    "Titles": {
+                        "eng": "Indigo Blue Vortex",
+                        "jpn": "藍碧の渦動"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "509321",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarian-age/episodes/509321",
+                    "Titles": {
+                        "eng": "Fading Red Conflict",
+                        "jpn": "退紅の葛藤"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "509331",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarian-age/episodes/509331",
+                    "Titles": {
+                        "eng": "Pure White Embrace",
+                        "jpn": "純白の抱擁"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

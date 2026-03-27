@@ -1,0 +1,74 @@
+{
+    "URL": "https://thetvdb.com/series/casshan-robot-hunter",
+    "Genres": [
+        "Animation",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0281699/",
+        "https://www.themoviedb.org/tv/20467"
+    ],
+    "Titles": {
+        "eng": "Casshan: Robot Hunter",
+        "jpn": "ロボット・ハンター・キャシャーン"
+    },
+    "Aliases": [],
+    "Modified": "2024-10-31",
+    "Seasons": {
+        "1": {
+            "ID": "139361",
+            "URL": "https://thetvdb.com/series/casshan-robot-hunter/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "1248861",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/casshan-robot-hunter/episodes/1248861",
+                    "Titles": {
+                        "eng": "Return From the Myth",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1248871",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/casshan-robot-hunter/episodes/1248871",
+                    "Titles": {
+                        "eng": "Journey to the Past",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1248881",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/casshan-robot-hunter/episodes/1248881",
+                    "Titles": {
+                        "eng": "Blitz on the Bridge",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1248891",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/casshan-robot-hunter/episodes/1248891",
+                    "Titles": {
+                        "eng": "The Reviver",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

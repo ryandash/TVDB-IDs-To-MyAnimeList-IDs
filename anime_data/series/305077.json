@@ -1,0 +1,590 @@
+{
+    "URL": "https://thetvdb.com/series/ace-attorney",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Suspense"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt5603356/",
+        "https://www.themoviedb.org/tv/66103"
+    ],
+    "Titles": {
+        "eng": "Ace Attorney",
+        "jpn": "逆転裁判"
+    },
+    "Aliases": [
+        "Phoenix Wright: Ace Attorney",
+        "逆転裁判 ～その「真実」、異議あり！～"
+    ],
+    "Modified": "2026-01-27",
+    "Seasons": {
+        "0": {
+            "ID": "649862",
+            "URL": "https://thetvdb.com/series/ace-attorney/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "6647686",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/6647686",
+                    "Titles": {
+                        "eng": "Spirit of Justice Prologue",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "655850",
+            "URL": "https://thetvdb.com/series/ace-attorney/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 24,
+            "Episodes": {
+                "1": {
+                    "ID": "5508911",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/5508911",
+                    "Titles": {
+                        "eng": "The First Turnabout",
+                        "jpn": "はじめての逆転"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5569235",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/5569235",
+                    "Titles": {
+                        "eng": "Turnabout Sisters - 1st Trial",
+                        "jpn": "逆転姉妹 1st Trial"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5569236",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/5569236",
+                    "Titles": {
+                        "eng": "Turnabout Sisters - 2nd Trial",
+                        "jpn": "逆転姉妹 2nd Trial"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5569237",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/5569237",
+                    "Titles": {
+                        "eng": "Turnabout Sisters - Last Trial",
+                        "jpn": "逆転姉妹 Last Trial"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5582113",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/5582113",
+                    "Titles": {
+                        "eng": "Turnabout Samurai - 1st Trial",
+                        "jpn": "逆転のトノサマン 1st Trial"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5582268",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/5582268",
+                    "Titles": {
+                        "eng": "Turnabout Samurai - 2nd Trial",
+                        "jpn": "逆転のトノサマン 2nd Trial"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5582269",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/5582269",
+                    "Titles": {
+                        "eng": "Turnabout Samurai - Last Trial",
+                        "jpn": "逆転のトノサマン Last Trial"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5582270",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/5582270",
+                    "Titles": {
+                        "eng": "Turnabout Goodbyes - 1st Trial",
+                        "jpn": "逆転、そしてサヨナラ 1st Trial"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5614931",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/5614931",
+                    "Titles": {
+                        "eng": "Turnabout Goodbyes - 2nd Trial",
+                        "jpn": "逆転、そしてサヨナラ 2nd Trial"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5614932",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/5614932",
+                    "Titles": {
+                        "eng": "Turnabout Goodbyes - 3rd Trial",
+                        "jpn": "逆転、そしてサヨナラ 3rd Trial"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5614933",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/5614933",
+                    "Titles": {
+                        "eng": "Turnabout Goodbyes - 4th Trial",
+                        "jpn": "逆転、そしてサヨナラ 4th Trial"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5614934",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/5614934",
+                    "Titles": {
+                        "eng": "Turnabout Goodbyes - Last Trial",
+                        "jpn": "逆転、そしてサヨナラ Last Trial"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "5652194",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/5652194",
+                    "Titles": {
+                        "eng": "Turnabout Promise",
+                        "jpn": "逆転の約束"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "5658235",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/5658235",
+                    "Titles": {
+                        "eng": "Reunion, and Turnabout - 1st Trial",
+                        "jpn": "再会、そして逆転 1st Trial"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "5671503",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/5671503",
+                    "Titles": {
+                        "eng": "Reunion, and Turnabout - 2nd Trial",
+                        "jpn": "再会、そして逆転 2nd Trial"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "5671504",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/5671504",
+                    "Titles": {
+                        "eng": "Reunion, and Turnabout - 3rd Trial",
+                        "jpn": "再会、そして逆転 3rd Trial"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "5678645",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/5678645",
+                    "Titles": {
+                        "eng": "Reunion, and Turnabout - Last Trial",
+                        "jpn": "再会、そして逆転 Last Trial"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "5694536",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/5694536",
+                    "Titles": {
+                        "eng": "Turnabout Big Top - 1st Trial",
+                        "jpn": "逆転サーカス 1st Trial"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "5694537",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/5694537",
+                    "Titles": {
+                        "eng": "Turnabout Big Top - 2nd Trial",
+                        "jpn": "逆転サーカス 2nd Trial"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "5694538",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/5694538",
+                    "Titles": {
+                        "eng": "Turnabout Big Top - Last Trial",
+                        "jpn": "逆転サーカス Last Trial"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "5715463",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/5715463",
+                    "Titles": {
+                        "eng": "Farewell, My Turnabout - 1st Trial",
+                        "jpn": "さらば、逆転 1st Trial"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "5717512",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/5717512",
+                    "Titles": {
+                        "eng": "Farewell, My Turnabout - 2nd Trial",
+                        "jpn": "さらば、逆転 2nd Trial"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "5746540",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/5746540",
+                    "Titles": {
+                        "eng": "Farewell, My Turnabout - 3rd Trial",
+                        "jpn": "さらば、逆転 3rd Trial"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "5746665",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/5746665",
+                    "Titles": {
+                        "eng": "Farewell, My Turnabout - Last Trial",
+                        "jpn": "さらば、逆転 Last Trial"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "775286",
+            "URL": "https://thetvdb.com/series/ace-attorney/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 23,
+            "Episodes": {
+                "1": {
+                    "ID": "6794644",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/6794644",
+                    "Titles": {
+                        "eng": "The Lost Turnabout",
+                        "jpn": "失われた逆転"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6853473",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/6853473",
+                    "Titles": {
+                        "eng": "The Stolen Turnabout - 1st Trial",
+                        "jpn": "盗まれた逆転　1st Trial"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6863230",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/6863230",
+                    "Titles": {
+                        "eng": "The Stolen Turnabout - 2nd Trial",
+                        "jpn": "盗まれた逆転　2nd Trial"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6870998",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/6870998",
+                    "Titles": {
+                        "eng": "The Stolen Turnabout - 3rd Trial",
+                        "jpn": "盗まれた逆転　3rd Trial"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6881227",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/6881227",
+                    "Titles": {
+                        "eng": "The Stolen Turnabout - Last Trial",
+                        "jpn": "盗まれた逆転　Last Trial"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6890773",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/6890773",
+                    "Titles": {
+                        "eng": "Sound the Turnabout Melody",
+                        "jpn": "届け逆転のメロディ"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6896508",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/6896508",
+                    "Titles": {
+                        "eng": "Recipe for Turnabout - 1st Trial",
+                        "jpn": "逆転のレシピ 1st Trial"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6907724",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/6907724",
+                    "Titles": {
+                        "eng": "Recipe for Turnabout - 2nd Trial",
+                        "jpn": "逆転のレシピ 2nd Trial"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6915726",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/6915726",
+                    "Titles": {
+                        "eng": "Recipe for Turnabout - Last Trial",
+                        "jpn": "逆転のレシピ Last Trial"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6924364",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/6924364",
+                    "Titles": {
+                        "eng": "Northward, Turnabout Express - 1st Trial",
+                        "jpn": "逆転特急、北へ 1st Trial"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6931616",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/6931616",
+                    "Titles": {
+                        "eng": "Northward, Turnabout Express - 2nd Trial",
+                        "jpn": "逆転特急、北へ 2nd Trial"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6940221",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/6940221",
+                    "Titles": {
+                        "eng": "Northward, Turnabout Express - Last Trial",
+                        "jpn": "逆転特急、北へ Last Trial"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "6951325",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/6951325",
+                    "Titles": {
+                        "eng": "Turnabout Memories",
+                        "jpn": "思い出の逆転"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "6999076",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/6999076",
+                    "Titles": {
+                        "eng": "Hear the Waves of Turnabout",
+                        "jpn": "逆転の潮騒が聞こえる"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "7009162",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/7009162",
+                    "Titles": {
+                        "eng": "Turnabout Beginnings - 1st Trial",
+                        "jpn": "始まりの逆転 1st Trial"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "7019370",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/7019370",
+                    "Titles": {
+                        "eng": "Turnabout Beginnings - Last Trial",
+                        "jpn": "始まりの逆転 Last Trial"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "7030152",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/7030152",
+                    "Titles": {
+                        "eng": "Bridge to the Turnabout - 1st Trial",
+                        "jpn": "華麗なる逆転 1st Trial"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "7044231",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/7044231",
+                    "Titles": {
+                        "eng": "Bridge to the Turnabout - 2nd Trial",
+                        "jpn": "華麗なる逆転 2nd Trial"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "7055257",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/7055257",
+                    "Titles": {
+                        "eng": "Bridge to the Turnabout - 3rd Trial",
+                        "jpn": "華麗なる逆転 3rd Trial"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "7065938",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/7065938",
+                    "Titles": {
+                        "eng": "Bridge to the Turnabout - 4th Trial",
+                        "jpn": "華麗なる逆転 4th Trial"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "7079071",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/7079071",
+                    "Titles": {
+                        "eng": "Bridge to the Turnabout - 5th Trial",
+                        "jpn": "華麗なる逆転 5th Trial"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "7089844",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/7089844",
+                    "Titles": {
+                        "eng": "Bridge to the Turnabout - 6th Trial",
+                        "jpn": "華麗なる逆転 6th Trial"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "7100559",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ace-attorney/episodes/7100559",
+                    "Titles": {
+                        "eng": "Bridge to the Turnabout - Last Trial",
+                        "jpn": "華麗なる逆転 Last Trial"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

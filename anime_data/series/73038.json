@@ -1,0 +1,537 @@
+{
+    "URL": "https://thetvdb.com/series/macross",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Romance",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0142183/",
+        "https://www.themoviedb.org/tv/21734"
+    ],
+    "Titles": {
+        "eng": "Macross",
+        "jpn": "超時空要塞マクロス"
+    },
+    "Aliases": [
+        "SDF Macross",
+        "Super Dimensional Fortress Macross",
+        "The Super Dimension Fortress Macross"
+    ],
+    "Modified": "2026-01-12",
+    "Seasons": {
+        "0": {
+            "ID": "20503",
+            "URL": "https://thetvdb.com/series/macross/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 8,
+            "Episodes": {
+                "1": {
+                    "ID": "635381",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/635381",
+                    "Titles": {
+                        "eng": "Do You Remember Love",
+                        "jpn": "超時空要塞マクロス～愛、覚えていますか～"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "1020141",
+                    "TYPE": "Episodic Special",
+                    "CATEGORY": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/1020141",
+                    "Titles": {
+                        "eng": "Flashback 2012",
+                        "jpn": "超時空要塞マクロス FLASH BACK 2012"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "3853721",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/3853721",
+                    "Titles": {
+                        "eng": "20th Anniversary Premium Collection",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "3853731",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/3853731",
+                    "Titles": {
+                        "eng": "Clash of the Bionoids",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "5": {
+                    "ID": "8877366",
+                    "TYPE": "Episodic Special",
+                    "CATEGORY": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/8877366",
+                    "Titles": {
+                        "eng": "Macross Ep. 11 (Original Broadcast Version)",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "7": {
+                    "ID": "9328512",
+                    "TYPE": "Episodic Special",
+                    "CATEGORY": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/9328512",
+                    "Titles": {
+                        "eng": "Mech Graffiti",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "8": {
+                    "ID": "9337898",
+                    "TYPE": "Episodic Special",
+                    "CATEGORY": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/9337898",
+                    "Titles": {
+                        "eng": "30th Anniversary Special",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "5195",
+            "URL": "https://thetvdb.com/series/macross/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 36,
+            "Episodes": {
+                "1": {
+                    "ID": "105774",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/105774",
+                    "Titles": {
+                        "eng": "Booby Trap",
+                        "jpn": "ブービー･トラップ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "331921",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331921",
+                    "Titles": {
+                        "eng": "Countdown",
+                        "jpn": "カウント･ダウン"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "331922",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331922",
+                    "Titles": {
+                        "eng": "Space Fold",
+                        "jpn": "スペース･ フォールド"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "331923",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331923",
+                    "Titles": {
+                        "eng": "Lynn Minmay",
+                        "jpn": "リン･ミンメイ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "331924",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331924",
+                    "Titles": {
+                        "eng": "Transformation",
+                        "jpn": "トランス･フォーメーション"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "331925",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331925",
+                    "Titles": {
+                        "eng": "Daedalus Attack",
+                        "jpn": "ダイダロス･アタック"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "331926",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331926",
+                    "Titles": {
+                        "eng": "Bye-bye Mars",
+                        "jpn": "バイバイ･マルス"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "331927",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331927",
+                    "Titles": {
+                        "eng": "Longest Birthday",
+                        "jpn": "ロンゲスト･バースデー"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "331928",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331928",
+                    "Titles": {
+                        "eng": "Miss Macross",
+                        "jpn": "ミス･マクロス"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "331929",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331929",
+                    "Titles": {
+                        "eng": "Blind Game",
+                        "jpn": "ブラインド･ゲーム"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "331930",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331930",
+                    "Titles": {
+                        "eng": "First Contact",
+                        "jpn": "ファースト･コンタクト"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "331931",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331931",
+                    "Titles": {
+                        "eng": "Big Escape",
+                        "jpn": "ビッグ･エスケープ"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "331932",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331932",
+                    "Titles": {
+                        "eng": "Blue Wind",
+                        "jpn": "ブルー･ウインド"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "331933",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331933",
+                    "Titles": {
+                        "eng": "Global Report",
+                        "jpn": "グローバル･レポート"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "331934",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331934",
+                    "Titles": {
+                        "eng": "Chinatown",
+                        "jpn": "チャイナ･タウン"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "331935",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331935",
+                    "Titles": {
+                        "eng": "Kung Fu Dandy",
+                        "jpn": "カンフー･ダンディ"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "331936",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331936",
+                    "Titles": {
+                        "eng": "Phantasm",
+                        "jpn": "ファンタズム"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "331937",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331937",
+                    "Titles": {
+                        "eng": "Pineapple Salad",
+                        "jpn": "パイン･サラダ"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "331938",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331938",
+                    "Titles": {
+                        "eng": "Burst Point",
+                        "jpn": "バースト･ポイント"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "331939",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331939",
+                    "Titles": {
+                        "eng": "Paradise Lost",
+                        "jpn": "パラダイス･ロスト"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "331940",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331940",
+                    "Titles": {
+                        "eng": "Micro Cosmos",
+                        "jpn": "ミクロ･コスモス"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "331941",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331941",
+                    "Titles": {
+                        "eng": "Love Concert",
+                        "jpn": "ラブ･コンサート"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "331942",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331942",
+                    "Titles": {
+                        "eng": "Drop Out",
+                        "jpn": "ドロップ･アウト"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "331943",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331943",
+                    "Titles": {
+                        "eng": "Good-Bye Girl",
+                        "jpn": "グッバイ･ガール"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "331944",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331944",
+                    "Titles": {
+                        "eng": "Virgin Road",
+                        "jpn": "バージン･ロード"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "331945",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331945",
+                    "Titles": {
+                        "eng": "Messenger",
+                        "jpn": "メッセンジャー"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "331946",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331946",
+                    "Titles": {
+                        "eng": "Love Drifts Away",
+                        "jpn": "愛は流れる"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "331947",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331947",
+                    "Titles": {
+                        "eng": "My Album",
+                        "jpn": "マイ･アルバム"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "331948",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331948",
+                    "Titles": {
+                        "eng": "Lonely Song",
+                        "jpn": "ロンリー･ソング"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "331949",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331949",
+                    "Titles": {
+                        "eng": "Viva Maria",
+                        "jpn": "ビバ･マリア"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "331950",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331950",
+                    "Titles": {
+                        "eng": "Satan's Dolls",
+                        "jpn": "サタン･ドール"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "331951",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331951",
+                    "Titles": {
+                        "eng": "Broken Heart",
+                        "jpn": "ブロークン･ハート"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "331952",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331952",
+                    "Titles": {
+                        "eng": "Rainy Night",
+                        "jpn": "レイニー･ナイト"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "331953",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331953",
+                    "Titles": {
+                        "eng": "Private Time",
+                        "jpn": "プライベート･タイム"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "331954",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331954",
+                    "Titles": {
+                        "eng": "Romanesque",
+                        "jpn": "ロマネスク"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "331955",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/macross/episodes/331955",
+                    "Titles": {
+                        "eng": "Farewell to Tenderness",
+                        "jpn": "やさしさサヨナラ"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,984 @@
+{
+    "URL": "https://thetvdb.com/series/aquarion",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0872309/",
+        "http://www.aquarion.info/",
+        "https://www.themoviedb.org/tv/8872"
+    ],
+    "Titles": {
+        "eng": "Aquarion",
+        "jpn": "創聖のアクエリオン"
+    },
+    "Aliases": [
+        "Genesis of Aquarion",
+        "Sousei no Aquarion",
+        "Aquarion EVOL",
+        "アクエリオンEVOL",
+        "アクエリオンロゴス"
+    ],
+    "Modified": "2026-01-12",
+    "Seasons": {
+        "0": {
+            "ID": "27281",
+            "URL": "https://thetvdb.com/series/aquarion/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "5249081",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5249081",
+                    "Titles": {
+                        "eng": "Genesis of Aquarion EVOL",
+                        "jpn": "創勢のアクエリオンEVOL"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "959721",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/959721",
+                    "Titles": {
+                        "eng": "The Wings of Betrayal",
+                        "jpn": "裏切りの翼"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "959731",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/959731",
+                    "Titles": {
+                        "eng": "The Wings of Glory",
+                        "jpn": "太陽の翼"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "4183819",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4183819",
+                    "Titles": {
+                        "eng": "Aquarion Movie: Ippatsu Gyakuten Hen",
+                        "jpn": "劇場版アクエリオン -創星神話篇&壱発逆転篇-"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "32731",
+            "URL": "https://thetvdb.com/series/aquarion/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "368868",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368868",
+                    "Titles": {
+                        "eng": "Memories of an Angel",
+                        "jpn": "天翅の記憶"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "368869",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368869",
+                    "Titles": {
+                        "eng": "The Beast of Darkness",
+                        "jpn": "闇の獣"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "368870",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368870",
+                    "Titles": {
+                        "eng": "Element School",
+                        "jpn": "エレメントスクール"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "368871",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368871",
+                    "Titles": {
+                        "eng": "Barefoot Soldiers",
+                        "jpn": "はだしの戦士"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "368872",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368872",
+                    "Titles": {
+                        "eng": "King of the Underground Labyrinth",
+                        "jpn": "地下迷宮の王"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "368873",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368873",
+                    "Titles": {
+                        "eng": "To the Other Side of Emotions",
+                        "jpn": "想い彼方へ"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "368874",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368874",
+                    "Titles": {
+                        "eng": "Knight of the Crimson Rose",
+                        "jpn": "深紅の薔薇の騎士"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "368875",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368875",
+                    "Titles": {
+                        "eng": "The First Union",
+                        "jpn": "はじめてのがったい"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "368876",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368876",
+                    "Titles": {
+                        "eng": "The Route of Dreams",
+                        "jpn": "夢のかよひじ"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "368877",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368877",
+                    "Titles": {
+                        "eng": "Stars in the Sky, Flowers on the Earth",
+                        "jpn": "空に星、地に花"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "368878",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368878",
+                    "Titles": {
+                        "eng": "Happiness at the Bottom of the Sea",
+                        "jpn": "水底のしあわせ"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "368879",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368879",
+                    "Titles": {
+                        "eng": "The Time of Amber",
+                        "jpn": "琥珀の時"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "368880",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368880",
+                    "Titles": {
+                        "eng": "A Twelve Thousand Year Old Love Letter",
+                        "jpn": "万二千年のラブレタ"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "368881",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368881",
+                    "Titles": {
+                        "eng": "Shining Shadow",
+                        "jpn": "光る影"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "368882",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368882",
+                    "Titles": {
+                        "eng": "The Aquarion of First Love",
+                        "jpn": "初恋のアクエリオン"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "368883",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368883",
+                    "Titles": {
+                        "eng": "Black Mirror",
+                        "jpn": "黒い鏡"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "368884",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368884",
+                    "Titles": {
+                        "eng": "Merge to Eat",
+                        "jpn": "食べたくて合体"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "368885",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368885",
+                    "Titles": {
+                        "eng": "Cosplay of the Soul",
+                        "jpn": "魂のコスプレイヤー"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "368886",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368886",
+                    "Titles": {
+                        "eng": "Mischief Without Malice",
+                        "jpn": "けがれなき悪戯"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "368887",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368887",
+                    "Titles": {
+                        "eng": "Sound of an Angel's Feather",
+                        "jpn": "天翅の翅音"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "368888",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368888",
+                    "Titles": {
+                        "eng": "Crimson Path",
+                        "jpn": "紅い道"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "368889",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368889",
+                    "Titles": {
+                        "eng": "Wings Unseen",
+                        "jpn": "見えない翼"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "368890",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368890",
+                    "Titles": {
+                        "eng": "Fleeting Wings",
+                        "jpn": "翼、儚く"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "368891",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368891",
+                    "Titles": {
+                        "eng": "Heaven's Gate",
+                        "jpn": "天空のゲート"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "368892",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368892",
+                    "Titles": {
+                        "eng": "Final Battle!! Atlandia",
+                        "jpn": "決戦！！アトランディア"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "368893",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/368893",
+                    "Titles": {
+                        "eng": "The Day the World Begins",
+                        "jpn": "世界のはじまりの日"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "482371",
+            "URL": "https://thetvdb.com/series/aquarion/seasons/official/2",
+            "Titles": {
+                "eng": "EVOL",
+                "jpn": "EVOL",
+                "fra": "EVOL"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "4238956",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4238956",
+                    "Titles": {
+                        "eng": "The Mythical Forbidden Union that Embraces the End (Part 1)",
+                        "jpn": "終末を抱いた神話的禁じられた合体スペシャル 前編 (1)"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4238957",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4238957",
+                    "Titles": {
+                        "eng": "The Mythical Forbidden Union that Embraces the End (Part 2)",
+                        "jpn": "終末を抱いた神話的禁じられた合体スペシャル 後編 (2)"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4238958",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4238958",
+                    "Titles": {
+                        "eng": "The Heartbeat Index ☆ Rapidly Rises",
+                        "jpn": "トキメキ指数☆急上昇"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4242744",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4242744",
+                    "Titles": {
+                        "eng": "Wall - Conquer Oneself",
+                        "jpn": "壁〜conquer oneself〜"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4242745",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4242745",
+                    "Titles": {
+                        "eng": "Love Prohibition Order",
+                        "jpn": "恋愛禁止令"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4242746",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4242746",
+                    "Titles": {
+                        "eng": "The Agitato of Life",
+                        "jpn": "生命のアジタート"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4252714",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4252714",
+                    "Titles": {
+                        "eng": "The Midnight Girl",
+                        "jpn": "真夜中の少女"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4252750",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4252750",
+                    "Titles": {
+                        "eng": "Confessions",
+                        "jpn": "さらけだせ"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4252751",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4252751",
+                    "Titles": {
+                        "eng": "Anagram of Man and Woman",
+                        "jpn": "男と女のアナグラム"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4254065",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4254065",
+                    "Titles": {
+                        "eng": "The One-Eyed Transfer Student",
+                        "jpn": "隻眼の転校生"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4254066",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4254066",
+                    "Titles": {
+                        "eng": "Call of the Wild",
+                        "jpn": "野性の召命"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4254067",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4254067",
+                    "Titles": {
+                        "eng": "The Skies of Aquaria",
+                        "jpn": "アクエリアの舞う空"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4254068",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4254068",
+                    "Titles": {
+                        "eng": "The Fallen Giant",
+                        "jpn": "堕ちた巨人"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4292701",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4292701",
+                    "Titles": {
+                        "eng": "Beyond an Individual",
+                        "jpn": "個の先"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4292705",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4292705",
+                    "Titles": {
+                        "eng": "The Beasts of Love",
+                        "jpn": "愛の獣たち"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4292702",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4292702",
+                    "Titles": {
+                        "eng": "Confessions from the Soul",
+                        "jpn": "魂の告白"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4292707",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4292707",
+                    "Titles": {
+                        "eng": "Rise Up, Life.",
+                        "jpn": "湧きあがれ、いのち"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4296485",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4296485",
+                    "Titles": {
+                        "eng": "Rare Igura",
+                        "jpn": "レア・イグラー"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4300701",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4300701",
+                    "Titles": {
+                        "eng": "First Reunion",
+                        "jpn": "はじめての再会"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4300702",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4300702",
+                    "Titles": {
+                        "eng": "MI XY",
+                        "jpn": "MI・XY"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4300703",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4300703",
+                    "Titles": {
+                        "eng": "Kiss",
+                        "jpn": "接吻  一覧に戻る"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4300704",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4300704",
+                    "Titles": {
+                        "eng": "Wings of Rebirth",
+                        "jpn": "復活の翼"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4300705",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4300705",
+                    "Titles": {
+                        "eng": "Song of Legend",
+                        "jpn": "\\神話センリツ"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "4300706",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4300706",
+                    "Titles": {
+                        "eng": "Ephemera",
+                        "jpn": "ephemera"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "4300707",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4300707",
+                    "Titles": {
+                        "eng": "Pieces of Adam",
+                        "jpn": "アダムの断片"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "4300708",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/4300708",
+                    "Titles": {
+                        "eng": "LOVE",
+                        "jpn": "LOVE"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "625727",
+            "URL": "https://thetvdb.com/series/aquarion/seasons/official/3",
+            "Titles": {
+                "eng": "Logos",
+                "jpn": "ロゴス"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "5249080",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5249080",
+                    "Titles": {
+                        "eng": "Shout! Sousei Gattai!",
+                        "jpn": "叫べ！　創声合体"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5273653",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5273653",
+                    "Titles": {
+                        "eng": "Shine! Light of Thought",
+                        "jpn": "照らせ！　意志の光"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5282184",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5282184",
+                    "Titles": {
+                        "eng": "Resound, A Dream for Me Alone",
+                        "jpn": "響け！　私だけの夢"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5289221",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5289221",
+                    "Titles": {
+                        "eng": "Let Fly, An Arrow that Pierces the Heart",
+                        "jpn": "放て！　心射る矢"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5296138",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5296138",
+                    "Titles": {
+                        "eng": "Take it Back, Our Summer",
+                        "jpn": "取り戻せ！　俺たちの夏"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5301862",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5301862",
+                    "Titles": {
+                        "eng": "Light Up! Your Strength",
+                        "jpn": "灯せ！　己の強さ"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5307760",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5307760",
+                    "Titles": {
+                        "eng": "Burn It! The Savior's Flames",
+                        "jpn": "燃やせ！　救世の炎"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5313248",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5313248",
+                    "Titles": {
+                        "eng": "Pierce It! The Insect Part",
+                        "jpn": "貫け！　虫の一分"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5318878",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5318878",
+                    "Titles": {
+                        "eng": "Clear Them! The Inviting Shadows",
+                        "jpn": "晴らせ！　誘いの影"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5325822",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5325822",
+                    "Titles": {
+                        "eng": "Reach Them! My True Voice",
+                        "jpn": "届け！　本当の声"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5325826",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5325826",
+                    "Titles": {
+                        "eng": "Flap! Bound Wings",
+                        "jpn": "羽ばたけ！　縛られた翼"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5325827",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5325827",
+                    "Titles": {
+                        "eng": "Bring them Together! Heart and Heart",
+                        "jpn": "重ねろ！　心と心"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "5348991",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5348991",
+                    "Titles": {
+                        "eng": "A Great Victory! We Are the Saviors",
+                        "jpn": "大勝利！　我らが救世主"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "5356061",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5356061",
+                    "Titles": {
+                        "eng": "Show It! You at Your Worst",
+                        "jpn": "曝せ！　最低の自分"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "5364723",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5364723",
+                    "Titles": {
+                        "eng": "Ah! Days of Our Youth",
+                        "jpn": "嗚呼！　青春の日々"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "5369127",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5369127",
+                    "Titles": {
+                        "eng": "Carve Them In! The Scars of Destiny",
+                        "jpn": "刻め！　宿命の傷"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "5381873",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5381873",
+                    "Titles": {
+                        "eng": "Shatter! The One I Must Strike Down",
+                        "jpn": "砕け！　討つべきモノ"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "5388876",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5388876",
+                    "Titles": {
+                        "eng": "Howl! An Honest Beaten Dog",
+                        "jpn": "吠えろ！　正直な負け犬"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "5394934",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5394934",
+                    "Titles": {
+                        "eng": "Fall in Love! Asagaya",
+                        "jpn": "恋せよ！　阿佐ヶ谷"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "5401524",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5401524",
+                    "Titles": {
+                        "eng": "Know It! The Reason You Were Born",
+                        "jpn": "知れ！　生まれた意味"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "5410348",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5410348",
+                    "Titles": {
+                        "eng": "Tragic! An Immoral Gattai",
+                        "jpn": "悲壮！　背徳の合体"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "5417722",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5417722",
+                    "Titles": {
+                        "eng": "Listen! The Voice Calling out to You",
+                        "jpn": "聞け！　キミを呼ぶ声"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "5430521",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5430521",
+                    "Titles": {
+                        "eng": "Revive! The Vow Beneath the Moonlight",
+                        "jpn": "蘇れ！　月夜の誓い"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "5430522",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5430522",
+                    "Titles": {
+                        "eng": "To Battle! With My Existence on the Line",
+                        "jpn": "出撃！　我が存在を賭けて"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "5430523",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5430523",
+                    "Titles": {
+                        "eng": "Gather! Voices for Tomorrow",
+                        "jpn": "集え！　明日を望む声"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "5430525",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aquarion/episodes/5430525",
+                    "Titles": {
+                        "eng": "It Will Not End! Aquarion Logos",
+                        "jpn": "終わらない！　アクエリオンロゴス"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

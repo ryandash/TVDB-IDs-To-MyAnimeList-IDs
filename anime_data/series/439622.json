@@ -1,0 +1,73 @@
+{
+    "URL": "https://thetvdb.com/series/439622-4",
+    "Genres": [
+        "Animation",
+        "Drama"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/974294"
+    ],
+    "Titles": {
+        "eng": "ブラック・ジャック スペシャル～命をめぐる4つの奇跡～",
+        "jpn": "ブラック・ジャック スペシャル～命をめぐる4つの奇跡～"
+    },
+    "Aliases": [],
+    "Modified": "2023-10-26",
+    "Seasons": {
+        "1": {
+            "ID": "2083667",
+            "URL": "https://thetvdb.com/series/439622-4/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "10025235",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/439622-4/episodes/10025235",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Karte：1 医者はどこだ!"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10025236",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/439622-4/episodes/10025236",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Karte：2 勘当息子"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10025237",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/439622-4/episodes/10025237",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Karte：3 U-18は知っていた"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "10025238",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/439622-4/episodes/10025238",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Karte：4 ときには真珠のように"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

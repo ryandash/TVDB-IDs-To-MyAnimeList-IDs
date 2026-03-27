@@ -1,0 +1,82 @@
+{
+    "URL": "https://thetvdb.com/series/labyrinth-of-flames",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0314017/",
+        "https://www.themoviedb.org/tv/131899"
+    ],
+    "Titles": {
+        "eng": "Labyrinth of Flames",
+        "jpn": "炎のらびりんす"
+    },
+    "Aliases": [
+        "Honoo No Labyrinth"
+    ],
+    "Modified": "2026-01-12",
+    "Seasons": {
+        "0": {
+            "ID": "537418",
+            "URL": "https://thetvdb.com/series/labyrinth-of-flames/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "6280275",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/labyrinth-of-flames/episodes/6280275",
+                    "Titles": {
+                        "eng": "Behind the Scenes Madness",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "73201",
+            "URL": "https://thetvdb.com/series/labyrinth-of-flames/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "713851",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/labyrinth-of-flames/episodes/713851",
+                    "Titles": {
+                        "eng": "Samurai Labyrinth? Loverinth?",
+                        "jpn": "ちょんまげ らびりんす？らぶりんす？"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "713861",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/labyrinth-of-flames/episodes/713861",
+                    "Titles": {
+                        "eng": "Treasure Labyrinth? Loverinth?",
+                        "jpn": "おたから らびりんす？らぶりんす？"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

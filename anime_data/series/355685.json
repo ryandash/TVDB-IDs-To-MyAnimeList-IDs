@@ -1,0 +1,97 @@
+{
+    "URL": "https://thetvdb.com/series/wolf-guy",
+    "Genres": [
+        "Action",
+        "Anime",
+        "Horror"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt21294196/",
+        "https://www.themoviedb.org/tv/115842"
+    ],
+    "Titles": {
+        "eng": "Wolf Guy",
+        "jpn": "ウルフガイ"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "811377",
+            "URL": "https://thetvdb.com/series/wolf-guy/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "7195024",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/wolf-guy/episodes/7195024",
+                    "Titles": {
+                        "eng": "Phoenix Operation",
+                        "jpn": "不死鳥作戦（フェニックス・オペレーション）"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7195025",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/wolf-guy/episodes/7195025",
+                    "Titles": {
+                        "eng": "Song of Hate",
+                        "jpn": "怨歌"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7195026",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/wolf-guy/episodes/7195026",
+                    "Titles": {
+                        "eng": "Trail of Blood",
+                        "jpn": "血の轍"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7195028",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/wolf-guy/episodes/7195028",
+                    "Titles": {
+                        "eng": "Complication",
+                        "jpn": "錯綜"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7195031",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/wolf-guy/episodes/7195031",
+                    "Titles": {
+                        "eng": "Last Farewell",
+                        "jpn": "永訣"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "7195032",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/wolf-guy/episodes/7195032",
+                    "Titles": {
+                        "eng": "Requiem",
+                        "jpn": "レクイエム"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

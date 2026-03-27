@@ -1,0 +1,80 @@
+{
+    "URL": "https://thetvdb.com/series/choushin-hime-dangaizer-3",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt7676862/",
+        "https://www.themoviedb.org/tv/53360"
+    ],
+    "Titles": {
+        "eng": "Dangaizer 3",
+        "jpn": "超神姫ダンガイザー3"
+    },
+    "Aliases": [
+        "Choushin Hime Dangaizer 3"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "521228",
+            "URL": "https://thetvdb.com/series/choushin-hime-dangaizer-3/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "4579756",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/choushin-hime-dangaizer-3/episodes/4579756",
+                    "Titles": {
+                        "eng": "Act 1: The Reincarnation of a priestess",
+                        "jpn": "ACT1  神姫転生"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4579757",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/choushin-hime-dangaizer-3/episodes/4579757",
+                    "Titles": {
+                        "eng": "Act 2: From Pathos Springs Devilish Sacred Fire",
+                        "jpn": "ACT2  哀ゆえに…聖炎の魔性"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4579758",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/choushin-hime-dangaizer-3/episodes/4579758",
+                    "Titles": {
+                        "eng": "Act 3: The Challenge Of The Moonflower",
+                        "jpn": "ACT3  月華の挑戦〜破壊天使アイリーン〜"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4579759",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/choushin-hime-dangaizer-3/episodes/4579759",
+                    "Titles": {
+                        "eng": "Act 4: The Great Battle at the Bottom of the Sea",
+                        "jpn": "復活!!海底遺跡大血戦"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

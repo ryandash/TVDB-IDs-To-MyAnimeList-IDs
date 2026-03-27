@@ -1,0 +1,85 @@
+{
+    "URL": "https://thetvdb.com/series/blue-sonnet",
+    "Genres": [
+        "Animation",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0099159/",
+        "https://www.themoviedb.org/tv/44147"
+    ],
+    "Titles": {
+        "eng": "Blue Sonnet",
+        "jpn": "紅い牙 ブルー・ソネット"
+    },
+    "Aliases": [],
+    "Modified": "2025-11-21",
+    "Seasons": {
+        "1": {
+            "ID": "126961",
+            "URL": "https://thetvdb.com/series/blue-sonnet/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "1147971",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/blue-sonnet/episodes/1147971",
+                    "Titles": {
+                        "eng": "Directive 01: The Pursuer",
+                        "jpn": "指令No.1 追跡者"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1147981",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/blue-sonnet/episodes/1147981",
+                    "Titles": {
+                        "eng": "Directive 02: The Tactician",
+                        "jpn": "指令No.2 策謀者"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1147991",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/blue-sonnet/episodes/1147991",
+                    "Titles": {
+                        "eng": "Directive 03: The Challenger",
+                        "jpn": "指令No.3 挑戦者"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1148001",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/blue-sonnet/episodes/1148001",
+                    "Titles": {
+                        "eng": "Directive 04: The Warrior",
+                        "jpn": "指令No.4 戦斗者"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "1148011",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/blue-sonnet/episodes/1148011",
+                    "Titles": {
+                        "eng": "Directive 05: The Mourner",
+                        "jpn": "指令No.5 離愁者"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

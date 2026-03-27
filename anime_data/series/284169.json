@@ -1,0 +1,168 @@
+{
+    "URL": "https://thetvdb.com/series/isuca",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Fantasy",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt4219148/",
+        "https://www.themoviedb.org/tv/64831"
+    ],
+    "Titles": {
+        "eng": "Isuca",
+        "jpn": "ISUCA"
+    },
+    "Aliases": [],
+    "Modified": "2025-06-02",
+    "Seasons": {
+        "0": {
+            "ID": "592142",
+            "URL": "https://thetvdb.com/series/isuca/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "5172210",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/isuca/episodes/5172210",
+                    "Titles": {
+                        "eng": "Paradise",
+                        "jpn": "OAD「極楽」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "592143",
+            "URL": "https://thetvdb.com/series/isuca/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 10,
+            "Episodes": {
+                "1": {
+                    "ID": "4942672",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/isuca/episodes/4942672",
+                    "Titles": {
+                        "eng": "Chance Meeting",
+                        "jpn": "邂逅"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5098052",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/isuca/episodes/5098052",
+                    "Titles": {
+                        "eng": "True Name",
+                        "jpn": "真名"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5110060",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/isuca/episodes/5110060",
+                    "Titles": {
+                        "eng": "Confrontation",
+                        "jpn": "対立"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5110062",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/isuca/episodes/5110062",
+                    "Titles": {
+                        "eng": "Shadow Play",
+                        "jpn": "暗躍"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5110064",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/isuca/episodes/5110064",
+                    "Titles": {
+                        "eng": "Eye of Truth",
+                        "jpn": "真眼"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5116538",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/isuca/episodes/5116538",
+                    "Titles": {
+                        "eng": "Promise",
+                        "jpn": "約束"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5116539",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/isuca/episodes/5116539",
+                    "Titles": {
+                        "eng": "Light and Shade",
+                        "jpn": "明暗"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5116540",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/isuca/episodes/5116540",
+                    "Titles": {
+                        "eng": "Trials",
+                        "jpn": "試練"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5116541",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/isuca/episodes/5116541",
+                    "Titles": {
+                        "eng": "Attack",
+                        "jpn": "襲撃"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5116542",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/isuca/episodes/5116542",
+                    "Titles": {
+                        "eng": "Resolution",
+                        "jpn": "決着"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

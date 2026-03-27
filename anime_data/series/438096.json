@@ -1,0 +1,82 @@
+{
+    "URL": "https://thetvdb.com/series/438096-series",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Children",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt29140863/",
+        "https://www.pokemon.co.jp/ex/sv/ja/sp_anime/",
+        "https://www.themoviedb.org/tv/232214",
+        "https://www.wikidata.org/wiki/Q121811456"
+    ],
+    "Titles": {
+        "eng": "Pokémon: Paldean Winds",
+        "jpn": "放課後のブレス"
+    },
+    "Aliases": [
+        "Hōkago no Breath",
+        "Houkago no Breath"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "2077193",
+            "URL": "https://thetvdb.com/series/438096-series/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "9944690",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/438096-series/episodes/9944690",
+                    "Titles": {
+                        "eng": "Breathe Out",
+                        "jpn": "息をふく"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9944691",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/438096-series/episodes/9944691",
+                    "Titles": {
+                        "eng": "Breathe In",
+                        "jpn": "息をのむ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9944692",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/438096-series/episodes/9944692",
+                    "Titles": {
+                        "eng": "Take a Breath",
+                        "jpn": "息をつく"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9944693",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/438096-series/episodes/9944693",
+                    "Titles": {
+                        "eng": "Breathe Together",
+                        "jpn": "息をあわせて"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "URL": "https://thetvdb.com/series/idol-defense-force-hummingbird",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0107188/",
+        "https://www.themoviedb.org/tv/114254"
+    ],
+    "Titles": {
+        "eng": "Idol Defense Force Hummingbird",
+        "jpn": "アイドル防衛隊ハミングバード"
+    },
+    "Aliases": [],
+    "Modified": "2025-08-03",
+    "Seasons": {
+        "1": {
+            "ID": "508408",
+            "URL": "https://thetvdb.com/series/idol-defense-force-hummingbird/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "4465161",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/idol-defense-force-hummingbird/episodes/4465161",
+                    "Titles": {
+                        "eng": "The Best Guy",
+                        "jpn": "アイドル防衛隊ハミングバード"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4465162",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/idol-defense-force-hummingbird/episodes/4465162",
+                    "Titles": {
+                        "eng": "Hummingbird 94",
+                        "jpn": "アイドル防衛隊ハミングバード'94夏"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4465163",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/idol-defense-force-hummingbird/episodes/4465163",
+                    "Titles": {
+                        "eng": "Song of the Wind",
+                        "jpn": "アイドル防衛隊ハミングバード'95風の唄"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4465164",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/idol-defense-force-hummingbird/episodes/4465164",
+                    "Titles": {
+                        "eng": "To the Place of Our Dreams",
+                        "jpn": "アイドル防衛隊ハミングバード'95夢の場所へ"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

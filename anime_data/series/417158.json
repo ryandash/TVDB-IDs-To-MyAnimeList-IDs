@@ -1,0 +1,87 @@
+{
+    "URL": "https://thetvdb.com/series/nitro",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Children",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.sunrise-inc.co.jp/international/work/detail.php?cid=158",
+        "https://www.themoviedb.org/tv/45012",
+        "https://www.themoviedb.org/tv/45012"
+    ],
+    "Titles": {
+        "eng": "Crush Gear Nitro",
+        "jpn": "クラッシュギアNitro"
+    },
+    "Aliases": [
+        "Kurasshugia Nitoro",
+        "Crash Gear Nitro",
+        "Kurasshu Gia Nitro"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "1987286",
+            "URL": "https://thetvdb.com/series/nitro/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "9027239",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nitro/episodes/9027239",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "聞け!ギアの鼓動を!"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9027240",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nitro/episodes/9027240",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ヒデの逆襲!"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9027241",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nitro/episodes/9027241",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "覚醒!マッハジャスティス"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "9027242",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nitro/episodes/9027242",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "風（ニトロ）の彼方へ"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

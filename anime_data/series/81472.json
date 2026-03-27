@@ -1,0 +1,3868 @@
+{
+    "URL": "https://thetvdb.com/series/dragon-ball-z",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Fantasy",
+        "Science Fiction",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/9A83-59AC-0EB8-D495-6551-R",
+        "https://www.imdb.com/title/tt0121220/",
+        "https://tvlistings.zap2it.com/overview.html?programSeriesId=EP01264737",
+        "https://www.themoviedb.org/tv/12971"
+    ],
+    "Titles": {
+        "eng": "Dragon Ball Z",
+        "jpn": "ドラゴンボールZ"
+    },
+    "Aliases": [
+        "Dragonball Z",
+        "Dragon Ball Z (1989)",
+        "DRAGON BALL Z"
+    ],
+    "Modified": "2026-03-03",
+    "Seasons": {
+        "0": {
+            "ID": "31040",
+            "URL": "https://thetvdb.com/series/dragon-ball-z/seasons/official/0",
+            "Titles": {
+                "eng": "Specials",
+                "jpn": null,
+                "spa": "Especiales",
+                "por": "Filmes e Especiais",
+                "zho": "龙珠z：特别篇",
+                "cat": "Especials"
+            },
+            "# Episodes": 36,
+            "Episodes": {
+                "1": {
+                    "ID": "8484175",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/8484175",
+                    "Titles": {
+                        "eng": "Dead Zone",
+                        "jpn": "ドラゴンボールZ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "8486294",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/8486294",
+                    "Titles": {
+                        "eng": "The World's Strongest",
+                        "jpn": "この世で一番強いヤツ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "8486295",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/8486295",
+                    "Titles": {
+                        "eng": "The Tree of Might",
+                        "jpn": "地球まるごと超決戦"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "8486296",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/8486296",
+                    "Titles": {
+                        "eng": "Lord Slug",
+                        "jpn": "超サイヤ人だ孫悟空"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "5": {
+                    "ID": "8486297",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/8486297",
+                    "Titles": {
+                        "eng": "Cooler's Revenge",
+                        "jpn": "とびっきりの最強対最強"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "6": {
+                    "ID": "8486298",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/8486298",
+                    "Titles": {
+                        "eng": "The Return of Cooler",
+                        "jpn": "激突!!100億パワーの戦士たち"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "7": {
+                    "ID": "8486299",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/8486299",
+                    "Titles": {
+                        "eng": "Super Android 13!",
+                        "jpn": "極限バトル!!三大超サイヤ人"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "8": {
+                    "ID": "411419",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411419",
+                    "Titles": {
+                        "eng": "Broly: The Legendary Super Saiyan",
+                        "jpn": "燃えつきろ!!熱戦・烈戦・超激戦"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "9": {
+                    "ID": "411420",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411420",
+                    "Titles": {
+                        "eng": "Bojack Unbound",
+                        "jpn": "銀河ギリギリ!!ぶっちぎりの凄い奴"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "10": {
+                    "ID": "411421",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411421",
+                    "Titles": {
+                        "eng": "Broly: Second Coming",
+                        "jpn": "危険なふたり!超戦士はねむれない"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "11": {
+                    "ID": "411422",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411422",
+                    "Titles": {
+                        "eng": "Bio-Broly",
+                        "jpn": "超戦士撃破!!勝つのはオレだ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "12": {
+                    "ID": "411423",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411423",
+                    "Titles": {
+                        "eng": "Fusion Reborn",
+                        "jpn": "復活のフュージョン!!悟空とベジータ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "13": {
+                    "ID": "411424",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411424",
+                    "Titles": {
+                        "eng": "Wrath of the Dragon",
+                        "jpn": "龍拳爆発!!悟空がやらねば誰がやる"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "14": {
+                    "ID": "4663427",
+                    "TYPE": null,
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/4663427",
+                    "Titles": {
+                        "eng": "Dragon Ball Z: Battle of Gods",
+                        "jpn": "ドラゴンボールZ 神と神"
+                    },
+                    "Aliases": [
+                        "Dragon Ball Z: Kami to Kami",
+                        "Dragon Ball Z: God vs. God",
+                        "Dragon Ball Z Movie 14: God & God"
+                    ],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "15": {
+                    "ID": "5276090",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/5276090",
+                    "Titles": {
+                        "eng": "Resurrection 'F'",
+                        "jpn": "復活の「F」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "16": {
+                    "ID": "411426",
+                    "TYPE": "Episodic Special",
+                    "CATEGORY": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411426",
+                    "Titles": {
+                        "eng": "Bardock - The Father of Goku",
+                        "jpn": "たったひとりの最終決戦〜フリーザに挑んだZ戦士 孫悟空の父〜"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "17": {
+                    "ID": "7758740",
+                    "TYPE": "Season Recaps",
+                    "CATEGORY": "Season Recaps",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/7758740",
+                    "Titles": {
+                        "eng": "Summer Vacation Special",
+                        "jpn": "夏休み スペシャル"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "18": {
+                    "ID": "411427",
+                    "TYPE": "Episodic Special",
+                    "CATEGORY": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411427",
+                    "Titles": {
+                        "eng": "The History of Trunks",
+                        "jpn": "絶望への反抗!!残された超戦士・悟飯とトランクス"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "19": {
+                    "ID": "4183200",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/4183200",
+                    "Titles": {
+                        "eng": "Gather Together! Goku's World",
+                        "jpn": "総集編  全部見せます 年忘れDRAGON BALL Z"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "20": {
+                    "ID": "952701",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/952701",
+                    "Titles": {
+                        "eng": "Plan to Eradicate the Saiyans: Earth Story (Part 1)",
+                        "jpn": "外伝: サイヤ人絶滅 計画 地球編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "21": {
+                    "ID": "1135161",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/1135161",
+                    "Titles": {
+                        "eng": "Plan to Eradicate the Saiyans: Space Story (Part 2)",
+                        "jpn": "外伝: サイヤ人絶滅 計画 宇宙編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                },
+                "23": {
+                    "ID": "411425",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411425",
+                    "Titles": {
+                        "eng": "Yo! Son Goku and His Friends Return!!",
+                        "jpn": "オッス!帰ってきた孫悟空と仲間たち!!"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "24": {
+                    "ID": "4183187",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/4183187",
+                    "Titles": {
+                        "eng": "Plan to Eradicate the Super Saiyans (Remake)",
+                        "jpn": "超サイヤ人絶滅計画"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "25": {
+                    "ID": "4256459",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/4256459",
+                    "Titles": {
+                        "eng": "Episode of Bardock",
+                        "jpn": "エピソード オブ バーダック"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "26": {
+                    "ID": "8486300",
+                    "TYPE": "Episodic Special",
+                    "CATEGORY": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/8486300",
+                    "Titles": {
+                        "eng": "Kyutai Panic Adventure!",
+                        "jpn": "球体パニックアドベンチャー!"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "27": {
+                    "ID": "8486301",
+                    "TYPE": "Episodic Special",
+                    "CATEGORY": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/8486301",
+                    "Titles": {
+                        "eng": "Kyutai Panic Adventure Returns!",
+                        "jpn": "球体パニックアドベンチャーリターンズ!!!"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                },
+                "28": {
+                    "ID": "4543895",
+                    "TYPE": "Episodic Special",
+                    "CATEGORY": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/4543895",
+                    "Titles": {
+                        "eng": "Dream 9 Toriko & One Piece & Dragon Ball Z Super Collaboration Special",
+                        "jpn": "ドリーム9 トリコ×ONE PIECE×ドラゴンボールZ 超コラボスペシャル!!"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "29": {
+                    "ID": "9188806",
+                    "TYPE": "Season Recaps",
+                    "CATEGORY": "Season Recaps",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/9188806",
+                    "Titles": {
+                        "eng": "Looking Back at it All: The Dragon Ball Z Year-End Show!",
+                        "jpn": "全部見せます 年忘れドラゴンボールZ!"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "30": {
+                    "ID": "9401740",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/9401740",
+                    "Titles": {
+                        "eng": "Japan Hero Awards: Who Is the Strongest Hero?",
+                        "jpn": "日本偉人大賞 偉人最強決定戦"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "32": {
+                    "ID": "9642827",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/9642827",
+                    "Titles": {
+                        "eng": "Resurrection 'F' - Future Trunks Edition",
+                        "jpn": "ドラゴンボールＺ 復活の「Ｆ」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "33": {
+                    "ID": "9973341",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/9973341",
+                    "Titles": {
+                        "eng": "Battle of Gods (Special Extended Edition)",
+                        "jpn": "神々の戦い (スペシャル エクステンデッド エディション)"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "36": {
+                    "ID": "10716525",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/10716525",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Opening 1"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "37": {
+                    "ID": "10716529",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/10716529",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Opening 2"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        },
+        "1": {
+            "ID": "31041",
+            "URL": "https://thetvdb.com/series/dragon-ball-z/seasons/official/1",
+            "Titles": {
+                "eng": "Saiyan Saga",
+                "jpn": "サイヤ人編",
+                "zho": "赛亚人篇",
+                "spa": "Saga de los Saiyan",
+                "fra": "Saga des Saiyans",
+                "pt": "Saga dos Saiyajins",
+                "por": "Saga dos Super Guerreiros",
+                "ita": "Saga dei Saiyan",
+                "kor": "사이어인 편",
+                "deu": "Saiyan Saga",
+                "cat": "Saga dels Guerrers de l'espai",
+                "dan": "Saiyan Saga"
+            },
+            "# Episodes": 39,
+            "Episodes": {
+                "1": {
+                    "ID": "355412",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355412",
+                    "Titles": {
+                        "eng": "The New Threat",
+                        "jpn": "ミニ悟空はおぼっちゃま！ ボク悟飯です"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "355413",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355413",
+                    "Titles": {
+                        "eng": "Reunions",
+                        "jpn": "史上最強の戦士は悟空の兄だった！"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "355414",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355414",
+                    "Titles": {
+                        "eng": "Unlikely Alliance",
+                        "jpn": "やった！ これが地上最強のコンビだ！"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "355415",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355415",
+                    "Titles": {
+                        "eng": "Piccolo's Plan",
+                        "jpn": "ピッコロの切り札！ 悟飯は泣きむしクン"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "355416",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355416",
+                    "Titles": {
+                        "eng": "Gohan's Rage",
+                        "jpn": "悟空死す！ ラストチャンスは一度だけ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "355417",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355417",
+                    "Titles": {
+                        "eng": "No Time Like the Present",
+                        "jpn": "エンマ様もビックリあの世でファイト"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "355418",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355418",
+                    "Titles": {
+                        "eng": "Day 1",
+                        "jpn": "恐竜とサバイバル！ 悟飯のツライ修行"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "355419",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355419",
+                    "Titles": {
+                        "eng": "Gohan Goes Bananas!",
+                        "jpn": "月の輝く夜に大変身！ 悟飯パワーの秘密"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "355420",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355420",
+                    "Titles": {
+                        "eng": "The Strangest Robot",
+                        "jpn": "ゴメンねロボットさん 砂漠に消えた涙"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "355421",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355421",
+                    "Titles": {
+                        "eng": "A New Friend",
+                        "jpn": "泣くなご飯！ はじめての闘い"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "355422",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355422",
+                    "Titles": {
+                        "eng": "Terror on Arlia",
+                        "jpn": "宇宙一の強戦士 サイヤ人めざめる！"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "355423",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355423",
+                    "Titles": {
+                        "eng": "Global Training",
+                        "jpn": "蛇の道でいねむり 悟空が落っこちる"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "355424",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355424",
+                    "Titles": {
+                        "eng": "Goz and Mez",
+                        "jpn": "手を出すな！ エンマ様の秘密の果実"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "355425",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355425",
+                    "Titles": {
+                        "eng": "Princess Snake",
+                        "jpn": "あま～い誘惑！ 蛇姫さまのおもてなし"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "355426",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355426",
+                    "Titles": {
+                        "eng": "Dueling Piccolos",
+                        "jpn": "ピッコロからの脱出！ 嵐を呼ぶ悟飯"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "355427",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355427",
+                    "Titles": {
+                        "eng": "Plight of the Children",
+                        "jpn": "走れ悟飯！ チチの待つなつかしのパオズ山"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "355428",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355428",
+                    "Titles": {
+                        "eng": "Pendulum Room Peril",
+                        "jpn": "明日なき街！ 勝利への遠い道のり"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "355429",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355429",
+                    "Titles": {
+                        "eng": "The End of Snake Way",
+                        "jpn": "終点～ん蛇の道！ おめえ界王様か？"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "355430",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355430",
+                    "Titles": {
+                        "eng": "Defying Gravity",
+                        "jpn": "重力との戦い！ バブルス君をつかまえろ"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "355431",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355431",
+                    "Titles": {
+                        "eng": "Goku's Ancestors",
+                        "jpn": "よみがえるサイヤ人伝説！ 悟空のルーツ"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "355432",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355432",
+                    "Titles": {
+                        "eng": "Counting Down",
+                        "jpn": "いでよ神龍！ サイヤ人ついに地球到着"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "355433",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355433",
+                    "Titles": {
+                        "eng": "The Darkest Day",
+                        "jpn": "んなバカな！ 土から生まれたサイバイマン"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "355434",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355434",
+                    "Titles": {
+                        "eng": "Saibamen Attack!",
+                        "jpn": "ヤムチャ死す おそるべしサイバイマン"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "355435",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355435",
+                    "Titles": {
+                        "eng": "The Power of Nappa",
+                        "jpn": "さよなら天さん！ 餃子の捨て身の戦法"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "355436",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355436",
+                    "Titles": {
+                        "eng": "Sacrifice",
+                        "jpn": "天津飯絶叫!! これが最後の気功砲だ"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "355437",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355437",
+                    "Titles": {
+                        "eng": "Nappa's Rampage",
+                        "jpn": "ひたすら待って３時間！ 弾丸飛行の筋斗雲"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "355438",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355438",
+                    "Titles": {
+                        "eng": "Nimbus Speed",
+                        "jpn": "ぼくにまかせて！ 悟飯・怒りの大爆発"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "355439",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355439",
+                    "Titles": {
+                        "eng": "Goku's Arrival",
+                        "jpn": "サイヤ人の猛威！ 神様もピッコロも死んだ"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "355440",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355440",
+                    "Titles": {
+                        "eng": "Lesson Number One",
+                        "jpn": "父さんすげえや！ 究極の必殺技・界王拳"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "355441",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355441",
+                    "Titles": {
+                        "eng": "Goku vs. Vegeta",
+                        "jpn": "限界を超えた熱い戦い！ 悟空対ベジータ"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "355442",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355442",
+                    "Titles": {
+                        "eng": "Saiyan Sized Secret",
+                        "jpn": "いまだ悟空！ すべてを賭けた最後の大技"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "355443",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355443",
+                    "Titles": {
+                        "eng": "Spirit Bomb Away!",
+                        "jpn": "戦闘力10倍!! ベジータ大変身"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "355444",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355444",
+                    "Titles": {
+                        "eng": "Hero in the Shadows",
+                        "jpn": "死なないで父さん!! これが悟飯の底力"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "355445",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355445",
+                    "Titles": {
+                        "eng": "Krillin's Offensive",
+                        "jpn": "撃てクリリン！ 願いをこめた元気玉"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "355446",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355446",
+                    "Titles": {
+                        "eng": "Mercy",
+                        "jpn": "奇跡を起こせ！ スーパーサイヤ人孫悟飯"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "355447",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355447",
+                    "Titles": {
+                        "eng": "Picking Up the Pieces",
+                        "jpn": "飛びだせ宇宙へ！ 希望の星はピッコロの故郷"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "355448",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355448",
+                    "Titles": {
+                        "eng": "Plans for Departure",
+                        "jpn": "謎のユンザビット！ 神様の宇宙船を探せ"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "355449",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355449",
+                    "Titles": {
+                        "eng": "Nursing Wounds",
+                        "jpn": "ナメック星行き発進！ 悟飯たちを待つ恐怖"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "355450",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355450",
+                    "Titles": {
+                        "eng": "Friends or Foes?",
+                        "jpn": "敵か味方か？ 謎の巨大宇宙船の子供たち"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "31042",
+            "URL": "https://thetvdb.com/series/dragon-ball-z/seasons/official/2",
+            "Titles": {
+                "eng": "Namek Saga",
+                "jpn": "ナメック星編",
+                "zho": "那美克星篇",
+                "spa": "Saga de Namek",
+                "fra": "Saga de Namek",
+                "por": "Saga de Namek",
+                "pt": "Saga de Namekusei",
+                "ita": "Saga di Namek",
+                "kor": "나메크성 편",
+                "deu": "Namek Saga",
+                "cat": "Saga de Namek",
+                "dan": "Namek Saga"
+            },
+            "# Episodes": 35,
+            "Episodes": {
+                "1": {
+                    "ID": "355451",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/355451",
+                    "Titles": {
+                        "eng": "Held Captive",
+                        "jpn": "ホントにホント？ あれが希望のナメック星"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "356280",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356280",
+                    "Titles": {
+                        "eng": "Look Out Below",
+                        "jpn": "親切な宇宙人 いきなりあったよ五星球"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "356281",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356281",
+                    "Titles": {
+                        "eng": "The Search Continues",
+                        "jpn": "惑星フリーザNo.79 復活のベジータ!!"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "356282",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356282",
+                    "Titles": {
+                        "eng": "A Friendly Surprise",
+                        "jpn": "そろったぞ神龍球！ ピッコロさんも生き返る"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "356283",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356283",
+                    "Titles": {
+                        "eng": "Brood of Evil",
+                        "jpn": "あらたな強敵！ 宇宙の帝王フリーザ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "356284",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356284",
+                    "Titles": {
+                        "eng": "Frieza Strikes!",
+                        "jpn": "野望のベジータ！ 宇宙一の戦士はオレだ!!"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "356285",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356285",
+                    "Titles": {
+                        "eng": "Defying Orders",
+                        "jpn": "悟空パワー全開!! 銀河の果てまで６日間"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "356286",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356286",
+                    "Titles": {
+                        "eng": "Namek's Defense",
+                        "jpn": "意表をついた攻撃!! 長老の狙いはスカウター"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "356287",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356287",
+                    "Titles": {
+                        "eng": "The Hunted",
+                        "jpn": "悟飯危うし！ 死を呼ぶ追跡者ドドリア"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "356288",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356288",
+                    "Titles": {
+                        "eng": "The Prince Fights Back",
+                        "jpn": "爆死ドドリア！ ベジータの恐るべき衝撃波"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "356289",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356289",
+                    "Titles": {
+                        "eng": "Unexpected Problem",
+                        "jpn": "燃える惑星からの脱出!! 命がけのカメハメ波"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "356290",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356290",
+                    "Titles": {
+                        "eng": "Vegeta Has a Ball",
+                        "jpn": "勇気百倍！ 界王の下に集結する戦士たち"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "356291",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356291",
+                    "Titles": {
+                        "eng": "The Past and Future",
+                        "jpn": "聞け悟空よ！ フリーザには手を出すな"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "356292",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356292",
+                    "Titles": {
+                        "eng": "Zarbon's Surprise",
+                        "jpn": "ほとんど鳥肌！ 美戦士ザーボンの悪魔の変身"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "356293",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356293",
+                    "Titles": {
+                        "eng": "Guru's Gift",
+                        "jpn": "希望の星を守れ!! クリリン驚異のパワーＵＰ"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "356294",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356294",
+                    "Titles": {
+                        "eng": "Piccolo vs. Everyone",
+                        "jpn": "死の淵からよみがえった奇跡の男・ベジータ"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "356295",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356295",
+                    "Titles": {
+                        "eng": "Zarbon's Mission",
+                        "jpn": "どでかい戦闘力!! 砕け散るフリーザの陰謀"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "356296",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356296",
+                    "Titles": {
+                        "eng": "Gohan, the Hunted",
+                        "jpn": "元気が戻ったぞ!! 100倍超重力の中の悟空"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "356297",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356297",
+                    "Titles": {
+                        "eng": "Unknown Enemies",
+                        "jpn": "フリーザの秘密兵器！ 悪魔のギニュー特戦隊"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "356298",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356298",
+                    "Titles": {
+                        "eng": "Destination: Guru",
+                        "jpn": "ブルマが危ない!! 四星球はフリーザの手に"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "356299",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356299",
+                    "Titles": {
+                        "eng": "Bulma's Big Day",
+                        "jpn": "激突だ!! 不屈の闘志の界王拳とカメハメ波"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "356300",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356300",
+                    "Titles": {
+                        "eng": "Hidden Power",
+                        "jpn": "迫る超決戦！ ギニュー特戦隊只今参上!!"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "356301",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356301",
+                    "Titles": {
+                        "eng": "New Ally, New Problem",
+                        "jpn": "悟空が大接近！ フリーザの包囲網をぶち破れ"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "356302",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356302",
+                    "Titles": {
+                        "eng": "Guldo's Mind Binds",
+                        "jpn": "超魔術かトリックか!? Mr.グルドが怒ったぞ！"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "356303",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356303",
+                    "Titles": {
+                        "eng": "Recoome Unleashed",
+                        "jpn": "猛攻リクーム!! 悪くて強くてとんでもない奴"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "356304",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356304",
+                    "Titles": {
+                        "eng": "Let the Battle Begin",
+                        "jpn": "死ぬな悟飯！ 悟空、ついに決戦場に到着だ"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "356305",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356305",
+                    "Titles": {
+                        "eng": "Goku's New Power",
+                        "jpn": "ケタ外れの強さ!! 伝説の超サイヤ人孫悟空"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "356306",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356306",
+                    "Titles": {
+                        "eng": "A Legend Revealed",
+                        "jpn": "赤と青の光球！ ジースとバータが悟空を襲う"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "356307",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356307",
+                    "Titles": {
+                        "eng": "Ginyu Assault",
+                        "jpn": "ついに直接対決!! ギニュー隊長のおでましだ"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "356308",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356308",
+                    "Titles": {
+                        "eng": "Incredible Force!",
+                        "jpn": "凄まじい迫力!! 見たか、悟空のフルパワー"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "356309",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356309",
+                    "Titles": {
+                        "eng": "Frieza Approaches",
+                        "jpn": "闘いの行方!? 最長老に迫るフリーザの魔の手"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "356310",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356310",
+                    "Titles": {
+                        "eng": "Goku is Ginyu and Ginyu is Goku",
+                        "jpn": "ビックリ!! 悟空がギニューでギニューが悟空"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "356311",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/356311",
+                    "Titles": {
+                        "eng": "Calling the Eternal Dragon",
+                        "jpn": "出でよ超神龍!! ボクの願いをかなえたまえ"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "372807",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372807",
+                    "Titles": {
+                        "eng": "Gohan, Defeat Your Dad!!",
+                        "jpn": "奴はオラじゃネエ！ 悟飯びびるな父を撃て!!"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "372808",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372808",
+                    "Titles": {
+                        "eng": "Captain Ginyu...The Frog",
+                        "jpn": "大誤算!! ギニューがカエルになっちゃった"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "31043",
+            "URL": "https://thetvdb.com/series/dragon-ball-z/seasons/official/3",
+            "Titles": {
+                "eng": "Frieza Saga",
+                "jpn": "フリーザ編",
+                "zho": "弗利萨篇",
+                "fra": "Saga de Freezer",
+                "spa": "Saga de Freezer",
+                "pt": "Saga de Freeza",
+                "por": "Saga do Freezer",
+                "ita": "Saga di Freezer",
+                "kor": "프리저 편",
+                "deu": "Frieza Saga",
+                "cat": "Saga de Freezer",
+                "dan": "Frieza Saga"
+            },
+            "# Episodes": 33,
+            "Episodes": {
+                "1": {
+                    "ID": "365729",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/365729",
+                    "Titles": {
+                        "eng": "Password Is Porunga",
+                        "jpn": "七ツの玉を揃えし者よ…さあ合言葉を言え!"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "372922",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372922",
+                    "Titles": {
+                        "eng": "Piccolo's Return",
+                        "jpn": "神様も生き返った!超神龍でピッコロが復活"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "372923",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372923",
+                    "Titles": {
+                        "eng": "The Fusion",
+                        "jpn": "最強戦士の誕生か!?ネイルとピッコロが合体"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "372924",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372924",
+                    "Titles": {
+                        "eng": "Fighting Power: One Million??",
+                        "jpn": "悪夢の超変身!! 戦闘力100万のフリーザ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "372925",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372925",
+                    "Titles": {
+                        "eng": "Gohan Attacks",
+                        "jpn": "ここまでか!? 凶悪超絶パワーが悟飯を襲う"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "372926",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372926",
+                    "Titles": {
+                        "eng": "Piccolo the Super-Namek",
+                        "jpn": "一気に形勢逆転!! 遅れてきた戦士・ピッコロ"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "372927",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372927",
+                    "Titles": {
+                        "eng": "Déjà vu",
+                        "jpn": "ピッコロの自信！ フリーザを倒すのはオレだ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "372928",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372928",
+                    "Titles": {
+                        "eng": "Frieza's Second Transformation",
+                        "jpn": "出撃だ悟空!! 激怒のフリーザが第２の変身"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "372929",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372929",
+                    "Titles": {
+                        "eng": "Another Transformation?",
+                        "jpn": "恐怖しろ!! フリーザは３度の変身で勝負する"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "372930",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372930",
+                    "Titles": {
+                        "eng": "Dende's Demise",
+                        "jpn": "デンデの死…でてこい！ とびきり全開パワー"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "372931",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372931",
+                    "Titles": {
+                        "eng": "The Renewed Goku",
+                        "jpn": "待ちに待ったぜ、この瞬間!! 孫悟空が復活だ"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "372932",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372932",
+                    "Titles": {
+                        "eng": "The End of Vegeta",
+                        "jpn": "無念…!! 誇り高きサイヤ人・ベジータ死す"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "372933",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372933",
+                    "Titles": {
+                        "eng": "The Ultimate Battle",
+                        "jpn": "超決戦の幕開けだ!!おめえだけはオラが倒す"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "372934",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372934",
+                    "Titles": {
+                        "eng": "Clash of the Super Powers",
+                        "jpn": "激突２大超パワー！ 本気同士の肉弾戦!!"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "372935",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372935",
+                    "Titles": {
+                        "eng": "Frieza's Boast",
+                        "jpn": "フリーザ恐怖の宣言！ 手を使わずお前を倒す"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "372936",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372936",
+                    "Titles": {
+                        "eng": "Bold And Fearless",
+                        "jpn": "ハッタリじゃねえぞ!! 大胆素敵な奴・孫悟空"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "372937",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372937",
+                    "Titles": {
+                        "eng": "Embodiment Of Fire",
+                        "jpn": "決着だ!! 炎の化身20倍界王拳のカメハメ波"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "372938",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372938",
+                    "Titles": {
+                        "eng": "Trump Card",
+                        "jpn": "超特大の元気玉 これが最後の切り札だ!!"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "372939",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372939",
+                    "Titles": {
+                        "eng": "Keep The Chance Alive",
+                        "jpn": "チャンスを生かせ!!ピッコロ捨身の援護射撃"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "372940",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372940",
+                    "Titles": {
+                        "eng": "Power Of The Spirit",
+                        "jpn": "元気玉の超破壊力!!生き残ったのは誰だ!?"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "372941",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372941",
+                    "Titles": {
+                        "eng": "Transformed At Last",
+                        "jpn": "ついに変身!! 伝説の超サイヤ人･孫悟空"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "372942",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372942",
+                    "Titles": {
+                        "eng": "Explosion Of Anger",
+                        "jpn": "怒り爆発!!悟空よ、みんなの仇を討ってくれ"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "372943",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372943",
+                    "Titles": {
+                        "eng": "Namek's Destruction",
+                        "jpn": "ナメック星消滅か!? 大地を貫く魔の閃光"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "372944",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372944",
+                    "Titles": {
+                        "eng": "A Final Attack",
+                        "jpn": "勝つのはオレだ…生き残りをかけた最終攻撃"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "372945",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372945",
+                    "Titles": {
+                        "eng": "Approaching Destruction",
+                        "jpn": "神龍よ宇宙を走れ!! 迫るナメック星消滅の時"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "372946",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372946",
+                    "Titles": {
+                        "eng": "Gohan Returns",
+                        "jpn": "ボクは孫悟空の息子だ!! 悟飯、再び決戦場へ"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "372947",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372947",
+                    "Titles": {
+                        "eng": "The Last Wish",
+                        "jpn": "俺はこの星に残る!!勝利への最後の闘い"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "372948",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372948",
+                    "Titles": {
+                        "eng": "Duel On A Vanishing Planet",
+                        "jpn": "とことんやろうぜ!!消えゆく星に残った二人"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "372949",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372949",
+                    "Titles": {
+                        "eng": "Pathos Of Frieza",
+                        "jpn": "哀れフリーザ！ 震えだしたら止まらない!!"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "372950",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372950",
+                    "Titles": {
+                        "eng": "Frieza Defeated!",
+                        "jpn": "悟空の勝利宣言だ!! フリーザが自滅するとき…"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "372951",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372951",
+                    "Titles": {
+                        "eng": "Mighty Blast Of Rage",
+                        "jpn": "フリーザ敗れる!! すべての怒りをこめた一撃"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "372952",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372952",
+                    "Titles": {
+                        "eng": "Namek's Explosion...Goku's End?",
+                        "jpn": "ナメック星大爆発!! 宇宙に消えた悟空"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "372953",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/372953",
+                    "Titles": {
+                        "eng": "Goku's Alive!",
+                        "jpn": "生きていた孫悟空 Ｚ戦士が全員復活だ!!"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "4": {
+            "ID": "31061",
+            "URL": "https://thetvdb.com/series/dragon-ball-z/seasons/official/4",
+            "Titles": {
+                "eng": "Androids Saga",
+                "jpn": "人造人間編",
+                "zho": "魔凶星篇&人造人篇",
+                "fra": "Saga des Cyborgs",
+                "spa": "Saga de los androides",
+                "pt": "Saga dos Andróides",
+                "ita": "Saga degli Androidi",
+                "kor": "인조인간 편",
+                "deu": "Androiden Saga",
+                "cat": "Saga dels androides",
+                "por": "Saga dos Ciborgues",
+                "dan": "Androids Saga"
+            },
+            "# Episodes": 32,
+            "Episodes": {
+                "1": {
+                    "ID": "378334",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378334",
+                    "Titles": {
+                        "eng": "The Heavens Tremble",
+                        "jpn": "天界が大変だ!! ガーリックJr.が神になる"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "378335",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378335",
+                    "Titles": {
+                        "eng": "Black Fog of Terror",
+                        "jpn": "恐怖の黒い霧…!! みんな魔族になっちゃった"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "378336",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378336",
+                    "Titles": {
+                        "eng": "Battle in Kami's Lookout",
+                        "jpn": "天界が戦場だ!! ピッコロが魔族に逆戻り…"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "378337",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378337",
+                    "Titles": {
+                        "eng": "Fight with Piccolo",
+                        "jpn": "ピッコロと直接対決!! 天界に怒りの魔せん光"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "378338",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378338",
+                    "Titles": {
+                        "eng": "Call for Restoration",
+                        "jpn": "みんなの心を取り戻せ!! 神殿に眠る超神水"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "378339",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378339",
+                    "Titles": {
+                        "eng": "Suicidal Course",
+                        "jpn": "朝まで待てない!! 神様の覚悟をきめた決死行"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "378340",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378340",
+                    "Titles": {
+                        "eng": "Extreme Measures",
+                        "jpn": "超過激に勝負だ!! 掟やぶりの神様"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "378341",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378341",
+                    "Titles": {
+                        "eng": "The World Awakens",
+                        "jpn": "効いたぜ超神水!!世界が悪夢からさめた"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "378342",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378342",
+                    "Titles": {
+                        "eng": "Brief Chance for Victory",
+                        "jpn": "悟飯に一瞬の勝機!! あの魔凶星を撃て…"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "378343",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378343",
+                    "Titles": {
+                        "eng": "Krillin's Proposal",
+                        "jpn": "男だねェ…クリリン101回目のプロポーズ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "378344",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378344",
+                    "Titles": {
+                        "eng": "Frieza's Counterattack",
+                        "jpn": "あれが地球だよパパ…フリーザ親子の逆襲"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "378345",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378345",
+                    "Titles": {
+                        "eng": "The Mysterious Youth",
+                        "jpn": "フリーザはボクが倒す…悟空を待つ謎の少年"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "378346",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378346",
+                    "Titles": {
+                        "eng": "Another Super Saiyan?",
+                        "jpn": "フリーザを一刀両断!! もう一人の超サイヤ人"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "378347",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378347",
+                    "Titles": {
+                        "eng": "Welcome Back Goku",
+                        "jpn": "オッス!!ひさしぶり…帰って来た孫悟空"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "378348",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378348",
+                    "Titles": {
+                        "eng": "Mystery Revealed",
+                        "jpn": "ボクの父はベジータです…謎の少年の告白"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "378349",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378349",
+                    "Titles": {
+                        "eng": "Goku's Special Technique",
+                        "jpn": "悟空の新必殺技!? 見てくれ、オラの瞬間移動"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "378350",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378350",
+                    "Titles": {
+                        "eng": "Z Warriors Prepare",
+                        "jpn": "こえてやる…悟空を!! 戦闘民族サイヤ人の王"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "378351",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378351",
+                    "Titles": {
+                        "eng": "Goku's Ordeal",
+                        "jpn": "免許皆伝? 悟空の新たなる試練"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "378352",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378352",
+                    "Titles": {
+                        "eng": "The Androids Appear",
+                        "jpn": "気配を持たぬ殺人鬼 どいつが人造人間だ!?"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "378353",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378353",
+                    "Titles": {
+                        "eng": "A Handy Trick",
+                        "jpn": "冷血20号の悪逆非道!! 悟空、怒りの超変身"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "378354",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378354",
+                    "Titles": {
+                        "eng": "Double Trouble for Goku",
+                        "jpn": "悟空、ダブルショック!! 病と敵のはさみ撃ち"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "378355",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378355",
+                    "Titles": {
+                        "eng": "Upgrade to Super Saiyan",
+                        "jpn": "ベジータ強し!! 目覚める超サイヤ人の血"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "378356",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378356",
+                    "Titles": {
+                        "eng": "The Secret of Dr. Gero",
+                        "jpn": "20号の不敵な笑い…ドクターゲロの秘密"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "378357",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378357",
+                    "Titles": {
+                        "eng": "More Androids?!",
+                        "jpn": "事実は未来より恐ろしい!? トランクスの疑惑"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "378358",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378358",
+                    "Titles": {
+                        "eng": "Follow Dr. Gero",
+                        "jpn": "追撃!! ドクターゲロ 謎の研究所を探し出せ"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "378359",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378359",
+                    "Titles": {
+                        "eng": "Nightmare Comes True",
+                        "jpn": "そして恐怖が現実に…目覚める17号と18号!!"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "378360",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378360",
+                    "Titles": {
+                        "eng": "Goku's Assassin",
+                        "jpn": "すべてが手遅れか!? 悟空を殺す最終兵器"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "378361",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378361",
+                    "Titles": {
+                        "eng": "Deadly Beauty",
+                        "jpn": "かわいい顔で超パワー!? 18号に死角なし"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "378362",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378362",
+                    "Titles": {
+                        "eng": "No Match for the Androids",
+                        "jpn": "誰にも奴らを止められない…Z戦士全滅か!?"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "378363",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378363",
+                    "Titles": {
+                        "eng": "Last Ditch Effort",
+                        "jpn": "ピッコロの決意!!とっておきの最後の手段"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "378364",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378364",
+                    "Titles": {
+                        "eng": "Closing In",
+                        "jpn": "歩く超破壊兵器!! 人造人間が悟空に迫る"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "378365",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378365",
+                    "Titles": {
+                        "eng": "Unwelcome Discovery",
+                        "jpn": "不吉な予感!ブルマが知らせたミステリー"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "5": {
+            "ID": "31062",
+            "URL": "https://thetvdb.com/series/dragon-ball-z/seasons/official/5",
+            "Titles": {
+                "eng": "Perfect Cell Saga",
+                "jpn": "セルの編",
+                "zho": "人造人篇",
+                "fra": "Saga de Cell",
+                "spa": "Saga de Cell",
+                "pt": "Saga do Perfect Cell",
+                "ita": "Saga di Cell",
+                "kor": "셀 편",
+                "deu": "Perfekt Cell Saga",
+                "cat": "Saga de'n Cèl·lula",
+                "por": "Saga do Cell Perfeito",
+                "dan": "Den perfekte Cell Saga"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "378397",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378397",
+                    "Titles": {
+                        "eng": "Seized with Fear",
+                        "jpn": "邪悪の卵を発見!! 恐怖するトランクス"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "378398",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378398",
+                    "Titles": {
+                        "eng": "The Reunion",
+                        "jpn": "かつてない敵に向けて…超ナメック星人誕生!!"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "378399",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378399",
+                    "Titles": {
+                        "eng": "Borrowed Powers",
+                        "jpn": "カメハメ波!? 悟空の気を持つモンスター"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "378400",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378400",
+                    "Titles": {
+                        "eng": "His Name is Cell",
+                        "jpn": "憎悪と破壊の生命体!!奴の名は人造人間セル"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "378401",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378401",
+                    "Titles": {
+                        "eng": "Piccolo's Folly",
+                        "jpn": "ピッコロ痛恨の大失敗!セルが街に放たれた!"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "378402",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378402",
+                    "Titles": {
+                        "eng": "Laboratory Basement",
+                        "jpn": "セル誕生の秘密! 研究所の地下に何がある!?"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "378403",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378403",
+                    "Titles": {
+                        "eng": "Our Hero Awakes",
+                        "jpn": "悟空闘いへの目覚め!超サイヤ人を超えろ!!"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "378404",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378404",
+                    "Titles": {
+                        "eng": "Time Chamber",
+                        "jpn": "修行を急げサイヤ人!精神と時の部屋で…"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "378405",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378405",
+                    "Titles": {
+                        "eng": "The Monster is Coming",
+                        "jpn": "天を裂く激烈光弾!! ピッコロVS人造人間17号"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "378406",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378406",
+                    "Titles": {
+                        "eng": "He's Here",
+                        "jpn": "この日を待っていた!! セル・完全体への序曲"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "378407",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378407",
+                    "Titles": {
+                        "eng": "Up to Piccolo",
+                        "jpn": "捨て身の反撃及ばず！ ピッコロ燃え尽きる!!"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "378408",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378408",
+                    "Titles": {
+                        "eng": "Silent Warrior",
+                        "jpn": "残された唯一の望み…無言の戦士16号立つ!!"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "378409",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378409",
+                    "Titles": {
+                        "eng": "Say Goodbye, 17",
+                        "jpn": "17号を飲み込んだ…変身セルは超グルメ"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "378410",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378410",
+                    "Titles": {
+                        "eng": "Sacrifice",
+                        "jpn": "明日はオメエを叩きのめす!! 悟空の挑戦状"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "378411",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378411",
+                    "Titles": {
+                        "eng": "Saiyans Emerge",
+                        "jpn": "全てオレが片付ける!!新生ベジータ親子出撃"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "378412",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378412",
+                    "Titles": {
+                        "eng": "Super Vegeta",
+                        "jpn": "いきなり全開!! 光り輝くベジータの超パワー"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "378413",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378413",
+                    "Titles": {
+                        "eng": "Bow to the Prince",
+                        "jpn": "セルよひざまずけ！ 俺は超ベジータだ!!"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "378414",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378414",
+                    "Titles": {
+                        "eng": "Hour of Temptation",
+                        "jpn": "危険なプライド!! 完全体セルへの挑戦"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "378415",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378415",
+                    "Titles": {
+                        "eng": "Krillin's Decision",
+                        "jpn": "オレ悩んじゃう!! クリリンの18号破壊工作"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "378416",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378416",
+                    "Titles": {
+                        "eng": "The Last Defense",
+                        "jpn": "全宇宙に衝撃!! セル、完全体への驚異の進化"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "378417",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378417",
+                    "Titles": {
+                        "eng": "Cell is Complete",
+                        "jpn": "戦闘力無限大!! セルという名の破壊神誕生"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "378418",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378418",
+                    "Titles": {
+                        "eng": "Vegeta Must Pay",
+                        "jpn": "超ベジータ危うし！ 完全無欠の恐怖が迫る!!"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "378419",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378419",
+                    "Titles": {
+                        "eng": "Trunks Ascends",
+                        "jpn": "超サイヤ人の限界突破!! 嵐を呼ぶトランクス"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "378420",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378420",
+                    "Titles": {
+                        "eng": "Saving Throw",
+                        "jpn": "父を救え!! 天をも焦がすトランクスの怒り"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "378421",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378421",
+                    "Titles": {
+                        "eng": "Ghosts from Tomorrow",
+                        "jpn": "絶望の未来!! 地獄を生き抜いた男トランクス"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "378422",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378422",
+                    "Titles": {
+                        "eng": "The Cell Games",
+                        "jpn": "超トランクスに弱点!! セル、衝撃の爆弾発言"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "6": {
+            "ID": "32332",
+            "URL": "https://thetvdb.com/series/dragon-ball-z/seasons/official/6",
+            "Titles": {
+                "eng": "Cell Games Saga",
+                "jpn": "セルゲーム佐賀",
+                "zho": "沙鲁游戏篇",
+                "ita": "Saga del Torneo di Cell",
+                "kor": "셀 게임 편",
+                "deu": "Cell Spiele Saga",
+                "pt": "Saga dos jogos de Cell",
+                "fra": "Saga du tournoi de Cell",
+                "spa": "Saga del Torneo de Cell",
+                "cat": "Saga dels jocs d'en Cèl·lula",
+                "por": "Saga dos Jogos Cell",
+                "dan": "Cell legene Saga"
+            },
+            "# Episodes": 29,
+            "Episodes": {
+                "1": {
+                    "ID": "378423",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378423",
+                    "Titles": {
+                        "eng": "What is the Tournament?",
+                        "jpn": "悟空に迫る大決戦!! 新天下一武道会の謎"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "378424",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378424",
+                    "Titles": {
+                        "eng": "The Doomsday Broadcast",
+                        "jpn": "視聴率100％!! 死を呼ぶセルゲーム独占生放送"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "378425",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378425",
+                    "Titles": {
+                        "eng": "Meet Me in the Ring",
+                        "jpn": "悟空と悟飯…ヒーロー親子究極レベルアップ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "378426",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378426",
+                    "Titles": {
+                        "eng": "No Worries Here",
+                        "jpn": "悟空の余裕!? 休んで待とうセルゲーム"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "378427",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378427",
+                    "Titles": {
+                        "eng": "A Girl Named Lime",
+                        "jpn": "戦士の休息…少女と嘘と悟飯の決意"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "378428",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378428",
+                    "Titles": {
+                        "eng": "Memories of Gohan",
+                        "jpn": "秘められた力!! 悟飯が赤ン坊だった頃"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "378429",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378429",
+                    "Titles": {
+                        "eng": "A New Guardian",
+                        "jpn": "神様を探し出せ!! 悟空、大瞬間移動"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "378430",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378430",
+                    "Titles": {
+                        "eng": "Dende's Dragon",
+                        "jpn": "デンデの初仕事!! ドラゴンボール復活だ"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "378431",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378431",
+                    "Titles": {
+                        "eng": "The Puzzle of General Tao",
+                        "jpn": "悟空に難関!? 神龍球をとり戻せ"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "378432",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378432",
+                    "Titles": {
+                        "eng": "The Games Begin",
+                        "jpn": "セルに挑むものたち!! 決戦の幕開け"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "378433",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378433",
+                    "Titles": {
+                        "eng": "Losers Fight First",
+                        "jpn": "ちょっと待った!! サタン軍団大暴れ"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "378434",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378434",
+                    "Titles": {
+                        "eng": "Goku vs. Cell",
+                        "jpn": "勝負だ悟空!! 超緊迫セルゲーム"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "378435",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378435",
+                    "Titles": {
+                        "eng": "Cell's Bag of Tricks",
+                        "jpn": "地球直撃!! セルの特大カメハメ波"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "378436",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378436",
+                    "Titles": {
+                        "eng": "No More Rules",
+                        "jpn": "敗北か死か!? 悟空、逆転の秘策"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "378437",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378437",
+                    "Titles": {
+                        "eng": "The Fight is Over",
+                        "jpn": "死闘に決着!! 悟空の降参宣言!?"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "378438",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378438",
+                    "Titles": {
+                        "eng": "Faith in a Boy",
+                        "jpn": "最強の名を継ぐ者…その名は悟飯"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "378439",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378439",
+                    "Titles": {
+                        "eng": "Gohan's Plea",
+                        "jpn": "怒れ悟飯 眠れる力を呼び起こせ"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "378440",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378440",
+                    "Titles": {
+                        "eng": "Android Explosion",
+                        "jpn": "ちっちゃな脅威!! セルジュニア来襲"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "378441",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378441",
+                    "Titles": {
+                        "eng": "Cell Juniors Attack!",
+                        "jpn": "16号無残!! 動き出す怒りの超悟飯"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "378442",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378442",
+                    "Titles": {
+                        "eng": "Awakening",
+                        "jpn": "吹荒れる真の力!! セルジュニア粉砕"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "378443",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378443",
+                    "Titles": {
+                        "eng": "The Unstoppable Gohan",
+                        "jpn": "セルをKO!! たった2発の超鉄拳"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "378444",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378444",
+                    "Titles": {
+                        "eng": "Cell's Break Down",
+                        "jpn": "セルに異変!!崩された完全体"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "378445",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378445",
+                    "Titles": {
+                        "eng": "A Hero's Farewell!",
+                        "jpn": "バイバイみんな!! 悟空最後の瞬間移動"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "378446",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378446",
+                    "Titles": {
+                        "eng": "Cell Returns!",
+                        "jpn": "白昼の悪夢!!恐怖はより完璧に"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "378447",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378447",
+                    "Titles": {
+                        "eng": "The Horror Won't End",
+                        "jpn": "悟空から悟飯へ…父の魂は伝わった"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "378448",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378448",
+                    "Titles": {
+                        "eng": "Save the World",
+                        "jpn": "戦いは終わった…ありがとう孫悟空"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "378449",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378449",
+                    "Titles": {
+                        "eng": "Goku's Decision",
+                        "jpn": "オラあの世で修行する!! 笑顔の別れ"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "378450",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378450",
+                    "Titles": {
+                        "eng": "One More Wish",
+                        "jpn": "新しい日々…父さん! ボクがんばる"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "378451",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/378451",
+                    "Titles": {
+                        "eng": "Free the Future",
+                        "jpn": "もう一つの結末!! 未来はオレが守る"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "7": {
+            "ID": "32333",
+            "URL": "https://thetvdb.com/series/dragon-ball-z/seasons/official/7",
+            "Titles": {
+                "eng": "World Tournament Saga",
+                "jpn": "第25回天下一武道会編",
+                "zho": "第25届天下第一武道会篇",
+                "fra": "Saga du 25ème Tenka Ichi Budōkai",
+                "spa": "El 25º torneo de las artes marciales",
+                "pt": "Saga do Torneio Mundial",
+                "ita": "Saga del Torneo Mondiale",
+                "kor": "제25회 천하제일 무술대회 편",
+                "deu": "Weltmeisterschaft Saga",
+                "cat": "Saga del Torneig mundial d'arts marcials",
+                "por": "Saga do Torneio Mundial",
+                "dan": "Verdensmesterskab i Kampsport Saga"
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "411214",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411214",
+                    "Titles": {
+                        "eng": "Warriors of the Dead",
+                        "jpn": "大感激!! いたぞ!あの世のスゲエ奴"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "411215",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411215",
+                    "Titles": {
+                        "eng": "Tournament Begins",
+                        "jpn": "あの世一はオラだ!! 歴代の勇者大集合"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "411216",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411216",
+                    "Titles": {
+                        "eng": "Water Fight",
+                        "jpn": "大界王星熱狂!! まきおこせ悟空旋風"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "411217",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411217",
+                    "Titles": {
+                        "eng": "Final Round",
+                        "jpn": "炎の決勝!! 悟空かパイクーハンか!?"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "411218",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411218",
+                    "Titles": {
+                        "eng": "Goku vs. Pikkon",
+                        "jpn": "逃すな勝利!! 決めろ超速かめはめ波"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "411219",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411219",
+                    "Titles": {
+                        "eng": "Gohan Goes To High School",
+                        "jpn": "あれから7年! 今日から僕は高校生"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "411507",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411507",
+                    "Titles": {
+                        "eng": "I am Saiyaman",
+                        "jpn": "愛と正義のグレートサイヤマン参上"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "411508",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411508",
+                    "Titles": {
+                        "eng": "Gohan's First Date",
+                        "jpn": "悟飯のハチャメチャ初デート!?"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "411509",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411509",
+                    "Titles": {
+                        "eng": "Rescue Videl",
+                        "jpn": "悟飯、緊急出動!ビーデルを救え!!"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "411510",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411510",
+                    "Titles": {
+                        "eng": "Blackmail",
+                        "jpn": "盗難事件発生!! 犯人はサイヤマン!?"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "411511",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411511",
+                    "Titles": {
+                        "eng": "I'll Fight Too!",
+                        "jpn": "悟空も復活!? 天下一武道会出場だ!!"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "411512",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411512",
+                    "Titles": {
+                        "eng": "The Newest Super Saiyan",
+                        "jpn": "悟飯もビックリ! 悟天の爆発パワー"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "411513",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411513",
+                    "Titles": {
+                        "eng": "Take Flight Videl",
+                        "jpn": "あっ飛べた!! ビーデルの舞空術入門"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "411514",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411514",
+                    "Titles": {
+                        "eng": "Gather For the Tournament",
+                        "jpn": "おかえり悟空! Ｚチーム全員集合!!"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "411515",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411515",
+                    "Titles": {
+                        "eng": "Camera Shy",
+                        "jpn": "危うしサイヤマン! 激写に御用心!?"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "411516",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411516",
+                    "Titles": {
+                        "eng": "The World Tournament",
+                        "jpn": "ハンパじゃないぜ!! チビトランクス"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "411517",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411517",
+                    "Titles": {
+                        "eng": "Trunks vs. Goten",
+                        "jpn": "ボクの出番だ! 悟天、緊張の第一戦"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "411518",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411518",
+                    "Titles": {
+                        "eng": "Best of the Boys",
+                        "jpn": "うれしさ百万倍! 少年王者決定!!"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "411519",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411519",
+                    "Titles": {
+                        "eng": "Big Trouble, Little Trunks",
+                        "jpn": "どうするサタン!? 史上最大のピンチ"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "411520",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411520",
+                    "Titles": {
+                        "eng": "Who Will Fight Who?",
+                        "jpn": "対戦相手決定!! 早くやろうぜ一回戦"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "411521",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411521",
+                    "Titles": {
+                        "eng": "Forfeit of Piccolo!",
+                        "jpn": "どうしたピッコロ!! まさかの不戦敗"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "411522",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411522",
+                    "Titles": {
+                        "eng": "A Dark and Secret Power",
+                        "jpn": "不死身で不気味!? スポポビッチの謎"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "411523",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411523",
+                    "Titles": {
+                        "eng": "Videl is Crushed",
+                        "jpn": "ビーデル無残!! 出るか怒りの超悟飯"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "411524",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411524",
+                    "Titles": {
+                        "eng": "Identities Revealed",
+                        "jpn": "バレちゃった!! サイヤマンは孫悟飯"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "411566",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411566",
+                    "Titles": {
+                        "eng": "Energy Drain",
+                        "jpn": "うごめく陰謀!! 悟飯の力が奪われた"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "8": {
+            "ID": "37632",
+            "URL": "https://thetvdb.com/series/dragon-ball-z/seasons/official/8",
+            "Titles": {
+                "eng": "Majin Buu Saga",
+                "jpn": "魔人ブウの編",
+                "zho": "魔人布欧篇",
+                "fra": "Saga de Majin Boo",
+                "spa": "Saga de Majin Boo",
+                "pt": "Saga de Majin Boo",
+                "ita": "Saga di Majin Buu",
+                "kor": "마인 부우 편",
+                "deu": "Majin Buu Saga",
+                "cat": "Saga de'n Bu",
+                "por": "Saga do Majin Buu",
+                "dan": "Majin Buu saga"
+            },
+            "# Episodes": 34,
+            "Episodes": {
+                "1": {
+                    "ID": "411525",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411525",
+                    "Titles": {
+                        "eng": "The Wizard's Curse",
+                        "jpn": "黒幕登場!! 悪の魔導師バビディ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "411526",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411526",
+                    "Titles": {
+                        "eng": "King of the Demons",
+                        "jpn": "待ち受けるワナ!!魔界からの挑戦状"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "411527",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411527",
+                    "Titles": {
+                        "eng": "Vegeta Attacks",
+                        "jpn": "なめるな!! ベジータ怒りの初戦突破"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "411528",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411528",
+                    "Titles": {
+                        "eng": "Next Up, Goku",
+                        "jpn": "悟空パワー全開!! ブッ飛べヤコン"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "411529",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411529",
+                    "Titles": {
+                        "eng": "Battle Supreme",
+                        "jpn": "大誤算!! サタンVS 3人の超戦士!?"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "411530",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411530",
+                    "Titles": {
+                        "eng": "Eighteen Unmasks",
+                        "jpn": "強いぜチビッコ!! 18号大苦戦!?"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "411531",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411531",
+                    "Titles": {
+                        "eng": "Pay to Win",
+                        "jpn": "たちはだかる魔王! 出番だ悟飯!!"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "411532",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411532",
+                    "Titles": {
+                        "eng": "Heart of a Villain",
+                        "jpn": "見つけられた邪心!! ダーブラの名案"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "411533",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411533",
+                    "Titles": {
+                        "eng": "The Dark Prince Returns",
+                        "jpn": "破壊王子ベジータ復活!! 武闘会乱入"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "411534",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411534",
+                    "Titles": {
+                        "eng": "Vegeta's Pride",
+                        "jpn": "宿命の超対決!! 激突悟空VSベジータ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "411535",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411535",
+                    "Titles": {
+                        "eng": "The Long Awaited Fight",
+                        "jpn": "待ってろバビディ!! 野望は許さない"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "411536",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411536",
+                    "Titles": {
+                        "eng": "Magic Ball of Buu",
+                        "jpn": "解けた封印! 出るぞ凶悪魔人ブウ!!"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "411537",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411537",
+                    "Titles": {
+                        "eng": "Buu is Hatched!",
+                        "jpn": "復活させない!! 抵抗のかめはめ波"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "411538",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411538",
+                    "Titles": {
+                        "eng": "The Losses Begin",
+                        "jpn": "絶望へ一直線!? 嘆きの界王神"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "411539",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411539",
+                    "Titles": {
+                        "eng": "The Terror of Mr. Buu",
+                        "jpn": "魔人恐るべし!! 悟飯に迫る死の恐怖"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "411540",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411540",
+                    "Titles": {
+                        "eng": "Meal Time",
+                        "jpn": "食べちゃうぞ!! 腹ペコ魔人の超能力"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "411541",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411541",
+                    "Titles": {
+                        "eng": "The Warrior's Decision",
+                        "jpn": "戦士の決意!! 魔人はオレが始末する"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "411542",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411542",
+                    "Titles": {
+                        "eng": "Final Atonement",
+                        "jpn": "愛する者のために…ベジータ散る!!"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "411543",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411543",
+                    "Titles": {
+                        "eng": "Evil Lives On",
+                        "jpn": "悪夢ふたたび!! 生きていた魔人ブウ"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "411544",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411544",
+                    "Titles": {
+                        "eng": "Find the Dragon Balls",
+                        "jpn": "ビーデルたちの奮闘! 探せ神龍球"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "411545",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411545",
+                    "Titles": {
+                        "eng": "Revival",
+                        "jpn": "でっかい希望!! チビたちの新必殺技"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "411546",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411546",
+                    "Titles": {
+                        "eng": "Global Announcement",
+                        "jpn": "悟天トランクス全世界に指名手配"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "411548",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411548",
+                    "Titles": {
+                        "eng": "Learn to Fuse",
+                        "jpn": "悟飯復活 界王神の秘密兵器!?"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "411549",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411549",
+                    "Titles": {
+                        "eng": "The Z Sword",
+                        "jpn": "抜けたァ～!! 伝説のゼットソード"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "411550",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411550",
+                    "Titles": {
+                        "eng": "Race to Capsule Corp",
+                        "jpn": "狙われた西の都！ 止まれ魔人ブウ!!"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "411551",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411551",
+                    "Titles": {
+                        "eng": "Super Saiyan 3?!",
+                        "jpn": "アッと驚く大変身!! 超サイヤ人3"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "411552",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411552",
+                    "Titles": {
+                        "eng": "Buu's Mutiny",
+                        "jpn": "バイバイ･バビディ!! 魔人ブウ反逆"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "411553",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411553",
+                    "Titles": {
+                        "eng": "The Fusion Dance",
+                        "jpn": "メチャカッコ悪い!? 特訓変身ポーズ"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "411554",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411554",
+                    "Titles": {
+                        "eng": "Goku's Time is Up",
+                        "jpn": "じゃあな みんな!! 悟空あの世に帰る"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "411555",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411555",
+                    "Titles": {
+                        "eng": "Return to Other World",
+                        "jpn": "悟飯はどこだ!? 界王神界の猛特訓"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "411556",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411556",
+                    "Titles": {
+                        "eng": "Out From the Broken Sword",
+                        "jpn": "ウソだろ!? ゼットソードが折れちゃった"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "411557",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411557",
+                    "Titles": {
+                        "eng": "Gotenks is Born",
+                        "jpn": "合体超人誕生!! その名はゴテンクス"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "411558",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411558",
+                    "Titles": {
+                        "eng": "Unlikely Friendship",
+                        "jpn": "最終兵器始動!? サタンは地球を救う"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "411547",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/411547",
+                    "Titles": {
+                        "eng": "I Kill No More",
+                        "jpn": "殺すのやめた!! 魔人ブウよい子宣言"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "9": {
+            "ID": "41327",
+            "URL": "https://thetvdb.com/series/dragon-ball-z/seasons/official/9",
+            "Titles": {
+                "eng": "Kid Buu Saga",
+                "jpn": "魔人ブウ激闘編",
+                "zho": "魔人布欧激斗篇",
+                "fra": "Saga de Boo",
+                "spa": "Saga de Kid Boo",
+                "pt": "Saga de Kid Boo",
+                "ita": "Saga di Kid Bu",
+                "kor": "마인 부우 격투편",
+                "deu": "Kid Buu Saga",
+                "cat": "Saga de'n Bu Petit",
+                "por": "Saga do Kid Buu",
+                "dan": "Kid Buu Saga"
+            },
+            "# Episodes": 38,
+            "Episodes": {
+                "1": {
+                    "ID": "440671",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/440671",
+                    "Titles": {
+                        "eng": "The Evil of Men",
+                        "jpn": "逃げろサタン!! 怒りの魔人ブウ出現"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "440672",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/440672",
+                    "Titles": {
+                        "eng": "Buu Against Buu",
+                        "jpn": "どっちが勝つの!? 善悪ブウブウ対決"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "440673",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/440673",
+                    "Titles": {
+                        "eng": "Empty Planet",
+                        "jpn": "待ったなしの破局!! 地球人類絶滅"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "618461",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618461",
+                    "Titles": {
+                        "eng": "Time Struggle",
+                        "jpn": "特訓成功!! これで終わりだ魔人ブウ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "618471",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618471",
+                    "Titles": {
+                        "eng": "Super Moves of Gotenks",
+                        "jpn": "本気で行くぜ!! 超ゴテンクス全開"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "618481",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618481",
+                    "Titles": {
+                        "eng": "Trapped in Forever",
+                        "jpn": "やったぜ!! オバケで成功ブウ退治!?"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "618491",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618491",
+                    "Titles": {
+                        "eng": "Feeding Frenzy",
+                        "jpn": "異次元からの脱出!! 超ゴテンクス3"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "618501",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618501",
+                    "Titles": {
+                        "eng": "Gotenks is Awesome",
+                        "jpn": "ノリすぎ!? ブウブウバレーボール"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "618511",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618511",
+                    "Titles": {
+                        "eng": "Unlucky Break",
+                        "jpn": "まさにグレート!! 新生悟飯地球へ"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "618521",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618521",
+                    "Titles": {
+                        "eng": "A Whole New Gohan",
+                        "jpn": "ブウを圧倒!! 悟飯のミラクルパワー"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "618531",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618531",
+                    "Titles": {
+                        "eng": "Search For Survivors",
+                        "jpn": "やったか!? 魔人ブウ大爆発"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "618541",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618541",
+                    "Titles": {
+                        "eng": "Majin Buu Transforms",
+                        "jpn": "ブウ最悪の反則!! ゴテンクス吸収!?"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "618551",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618551",
+                    "Titles": {
+                        "eng": "The Old Kai's Weapon",
+                        "jpn": "全宇宙のために…よみがえれ孫悟空"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "618561",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618561",
+                    "Titles": {
+                        "eng": "Ready to Fuse?",
+                        "jpn": "奇跡は一度…なるか悟飯との超合体"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "618571",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618571",
+                    "Titles": {
+                        "eng": "Union of Rivals",
+                        "jpn": "合体!! ベジータの誇りと悟空の怒り"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "618581",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618581",
+                    "Titles": {
+                        "eng": "Meet Vegito",
+                        "jpn": "壮絶パワー!! 究極を超えるベジット"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "618591",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618591",
+                    "Titles": {
+                        "eng": "Rip In The Universe",
+                        "jpn": "次元に亀裂!! ブウがキレちゃった!?"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "618601",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618601",
+                    "Titles": {
+                        "eng": "Vegito...Downsized",
+                        "jpn": "ブウの奥の手!! アメ玉になっちゃえ"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "618611",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618611",
+                    "Titles": {
+                        "eng": "The Incredible Fighting Candy",
+                        "jpn": "ヒーロー喪失!? 吸収されたベジット"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "618621",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618621",
+                    "Titles": {
+                        "eng": "The Innards of Buu",
+                        "jpn": "魔の迷宮!! ブウの腹に何がある!?"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "618631",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618631",
+                    "Titles": {
+                        "eng": "Mind Trap",
+                        "jpn": "悪夢か幻か!? 悟空と悟飯の親子対決"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "618641",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618641",
+                    "Titles": {
+                        "eng": "Deadly Vision",
+                        "jpn": "魔人の秘密!! ブウの中に2人のブウ"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "618651",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618651",
+                    "Titles": {
+                        "eng": "Evil Kid Buu!",
+                        "jpn": "出口はどこだ!? 崩れるブウから脱出"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "618661",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618661",
+                    "Titles": {
+                        "eng": "End of Earth",
+                        "jpn": "地球消滅!! ブウ邪悪への逆変身"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "618671",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618671",
+                    "Titles": {
+                        "eng": "True Saiyans Fight Alone",
+                        "jpn": "ブウ来襲!! 界王神界で決着だ"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "618681",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618681",
+                    "Titles": {
+                        "eng": "Battle for the Universe Begins",
+                        "jpn": "未来をつかめ!! 宇宙をかけた大決戦"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "618691",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618691",
+                    "Titles": {
+                        "eng": "Vegeta's Respect",
+                        "jpn": "ベジータ脱帽!! 悟空おまえがNo.1だ"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "618701",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618701",
+                    "Titles": {
+                        "eng": "Minute of Desperation",
+                        "jpn": "耐え抜けベジータ!! 命がけの1分間"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "618711",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618711",
+                    "Titles": {
+                        "eng": "Old Buu Emerges",
+                        "jpn": "サタンをいじめるな!! 元祖ブウ復活"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "618721",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618721",
+                    "Titles": {
+                        "eng": "Earth Reborn",
+                        "jpn": "ベジータの秘策!! 神龍と2つの願い"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "618731",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618731",
+                    "Titles": {
+                        "eng": "Call To Action",
+                        "jpn": "最後の希望!! 作るぜでっかい元気玉"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "618741",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618741",
+                    "Titles": {
+                        "eng": "People of Earth Unite",
+                        "jpn": "超感激!! できたぜみんなの元気玉"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "618751",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618751",
+                    "Titles": {
+                        "eng": "Spirit Bomb Triumphant",
+                        "jpn": "やっぱり最強孫悟空!! 魔人ブウ消滅"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "618761",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618761",
+                    "Titles": {
+                        "eng": "Celebrations With Majin Buu",
+                        "jpn": "戻った平和!! 正義の味方魔人ブウ!?"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "618771",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618771",
+                    "Titles": {
+                        "eng": "He's Always Late",
+                        "jpn": "遅いぜ悟空！ みんなでパーティ!!"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "618781",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618781",
+                    "Titles": {
+                        "eng": "Granddaughter Pan",
+                        "jpn": "悟空おじいちゃん！ 私がパンよ!!"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "618791",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618791",
+                    "Titles": {
+                        "eng": "Buu's Reincarnation",
+                        "jpn": "オイラはウーブ！ 今10歳で元魔人!?"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "618801",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dragon-ball-z/episodes/618801",
+                    "Titles": {
+                        "eng": "Goku's Next Journey",
+                        "jpn": "もっと強く!! 悟空の夢は超でっけぇ"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

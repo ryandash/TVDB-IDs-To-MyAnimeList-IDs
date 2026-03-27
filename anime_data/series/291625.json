@@ -1,0 +1,166 @@
+{
+    "URL": "https://thetvdb.com/series/triage-x",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt6410184/",
+        "https://www.themoviedb.org/tv/62227"
+    ],
+    "Titles": {
+        "eng": "Triage X",
+        "jpn": "トリアージX"
+    },
+    "Aliases": [],
+    "Modified": "2025-06-03",
+    "Seasons": {
+        "0": {
+            "ID": "612148",
+            "URL": "https://thetvdb.com/series/triage-x/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "5263249",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/triage-x/episodes/5263249",
+                    "Titles": {
+                        "eng": "OVA - Recollection XOXO",
+                        "jpn": "RECOLLECTION XOXO"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "617341",
+            "URL": "https://thetvdb.com/series/triage-x/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "fra": "Prescription of Hell"
+            },
+            "# Episodes": 10,
+            "Episodes": {
+                "1": {
+                    "ID": "5168658",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triage-x/episodes/5168658",
+                    "Titles": {
+                        "eng": "Prescription of Hell",
+                        "jpn": "PRESCRIPTION of HELL"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5187109",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triage-x/episodes/5187109",
+                    "Titles": {
+                        "eng": "Surgical Strike",
+                        "jpn": "SURGICAL STRIKE"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5187110",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triage-x/episodes/5187110",
+                    "Titles": {
+                        "eng": "Midnight Guerrilla",
+                        "jpn": "MIDNIGHT GUERRILLA"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5187111",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triage-x/episodes/5187111",
+                    "Titles": {
+                        "eng": "Fire Game",
+                        "jpn": "FIRE GAME"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5187112",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triage-x/episodes/5187112",
+                    "Titles": {
+                        "eng": "Sacrifice Idol",
+                        "jpn": "SACRIFICE IDOL"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5217388",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triage-x/episodes/5217388",
+                    "Titles": {
+                        "eng": "Galactic Onstage",
+                        "jpn": "GALACTIC ON STAGE"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5217389",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triage-x/episodes/5217389",
+                    "Titles": {
+                        "eng": "Chaos World",
+                        "jpn": "CHAOS WORLD"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5217390",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triage-x/episodes/5217390",
+                    "Titles": {
+                        "eng": "Closed Heart Shelter",
+                        "jpn": "CLOSED HEART SHELTER"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5217391",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triage-x/episodes/5217391",
+                    "Titles": {
+                        "eng": "Limit Break",
+                        "jpn": "LIMIT BREAK"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5217392",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triage-x/episodes/5217392",
+                    "Titles": {
+                        "eng": "How's the Water?",
+                        "jpn": "湯加減いかが?"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

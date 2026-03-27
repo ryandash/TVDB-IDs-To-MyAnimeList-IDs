@@ -1,0 +1,1792 @@
+{
+    "URL": "https://thetvdb.com/series/beyblade",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Family",
+        "Fantasy",
+        "Science Fiction",
+        "Sport",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0328733/",
+        "https://www.themoviedb.org/tv/54728"
+    ],
+    "Titles": {
+        "eng": "Beyblade",
+        "jpn": "爆転シュート ベイブレード"
+    },
+    "Aliases": [
+        "Beyblade: V-Force",
+        "Beyblade G Revolution",
+        "Explosive Shoot Beyblade",
+        "Explosive Shoot Beyblade 2002",
+        "Explosive Shoot Beyblade G Revolution",
+        "爆転シュートベイブレード2002",
+        "爆転シュート ベイブレード Gレボリューション",
+        "Bakuten Shoot Beyblade",
+        "Bakuten Shoot Beyblade 2002",
+        "Bakuten Shoot Beyblade G-Revolution"
+    ],
+    "Modified": "2025-05-22",
+    "Seasons": {
+        "0": {
+            "ID": "18267",
+            "URL": "https://thetvdb.com/series/beyblade/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "22997",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22997",
+                    "Titles": {
+                        "eng": "Beyblade: Behind the Revolution",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "1079",
+            "URL": "https://thetvdb.com/series/beyblade/seasons/official/1",
+            "Titles": {
+                "eng": "Beyblade",
+                "jpn": "爆転バトル、ゴー・シュート！",
+                "spa": "Beyblade"
+            },
+            "# Episodes": 51,
+            "Episodes": {
+                "1": {
+                    "ID": "22895",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22895",
+                    "Titles": {
+                        "eng": "The Blade Raider",
+                        "jpn": "爆転バトル、ゴー・シュート！"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "22896",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22896",
+                    "Titles": {
+                        "eng": "Day of the Dragoon",
+                        "jpn": "ほえろ青龍！　ドラグーン誕生！"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "22897",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22897",
+                    "Titles": {
+                        "eng": "Take It to the Max",
+                        "jpn": "新しき友、その名はマックス"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "22898",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22898",
+                    "Titles": {
+                        "eng": "The Qualifier Begins",
+                        "jpn": "開幕！　バトルトーナメント"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "22899",
+                    "TYPE": "OVA",
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22899",
+                    "Titles": {
+                        "eng": "Draciel of Approval",
+                        "jpn": "激突！　マックスVSカイ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "22900",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22900",
+                    "Titles": {
+                        "eng": "Dragoon Storm",
+                        "jpn": "吹き荒れろ！　ドラグーンストーム"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "22901",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22901",
+                    "Titles": {
+                        "eng": "Thirteen Candles",
+                        "jpn": "タカオVSカイ　宿命の対決"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "22902",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22902",
+                    "Titles": {
+                        "eng": "Bladin' In the Streets",
+                        "jpn": "結成！　BBAチーム世界へ"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "22903",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22903",
+                    "Titles": {
+                        "eng": "Showdown in Hong Kong",
+                        "jpn": "新たなる聖獣　白虎族"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "22904",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22904",
+                    "Titles": {
+                        "eng": "Battle in the Sky",
+                        "jpn": "駆け上がれ！　アジア大会！"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "22905",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22905",
+                    "Titles": {
+                        "eng": "Bye Bye Bit Beast",
+                        "jpn": "レイ、白虎を失う！"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "22906",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22906",
+                    "Titles": {
+                        "eng": "Adios Bladebreakers",
+                        "jpn": "さらばＢＢＡチーム！"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "22907",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22907",
+                    "Titles": {
+                        "eng": "Crouching Lion, Hidden Tiger",
+                        "jpn": "さけべレイ！　うなれ白虎！"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "22908",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22908",
+                    "Titles": {
+                        "eng": "The Race is On!",
+                        "jpn": "不戦敗？　分断のＢＢＡチーム"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "22909",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22909",
+                    "Titles": {
+                        "eng": "Going for the Gold",
+                        "jpn": "決戦！　アジアの頂点をかけて！"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "22910",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22910",
+                    "Titles": {
+                        "eng": "My Enemy, My Friend",
+                        "jpn": "白虎VS山猫"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "22911",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22911",
+                    "Titles": {
+                        "eng": "A Score to Settle",
+                        "jpn": "ファイナルバトル！　漆黒の稲妻！"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "22912",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22912",
+                    "Titles": {
+                        "eng": "A Star is Born",
+                        "jpn": "負けるな！　小さなブレーダー"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "22913",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22913",
+                    "Titles": {
+                        "eng": "Under the Microscope",
+                        "jpn": "上陸、新たな戦場！"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "22914",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22914",
+                    "Titles": {
+                        "eng": "It's All Relative",
+                        "jpn": "戦慄のアメリカン・パワー！"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "22915",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22915",
+                    "Titles": {
+                        "eng": "Practice Makes Perfect!",
+                        "jpn": "特訓！　新しき力を求めて"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "22916",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22916",
+                    "Titles": {
+                        "eng": "Blading with the Stars",
+                        "jpn": "大統領ＶＳ世界選抜！"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "22917",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22917",
+                    "Titles": {
+                        "eng": "Showdown in Vegas",
+                        "jpn": "開幕　アメリカ大会！"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "22918",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22918",
+                    "Titles": {
+                        "eng": "Viva Las Vegas",
+                        "jpn": "アメリカンヒーロー、マイケルの力"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "22919",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22919",
+                    "Titles": {
+                        "eng": "My Way or the Highway",
+                        "jpn": "準決勝、超高速サーキット！！"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "22920",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22920",
+                    "Titles": {
+                        "eng": "Catch a Shooting All-Star!",
+                        "jpn": "激突！　アメリカ大会決勝戦"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "22921",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22921",
+                    "Titles": {
+                        "eng": "The Battle of America",
+                        "jpn": "灼熱のスコーピオン！"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "22922",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22922",
+                    "Titles": {
+                        "eng": "Bottom of the Ninth",
+                        "jpn": "決着！　アメリカ大会！！"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "22923",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22923",
+                    "Titles": {
+                        "eng": "Play It Again, Dizzi!",
+                        "jpn": "ＢＢＡ　熱き戦いの軌跡"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "22924",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22924",
+                    "Titles": {
+                        "eng": "Cruising for a Bruising",
+                        "jpn": "聖獣を従える者"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "22925",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22925",
+                    "Titles": {
+                        "eng": "London Calling",
+                        "jpn": "ヨーロッパ、波乱の旅立ち"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "22926",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22926",
+                    "Titles": {
+                        "eng": "Darkness at the End of the Tunnel...",
+                        "jpn": "強襲！　闇のブレーダー！"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "22927",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22927",
+                    "Titles": {
+                        "eng": "Last Tangle in Paris",
+                        "jpn": "黒い影の軍団"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "22928",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22928",
+                    "Titles": {
+                        "eng": "Art Attack",
+                        "jpn": "華麗なる聖獣使い"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "22929",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22929",
+                    "Titles": {
+                        "eng": "When in Rome... Beyblade!",
+                        "jpn": "コロッセオの決闘！"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "22930",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22930",
+                    "Titles": {
+                        "eng": "Déjà Vu All Over Again",
+                        "jpn": "倒せ！アンピスバイナ"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "22931",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22931",
+                    "Titles": {
+                        "eng": "A Knight to Remember!",
+                        "jpn": "女王陛下のブレーダー"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "22932",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22932",
+                    "Titles": {
+                        "eng": "Olympia Challenge",
+                        "jpn": "結成！最強のユーロチーム"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "22933",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22933",
+                    "Titles": {
+                        "eng": "A Majestic Battle... A Majestic Victory?",
+                        "jpn": "決めろ！　勝利への力"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "22934",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22934",
+                    "Titles": {
+                        "eng": "Hot Battle in a Cold Town",
+                        "jpn": "決勝の地ロシア"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "22935",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22935",
+                    "Titles": {
+                        "eng": "Out of the Past",
+                        "jpn": "いまわしき記憶の扉"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "22936",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22936",
+                    "Titles": {
+                        "eng": "Drawn to the Darkness",
+                        "jpn": "最強を望む者"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "22937",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22937",
+                    "Titles": {
+                        "eng": "Live and Let Kai!",
+                        "jpn": "悪夢のセレモニーマッチ"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "22938",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22938",
+                    "Titles": {
+                        "eng": "Losing Kai",
+                        "jpn": "さらばカイ！"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "22939",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22939",
+                    "Titles": {
+                        "eng": "Breaking the Ice",
+                        "jpn": "バイカル湖の決闘"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "22940",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22940",
+                    "Titles": {
+                        "eng": "First Strike",
+                        "jpn": "ボーグ襲来！"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "22941",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22941",
+                    "Titles": {
+                        "eng": "A Lesson for Tyson",
+                        "jpn": "再会！　ユーロチーム"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "22942",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22942",
+                    "Titles": {
+                        "eng": "Victory in Defeat",
+                        "jpn": "カイの選択"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "22943",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22943",
+                    "Titles": {
+                        "eng": "A Wicked Wind Blows",
+                        "jpn": "白虎の叫び"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "22944",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22944",
+                    "Titles": {
+                        "eng": "New and Cyber-Improved...",
+                        "jpn": "雪原の黙示録"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "22945",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22945",
+                    "Titles": {
+                        "eng": "Final Showdown!",
+                        "jpn": "ベイブレードよ永遠に！"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "1080",
+            "URL": "https://thetvdb.com/series/beyblade/seasons/official/2",
+            "Titles": {
+                "eng": "Beyblade V-Force",
+                "jpn": "爆転シュート ベイブレード 2002",
+                "por": "V-Force",
+                "spa": "Beyblade: V-Force"
+            },
+            "# Episodes": 51,
+            "Episodes": {
+                "1": {
+                    "ID": "22946",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22946",
+                    "Titles": {
+                        "eng": "Shot Down in Flames!",
+                        "jpn": "新たなる敵"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "22947",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22947",
+                    "Titles": {
+                        "eng": "The Search for Mr. X",
+                        "jpn": "謎のブレーダーハンター達"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "22948",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22948",
+                    "Titles": {
+                        "eng": "Unseen and Unleashed",
+                        "jpn": "見えない聖獣"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "22949",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22949",
+                    "Titles": {
+                        "eng": "Searching for Dragoon",
+                        "jpn": "恐るべきIQブレーダー"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "22950",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22950",
+                    "Titles": {
+                        "eng": "Guess Who's Back in Town?",
+                        "jpn": "よみがえる、カイ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "22951",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22951",
+                    "Titles": {
+                        "eng": "The Magtram Threat",
+                        "jpn": "脅威のマグトラム"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "22952",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22952",
+                    "Titles": {
+                        "eng": "The Reunion Begins",
+                        "jpn": "仕組まれた挑戦"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "22953",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22953",
+                    "Titles": {
+                        "eng": "Return of the Bladebreakers!",
+                        "jpn": "復活！BBAチーム"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "22954",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22954",
+                    "Titles": {
+                        "eng": "La Isla Bey-Nita",
+                        "jpn": "密林のバトルスタジアム"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "22955",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22955",
+                    "Titles": {
+                        "eng": "The Island of No Return",
+                        "jpn": "暗闇の激"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "22956",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22956",
+                    "Titles": {
+                        "eng": "The Evil Island of Dr. B",
+                        "jpn": "孤島の大決戦"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "22957",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22957",
+                    "Titles": {
+                        "eng": "Bring Me Dranzer",
+                        "jpn": "吠えろ！ドランザー"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "22958",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22958",
+                    "Titles": {
+                        "eng": "Testing One, Two, Three",
+                        "jpn": "掟やぶりのベイバトル"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "22959",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22959",
+                    "Titles": {
+                        "eng": "Gideon Raises Gerry!",
+                        "jpn": "作られた聖獣"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "22960",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22960",
+                    "Titles": {
+                        "eng": "Show Me the Bit-Beasts!",
+                        "jpn": "聖獣を見てみたい！"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "22961",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22961",
+                    "Titles": {
+                        "eng": "Team Psykick's New Recruit",
+                        "jpn": "サイバーブレーダーの悲劇"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "22962",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22962",
+                    "Titles": {
+                        "eng": "Hilary's Bey-B-Que",
+                        "jpn": "宿命のプレリュード"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "22963",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22963",
+                    "Titles": {
+                        "eng": "When Friends Become Foes",
+                        "jpn": "再会のケイン"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "22964",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22964",
+                    "Titles": {
+                        "eng": "Their Own Private Battles",
+                        "jpn": "それぞれの戦い"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "22965",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22965",
+                    "Titles": {
+                        "eng": "The Power Half Hour!!",
+                        "jpn": "明日への決意"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "22966",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22966",
+                    "Titles": {
+                        "eng": "The Battle Tower Showdown",
+                        "jpn": "バトルタワーの陰謀"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "22967",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22967",
+                    "Titles": {
+                        "eng": "Max Takes One for the Team",
+                        "jpn": "ドラシエルの危機"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "22968",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22968",
+                    "Titles": {
+                        "eng": "The Bigger The Cyber Driger... The Harder It Falls...",
+                        "jpn": "約束のバトルフィールド"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "22969",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22969",
+                    "Titles": {
+                        "eng": "Ghost in the Machine",
+                        "jpn": "霧の中の幻"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "22970",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22970",
+                    "Titles": {
+                        "eng": "Raising Kane!!",
+                        "jpn": "電撃聖獣NO.4"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "22971",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22971",
+                    "Titles": {
+                        "eng": "Cyber Dragoon Takes Control!",
+                        "jpn": "戦慄のサイバー"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "22972",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22972",
+                    "Titles": {
+                        "eng": "Building the Perfect Bit Beast!",
+                        "jpn": "暴走タワーの最期"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "22973",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22973",
+                    "Titles": {
+                        "eng": "Hot Rock",
+                        "jpn": "ニューヨーク 謎の石版"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "22974",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22974",
+                    "Titles": {
+                        "eng": "Bad Seed in The Big Apple",
+                        "jpn": "マックス 友の叫び"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "22975",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22975",
+                    "Titles": {
+                        "eng": "Get a Piece of the Rock!",
+                        "jpn": "よみがえる石版の力"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "22976",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22976",
+                    "Titles": {
+                        "eng": "Attack of the Rock Bit Beast",
+                        "jpn": "石版聖獣襲撃！"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "22977",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22977",
+                    "Titles": {
+                        "eng": "Lots of Questions... Few Answers",
+                        "jpn": "忘れかけた魂"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "22978",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22978",
+                    "Titles": {
+                        "eng": "Rock Bottom!",
+                        "jpn": "セント・シールズ"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "22979",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22979",
+                    "Titles": {
+                        "eng": "Itzy Bey-Itzy Spider",
+                        "jpn": "物陰からスパイダー"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "22980",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22980",
+                    "Titles": {
+                        "eng": "See No Bit Beast, Hear No Bit Beast",
+                        "jpn": "姿なき刺客"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "22981",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22981",
+                    "Titles": {
+                        "eng": "Friends and Enemies",
+                        "jpn": "マックスとマリアム"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "22982",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22982",
+                    "Titles": {
+                        "eng": "Beybattle at the Bit Beast Corral",
+                        "jpn": "戦場の遊園地"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "22983",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22983",
+                    "Titles": {
+                        "eng": "The Fate Of The Spark Battle",
+                        "jpn": "因縁のスパークバトル"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "22984",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22984",
+                    "Titles": {
+                        "eng": "The Bit Beast Bond",
+                        "jpn": "絆とプライド"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "22985",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22985",
+                    "Titles": {
+                        "eng": "Squeeze Play",
+                        "jpn": "友情の証"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "22986",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22986",
+                    "Titles": {
+                        "eng": "Who's Your Daddy?",
+                        "jpn": "突然のサヨナラ…"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "22987",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22987",
+                    "Titles": {
+                        "eng": "Fortunes Dear and Dire",
+                        "jpn": "悪のパーツ狩り"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "22988",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22988",
+                    "Titles": {
+                        "eng": "Kai's Royal Flush",
+                        "jpn": "カイのリベンジバトル"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "22989",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22989",
+                    "Titles": {
+                        "eng": "The Calm Before the Storm",
+                        "jpn": "波乱の世界戦前夜"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "22990",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22990",
+                    "Titles": {
+                        "eng": "Zeo vs. Ozuma",
+                        "jpn": "開幕！ゼオVSオズマ"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "22991",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22991",
+                    "Titles": {
+                        "eng": "Black & White Evil Powers",
+                        "jpn": "黒と白の魔の手"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "22992",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22992",
+                    "Titles": {
+                        "eng": "Deceit From Above",
+                        "jpn": "解き放たれた悪意"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "22993",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22993",
+                    "Titles": {
+                        "eng": "Phoenix Falling",
+                        "jpn": "激震のバトルノイズ"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "22994",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22994",
+                    "Titles": {
+                        "eng": "The Enemy Within",
+                        "jpn": "タカオVSカイ 友情の戦い"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "22995",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22995",
+                    "Titles": {
+                        "eng": "Clash Of The Tyson",
+                        "jpn": "史上最大の決勝戦"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "22996",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22996",
+                    "Titles": {
+                        "eng": "Destiny of the Final Battle",
+                        "jpn": "宿命のラストバトル"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "1081",
+            "URL": "https://thetvdb.com/series/beyblade/seasons/official/3",
+            "Titles": {
+                "eng": "Beyblade G Revolution",
+                "jpn": "爆転シュート ベイブレード Gレボリューション",
+                "por": "G-Revolution",
+                "spa": "Beyblade: G-Revolution"
+            },
+            "# Episodes": 52,
+            "Episodes": {
+                "1": {
+                    "ID": "22998",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22998",
+                    "Titles": {
+                        "eng": "New Kid in Town",
+                        "jpn": "タカオ、勝負だ！"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "22999",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/22999",
+                    "Titles": {
+                        "eng": "A Team Divided",
+                        "jpn": "友達じゃねえ！"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "23000",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23000",
+                    "Titles": {
+                        "eng": "Invitation to Battle",
+                        "jpn": "オレには勝てん"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "23001",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23001",
+                    "Titles": {
+                        "eng": "We Were Once Bladebreakers...",
+                        "jpn": "オレの道はオレが決める"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "23002",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23002",
+                    "Titles": {
+                        "eng": "A League of His Own",
+                        "jpn": "１００年早いぜ！"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "23003",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23003",
+                    "Titles": {
+                        "eng": "You're the Man, Kai!",
+                        "jpn": "カイしかいねえ！"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "23004",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23004",
+                    "Titles": {
+                        "eng": "Take Your Best Shot!",
+                        "jpn": "オマエしだいだ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "23005",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23005",
+                    "Titles": {
+                        "eng": "Roughing It",
+                        "jpn": "合宿じゃねえ！"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "23006",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23006",
+                    "Titles": {
+                        "eng": "Swiped on the Streets",
+                        "jpn": "１＋１は無限大だぜ！"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "23007",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23007",
+                    "Titles": {
+                        "eng": "It's a Battle Royale...!",
+                        "jpn": "まとめてきやがれ！"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "23008",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23008",
+                    "Titles": {
+                        "eng": "The Blame Game",
+                        "jpn": "オレが悪いんじゃねえ！"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "23009",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23009",
+                    "Titles": {
+                        "eng": "When in Rome... Let It Rip!",
+                        "jpn": "逆転劇の幕開けだ"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "23010",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23010",
+                    "Titles": {
+                        "eng": "Kenny's Big Battle",
+                        "jpn": "キョウジュはキョウジュだ！"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "23011",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23011",
+                    "Titles": {
+                        "eng": "Picking Up the Pieces",
+                        "jpn": "オレにやらせろ！"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "23012",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23012",
+                    "Titles": {
+                        "eng": "Sleepless in Madrid",
+                        "jpn": "パートナーだろ！？"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "23013",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23013",
+                    "Titles": {
+                        "eng": "Fire and Water",
+                        "jpn": "邪魔するな！"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "23014",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23014",
+                    "Titles": {
+                        "eng": "Same Old Dirty Tricks...",
+                        "jpn": "気を付けろ、大地"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "23015",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23015",
+                    "Titles": {
+                        "eng": "Beyblade Like An Egyptian",
+                        "jpn": "いい顔してるね！"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "23016",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23016",
+                    "Titles": {
+                        "eng": "One For All...Free For All",
+                        "jpn": "ＮＯーーーッ!!"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "23017",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23017",
+                    "Titles": {
+                        "eng": "Burdens of a Champion",
+                        "jpn": "負けるなよ…タカオ"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "23018",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23018",
+                    "Titles": {
+                        "eng": "Under Pressure",
+                        "jpn": "ダサダサだぜ！"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "23019",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23019",
+                    "Titles": {
+                        "eng": "Sibling Rivalry",
+                        "jpn": "アンタなら勝てる！"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "23020",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23020",
+                    "Titles": {
+                        "eng": "Ray and Kai: The Ultimate Face-Off...",
+                        "jpn": "まだだ…"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "23021",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23021",
+                    "Titles": {
+                        "eng": "Down Under, Thunder",
+                        "jpn": "パワー全開だ"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "23022",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23022",
+                    "Titles": {
+                        "eng": "Max Attacks!",
+                        "jpn": "ＧＯーーーッ!!"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "23023",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23023",
+                    "Titles": {
+                        "eng": "Familiar Faces",
+                        "jpn": "よっしゃー！"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "23024",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23024",
+                    "Titles": {
+                        "eng": "What a Blast!",
+                        "jpn": "最高に面白いぞ！"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "23025",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23025",
+                    "Titles": {
+                        "eng": "Changing Gears",
+                        "jpn": "まだかよ！"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "23026",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23026",
+                    "Titles": {
+                        "eng": "And Then There Were Two",
+                        "jpn": "オレならここだ"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "23027",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23027",
+                    "Titles": {
+                        "eng": "Let The Games Begin... Again!",
+                        "jpn": "終わりじゃねえ!!"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "23028",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23028",
+                    "Titles": {
+                        "eng": "Runaway Daichi",
+                        "jpn": "じゃあな！"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "23029",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23029",
+                    "Titles": {
+                        "eng": "Beyblade Idol",
+                        "jpn": "わけわかんねえ!!"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "23030",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23030",
+                    "Titles": {
+                        "eng": "Out of Their League",
+                        "jpn": "あやまれ!!"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "23031",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23031",
+                    "Titles": {
+                        "eng": "The Mysterious Mystel...",
+                        "jpn": "キミの名は…"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "23032",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23032",
+                    "Titles": {
+                        "eng": "Pros and Ex-Cons",
+                        "jpn": "お前に会えてよかったぜ"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "23033",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23033",
+                    "Titles": {
+                        "eng": "Boris, the Blade Stops Here!",
+                        "jpn": "ふざけるな！"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "23034",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23034",
+                    "Titles": {
+                        "eng": "The Bega Challenge",
+                        "jpn": "１０００％だ！"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "23035",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23035",
+                    "Titles": {
+                        "eng": "Bega on the Rise",
+                        "jpn": "地獄を見るぞ！"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "23036",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23036",
+                    "Titles": {
+                        "eng": "Rebel Alliance",
+                        "jpn": "ＢＢＡの最終兵器"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "23037",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23037",
+                    "Titles": {
+                        "eng": "Back to Basics",
+                        "jpn": "ギブアップか？"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "23038",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23038",
+                    "Titles": {
+                        "eng": "And Justice-Five For All",
+                        "jpn": "なんのつもりだ"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "23039",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23039",
+                    "Titles": {
+                        "eng": "When You Wish Upon a Star",
+                        "jpn": "ミスターＸ（エックス）だ！"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "23040",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23040",
+                    "Titles": {
+                        "eng": "Sing Ming Ming Sing!",
+                        "jpn": "アーユーレディ？"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "23041",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23041",
+                    "Titles": {
+                        "eng": "Refuse to Lose",
+                        "jpn": "絶対に勝つ！"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "23042",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23042",
+                    "Titles": {
+                        "eng": "Max to the Max",
+                        "jpn": "ＯＫ！"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "23043",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23043",
+                    "Titles": {
+                        "eng": "The Return of Kai",
+                        "jpn": "トレビア～ン！"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "23044",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23044",
+                    "Titles": {
+                        "eng": "Now You're Making Me Mad",
+                        "jpn": "えっ！？"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "23045",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23045",
+                    "Titles": {
+                        "eng": "The Beyblading Spirit",
+                        "jpn": "愛だ・・・！！"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "23046",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23046",
+                    "Titles": {
+                        "eng": "The Principles of Victory",
+                        "jpn": "アチョーーー！"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "23047",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23047",
+                    "Titles": {
+                        "eng": "Welcome to My Nightmare",
+                        "jpn": "この負け犬が！"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "23048",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23048",
+                    "Titles": {
+                        "eng": "Brooklyn's Back",
+                        "jpn": "ウザいんだよ！"
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "23049",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beyblade/episodes/23049",
+                    "Titles": {
+                        "eng": "Beybattle for the Ages",
+                        "jpn": "GO!シュート！！"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,655 @@
+{
+    "URL": "https://thetvdb.com/series/kaleido-star",
+    "Genres": [
+        "Coming of Age"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/4519-71A4-7431-90E1-FACB-2",
+        "https://www.imdb.com/title/tt0444953/",
+        "http://www.gonzo.co.jp/archives/kaleido-star/",
+        "http://www.reddit.com/r/Kaleidostar",
+        "https://www.themoviedb.org/tv/12501",
+        "https://www.themoviedb.org/tv/12501"
+    ],
+    "Titles": {
+        "eng": "Kaleido Star",
+        "jpn": "カレイドスター"
+    },
+    "Aliases": [],
+    "Modified": "2025-05-23",
+    "Seasons": {
+        "0": {
+            "ID": "22201",
+            "URL": "https://thetvdb.com/series/kaleido-star/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "365612",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/365612",
+                    "Titles": {
+                        "eng": "The Amazing Princess Without a Smile",
+                        "jpn": "OVAカレイドスター新たなる翼-EXTRASTAGE-「笑わないすごいお姫様」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "365613",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/365613",
+                    "Titles": {
+                        "eng": "Legend of Phoenix - The Layla Hamilton Story",
+                        "jpn": "OVAカレイドスターLegendofphoenix～レイラ・ハミルトン物語～"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "365614",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/365614",
+                    "Titles": {
+                        "eng": "It's good! Gooood!",
+                        "jpn": "カレイドスター ぐっどだよ！ぐぅーっど！"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "7974",
+            "URL": "https://thetvdb.com/series/kaleido-star/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "153669",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153669",
+                    "Titles": {
+                        "eng": "My Amazing Stage Debut",
+                        "jpn": "初めての! すごい! ステージ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "153661",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153661",
+                    "Titles": {
+                        "eng": "My Amazing And Lonely Challenge",
+                        "jpn": "孤独な すごい チャレンジ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "153660",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153660",
+                    "Titles": {
+                        "eng": "The Amazing Distant Stage",
+                        "jpn": "遠い すごい ステージ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "153659",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153659",
+                    "Titles": {
+                        "eng": "Try Hard and You'll Get An Amazing Chance",
+                        "jpn": "がんばれば すごい チャンス"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "153657",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153657",
+                    "Titles": {
+                        "eng": "My Amazingly Distant Family",
+                        "jpn": "いつも すごい 遠い家族"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "153658",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153658",
+                    "Titles": {
+                        "eng": "The Amazing Seal",
+                        "jpn": "小さくて すごい オットセイ"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "153662",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153662",
+                    "Titles": {
+                        "eng": "The Amazing Girl Who Doesn't Smile",
+                        "jpn": "笑わない すごい 少女"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "153663",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153663",
+                    "Titles": {
+                        "eng": "An Amazing Star Even In Tough Times",
+                        "jpn": "つらくても すごい スター"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "153641",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153641",
+                    "Titles": {
+                        "eng": "My Amazing Challenge For the Lead Role",
+                        "jpn": "主役への すごい 挑戦"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "153668",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153668",
+                    "Titles": {
+                        "eng": "Facing An Amazing Wall",
+                        "jpn": "主役への すごい 壁"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "153667",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153667",
+                    "Titles": {
+                        "eng": "Anna's Not So Amazing Father",
+                        "jpn": "アンナの すごくない お父さん"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "153666",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153666",
+                    "Titles": {
+                        "eng": "A Hot, Amazing, New Production",
+                        "jpn": "熱い すごい 新作"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "153664",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153664",
+                    "Titles": {
+                        "eng": "The Amazing Competition Calls Up A Storm",
+                        "jpn": "嵐を呼ぶ すごい 競演"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "153665",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153665",
+                    "Titles": {
+                        "eng": "Mysterious Amazing Circus",
+                        "jpn": "怪しい すごい サーカス"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "153656",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153656",
+                    "Titles": {
+                        "eng": "The Diva's Amazing Love",
+                        "jpn": "歌姫の すごい 愛"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "153655",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153655",
+                    "Titles": {
+                        "eng": "An Amazing Sinister Rumor",
+                        "jpn": "黒い すごい 噂"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "153646",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153646",
+                    "Titles": {
+                        "eng": "Fire it up! Amazing Mia",
+                        "jpn": "燃えろ! すごい ミア"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "153647",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153647",
+                    "Titles": {
+                        "eng": "Yuri's Amazing Trap",
+                        "jpn": "ユーリの すごい 罠"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "153645",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153645",
+                    "Titles": {
+                        "eng": "Amazing Family Ties",
+                        "jpn": "家族の すごい 絆"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "153644",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153644",
+                    "Titles": {
+                        "eng": "An Amazing Change From Zero To Hero",
+                        "jpn": "ゼロからの すごい スタート"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "153642",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153642",
+                    "Titles": {
+                        "eng": "The Amazing Mystery Star",
+                        "jpn": "謎の すごい 仮面スター"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "153643",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153643",
+                    "Titles": {
+                        "eng": "The Amazing Resolve Beneath The Mask",
+                        "jpn": "仮面の下の すごい 覚悟"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "153648",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153648",
+                    "Titles": {
+                        "eng": "The Legendary Amazing Maneuver",
+                        "jpn": "幻の すごい 大技"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "153653",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153653",
+                    "Titles": {
+                        "eng": "The Amazing Intensive Training Continues",
+                        "jpn": "まだ続く すごい 特訓"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "153654",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153654",
+                    "Titles": {
+                        "eng": "An Amazing Bond",
+                        "jpn": "ふたりの すごい 絆"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "153652",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/153652",
+                    "Titles": {
+                        "eng": "An Amazing Comeback",
+                        "jpn": "傷だらけの すごい 復活"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "17161",
+            "URL": "https://thetvdb.com/series/kaleido-star/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "319021",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319021",
+                    "Titles": {
+                        "eng": "Amazing Prologue to Stardom (Part 1)",
+                        "jpn": "スターへの すごい プロローグ（前編）"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "319022",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319022",
+                    "Titles": {
+                        "eng": "Amazing Prologue to Stardom (Part 2)",
+                        "jpn": "スターへの すごい プロローグ（後編）"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "319023",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319023",
+                    "Titles": {
+                        "eng": "An Amazing New Rival",
+                        "jpn": "新しい すごい ライバル"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "319024",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319024",
+                    "Titles": {
+                        "eng": "The Amazing Newcomer",
+                        "jpn": "もう一人の すごい 新人"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "319025",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319025",
+                    "Titles": {
+                        "eng": "The Amazing Passionate Rival",
+                        "jpn": "情熱の すごい ライバル"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "319026",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319026",
+                    "Titles": {
+                        "eng": "Amazing Match On Ice",
+                        "jpn": "氷の上の すごい 対決"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "319027",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319027",
+                    "Titles": {
+                        "eng": "Amazing Rosetta of Sweat and Tears",
+                        "jpn": "汗と涙の すごい ロゼッタ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "319028",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319028",
+                    "Titles": {
+                        "eng": "The Ever Amazing Miss Layla",
+                        "jpn": "やっぱり すごい レイラさん"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "319029",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319029",
+                    "Titles": {
+                        "eng": "Marion's Amazing Debut",
+                        "jpn": "マリオンの すごい デビュー"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "319030",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319030",
+                    "Titles": {
+                        "eng": "Amazing Training With Leon",
+                        "jpn": "レオンとの すごい 特訓"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "319031",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319031",
+                    "Titles": {
+                        "eng": "The Two Amazing Demons",
+                        "jpn": "二人の すごい 悪魔"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "319032",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319032",
+                    "Titles": {
+                        "eng": "Amazing Angelic Counterattack",
+                        "jpn": "天使の すごい 反撃"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "319033",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319033",
+                    "Titles": {
+                        "eng": "Cruel Amazing Festival",
+                        "jpn": "惨酷な すごい 祭典"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "319034",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319034",
+                    "Titles": {
+                        "eng": "Amazing and Sad Homecoming",
+                        "jpn": "絶望の すごい 帰国"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "319035",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319035",
+                    "Titles": {
+                        "eng": "My Amazing Fresh Start",
+                        "jpn": "再出発の すごい 決意"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "319036",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319036",
+                    "Titles": {
+                        "eng": "An Amazingly Humiliating Performance",
+                        "jpn": "屈辱の すごい 共演"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "319037",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319037",
+                    "Titles": {
+                        "eng": "Mr. Policeman's Amazing Proposal",
+                        "jpn": "ポリスの すごい プロポーズ"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "319038",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319038",
+                    "Titles": {
+                        "eng": "Launching An Amazing Smile!",
+                        "jpn": "笑顔の すごい 発進!"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "319039",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319039",
+                    "Titles": {
+                        "eng": "Leon's Amazing Past",
+                        "jpn": "レオンの すごい 過去"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "319040",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319040",
+                    "Titles": {
+                        "eng": "The Amazing Fated Duel",
+                        "jpn": "宿命の すごい 決斗"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "319041",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319041",
+                    "Titles": {
+                        "eng": "Flight of the Amazing Angel",
+                        "jpn": "舞い降りた すごい 天使"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "319042",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319042",
+                    "Titles": {
+                        "eng": "The Amazing Injured Swan",
+                        "jpn": "傷ついた すごい 白鳥"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "319043",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319043",
+                    "Titles": {
+                        "eng": "Our Amazing Futures",
+                        "jpn": "ひとりひとりの すごい 未来（あした）"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "319044",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319044",
+                    "Titles": {
+                        "eng": "A Most Amazing and Inescapable Showdown",
+                        "jpn": "避けられない ものすごい 一騎討ち"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "319045",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kaleido-star/episodes/319045",
+                    "Titles": {
+                        "eng": "To the Amazing Promised Place",
+                        "jpn": "約束の すごい 場所へ"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

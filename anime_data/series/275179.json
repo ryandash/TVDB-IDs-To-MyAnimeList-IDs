@@ -1,0 +1,92 @@
+{
+    "URL": "https://thetvdb.com/series/crows",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Crime"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/61436"
+    ],
+    "Titles": {
+        "eng": "Crows",
+        "jpn": "高校武闘伝 クローズ"
+    },
+    "Aliases": [
+        "Koukou Butouden Crows"
+    ],
+    "Modified": "2022-06-27",
+    "Seasons": {
+        "0": {
+            "ID": "566966",
+            "URL": "https://thetvdb.com/series/crows/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4708797",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/crows/episodes/4708797",
+                    "Titles": {
+                        "eng": "Crows",
+                        "jpn": "Kurouzu"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "4708798",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/crows/episodes/4708798",
+                    "Titles": {
+                        "eng": "High-School Fighting Legend Crows 2",
+                        "jpn": "Koukou Butouden Kurouzu 2"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "1989714",
+            "URL": "https://thetvdb.com/series/crows/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "9051246",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/crows/episodes/9051246",
+                    "Titles": {
+                        "eng": "Crows",
+                        "jpn": "Kurouzu"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9051256",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/crows/episodes/9051256",
+                    "Titles": {
+                        "eng": "High-School Fighting Legend Crows 2",
+                        "jpn": "Koukou Butouden Kurouzu 2"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

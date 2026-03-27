@@ -1,0 +1,99 @@
+{
+    "URL": "https://thetvdb.com/series/433575-series",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Drama",
+        "Musical",
+        "Romance"
+    ],
+    "Other Sites": [],
+    "Titles": {
+        "eng": "Ensemble Stars!! Reminiscence Selection: Element",
+        "jpn": "あんさんぶるスターズ！！追憶セレクション「エレメント」"
+    },
+    "Aliases": [
+        "追憶セレクション 『エレメント』",
+        "Element"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "2057976",
+            "URL": "https://thetvdb.com/series/433575-series/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "9722555",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/433575-series/episodes/9722555",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Wizard Memory"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9722556",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/433575-series/episodes/9722556",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Wave Crest"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9722557",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/433575-series/episodes/9722557",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Wandering"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9722558",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/433575-series/episodes/9722558",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Wuthering Heights"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "9722559",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/433575-series/episodes/9722559",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Wish"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "9722560",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/433575-series/episodes/9722560",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Blackbird"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

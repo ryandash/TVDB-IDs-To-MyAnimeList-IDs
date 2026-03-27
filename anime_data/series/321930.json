@@ -1,0 +1,79 @@
+{
+    "URL": "https://thetvdb.com/series/gravity-daze-the-animation-overture",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt6357348/"
+    ],
+    "Titles": {
+        "eng": "Gravity Daze The Animation: Overture",
+        "jpn": "GRAVITY DAZE The Animation ~Ouverture~"
+    },
+    "Aliases": [],
+    "Modified": "2025-02-27",
+    "Seasons": {
+        "0": {
+            "ID": "694122",
+            "URL": "https://thetvdb.com/series/gravity-daze-the-animation-overture/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "5932142",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/gravity-daze-the-animation-overture/episodes/5932142",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Face A"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "2": {
+                    "ID": "5932143",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/gravity-daze-the-animation-overture/episodes/5932143",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Face B"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        },
+        "1": {
+            "ID": "730161",
+            "URL": "https://thetvdb.com/series/gravity-daze-the-animation-overture/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "6319450",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravity-daze-the-animation-overture/episodes/6319450",
+                    "Titles": {
+                        "eng": "Gravity Daze The Animation: Ouverture",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

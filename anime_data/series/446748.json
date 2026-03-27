@@ -1,0 +1,85 @@
+{
+    "URL": "https://thetvdb.com/series/bari-bari-densetsu",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Sport"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt4319958/",
+        "https://www.themoviedb.org/tv/247353"
+    ],
+    "Titles": {
+        "eng": "Baribari Densetsu",
+        "jpn": "バリバリ伝説"
+    },
+    "Aliases": [
+        "Bari Bari Densetsu",
+        "Vroom Vroom Legend",
+        "Bari-Den",
+        "Motorcycle Legend",
+        "Legend of Rolling Wheels"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "2113994",
+            "URL": "https://thetvdb.com/series/bari-bari-densetsu/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "10341420",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Season Recaps",
+                    "URL": "https://www.thetvdb.com/series/bari-bari-densetsu/episodes/10341420",
+                    "Titles": {
+                        "eng": "Baribari Densetsu",
+                        "jpn": "バリバリ伝説"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "2113995",
+            "URL": "https://thetvdb.com/series/bari-bari-densetsu/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "10341346",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bari-bari-densetsu/episodes/10341346",
+                    "Titles": {
+                        "eng": "Part I Tsukuba Chapter",
+                        "jpn": "Part I 筑波篇"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10341347",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bari-bari-densetsu/episodes/10341347",
+                    "Titles": {
+                        "eng": "Part II Suzuka Chapter",
+                        "jpn": "Part II 鈴鹿篇"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

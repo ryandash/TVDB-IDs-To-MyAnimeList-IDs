@@ -1,0 +1,116 @@
+{
+    "URL": "https://thetvdb.com/series/angel-densetsu",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2402541/",
+        "https://www.themoviedb.org/tv/125464"
+    ],
+    "Titles": {
+        "eng": "Angel Densetsu",
+        "jpn": "エンジェル伝説"
+    },
+    "Aliases": [],
+    "Modified": "2025-08-05",
+    "Seasons": {
+        "0": {
+            "ID": "471750",
+            "URL": "https://thetvdb.com/series/angel-densetsu/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "4150956",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/angel-densetsu/episodes/4150956",
+                    "Titles": {
+                        "eng": "Episode 01",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 4
+                },
+                "2": {
+                    "ID": "4150957",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/angel-densetsu/episodes/4150957",
+                    "Titles": {
+                        "eng": "Episode 02",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 4
+                },
+                "3": {
+                    "ID": "4150958",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/angel-densetsu/episodes/4150958",
+                    "Titles": {
+                        "eng": "Episode 03",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 4
+                },
+                "4": {
+                    "ID": "4150959",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/angel-densetsu/episodes/4150959",
+                    "Titles": {
+                        "eng": "Episode 04",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 4,
+                    "Num Episodes": 4
+                }
+            }
+        },
+        "1": {
+            "ID": "501767",
+            "URL": "https://thetvdb.com/series/angel-densetsu/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4405790",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/angel-densetsu/episodes/4405790",
+                    "Titles": {
+                        "eng": "Devil Face Appears!!",
+                        "jpn": "最「恐」顔（フェイス）登場!!"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4405791",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/angel-densetsu/episodes/4405791",
+                    "Titles": {
+                        "eng": "The Beginning of the Legend!!",
+                        "jpn": "伝説の幕あけ!!"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

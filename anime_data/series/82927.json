@@ -1,0 +1,683 @@
+{
+    "URL": "https://thetvdb.com/series/heidi",
+    "Genres": [
+        "Adaptation",
+        "Anime - Kodomomuke",
+        "Nature",
+        "Period"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0070968/",
+        "https://www.themoviedb.org/tv/29452",
+        "https://www.wikidata.org/wiki/Q715718"
+    ],
+    "Titles": {
+        "eng": "Heidi",
+        "jpn": "アルプスの少女ハイジ"
+    },
+    "Aliases": [
+        "Alps no Shoujo Heidi"
+    ],
+    "Modified": "2026-03-03",
+    "Seasons": {
+        "0": {
+            "ID": "34880",
+            "URL": "https://thetvdb.com/series/heidi/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "4096711",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/4096711",
+                    "Titles": {
+                        "eng": "Heidi And Clara",
+                        "jpn": "ハイジとクララ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "4096712",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/4096712",
+                    "Titles": {
+                        "eng": "Mt. Alm",
+                        "jpn": "アルムの山"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "4096713",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/4096713",
+                    "Titles": {
+                        "eng": "Heidi: Girl of the Alps",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "4082534",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/4082534",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "5": {
+                    "ID": "4082535",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/4082535",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        },
+        "1": {
+            "ID": "34881",
+            "URL": "https://thetvdb.com/series/heidi/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 52,
+            "Episodes": {
+                "1": {
+                    "ID": "385684",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/385684",
+                    "Titles": {
+                        "eng": "To the Alps",
+                        "jpn": "アルムの山へ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "385685",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/385685",
+                    "Titles": {
+                        "eng": "Grampa's mountain cabin",
+                        "jpn": "おじいさんの山小屋"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "385686",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/385686",
+                    "Titles": {
+                        "eng": "In the meadow",
+                        "jpn": "牧場で"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "385687",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/385687",
+                    "Titles": {
+                        "eng": "Another family member",
+                        "jpn": "もう一人の家族"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "385689",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/385689",
+                    "Titles": {
+                        "eng": "The burnt letter",
+                        "jpn": "燃えた手紙"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "385690",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/385690",
+                    "Titles": {
+                        "eng": "Sound out, whistle",
+                        "jpn": "ひびけ口笛"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "385691",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/385691",
+                    "Titles": {
+                        "eng": "Sound of the fir tree",
+                        "jpn": "樅の木の音"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "385692",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/385692",
+                    "Titles": {
+                        "eng": "Where have you gone, Picchi",
+                        "jpn": "ピッチーよどこへ"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "385693",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/385693",
+                    "Titles": {
+                        "eng": "Silver-white Alms",
+                        "jpn": "白銀のアルム"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "385694",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/385694",
+                    "Titles": {
+                        "eng": "To grandma's house",
+                        "jpn": "おばあさんの家へ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "385695",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/385695",
+                    "Titles": {
+                        "eng": "One day in a snowstorm",
+                        "jpn": "吹雪の日に"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "385696",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/385696",
+                    "Titles": {
+                        "eng": "Sound of spring",
+                        "jpn": "春の音"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "423106",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423106",
+                    "Titles": {
+                        "eng": "Back to the meadow",
+                        "jpn": "再び牧場へ"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "423107",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423107",
+                    "Titles": {
+                        "eng": "Sad news",
+                        "jpn": "悲しいしらせ"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "423108",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423108",
+                    "Titles": {
+                        "eng": "Yuki-chan",
+                        "jpn": "ユキちゃん"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "423109",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423109",
+                    "Titles": {
+                        "eng": "The town of Delfli",
+                        "jpn": "デルフリ村"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "423110",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423110",
+                    "Titles": {
+                        "eng": "Two guests",
+                        "jpn": "二人のお客さま"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "423111",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423111",
+                    "Titles": {
+                        "eng": "Separate ways",
+                        "jpn": "離ればなれに"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "423112",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423112",
+                    "Titles": {
+                        "eng": "To Frankfurt",
+                        "jpn": "フランクフルトへ"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "423113",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423113",
+                    "Titles": {
+                        "eng": "A new life",
+                        "jpn": "新らしい生活"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "423114",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423114",
+                    "Titles": {
+                        "eng": "I want to fly free",
+                        "jpn": "自由に飛びたい"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "423115",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423115",
+                    "Titles": {
+                        "eng": "Distant Alms",
+                        "jpn": "遠いアルム"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "423116",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423116",
+                    "Titles": {
+                        "eng": "Big commotion",
+                        "jpn": "大騒動"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "423117",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423117",
+                    "Titles": {
+                        "eng": "Mee-chan thrown away",
+                        "jpn": "捨てられたミーちゃん"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "423118",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423118",
+                    "Titles": {
+                        "eng": "White bread",
+                        "jpn": "白パン"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "423119",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423119",
+                    "Titles": {
+                        "eng": "Zezeman's return",
+                        "jpn": "ゼーゼマンさんのお帰り"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "423120",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423120",
+                    "Titles": {
+                        "eng": "Grandma",
+                        "jpn": "おばあさま"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "423121",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423121",
+                    "Titles": {
+                        "eng": "Let's go to the forest",
+                        "jpn": "森へ行こう"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "423122",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423122",
+                    "Titles": {
+                        "eng": "Two hearts",
+                        "jpn": "ふたつのこころ"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "423123",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423123",
+                    "Titles": {
+                        "eng": "I want to catch the sun",
+                        "jpn": "お陽さまをつかまえたい"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "423124",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423124",
+                    "Titles": {
+                        "eng": "Goodbye, grandma",
+                        "jpn": "さようならおばあさま"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "423125",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423125",
+                    "Titles": {
+                        "eng": "Night of the storm",
+                        "jpn": "あらしの夜"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "423126",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423126",
+                    "Titles": {
+                        "eng": "Ghost commotion",
+                        "jpn": "ゆうれい騒動"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "423127",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423127",
+                    "Titles": {
+                        "eng": "To my dear Alms",
+                        "jpn": "なつかしの山へ"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "423128",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423128",
+                    "Titles": {
+                        "eng": "Alms starry sky",
+                        "jpn": "アルムの星空"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "423129",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423129",
+                    "Titles": {
+                        "eng": "And to the meadow",
+                        "jpn": "そして牧場へ"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "423130",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423130",
+                    "Titles": {
+                        "eng": "Goat's baby",
+                        "jpn": "山羊のあかちゃん"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "423131",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423131",
+                    "Titles": {
+                        "eng": "In a new house",
+                        "jpn": "新しい家で"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "423132",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423132",
+                    "Titles": {
+                        "eng": "Don't give up, Peter",
+                        "jpn": "がんばれペーター"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "423133",
+                    "TYPE": "Movies",
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423133",
+                    "Titles": {
+                        "eng": "I want to go to the Alps",
+                        "jpn": "アルムへ行きたい"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "423134",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423134",
+                    "Titles": {
+                        "eng": "Doctor's promise",
+                        "jpn": "お医者さまの約束"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "423135",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423135",
+                    "Titles": {
+                        "eng": "Reunion with Clara",
+                        "jpn": "クララとの再会"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "423136",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423136",
+                    "Titles": {
+                        "eng": "Clara's wish",
+                        "jpn": "クララの願い"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "423137",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423137",
+                    "Titles": {
+                        "eng": "A little plan",
+                        "jpn": "小さな計画"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "423138",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423138",
+                    "Titles": {
+                        "eng": "Children of the mountain",
+                        "jpn": "山の子たち"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "423139",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423139",
+                    "Titles": {
+                        "eng": "Clara's happiness",
+                        "jpn": "クララのしあわせ"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "423140",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423140",
+                    "Titles": {
+                        "eng": "Hello, grandma",
+                        "jpn": "こんにちわおばあさま"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "423141",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423141",
+                    "Titles": {
+                        "eng": "A little hope",
+                        "jpn": "小さな希望"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "423142",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423142",
+                    "Titles": {
+                        "eng": "A promise",
+                        "jpn": "ひとつの誓い"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "423143",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423143",
+                    "Titles": {
+                        "eng": "Try to stand",
+                        "jpn": "立ってごらん"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "423144",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423144",
+                    "Titles": {
+                        "eng": "Clara walked",
+                        "jpn": "クララが歩いた"
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "423145",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heidi/episodes/423145",
+                    "Titles": {
+                        "eng": "Till we meet again",
+                        "jpn": "また会う日まで"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

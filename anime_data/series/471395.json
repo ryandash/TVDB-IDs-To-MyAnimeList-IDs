@@ -1,0 +1,368 @@
+{
+    "URL": "https://thetvdb.com/series/koarahui-ri-ji",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://www.instagram.com/https://www.instagram.com/anime_koalas_diary",
+        "https://koalas-diary.com/",
+        "https://www.themoviedb.org/tv/296933",
+        "https://x.com/https://x.com/koalasdiary_PR",
+        "https://www.youtube.com/c/https://www.youtube.com/@anime_koalas_diary"
+    ],
+    "Titles": {
+        "eng": "Koala's Diary",
+        "jpn": "コアラ絵日記"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-26",
+    "Seasons": {
+        "0": {
+            "ID": "2220351",
+            "URL": "https://thetvdb.com/series/koarahui-ri-ji/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "11499536",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11499536",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "10月まとめ(10月vol.1〜vol.5）"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "11568247",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11568247",
+                    "Titles": {
+                        "eng": "[Work BGM] Koala Listening to Music | \"Koala's Diary\"",
+                        "jpn": "【作業用BGM】音楽を聴くコアラさん｜アニメ『コアラ絵日記』"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "3": {
+                    "ID": "11568315",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11568315",
+                    "Titles": {
+                        "eng": "[Work BGM] Koala Staying Up Late | \"Koala's Diary\"",
+                        "jpn": "【作業用BGM】夜更かしをするコアラさん｜アニメ『コアラ絵日記』"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        },
+        "1": {
+            "ID": "2220352",
+            "URL": "https://thetvdb.com/series/koarahui-ri-ji/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "11499511",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11499511",
+                    "Titles": {
+                        "eng": "October Vol.1",
+                        "jpn": "10月vol.1"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11499512",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11499512",
+                    "Titles": {
+                        "eng": "October Vol.2",
+                        "jpn": "10月vol.2"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "11499513",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11499513",
+                    "Titles": {
+                        "eng": "October Vol.3",
+                        "jpn": "10月vol.3"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "11499514",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11499514",
+                    "Titles": {
+                        "eng": "October Vol.4",
+                        "jpn": "10月vol.4"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "11499515",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11499515",
+                    "Titles": {
+                        "eng": "October Vol.5",
+                        "jpn": "10月vol.5"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "11499516",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11499516",
+                    "Titles": {
+                        "eng": "November Vol.1",
+                        "jpn": "11月vol.1"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "11499517",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11499517",
+                    "Titles": {
+                        "eng": "November Vol.2",
+                        "jpn": "11月vol.2"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "11499518",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11499518",
+                    "Titles": {
+                        "eng": "November Vol.3",
+                        "jpn": "11月vol.3"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "11499519",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11499519",
+                    "Titles": {
+                        "eng": "November Vol.4",
+                        "jpn": "11月vol.4"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "11499520",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11499520",
+                    "Titles": {
+                        "eng": "December Vol.1",
+                        "jpn": "12月vol.1"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "11519377",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11519377",
+                    "Titles": {
+                        "eng": "December Vol.2",
+                        "jpn": "Episode 11"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "11519378",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11519378",
+                    "Titles": {
+                        "eng": "December Vol.3",
+                        "jpn": "Episode 12"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "11530681",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11530681",
+                    "Titles": {
+                        "eng": "December Vol.4",
+                        "jpn": "12月 vol.4"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "11530682",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11530682",
+                    "Titles": {
+                        "eng": "December Vol.5",
+                        "jpn": "12月 vol.5"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "11566611",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11566611",
+                    "Titles": {
+                        "eng": "January Vol.1",
+                        "jpn": "1月 vol.1"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "11566612",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11566612",
+                    "Titles": {
+                        "eng": "January Vol.2",
+                        "jpn": "1月 vol.2"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "11573329",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11573329",
+                    "Titles": {
+                        "eng": "January Vol.3",
+                        "jpn": "1月 vol.3"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "11587061",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11587061",
+                    "Titles": {
+                        "eng": "January Vol.4",
+                        "jpn": "1月 vol.4"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "11607790",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11607790",
+                    "Titles": {
+                        "eng": "February Vol.1",
+                        "jpn": "2月 vol.1"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "11607792",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11607792",
+                    "Titles": {
+                        "eng": "February Vol.2",
+                        "jpn": "2月 vol.2"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "11627195",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11627195",
+                    "Titles": {
+                        "eng": "February Vol.3",
+                        "jpn": "2月 vol.3"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "11651645",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11651645",
+                    "Titles": {
+                        "eng": "February Vol.4",
+                        "jpn": "2月 vol.4"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "11670035",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11670035",
+                    "Titles": {
+                        "eng": "March Vol.1",
+                        "jpn": "3月 vol.1"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "11677451",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11677451",
+                    "Titles": {
+                        "eng": "March Vol.2",
+                        "jpn": "3月 vol.2"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "11689283",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11689283",
+                    "Titles": {
+                        "eng": "March Vol.3",
+                        "jpn": "3月 vol.3"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "11698343",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koarahui-ri-ji/episodes/11698343",
+                    "Titles": {
+                        "eng": "March Vol.4",
+                        "jpn": "3月 vol.4"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

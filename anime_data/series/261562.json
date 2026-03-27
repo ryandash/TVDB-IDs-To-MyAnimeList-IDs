@@ -1,0 +1,366 @@
+{
+    "URL": "https://thetvdb.com/series/triton-of-the-sea",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt3952574/",
+        "https://www.themoviedb.org/tv/13411"
+    ],
+    "Titles": {
+        "eng": "Triton of the Sea",
+        "jpn": "海のトリトン"
+    },
+    "Aliases": [],
+    "Modified": "2025-12-19",
+    "Seasons": {
+        "0": {
+            "ID": "498661",
+            "URL": "https://thetvdb.com/series/triton-of-the-sea/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "4380636",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380636",
+                    "Titles": {
+                        "eng": "The Movie",
+                        "jpn": "海のトリトン 劇場版 前編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "8113659",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/8113659",
+                    "Titles": {
+                        "eng": "Movie 2 (Unreleased)",
+                        "jpn": "海のトリトン 劇場版 後編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "498662",
+            "URL": "https://thetvdb.com/series/triton-of-the-sea/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 27,
+            "Episodes": {
+                "1": {
+                    "ID": "4380609",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380609",
+                    "Titles": {
+                        "eng": "The Sea Is Calling For The Boy",
+                        "jpn": "海が呼ぶ少年"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4380610",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380610",
+                    "Titles": {
+                        "eng": "Triton's Secret",
+                        "jpn": "トリトンの秘密"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4380611",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380611",
+                    "Titles": {
+                        "eng": "Shining Oriharcon",
+                        "jpn": "輝くオリハルコン"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4380612",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380612",
+                    "Titles": {
+                        "eng": "The Ends of the North Sea",
+                        "jpn": "北海の果てに"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4380613",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380613",
+                    "Titles": {
+                        "eng": "Farewell to the North Sea",
+                        "jpn": "さらば北の湖"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4380614",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380614",
+                    "Titles": {
+                        "eng": "Go to the Southern Island!",
+                        "jpn": "行け、南の島!"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4380615",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380615",
+                    "Titles": {
+                        "eng": "Under the Southern Cross",
+                        "jpn": "南十字星のもとに"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4380616",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380616",
+                    "Titles": {
+                        "eng": "The Legend of a Vanished Island",
+                        "jpn": "消えた島の伝説"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4380617",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380617",
+                    "Titles": {
+                        "eng": "The Mystery of a Phantom Ship",
+                        "jpn": "ゆうれい船の謎"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4380618",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380618",
+                    "Titles": {
+                        "eng": "Wake up Pipi!",
+                        "jpn": "めざめろ、ピピ!"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4380619",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380619",
+                    "Titles": {
+                        "eng": "Confrontation in the North Pacific Ocean",
+                        "jpn": "対決・北太平洋"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4380620",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380620",
+                    "Titles": {
+                        "eng": "The Great Explosion of Dolphin Island",
+                        "jpn": "イルカ島大爆発"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4380621",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380621",
+                    "Titles": {
+                        "eng": "The Chase of the Giant Beast Bakyura",
+                        "jpn": "巨獣バキューラの追撃"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4380622",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380622",
+                    "Titles": {
+                        "eng": "A Journey to the Atlantic Ocean",
+                        "jpn": "大西洋へ旅立つ"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4380623",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380623",
+                    "Titles": {
+                        "eng": "Howling Dinosaur in the Fog",
+                        "jpn": "霧に泣く恐竜"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4380624",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380624",
+                    "Titles": {
+                        "eng": "Leharl's Trap",
+                        "jpn": "怪人レハールの罠"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4380625",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380625",
+                    "Titles": {
+                        "eng": "Vanished Remains of the Tritons",
+                        "jpn": "消えたトリトンの遺跡"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4380626",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380626",
+                    "Titles": {
+                        "eng": "The Scorching Giant Taros",
+                        "jpn": "灼熱の巨人タロス"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4380627",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380627",
+                    "Titles": {
+                        "eng": "Revived White Whale",
+                        "jpn": "甦った白鯨"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4380628",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380628",
+                    "Titles": {
+                        "eng": "Sea Spider's Jail",
+                        "jpn": "海グモの牢獄"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4380629",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380629",
+                    "Titles": {
+                        "eng": "Demon's Place in the Pacific Ocean",
+                        "jpn": "太平洋の魔海"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4380630",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380630",
+                    "Titles": {
+                        "eng": "Bizarre Armon's Curse",
+                        "jpn": "怪奇・アーモンの呪い"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4380631",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380631",
+                    "Titles": {
+                        "eng": "The Battle in the Fossil Forest",
+                        "jpn": "化石の森の闘い"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "4380632",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380632",
+                    "Titles": {
+                        "eng": "The Rush of Gondowana",
+                        "jpn": "突撃ゴンドワナ"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "4380633",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380633",
+                    "Titles": {
+                        "eng": "The Quicksand of Golsenos",
+                        "jpn": "ゴルセノスの砂地獄"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "4380634",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380634",
+                    "Titles": {
+                        "eng": "Poseidon's Demon World",
+                        "jpn": "ポセイドンの魔海"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "4380635",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/triton-of-the-sea/episodes/4380635",
+                    "Titles": {
+                        "eng": "The Sun Will Rise Again in the Atlantic Ocean",
+                        "jpn": "大西洋陽はまた昇る"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

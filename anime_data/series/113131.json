@@ -1,0 +1,102 @@
+{
+    "URL": "https://thetvdb.com/series/adventure-iczer-3",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0158455/",
+        "https://www.themoviedb.org/tv/277399"
+    ],
+    "Titles": {
+        "eng": "Iczer Reborn",
+        "jpn": "冒険!イクサー3"
+    },
+    "Aliases": [
+        "Iczer 3",
+        "Iczer-3",
+        "Adventure! Iczer-3"
+    ],
+    "Modified": "2026-03-11",
+    "Seasons": {
+        "1": {
+            "ID": "116351",
+            "URL": "https://thetvdb.com/series/adventure-iczer-3/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "1065161",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/adventure-iczer-3/episodes/1065161",
+                    "Titles": {
+                        "eng": "Iczer-3 Appears! The Earth Needs Me!",
+                        "jpn": "イクサー3登場! 地球は私にまっかせなさい!"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1065171",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/adventure-iczer-3/episodes/1065171",
+                    "Titles": {
+                        "eng": "Insect, Insect, Giant Insect! Attack It With Iczer-Robo",
+                        "jpn": "ムシ、虫、巨虫! イクサーロボでやっつけろ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1065181",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/adventure-iczer-3/episodes/1065181",
+                    "Titles": {
+                        "eng": "Wild Aunty! Double-Attack Of Love!!",
+                        "jpn": "野生のおばちゃん! 愛のダブルアタック!!"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1065191",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/adventure-iczer-3/episodes/1065191",
+                    "Titles": {
+                        "eng": "Gah! There's Two Of Me!? Super-Rival Atros Appears",
+                        "jpn": "ゲゲッ! あたしが二人!? 超ライバル・アトロスの出現"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "1065201",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/adventure-iczer-3/episodes/1065201",
+                    "Titles": {
+                        "eng": "Big Pinch! Scary Older Sister Iczer-2 Arrives",
+                        "jpn": "大ピンチ! 恐怖のお姉様イクサー2が来た"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "1065211",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/adventure-iczer-3/episodes/1065211",
+                    "Titles": {
+                        "eng": "It's Terrible! It's Strong! It's Good-Looking!  Iczer's Final Battle",
+                        "jpn": "すごい! 強い! かっこいい! イクサーズ最後の大決戦"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
