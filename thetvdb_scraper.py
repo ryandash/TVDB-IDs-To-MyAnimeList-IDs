@@ -418,8 +418,6 @@ async def scrape_season(session: aiohttp.ClientSession, season_url:str, numEpiso
     valid_eps = 0
     batch_size = 2
 
-    pbar = tqdm(total=len(ep_infos), desc=f"Episodes [S{season_number}]", leave=False)
-
     for i in range(0, len(ep_infos), batch_size):
         batch = ep_infos[i:i + batch_size]
 
@@ -434,11 +432,8 @@ async def scrape_season(session: aiohttp.ClientSession, season_url:str, numEpiso
             elif result is True:
                 failed_items["Episodes"].discard(ep_id)
                 valid_eps += 1
-            pbar.update(1) 
 
-        await asyncio.sleep(random.uniform(0.5, 1.2))
-
-    pbar.close()
+        await asyncio.sleep(random.uniform(0.3, 0.8))
 
     if not ep_infos or valid_eps < len(ep_infos):
         failed_items["Seasons"].add(season_number)
