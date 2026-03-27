@@ -213,21 +213,22 @@ def parse_special_category(li):
 # Episode / Season / Anime
 # -------------------
 
-async def scrape_episode(session: aiohttp.ClientSession, ep_info, season_eps: dict) -> bool:
+async def scrape_episode(session: aiohttp.ClientSession, ep_info, season_eps: dict, failed_items: dict) -> bool:
     ep_id, ep_url, ep_num, category = ep_info
     if ep_num in season_eps:
-        return False
+        return "SKIPPED"
 
     html = await fetch_html(session, ep_url)
     if not html:
-        return False
+        return "FAILED"
 
     soup = BeautifulSoup(html, "html.parser")
     translations, aliases = parse_translations(soup)
     titles = {lang: data.get("title") for lang, data in translations.items()}
     # summaries = {lang: data.get("summary") for lang, data in translations.items()}
 
-    if titles.get("eng", "") == "TBA":
+    if titles.get("eng", "").strip().upper() == "TBA":
+        failed_items["Episodes"].add(ep_id)
         return False
 
     eng_title = (titles.get("eng") or "").lower()
@@ -354,7 +355,7 @@ def extract_episode_rows(soup, season_number):
 
     return rows_with_category
 
-async def scrape_season(session: aiohttp.ClientSession, season_url: str, numEpisodes: int, season_dict: dict, season_number: str) -> bool:
+async def scrape_season(session: aiohttp.ClientSession, season_url:str, numEpisodes:int, season_dict: dict, season_number: str, failed_items: dict) -> bool:
     html = await fetch_html(session, season_url)
     if not html:
         return False
@@ -391,7 +392,11 @@ async def scrape_season(session: aiohttp.ClientSession, season_url: str, numEpis
         match = re.search(r"E(\d+)", code_text)
         ep_num = str(int(match.group(1))) if match else None
 
-        if not ep_num or ep_num in existing_eps:
+        if not ep_num:
+            continue
+
+        existing_ep = existing_eps.get(ep_num)
+        if existing_ep and existing_ep.get("ID") not in failed_items["Episodes"]:
             continue
 
         href = a_tag.get("href")
@@ -407,22 +412,25 @@ async def scrape_season(session: aiohttp.ClientSession, season_url: str, numEpis
         # No episodes found
         return False
 
-    ep_sem = asyncio.Semaphore(5)
+    ep_sem = asyncio.Semaphore(3)
     async def wrapped(ep_info):
         async with ep_sem:
-            return await scrape_episode(session, ep_info, existing_eps)
+            result = await scrape_episode(session, ep_info, existing_eps, failed_items)
+            if result == "FAILED":
+                failed_items["Episodes"].add(ep_info[0])
+                return False
+            if result == True:
+                failed_items["Episodes"].discard(ep_info[0])
+            return result == True
 
     results = await asyncio.gather(*(wrapped(e) for e in ep_infos))
     valid_eps = sum(results)
 
-    if valid_eps == 0:
-        # All episodes were TBA or invalid
+    if not ep_infos or valid_eps < len(ep_infos):
+        failed_items["Seasons"].add(season_number)
         return False
 
     # --- Sort episodes by episode number ---
-    other_keys = {k: v for k, v in season_dict.items() if k != "Episodes"}
-    season_dict.clear()
-    season_dict.update(other_keys)
     season_dict["Episodes"] = dict(sorted(existing_eps.items(), key=lambda x: int(x[0])))
 
     if season_number == "0":
@@ -500,6 +508,8 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
     }
 
     existing_date = None
+    failed_items = {"Seasons": set(), "Episodes": set()}
+
     if existing and "Modified" in existing:
         existing_modified = existing.get("Modified")
         if existing_modified:
@@ -507,8 +517,13 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
                 existing_date = datetime.fromisoformat(existing_modified).date()
             except Exception:
                 pass
+        
+        failed_items_data = existing.get("Failed", {})
+        failed_items["Seasons"] = set(failed_items_data.get("Seasons", []))
+        failed_items["Episodes"] = set(failed_items_data.get("Episodes", []))
     
-    if existing_date and modified_date and modified_date <= existing_date:
+    need_refetch = bool(failed_items["Seasons"] or failed_items["Episodes"])
+    if existing_date and modified_date and modified_date <= existing_date and not need_refetch:
         print(f"\nSkipped {series_id} (not modified)")
         enqueue_save_anime(series_id, anime_data, category)
         return
@@ -529,7 +544,7 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
             season_entry = anime_data["Seasons"].get(season_number)
             saved_num_eps = season_entry.get("# Episodes") if season_entry else None
 
-            if isinstance(saved_num_eps, int) and saved_num_eps >= num_eps:
+            if isinstance(saved_num_eps, int) and saved_num_eps >= num_eps and season_number not in failed_items["Seasons"]:
                 continue
 
             a_elem = s.select_one('td:nth-child(1) a')
@@ -537,15 +552,15 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
             if not href:
                 continue
             
-            season_temp = {}
+            season_temp = deepcopy(season_entry) if season_entry else {}
 
-            async def season_wrapper(season_number, href, num_eps, season_temp):
+            async def season_wrapper(season_number, href, num_eps, season_temp, failed_items: dict):
                 async with season_sem:
-                    result = await scrape_season(session, href, num_eps, season_temp, season_number)
+                    result = await scrape_season(session, href, num_eps, season_temp, season_number, failed_items)
                     return season_number, result, season_temp
 
             season_tasks.append(
-                season_wrapper(season_number, href, num_eps, season_temp)
+                season_wrapper(season_number, href, num_eps, season_temp, failed_items)
             )
 
         completed_seasons = []
@@ -556,14 +571,25 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
             else:
                 print(f"[DROP] Season {season_number} skipped (no valid episodes)")
 
+        failed_items["Seasons"] -= {season_number for season_number, _ in completed_seasons}
+        
         if not completed_seasons:
             print(f"[DROP] Skipping {series_id} entirely (no valid seasons)")
             return
 
-        # Sort and update
-        anime_data["Seasons"] = {
-            k: v for k, v in sorted(completed_seasons, key=lambda x: int(x[0]))
+        for season_number, season_temp in completed_seasons:
+            anime_data["Seasons"][season_number] = season_temp
+
+        anime_data["Seasons"] = dict(
+            sorted(anime_data["Seasons"].items(), key=lambda x: int(x[0]))
+        )
+    if failed_items["Seasons"] or failed_items["Episodes"]:
+        anime_data["Failed"] = {
+            "Seasons": list(failed_items["Seasons"]),
+            "Episodes": list(failed_items["Episodes"])
         }
+    else:
+        anime_data.pop("Failed", None)
 
     enqueue_save_anime(series_id, anime_data, category)
 
