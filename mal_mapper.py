@@ -432,7 +432,6 @@ async def map_anime():
             mal_eps = None
             seasons = series.get("Seasons") or {}
             episode_offset = 0
-            changeSeason = True
             for season_num, season_data in tqdm(seasons.items(), desc=f"  {series_id} seasons", unit="season", leave=False):
                 season_id = season_data.get("ID")
                 if season_id is None:
@@ -456,7 +455,6 @@ async def map_anime():
                         
                         if season_num != "1":
                             if mal_eps and episode_offset > mal_eps:
-                                changeSeason = True
                                 SeasonMalID = await get_mal_relations(SeasonMalID, total_episodes, season_title_jpn or season_title_eng)
                         
                         if not SeasonMalID and titles_to_try:
@@ -464,14 +462,14 @@ async def map_anime():
                                 mid, _ = await get_best_mal_id(title, None, False)
                                 if mid:
                                     SeasonMalID = mid
-                                    changeSeason = True
                                     break
                         
-                        if SeasonMalID and changeSeason:
-                            episode_offset = 0
+                        if SeasonMalID:
                             mal_eps = await get_mal_episode_count(SeasonMalID)
-                            changeSeason = False
                             malurl = await get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
+
+                            if SeasonMalID != previousSeasonMalID and mal_eps:
+                                episode_offset = 0
 
                         season_tvdb_url = f"https://www.thetvdb.com/dereferrer/season/{season_id}"
                         if SeasonMalID and SeasonMalID not in lookup_seasons:

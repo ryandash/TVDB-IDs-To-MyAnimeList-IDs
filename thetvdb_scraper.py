@@ -35,7 +35,7 @@ DATA_DIR_SERIES.mkdir(parents=True, exist_ok=True)
 DATA_DIR_MOVIE.mkdir(parents=True, exist_ok=True)
 
 MAX_ANIME_CONCURRENT = 2
-MAX_SEASON_CONCURRENT = 3
+MAX_SEASON_CONCURRENT = 2
 SAVE_WORKERS = 2
 
 # -----------------------------
