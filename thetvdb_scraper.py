@@ -1,3 +1,4 @@
+import random
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 from dataclasses import dataclass
@@ -35,7 +36,7 @@ DATA_DIR_SERIES.mkdir(parents=True, exist_ok=True)
 DATA_DIR_MOVIE.mkdir(parents=True, exist_ok=True)
 
 MAX_ANIME_CONCURRENT = 2
-MAX_SEASON_CONCURRENT = 2
+MAX_SEASON_CONCURRENT = 1
 SAVE_WORKERS = 2
 
 # -----------------------------
@@ -44,6 +45,7 @@ SAVE_WORKERS = 2
 HEADERS = {
     "User-Agent": "Mozilla/5.0",
     "Accept-Language": "en-US,en;q=0.9",
+    "Referer": "https://www.thetvdb.com/"
 }
 
 async def fetch_html(session: aiohttp.ClientSession, url: str, retries=3, delay=3) -> str:
@@ -55,7 +57,7 @@ async def fetch_html(session: aiohttp.ClientSession, url: str, retries=3, delay=
                 return await resp.text()
         except Exception as e:
             if attempt < retries:
-                await asyncio.sleep(delay * attempt)
+                await asyncio.sleep(delay * attempt + random.uniform(0.5, 1.5))
             else:
                 print(f"[FAIL] Could not fetch {url} after {retries} retries: {e}")
                 return ""
@@ -410,6 +412,7 @@ async def scrape_season(session: aiohttp.ClientSession, season_url:str, numEpiso
 
     if not ep_infos:
         # No episodes found
+        failed_items["Seasons"].add(season_number)
         return False
 
     ep_sem = asyncio.Semaphore(3)
@@ -569,6 +572,7 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
             if result:
                 completed_seasons.append((season_number, season_temp))
             else:
+                failed_items["Seasons"].add(season_number)
                 print(f"[DROP] Season {season_number} skipped (no valid episodes)")
 
         failed_items["Seasons"] -= {season_number for season_number, _ in completed_seasons}
