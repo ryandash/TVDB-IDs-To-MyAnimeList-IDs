@@ -36,7 +36,6 @@ DATA_DIR_SERIES.mkdir(parents=True, exist_ok=True)
 DATA_DIR_MOVIE.mkdir(parents=True, exist_ok=True)
 
 MAX_ANIME_CONCURRENT = 2
-MAX_SEASON_CONCURRENT = 1
 SAVE_WORKERS = 2
 
 # -----------------------------
@@ -415,19 +414,25 @@ async def scrape_season(session: aiohttp.ClientSession, season_url:str, numEpiso
         failed_items["Seasons"].add(season_number)
         return False
 
-    ep_sem = asyncio.Semaphore(3)
-    async def wrapped(ep_info):
-        async with ep_sem:
-            result = await scrape_episode(session, ep_info, existing_eps, failed_items)
-            if result == "FAILED":
-                failed_items["Episodes"].add(ep_info[0])
-                return False
-            if result == True:
-                failed_items["Episodes"].discard(ep_info[0])
-            return result == True
+    valid_eps = 0
+    batch_size = 2
 
-    results = await asyncio.gather(*(wrapped(e) for e in ep_infos))
-    valid_eps = sum(results)
+    for i in range(0, len(ep_infos), batch_size):
+        batch = ep_infos[i:i + batch_size]
+
+        tasks = [scrape_episode(session, ep, existing_eps, failed_items) for ep in batch]
+        results = await asyncio.gather(*tasks)
+
+        for ep_info, result in zip(batch, results):
+            ep_id = ep_info[0]
+
+            if result == "FAILED":
+                failed_items["Episodes"].add(ep_id)
+            elif result is True:
+                failed_items["Episodes"].discard(ep_id)
+                valid_eps += 1
+
+        await asyncio.sleep(random.uniform(0.5, 1.2))
 
     if not ep_infos or valid_eps < len(ep_infos):
         failed_items["Seasons"].add(season_number)
@@ -534,8 +539,7 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
     if category != "movie":
         # --- Collect seasons ---
         season_rows = soup.select('#seasons-official table tbody tr')[1:-1]
-        season_tasks = []
-        season_sem = asyncio.Semaphore(MAX_SEASON_CONCURRENT)
+        completed_seasons = []
 
         for idx, s in enumerate(season_rows, start=1):
             season_number = str(idx - 1)
@@ -557,25 +561,22 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
             
             season_temp = deepcopy(season_entry) if season_entry else {}
 
-            async def season_wrapper(season_number, href, num_eps, season_temp, failed_items: dict):
-                async with season_sem:
-                    result = await scrape_season(session, href, num_eps, season_temp, season_number, failed_items)
-                    return season_number, result, season_temp
-
-            season_tasks.append(
-                season_wrapper(season_number, href, num_eps, season_temp, failed_items)
+            result = await scrape_season(
+                session,
+                href,
+                num_eps,
+                season_temp,
+                season_number,
+                failed_items
             )
 
-        completed_seasons = []
-        for future in tqdm_asyncio.as_completed(season_tasks, total=len(season_tasks), leave=False):
-            season_number, result, season_temp = await future
             if result:
                 completed_seasons.append((season_number, season_temp))
+                failed_items["Seasons"].discard(season_number)
             else:
                 failed_items["Seasons"].add(season_number)
                 print(f"[DROP] Season {season_number} skipped (no valid episodes)")
-
-        failed_items["Seasons"] -= {season_number for season_number, _ in completed_seasons}
+            await asyncio.sleep(0.5)
         
         if not completed_seasons:
             print(f"[DROP] Skipping {series_id} entirely (no valid seasons)")
