@@ -17,6 +17,7 @@ from typing import List
 import uuid
 import aiohttp
 from tqdm.asyncio import tqdm_asyncio
+from tqdm import tqdm
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--worker", type=int, help="The worker number")
@@ -417,6 +418,8 @@ async def scrape_season(session: aiohttp.ClientSession, season_url:str, numEpiso
     valid_eps = 0
     batch_size = 2
 
+    pbar = tqdm(total=len(ep_infos), desc=f"Episodes [S{season_number}]", leave=False)
+
     for i in range(0, len(ep_infos), batch_size):
         batch = ep_infos[i:i + batch_size]
 
@@ -431,8 +434,11 @@ async def scrape_season(session: aiohttp.ClientSession, season_url:str, numEpiso
             elif result is True:
                 failed_items["Episodes"].discard(ep_id)
                 valid_eps += 1
+            pbar.update(1) 
 
         await asyncio.sleep(random.uniform(0.5, 1.2))
+
+    pbar.close()
 
     if not ep_infos or valid_eps < len(ep_infos):
         failed_items["Seasons"].add(season_number)
@@ -540,8 +546,12 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
         # --- Collect seasons ---
         season_rows = soup.select('#seasons-official table tbody tr')[1:-1]
         completed_seasons = []
+        
 
-        for idx, s in enumerate(season_rows, start=1):
+        for idx, s in enumerate(
+            tqdm(season_rows, desc=f"Seasons [{series_id}]", leave=False),
+            start=1
+        ):
             season_number = str(idx - 1)
             num_eps_elem = s.select_one('td:nth-child(4)')
             num_eps = int(num_eps_elem.get_text(strip=True)) if num_eps_elem else 0
