@@ -1,0 +1,607 @@
+{
+    "URL": "https://thetvdb.com/series/uninhabited-planet-survive",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1561921/",
+        "https://www.themoviedb.org/tv/43242"
+    ],
+    "Titles": {
+        "eng": "Uninhabited Planet SURVIVE",
+        "jpn": "無人惑星サヴァイヴ"
+    },
+    "Aliases": [
+        "Mujin Wakusei Survive"
+    ],
+    "Modified": "2024-09-19",
+    "Seasons": {
+        "1": {
+            "ID": "39601",
+            "URL": "https://thetvdb.com/series/uninhabited-planet-survive/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 52,
+            "Episodes": {
+                "1": {
+                    "ID": "426248",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426248",
+                    "Titles": {
+                        "eng": "I Am Transfer Student Luna!",
+                        "jpn": "転校生、ルナです！"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "426249",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426249",
+                    "Titles": {
+                        "eng": "Evasion Is Impossible",
+                        "jpn": "回避は不可能！？"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "426250",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426250",
+                    "Titles": {
+                        "eng": "Real Wind, Real Sea",
+                        "jpn": "ほんものの風、ほんものの海"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "426251",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426251",
+                    "Titles": {
+                        "eng": "What`s Going To Happen To Us?",
+                        "jpn": "私たち、どうなっちゃうの！？"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "426252",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426252",
+                    "Titles": {
+                        "eng": "Sharla, You Can`t Give Up!",
+                        "jpn": "シャアラ、負けちゃだめ！"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "426253",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426253",
+                    "Titles": {
+                        "eng": "We`re Not Playing A Game",
+                        "jpn": "僕らはゲームをしてるんじゃない"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "426254",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426254",
+                    "Titles": {
+                        "eng": "We`ve Only Just Started Walking",
+                        "jpn": "まだ歩き始めたばかり"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "426255",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426255",
+                    "Titles": {
+                        "eng": "What`s Important In Order To Live",
+                        "jpn": "生きるために大切なこと"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "426256",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426256",
+                    "Titles": {
+                        "eng": "We Can Definitely Live Together Amicably",
+                        "jpn": "きっと仲良く暮らせる"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "426257",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426257",
+                    "Titles": {
+                        "eng": "Let`s Build A House",
+                        "jpn": "家をつくろう"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "426258",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426258",
+                    "Titles": {
+                        "eng": "Gentle Melody",
+                        "jpn": "優しいメロディー"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "426259",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426259",
+                    "Titles": {
+                        "eng": "Everyone`s House",
+                        "jpn": "みんなの家"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "426260",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426260",
+                    "Titles": {
+                        "eng": "Not Alone",
+                        "jpn": "ひとりじゃない"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "426261",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426261",
+                    "Titles": {
+                        "eng": "I Heard A Voice",
+                        "jpn": "声が聞こえた"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "426262",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426262",
+                    "Titles": {
+                        "eng": "A Forest Where Anything and Everything is Big",
+                        "jpn": "何もかもが大きな森"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "426263",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426263",
+                    "Titles": {
+                        "eng": "I Really Want To Go Home",
+                        "jpn": "僕だって帰りたいんだ"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "426264",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426264",
+                    "Titles": {
+                        "eng": "There`s Always A Blue Sky in Your Heart",
+                        "jpn": "心はいつも青空"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "426265",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426265",
+                    "Titles": {
+                        "eng": "These Are The Eastern Woods!?",
+                        "jpn": "これが東の森！？"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "426266",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426266",
+                    "Titles": {
+                        "eng": "Please... Take Care Of This Child...",
+                        "jpn": "コノコヲ…タノム…"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "426267",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426267",
+                    "Titles": {
+                        "eng": "A-da-m",
+                        "jpn": "ア・ダ・ム"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "426268",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426268",
+                    "Titles": {
+                        "eng": "Winter Approaches",
+                        "jpn": "冬がやって来る"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "426269",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426269",
+                    "Titles": {
+                        "eng": "I Don`t Want to Say Goodbye",
+                        "jpn": "さよならはいやだ"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "426270",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426270",
+                    "Titles": {
+                        "eng": "In The Light",
+                        "jpn": "光の中に"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "426271",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426271",
+                    "Titles": {
+                        "eng": "Who? Who Is It?",
+                        "jpn": "誰？誰なの？"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "426272",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426272",
+                    "Titles": {
+                        "eng": "For The Future",
+                        "jpn": "未来のために"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "426273",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426273",
+                    "Titles": {
+                        "eng": "Do You Read Me?",
+                        "jpn": "応答願います"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "426274",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426274",
+                    "Titles": {
+                        "eng": "Tenacious Bunch",
+                        "jpn": "しぶとい奴ら"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "426275",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426275",
+                    "Titles": {
+                        "eng": "This is for Everyone`s Sake",
+                        "jpn": "これもみんなのため"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "426276",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426276",
+                    "Titles": {
+                        "eng": "I Finally Also...",
+                        "jpn": "ぼくにもやっと・・・"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "426277",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426277",
+                    "Titles": {
+                        "eng": "What Should I Do?",
+                        "jpn": "どうすればいいの"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "426278",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426278",
+                    "Titles": {
+                        "eng": "We Can Definitely do It",
+                        "jpn": "俺たちはきっとやれる"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "426279",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426279",
+                    "Titles": {
+                        "eng": "Hurry!",
+                        "jpn": "急げ！！"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "426280",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426280",
+                    "Titles": {
+                        "eng": "Begin Surfacing",
+                        "jpn": "浮上開始"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "426281",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426281",
+                    "Titles": {
+                        "eng": "Go To The Mainland?!",
+                        "jpn": "大陸へ行く？！"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "426282",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426282",
+                    "Titles": {
+                        "eng": "Although We Don`t Have Enough Materials",
+                        "jpn": "十分な材料もないのに"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "426283",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426283",
+                    "Titles": {
+                        "eng": "A Very Important Friend",
+                        "jpn": "とても大事な仲間です"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "426284",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426284",
+                    "Titles": {
+                        "eng": "Never Say Die",
+                        "jpn": "弱音を吐くな"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "426285",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426285",
+                    "Titles": {
+                        "eng": "I Won`t Give Up",
+                        "jpn": "私、負けないよ"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "426286",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426286",
+                    "Titles": {
+                        "eng": "Why Is Something Like That...",
+                        "jpn": "どうしてそんなものが"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "426287",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426287",
+                    "Titles": {
+                        "eng": "Finally Arrived",
+                        "jpn": "とうとう着いた"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "426288",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426288",
+                    "Titles": {
+                        "eng": "That`s Why I Have To Go",
+                        "jpn": "だから行かなくちゃ"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "426289",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426289",
+                    "Titles": {
+                        "eng": "Mysterious Power",
+                        "jpn": "不思議な力"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "426290",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426290",
+                    "Titles": {
+                        "eng": "We`ll Return to the Colony Together",
+                        "jpn": "一緒にコロニーに帰るんだ"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "426291",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426291",
+                    "Titles": {
+                        "eng": "Howard Saved Us",
+                        "jpn": "ハワードが助けてくれた"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "426292",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426292",
+                    "Titles": {
+                        "eng": "Mom! Dad!",
+                        "jpn": "お父さん！お母さん！"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "426293",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426293",
+                    "Titles": {
+                        "eng": "I Missed You",
+                        "jpn": "会いたかった"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "426294",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426294",
+                    "Titles": {
+                        "eng": "Let`s Start!",
+                        "jpn": "始めるぞ！"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "426295",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426295",
+                    "Titles": {
+                        "eng": "You`re Not You",
+                        "jpn": "あなたはあなたじゃない"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "426296",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426296",
+                    "Titles": {
+                        "eng": "At This Rate, This Planet...",
+                        "jpn": "このままだとこの星が…"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "426297",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426297",
+                    "Titles": {
+                        "eng": "Because Everybody Likes This Planet",
+                        "jpn": "この星が好きだから"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "426298",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426298",
+                    "Titles": {
+                        "eng": "Not Going So We Can Die",
+                        "jpn": "死ぬために行くんじゃない"
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "426299",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/uninhabited-planet-survive/episodes/426299",
+                    "Titles": {
+                        "eng": "To Where Everyone is",
+                        "jpn": "みんなのところへ"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

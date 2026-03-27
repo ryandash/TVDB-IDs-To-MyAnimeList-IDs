@@ -1,0 +1,66 @@
+{
+    "URL": "https://thetvdb.com/series/bei-fang-qian-san-shui-hu-chuan",
+    "Genres": [
+        "Drama",
+        "Fantasy",
+        "History",
+        "War"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt39369179/",
+        "https://www.themoviedb.org/tv/289356",
+        "https://www.themoviedb.org/tv/289356"
+    ],
+    "Titles": {
+        "eng": "Suikoden",
+        "jpn": "北方謙三　水滸伝"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-07",
+    "Seasons": {
+        "1": {
+            "ID": "2235874",
+            "URL": "https://thetvdb.com/series/bei-fang-qian-san-shui-hu-chuan/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "11641284",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bei-fang-qian-san-shui-hu-chuan/episodes/11641284",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "叛乱の火種"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11641285",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bei-fang-qian-san-shui-hu-chuan/episodes/11641285",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "諜報組織「青蓮寺」"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "11641286",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bei-fang-qian-san-shui-hu-chuan/episodes/11641286",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "雪原"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

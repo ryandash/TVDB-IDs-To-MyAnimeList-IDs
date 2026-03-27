@@ -1,0 +1,80 @@
+{
+    "URL": "https://thetvdb.com/series/shuten-doji",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt8014790/",
+        "https://www.themoviedb.org/tv/114236"
+    ],
+    "Titles": {
+        "eng": "The Star Hand Kid",
+        "jpn": "Shuten Doji"
+    },
+    "Aliases": [
+        "Shuten Doji",
+        "Star Demon"
+    ],
+    "Modified": "2026-01-08",
+    "Seasons": {
+        "1": {
+            "ID": "487036",
+            "URL": "https://thetvdb.com/series/shuten-doji/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "4281984",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shuten-doji/episodes/4281984",
+                    "Titles": {
+                        "eng": "Hyoki",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4281985",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shuten-doji/episodes/4281985",
+                    "Titles": {
+                        "eng": "Chapter of Goma",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4281986",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shuten-doji/episodes/4281986",
+                    "Titles": {
+                        "eng": "Chapter of Tekki",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4281987",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shuten-doji/episodes/4281987",
+                    "Titles": {
+                        "eng": "End Game",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

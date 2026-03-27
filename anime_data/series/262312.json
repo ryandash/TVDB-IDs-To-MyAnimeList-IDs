@@ -1,0 +1,102 @@
+{
+    "URL": "https://thetvdb.com/series/dallos",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0294497/",
+        "https://www.themoviedb.org/tv/79328",
+        "https://www.wikidata.org/wiki/Q2626451",
+        "https://en.wikipedia.org/wiki/Dallos"
+    ],
+    "Titles": {
+        "eng": "Dallos",
+        "jpn": "ダロス"
+    },
+    "Aliases": [],
+    "Modified": "2026-02-06",
+    "Seasons": {
+        "0": {
+            "ID": "500535",
+            "URL": "https://thetvdb.com/series/dallos/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "4562431",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/dallos/episodes/4562431",
+                    "Titles": {
+                        "eng": "Dallos Special",
+                        "jpn": "ダロス スペシャル"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "500536",
+            "URL": "https://thetvdb.com/series/dallos/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "4395374",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dallos/episodes/4395374",
+                    "Titles": {
+                        "eng": "Remember Bartholomew",
+                        "jpn": "リメンバー・バーソロミュー"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4395373",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dallos/episodes/4395373",
+                    "Titles": {
+                        "eng": "Dallos Destruction Order!",
+                        "jpn": "ダロス破壊指令!"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4395375",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dallos/episodes/4395375",
+                    "Titles": {
+                        "eng": "The Sea of Remembrance -ACT.I-",
+                        "jpn": "望郷の海に起つ ACT1"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4395376",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dallos/episodes/4395376",
+                    "Titles": {
+                        "eng": "The Sea of Remembrance -ACT.II-",
+                        "jpn": "望郷の海に起つ ACT2"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,372 @@
+{
+    "URL": "https://thetvdb.com/series/twins-of-st-claires",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0493192/",
+        "https://www.themoviedb.org/tv/91950",
+        "https://www.themoviedb.org/tv/91950"
+    ],
+    "Titles": {
+        "eng": "Mischievous Twins: The Tales of St. Clare's",
+        "jpn": "おちゃめなふたご ―クレア学院物語"
+    },
+    "Aliases": [
+        "The Twins at St. Clare's",
+        "Ochame na Futago: Kurea Gakuin Monogatari",
+        "Ochame na futago: Claire Gakuin monogatari"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "549405",
+            "URL": "https://thetvdb.com/series/twins-of-st-claires/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "5438707",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/5438707",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 3
+                },
+                "2": {
+                    "ID": "7269748",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/7269748",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 3
+                },
+                "3": {
+                    "ID": "7269750",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/7269750",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 3
+                }
+            }
+        },
+        "1": {
+            "ID": "470702",
+            "URL": "https://thetvdb.com/series/twins-of-st-claires/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "4141562",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141562",
+                    "Titles": {
+                        "eng": "I Hate Clare Academy",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4141563",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141563",
+                    "Titles": {
+                        "eng": "Look at Me Playing Lacrosse",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4141564",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141564",
+                    "Titles": {
+                        "eng": "The Lamenting Mademoiselle",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4141565",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141565",
+                    "Titles": {
+                        "eng": "Prankster Jeanette",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4141566",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141566",
+                    "Titles": {
+                        "eng": "Party in the Middle of the Night",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4141567",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141567",
+                    "Titles": {
+                        "eng": "Poor Catherine",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4141568",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141568",
+                    "Titles": {
+                        "eng": "Don't Give Up, Ms. Kennedy!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4141569",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141569",
+                    "Titles": {
+                        "eng": "Four Presents",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4141570",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141570",
+                    "Titles": {
+                        "eng": "Shayla's Secret",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4141571",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141571",
+                    "Titles": {
+                        "eng": "Let's Break the School Rules!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4141572",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141572",
+                    "Titles": {
+                        "eng": "Isabelle Cheated!?",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4141573",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141573",
+                    "Titles": {
+                        "eng": "Big Pinch! Who Will Be the Substitute?",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4141574",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141574",
+                    "Titles": {
+                        "eng": "Goodbye, Ms. Kennedy",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4141575",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141575",
+                    "Titles": {
+                        "eng": "I Burned My Homework!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4141576",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141576",
+                    "Titles": {
+                        "eng": "Lovely Ms. Robert",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4141577",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141577",
+                    "Titles": {
+                        "eng": "Debate Until Morning!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4141578",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141578",
+                    "Titles": {
+                        "eng": "Big Fight on the Birthday!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4141579",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141579",
+                    "Titles": {
+                        "eng": "Tarot Becomes Popular",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4141580",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141580",
+                    "Titles": {
+                        "eng": "Don't Stop, Hillary!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4141581",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141581",
+                    "Titles": {
+                        "eng": "Bonjour in a Swimsuit",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4141582",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141582",
+                    "Titles": {
+                        "eng": "Ms. Walker's Gift",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4141583",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141583",
+                    "Titles": {
+                        "eng": "Run, Gladys!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4141584",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141584",
+                    "Titles": {
+                        "eng": "Eh! History Changed!?",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "4141585",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141585",
+                    "Titles": {
+                        "eng": "Let's Diet!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "4141586",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141586",
+                    "Titles": {
+                        "eng": "Give Me Back Binks!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "4141587",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/twins-of-st-claires/episodes/4141587",
+                    "Titles": {
+                        "eng": "Thank You, Clare Academy",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

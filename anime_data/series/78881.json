@@ -1,0 +1,587 @@
+{
+    "URL": "https://thetvdb.com/series/basilisk",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Fantasy",
+        "History",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0856348/",
+        "https://www.themoviedb.org/tv/9410"
+    ],
+    "Titles": {
+        "eng": "Basilisk",
+        "jpn": "バジリスク ～甲賀忍法帖～"
+    },
+    "Aliases": [
+        "Basilisk! Kouga Ninja Scrolls",
+        "Basilisk: The Ouka Ninja Scrolls",
+        "Basilisk - Ouka Ninpouchou",
+        "バジリスク ～桜花忍法帖～",
+        "Basilisk: Ouka Ninpouchou",
+        "Basilisk: Ouka Ninpou Chou",
+        "Basilisk: Ōka Ninpōchō"
+    ],
+    "Modified": "2026-01-12",
+    "Seasons": {
+        "1": {
+            "ID": "15798",
+            "URL": "https://thetvdb.com/series/basilisk/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "zho": "第一季 甲贺忍法帖",
+                "pt": "Os Pergaminhos Ninja de Kouga"
+            },
+            "# Episodes": 24,
+            "Episodes": {
+                "1": {
+                    "ID": "298113",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/298113",
+                    "Titles": {
+                        "eng": "Destiny",
+                        "jpn": "相思相殺"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "298114",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/298114",
+                    "Titles": {
+                        "eng": "Last Rendezvous",
+                        "jpn": "胎動弐場"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "298115",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/298115",
+                    "Titles": {
+                        "eng": "The Onslaught of War",
+                        "jpn": "凶蟲無惨"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "298116",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/298116",
+                    "Titles": {
+                        "eng": "The Horned Owl",
+                        "jpn": "妖郭夜行"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "298117",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/298117",
+                    "Titles": {
+                        "eng": "The Surprise Attack",
+                        "jpn": "忍者六儀"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "298171",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/298171",
+                    "Titles": {
+                        "eng": "Longing in the Rain",
+                        "jpn": "降涙恋慕"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "298172",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/298172",
+                    "Titles": {
+                        "eng": "The Bloodsucking Seductress",
+                        "jpn": "人肌地獄"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "298173",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/298173",
+                    "Titles": {
+                        "eng": "Cage of Blood",
+                        "jpn": "血煙無情"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "298174",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/298174",
+                    "Titles": {
+                        "eng": "Farewell",
+                        "jpn": "哀絶霖雨"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "298175",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/298175",
+                    "Titles": {
+                        "eng": "Divine Mandate",
+                        "jpn": "神祖御諚"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "298176",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/298176",
+                    "Titles": {
+                        "eng": "On Their Own",
+                        "jpn": "石礫無告"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "298177",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/298177",
+                    "Titles": {
+                        "eng": "Remembrance",
+                        "jpn": "追想幻燈"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "303380",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/303380",
+                    "Titles": {
+                        "eng": "A Swarm of Butterflies",
+                        "jpn": "胡蝶乱舞"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "303381",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/303381",
+                    "Titles": {
+                        "eng": "Fallen Flower",
+                        "jpn": "散花海峡"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "303382",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/303382",
+                    "Titles": {
+                        "eng": "Reckoning",
+                        "jpn": "波涛獄門"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "303383",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/303383",
+                    "Titles": {
+                        "eng": "First Impressions",
+                        "jpn": "懐抱淡画"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "303384",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/303384",
+                    "Titles": {
+                        "eng": "Wandering Hearts",
+                        "jpn": "昏冥流亡"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "303385",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/303385",
+                    "Titles": {
+                        "eng": "A Dawn Without Light",
+                        "jpn": "無明払暁"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "303386",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/303386",
+                    "Titles": {
+                        "eng": "Conspiracy",
+                        "jpn": "猛女姦謀"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "303387",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/303387",
+                    "Titles": {
+                        "eng": "River of Mercy",
+                        "jpn": "仁慈流々"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "305187",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/305187",
+                    "Titles": {
+                        "eng": "With All Her Heart",
+                        "jpn": "魅殺陽炎"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "305188",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/305188",
+                    "Titles": {
+                        "eng": "The Haunted",
+                        "jpn": "鬼哭啾々"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "305189",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/305189",
+                    "Titles": {
+                        "eng": "Emancipation",
+                        "jpn": "夢幻泡影"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "305190",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/305190",
+                    "Titles": {
+                        "eng": "Requiem",
+                        "jpn": "来世邂逅"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "737192",
+            "URL": "https://thetvdb.com/series/basilisk/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": "Basilisk: Ouka Ninpouchou",
+                "zho": "第二季 樱花忍法帖",
+                "kor": "바질리스크 오우카인법첩"
+            },
+            "# Episodes": 24,
+            "Episodes": {
+                "1": {
+                    "ID": "6402598",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/6402598",
+                    "Titles": {
+                        "eng": "The Cherry Blossoms Have Fallen",
+                        "jpn": "桜花、咲きにけり"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6495157",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/6495157",
+                    "Titles": {
+                        "eng": "The Five Treasures Have Arrived",
+                        "jpn": "五宝連、推参す"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6506952",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/6506952",
+                    "Titles": {
+                        "eng": "The Kouga Must Die",
+                        "jpn": "甲賀、散るべし"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6520556",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/6520556",
+                    "Titles": {
+                        "eng": "The Joujinshuu Appear",
+                        "jpn": "成尋衆、顕現す"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6522420",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/6522420",
+                    "Titles": {
+                        "eng": "The Cherry Blossoms Run Mad",
+                        "jpn": "桜花、狂奔す"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6540326",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/6540326",
+                    "Titles": {
+                        "eng": "Evil Clouds Begin to Stir",
+                        "jpn": "凶雲、胎動す"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6550872",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/6550872",
+                    "Titles": {
+                        "eng": "Tadanaga's Change of Heart",
+                        "jpn": "忠長、翻心す"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6563390",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/6563390",
+                    "Titles": {
+                        "eng": "The Advent of Joujin",
+                        "jpn": "成尋、再来す"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6576989",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/6576989",
+                    "Titles": {
+                        "eng": "The Butterfly Dances",
+                        "jpn": "胡蝶、舞えり"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6588204",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/6588204",
+                    "Titles": {
+                        "eng": "The Heavenly Robe Sees Carnage",
+                        "jpn": "羽衣、修羅を見たり"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6601351",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/6601351",
+                    "Titles": {
+                        "eng": "Like a Rhinoceros",
+                        "jpn": "汝、犀の角のごとく"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6611556",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/6611556",
+                    "Titles": {
+                        "eng": "The Wind Blows Through the Pines",
+                        "jpn": "松籟、吹き抜けり"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "6619802",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/6619802",
+                    "Titles": {
+                        "eng": "Utsutsu Dreams of Hell",
+                        "jpn": "現、奈落の夢を見る"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "6632768",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/6632768",
+                    "Titles": {
+                        "eng": "Murakamo Must Be Destroyed",
+                        "jpn": "叢雲、滅すべし"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "6642882",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/6642882",
+                    "Titles": {
+                        "eng": "The Shielding Eye is Deceived",
+                        "jpn": "盾眼、謀られたり"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "6661816",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/6661816",
+                    "Titles": {
+                        "eng": "The Massive Castle Rumbles",
+                        "jpn": "巨城、鳴動す"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "6661817",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/6661817",
+                    "Titles": {
+                        "eng": "Everyone Gathers at the Battlefield",
+                        "jpn": "一同、修羅に集う"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "6681268",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/6681268",
+                    "Titles": {
+                        "eng": "The Cherry Blossoms Must Fall",
+                        "jpn": "桜花、散るべし"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "6685032",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/6685032",
+                    "Titles": {
+                        "eng": "100 Eyes See Their Destiny",
+                        "jpn": "百目、宿命を見たり"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "6684744",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/6684744",
+                    "Titles": {
+                        "eng": "We Must See the Lotus Flowers Together",
+                        "jpn": "蓮華、俱に見るべし"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "6684745",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/6684745",
+                    "Titles": {
+                        "eng": "Remembrance Must Fade",
+                        "jpn": "於母影、失せるべし"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "6684746",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/6684746",
+                    "Titles": {
+                        "eng": "The Demon Revives",
+                        "jpn": "魔、黄泉返りたり"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "6684747",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/6684747",
+                    "Titles": {
+                        "eng": "The Cherry Blossoms Scatter",
+                        "jpn": "桜花、乱れあう"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "6684748",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/basilisk/episodes/6684748",
+                    "Titles": {
+                        "eng": "The Cherry Blossoms Bloom",
+                        "jpn": "桜花、咲き戻りたり"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

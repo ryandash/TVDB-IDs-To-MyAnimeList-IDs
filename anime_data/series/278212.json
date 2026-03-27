@@ -1,0 +1,85 @@
+{
+    "URL": "https://thetvdb.com/series/wonder-momo",
+    "Genres": [
+        "Anime - Shojo",
+        "Superhero"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt3804720/",
+        "https://www.themoviedb.org/tv/61538"
+    ],
+    "Titles": {
+        "eng": "Wonder Momo",
+        "jpn": "ワンダーモモ"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "575858",
+            "URL": "https://thetvdb.com/series/wonder-momo/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "4791181",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/wonder-momo/episodes/4791181",
+                    "Titles": {
+                        "eng": "High School Girl Fights the Enemy!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4797957",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/wonder-momo/episodes/4797957",
+                    "Titles": {
+                        "eng": "My Enemy, My Biggest Fan?",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4803015",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/wonder-momo/episodes/4803015",
+                    "Titles": {
+                        "eng": "The True Enemy By My Side?",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4803016",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/wonder-momo/episodes/4803016",
+                    "Titles": {
+                        "eng": "My Rival, My Enemy",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4817738",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/wonder-momo/episodes/4817738",
+                    "Titles": {
+                        "eng": "Shibuya Under Attack!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

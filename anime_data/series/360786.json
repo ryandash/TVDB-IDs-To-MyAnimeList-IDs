@@ -1,0 +1,582 @@
+{
+    "URL": "https://thetvdb.com/series/jimoto-ga-japan",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Comedy",
+        "Sport"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt12088162/",
+        "https://www.themoviedb.org/tv/87480"
+    ],
+    "Titles": {
+        "eng": "I'm from Japan",
+        "jpn": "ジモトがジャパン"
+    },
+    "Aliases": [],
+    "Modified": "2021-05-19",
+    "Seasons": {
+        "1": {
+            "ID": "801637",
+            "URL": "https://thetvdb.com/series/jimoto-ga-japan/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 50,
+            "Episodes": {
+                "1": {
+                    "ID": "7079866",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/7079866",
+                    "Titles": {
+                        "eng": "Episode 1",
+                        "jpn": "ジモトがジャパン"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8334813",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334813",
+                    "Titles": {
+                        "eng": "Tokio is Yamagata",
+                        "jpn": "トキオがヤマガタ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8334814",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334814",
+                    "Titles": {
+                        "eng": "Hide is Saitama",
+                        "jpn": "ヒデがサイタマ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "8334815",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334815",
+                    "Titles": {
+                        "eng": "Run through with love Shizuoka",
+                        "jpn": "静岡愛で駆け抜けろ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "8334816",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334816",
+                    "Titles": {
+                        "eng": "Mensore in Jimo!",
+                        "jpn": "ジモ語でめんそーれ！"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "8334817",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334817",
+                    "Titles": {
+                        "eng": "City Boy is hard ~ Akita edition of love ~",
+                        "jpn": "シティボーイはつらいよ〜恋の秋田編〜"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "8334818",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334818",
+                    "Titles": {
+                        "eng": "Sakigake !! City Boy Championship",
+                        "jpn": "魁!!シティボーイ選手権"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "8334819",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334819",
+                    "Titles": {
+                        "eng": "Save Hide with Oita Fist!",
+                        "jpn": "大分拳でヒデを救え！"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "8334820",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334820",
+                    "Titles": {
+                        "eng": "Shinobi is triple and nobinobi",
+                        "jpn": "シノビが三重でノビノビ"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "8334821",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334821",
+                    "Titles": {
+                        "eng": "Fukui is Jurassic",
+                        "jpn": "フクイがジュラシック"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "8334828",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334828",
+                    "Titles": {
+                        "eng": "Ibaraki is American",
+                        "jpn": "イバラキがアメリカンだっぺ"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "8334829",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334829",
+                    "Titles": {
+                        "eng": "Tottori is always one",
+                        "jpn": "鳥取はいつもひとつ"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "8334830",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334830",
+                    "Titles": {
+                        "eng": "Mirror, Snow White in Kagawa",
+                        "jpn": "鏡よ香川で白雪姫"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "8334831",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334831",
+                    "Titles": {
+                        "eng": "Avoid red dots!",
+                        "jpn": "赤点回避するばい！"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "8334832",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334832",
+                    "Titles": {
+                        "eng": "Yamanashi vs Shizuoka! Fuji take battle of the world division",
+                        "jpn": "山梨vs静岡！天下分け目の富士取り合戦"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "8334833",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334833",
+                    "Titles": {
+                        "eng": "Jimotarou Legend Stand Up Okayama !!",
+                        "jpn": "ジモタロウ伝説立ち上がれ岡山!!"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "8334834",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334834",
+                    "Titles": {
+                        "eng": "Friends with miraculous fossils in Fukushima",
+                        "jpn": "奇跡の化石でお友達 in 福島"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "8334835",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334835",
+                    "Titles": {
+                        "eng": "City Boy is hard ~ Midsummer Kanagawa edition ~",
+                        "jpn": "シティボーイはつらいよ〜真夏の神奈川編〜"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "8334836",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334836",
+                    "Titles": {
+                        "eng": "Golden Sasebo Burger race",
+                        "jpn": "黄金の佐世保バーガー争奪レース"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "8334837",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334837",
+                    "Titles": {
+                        "eng": "Sweets Memories in Nagano",
+                        "jpn": "長野でスイーツメモリーズ"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "8334838",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334838",
+                    "Titles": {
+                        "eng": "Gunma Burning Onsen Hell",
+                        "jpn": "群馬灼熱おんせん地獄"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "8334839",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334839",
+                    "Titles": {
+                        "eng": "Jimoto Shoten Revival Daisakusen with Niigata Fist !!",
+                        "jpn": "新潟拳でジモト商店復活大作戦!!"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "8334840",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334840",
+                    "Titles": {
+                        "eng": "Jimoto was blue, so I'm sorry!",
+                        "jpn": "ジモトは青かったでごわす！"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "8334841",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334841",
+                    "Titles": {
+                        "eng": "Even in the ancient city !? School trip Rhapsody (Part 1)",
+                        "jpn": "古都でもめごと!?修学旅行ラプソディー（前編）"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "8334842",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334842",
+                    "Titles": {
+                        "eng": "Even in the ancient city !? School trip Rhapsody (Part 2)",
+                        "jpn": "古都でもめごと!?修学旅行ラプソディー（後編）"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "8334843",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334843",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "本当にあったジモト奈良ではの怖い話"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "8334844",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334844",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "本当にあったジモト奈良ではの怖い話"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "8334845",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334845",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "愛知を愛したお殿様"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "8334846",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334846",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "妹襲来〜ミヤギセンダイに憧れて〜"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "8334847",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334847",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "広島愛を止めるな"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "8334848",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334848",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "琵琶湖に眠るプレゼント"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "8334849",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334849",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ケー子が高知で甘〜い恋愛バトルぜよ！"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "8334850",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334850",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "みんなで作れ！富山の秘薬"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "8334851",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334851",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "太陽の国！フェニックスマスラオ！"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "8334852",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334852",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ジモト愛でGO!佐賀バルーンレース！"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "8334853",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334853",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "不思議な栃木のジモンキー"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "8334854",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334854",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "愛媛からおはよう"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "8334855",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334855",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "サイレント山口ナイト〜聖なる夜においでませ〜"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "8334858",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334858",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "突撃金箔お宅訪問！in 石川"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "8334859",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334859",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "夢の千葉ジモティーランド"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "8334860",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334860",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "岩手県襲撃事件"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "8334861",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334861",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "美しき!?兵庫のスター"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "8334862",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334862",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "郡上おどりでレッツゴー！"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "8334863",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334863",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "島根に消えたヒデ〜トラブルミステリートレイン〜"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "8334864",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334864",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "北海道はデッカイドー"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "8334865",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334865",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "かっとばせ徳島！"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "8334866",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334866",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ジャパンに迫る黒い影〜青森脱出編〜"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "8334867",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334867",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "なんだパンダで和歌山県"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "8334868",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334868",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "地獄のツーリングバトル in 熊本"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "8334869",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/jimoto-ga-japan/episodes/8334869",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "地獄のツーリングバトル in 熊本"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

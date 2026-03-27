@@ -1,0 +1,406 @@
+{
+    "URL": "https://thetvdb.com/series/flcl",
+    "Genres": [
+        "Action",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Mini-Series",
+        "Romance",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/AC4A-9A44-3548-E09D-2A54-D",
+        "https://www.imdb.com/title/tt0279077/",
+        "https://www.adultswim.com/videos/flcl",
+        "https://tvlistings.zap2it.com/overview.html?programSeriesId=SH02202209",
+        "https://www.tvmaze.com/shows/2772/show-slug",
+        "https://www.themoviedb.org/tv/5895",
+        "https://www.wikidata.org/wiki/Q92572",
+        "https://en.wikipedia.org/wiki/FLCL",
+        "https://x.com/FLCL_USA"
+    ],
+    "Titles": {
+        "eng": "FLCL",
+        "jpn": "フリクリ"
+    },
+    "Aliases": [
+        "Fooly Cooly",
+        "FLCL: Progressive",
+        "FLCL: Alternative",
+        "FLCL: Grunge",
+        "FLCL: Shoegaze",
+        "フリクリ プログレ",
+        "フリクリ オルタナ"
+    ],
+    "Modified": "2026-01-07",
+    "Seasons": {
+        "0": {
+            "ID": "26332",
+            "URL": "https://thetvdb.com/series/flcl/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "8051162",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/8051162",
+                    "Titles": {
+                        "eng": "FLCL Progressive",
+                        "jpn": "フリクリ プログレ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "8051167",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/8051167",
+                    "Titles": {
+                        "eng": "FLCL Alternative",
+                        "jpn": "フリクリ オルタナ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "15795",
+            "URL": "https://thetvdb.com/series/flcl/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "298442",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/298442",
+                    "Titles": {
+                        "eng": "Fooly Cooly",
+                        "jpn": "フリクリ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "298443",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/298443",
+                    "Titles": {
+                        "eng": "Fire Starter",
+                        "jpn": "ファイスタ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "298444",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/298444",
+                    "Titles": {
+                        "eng": "Marquis de Carabas",
+                        "jpn": "マルラバ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "298445",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/298445",
+                    "Titles": {
+                        "eng": "Furi Kiri (Full Swing)",
+                        "jpn": "フリキリ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "298446",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/298446",
+                    "Titles": {
+                        "eng": "Brittle Bullet",
+                        "jpn": "ブラプレ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "298447",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/298447",
+                    "Titles": {
+                        "eng": "FLCLimax",
+                        "jpn": "フリクラ"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "718894",
+            "URL": "https://thetvdb.com/series/flcl/seasons/official/2",
+            "Titles": {
+                "eng": "Progressive",
+                "jpn": "フリクリ プログレ",
+                "spa": "FLCL: Progressive",
+                "ita": "FLCL: Progressive",
+                "deu": "FLCL 2: Progressive",
+                "pt": "FLCL: Progressive"
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "6610010",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/6610010",
+                    "Titles": {
+                        "eng": "Re: Start",
+                        "jpn": "サイスタ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6171872",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/6171872",
+                    "Titles": {
+                        "eng": "Freebie Honey",
+                        "jpn": "フリハニ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6357131",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/6357131",
+                    "Titles": {
+                        "eng": "Stone Skipping",
+                        "jpn": "ミズキリ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6821045",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/6821045",
+                    "Titles": {
+                        "eng": "LooPQR",
+                        "jpn": "ラリルレ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6357133",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/6357133",
+                    "Titles": {
+                        "eng": "Fool on the Planet",
+                        "jpn": "フルプラ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6357135",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/6357135",
+                    "Titles": {
+                        "eng": "Our Running",
+                        "jpn": "アワラン"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "723157",
+            "URL": "https://thetvdb.com/series/flcl/seasons/official/3",
+            "Titles": {
+                "eng": "Alternative",
+                "jpn": "フリクリ オルタナ",
+                "ita": "FLCL: Alternative",
+                "pol": "Furi Kuri: Alternatywa",
+                "deu": "FLCL 3: Alternative",
+                "pt": "FLCL: Alternative",
+                "spa": "Fooly Cooly (FLCL) Alternative"
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "6610011",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/6610011",
+                    "Titles": {
+                        "eng": "Flying Memory",
+                        "jpn": "フラメモ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6357143",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/6357143",
+                    "Titles": {
+                        "eng": "Grown-Up Wannabe",
+                        "jpn": "トナブリ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6357142",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/6357142",
+                    "Titles": {
+                        "eng": "Freestyle Collection",
+                        "jpn": "フリコレ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6357141",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/6357141",
+                    "Titles": {
+                        "eng": "Pit-a-Pat",
+                        "jpn": "ピタパト"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6357140",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/6357140",
+                    "Titles": {
+                        "eng": "Shake It Off",
+                        "jpn": "フリステ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6357139",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/6357139",
+                    "Titles": {
+                        "eng": "Full Flat",
+                        "jpn": "フルフラ"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "4": {
+            "ID": "1990553",
+            "URL": "https://thetvdb.com/series/flcl/seasons/official/4",
+            "Titles": {
+                "eng": "Grunge",
+                "jpn": null,
+                "spa": "Fooly Cooly (FLCL) Grunge"
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "9060618",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/9060618",
+                    "Titles": {
+                        "eng": "Shinpachi",
+                        "jpn": "シンパチ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9589985",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/9589985",
+                    "Titles": {
+                        "eng": "Shonari",
+                        "jpn": "ショウナリ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9589986",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/9589986",
+                    "Titles": {
+                        "eng": "Orinoko",
+                        "jpn": "オリノコ"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "5": {
+            "ID": "1990554",
+            "URL": "https://thetvdb.com/series/flcl/seasons/official/5",
+            "Titles": {
+                "eng": "Shoegaze",
+                "jpn": null,
+                "spa": "Fooly Cooly (FLCL) Shoegase"
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "9061506",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/9061506",
+                    "Titles": {
+                        "eng": "Furu-Bari (Full Barricade)",
+                        "jpn": "フルバリ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9589988",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/9589988",
+                    "Titles": {
+                        "eng": "Gene-Bato (Generational Battle)",
+                        "jpn": "ジェネバト"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9589989",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flcl/episodes/9589989",
+                    "Titles": {
+                        "eng": "Far-Fre (Far Friend)",
+                        "jpn": "ファルフレ"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

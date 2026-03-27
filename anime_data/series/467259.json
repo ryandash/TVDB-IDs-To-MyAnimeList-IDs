@@ -1,0 +1,74 @@
+{
+    "URL": "https://thetvdb.com/series/aki-sora-yume-no-naka",
+    "Genres": [
+        "Anime"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/73108"
+    ],
+    "Titles": {
+        "eng": "Aki-Sora: In a Dream",
+        "jpn": "Aki-Sora: Yume no Naka"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "2202341",
+            "URL": "https://thetvdb.com/series/aki-sora-yume-no-naka/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11301972",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/aki-sora-yume-no-naka/episodes/11301972",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "-"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "2202342",
+            "URL": "https://thetvdb.com/series/aki-sora-yume-no-naka/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "11301968",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aki-sora-yume-no-naka/episodes/11301968",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "上巻"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11301969",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/aki-sora-yume-no-naka/episodes/11301969",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "下巻"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

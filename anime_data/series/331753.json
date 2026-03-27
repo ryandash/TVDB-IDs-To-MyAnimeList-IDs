@@ -1,0 +1,1916 @@
+{
+    "URL": "https://thetvdb.com/series/black-clover",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Science Fiction",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt7441658/",
+        "https://www.bclover.jp",
+        "https://tvlistings.zap2it.com/overview.html?programSeriesId=EP02793762",
+        "https://www.themoviedb.org/tv/73223",
+        "https://x.com/bclover_PR"
+    ],
+    "Titles": {
+        "eng": "Black Clover",
+        "jpn": "ブラッククローバー"
+    },
+    "Aliases": [],
+    "Modified": "2026-02-24",
+    "Seasons": {
+        "1": {
+            "ID": "720595",
+            "URL": "https://thetvdb.com/series/black-clover/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 170,
+            "Episodes": {
+                "1": {
+                    "ID": "6279071",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6279071",
+                    "Titles": {
+                        "eng": "Asta and Yuno",
+                        "jpn": "アスタとユノ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6279072",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6279072",
+                    "Titles": {
+                        "eng": "A Young Man's Vow",
+                        "jpn": "少年の誓い"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6279073",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6279073",
+                    "Titles": {
+                        "eng": "To the Royal Capital!",
+                        "jpn": "クローバー王国、王都へ！"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6279074",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6279074",
+                    "Titles": {
+                        "eng": "The Magic Knights Entrance Exam",
+                        "jpn": "魔法騎士団入団試験"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6279075",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6279075",
+                    "Titles": {
+                        "eng": "The Road to the Wizard King",
+                        "jpn": "魔法帝への道"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6319767",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6319767",
+                    "Titles": {
+                        "eng": "The Black Bulls",
+                        "jpn": "黒の暴牛"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6319768",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6319768",
+                    "Titles": {
+                        "eng": "Another New Member",
+                        "jpn": "もう一人の新入団員"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6319769",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6319769",
+                    "Titles": {
+                        "eng": "Go! Go! My First Mission",
+                        "jpn": "ゴーゴー初任務"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6319770",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6319770",
+                    "Titles": {
+                        "eng": "Beasts",
+                        "jpn": "獣（けもの）"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6319771",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6319771",
+                    "Titles": {
+                        "eng": "Guardians",
+                        "jpn": "護る者"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6319772",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6319772",
+                    "Titles": {
+                        "eng": "What Happened on a Certain Day in the Castle Town",
+                        "jpn": "とある日の城下町での出来事"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6319773",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6319773",
+                    "Titles": {
+                        "eng": "The Wizard King Saw",
+                        "jpn": "魔法帝は見た"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "6321504",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6321504",
+                    "Titles": {
+                        "eng": "The Wizard King Saw, Continued!",
+                        "jpn": "続・魔法帝は見た"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "6397042",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6397042",
+                    "Titles": {
+                        "eng": "Dungeon",
+                        "jpn": "魔宮(ダンジョン)"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "6397044",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6397044",
+                    "Titles": {
+                        "eng": "The Diamond Mage",
+                        "jpn": "ダイヤモンドの魔導戦士"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "6397046",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6397046",
+                    "Titles": {
+                        "eng": "Friends",
+                        "jpn": "仲間"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "6397299",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6397299",
+                    "Titles": {
+                        "eng": "Destroyer",
+                        "jpn": "破壊者"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "6397300",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6397300",
+                    "Titles": {
+                        "eng": "Memories of You",
+                        "jpn": "追憶の君"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "6397301",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6397301",
+                    "Titles": {
+                        "eng": "Destruction and Salvation",
+                        "jpn": "崩壊と救済"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "6551309",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6551309",
+                    "Titles": {
+                        "eng": "Assembly at the Royal Capital",
+                        "jpn": "王都集結"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "6555956",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6555956",
+                    "Titles": {
+                        "eng": "Capital Riot",
+                        "jpn": "王都騒乱"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "6555957",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6555957",
+                    "Titles": {
+                        "eng": "Wild Magic Dance",
+                        "jpn": "魔法乱舞"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "6567514",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6567514",
+                    "Titles": {
+                        "eng": "The King of the Crimson Lions",
+                        "jpn": "紅蓮の獅子王"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "6567515",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6567515",
+                    "Titles": {
+                        "eng": "Blackout",
+                        "jpn": "ブラックアウト"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "6608902",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6608902",
+                    "Titles": {
+                        "eng": "Adversity",
+                        "jpn": "逆境"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "6616103",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616103",
+                    "Titles": {
+                        "eng": "Wounded Beasts",
+                        "jpn": "手負いの獣"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "6616105",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616105",
+                    "Titles": {
+                        "eng": "Light",
+                        "jpn": "光"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "6616106",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616106",
+                    "Titles": {
+                        "eng": "The One I've Set My Heart On",
+                        "jpn": "心に決めた人"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "6616107",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616107",
+                    "Titles": {
+                        "eng": "Path",
+                        "jpn": "道"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "6616108",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616108",
+                    "Titles": {
+                        "eng": "The Mirror Mage",
+                        "jpn": "鏡の魔道士"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "6616109",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616109",
+                    "Titles": {
+                        "eng": "Pursuit Over the Snow",
+                        "jpn": "雪上の追跡"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "6616111",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616111",
+                    "Titles": {
+                        "eng": "Three-Leaf Sprouts",
+                        "jpn": "三つ葉の芽"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "6616112",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616112",
+                    "Titles": {
+                        "eng": "To Help Somebody Someday",
+                        "jpn": "いつか誰かの為になる"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "6616113",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616113",
+                    "Titles": {
+                        "eng": "Light Magic vs. Dark Magic",
+                        "jpn": "光魔法VS闇魔法"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "6616114",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616114",
+                    "Titles": {
+                        "eng": "The Light of Judgment",
+                        "jpn": "裁きの光"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "6616115",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616115",
+                    "Titles": {
+                        "eng": "Three Eyes",
+                        "jpn": "三つの眼"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "6616116",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616116",
+                    "Titles": {
+                        "eng": "The One With No Magic",
+                        "jpn": "魔力無き者"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "6616117",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616117",
+                    "Titles": {
+                        "eng": "The Magic Knights Captain Conference",
+                        "jpn": "魔法騎士団団長会議"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "6616119",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616119",
+                    "Titles": {
+                        "eng": "Three-Leaf Salute",
+                        "jpn": "三つ葉の敬礼"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "6616120",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616120",
+                    "Titles": {
+                        "eng": "A Black Beach Story",
+                        "jpn": "黒の海岸物語"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "6616121",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616121",
+                    "Titles": {
+                        "eng": "The Water Girl Grows Up",
+                        "jpn": "水の娘成長物語"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "6616122",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616122",
+                    "Titles": {
+                        "eng": "The Underwater Temple",
+                        "jpn": "海底神殿"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "6616124",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616124",
+                    "Titles": {
+                        "eng": "Temple Battle Royale",
+                        "jpn": "神殿バトルロワイヤル"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "6616125",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616125",
+                    "Titles": {
+                        "eng": "The Pointlessly Direct Fireball and the Wild Lightning",
+                        "jpn": "愚直な火球と奔放な稲妻"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "6616126",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616126",
+                    "Titles": {
+                        "eng": "The Guy Who Doesn't Know When to Quit",
+                        "jpn": "諦めの悪い男"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "6616128",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616128",
+                    "Titles": {
+                        "eng": "Awakening",
+                        "jpn": "覚醒"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "6616130",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616130",
+                    "Titles": {
+                        "eng": "The Only Weapon",
+                        "jpn": "唯一の武器"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "6616132",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616132",
+                    "Titles": {
+                        "eng": "Despair vs. Hope",
+                        "jpn": "絶望VS希望"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "6616135",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616135",
+                    "Titles": {
+                        "eng": "Beyond Limits",
+                        "jpn": "限界の先"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "6616136",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616136",
+                    "Titles": {
+                        "eng": "End of the Battle, End of Despair",
+                        "jpn": "戦いの果て 絶望の終わり"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "6616138",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6616138",
+                    "Titles": {
+                        "eng": "Proof of Rightness",
+                        "jpn": "正しさの証明"
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "6832458",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6832458",
+                    "Titles": {
+                        "eng": "Whoever's Strongest Wins",
+                        "jpn": "強い方が勝つ"
+                    },
+                    "Aliases": []
+                },
+                "53": {
+                    "ID": "6840619",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6840619",
+                    "Titles": {
+                        "eng": "Behind the Mask",
+                        "jpn": "仮面の奥"
+                    },
+                    "Aliases": []
+                },
+                "54": {
+                    "ID": "6840625",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6840625",
+                    "Titles": {
+                        "eng": "Never Again",
+                        "jpn": "もう二度と"
+                    },
+                    "Aliases": []
+                },
+                "55": {
+                    "ID": "6840629",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6840629",
+                    "Titles": {
+                        "eng": "The Man Named Fanzell",
+                        "jpn": "ファンゼルという男"
+                    },
+                    "Aliases": []
+                },
+                "56": {
+                    "ID": "6840633",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6840633",
+                    "Titles": {
+                        "eng": "The Man Named Fanzell, Continued",
+                        "jpn": "続・ファンゼルという男"
+                    },
+                    "Aliases": []
+                },
+                "57": {
+                    "ID": "6840634",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6840634",
+                    "Titles": {
+                        "eng": "Infiltration",
+                        "jpn": "潜入"
+                    },
+                    "Aliases": []
+                },
+                "58": {
+                    "ID": "6894638",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6894638",
+                    "Titles": {
+                        "eng": "The Battlefield Decision",
+                        "jpn": "戦場の決断"
+                    },
+                    "Aliases": []
+                },
+                "59": {
+                    "ID": "6903152",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6903152",
+                    "Titles": {
+                        "eng": "Flames of Hatred",
+                        "jpn": "憎悪の炎"
+                    },
+                    "Aliases": []
+                },
+                "60": {
+                    "ID": "6911635",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6911635",
+                    "Titles": {
+                        "eng": "Defectors' Atonement",
+                        "jpn": "離反者の贖罪"
+                    },
+                    "Aliases": []
+                },
+                "61": {
+                    "ID": "6919413",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6919413",
+                    "Titles": {
+                        "eng": "The Promised World",
+                        "jpn": "約束の世界"
+                    },
+                    "Aliases": []
+                },
+                "62": {
+                    "ID": "6927390",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6927390",
+                    "Titles": {
+                        "eng": "Bettering One Another",
+                        "jpn": "高め合う存在"
+                    },
+                    "Aliases": []
+                },
+                "63": {
+                    "ID": "6936617",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6936617",
+                    "Titles": {
+                        "eng": "Not in the Slightest",
+                        "jpn": "何でも無い"
+                    },
+                    "Aliases": []
+                },
+                "64": {
+                    "ID": "6944372",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6944372",
+                    "Titles": {
+                        "eng": "The Red Thread of Fate",
+                        "jpn": "運命の赤い糸"
+                    },
+                    "Aliases": []
+                },
+                "65": {
+                    "ID": "6954173",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6954173",
+                    "Titles": {
+                        "eng": "I'm Home",
+                        "jpn": "ただいま"
+                    },
+                    "Aliases": []
+                },
+                "66": {
+                    "ID": "6981798",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6981798",
+                    "Titles": {
+                        "eng": "The Secret of the Eye of the Midnight Sun",
+                        "jpn": "白夜の魔眼のひみつ"
+                    },
+                    "Aliases": []
+                },
+                "67": {
+                    "ID": "6993246",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/6993246",
+                    "Titles": {
+                        "eng": "A Fun Festival Double Date",
+                        "jpn": "楽しいお祭りＷデート"
+                    },
+                    "Aliases": []
+                },
+                "68": {
+                    "ID": "7003056",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7003056",
+                    "Titles": {
+                        "eng": "Battle to the Death?! Yami vs. Jack",
+                        "jpn": "死闘!? ヤミVSジャック"
+                    },
+                    "Aliases": []
+                },
+                "69": {
+                    "ID": "7003059",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7003059",
+                    "Titles": {
+                        "eng": "The Briar Maiden's Melancholy",
+                        "jpn": "荊乙女の憂鬱"
+                    },
+                    "Aliases": []
+                },
+                "70": {
+                    "ID": "7003064",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7003064",
+                    "Titles": {
+                        "eng": "Two New Stars",
+                        "jpn": "二つの新星"
+                    },
+                    "Aliases": []
+                },
+                "71": {
+                    "ID": "7003066",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7003066",
+                    "Titles": {
+                        "eng": "The Uncrowned, Undefeated Lioness",
+                        "jpn": "無冠無敗の女獅子"
+                    },
+                    "Aliases": []
+                },
+                "72": {
+                    "ID": "7003068",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7003068",
+                    "Titles": {
+                        "eng": "St. Elmo's Fire",
+                        "jpn": "セントエルモの火"
+                    },
+                    "Aliases": []
+                },
+                "73": {
+                    "ID": "7050132",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7050132",
+                    "Titles": {
+                        "eng": "The Royal Knights Selection Test",
+                        "jpn": "王撰騎士団（ロイヤルナイツ）選抜試験"
+                    },
+                    "Aliases": []
+                },
+                "74": {
+                    "ID": "7050133",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7050133",
+                    "Titles": {
+                        "eng": "Flower of Resolution",
+                        "jpn": "誓いの花"
+                    },
+                    "Aliases": []
+                },
+                "75": {
+                    "ID": "7050135",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7050135",
+                    "Titles": {
+                        "eng": "Fierce Battle",
+                        "jpn": "激戦"
+                    },
+                    "Aliases": []
+                },
+                "76": {
+                    "ID": "7094985",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7094985",
+                    "Titles": {
+                        "eng": "Mage X",
+                        "jpn": "魔道士Ｘ"
+                    },
+                    "Aliases": []
+                },
+                "77": {
+                    "ID": "7094986",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7094986",
+                    "Titles": {
+                        "eng": "Bad Blood",
+                        "jpn": "因縁"
+                    },
+                    "Aliases": []
+                },
+                "78": {
+                    "ID": "7094988",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7094988",
+                    "Titles": {
+                        "eng": "Peasant Trap",
+                        "jpn": "下民の罠"
+                    },
+                    "Aliases": []
+                },
+                "79": {
+                    "ID": "7094989",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7094989",
+                    "Titles": {
+                        "eng": "Mister Delinquent vs. Muscle Brains",
+                        "jpn": "ヤンキー先輩VS筋肉バカ"
+                    },
+                    "Aliases": []
+                },
+                "80": {
+                    "ID": "7094990",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7094990",
+                    "Titles": {
+                        "eng": "Special Little Brother vs. Failed Big Brother",
+                        "jpn": "優等生の弟ＶＳ不出来の兄"
+                    },
+                    "Aliases": []
+                },
+                "81": {
+                    "ID": "7151325",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7151325",
+                    "Titles": {
+                        "eng": "The Life of a Certain Man",
+                        "jpn": "ある一人の男の生き方"
+                    },
+                    "Aliases": []
+                },
+                "82": {
+                    "ID": "7151328",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7151328",
+                    "Titles": {
+                        "eng": "Clover Clips: The Nightmarish Charmy Special!",
+                        "jpn": "プチット・クローバー！悪夢のチャーミーＳＰ！"
+                    },
+                    "Aliases": []
+                },
+                "83": {
+                    "ID": "7160351",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7160351",
+                    "Titles": {
+                        "eng": "Burn It into You",
+                        "jpn": "今、焼き付ける"
+                    },
+                    "Aliases": []
+                },
+                "84": {
+                    "ID": "7170747",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7170747",
+                    "Titles": {
+                        "eng": "The Victors",
+                        "jpn": "勝者"
+                    },
+                    "Aliases": []
+                },
+                "85": {
+                    "ID": "7184091",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7184091",
+                    "Titles": {
+                        "eng": "Together in the Bath",
+                        "jpn": "裸の付き合い"
+                    },
+                    "Aliases": []
+                },
+                "86": {
+                    "ID": "7198891",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7198891",
+                    "Titles": {
+                        "eng": "Yami and Vangeance",
+                        "jpn": "ヤミとヴァンジャンス"
+                    },
+                    "Aliases": []
+                },
+                "87": {
+                    "ID": "7210784",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7210784",
+                    "Titles": {
+                        "eng": "Formation of the Royal Knights",
+                        "jpn": "王撰騎士団（ﾛｲﾔﾙﾅｲﾂ）結成"
+                    },
+                    "Aliases": []
+                },
+                "88": {
+                    "ID": "7222712",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7222712",
+                    "Titles": {
+                        "eng": "Storming the Eye of the Midnight Sun's Hideout!!!",
+                        "jpn": "白夜の魔眼アジト　突入!!!"
+                    },
+                    "Aliases": []
+                },
+                "89": {
+                    "ID": "7230952",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7230952",
+                    "Titles": {
+                        "eng": "The Black Bulls' Hideout",
+                        "jpn": "黒の暴牛アジト"
+                    },
+                    "Aliases": []
+                },
+                "90": {
+                    "ID": "7241657",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7241657",
+                    "Titles": {
+                        "eng": "Crazy Magic Battle",
+                        "jpn": "ムチャクチャな魔法戦"
+                    },
+                    "Aliases": []
+                },
+                "91": {
+                    "ID": "7251559",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7251559",
+                    "Titles": {
+                        "eng": "Mereoleona vs. Raia the Disloyal",
+                        "jpn": "メレオレオナVS不実のライア"
+                    },
+                    "Aliases": []
+                },
+                "92": {
+                    "ID": "7261790",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7261790",
+                    "Titles": {
+                        "eng": "The Wizard King vs. The Leader of the Eye of the Midnight Sun",
+                        "jpn": "魔法帝VS白夜の魔眼頭首"
+                    },
+                    "Aliases": []
+                },
+                "93": {
+                    "ID": "7273051",
+                    "TYPE": "OVA",
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7273051",
+                    "Titles": {
+                        "eng": "Julius Novachrono",
+                        "jpn": "ユリウス・ノヴァクロノ"
+                    },
+                    "Aliases": []
+                },
+                "94": {
+                    "ID": "7284973",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7284973",
+                    "Titles": {
+                        "eng": "New Future",
+                        "jpn": "新しい未来"
+                    },
+                    "Aliases": []
+                },
+                "95": {
+                    "ID": "7296516",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7296516",
+                    "Titles": {
+                        "eng": "Reincarnation",
+                        "jpn": "転生"
+                    },
+                    "Aliases": []
+                },
+                "96": {
+                    "ID": "7296520",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7296520",
+                    "Titles": {
+                        "eng": "The Black Bulls Captain vs. the Crimson Wild Rose",
+                        "jpn": "黒の暴牛団長VS深紅の野薔薇"
+                    },
+                    "Aliases": []
+                },
+                "97": {
+                    "ID": "7296526",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7296526",
+                    "Titles": {
+                        "eng": "Overwhelming Disadvantage",
+                        "jpn": "圧倒的劣勢"
+                    },
+                    "Aliases": []
+                },
+                "98": {
+                    "ID": "7320498",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7320498",
+                    "Titles": {
+                        "eng": "The Sleeping Lion",
+                        "jpn": "眠れる獅子"
+                    },
+                    "Aliases": []
+                },
+                "99": {
+                    "ID": "7320499",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7320499",
+                    "Titles": {
+                        "eng": "The Desperate Path Toward Survival",
+                        "jpn": "命懸けの生きる道"
+                    },
+                    "Aliases": []
+                },
+                "100": {
+                    "ID": "7320500",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7320500",
+                    "Titles": {
+                        "eng": "We Won't Lose to You",
+                        "jpn": "オマエには負けない"
+                    },
+                    "Aliases": []
+                },
+                "101": {
+                    "ID": "7336729",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7336729",
+                    "Titles": {
+                        "eng": "The Lives of the Village in the Sticks",
+                        "jpn": "最果ての村の命"
+                    },
+                    "Aliases": []
+                },
+                "102": {
+                    "ID": "7336730",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7336730",
+                    "Titles": {
+                        "eng": "Two Miracles",
+                        "jpn": "２つのキセキ"
+                    },
+                    "Aliases": []
+                },
+                "103": {
+                    "ID": "7336731",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7336731",
+                    "Titles": {
+                        "eng": "Release from Misfortune",
+                        "jpn": "因果解放"
+                    },
+                    "Aliases": []
+                },
+                "104": {
+                    "ID": "7363178",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7363178",
+                    "Titles": {
+                        "eng": "Lightning of Rage vs. Friends",
+                        "jpn": "怒りの雷VS仲間"
+                    },
+                    "Aliases": []
+                },
+                "105": {
+                    "ID": "7382716",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7382716",
+                    "Titles": {
+                        "eng": "Smiles, Tears",
+                        "jpn": "笑顔 涙"
+                    },
+                    "Aliases": []
+                },
+                "106": {
+                    "ID": "7382718",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7382718",
+                    "Titles": {
+                        "eng": "Path of Revenge, Path of Atonement",
+                        "jpn": "復讐の道 償いの道"
+                    },
+                    "Aliases": []
+                },
+                "107": {
+                    "ID": "7382720",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7382720",
+                    "Titles": {
+                        "eng": "The Battle for Clover Castle",
+                        "jpn": "決戦 クローバー城"
+                    },
+                    "Aliases": []
+                },
+                "108": {
+                    "ID": "7426362",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7426362",
+                    "Titles": {
+                        "eng": "Battlefield Dancer",
+                        "jpn": "戦場の舞姫"
+                    },
+                    "Aliases": []
+                },
+                "109": {
+                    "ID": "7426369",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7426369",
+                    "Titles": {
+                        "eng": "Spatial Mage Brothers",
+                        "jpn": "空間魔道士の兄弟"
+                    },
+                    "Aliases": []
+                },
+                "110": {
+                    "ID": "7449432",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7449432",
+                    "Titles": {
+                        "eng": "The Raging Bull Joins the Showdown!!",
+                        "jpn": "暴れ牛 頂上決戦参戦！！"
+                    },
+                    "Aliases": []
+                },
+                "111": {
+                    "ID": "7457638",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7457638",
+                    "Titles": {
+                        "eng": "The Eyes in the Mirror",
+                        "jpn": "鏡の中の瞳"
+                    },
+                    "Aliases": []
+                },
+                "112": {
+                    "ID": "7469055",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7469055",
+                    "Titles": {
+                        "eng": "Humans Who Can Be Trusted",
+                        "jpn": "信じられる人間"
+                    },
+                    "Aliases": []
+                },
+                "113": {
+                    "ID": "7479034",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7479034",
+                    "Titles": {
+                        "eng": "Storming the Shadow Palace",
+                        "jpn": "突入影の主宮"
+                    },
+                    "Aliases": []
+                },
+                "114": {
+                    "ID": "7491228",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7491228",
+                    "Titles": {
+                        "eng": "The Final Invaders",
+                        "jpn": "最後の入城者"
+                    },
+                    "Aliases": []
+                },
+                "115": {
+                    "ID": "7499303",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7499303",
+                    "Titles": {
+                        "eng": "Mastermind",
+                        "jpn": "黒幕"
+                    },
+                    "Aliases": []
+                },
+                "116": {
+                    "ID": "7509185",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7509185",
+                    "Titles": {
+                        "eng": "The Ultimate Natural Enemy",
+                        "jpn": "最強の天敵"
+                    },
+                    "Aliases": []
+                },
+                "117": {
+                    "ID": "7528677",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7528677",
+                    "Titles": {
+                        "eng": "Breaking the Seal",
+                        "jpn": "今封を切る時"
+                    },
+                    "Aliases": []
+                },
+                "118": {
+                    "ID": "7539181",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7539181",
+                    "Titles": {
+                        "eng": "A Reunion Across Time and Space",
+                        "jpn": "時空を超えた再会"
+                    },
+                    "Aliases": []
+                },
+                "119": {
+                    "ID": "7550386",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7550386",
+                    "Titles": {
+                        "eng": "The Final Attack",
+                        "jpn": "終わりの一撃"
+                    },
+                    "Aliases": []
+                },
+                "120": {
+                    "ID": "7561507",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7561507",
+                    "Titles": {
+                        "eng": "Dawn",
+                        "jpn": "夜明け"
+                    },
+                    "Aliases": []
+                },
+                "121": {
+                    "ID": "7577378",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7577378",
+                    "Titles": {
+                        "eng": "Three Problems",
+                        "jpn": "3つの困ったこと"
+                    },
+                    "Aliases": []
+                },
+                "122": {
+                    "ID": "7586278",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7586278",
+                    "Titles": {
+                        "eng": "As Pitch Black as It Gets",
+                        "jpn": "真っ黒けっけ"
+                    },
+                    "Aliases": []
+                },
+                "123": {
+                    "ID": "7596657",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7596657",
+                    "Titles": {
+                        "eng": "Nero Reminiscences Part 1",
+                        "jpn": "ネロ、追懐そして…前編"
+                    },
+                    "Aliases": []
+                },
+                "124": {
+                    "ID": "7608465",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7608465",
+                    "Titles": {
+                        "eng": "Nero Reminiscences Part 2",
+                        "jpn": "ネロ、追懐そして…後編"
+                    },
+                    "Aliases": []
+                },
+                "125": {
+                    "ID": "7618198",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7618198",
+                    "Titles": {
+                        "eng": "Return",
+                        "jpn": "帰還"
+                    },
+                    "Aliases": []
+                },
+                "126": {
+                    "ID": "7626518",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7626518",
+                    "Titles": {
+                        "eng": "The Blue Rose's Confession",
+                        "jpn": "碧薔薇の告白"
+                    },
+                    "Aliases": []
+                },
+                "127": {
+                    "ID": "7635813",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7635813",
+                    "Titles": {
+                        "eng": "Clues",
+                        "jpn": "手掛かり"
+                    },
+                    "Aliases": []
+                },
+                "128": {
+                    "ID": "7647603",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7647603",
+                    "Titles": {
+                        "eng": "To the Heart Kingdom!",
+                        "jpn": "ハート王国へ！"
+                    },
+                    "Aliases": []
+                },
+                "129": {
+                    "ID": "7659706",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7659706",
+                    "Titles": {
+                        "eng": "Devil Megicula",
+                        "jpn": "悪魔メギキュラ"
+                    },
+                    "Aliases": []
+                },
+                "130": {
+                    "ID": "7675270",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7675270",
+                    "Titles": {
+                        "eng": "The New Magic Knight Squad Captains' Meeting",
+                        "jpn": "新・魔法騎士団団長会議"
+                    },
+                    "Aliases": []
+                },
+                "131": {
+                    "ID": "7689146",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7689146",
+                    "Titles": {
+                        "eng": "A New Resolve",
+                        "jpn": "新たなる決意"
+                    },
+                    "Aliases": []
+                },
+                "132": {
+                    "ID": "7701499",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7701499",
+                    "Titles": {
+                        "eng": "The Lion Awakens",
+                        "jpn": "目覚める獅子"
+                    },
+                    "Aliases": []
+                },
+                "133": {
+                    "ID": "7714798",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7714798",
+                    "Titles": {
+                        "eng": "The Lion Awakens, Continued",
+                        "jpn": "続・目覚める獅子"
+                    },
+                    "Aliases": []
+                },
+                "134": {
+                    "ID": "7829013",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7829013",
+                    "Titles": {
+                        "eng": "Those Who Have Been Gathered",
+                        "jpn": "集められた者たち"
+                    },
+                    "Aliases": []
+                },
+                "135": {
+                    "ID": "7829023",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7829023",
+                    "Titles": {
+                        "eng": "The One Who Has My Heart, My Mind, and Soul",
+                        "jpn": "心に、心に、心に決めた人"
+                    },
+                    "Aliases": []
+                },
+                "136": {
+                    "ID": "7829027",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7829027",
+                    "Titles": {
+                        "eng": "A Black Deep-Sea Story",
+                        "jpn": "黒の深海物語"
+                    },
+                    "Aliases": []
+                },
+                "137": {
+                    "ID": "7867476",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7867476",
+                    "Titles": {
+                        "eng": "Charmy's Century of Hunger, Gordon's Millennium of Loneliness",
+                        "jpn": "チャーミー百年の食欲とゴードン千年の孤独"
+                    },
+                    "Aliases": []
+                },
+                "138": {
+                    "ID": "7875453",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7875453",
+                    "Titles": {
+                        "eng": "In Zara's Footsteps",
+                        "jpn": "ザラを継ぐ者"
+                    },
+                    "Aliases": []
+                },
+                "139": {
+                    "ID": "7885199",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7885199",
+                    "Titles": {
+                        "eng": "A Witch's Homecoming",
+                        "jpn": "魔女の帰郷"
+                    },
+                    "Aliases": []
+                },
+                "140": {
+                    "ID": "7896544",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7896544",
+                    "Titles": {
+                        "eng": "A Favor for Julius",
+                        "jpn": "ユリウスの頼み事"
+                    },
+                    "Aliases": []
+                },
+                "141": {
+                    "ID": "7904188",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7904188",
+                    "Titles": {
+                        "eng": "The Golden Family",
+                        "jpn": "金色の家族"
+                    },
+                    "Aliases": []
+                },
+                "142": {
+                    "ID": "7912835",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7912835",
+                    "Titles": {
+                        "eng": "Those Remaining",
+                        "jpn": "残された人々"
+                    },
+                    "Aliases": []
+                },
+                "143": {
+                    "ID": "7913409",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7913409",
+                    "Titles": {
+                        "eng": "The Tilted Scale",
+                        "jpn": "傾いた天秤"
+                    },
+                    "Aliases": []
+                },
+                "144": {
+                    "ID": "7913410",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7913410",
+                    "Titles": {
+                        "eng": "Those Who Wish to Destroy Devils",
+                        "jpn": "悪魔の滅びを願う者"
+                    },
+                    "Aliases": []
+                },
+                "145": {
+                    "ID": "7913411",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7913411",
+                    "Titles": {
+                        "eng": "Rescue",
+                        "jpn": "奪還"
+                    },
+                    "Aliases": []
+                },
+                "146": {
+                    "ID": "7968558",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7968558",
+                    "Titles": {
+                        "eng": "Those Who Worship the Devil",
+                        "jpn": "悪魔をあがめる者たち"
+                    },
+                    "Aliases": []
+                },
+                "147": {
+                    "ID": "7971091",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7971091",
+                    "Titles": {
+                        "eng": "Prepared to Die",
+                        "jpn": "決死"
+                    },
+                    "Aliases": []
+                },
+                "148": {
+                    "ID": "7971095",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7971095",
+                    "Titles": {
+                        "eng": "Becoming the Light That Shines Through the Darkness",
+                        "jpn": "闇を照らす光になる"
+                    },
+                    "Aliases": []
+                },
+                "149": {
+                    "ID": "7971098",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/7971098",
+                    "Titles": {
+                        "eng": "Two Things We Need to Find",
+                        "jpn": "ふたつのさがしもの"
+                    },
+                    "Aliases": []
+                },
+                "150": {
+                    "ID": "8004325",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/8004325",
+                    "Titles": {
+                        "eng": "The Maidens' Challenge",
+                        "jpn": "乙女たちの挑戦"
+                    },
+                    "Aliases": []
+                },
+                "151": {
+                    "ID": "8004327",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/8004327",
+                    "Titles": {
+                        "eng": "Clash! The Battle of the Magic Knights Squad Captains!",
+                        "jpn": "激突！魔法騎士団団長戦！"
+                    },
+                    "Aliases": []
+                },
+                "152": {
+                    "ID": "8020707",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/8020707",
+                    "Titles": {
+                        "eng": "To Tomorrow!",
+                        "jpn": "明日へ!"
+                    },
+                    "Aliases": []
+                },
+                "153": {
+                    "ID": "8020709",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/8020709",
+                    "Titles": {
+                        "eng": "The Chosen Ones",
+                        "jpn": "選ばれし者たち"
+                    },
+                    "Aliases": []
+                },
+                "154": {
+                    "ID": "8050338",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/8050338",
+                    "Titles": {
+                        "eng": "Vice Captain Langris Vaude",
+                        "jpn": "副団長ランギルス・ヴォード"
+                    },
+                    "Aliases": []
+                },
+                "155": {
+                    "ID": "8071086",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/8071086",
+                    "Titles": {
+                        "eng": "The 5 Spirit Guardians",
+                        "jpn": "５人の精霊守"
+                    },
+                    "Aliases": []
+                },
+                "156": {
+                    "ID": "8071089",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/8071089",
+                    "Titles": {
+                        "eng": "Awakening Power",
+                        "jpn": "目覚めゆく力"
+                    },
+                    "Aliases": []
+                },
+                "157": {
+                    "ID": "8071090",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/8071090",
+                    "Titles": {
+                        "eng": "Five-Leaf Clover",
+                        "jpn": "五つ葉のクローバー"
+                    },
+                    "Aliases": []
+                },
+                "158": {
+                    "ID": "8090864",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/8090864",
+                    "Titles": {
+                        "eng": "The Beginning of Hope and Despair",
+                        "jpn": "希望と絶望の幕開け"
+                    },
+                    "Aliases": []
+                },
+                "159": {
+                    "ID": "8090866",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/8090866",
+                    "Titles": {
+                        "eng": "Quiet Lakes and Forest Shadows",
+                        "jpn": "静かな湖と森の影"
+                    },
+                    "Aliases": []
+                },
+                "160": {
+                    "ID": "8090868",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/8090868",
+                    "Titles": {
+                        "eng": "The Messenger from the Spade Kingdom",
+                        "jpn": "スペード王国の使者"
+                    },
+                    "Aliases": []
+                },
+                "161": {
+                    "ID": "8090871",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/8090871",
+                    "Titles": {
+                        "eng": "Zenon's Power",
+                        "jpn": "ゼノンの力"
+                    },
+                    "Aliases": []
+                },
+                "162": {
+                    "ID": "8159878",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/8159878",
+                    "Titles": {
+                        "eng": "The Great War Breaks Out",
+                        "jpn": "大戦勃発"
+                    },
+                    "Aliases": []
+                },
+                "163": {
+                    "ID": "8159879",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/8159879",
+                    "Titles": {
+                        "eng": "Dante vs. The Captain of the Black Bulls Squad",
+                        "jpn": "ダンテVS黒の暴牛団長"
+                    },
+                    "Aliases": []
+                },
+                "164": {
+                    "ID": "8159880",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/8159880",
+                    "Titles": {
+                        "eng": "Battlefield: Heart Kingdom",
+                        "jpn": "戦場 ハート王国"
+                    },
+                    "Aliases": []
+                },
+                "165": {
+                    "ID": "8159881",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/8159881",
+                    "Titles": {
+                        "eng": "Water Crusade",
+                        "jpn": "水の聖戦"
+                    },
+                    "Aliases": []
+                },
+                "166": {
+                    "ID": "8229963",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/8229963",
+                    "Titles": {
+                        "eng": "Captain Yami Sukehiro",
+                        "jpn": "団長 ヤミ・スケヒロ"
+                    },
+                    "Aliases": []
+                },
+                "167": {
+                    "ID": "8229967",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/8229967",
+                    "Titles": {
+                        "eng": "Black Oath",
+                        "jpn": "黒の誓い"
+                    },
+                    "Aliases": []
+                },
+                "168": {
+                    "ID": "8229970",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/8229970",
+                    "Titles": {
+                        "eng": "Stirrings of the Strongest",
+                        "jpn": "最強の胎動"
+                    },
+                    "Aliases": []
+                },
+                "169": {
+                    "ID": "8234548",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/8234548",
+                    "Titles": {
+                        "eng": "The Devil Binding Ritual",
+                        "jpn": "従魔の儀（じゅうまのぎ）"
+                    },
+                    "Aliases": []
+                },
+                "170": {
+                    "ID": "8234549",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-clover/episodes/8234549",
+                    "Titles": {
+                        "eng": "The Faraway Future",
+                        "jpn": "ハルカミライ"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "0"
+        ],
+        "Episodes": []
+    }
+}

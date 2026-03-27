@@ -1,0 +1,206 @@
+{
+    "URL": "https://thetvdb.com/series/ninja-scroll",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0400690/",
+        "https://www.themoviedb.org/tv/27117"
+    ],
+    "Titles": {
+        "eng": "Ninja Scroll: The Series",
+        "jpn": "獣兵衛忍風帖"
+    },
+    "Aliases": [
+        "Juubee Ninpuuchou: Ryuuhougyoku-hen",
+        "Jubei the Wind Ninja: Dragon Stone Story",
+        "獣兵衛忍風帖 龍宝玉篇",
+        "Jūbē Ninpūchō Ryūhōgyoku Hen"
+    ],
+    "Modified": "2026-01-13",
+    "Seasons": {
+        "0": {
+            "ID": "20307",
+            "URL": "https://thetvdb.com/series/ninja-scroll/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "420614",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ninja-scroll/episodes/420614",
+                    "Titles": {
+                        "eng": "Ninja Scroll",
+                        "jpn": "獣兵衛忍風帖"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "4873",
+            "URL": "https://thetvdb.com/series/ninja-scroll/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "100841",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-scroll/episodes/100841",
+                    "Titles": {
+                        "eng": "Tragedy in the Hidden Village",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "100842",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-scroll/episodes/100842",
+                    "Titles": {
+                        "eng": "Departure",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "100843",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-scroll/episodes/100843",
+                    "Titles": {
+                        "eng": "Forbidden Love",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "100844",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-scroll/episodes/100844",
+                    "Titles": {
+                        "eng": "Broken Stone",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "100845",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-scroll/episodes/100845",
+                    "Titles": {
+                        "eng": "The Diamond Child",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "100846",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-scroll/episodes/100846",
+                    "Titles": {
+                        "eng": "Shelter from the Rain",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "100847",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-scroll/episodes/100847",
+                    "Titles": {
+                        "eng": "Blossom",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "100848",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-scroll/episodes/100848",
+                    "Titles": {
+                        "eng": "The Fate of Rengoku",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "100849",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-scroll/episodes/100849",
+                    "Titles": {
+                        "eng": "A Dragon Within",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "100850",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-scroll/episodes/100850",
+                    "Titles": {
+                        "eng": "The Heart of the Hiruko",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "100851",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-scroll/episodes/100851",
+                    "Titles": {
+                        "eng": "Yagyu Renya",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "100852",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-scroll/episodes/100852",
+                    "Titles": {
+                        "eng": "Dynasty Restoration",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "100853",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-scroll/episodes/100853",
+                    "Titles": {
+                        "eng": "Farewell Jubei",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

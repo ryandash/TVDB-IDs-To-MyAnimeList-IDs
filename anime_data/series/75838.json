@@ -1,0 +1,382 @@
+{
+    "URL": "https://thetvdb.com/series/beck-mongolian-chop-squad",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0434662/",
+        "https://www.themoviedb.org/tv/43288"
+    ],
+    "Titles": {
+        "eng": "Beck: Mongolian Chop Squad",
+        "jpn": "BECK"
+    },
+    "Aliases": [],
+    "Modified": "2025-12-04",
+    "Seasons": {
+        "0": {
+            "ID": "23297",
+            "URL": "https://thetvdb.com/series/beck-mongolian-chop-squad/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "10587361",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/10587361",
+                    "Titles": {
+                        "eng": "Hit in the USA",
+                        "jpn": "HIT IN THE USA"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "10587362",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/10587362",
+                    "Titles": {
+                        "eng": "My World Down",
+                        "jpn": "My World Down"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "10587363",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/10587363",
+                    "Titles": {
+                        "eng": "Moon on the Water",
+                        "jpn": "MOON ON THE WATER"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "10587364",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/10587364",
+                    "Titles": {
+                        "eng": "Slip Out (Little More Than Before)",
+                        "jpn": "slip out(LITTLE MORE THAN BEFORE)"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "9350",
+            "URL": "https://thetvdb.com/series/beck-mongolian-chop-squad/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "178541",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/178541",
+                    "Titles": {
+                        "eng": "The View At Fourteen",
+                        "jpn": "14歳の風景"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "178542",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/178542",
+                    "Titles": {
+                        "eng": "Live House",
+                        "jpn": "LIVE HOUSE"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "178543",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/178543",
+                    "Titles": {
+                        "eng": "Moon on the Water",
+                        "jpn": "MOON ON THE WATER"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "178544",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/178544",
+                    "Titles": {
+                        "eng": "Strum the Guitar",
+                        "jpn": "Strum the guitar"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "178545",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/178545",
+                    "Titles": {
+                        "eng": "Beck",
+                        "jpn": "BECK"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "178546",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/178546",
+                    "Titles": {
+                        "eng": "Hyodo and the Jaguar",
+                        "jpn": "兵藤とジャガー"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "178547",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/178547",
+                    "Titles": {
+                        "eng": "Prudence",
+                        "jpn": "ルシール"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "178548",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/178548",
+                    "Titles": {
+                        "eng": "Broadcast in the School",
+                        "jpn": "校内放送"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "178549",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/178549",
+                    "Titles": {
+                        "eng": "The Night Before LIVE",
+                        "jpn": "LIVE前夜"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "178550",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/178550",
+                    "Titles": {
+                        "eng": "FACE",
+                        "jpn": "FACE"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "178551",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/178551",
+                    "Titles": {
+                        "eng": "Summer Holiday",
+                        "jpn": "Summer holidays"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "178552",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/178552",
+                    "Titles": {
+                        "eng": "Secret Live",
+                        "jpn": "シークレットライブ"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "178553",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/178553",
+                    "Titles": {
+                        "eng": "Ciel Bleu",
+                        "jpn": "シエル・ブリュ"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "178554",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/178554",
+                    "Titles": {
+                        "eng": "Dream",
+                        "jpn": "Dream"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "178555",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/178555",
+                    "Titles": {
+                        "eng": "Back to School",
+                        "jpn": "Back to school"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "178556",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/178556",
+                    "Titles": {
+                        "eng": "Indies",
+                        "jpn": "インディーズ"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "178557",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/178557",
+                    "Titles": {
+                        "eng": "Three Days",
+                        "jpn": "スリーデイズ"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "178558",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/178558",
+                    "Titles": {
+                        "eng": "Leon Sykes",
+                        "jpn": "レオン・サイクス"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "178559",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/178559",
+                    "Titles": {
+                        "eng": "Blues",
+                        "jpn": "ブルース"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "178560",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/178560",
+                    "Titles": {
+                        "eng": "Greatful Sound",
+                        "jpn": "グレイトフルサウンド"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "178561",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/178561",
+                    "Titles": {
+                        "eng": "Write Music",
+                        "jpn": "Write Music"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "178562",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/178562",
+                    "Titles": {
+                        "eng": "Performance Eve Festival",
+                        "jpn": "前夜祭"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "178563",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/178563",
+                    "Titles": {
+                        "eng": "Festival",
+                        "jpn": "FESTIVAL"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "313329",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/313329",
+                    "Titles": {
+                        "eng": "Third Stage",
+                        "jpn": "サードステージ"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "313330",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/313330",
+                    "Titles": {
+                        "eng": "Slip Out",
+                        "jpn": "Slip out"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "313331",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/beck-mongolian-chop-squad/episodes/313331",
+                    "Titles": {
+                        "eng": "America",
+                        "jpn": "America"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

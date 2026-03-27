@@ -1,0 +1,188 @@
+{
+    "URL": "https://thetvdb.com/series/death-parade",
+    "Genres": [
+        "Psychological Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt4279012/",
+        "http://www.ntv.co.jp/deathparade/",
+        "https://www.themoviedb.org/tv/61901",
+        "https://en.wikipedia.org/wiki/Death_Billiards",
+        "https://x.com/dp_anime"
+    ],
+    "Titles": {
+        "eng": "Death Parade",
+        "jpn": "デス・パレード"
+    },
+    "Aliases": [],
+    "Modified": "2026-01-12",
+    "Seasons": {
+        "0": {
+            "ID": "605797",
+            "URL": "https://thetvdb.com/series/death-parade/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "5087155",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/death-parade/episodes/5087155",
+                    "Titles": {
+                        "eng": "Death Billiards",
+                        "jpn": "デス・ビリヤード"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "606950",
+            "URL": "https://thetvdb.com/series/death-parade/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "5079012",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/death-parade/episodes/5079012",
+                    "Titles": {
+                        "eng": "Death Seven Darts",
+                        "jpn": "デス・セブンダーツ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5079015",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/death-parade/episodes/5079015",
+                    "Titles": {
+                        "eng": "Death Reverse",
+                        "jpn": "デス・リバース"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5097702",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/death-parade/episodes/5097702",
+                    "Titles": {
+                        "eng": "Rolling Ballade",
+                        "jpn": "ローリング・バラード"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5104059",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/death-parade/episodes/5104059",
+                    "Titles": {
+                        "eng": "Death Arcade",
+                        "jpn": "デス・アーケード"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5104060",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/death-parade/episodes/5104060",
+                    "Titles": {
+                        "eng": "Death March",
+                        "jpn": "デス・マーチ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5105201",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/death-parade/episodes/5105201",
+                    "Titles": {
+                        "eng": "Cross Heart Attack",
+                        "jpn": "クロス・ハート・アタック"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5110043",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/death-parade/episodes/5110043",
+                    "Titles": {
+                        "eng": "Alcohol Poison",
+                        "jpn": "アルコール・ポイズン"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5110044",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/death-parade/episodes/5110044",
+                    "Titles": {
+                        "eng": "Death Rally",
+                        "jpn": "デス・ラリー"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5121980",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/death-parade/episodes/5121980",
+                    "Titles": {
+                        "eng": "Death Counter",
+                        "jpn": "デス・カウンター"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5121981",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/death-parade/episodes/5121981",
+                    "Titles": {
+                        "eng": "Story Teller",
+                        "jpn": "ストーリー・テラー"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5150247",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/death-parade/episodes/5150247",
+                    "Titles": {
+                        "eng": "Memento Mori",
+                        "jpn": "メメント・モリ"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5150248",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/death-parade/episodes/5150248",
+                    "Titles": {
+                        "eng": "Suicide Tour",
+                        "jpn": "スーサイド・ツアー"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

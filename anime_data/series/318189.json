@@ -1,0 +1,53 @@
+{
+    "URL": "https://thetvdb.com/series/tight-rope",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt4236948/",
+        "https://www.themoviedb.org/tv/121536"
+    ],
+    "Titles": {
+        "eng": "Tight-rope",
+        "jpn": "タイトロープ"
+    },
+    "Aliases": [],
+    "Modified": "2023-08-24",
+    "Seasons": {
+        "1": {
+            "ID": "684086",
+            "URL": "https://thetvdb.com/series/tight-rope/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "5785703",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tight-rope/episodes/5785703",
+                    "Titles": {
+                        "eng": "Episode 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5785704",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tight-rope/episodes/5785704",
+                    "Titles": {
+                        "eng": "Episode 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

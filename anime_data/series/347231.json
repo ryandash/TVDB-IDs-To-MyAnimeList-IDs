@@ -1,0 +1,75 @@
+{
+    "URL": "https://thetvdb.com/series/oni-tensei",
+    "Genres": [
+        "Animation",
+        "Horror",
+        "Mini-Series"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt3999756/",
+        "https://www.themoviedb.org/tv/46336"
+    ],
+    "Titles": {
+        "eng": "Oni-Tensei",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2024-08-24",
+    "Seasons": {
+        "1": {
+            "ID": "763822",
+            "URL": "https://thetvdb.com/series/oni-tensei/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "6679041",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/oni-tensei/episodes/6679041",
+                    "Titles": {
+                        "eng": "The Incubus Mark",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6679044",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/oni-tensei/episodes/6679044",
+                    "Titles": {
+                        "eng": "Blood and Ink",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6679047",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/oni-tensei/episodes/6679047",
+                    "Titles": {
+                        "eng": "A Woman's Fury",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6679051",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/oni-tensei/episodes/6679051",
+                    "Titles": {
+                        "eng": "A Demon's Horn",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "URL": "https://thetvdb.com/series/murder-princess",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1000133/",
+        "https://www.themoviedb.org/tv/95039"
+    ],
+    "Titles": {
+        "eng": "Murder Princess",
+        "jpn": "MURDER PRINCESS"
+    },
+    "Aliases": [],
+    "Modified": "2026-01-14",
+    "Seasons": {
+        "1": {
+            "ID": "29896",
+            "URL": "https://thetvdb.com/series/murder-princess/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "346812",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/murder-princess/episodes/346812",
+                    "Titles": {
+                        "eng": "Birth",
+                        "jpn": "誕生"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "346813",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/murder-princess/episodes/346813",
+                    "Titles": {
+                        "eng": "Coronation",
+                        "jpn": "戴冠"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "346814",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/murder-princess/episodes/346814",
+                    "Titles": {
+                        "eng": "Return",
+                        "jpn": "帰還"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "346815",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/murder-princess/episodes/346815",
+                    "Titles": {
+                        "eng": "Exile",
+                        "jpn": "追放"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "346816",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/murder-princess/episodes/346816",
+                    "Titles": {
+                        "eng": "Fate",
+                        "jpn": "宿命"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "346817",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/murder-princess/episodes/346817",
+                    "Titles": {
+                        "eng": "Determination's End",
+                        "jpn": "決意の果てに・・"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

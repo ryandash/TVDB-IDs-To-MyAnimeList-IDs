@@ -1,0 +1,126 @@
+{
+    "URL": "https://thetvdb.com/series/shin-getter-robo-vs-neo-getter-robo",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Mini-Series",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/67579"
+    ],
+    "Titles": {
+        "eng": "Shin Getter Robo vs Neo Getter Robo",
+        "jpn": "真ゲッターロボ対ネオゲッターロボ"
+    },
+    "Aliases": [],
+    "Modified": "2026-02-01",
+    "Seasons": {
+        "0": {
+            "ID": "105191",
+            "URL": "https://thetvdb.com/series/shin-getter-robo-vs-neo-getter-robo/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "4553032",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/shin-getter-robo-vs-neo-getter-robo/episodes/4553032",
+                    "Titles": {
+                        "eng": "Dynamic Super Robots Grand Battle - Part 1",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 3
+                },
+                "2": {
+                    "ID": "4553034",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/shin-getter-robo-vs-neo-getter-robo/episodes/4553034",
+                    "Titles": {
+                        "eng": "Dynamic Super Robots Grand Battle - Part 2",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 3
+                },
+                "3": {
+                    "ID": "4553035",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/shin-getter-robo-vs-neo-getter-robo/episodes/4553035",
+                    "Titles": {
+                        "eng": "Dynamic Super Robots Grand Battle - Part 3",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 3
+                }
+            }
+        },
+        "1": {
+            "ID": "122271",
+            "URL": "https://thetvdb.com/series/shin-getter-robo-vs-neo-getter-robo/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "1110851",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shin-getter-robo-vs-neo-getter-robo/episodes/1110851",
+                    "Titles": {
+                        "eng": "Change 1: Attack!! Neo Getter Robo!",
+                        "jpn": "出撃!! ネオゲッターロボ!"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1110871",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shin-getter-robo-vs-neo-getter-robo/episodes/1110871",
+                    "Titles": {
+                        "eng": "Change 2: Arrival!! Texas Mack!",
+                        "jpn": "登場!! テキサスマック!"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1110861",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shin-getter-robo-vs-neo-getter-robo/episodes/1110861",
+                    "Titles": {
+                        "eng": "Change 3: Revive!! Shin Getter Robo!",
+                        "jpn": "復活!! 真ゲッターロボ!"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1110881",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shin-getter-robo-vs-neo-getter-robo/episodes/1110881",
+                    "Titles": {
+                        "eng": "Final Change: Burst Through!! For the Future of Earth!",
+                        "jpn": "切り拓け!! 地球の未来"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

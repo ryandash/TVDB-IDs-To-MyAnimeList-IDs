@@ -1,0 +1,84 @@
+{
+    "URL": "https://thetvdb.com/series/new-angel",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Suspense"
+    ],
+    "Other Sites": [],
+    "Titles": {
+        "eng": "New Angel",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2026-01-19",
+    "Seasons": {
+        "1": {
+            "ID": "765678",
+            "URL": "https://thetvdb.com/series/new-angel/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "6698320",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/new-angel/episodes/6698320",
+                    "Titles": {
+                        "eng": "New Angel 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6698323",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/new-angel/episodes/6698323",
+                    "Titles": {
+                        "eng": "New Angel 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6698324",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/new-angel/episodes/6698324",
+                    "Titles": {
+                        "eng": "New Angel 3",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6698325",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/new-angel/episodes/6698325",
+                    "Titles": {
+                        "eng": "New Angel 4",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6698326",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/new-angel/episodes/6698326",
+                    "Titles": {
+                        "eng": "New Angel 5",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

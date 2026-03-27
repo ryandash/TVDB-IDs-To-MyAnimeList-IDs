@@ -1,0 +1,126 @@
+{
+    "URL": "https://thetvdb.com/series/spriggan",
+    "Genres": [
+        "Adaptation",
+        "Anime - Shonen"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt10011306/",
+        "https://www.netflix.com/title/81050064",
+        "https://www.themoviedb.org/tv/94925",
+        "https://en.wikipedia.org/wiki/Spriggan_(manga)#Original_net_animation",
+        "https://x.com/spriggan_anime"
+    ],
+    "Titles": {
+        "eng": "Spriggan",
+        "jpn": "スプリガン"
+    },
+    "Aliases": [
+        "Striker"
+    ],
+    "Modified": "2026-03-27",
+    "Seasons": {
+        "0": {
+            "ID": "2132668",
+            "URL": "https://thetvdb.com/series/spriggan/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "10543746",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/spriggan/episodes/10543746",
+                    "Titles": {
+                        "eng": "Spriggan - The Movie",
+                        "jpn": "Spriggan - The Movie"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "1924828",
+            "URL": "https://thetvdb.com/series/spriggan/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "pt": "Serpente de Fogo"
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "8414144",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/spriggan/episodes/8414144",
+                    "Titles": {
+                        "eng": "Flame Serpent",
+                        "jpn": "炎蛇"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9186358",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/spriggan/episodes/9186358",
+                    "Titles": {
+                        "eng": "Noah's Ark",
+                        "jpn": "ノアの方舟"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9186359",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/spriggan/episodes/9186359",
+                    "Titles": {
+                        "eng": "The Forest of No Return",
+                        "jpn": "帰らずの森"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9186360",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/spriggan/episodes/9186360",
+                    "Titles": {
+                        "eng": "Berserker",
+                        "jpn": "狂戦士"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "9186361",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/spriggan/episodes/9186361",
+                    "Titles": {
+                        "eng": "The Crystal Skull",
+                        "jpn": "水晶髑髏"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "9186362",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/spriggan/episodes/9186362",
+                    "Titles": {
+                        "eng": "The Forgotten Kingdom",
+                        "jpn": "忘却王国"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "URL": "https://thetvdb.com/series/galerians-rion",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Horror",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0431770/",
+        "https://www.themoviedb.org/tv/80394"
+    ],
+    "Titles": {
+        "eng": "Galerians Rion",
+        "jpn": "Galerians Rion"
+    },
+    "Aliases": [],
+    "Modified": "2026-01-25",
+    "Seasons": {
+        "1": {
+            "ID": "1815057",
+            "URL": "https://thetvdb.com/series/galerians-rion/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "7541805",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/galerians-rion/episodes/7541805",
+                    "Titles": {
+                        "eng": "Awakening",
+                        "jpn": "Awakening"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7541806",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/galerians-rion/episodes/7541806",
+                    "Titles": {
+                        "eng": "Memory",
+                        "jpn": "Memory"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7541809",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/galerians-rion/episodes/7541809",
+                    "Titles": {
+                        "eng": "Destruction",
+                        "jpn": "Destruction"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

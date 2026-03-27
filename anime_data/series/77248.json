@@ -1,0 +1,458 @@
+{
+    "URL": "https://thetvdb.com/series/vision-of-escaflowne",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Romance",
+        "Science Fiction",
+        "Thriller",
+        "War"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/D108-C9BC-3A45-5607-C178-G",
+        "https://www.imdb.com/title/tt0138919/",
+        "http://www.escaflowne.jp/",
+        "https://tvlistings.zap2it.com/overview.html?programSeriesId=SH02775411",
+        "https://www.tvmaze.com/shows/19281/show-slug",
+        "https://www.themoviedb.org/tv/8779",
+        "https://en.wikipedia.org/wiki/The_Vision_of_Escaflowne"
+    ],
+    "Titles": {
+        "eng": "Vision of Escaflowne",
+        "jpn": "天空のエスカフローネ"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-04",
+    "Seasons": {
+        "0": {
+            "ID": "24705",
+            "URL": "https://thetvdb.com/series/vision-of-escaflowne/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 9,
+            "Episodes": {
+                "1": {
+                    "ID": "379778",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/379778",
+                    "Titles": {
+                        "eng": "Escaflowne: The Movie",
+                        "jpn": "エスカフローネ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "2240081",
+                    "TYPE": "Deleted Scenes",
+                    "CATEGORY": "Deleted Scenes",
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/2240081",
+                    "Titles": {
+                        "eng": "Deleted Scenes",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "11623162",
+                    "TYPE": "Cast Interviews",
+                    "CATEGORY": "Cast Interviews",
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/11623162",
+                    "Titles": {
+                        "eng": "Club Escaflowne - Hitomi, Merle & Folken Voices",
+                        "jpn": "Club Escaflowne - Hitomi, Merle & Folken Voices"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "11623164",
+                    "TYPE": "Cast Interviews",
+                    "CATEGORY": "Cast Interviews",
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/11623164",
+                    "Titles": {
+                        "eng": "Club Escaflowne - Allen, Mirana & Dilandau Voices",
+                        "jpn": "Club Escaflowne - Allen, Mirana & Dilandau Voices"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "5": {
+                    "ID": "11623165",
+                    "TYPE": "Cast Interviews",
+                    "CATEGORY": "Cast Interviews",
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/11623165",
+                    "Titles": {
+                        "eng": "Club Escaflowne - Osaka, Yamane & Sano, Designers & Animators - Part 1",
+                        "jpn": "Club Escaflowne - Osaka, Yamane & Sano, Designers & Animators - Part 1"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "6": {
+                    "ID": "11623166",
+                    "TYPE": "Cast Interviews",
+                    "CATEGORY": "Cast Interviews",
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/11623166",
+                    "Titles": {
+                        "eng": "Club Escaflowne - Osaka, Yamane & Sano, Designers & Animators - Part 2",
+                        "jpn": "Club Escaflowne - Osaka, Yamane & Sano, Designers & Animators - Part 2"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                },
+                "7": {
+                    "ID": "11623167",
+                    "TYPE": "Cast Interviews",
+                    "CATEGORY": "Cast Interviews",
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/11623167",
+                    "Titles": {
+                        "eng": "Club Escaflowne - Akane (Director) & Kawamori (Original Story) - Part 1",
+                        "jpn": "Club Escaflowne - Akane (Director) & Kawamori (Original Story) - Part 1"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "8": {
+                    "ID": "11623168",
+                    "TYPE": "Cast Interviews",
+                    "CATEGORY": "Cast Interviews",
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/11623168",
+                    "Titles": {
+                        "eng": "Club Escaflowne - Akane (Director) & Kawamori (Original Story) - Part 2",
+                        "jpn": "Club Escaflowne - Akane (Director) & Kawamori (Original Story) - Part 2"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                },
+                "9": {
+                    "ID": "11623170",
+                    "TYPE": "Cast Interviews",
+                    "CATEGORY": "Cast Interviews",
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/11623170",
+                    "Titles": {
+                        "eng": "Masahiko Minami Interview",
+                        "jpn": "Masahiko Minami Interview"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "12452",
+            "URL": "https://thetvdb.com/series/vision-of-escaflowne/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "235394",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235394",
+                    "Titles": {
+                        "eng": "Fateful Confession",
+                        "jpn": "運命の告白"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "235395",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235395",
+                    "Titles": {
+                        "eng": "The Girl from the Mystic Moon",
+                        "jpn": "幻の月の少女"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "235396",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235396",
+                    "Titles": {
+                        "eng": "The Gallant Swordsman",
+                        "jpn": "華麗なる剣士"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "235397",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235397",
+                    "Titles": {
+                        "eng": "The Diabolical Adonis",
+                        "jpn": "魔性の美少年"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "235398",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235398",
+                    "Titles": {
+                        "eng": "The Seal of the Brothers",
+                        "jpn": "兄弟の刻印"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "235399",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235399",
+                    "Titles": {
+                        "eng": "City of Intrigue",
+                        "jpn": "策謀の都"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "235400",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235400",
+                    "Titles": {
+                        "eng": "Unexpected Partings",
+                        "jpn": "予期せぬ別れ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "235401",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235401",
+                    "Titles": {
+                        "eng": "The Day the Angel Flew",
+                        "jpn": "天使の舞う日"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "235402",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235402",
+                    "Titles": {
+                        "eng": "Memories of a Feather",
+                        "jpn": "羽根の記憶"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "235403",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235403",
+                    "Titles": {
+                        "eng": "The Blue-Eyed Prince",
+                        "jpn": "青き瞳の王子"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "235404",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235404",
+                    "Titles": {
+                        "eng": "Prophecy of Death",
+                        "jpn": "死の予言"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "235405",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235405",
+                    "Titles": {
+                        "eng": "The Secret Door",
+                        "jpn": "秘密の扉"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "235406",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235406",
+                    "Titles": {
+                        "eng": "Red Destiny",
+                        "jpn": "赤い運命"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "235407",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235407",
+                    "Titles": {
+                        "eng": "Dangerous Wounds",
+                        "jpn": "危険な傷跡"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "235408",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235408",
+                    "Titles": {
+                        "eng": "Lost Paradise",
+                        "jpn": "失われた楽園"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "235409",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235409",
+                    "Titles": {
+                        "eng": "The Guided Ones",
+                        "jpn": "導かれし者"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "235410",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235410",
+                    "Titles": {
+                        "eng": "The Edge of the World",
+                        "jpn": "この世の果て"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "235411",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235411",
+                    "Titles": {
+                        "eng": "The Gravity of Destiny",
+                        "jpn": "運命の引力"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "235412",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235412",
+                    "Titles": {
+                        "eng": "Operation Golden Rule of Love",
+                        "jpn": "恋の黄金律作戦"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "235413",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235413",
+                    "Titles": {
+                        "eng": "False Vows",
+                        "jpn": "偽りの契り"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "235414",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235414",
+                    "Titles": {
+                        "eng": "Reaction of Fortune",
+                        "jpn": "幸運の反作用"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "235415",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235415",
+                    "Titles": {
+                        "eng": "The Black-Winged Angel",
+                        "jpn": "黒き翼の天使"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "235416",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235416",
+                    "Titles": {
+                        "eng": "Storm Premonition",
+                        "jpn": "嵐の予感"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "235417",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235417",
+                    "Titles": {
+                        "eng": "Fateful Decision",
+                        "jpn": "運命の選択"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "235418",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235418",
+                    "Titles": {
+                        "eng": "Zone of Absolute Fortune",
+                        "jpn": "絶対幸運圏"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "235419",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/vision-of-escaflowne/episodes/235419",
+                    "Titles": {
+                        "eng": "Eternal Love",
+                        "jpn": "永遠の想い"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

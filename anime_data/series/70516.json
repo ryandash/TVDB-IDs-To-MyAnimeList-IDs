@@ -1,0 +1,622 @@
+{
+    "URL": "https://thetvdb.com/series/ronin-warriors",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0159933/",
+        "https://www.themoviedb.org/tv/35993"
+    ],
+    "Titles": {
+        "eng": "Yoroiden Samurai Troopers",
+        "jpn": "鎧伝サムライトルーパー"
+    },
+    "Aliases": [
+        "Samurai Troopers",
+        "Legendary Armor Samurai Troopers",
+        "Ronin Warriors"
+    ],
+    "Modified": "2026-03-08",
+    "Seasons": {
+        "0": {
+            "ID": "17985",
+            "URL": "https://thetvdb.com/series/ronin-warriors/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "zho": "特别篇"
+            },
+            "# Episodes": 11,
+            "Episodes": {
+                "1": {
+                    "ID": "447000",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/447000",
+                    "Titles": {
+                        "eng": "Gaiden (1): Once Again! Samurai Troopers!",
+                        "jpn": "外伝 第01話 「鎧戦士 再び！」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "447001",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/447001",
+                    "Titles": {
+                        "eng": "Gaiden (2): Save Your Friend! Samurai Heart!",
+                        "jpn": "外伝 第02話 「友を救え、サムライハート」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "447002",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/447002",
+                    "Titles": {
+                        "eng": "Legend of the Inferno Armor (1): Mukara of the Sun",
+                        "jpn": "輝煌帝伝説 第01話 「太陽のムカラ」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "4": {
+                    "ID": "447003",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/447003",
+                    "Titles": {
+                        "eng": "Legend of the Inferno Armor (2): The Black Sun",
+                        "jpn": "輝煌帝伝説 第02話 「黒い輝煌帝」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                },
+                "5": {
+                    "ID": "447004",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/447004",
+                    "Titles": {
+                        "eng": "Legend of the Inferno Armor (3): The Armor That Began Running",
+                        "jpn": "輝煌帝伝説 第03話 「走り始めたヨロイ」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "6": {
+                    "ID": "447005",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/447005",
+                    "Titles": {
+                        "eng": "Legend of the Inferno Armor (4): Searching for Something Beyond the Sadness",
+                        "jpn": "輝煌帝伝説 第04話 「悲しみを越えるものを求めて」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "7": {
+                    "ID": "447006",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/447006",
+                    "Titles": {
+                        "eng": "Message (1): The Unraveled Conclusion",
+                        "jpn": "MESSAGE 第01話 「解っていた結末」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "8": {
+                    "ID": "447007",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/447007",
+                    "Titles": {
+                        "eng": "Message (2): The Known Future",
+                        "jpn": "MESSAGE 第02話 「知らされた未来」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "9": {
+                    "ID": "447008",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/447008",
+                    "Titles": {
+                        "eng": "Message (3): The Shattered Self-Confidence",
+                        "jpn": "MESSAGE 第03話 「砕かれた自信」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "10": {
+                    "ID": "447009",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/447009",
+                    "Titles": {
+                        "eng": "Message (4): The Wandering Spirit",
+                        "jpn": "MESSAGE 第04話 「さまよえる心」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "11": {
+                    "ID": "447010",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/447010",
+                    "Titles": {
+                        "eng": "Message (5): The Reached Truth",
+                        "jpn": "MESSAGE 第05話 「訪れた真実」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "442",
+            "URL": "https://thetvdb.com/series/ronin-warriors/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 39,
+            "Episodes": {
+                "1": {
+                    "ID": "11235",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11235",
+                    "Titles": {
+                        "eng": "Shadowland",
+                        "jpn": "ねらわれた大東京"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11236",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11236",
+                    "Titles": {
+                        "eng": "Glory for Anubis",
+                        "jpn": "鬼魔将！朱天の猛攻"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "11237",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11237",
+                    "Titles": {
+                        "eng": "Secret of Wildfire",
+                        "jpn": "鎧擬亜、烈火の秘密"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "11238",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11238",
+                    "Titles": {
+                        "eng": "The Search Begins",
+                        "jpn": "毒魔将 那唖挫の罠"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "11239",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11239",
+                    "Titles": {
+                        "eng": "Halo's Prison",
+                        "jpn": "復活！光の戦士"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "11240",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11240",
+                    "Titles": {
+                        "eng": "The Counter Attack",
+                        "jpn": "反撃 怒りの超流破"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "11241",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11241",
+                    "Titles": {
+                        "eng": "Splitting the Stone",
+                        "jpn": "開眼！必殺の雷光斬"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "11242",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11242",
+                    "Titles": {
+                        "eng": "Friend or Foe",
+                        "jpn": "幻魔将・螺呪羅の策略"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "11243",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11243",
+                    "Titles": {
+                        "eng": "Wildfire in the Sky",
+                        "jpn": "烈火、天空をすくえ"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "11244",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11244",
+                    "Titles": {
+                        "eng": "In the Sea of the Sky",
+                        "jpn": "集結！５人の戦士"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "11245",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11245",
+                    "Titles": {
+                        "eng": "Assault on the Dynasty",
+                        "jpn": "妖邪門を打ち破れ"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "11246",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11246",
+                    "Titles": {
+                        "eng": "Shallow Darkness",
+                        "jpn": "セイジ！暗闇の死闘"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "11247",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11247",
+                    "Titles": {
+                        "eng": "Fate of the Ronin Armor",
+                        "jpn": "ヨロイギアの正体"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "11248",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11248",
+                    "Titles": {
+                        "eng": "Armor of Life",
+                        "jpn": "シュテン、心なき戦い"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "11249",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11249",
+                    "Titles": {
+                        "eng": "The Ancient's Battle",
+                        "jpn": "カオス、宿命の対決"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "11250",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11250",
+                    "Titles": {
+                        "eng": "Raid on Talpa's Castle",
+                        "jpn": "突入、アラゴ城"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "11251",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11251",
+                    "Titles": {
+                        "eng": "The Legend of the Armor",
+                        "jpn": "明かされた 鎧伝説"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "11252",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11252",
+                    "Titles": {
+                        "eng": "Talpa's Triumph",
+                        "jpn": "恐怖の妖邪帝王"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "11253",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11253",
+                    "Titles": {
+                        "eng": "Wildfire's Fight Against Fate",
+                        "jpn": "決戦！烈火対アラゴ"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "11254",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11254",
+                    "Titles": {
+                        "eng": "Ronin vs. Saranbo",
+                        "jpn": "新たなる戦い"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "11255",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11255",
+                    "Titles": {
+                        "eng": "Ryo's Mega Armor",
+                        "jpn": "輝け白き鎧！"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "11256",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11256",
+                    "Titles": {
+                        "eng": "Saber Stryke's Deadly Challenge",
+                        "jpn": "剣舞卿の挑戦"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "11257",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11257",
+                    "Titles": {
+                        "eng": "White Blaze's Sacrifice",
+                        "jpn": "白炎死をかけた戦い"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "11258",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11258",
+                    "Titles": {
+                        "eng": "Sun Devil: Ambassador of Evil",
+                        "jpn": "妖邪帝王の使者"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "11259",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11259",
+                    "Titles": {
+                        "eng": "Torrent's Evil Twin",
+                        "jpn": "対決！二人の水滸"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "11260",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11260",
+                    "Titles": {
+                        "eng": "The Armor Must Be Destroyed",
+                        "jpn": "光輪よ、光をとりもどせ"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "11261",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11261",
+                    "Titles": {
+                        "eng": "Sand Blasted",
+                        "jpn": "怒れ金剛、砂妖邪をくだけ"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "11262",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11262",
+                    "Titles": {
+                        "eng": "Lady Kayura and the Dark Realm",
+                        "jpn": "謎の女妖邪カユラ出現"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "11263",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11263",
+                    "Titles": {
+                        "eng": "Anubis Is Reborn",
+                        "jpn": "行け！二人の戦士達よ…"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "11264",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11264",
+                    "Titles": {
+                        "eng": "Talpa Turns the Tide",
+                        "jpn": "ここは妖邪界か？"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "11265",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11265",
+                    "Titles": {
+                        "eng": "Legend of the White Armor",
+                        "jpn": "伝説の鎧、輝煌帝"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "11266",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11266",
+                    "Titles": {
+                        "eng": "Strategies of the Nether World",
+                        "jpn": "地霊衆、恐怖の作戦"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "11267",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11267",
+                    "Titles": {
+                        "eng": "In Search of Secret Treasures",
+                        "jpn": "謎の秘宝を求めて"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "11268",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11268",
+                    "Titles": {
+                        "eng": "Strata's Defiant Stand",
+                        "jpn": "天空、傷だらけの戦い"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "11269",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11269",
+                    "Titles": {
+                        "eng": "The Warriors Return",
+                        "jpn": "よみがえれ、鎧戦士達よ…"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "11270",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11270",
+                    "Titles": {
+                        "eng": "Cheap Tricks",
+                        "jpn": "決戦！カユラ対輝煌帝"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "11271",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11271",
+                    "Titles": {
+                        "eng": "Anubis' Armor Revived",
+                        "jpn": "復活の紅雷閃"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "11272",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11272",
+                    "Titles": {
+                        "eng": "Lady Evil Sees the Light",
+                        "jpn": "カユラ!聖なる目覚め"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "11273",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ronin-warriors/episodes/11273",
+                    "Titles": {
+                        "eng": "Triumphant Warriors",
+                        "jpn": "輝け！五人の戦士達"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

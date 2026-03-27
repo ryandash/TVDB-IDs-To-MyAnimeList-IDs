@@ -1,0 +1,66 @@
+{
+    "URL": "https://thetvdb.com/series/chrono-trigger",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Comedy",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0989832/"
+    ],
+    "Titles": {
+        "eng": "Chrono Trigger",
+        "jpn": "時空冒険ヌウマモンジャー"
+    },
+    "Aliases": [],
+    "Modified": "2023-09-21",
+    "Seasons": {
+        "0": {
+            "ID": "74491",
+            "URL": "https://thetvdb.com/series/chrono-trigger/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "99": {
+                    "ID": "723131",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/chrono-trigger/episodes/723131",
+                    "Titles": {
+                        "eng": "Time And Space Adventures Nuumamonjaa",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "471223",
+            "URL": "https://thetvdb.com/series/chrono-trigger/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "4147150",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/chrono-trigger/episodes/4147150",
+                    "Titles": {
+                        "eng": "Dimensional Adventure Nu-Mamonja",
+                        "jpn": "時空冒険ヌウマモンジャ～ Jikū Bōken Nūmamonjā"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

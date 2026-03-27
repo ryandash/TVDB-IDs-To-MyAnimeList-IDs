@@ -1,0 +1,4331 @@
+{
+    "URL": "https://thetvdb.com/series/lupin-iii",
+    "Genres": [
+        "Adaptation",
+        "Adult Animation",
+        "Cult",
+        "Espionage"
+    ],
+    "Other Sites": [
+        "https://www.facebook.com/AnimeTMS",
+        "https://www.imdb.com/title/tt0159175/",
+        "https://www.instagram.com/tmsanime",
+        "https://www.themoviedb.org/tv/31572",
+        "https://x.com/tmsanime"
+    ],
+    "Titles": {
+        "eng": "Lupin III",
+        "jpn": "ルパン三世"
+    },
+    "Aliases": [
+        "Lupin III Part I",
+        "Lupin Sansei",
+        "Lupin III Part II",
+        "Lupin III Part III",
+        "Lupin III Part IV",
+        "Lupin III Part V",
+        "Lupin III Part 4",
+        "Lupin III Part 5",
+        "Lupin the 3rd Part 4",
+        "Lupin the 3rd Part 5",
+        "Lupin the Third Part 4",
+        "Lupin the Third Part 5",
+        "Lupin III Part 6",
+        "Lupin the 3rd Part 6",
+        "Lupin the Third Part 6",
+        "Lupin III (1971)",
+        "Lupin the 3rd",
+        "ルパン三世 Rupan Sansei"
+    ],
+    "Modified": "2026-03-26",
+    "Seasons": {
+        "0": {
+            "ID": "209021",
+            "URL": "https://thetvdb.com/series/lupin-iii/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "por": "Especiais",
+                "ita": "Gli Special TV di Lupin III"
+            },
+            "# Episodes": 66,
+            "Episodes": {
+                "1": {
+                    "ID": "4301582",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301582",
+                    "Titles": {
+                        "eng": "Pilot Film",
+                        "jpn": "ルパン三世 パイロットフィルム"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "4301584",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301584",
+                    "Titles": {
+                        "eng": "Strange Psychokinetic Strategy",
+                        "jpn": "念力珍作戦"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "4301585",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301585",
+                    "Titles": {
+                        "eng": "Mystery of Mamo",
+                        "jpn": "ルパンVS複製人間"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "4301586",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301586",
+                    "Titles": {
+                        "eng": "The Castle of Cagliostro",
+                        "jpn": "カリオストロの城"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "5": {
+                    "ID": "4301588",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301588",
+                    "Titles": {
+                        "eng": "The Legend of the Gold of Babylon",
+                        "jpn": "バビロンの黄金伝説"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "6": {
+                    "ID": "4301589",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301589",
+                    "Titles": {
+                        "eng": "The Plot of the Fuma Clan",
+                        "jpn": "風魔一族の陰謀"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "7": {
+                    "ID": "4301583",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301583",
+                    "Titles": {
+                        "eng": "Secret Files",
+                        "jpn": "ルパン三世 シークレットファイル"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "8": {
+                    "ID": "4301587",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301587",
+                    "Titles": {
+                        "eng": "Bye Bye, Lady Liberty",
+                        "jpn": "バイバイ・リバティー・危機一発!"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "9": {
+                    "ID": "4301590",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301590",
+                    "Titles": {
+                        "eng": "The Hemingway Papers",
+                        "jpn": "ヘミングウェイ・ペーパーの謎"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "10": {
+                    "ID": "4301591",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301591",
+                    "Titles": {
+                        "eng": "Napoleon's Dictionary",
+                        "jpn": "ナポレオンの辞書を奪え"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "11": {
+                    "ID": "4301592",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301592",
+                    "Titles": {
+                        "eng": "From Siberia With Love",
+                        "jpn": "ロシアより愛をこめて"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "12": {
+                    "ID": "4301593",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301593",
+                    "Titles": {
+                        "eng": "Voyage to Danger",
+                        "jpn": "ルパン暗殺指令"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "13": {
+                    "ID": "4301594",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301594",
+                    "Titles": {
+                        "eng": "Dragon of Doom",
+                        "jpn": "燃えよ斬鉄剣"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "14": {
+                    "ID": "4301595",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301595",
+                    "Titles": {
+                        "eng": "Farewell to Nostradamus",
+                        "jpn": "くたばれ!ノストラダムス"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "15": {
+                    "ID": "4301596",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301596",
+                    "Titles": {
+                        "eng": "The Pursuit of Harimao's Treasure",
+                        "jpn": "ハリマオの財宝を追え!!"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "16": {
+                    "ID": "4301597",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301597",
+                    "Titles": {
+                        "eng": "Dead or Alive",
+                        "jpn": "DEAD OR ALIVE"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "17": {
+                    "ID": "4301598",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301598",
+                    "Titles": {
+                        "eng": "The Secret of Twilight Gemini",
+                        "jpn": "トワイライト☆ジェミニの秘密"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "18": {
+                    "ID": "4301599",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301599",
+                    "Titles": {
+                        "eng": "Island of Assassins",
+                        "jpn": "ワルサーP38"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "19": {
+                    "ID": "4301600",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301600",
+                    "Titles": {
+                        "eng": "Crisis in Tokyo",
+                        "jpn": "炎の記憶〜TOKYO CRISIS〜"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "20": {
+                    "ID": "4301601",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301601",
+                    "Titles": {
+                        "eng": "The Columbus Files",
+                        "jpn": "愛のダ・カーポ〜FUJIKO'S Unlucky Days〜"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "21": {
+                    "ID": "4301602",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301602",
+                    "Titles": {
+                        "eng": "Missed by a Dollar",
+                        "jpn": "1$マネーウォーズ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "22": {
+                    "ID": "4301603",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301603",
+                    "Titles": {
+                        "eng": "Alcatraz Connection",
+                        "jpn": "アルカトラズコネクション"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "23": {
+                    "ID": "4301604",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301604",
+                    "Titles": {
+                        "eng": "Return of the Magician",
+                        "jpn": "生きていた魔術師"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "24": {
+                    "ID": "4301605",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301605",
+                    "Titles": {
+                        "eng": "Episode: 0 First Contact",
+                        "jpn": "EPISODE:0 ファーストコンタクト"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "25": {
+                    "ID": "4301606",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301606",
+                    "Titles": {
+                        "eng": "Operation: Return the Treasure",
+                        "jpn": "お宝返却大作戦!!"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "26": {
+                    "ID": "4301607",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301607",
+                    "Titles": {
+                        "eng": "Stolen Lupin",
+                        "jpn": "盗まれたルパン～コピーキャットは真夏の蝶～"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "27": {
+                    "ID": "4301608",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301608",
+                    "Titles": {
+                        "eng": "Angel's Tactics",
+                        "jpn": "天使の策略～夢のカケラは殺しの香り～"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "28": {
+                    "ID": "4301609",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301609",
+                    "Titles": {
+                        "eng": "Seven Days Rhapsody",
+                        "jpn": "セブンデイズ ラプソディ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "29": {
+                    "ID": "4301610",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301610",
+                    "Titles": {
+                        "eng": "Elusiveness of the Fog",
+                        "jpn": "霧のエリューシヴ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "30": {
+                    "ID": "4301611",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301611",
+                    "Titles": {
+                        "eng": "Green Vs. Red",
+                        "jpn": "GREEN vs RED"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "31": {
+                    "ID": "4301612",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301612",
+                    "Titles": {
+                        "eng": "Sweet Lost Night",
+                        "jpn": "Sweet lost night～魔法のランプは悪夢の予感～"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "32": {
+                    "ID": "4301613",
+                    "TYPE": "Episodic Special",
+                    "CATEGORY": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301613",
+                    "Titles": {
+                        "eng": "Lupin III vs. Detective Conan",
+                        "jpn": "ルパン三世VS名探偵コナン"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "33": {
+                    "ID": "4301614",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301614",
+                    "Titles": {
+                        "eng": "The Last Job",
+                        "jpn": "The Last Job"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "34": {
+                    "ID": "4301615",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301615",
+                    "Titles": {
+                        "eng": "Blood Seal of the Eternal Mermaid",
+                        "jpn": "血の刻印 ～永遠のMermaid～"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "35": {
+                    "ID": "4920736",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4920736",
+                    "Titles": {
+                        "eng": "Lupin Family All-Stars",
+                        "jpn": "ルパン一家勢揃い"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "36": {
+                    "ID": "4941558",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4941558",
+                    "Titles": {
+                        "eng": "3DCG",
+                        "jpn": "ルパン三世 Full 3DCG Animation"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "37": {
+                    "ID": "4941562",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4941562",
+                    "Titles": {
+                        "eng": "Lupin VIII",
+                        "jpn": "ルパン8世"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "38": {
+                    "ID": "4899527",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4899527",
+                    "Titles": {
+                        "eng": "Record of Observations of the East - Another Page",
+                        "jpn": "東方見聞録～アナザーページ～"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "39": {
+                    "ID": "4899528",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4899528",
+                    "Titles": {
+                        "eng": "Princess of the Breeze - The Hidden City in the Sky",
+                        "jpn": "princess of the breeze ～隠された空中都市～"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "40": {
+                    "ID": "4942110",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4942110",
+                    "Titles": {
+                        "eng": "Lupin III vs. Detective Conan: The Movie",
+                        "jpn": "ルパン三世VS名探偵コナン THE MOVIE"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "41": {
+                    "ID": "7603964",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/7603964",
+                    "Titles": {
+                        "eng": "Lupin the 3rd: Jigen's Gravestone",
+                        "jpn": "次元大介の墓標"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "42": {
+                    "ID": "8112036",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/8112036",
+                    "Titles": {
+                        "eng": "The Italian Adventure Special",
+                        "jpn": "Lupin III – Speciale L'Avventura Italiana"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "43": {
+                    "ID": "5468691",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5468691",
+                    "Titles": {
+                        "eng": "The Italian Game",
+                        "jpn": "イタリアン・ゲーム"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "44": {
+                    "ID": "7617633",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/7617633",
+                    "Titles": {
+                        "eng": "The Blood Spray of Goemon Ishikawa",
+                        "jpn": "LUPIN THE ⅢRD 血煙の石川五ェ門"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "45": {
+                    "ID": "6962296",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6962296",
+                    "Titles": {
+                        "eng": "50th Anniversary Special - Is Lupin Still Burning?",
+                        "jpn": "原作誕生50周年「ルパンは今も燃えているか？」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "46": {
+                    "ID": "6962297",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6962297",
+                    "Titles": {
+                        "eng": "Goodbye Partner",
+                        "jpn": "グッバイ・パートナー"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "47": {
+                    "ID": "7617634",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/7617634",
+                    "Titles": {
+                        "eng": "Fujiko Mine's Lie",
+                        "jpn": "LUPIN THE ⅢRD 峰不二子の嘘"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "48": {
+                    "ID": "7516292",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/7516292",
+                    "Titles": {
+                        "eng": "Prison of the Past",
+                        "jpn": "プリズン・オブ・ザ・パスト"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "49": {
+                    "ID": "8196100",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/8196100",
+                    "Titles": {
+                        "eng": "The First",
+                        "jpn": "ルパン三世 THE FIRST"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "50": {
+                    "ID": "8894559",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/8894559",
+                    "Titles": {
+                        "eng": "Episode 0: The Times",
+                        "jpn": "EPISODE 0 ―時代―"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "52": {
+                    "ID": "9586579",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/9586579",
+                    "Titles": {
+                        "eng": "Lupin the Third vs. Cat's Eye",
+                        "jpn": "ルパン三世VSキャッツ・アイ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "53": {
+                    "ID": "10257948",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/10257948",
+                    "Titles": {
+                        "eng": "The Woman Called Fujiko Mine: Master Thief vs. Lady Looter",
+                        "jpn": "峰不二子という女: 大泥棒VS女怪盗"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "54": {
+                    "ID": "10257990",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/10257990",
+                    "Titles": {
+                        "eng": "The Woman Called Fujiko Mine: .357 Magnum",
+                        "jpn": "峰不二子という女: .357マグナム"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "55": {
+                    "ID": "10257991",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/10257991",
+                    "Titles": {
+                        "eng": "The Woman Called Fujiko Mine: The Lady and the Samurai",
+                        "jpn": "峰不二子という女: 淑女とサムライ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "56": {
+                    "ID": "10257992",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/10257992",
+                    "Titles": {
+                        "eng": "The Woman Called Fujiko Mine: Vissi d'arte, vissi d'amore",
+                        "jpn": "峰不二子という女: 歌に生き、恋に生き"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "57": {
+                    "ID": "10257993",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/10257993",
+                    "Titles": {
+                        "eng": "The Woman Called Fujiko Mine: Blood-Soaked Triangle",
+                        "jpn": "峰不二子という女: 血濡れた三角"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "58": {
+                    "ID": "10257994",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/10257994",
+                    "Titles": {
+                        "eng": "The Woman Called Fujiko Mine: Prison of Love",
+                        "jpn": "峰不二子という女: 愛の牢獄"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "59": {
+                    "ID": "10257995",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/10257995",
+                    "Titles": {
+                        "eng": "The Woman Called Fujiko Mine: Music and Revolution",
+                        "jpn": "峰不二子という女: 音楽と革命"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "60": {
+                    "ID": "10257996",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/10257996",
+                    "Titles": {
+                        "eng": "The Woman Called Fujiko Mine: Dying Day",
+                        "jpn": "峰不二子という女: 命日"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                },
+                "61": {
+                    "ID": "10257997",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/10257997",
+                    "Titles": {
+                        "eng": "The Woman Called Fujiko Mine: Love Wreathed in Steam",
+                        "jpn": "峰不二子という女: 湯けむり慕情"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "62": {
+                    "ID": "10257998",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/10257998",
+                    "Titles": {
+                        "eng": "The Woman Called Fujiko Mine: Ghost Town",
+                        "jpn": "峰不二子という女: 死んだ街"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "63": {
+                    "ID": "10257999",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/10257999",
+                    "Titles": {
+                        "eng": "The Woman Called Fujiko Mine: The Feast of Fools",
+                        "jpn": "峰不二子という女: 愚か者の祭"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "64": {
+                    "ID": "10258000",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/10258000",
+                    "Titles": {
+                        "eng": "The Woman Called Fujiko Mine: The Woman Called Fujiko Mine (1)",
+                        "jpn": "峰不二子という女: 峰不二子という女 （前篇）"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "65": {
+                    "ID": "10258001",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/10258001",
+                    "Titles": {
+                        "eng": "The Woman Called Fujiko Mine: The Woman Called Fujiko Mine (2)",
+                        "jpn": "峰不二子という女: 峰不二子という女 （後篇）"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                },
+                "66": {
+                    "ID": "11214811",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/11214811",
+                    "Titles": {
+                        "eng": "LUPIN THE IIIRD: Zenigata and the Two Lupins",
+                        "jpn": "LUPIN THE IIIRD 銭形と2人のルパン"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "67": {
+                    "ID": "11694620",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/11694620",
+                    "Titles": {
+                        "eng": "LUPIN THE IIIRD THE MOVIE: The Immortal Bloodline",
+                        "jpn": "LUPIN THE IIIRD THE MOVIE 不死身の血族"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "3123",
+            "URL": "https://thetvdb.com/series/lupin-iii/seasons/official/1",
+            "Titles": {
+                "eng": "Part I",
+                "jpn": "ルパン三世 PART1",
+                "ita": "Le avventure di Lupin III",
+                "fra": "Edgar de la Cambriole",
+                "por": "Parte 1",
+                "deu": "Lupin III. Part 1",
+                "spa": "Parte I (Chaqueta Verde)"
+            },
+            "# Episodes": 23,
+            "Episodes": {
+                "1": {
+                    "ID": "4301140",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301140",
+                    "Titles": {
+                        "eng": "Is Lupin Burning...?!",
+                        "jpn": "ルパンは燃えているか…?!"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4301141",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301141",
+                    "Titles": {
+                        "eng": "The Man They Called a Magician",
+                        "jpn": "魔術師と呼ばれた男"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4301142",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301142",
+                    "Titles": {
+                        "eng": "Farewell, My Beloved Witch",
+                        "jpn": "さらば愛しき魔女"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4301143",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301143",
+                    "Titles": {
+                        "eng": "One Chance for a Prison Break",
+                        "jpn": "脱獄のチャンスは一度"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4301144",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301144",
+                    "Titles": {
+                        "eng": "The Coming of Goemon the 13th",
+                        "jpn": "十三代五ヱ門登場"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4301145",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301145",
+                    "Titles": {
+                        "eng": "Rainy Afternoons Are Dangerous!",
+                        "jpn": "雨の午後はヤバイゼ"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4301146",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301146",
+                    "Titles": {
+                        "eng": "One Wolf Calls Another",
+                        "jpn": "狼は狼を呼ぶ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4301147",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301147",
+                    "Titles": {
+                        "eng": "The Gang's-All-Here Playing Card Strategy",
+                        "jpn": "全員集合トランプ作戦"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4301148",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301148",
+                    "Titles": {
+                        "eng": "A Hitman Sings the Blues",
+                        "jpn": "殺し屋はブルースを歌う"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4301149",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301149",
+                    "Titles": {
+                        "eng": "Target the Cash Counterfeiter!",
+                        "jpn": "ニセ札つくりを狙え!"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4301150",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301150",
+                    "Titles": {
+                        "eng": "When the Seventh Bridge Falls",
+                        "jpn": "７番目の橋が落ちるとき"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4301151",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301151",
+                    "Titles": {
+                        "eng": "Who Had the Last Laugh?",
+                        "jpn": "誰が最後に笑ったか"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4301152",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301152",
+                    "Titles": {
+                        "eng": "Beware the Time Machine!",
+                        "jpn": "タイムマシンに気をつけろ!"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4301153",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301153",
+                    "Titles": {
+                        "eng": "The Emerald's Secret",
+                        "jpn": "エメラルドの秘密"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4301154",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301154",
+                    "Titles": {
+                        "eng": "Let's Catch Lupin and Go to Europe",
+                        "jpn": "ルパンを捕まえてヨーロッパへ行こう"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4301155",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301155",
+                    "Titles": {
+                        "eng": "Operation: Jewel Snatch",
+                        "jpn": "宝石横取り作戦"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4301156",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301156",
+                    "Titles": {
+                        "eng": "Lupin, Caught in a Trap",
+                        "jpn": "罠にかかったルパン"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4301157",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301157",
+                    "Titles": {
+                        "eng": "Keep an Eye on the Beauty Contest!",
+                        "jpn": "美人コンテストをマークせよ"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4301158",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301158",
+                    "Titles": {
+                        "eng": "Which Third-Generation Will Win?",
+                        "jpn": "どっちが勝つか三代目!"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4301159",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301159",
+                    "Titles": {
+                        "eng": "Catch the Phony Lupin!",
+                        "jpn": "ニセルパンを捕えろ!"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4301160",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301160",
+                    "Titles": {
+                        "eng": "Rescue the Shrewish Girl!",
+                        "jpn": "ジャジャ馬娘を助けだせ!"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4301161",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301161",
+                    "Titles": {
+                        "eng": "The First-Move-Wins Computer Operation!",
+                        "jpn": "先手必勝コンピューター作戦!"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4301162",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301162",
+                    "Titles": {
+                        "eng": "The Big Golden Showdown",
+                        "jpn": "黄金の大勝負!"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "489473",
+            "URL": "https://thetvdb.com/series/lupin-iii/seasons/official/2",
+            "Titles": {
+                "eng": "Part II",
+                "jpn": "ルパン三世 PART2",
+                "ita": "Le nuove avventure di Lupin III",
+                "fra": "Edgar, le détective cambrioleur",
+                "por": "Parte 2",
+                "spa": "Parte II (Chaqueta Roja)"
+            },
+            "# Episodes": 155,
+            "Episodes": {
+                "1": {
+                    "ID": "62783",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/62783",
+                    "Titles": {
+                        "eng": "Lupin the Third's Gallant Appearence",
+                        "jpn": "ルパン三世颯爽登場"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "62784",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/62784",
+                    "Titles": {
+                        "eng": "Wads of Bills Blossomed in the Rio Sunset",
+                        "jpn": "リオの夕陽に咲く札束"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1843781",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1843781",
+                    "Titles": {
+                        "eng": "Hitler's Legacy",
+                        "jpn": "ヒトラーの遺産"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "62786",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/62786",
+                    "Titles": {
+                        "eng": "I Can Hear Nessie's Singing",
+                        "jpn": "ネッシーの唄が聞こえる"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "62785",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/62785",
+                    "Titles": {
+                        "eng": "I'll Teach You How to Transport Gold Bars",
+                        "jpn": "金塊の運び方教えます"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "62787",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/62787",
+                    "Titles": {
+                        "eng": "Will the Leaning Tower of Pisa Be Standing?",
+                        "jpn": "ピサの斜塔は立っているか"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "62788",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/62788",
+                    "Titles": {
+                        "eng": "Tutankhamen's 3,000 Year-Old Curse",
+                        "jpn": "ツタンカーメン三千年の呪い"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "62789",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/62789",
+                    "Titles": {
+                        "eng": "Ventian Super Express",
+                        "jpn": "ベネチア超特急"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "62790",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/62790",
+                    "Titles": {
+                        "eng": "Would You Like Ukiyo-e Blues?",
+                        "jpn": "浮世絵ブルースはいかが"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "62791",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/62791",
+                    "Titles": {
+                        "eng": "Steal the File M123",
+                        "jpn": "ファイルＭ１２３を盗め"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "62792",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/62792",
+                    "Titles": {
+                        "eng": "Bet on the Monaco Grand Prix!",
+                        "jpn": "モナコＧＰに賭けろ"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "62793",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/62793",
+                    "Titles": {
+                        "eng": "A Gift for the President",
+                        "jpn": "大統領への贈り物"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "62794",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/62794",
+                    "Titles": {
+                        "eng": "The Great Chase in San Francisco",
+                        "jpn": "サンフランシスコ大追跡"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "62795",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/62795",
+                    "Titles": {
+                        "eng": "Big Adventure of the Caribbean Sea",
+                        "jpn": "カリブ海の大冒険"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "62796",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/62796",
+                    "Titles": {
+                        "eng": "Renowned Detectives in the Sky",
+                        "jpn": "名探偵空をゆく"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "62797",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/62797",
+                    "Titles": {
+                        "eng": "Two-Faced Lupin",
+                        "jpn": "二つの顔のルパン"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "62798",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/62798",
+                    "Titles": {
+                        "eng": "Target the Oil Dollars",
+                        "jpn": "オイルダラーを狙え"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "1843681",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1843681",
+                    "Titles": {
+                        "eng": "Black Panther",
+                        "jpn": "ブラック・パンサー"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "1843791",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1843791",
+                    "Titles": {
+                        "eng": "Can the 10-Year Vault Be Broken?",
+                        "jpn": "十年金庫は破れるか"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "1843801",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1843801",
+                    "Titles": {
+                        "eng": "Cornered Lupin",
+                        "jpn": "追いつめられたルパン"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "1843811",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1843811",
+                    "Titles": {
+                        "eng": "Goemon's Revenge",
+                        "jpn": "五ェ門の復讐"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "1843821",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1843821",
+                    "Titles": {
+                        "eng": "Explore the Mysterious Women's Palace",
+                        "jpn": "謎の女人館を探れ"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "1843831",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1843831",
+                    "Titles": {
+                        "eng": "A Witch in the Fourth Dimension",
+                        "jpn": "第4次元の魔女"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "1843841",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1843841",
+                    "Titles": {
+                        "eng": "The Phantom Thief Rat Boy Appears",
+                        "jpn": "怪盗ねずみ小僧現わる"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "1843851",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1843851",
+                    "Titles": {
+                        "eng": "Encounter with the Deadly Iron Lizard",
+                        "jpn": "必殺鉄トカゲ見参"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "1843861",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1843861",
+                    "Titles": {
+                        "eng": "A Rose and a Pistol",
+                        "jpn": "バラとピストル"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "1843871",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1843871",
+                    "Titles": {
+                        "eng": "Where Did the Cinderella Stamp Go?",
+                        "jpn": "シンデレラの切手はどこへいった"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "1843881",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1843881",
+                    "Titles": {
+                        "eng": "Female Detective Melon",
+                        "jpn": "女刑事メロン"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "1843891",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1843891",
+                    "Titles": {
+                        "eng": "Electric Pigeon Tactics",
+                        "jpn": "電撃ハトポッポ作戦"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "1843901",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1843901",
+                    "Titles": {
+                        "eng": "The Wind in Morocco Is Hot",
+                        "jpn": "モロッコの風は熱く"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "1844701",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1844701",
+                    "Titles": {
+                        "eng": "Shoot into the Midnight Sun",
+                        "jpn": "白夜に向かって撃て"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "1844721",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1844721",
+                    "Titles": {
+                        "eng": "Lupin Dies Twice",
+                        "jpn": "ルパンは二度死ぬ"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "1844731",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1844731",
+                    "Titles": {
+                        "eng": "To Whom Orion's Crown Belongs",
+                        "jpn": "オリオンの王冠は誰のもの"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "1844751",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1844751",
+                    "Titles": {
+                        "eng": "Lupin Who Turned Into a Vampire",
+                        "jpn": "吸血鬼になったルパン"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "1844771",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1844771",
+                    "Titles": {
+                        "eng": "Pursue the Gorilla Gang",
+                        "jpn": "ゴリラギャングを追っかけろ"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "1844791",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1844791",
+                    "Titles": {
+                        "eng": "Uncover the Secret of Tsukikage Castle",
+                        "jpn": "月影城の秘密をあばけ"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "1844801",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1844801",
+                    "Titles": {
+                        "eng": "The Hidden Gold of Genghis Khan",
+                        "jpn": "ジンギスカンの埋蔵金"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "1844811",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1844811",
+                    "Titles": {
+                        "eng": "The Sweet Trap of ICPO",
+                        "jpn": "ＩＣＰＯの甘い罠"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "1844891",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1844891",
+                    "Titles": {
+                        "eng": "Diamonds Disappeared Under the Hong Kong Sky",
+                        "jpn": "香港の夜空にダイヤは消えた"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "1844901",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1844901",
+                    "Titles": {
+                        "eng": "Operation Missile-Jack",
+                        "jpn": "ミサイルジャック作戦"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "1844911",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1844911",
+                    "Titles": {
+                        "eng": "Find Princess Kaguya's Treasure",
+                        "jpn": "かぐや姫の宝を探せ"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "1844921",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1844921",
+                    "Titles": {
+                        "eng": "Lupin Becomes a Bride",
+                        "jpn": "花嫁になったルパン"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "1844941",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1844941",
+                    "Titles": {
+                        "eng": "Where Are Peking Man's Bones?",
+                        "jpn": "北京原人の骨はどこに"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "1845121",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1845121",
+                    "Titles": {
+                        "eng": "The Vanishing Special Armored Car",
+                        "jpn": "消えた特別装甲車"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "1845141",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1845141",
+                    "Titles": {
+                        "eng": "Killing Is the Smell of Wine",
+                        "jpn": "殺しはワインの匂い"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "1845151",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1845151",
+                    "Titles": {
+                        "eng": "Lupin Will Fetch a High Price",
+                        "jpn": "ルパンお高く売ります"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "1845161",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1845161",
+                    "Titles": {
+                        "eng": "Her Majesty's Slipshod Inspectors",
+                        "jpn": "女王陛下のズッコケ警部"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "1845171",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1845171",
+                    "Titles": {
+                        "eng": "Lupin Laughs While the Alarm Bell Rings",
+                        "jpn": "非常ベルにルパンは笑う"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "1845181",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1845181",
+                    "Titles": {
+                        "eng": "A Pretty Woman Has Venom",
+                        "jpn": "可愛いい女には毒がある"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "1845191",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1845191",
+                    "Titles": {
+                        "eng": "Lupin, Whom I Loved (Part 1)",
+                        "jpn": "私が愛したルパン（前編）"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "1845201",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1845201",
+                    "Titles": {
+                        "eng": "Lupin, Whom I Loved (Part 2)",
+                        "jpn": "私が愛したルパン（後編）"
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "1845211",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1845211",
+                    "Titles": {
+                        "eng": "Emmanuelle Is an Angel's Whisper",
+                        "jpn": "エマニエルは天使のささやき"
+                    },
+                    "Aliases": []
+                },
+                "53": {
+                    "ID": "1846631",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846631",
+                    "Titles": {
+                        "eng": "The Mad Fantoma Mark III",
+                        "jpn": "狂気のファントマ・マークIII"
+                    },
+                    "Aliases": []
+                },
+                "54": {
+                    "ID": "1846641",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846641",
+                    "Titles": {
+                        "eng": "Detective Hanshichi's Ten-Year Promise",
+                        "jpn": "半七刑事十年目の約束"
+                    },
+                    "Aliases": []
+                },
+                "55": {
+                    "ID": "1846651",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846651",
+                    "Titles": {
+                        "eng": "Falling Cherry Blossoms - The Mysterious Gang of Five (Part One)",
+                        "jpn": "花吹雪　謎の五人衆（前篇）"
+                    },
+                    "Aliases": []
+                },
+                "56": {
+                    "ID": "1846661",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846661",
+                    "Titles": {
+                        "eng": "Falling Cherry Blossoms - The Mysterious Gang of Five (Part Two))",
+                        "jpn": "花吹雪　謎の五人衆（後篇）"
+                    },
+                    "Aliases": []
+                },
+                "57": {
+                    "ID": "1846671",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846671",
+                    "Titles": {
+                        "eng": "Will It Be the Computer or Lupin?",
+                        "jpn": "コンピューターかルパンか"
+                    },
+                    "Aliases": []
+                },
+                "58": {
+                    "ID": "1846681",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846681",
+                    "Titles": {
+                        "eng": "The Border Is the Face of Farewell",
+                        "jpn": "国境は別れの顔"
+                    },
+                    "Aliases": []
+                },
+                "59": {
+                    "ID": "1846691",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846691",
+                    "Titles": {
+                        "eng": "The Mysterious World of Madame X",
+                        "jpn": "マダムXの不思議な世界"
+                    },
+                    "Aliases": []
+                },
+                "60": {
+                    "ID": "1846701",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846701",
+                    "Titles": {
+                        "eng": "A Flower of Suicide Blooms in India",
+                        "jpn": "インドに自殺の花が咲く"
+                    },
+                    "Aliases": []
+                },
+                "61": {
+                    "ID": "1846711",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846711",
+                    "Titles": {
+                        "eng": "The Flying Zantetsuken",
+                        "jpn": "空飛ぶ斬鉄剣"
+                    },
+                    "Aliases": []
+                },
+                "62": {
+                    "ID": "1846721",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846721",
+                    "Titles": {
+                        "eng": "The Sound of the Devil's Bells Calls Lupin",
+                        "jpn": "ルパンを呼ぶ悪魔の鐘の音"
+                    },
+                    "Aliases": []
+                },
+                "63": {
+                    "ID": "1846731",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846731",
+                    "Titles": {
+                        "eng": "A Trap for a Trap!",
+                        "jpn": "罠には罠を！"
+                    },
+                    "Aliases": []
+                },
+                "64": {
+                    "ID": "1846741",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846741",
+                    "Titles": {
+                        "eng": "Christmas Is in the Hands of the Goddess",
+                        "jpn": "クリスマスは女神の手に"
+                    },
+                    "Aliases": []
+                },
+                "65": {
+                    "ID": "1846751",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846751",
+                    "Titles": {
+                        "eng": "Lupin's Enemy Is Lupin",
+                        "jpn": "ルパンの敵はルパン"
+                    },
+                    "Aliases": []
+                },
+                "66": {
+                    "ID": "1846761",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846761",
+                    "Titles": {
+                        "eng": "Shooting Orders!",
+                        "jpn": "射殺命令！！"
+                    },
+                    "Aliases": []
+                },
+                "67": {
+                    "ID": "1846771",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846771",
+                    "Titles": {
+                        "eng": "Lupin's Big Saiyuuki",
+                        "jpn": "ルパンの大西遊記"
+                    },
+                    "Aliases": []
+                },
+                "68": {
+                    "ID": "1846781",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846781",
+                    "Titles": {
+                        "eng": "Casino Island - Inversions and More Inversions",
+                        "jpn": "カジノ島・逆転また逆転"
+                    },
+                    "Aliases": []
+                },
+                "69": {
+                    "ID": "1846791",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846791",
+                    "Titles": {
+                        "eng": "The Woman the Old Man Fell in Love with",
+                        "jpn": "とっつあんの惚れた女"
+                    },
+                    "Aliases": []
+                },
+                "70": {
+                    "ID": "1846801",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846801",
+                    "Titles": {
+                        "eng": "Classic Thieves and Mynah Birds",
+                        "jpn": "クラシック泥棒と九官鳥"
+                    },
+                    "Aliases": []
+                },
+                "71": {
+                    "ID": "1846811",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846811",
+                    "Titles": {
+                        "eng": "Lupin vs The Shinsen Group",
+                        "jpn": "ルパン対新選組"
+                    },
+                    "Aliases": []
+                },
+                "72": {
+                    "ID": "1846821",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846821",
+                    "Titles": {
+                        "eng": "The Skateboard Murder Mystery",
+                        "jpn": "スケートボード殺人事件"
+                    },
+                    "Aliases": []
+                },
+                "73": {
+                    "ID": "1846831",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846831",
+                    "Titles": {
+                        "eng": "Flowers and Storms and a Thieves' Race",
+                        "jpn": "花も嵐も泥棒レース"
+                    },
+                    "Aliases": []
+                },
+                "74": {
+                    "ID": "1846841",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846841",
+                    "Titles": {
+                        "eng": "The Terrifying Chameleon Man",
+                        "jpn": "恐怖のカメレオン人間"
+                    },
+                    "Aliases": []
+                },
+                "75": {
+                    "ID": "1846851",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846851",
+                    "Titles": {
+                        "eng": "Fujiko Doesn't Look Good in a Bridal Gown",
+                        "jpn": "不二子に花嫁衣装はにあわない"
+                    },
+                    "Aliases": []
+                },
+                "76": {
+                    "ID": "1846861",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846861",
+                    "Titles": {
+                        "eng": "Do You Know Shakespeare?",
+                        "jpn": "シェークスピアを知ってるかい"
+                    },
+                    "Aliases": []
+                },
+                "77": {
+                    "ID": "1846871",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846871",
+                    "Titles": {
+                        "eng": "Arrest Lupin with Horoscopes",
+                        "jpn": "星占いでルパンを逮捕"
+                    },
+                    "Aliases": []
+                },
+                "78": {
+                    "ID": "1846881",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846881",
+                    "Titles": {
+                        "eng": "Diamonds Gleam in a Robot's Eye",
+                        "jpn": "ロボットの瞳にダイヤが光る"
+                    },
+                    "Aliases": []
+                },
+                "79": {
+                    "ID": "1846891",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846891",
+                    "Titles": {
+                        "eng": "The Lupin Funeral March",
+                        "jpn": "ルパン葬送曲"
+                    },
+                    "Aliases": []
+                },
+                "80": {
+                    "ID": "1846901",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846901",
+                    "Titles": {
+                        "eng": "The Last Gift in Prison is Cup Ramen",
+                        "jpn": "最後の差し入れはカップラーメン"
+                    },
+                    "Aliases": []
+                },
+                "81": {
+                    "ID": "1846911",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846911",
+                    "Titles": {
+                        "eng": "Fujiko, Men Are a Sorry Lot!",
+                        "jpn": "不二子！男はつらいぜ"
+                    },
+                    "Aliases": []
+                },
+                "82": {
+                    "ID": "1846921",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846921",
+                    "Titles": {
+                        "eng": "Rescuing Pops",
+                        "jpn": "とっつあん人質救出作戦"
+                    },
+                    "Aliases": []
+                },
+                "83": {
+                    "ID": "1846931",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846931",
+                    "Titles": {
+                        "eng": "Lupin's Big Western",
+                        "jpn": "ルパンの大西部劇"
+                    },
+                    "Aliases": []
+                },
+                "84": {
+                    "ID": "1846941",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846941",
+                    "Titles": {
+                        "eng": "Leave the Revenge to Lupin",
+                        "jpn": "復讐はルパンにまかせろ"
+                    },
+                    "Aliases": []
+                },
+                "85": {
+                    "ID": "1846951",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846951",
+                    "Titles": {
+                        "eng": "The ICPO's Secret Plan",
+                        "jpn": "ICPO（秘）指令"
+                    },
+                    "Aliases": []
+                },
+                "86": {
+                    "ID": "1846961",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846961",
+                    "Titles": {
+                        "eng": "The Mysterious Nocturnal Mask",
+                        "jpn": "謎の夜光仮面現わる"
+                    },
+                    "Aliases": []
+                },
+                "87": {
+                    "ID": "1846971",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846971",
+                    "Titles": {
+                        "eng": "When the Devil Calls to Lupin",
+                        "jpn": "悪魔がルパンを招くとき"
+                    },
+                    "Aliases": []
+                },
+                "88": {
+                    "ID": "1846981",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846981",
+                    "Titles": {
+                        "eng": "Lupin's North Pole, South Pole Adventure",
+                        "jpn": "ルパンの南極北極大冒険"
+                    },
+                    "Aliases": []
+                },
+                "89": {
+                    "ID": "1846991",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1846991",
+                    "Titles": {
+                        "eng": "Play the Thief's Symphony",
+                        "jpn": "ドロボウ交響曲を鳴らせ"
+                    },
+                    "Aliases": []
+                },
+                "90": {
+                    "ID": "1847001",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1847001",
+                    "Titles": {
+                        "eng": "Bad Guys Make the Worst Crooks",
+                        "jpn": "悪い奴ほど大悪党"
+                    },
+                    "Aliases": []
+                },
+                "91": {
+                    "ID": "1847011",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1847011",
+                    "Titles": {
+                        "eng": "The Time-Traveling Girl",
+                        "jpn": "時を駆ける少女"
+                    },
+                    "Aliases": []
+                },
+                "92": {
+                    "ID": "1847021",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1847021",
+                    "Titles": {
+                        "eng": "The Madam and the Robber's Quartet",
+                        "jpn": "マダムと泥棒四重奏"
+                    },
+                    "Aliases": []
+                },
+                "93": {
+                    "ID": "1847031",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1847031",
+                    "Titles": {
+                        "eng": "Invading the Great Wall",
+                        "jpn": "万里の長城インベーダー作戦"
+                    },
+                    "Aliases": []
+                },
+                "94": {
+                    "ID": "1847041",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1847041",
+                    "Titles": {
+                        "eng": "Lupin vs. Superman",
+                        "jpn": "ルパン対スーパーマン"
+                    },
+                    "Aliases": []
+                },
+                "95": {
+                    "ID": "1847051",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1847051",
+                    "Titles": {
+                        "eng": "From the Ghost Ship with Love",
+                        "jpn": "幽霊船より愛をこめて"
+                    },
+                    "Aliases": []
+                },
+                "96": {
+                    "ID": "1847061",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1847061",
+                    "Titles": {
+                        "eng": "Lupin's Gourmet World",
+                        "jpn": "ルパンのお料理天国"
+                    },
+                    "Aliases": []
+                },
+                "97": {
+                    "ID": "1847071",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1847071",
+                    "Titles": {
+                        "eng": "Find Lupin the First's Treasure",
+                        "jpn": "ルパン一世の秘宝を探せ"
+                    },
+                    "Aliases": []
+                },
+                "98": {
+                    "ID": "1847081",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1847081",
+                    "Titles": {
+                        "eng": "The Day Pops Was Gone",
+                        "jpn": "父っつあんのいない日"
+                    },
+                    "Aliases": []
+                },
+                "99": {
+                    "ID": "1847091",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1847091",
+                    "Titles": {
+                        "eng": "The Scattered Magnum",
+                        "jpn": "荒野に散ったコンバット・マグナム"
+                    },
+                    "Aliases": []
+                },
+                "100": {
+                    "ID": "1847101",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1847101",
+                    "Titles": {
+                        "eng": "The Ultra Train Heist Plan",
+                        "jpn": "名画強奪ウルトラ作戦"
+                    },
+                    "Aliases": []
+                },
+                "101": {
+                    "ID": "1852731",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852731",
+                    "Titles": {
+                        "eng": "Versailles, Burning with Love",
+                        "jpn": "ベルサイユは愛に燃えた"
+                    },
+                    "Aliases": []
+                },
+                "102": {
+                    "ID": "1852741",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852741",
+                    "Titles": {
+                        "eng": "Lupin, Do You Like Chanel?",
+                        "jpn": "ルパンはシャネルがお好き"
+                    },
+                    "Aliases": []
+                },
+                "103": {
+                    "ID": "1852751",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852751",
+                    "Titles": {
+                        "eng": "The Wolf Saw an Angel",
+                        "jpn": "狼は天使を見た"
+                    },
+                    "Aliases": []
+                },
+                "104": {
+                    "ID": "1852761",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852761",
+                    "Titles": {
+                        "eng": "The Most Dangerous Golden Bed",
+                        "jpn": "もっとも危険な黄金ベッド"
+                    },
+                    "Aliases": []
+                },
+                "105": {
+                    "ID": "1852771",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852771",
+                    "Titles": {
+                        "eng": "The Mystery of Demon's Head Island",
+                        "jpn": "怪奇鬼首島に女が消えた"
+                    },
+                    "Aliases": []
+                },
+                "106": {
+                    "ID": "1852781",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852781",
+                    "Titles": {
+                        "eng": "You're the Cat, I'm the Fish",
+                        "jpn": "君はネコぼくはカツオ節"
+                    },
+                    "Aliases": []
+                },
+                "107": {
+                    "ID": "1852791",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852791",
+                    "Titles": {
+                        "eng": "The Curse of the Wedding Ring",
+                        "jpn": "結婚指輪は呪いの罠"
+                    },
+                    "Aliases": []
+                },
+                "108": {
+                    "ID": "1852801",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852801",
+                    "Titles": {
+                        "eng": "Zantetsuken's Lament",
+                        "jpn": "哀しみの斬鉄剣"
+                    },
+                    "Aliases": []
+                },
+                "109": {
+                    "ID": "1852811",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852811",
+                    "Titles": {
+                        "eng": "Lupin's Toughest Fight Ever",
+                        "jpn": "ルパン史上最大の苦戦"
+                    },
+                    "Aliases": []
+                },
+                "110": {
+                    "ID": "1852821",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852821",
+                    "Titles": {
+                        "eng": "Fujiko's Candid Photo",
+                        "jpn": "激写これが不二子だ"
+                    },
+                    "Aliases": []
+                },
+                "111": {
+                    "ID": "1852831",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852831",
+                    "Titles": {
+                        "eng": "Is the Invaders Safe Open?",
+                        "jpn": "インベーダー金庫は開いたか？"
+                    },
+                    "Aliases": []
+                },
+                "112": {
+                    "ID": "1852841",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852841",
+                    "Titles": {
+                        "eng": "Goemon's Close Call",
+                        "jpn": "五ェ門危機一髪"
+                    },
+                    "Aliases": []
+                },
+                "113": {
+                    "ID": "1852851",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852851",
+                    "Titles": {
+                        "eng": "Operation Chushingura",
+                        "jpn": "作戦名は忠臣蔵"
+                    },
+                    "Aliases": []
+                },
+                "114": {
+                    "ID": "1852861",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852861",
+                    "Titles": {
+                        "eng": "The Secret of the First Supper",
+                        "jpn": "迷画最初の晩餐の秘密"
+                    },
+                    "Aliases": []
+                },
+                "115": {
+                    "ID": "1852871",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852871",
+                    "Titles": {
+                        "eng": "Mona Lisa Smiles Twice",
+                        "jpn": "モナリザは二度微笑う"
+                    },
+                    "Aliases": []
+                },
+                "116": {
+                    "ID": "1852881",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852881",
+                    "Titles": {
+                        "eng": "When's the 108th Bell?",
+                        "jpn": "108つの鐘は鳴ったか"
+                    },
+                    "Aliases": []
+                },
+                "117": {
+                    "ID": "1852891",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852891",
+                    "Titles": {
+                        "eng": "The Bubble Gum Disguise Plan",
+                        "jpn": "チューインガム変装作戦"
+                    },
+                    "Aliases": []
+                },
+                "118": {
+                    "ID": "1852901",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852901",
+                    "Titles": {
+                        "eng": "The Southern Cross Looked Like Diamonds",
+                        "jpn": "南十字星がダイヤに見えた"
+                    },
+                    "Aliases": []
+                },
+                "119": {
+                    "ID": "1852911",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852911",
+                    "Titles": {
+                        "eng": "Lupin Killed Lupin",
+                        "jpn": "ルパンを殺したルパン"
+                    },
+                    "Aliases": []
+                },
+                "120": {
+                    "ID": "1852921",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852921",
+                    "Titles": {
+                        "eng": "Frankenstein Attacks Lupin",
+                        "jpn": "フランケンシュタイン ルパンを襲う"
+                    },
+                    "Aliases": []
+                },
+                "121": {
+                    "ID": "1852931",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852931",
+                    "Titles": {
+                        "eng": "The Treasure My Grandpa Left Behind",
+                        "jpn": "オレの爺さんが残した宝物"
+                    },
+                    "Aliases": []
+                },
+                "122": {
+                    "ID": "1852941",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852941",
+                    "Titles": {
+                        "eng": "A Rare Find: Napoleon's Fortune",
+                        "jpn": "珍発見ナポレオンの財宝"
+                    },
+                    "Aliases": []
+                },
+                "123": {
+                    "ID": "1852951",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852951",
+                    "Titles": {
+                        "eng": "A Thief in Paris",
+                        "jpn": "泥棒はパリで"
+                    },
+                    "Aliases": []
+                },
+                "124": {
+                    "ID": "1852961",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852961",
+                    "Titles": {
+                        "eng": "1999: A Popcorn Odyssey",
+                        "jpn": "1999年ポップコーンの旅"
+                    },
+                    "Aliases": []
+                },
+                "125": {
+                    "ID": "1852971",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852971",
+                    "Titles": {
+                        "eng": "The Oil Dollar Scheme",
+                        "jpn": "オイルダラーの大謀略"
+                    },
+                    "Aliases": []
+                },
+                "126": {
+                    "ID": "1852981",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852981",
+                    "Titles": {
+                        "eng": "Together with Lupin to Hell",
+                        "jpn": "地獄へルパンを道づれ"
+                    },
+                    "Aliases": []
+                },
+                "127": {
+                    "ID": "1852991",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1852991",
+                    "Titles": {
+                        "eng": "Direct Hit! The Beanball Strategy",
+                        "jpn": "直撃！デッドボール作戦"
+                    },
+                    "Aliases": []
+                },
+                "128": {
+                    "ID": "1853001",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853001",
+                    "Titles": {
+                        "eng": "Lupin and an Old Lady's Theft Contest",
+                        "jpn": "老婆とルパンの泥棒合戦"
+                    },
+                    "Aliases": []
+                },
+                "129": {
+                    "ID": "1853011",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853011",
+                    "Titles": {
+                        "eng": "Man's Gentle Soul Was Seen in Jigen",
+                        "jpn": "次元に男心の優しさを見た"
+                    },
+                    "Aliases": []
+                },
+                "130": {
+                    "ID": "1853021",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853021",
+                    "Titles": {
+                        "eng": "Lupin vs. The Two-Faced Oddball",
+                        "jpn": "ルパン対奇人二面相"
+                    },
+                    "Aliases": []
+                },
+                "131": {
+                    "ID": "1853031",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853031",
+                    "Titles": {
+                        "eng": "Two Goemons: The Mystery of Zantetsuken",
+                        "jpn": "二人五ェ門斬鉄剣の謎"
+                    },
+                    "Aliases": []
+                },
+                "132": {
+                    "ID": "1853041",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853041",
+                    "Titles": {
+                        "eng": "The Himalayan Sacred Mountain Thieves' Cult",
+                        "jpn": "霊山ヒマラヤの泥棒教団"
+                    },
+                    "Aliases": []
+                },
+                "133": {
+                    "ID": "1853051",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853051",
+                    "Titles": {
+                        "eng": "Keep Your Hands Off the Hot Treasure",
+                        "jpn": "熱いお宝に手を出すな"
+                    },
+                    "Aliases": []
+                },
+                "134": {
+                    "ID": "1853061",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853061",
+                    "Titles": {
+                        "eng": "Operation: Arrest Lupin the Third",
+                        "jpn": "ルパン逮捕頂上作戦"
+                    },
+                    "Aliases": []
+                },
+                "135": {
+                    "ID": "1853071",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853071",
+                    "Titles": {
+                        "eng": "Poison, Magic, and Lupin the Third",
+                        "jpn": "毒薬と魔術とルパン三世"
+                    },
+                    "Aliases": []
+                },
+                "136": {
+                    "ID": "1853081",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853081",
+                    "Titles": {
+                        "eng": "Revenge of the Golden Butterfly",
+                        "jpn": "ゴールドバタフライの復讐"
+                    },
+                    "Aliases": []
+                },
+                "137": {
+                    "ID": "1853091",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853091",
+                    "Titles": {
+                        "eng": "Magnificent Team-Play Tactics",
+                        "jpn": "華麗なるチームプレイ作戦"
+                    },
+                    "Aliases": []
+                },
+                "138": {
+                    "ID": "1853101",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853101",
+                    "Titles": {
+                        "eng": "Pompeii's Treasure and the Venomous Snakes",
+                        "jpn": "ポンペイの秘宝と毒蛇"
+                    },
+                    "Aliases": []
+                },
+                "139": {
+                    "ID": "1853111",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853111",
+                    "Titles": {
+                        "eng": "Steal Everything from Lupin",
+                        "jpn": "ルパンのすべてを盗め"
+                    },
+                    "Aliases": []
+                },
+                "140": {
+                    "ID": "1853121",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853121",
+                    "Titles": {
+                        "eng": "The Wolf Runs and the Pig Rolls",
+                        "jpn": "狼は走れ豚は転がれ"
+                    },
+                    "Aliases": []
+                },
+                "141": {
+                    "ID": "1853131",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853131",
+                    "Titles": {
+                        "eng": "1980 Moscow Revelation",
+                        "jpn": "1980モスクワ黙示録"
+                    },
+                    "Aliases": []
+                },
+                "142": {
+                    "ID": "1853141",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853141",
+                    "Titles": {
+                        "eng": "The Disappearing Favorite at the Grand Race",
+                        "jpn": "グランドレース消えた大本命"
+                    },
+                    "Aliases": []
+                },
+                "143": {
+                    "ID": "1853151",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853151",
+                    "Titles": {
+                        "eng": "Anniversary of the Miami Bank Robbery",
+                        "jpn": "マイアミ銀行襲撃記念日"
+                    },
+                    "Aliases": []
+                },
+                "144": {
+                    "ID": "1853161",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853161",
+                    "Titles": {
+                        "eng": "Fujiko's Close-Call Rescue Mission",
+                        "jpn": "不二子危機一髪救出作戦"
+                    },
+                    "Aliases": []
+                },
+                "145": {
+                    "ID": "1853171",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853171",
+                    "Titles": {
+                        "eng": "Albatross, The Wings of Death",
+                        "jpn": "死の翼アルバトロス"
+                    },
+                    "Aliases": []
+                },
+                "146": {
+                    "ID": "1853181",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853181",
+                    "Titles": {
+                        "eng": "Lupin's Splendid Defeat",
+                        "jpn": "ルパン華麗なる敗北"
+                    },
+                    "Aliases": []
+                },
+                "147": {
+                    "ID": "1853191",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853191",
+                    "Titles": {
+                        "eng": "The Mermaid That Disappeared in the Midnight Sun",
+                        "jpn": "白夜に消えた人魚"
+                    },
+                    "Aliases": []
+                },
+                "148": {
+                    "ID": "1853201",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853201",
+                    "Titles": {
+                        "eng": "The Target is 555 Meters Away",
+                        "jpn": "ターゲットは555M"
+                    },
+                    "Aliases": []
+                },
+                "149": {
+                    "ID": "1853211",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853211",
+                    "Titles": {
+                        "eng": "Mecca's Treasure Wore a Veil",
+                        "jpn": "ベールをはいだメッカの秘宝"
+                    },
+                    "Aliases": []
+                },
+                "150": {
+                    "ID": "1853221",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853221",
+                    "Titles": {
+                        "eng": "Piano Symphony \"Zoo\"",
+                        "jpn": "ピアノ交響曲「動物園」"
+                    },
+                    "Aliases": []
+                },
+                "151": {
+                    "ID": "1853231",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853231",
+                    "Titles": {
+                        "eng": "The Highway Operation to Arrest Lupin",
+                        "jpn": "ルパン逮捕ハイウェイ作戦"
+                    },
+                    "Aliases": []
+                },
+                "152": {
+                    "ID": "1853241",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853241",
+                    "Titles": {
+                        "eng": "Jigen, a Hat, and a Pistol",
+                        "jpn": "次元と帽子と拳銃と"
+                    },
+                    "Aliases": []
+                },
+                "153": {
+                    "ID": "1853251",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853251",
+                    "Titles": {
+                        "eng": "The Bills From God",
+                        "jpn": "神様のくれた札束"
+                    },
+                    "Aliases": []
+                },
+                "154": {
+                    "ID": "1853261",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853261",
+                    "Titles": {
+                        "eng": "The Hexagon's Great Legacy",
+                        "jpn": "ヘクサゴンの大いなる遺産"
+                    },
+                    "Aliases": []
+                },
+                "155": {
+                    "ID": "1853271",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/1853271",
+                    "Titles": {
+                        "eng": "Farewell, O Dearest Lupin",
+                        "jpn": "さらば愛しきルパンよ"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "489476",
+            "URL": "https://thetvdb.com/series/lupin-iii/seasons/official/3",
+            "Titles": {
+                "eng": "Part III",
+                "jpn": "ルパン三世 PARTⅢ",
+                "ita": "Lupin, l'incorreggibile Lupin",
+                "fra": "Lupin III Part III",
+                "por": "Parte 3",
+                "spa": "Parte III (Chaqueta Rosa)"
+            },
+            "# Episodes": 50,
+            "Episodes": {
+                "1": {
+                    "ID": "4301163",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301163",
+                    "Titles": {
+                        "eng": "The Gold Ingots Summon Lupin",
+                        "jpn": "金塊はルパンを呼ぶ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4301164",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301164",
+                    "Titles": {
+                        "eng": "Expose the Big Trap",
+                        "jpn": "大いなる罠を暴け"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4301165",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301165",
+                    "Titles": {
+                        "eng": "Greetings to Hell's Angel",
+                        "jpn": "こんにちは地獄の天使"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4301166",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301166",
+                    "Titles": {
+                        "eng": "Love Speaks Telepathically",
+                        "jpn": "テレパシーは愛のシグナル"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4301167",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301167",
+                    "Titles": {
+                        "eng": "The Peerless Goemon",
+                        "jpn": "五右ェ門無双"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4301168",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301168",
+                    "Titles": {
+                        "eng": "Lupin Travels by Tank",
+                        "jpn": "ルパンが戦車でやってきた"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4301169",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301169",
+                    "Titles": {
+                        "eng": "The Man Called Death Gurve",
+                        "jpn": "死神ガーブと呼ばれた男"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4301170",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301170",
+                    "Titles": {
+                        "eng": "St. Mary's Great Escape",
+                        "jpn": "聖母マリヤの脱出作戦"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4301173",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301173",
+                    "Titles": {
+                        "eng": "The High Cost of Cloning",
+                        "jpn": "コピー人間は高くつく"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4301174",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301174",
+                    "Titles": {
+                        "eng": "Treasure with a Whiff of Intrigue",
+                        "jpn": "秘宝は陰謀の匂い"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4301175",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301175",
+                    "Titles": {
+                        "eng": "The Ruby Sheds Bloody Tears",
+                        "jpn": "ルビーは血の汗を流す"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4301176",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301176",
+                    "Titles": {
+                        "eng": "Prisoners in Balton's Mansion",
+                        "jpn": "バルタン館のとりこ"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4301177",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301177",
+                    "Titles": {
+                        "eng": "Variations on Getting Carried Away",
+                        "jpn": "悪のり変装曲"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4301178",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301178",
+                    "Titles": {
+                        "eng": "Do You Like the Abduction Game?",
+                        "jpn": "誘拐ゲームはお好き"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4301179",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301179",
+                    "Titles": {
+                        "eng": "The Killer Slinks in Silence",
+                        "jpn": "殺しが静かにやってくる"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4301180",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301180",
+                    "Titles": {
+                        "eng": "The Poisonous Golden Apple",
+                        "jpn": "黄金のリンゴには毒がある"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4301181",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301181",
+                    "Titles": {
+                        "eng": "Will You Really Marry Me?",
+                        "jpn": "結婚するって本当ですか"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4301182",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301182",
+                    "Titles": {
+                        "eng": "Showtime Reeks of Death",
+                        "jpn": "ショータイムは死の香り"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4301183",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301183",
+                    "Titles": {
+                        "eng": "An Act of Betrayal",
+                        "jpn": "裏切りの荒野を走れ"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4301184",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301184",
+                    "Titles": {
+                        "eng": "The Man Who Erased His Past",
+                        "jpn": "過去を消した男"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4301185",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301185",
+                    "Titles": {
+                        "eng": "Goodbye, Legendary Gold",
+                        "jpn": "さらば黄金伝説"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4301186",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301186",
+                    "Titles": {
+                        "eng": "Fire is a Poor Fit for Diamonds",
+                        "jpn": "ダイヤに炎は似合わない"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4301187",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301187",
+                    "Titles": {
+                        "eng": "Operation: Beirut Mobile Bank Robbery",
+                        "jpn": "ベイルート移動銀行強奪作戦"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "4301188",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301188",
+                    "Titles": {
+                        "eng": "Sleep Peacefully, Friend",
+                        "jpn": "友よ深く眠れ"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "4301189",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301189",
+                    "Titles": {
+                        "eng": "We're No Angels",
+                        "jpn": "俺たちは天使じゃない"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "4301190",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301190",
+                    "Titles": {
+                        "eng": "A Ghost in New York",
+                        "jpn": "ニューヨークの幽霊"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "4301191",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301191",
+                    "Titles": {
+                        "eng": "Codename: \"Star of Alaska\"",
+                        "jpn": "暗号名はアラスカの星"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "4301192",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301192",
+                    "Titles": {
+                        "eng": "The \"Star of Alaska\" is a One-Way Ticket to Hell",
+                        "jpn": "アラスカの星は地獄への報酬"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "4301193",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301193",
+                    "Titles": {
+                        "eng": "A Honeymoon on the Moon",
+                        "jpn": "月へハネムーンに行こう"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "4301194",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301194",
+                    "Titles": {
+                        "eng": "A Cocktail Named Revenge",
+                        "jpn": "カクテルの名は復讐"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "4301195",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301195",
+                    "Titles": {
+                        "eng": "A Turnabout, a Comeback, and a Reversal",
+                        "jpn": "逆転逆転また逆転"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "4301196",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301196",
+                    "Titles": {
+                        "eng": "The $10 Million Key",
+                        "jpn": "１０００万ドルの鍵"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "4301197",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301197",
+                    "Titles": {
+                        "eng": "A Boy Genius' Dangerous Game",
+                        "jpn": "天才少年の危険な遊び"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "4301198",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301198",
+                    "Titles": {
+                        "eng": "Manhattan Crisis",
+                        "jpn": "マンハッタン･クライシス"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "4301199",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301199",
+                    "Titles": {
+                        "eng": "The Prey Amid the Snow",
+                        "jpn": "ターゲットは白銀の果てに"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "4301200",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301200",
+                    "Titles": {
+                        "eng": "When the Eagle Lands",
+                        "jpn": "鷲の舞い降りる時"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "4301201",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301201",
+                    "Titles": {
+                        "eng": "Pops Boils Over with Rage",
+                        "jpn": "父っつあん大いに怒る"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "4301202",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301202",
+                    "Titles": {
+                        "eng": "Leticia, Who Loved Lupin",
+                        "jpn": "俺を愛したレティシア"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "4301203",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301203",
+                    "Titles": {
+                        "eng": "Gold for the Rival",
+                        "jpn": "ライバルに黄金を"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "4301204",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301204",
+                    "Titles": {
+                        "eng": "A Lotto Ticket to Riot",
+                        "jpn": "一枚のお宝で大混戦"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "4301205",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301205",
+                    "Titles": {
+                        "eng": "A Night Under Martial Law",
+                        "jpn": "戒厳令の夜"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "4301206",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301206",
+                    "Titles": {
+                        "eng": "Grab the Pyramid's Insurance Claim",
+                        "jpn": "ピラミッドの保険金を奪え"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "4301207",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301207",
+                    "Titles": {
+                        "eng": "Goodbye, Cinderella",
+                        "jpn": "さらばシンデレラ"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "4301208",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301208",
+                    "Titles": {
+                        "eng": "Our Dad's a Thief",
+                        "jpn": "ボクたちのパパは泥棒"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "4301209",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301209",
+                    "Titles": {
+                        "eng": "A Toast to the Con Game",
+                        "jpn": "コンゲームに乾杯"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "4301210",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301210",
+                    "Titles": {
+                        "eng": "Soaring on Scrap Wings",
+                        "jpn": "俺の翼はスクラップ"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "4301211",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301211",
+                    "Titles": {
+                        "eng": "Mystery of a Painting",
+                        "jpn": "一枚の迷画"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "4301212",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301212",
+                    "Titles": {
+                        "eng": "Hades' Tear",
+                        "jpn": "ハディスの涙"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "4301213",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301213",
+                    "Titles": {
+                        "eng": "The Day Pops Got Adopted",
+                        "jpn": "父っつあんが養子になった日"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "4301214",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/4301214",
+                    "Titles": {
+                        "eng": "Orders to Destroy the Atomic Sub Ivanov",
+                        "jpn": "原潜イワノフの抹殺指令"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "4": {
+            "ID": "607581",
+            "URL": "https://thetvdb.com/series/lupin-iii/seasons/official/4",
+            "Titles": {
+                "eng": "Part IV: The Italian Adventure",
+                "jpn": "ルパン三世 PART4",
+                "ita": "Lupin III - L'avventura italiana",
+                "deu": "The Italian Adventure",
+                "fra": "Lupin III : L'aventure italienne",
+                "por": "Parte 4: Aventura em Itália",
+                "spa": "Parte IV - La Serie Italiana (Chaqueta Azul)"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "5084572",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5084572",
+                    "Titles": {
+                        "eng": "The Wedding of Lupin the Third",
+                        "jpn": "第1話「ルパン三世の結婚」"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5319265",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5319265",
+                    "Titles": {
+                        "eng": "The Fake Fantasista",
+                        "jpn": "第2話「偽りのファンタジスタ」"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5319266",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5319266",
+                    "Titles": {
+                        "eng": "0.2% Chance of Survival",
+                        "jpn": "第3話「生存率0,2％」"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5319267",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5319267",
+                    "Titles": {
+                        "eng": "With a Gun in My Hand",
+                        "jpn": "第4話「我が手に拳銃を」"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5319274",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5319274",
+                    "Titles": {
+                        "eng": "The Magician's Left Hand",
+                        "jpn": "第5話「魔法使いの左手」"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5319275",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5319275",
+                    "Titles": {
+                        "eng": "Venice of the Dead",
+                        "jpn": "ヴェニス・オブ・ザ・デッド"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5319276",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5319276",
+                    "Titles": {
+                        "eng": "Until the Full Moon Passes",
+                        "jpn": "第6話「満月が過ぎるまで」"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5319277",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5319277",
+                    "Titles": {
+                        "eng": "The Zapping Operation",
+                        "jpn": "第7話「ザッピング・オペレーション」"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5322680",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5322680",
+                    "Titles": {
+                        "eng": "Welcome to the Haunted Hotel",
+                        "jpn": "第8話「ホーンテッドホテルへようこそ」"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5322681",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5322681",
+                    "Titles": {
+                        "eng": "Requiem for the Assassins",
+                        "jpn": "第9話「殺し屋たちの鎮魂歌」"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5322682",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5322682",
+                    "Titles": {
+                        "eng": "The Lovesick Pig",
+                        "jpn": "第10話「恋煩いのブタ」"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5322683",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5322683",
+                    "Titles": {
+                        "eng": "The Dream of Italy (1)",
+                        "jpn": "第11話「イタリアの夢（前編）」"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "5325621",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5325621",
+                    "Titles": {
+                        "eng": "The Dream of Italy (2)",
+                        "jpn": "第12話「イタリアの夢（後編）」"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "5348000",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5348000",
+                    "Titles": {
+                        "eng": "The End of Lupin the Third",
+                        "jpn": "第13話「ルパン三世の最期」"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "5348001",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5348001",
+                    "Titles": {
+                        "eng": "Don't Move the Mona Lisa",
+                        "jpn": "第14話「モナリザを動かすな」"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "5351225",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5351225",
+                    "Titles": {
+                        "eng": "High School Undercover!",
+                        "jpn": "第15話「ハイスクール潜入大作戦」"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "5351226",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5351226",
+                    "Titles": {
+                        "eng": "Lupin's Day Off",
+                        "jpn": "第16話「ルパンの休日」"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "5368497",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5368497",
+                    "Titles": {
+                        "eng": "The Murdering Marionette",
+                        "jpn": "第17話「皆殺しのマリオネット」"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "5376356",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5376356",
+                    "Titles": {
+                        "eng": "The First Supper",
+                        "jpn": "第18話「始まりの晩餐」"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "5383647",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5383647",
+                    "Titles": {
+                        "eng": "Dragons Sleep Soundly",
+                        "jpn": "第19話「龍は静かに眠る」"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "5390511",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5390511",
+                    "Titles": {
+                        "eng": "To Hear You Sing Again",
+                        "jpn": "第20話「もう一度、君の歌声」"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "5390512",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5390512",
+                    "Titles": {
+                        "eng": "From Japan with Love",
+                        "jpn": "第21話「日本より愛をこめて」"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "5390514",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5390514",
+                    "Titles": {
+                        "eng": "Nonstop Rendezvous",
+                        "jpn": "ノンストップ・ランデヴー"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "5390515",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5390515",
+                    "Titles": {
+                        "eng": "I'm Going to Get You, Lupin",
+                        "jpn": "第22話「ルパン、頂きに参ります」"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "5403081",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5403081",
+                    "Titles": {
+                        "eng": "World Dissection (1)",
+                        "jpn": "第23話「世界解剖 前篇」"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "5403082",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/5403082",
+                    "Titles": {
+                        "eng": "World Dissection (2)",
+                        "jpn": "第24話「世界解剖 後編」"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "5": {
+            "ID": "755146",
+            "URL": "https://thetvdb.com/series/lupin-iii/seasons/official/5",
+            "Titles": {
+                "eng": "Part V: Misadventures in France",
+                "jpn": "ルパン三世 PART5",
+                "ita": "Lupin III - Ritorno alle origini",
+                "fra": "Lupin III Part V",
+                "deu": "The France Adventure",
+                "por": "Parte 5: Aventura em França",
+                "spa": "Parte V - Francia (Chaqueta Azul)"
+            },
+            "# Episodes": 24,
+            "Episodes": {
+                "1": {
+                    "ID": "6588276",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6588276",
+                    "Titles": {
+                        "eng": "The Girl in the Twin Towers",
+                        "jpn": "地下塔（ツインタワー）の少女"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6632767",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6632767",
+                    "Titles": {
+                        "eng": "The Lupin Game",
+                        "jpn": "ルパン・ゲーム"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6643485",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6643485",
+                    "Titles": {
+                        "eng": "The Killers Gather in the Wasteland",
+                        "jpn": "殺し屋は荒野に集う"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6653172",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6653172",
+                    "Titles": {
+                        "eng": "Zenigata's Pride and the Desert Dust",
+                        "jpn": "銭形の誇りと砂漠の埃"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6653173",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6653173",
+                    "Titles": {
+                        "eng": "A Crook's Resolve",
+                        "jpn": "悪党の覚悟"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6656431",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6656431",
+                    "Titles": {
+                        "eng": "Lupin vs. the Smart Safe",
+                        "jpn": "ルパン 対 天才金庫"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6656432",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6656432",
+                    "Titles": {
+                        "eng": "His Name is Albert",
+                        "jpn": "その名はアルベール"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6656433",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6656433",
+                    "Titles": {
+                        "eng": "Who Has the Black Notebook?",
+                        "jpn": "黒い手帳は誰の手に"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6698361",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6698361",
+                    "Titles": {
+                        "eng": "The Man Who Abandoned \"Lupin\"",
+                        "jpn": "”ルパン”を棄てた男"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6703902",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6703902",
+                    "Titles": {
+                        "eng": "Thief and Thief",
+                        "jpn": "泥棒と泥棒"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6703903",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6703903",
+                    "Titles": {
+                        "eng": "Get Pablo's Collection",
+                        "jpn": "パブロ・コレクションを走れ"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6703905",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6703905",
+                    "Titles": {
+                        "eng": "The Extravagance of Goemon Ishikawa XIII",
+                        "jpn": "十三代目石川五ェ門散財ス"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "6732011",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6732011",
+                    "Titles": {
+                        "eng": "The Bow, the Princess, and the Terrorist",
+                        "jpn": "弓と王女とテロリスト"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "6745929",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6745929",
+                    "Titles": {
+                        "eng": "How to Steal A Kingdom",
+                        "jpn": "王国の盗み方"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "6745930",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6745930",
+                    "Titles": {
+                        "eng": "Her Relationship With Lupin",
+                        "jpn": "ルパンと彼女の関係"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "6745931",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6745931",
+                    "Titles": {
+                        "eng": "Let's Talk About First Loves",
+                        "jpn": "初恋の話をしよう"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "6770227",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6770227",
+                    "Titles": {
+                        "eng": "Introducing Detective Jim Barnett the Third",
+                        "jpn": "探偵ジム・バーネット三世の挨拶"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "6770229",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6770229",
+                    "Titles": {
+                        "eng": "Fujiko's Gift",
+                        "jpn": "不二子の置きみやげ"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "6770230",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6770230",
+                    "Titles": {
+                        "eng": "A 7.62 mm Mirage",
+                        "jpn": "７．６２mmのミラージュ"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "6770231",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6770231",
+                    "Titles": {
+                        "eng": "Zenigata, Gentleman Thief",
+                        "jpn": "怪盗銭形"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "6799984",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6799984",
+                    "Titles": {
+                        "eng": "An Outdated Master Thief",
+                        "jpn": "時代遅れの大泥棒"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "6804339",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6804339",
+                    "Titles": {
+                        "eng": "Answer Me, Zantetsuken",
+                        "jpn": "答えよ斬鉄剣"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "6804340",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6804340",
+                    "Titles": {
+                        "eng": "Just Then, an Old Buddy Said Something",
+                        "jpn": "その時、古くからの相棒が言った"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "6804341",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/6804341",
+                    "Titles": {
+                        "eng": "Viva Lupin the Third",
+                        "jpn": "ルパン三世は永遠に"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "6": {
+            "ID": "1930765",
+            "URL": "https://thetvdb.com/series/lupin-iii/seasons/official/6",
+            "Titles": {
+                "eng": "Part VI: The England Adventure",
+                "jpn": "ルパン三世 PART6",
+                "fra": "Lupin III Part VI",
+                "zhtw": "魯邦三世 PART6",
+                "por": "Lupin III Parte 6",
+                "ita": "Lupin III - Una storia senza fine",
+                "deu": "LUPIN III. PART 6",
+                "spa": "Parte VI (Chaqueta Verde/Azul)"
+            },
+            "# Episodes": 24,
+            "Episodes": {
+                "1": {
+                    "ID": "8461205",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/8461205",
+                    "Titles": {
+                        "eng": "Enter Sherlock Holmes",
+                        "jpn": "シャーロック・ホームズ登場"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8787303",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/8787303",
+                    "Titles": {
+                        "eng": "The Detective and the Crook",
+                        "jpn": "探偵と悪党"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8787304",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/8787304",
+                    "Titles": {
+                        "eng": "Adventure Along the (Bogus) Transcontinental Railroad",
+                        "jpn": "大陸横断鉄道（嘘）の冒険"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "8787305",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/8787305",
+                    "Titles": {
+                        "eng": "The Killers in the Diner",
+                        "jpn": "ダイナーの殺し屋たち"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "8811673",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/8811673",
+                    "Titles": {
+                        "eng": "The Imperial City Dreams of Thieves, Part 1",
+                        "jpn": "帝都は泥棒の夢を見る 前篇"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "8811674",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/8811674",
+                    "Titles": {
+                        "eng": "The Imperial City Dreams of Thieves, Part 2",
+                        "jpn": "帝都は泥棒の夢を見る 後篇"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "8811675",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/8811675",
+                    "Titles": {
+                        "eng": "An Untold Tale",
+                        "jpn": "語られざる事件"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "8811676",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/8811676",
+                    "Titles": {
+                        "eng": "Last Bullet",
+                        "jpn": "ラスト・ブレット"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "8811677",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/8811677",
+                    "Titles": {
+                        "eng": "The Jet-Black Diamond",
+                        "jpn": "漆黒のダイヤモンド"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "8811678",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/8811678",
+                    "Titles": {
+                        "eng": "Darwin's Bird",
+                        "jpn": "ダーウィンの鳥"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "8811679",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/8811679",
+                    "Titles": {
+                        "eng": "The Truth and The Raven",
+                        "jpn": "真実とワタリガラス"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "8811680",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/8811680",
+                    "Titles": {
+                        "eng": "The Ghosts of Britain",
+                        "jpn": "英国の亡霊"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "8912658",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/8912658",
+                    "Titles": {
+                        "eng": "An Invitation From the Past",
+                        "jpn": "過去からの招待状"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "8936649",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/8936649",
+                    "Titles": {
+                        "eng": "The Mirage Women",
+                        "jpn": "蜃気楼の女たち"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "8947856",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/8947856",
+                    "Titles": {
+                        "eng": "Wedding Bells Ring with the Sound of Gunfire",
+                        "jpn": "祝福の鐘に響けよ、銃声"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "8961190",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/8961190",
+                    "Titles": {
+                        "eng": "Samurai Collection",
+                        "jpn": "サムライ・コレクション"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "8973829",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/8973829",
+                    "Titles": {
+                        "eng": "Win or Lose in 0.1 Seconds",
+                        "jpn": "0.1秒に懸けろ"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "8973830",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/8973830",
+                    "Titles": {
+                        "eng": "Fakes Attract Lies Part 1",
+                        "jpn": "フェイクが嘘を呼ぶ 前篇"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "8992514",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/8992514",
+                    "Titles": {
+                        "eng": "Fakes Attract Lies Part 2",
+                        "jpn": "フェイクが嘘を呼ぶ 後篇"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "9028983",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/9028983",
+                    "Titles": {
+                        "eng": "Two Terrible Ladies",
+                        "jpn": "二人の悪女"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "9029434",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/9029434",
+                    "Titles": {
+                        "eng": "Welcome to the Island of Bubbles",
+                        "jpn": "うたかたの島へようこそ"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "9042914",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/9042914",
+                    "Titles": {
+                        "eng": "My Mother's Documents",
+                        "jpn": "私のママの記録"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "9058406",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/9058406",
+                    "Titles": {
+                        "eng": "The Memories of a Beloved Witch",
+                        "jpn": "愛しの魔女の記憶"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "9058407",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-iii/episodes/9058407",
+                    "Titles": {
+                        "eng": "What Crooks Love",
+                        "jpn": "悪党が愛すもの"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

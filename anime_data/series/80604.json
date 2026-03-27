@@ -1,0 +1,617 @@
+{
+    "URL": "https://thetvdb.com/series/superbook",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Children",
+        "Family",
+        "History",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0081941/",
+        "https://www.themoviedb.org/tv/21269"
+    ],
+    "Titles": {
+        "eng": "Superbook",
+        "jpn": "スーパーブック"
+    },
+    "Aliases": [],
+    "Modified": "2023-09-11",
+    "Seasons": {
+        "1": {
+            "ID": "28680",
+            "URL": "https://thetvdb.com/series/superbook/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "336776",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336776",
+                    "Titles": {
+                        "eng": "How It All Began",
+                        "jpn": "アダムとエバ物語"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "336777",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336777",
+                    "Titles": {
+                        "eng": "My Brother's Keeper",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "336778",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336778",
+                    "Titles": {
+                        "eng": "The Flood",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "336779",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336779",
+                    "Titles": {
+                        "eng": "The Test",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "336780",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336780",
+                    "Titles": {
+                        "eng": "Here Comes the Bride",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "336781",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336781",
+                    "Titles": {
+                        "eng": "Double Trouble",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "336783",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336783",
+                    "Titles": {
+                        "eng": "A Dream Come True",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "336782",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336782",
+                    "Titles": {
+                        "eng": "The Miracle Rod",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "336784",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336784",
+                    "Titles": {
+                        "eng": "Those Amazing Trumpets",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "336785",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336785",
+                    "Titles": {
+                        "eng": "Pitchers of Fire",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "336786",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336786",
+                    "Titles": {
+                        "eng": "Muscleman",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "336787",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336787",
+                    "Titles": {
+                        "eng": "The First Christmas",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "336788",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336788",
+                    "Titles": {
+                        "eng": "Miracles of Love",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "336789",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336789",
+                    "Titles": {
+                        "eng": "The Best News Yet",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "336790",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336790",
+                    "Titles": {
+                        "eng": "Mother's Day",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "336791",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336791",
+                    "Titles": {
+                        "eng": "The Patience of Job",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "336792",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336792",
+                    "Titles": {
+                        "eng": "Big Fish and Little Fish",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "336793",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336793",
+                    "Titles": {
+                        "eng": "The First King",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "336794",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336794",
+                    "Titles": {
+                        "eng": "The Giant Killer",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "336795",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336795",
+                    "Titles": {
+                        "eng": "Superbrain",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "336796",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336796",
+                    "Titles": {
+                        "eng": "A True Prophet",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "336797",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336797",
+                    "Titles": {
+                        "eng": "Flaming Chariots",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "336798",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336798",
+                    "Titles": {
+                        "eng": "The Lion's Den",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "336799",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336799",
+                    "Titles": {
+                        "eng": "Nehemiah and the Walls of Jerusalem",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "336800",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336800",
+                    "Titles": {
+                        "eng": "The Beauty Queen",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "336801",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/336801",
+                    "Titles": {
+                        "eng": "The Mighty Convert",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "377761",
+            "URL": "https://thetvdb.com/series/superbook/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "3332031",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332031",
+                    "Titles": {
+                        "eng": "Where, Oh Where...",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "3332041",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332041",
+                    "Titles": {
+                        "eng": "Hot Dog",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "3332051",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332051",
+                    "Titles": {
+                        "eng": "The Test of Faith and Obedience",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "3332061",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332061",
+                    "Titles": {
+                        "eng": "Love at First Sight",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "3332071",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332071",
+                    "Titles": {
+                        "eng": "Father's Pet",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "3332081",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332081",
+                    "Titles": {
+                        "eng": "All About Dreams",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "3332091",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332091",
+                    "Titles": {
+                        "eng": "The Hostage",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "3332101",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332101",
+                    "Titles": {
+                        "eng": "The Family Reunion",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "3332111",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332111",
+                    "Titles": {
+                        "eng": "A Gift From Heaven",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "3332121",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332121",
+                    "Titles": {
+                        "eng": "The Burning Bush",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "3332131",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332131",
+                    "Titles": {
+                        "eng": "No More Plagues",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "3332141",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332141",
+                    "Titles": {
+                        "eng": "So You Want To Go Back To Egypt!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "3332161",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332161",
+                    "Titles": {
+                        "eng": "Snakes and a Donkey",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "3332171",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332171",
+                    "Titles": {
+                        "eng": "Worth Fighting For",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "3332181",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332181",
+                    "Titles": {
+                        "eng": "The Good Left Arm",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "3332191",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332191",
+                    "Titles": {
+                        "eng": "Stick In The Mud",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "3332201",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332201",
+                    "Titles": {
+                        "eng": "That's A Promise",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "3332211",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332211",
+                    "Titles": {
+                        "eng": "Just Rewards",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "3332221",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332221",
+                    "Titles": {
+                        "eng": "A Wonderful Gift",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "3332231",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332231",
+                    "Titles": {
+                        "eng": "The Mighty Little Shepherd",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "3332241",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332241",
+                    "Titles": {
+                        "eng": "The Bigger They Come",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "3332251",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332251",
+                    "Titles": {
+                        "eng": "Faithful and True",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "3332261",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332261",
+                    "Titles": {
+                        "eng": "David the King",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "3332271",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332271",
+                    "Titles": {
+                        "eng": "In All His Glory",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "3332281",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332281",
+                    "Titles": {
+                        "eng": "The Wicked Queen",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "3332291",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/superbook/episodes/3332291",
+                    "Titles": {
+                        "eng": "A Matter Of Time",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

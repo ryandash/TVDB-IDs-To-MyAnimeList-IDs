@@ -1,0 +1,46 @@
+{
+    "URL": "https://thetvdb.com/series/hanasaku-kizuna-no-romantan",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt14488938/",
+        "https://www.themoviedb.org/tv/82016",
+        "https://www.themoviedb.org/tv/82016"
+    ],
+    "Titles": {
+        "eng": "The Sprites of Floria",
+        "jpn": "Hanasaku Kizuna no Romantan"
+    },
+    "Aliases": [
+        "花咲ク絆ノ浪漫譚",
+        "Hanasaki Kizuna no Romantan"
+    ],
+    "Modified": "2025-04-07",
+    "Seasons": {
+        "1": {
+            "ID": "1976607",
+            "URL": "https://thetvdb.com/series/hanasaku-kizuna-no-romantan/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "8937652",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hanasaku-kizuna-no-romantan/episodes/8937652",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Episode 1"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

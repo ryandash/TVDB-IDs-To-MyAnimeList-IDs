@@ -1,0 +1,59 @@
+{
+    "URL": "https://thetvdb.com/series/goku-midnight-eye",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Mini-Series",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0097445/",
+        "https://www.themoviedb.org/tv/45471"
+    ],
+    "Titles": {
+        "eng": "Goku Midnight Eye",
+        "jpn": "MIDNIGHT EYE ゴクウ"
+    },
+    "Aliases": [
+        "ゴクウ",
+        "ミッドナイト・アイ ゴクウ"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "294651",
+            "URL": "https://thetvdb.com/series/goku-midnight-eye/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "2612711",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/goku-midnight-eye/episodes/2612711",
+                    "Titles": {
+                        "eng": "Goku Midnight Eye I",
+                        "jpn": "MIDNIGHT EYE ゴクウ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2612781",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/goku-midnight-eye/episodes/2612781",
+                    "Titles": {
+                        "eng": "Goku Midnight Eye II",
+                        "jpn": "MIDNIGHT EYE ゴクウⅡ"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

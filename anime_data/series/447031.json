@@ -1,0 +1,80 @@
+{
+    "URL": "https://thetvdb.com/series/when-they-cry-kira",
+    "Genres": [
+        "Anime",
+        "Comedy",
+        "Mystery",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/6F87-D13C-F714-1E8B-A1C6-Z",
+        "https://www.imdb.com/title/tt2536414/"
+    ],
+    "Titles": {
+        "eng": "When They Cry: Kira",
+        "jpn": "ひぐらしのなく頃にキラ"
+    },
+    "Aliases": [
+        "Higurashi no Naku Koro ni Kira",
+        "When They Cry: Kira",
+        "ひぐらしのなく頃にキラ"
+    ],
+    "Modified": "2025-08-19",
+    "Seasons": {
+        "1": {
+            "ID": "2115200",
+            "URL": "https://thetvdb.com/series/when-they-cry-kira/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "10355670",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/when-they-cry-kira/episodes/10355670",
+                    "Titles": {
+                        "eng": "Penalty Loving Chapter",
+                        "jpn": "罰恋し編"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10355671",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/when-they-cry-kira/episodes/10355671",
+                    "Titles": {
+                        "eng": "Demon Battling Chapter",
+                        "jpn": "妖戦し編"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10355672",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/when-they-cry-kira/episodes/10355672",
+                    "Titles": {
+                        "eng": "Affinity Chapter",
+                        "jpn": "結縁し編"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "10355673",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/when-they-cry-kira/episodes/10355673",
+                    "Titles": {
+                        "eng": "Dream Appearing Chapter",
+                        "jpn": "夢現し編"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

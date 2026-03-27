@@ -1,0 +1,66 @@
+{
+    "URL": "https://thetvdb.com/series/detonator-orgun",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0101718/",
+        "https://www.themoviedb.org/tv/80239"
+    ],
+    "Titles": {
+        "eng": "Detonator Orgun",
+        "jpn": "デトネイター・オーガン"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "771149",
+            "URL": "https://thetvdb.com/series/detonator-orgun/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "6754424",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/detonator-orgun/episodes/6754424",
+                    "Titles": {
+                        "eng": "Birth",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6754426",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/detonator-orgun/episodes/6754426",
+                    "Titles": {
+                        "eng": "Pursuit",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6754428",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/detonator-orgun/episodes/6754428",
+                    "Titles": {
+                        "eng": "Showdown",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

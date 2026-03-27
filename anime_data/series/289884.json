@@ -1,0 +1,494 @@
+{
+    "URL": "https://thetvdb.com/series/sound-euphonium",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt4384306/",
+        "http://tv.anime-eupho.com/",
+        "http://www.reddit.com/r/HibikeEuphonium",
+        "https://www.themoviedb.org/tv/62564",
+        "https://x.com/anime_eupho"
+    ],
+    "Titles": {
+        "eng": "Sound! Euphonium",
+        "jpn": "響け！ユーフォニアム"
+    },
+    "Aliases": [
+        "Hibike! Euphonium"
+    ],
+    "Modified": "2026-02-01",
+    "Seasons": {
+        "1": {
+            "ID": "607828",
+            "URL": "https://thetvdb.com/series/sound-euphonium/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "deu": "Sound! Euphonium 1"
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "5086884",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5086884",
+                    "Titles": {
+                        "eng": "Welcome to High School",
+                        "jpn": "ようこそハイスクール"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5182748",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5182748",
+                    "Titles": {
+                        "eng": "Nice to Meet You, Euphonium",
+                        "jpn": "よろしくユーフォニアム"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5182749",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5182749",
+                    "Titles": {
+                        "eng": "The First Ensemble",
+                        "jpn": "はじめてアンサンブル"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5187199",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5187199",
+                    "Titles": {
+                        "eng": "Singing Solfège",
+                        "jpn": "うたうよソルフェージュ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5187202",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5187202",
+                    "Titles": {
+                        "eng": "Festival Time",
+                        "jpn": "ただいまフェスティバル"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5208562",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5208562",
+                    "Titles": {
+                        "eng": "Twinkle, Twinkle, Little Tuba",
+                        "jpn": "きらきらチューバ"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5208563",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5208563",
+                    "Titles": {
+                        "eng": "Crybaby Saxophone",
+                        "jpn": "なきむしサクソフォン"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5208564",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5208564",
+                    "Titles": {
+                        "eng": "Festival Triangle",
+                        "jpn": "おまつりトライアングル"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5208565",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5208565",
+                    "Titles": {
+                        "eng": "Please, Audition",
+                        "jpn": "おねがいオーディション"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5208566",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5208566",
+                    "Titles": {
+                        "eng": "Straight Trumpet",
+                        "jpn": "まっすぐトランペット"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5242898",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5242898",
+                    "Titles": {
+                        "eng": "Welcome Back, Audition",
+                        "jpn": "おかえりオーディション"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5242899",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5242899",
+                    "Titles": {
+                        "eng": "My Euphonium",
+                        "jpn": "わたしのユーフォニアム"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "5249128",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5249128",
+                    "Titles": {
+                        "eng": "Goodbye Competition",
+                        "jpn": "さよならコンクール"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "673253",
+            "URL": "https://thetvdb.com/series/sound-euphonium/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "deu": "Sound! Euphonium 2"
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "5671492",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5671492",
+                    "Titles": {
+                        "eng": "Mid-summer Fanfare",
+                        "jpn": "まなつのファンファーレ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5781823",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5781823",
+                    "Titles": {
+                        "eng": "Hesitation Flute",
+                        "jpn": "とまどいフルート"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5782792",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5782792",
+                    "Titles": {
+                        "eng": "Troubled Nocturnes",
+                        "jpn": "なやめるノクターン"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5782793",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5782793",
+                    "Titles": {
+                        "eng": "Awakening Oboe",
+                        "jpn": "めざめるオーボエ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5782794",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5782794",
+                    "Titles": {
+                        "eng": "Miraculous Harmony",
+                        "jpn": "きせきのハーモニー"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5782795",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5782795",
+                    "Titles": {
+                        "eng": "Rainy Conductor",
+                        "jpn": "あめふりコンダクター"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5782796",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5782796",
+                    "Titles": {
+                        "eng": "Station Concert",
+                        "jpn": "えきびるコンサート"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5782797",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5782797",
+                    "Titles": {
+                        "eng": "Rhapsody in Flu",
+                        "jpn": "かぜひきラプソディー"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5782798",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5782798",
+                    "Titles": {
+                        "eng": "Sound! Euphonium",
+                        "jpn": "ひびけ！ユーフォニアム"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5782799",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5782799",
+                    "Titles": {
+                        "eng": "After-school Obbligato",
+                        "jpn": "ほうかごオブリガート"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5782800",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5782800",
+                    "Titles": {
+                        "eng": "First Love Trumpet",
+                        "jpn": "はつこいトランペット"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5782801",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5782801",
+                    "Titles": {
+                        "eng": "The Last Competition",
+                        "jpn": "さいごのコンクール"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "5782802",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/5782802",
+                    "Titles": {
+                        "eng": "Early-Spring Epilogue",
+                        "jpn": "はるさきエピローグ"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "2067507",
+            "URL": "https://thetvdb.com/series/sound-euphonium/seasons/official/3",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "deu": "Sound! Euphonium 3"
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "9978876",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/9978876",
+                    "Titles": {
+                        "eng": "New Euphonium",
+                        "jpn": "あらたなユーフォニアム"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10382942",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/10382942",
+                    "Titles": {
+                        "eng": "Triangle Syncopation",
+                        "jpn": "さんかくシンコペーション"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10382943",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/10382943",
+                    "Titles": {
+                        "eng": "Blue Prelude",
+                        "jpn": "みずいろプレリュード"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "10382944",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/10382944",
+                    "Titles": {
+                        "eng": "Etude With You",
+                        "jpn": "きみとのエチュード"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "10382945",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/10382945",
+                    "Titles": {
+                        "eng": "Twilight for Two",
+                        "jpn": "ふたりでトワイライト"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "10382946",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/10382946",
+                    "Titles": {
+                        "eng": "Wavering Dissonance",
+                        "jpn": "ゆらぎのディゾナンス"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "10382947",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/10382947",
+                    "Titles": {
+                        "eng": "Summer Fermata",
+                        "jpn": "なついろフェルマータ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "10382948",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/10382948",
+                    "Titles": {
+                        "eng": "Melancholy Ostinato",
+                        "jpn": "なやめるオスティナート"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "10382949",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/10382949",
+                    "Titles": {
+                        "eng": "Dissonant Tuning",
+                        "jpn": "ちぐはぐチューニング"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "10382950",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/10382950",
+                    "Titles": {
+                        "eng": "Expressing Arpeggios",
+                        "jpn": "つたえるアルペジオ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "10382951",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/10382951",
+                    "Titles": {
+                        "eng": "Orchestra to the Future",
+                        "jpn": "みらいへオーケストラ"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "10382952",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/10382952",
+                    "Titles": {
+                        "eng": "The Last Soloist",
+                        "jpn": "さいごのソリスト"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "10382953",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sound-euphonium/episodes/10382953",
+                    "Titles": {
+                        "eng": "Connecting Melodies",
+                        "jpn": "つながるメロディ"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "0"
+        ],
+        "Episodes": []
+    }
+}

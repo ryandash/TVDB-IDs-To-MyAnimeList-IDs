@@ -1,0 +1,47 @@
+{
+    "URL": "https://thetvdb.com/series/kung-fu-masters-of-the-zodiac-origins-of-the-twelve",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt3224208/"
+    ],
+    "Titles": {
+        "eng": "Kung Fu Masters of the Zodiac: Origins of the Twelve",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2025-07-11",
+    "Seasons": {
+        "2": {
+            "ID": "2141680",
+            "URL": "https://thetvdb.com/series/kung-fu-masters-of-the-zodiac-origins-of-the-twelve/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "2": {
+                    "ID": "10638800",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kung-fu-masters-of-the-zodiac-origins-of-the-twelve/episodes/10638800",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": []
+    }
+}

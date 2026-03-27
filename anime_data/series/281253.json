@@ -1,0 +1,202 @@
+{
+    "URL": "https://thetvdb.com/series/majimoji-rurumo",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt3774766/",
+        "http://anime-rurumo.com/index.html?top",
+        "https://www.themoviedb.org/tv/79208"
+    ],
+    "Titles": {
+        "eng": "Majimoji Rurumo",
+        "jpn": "まじもじるるも"
+    },
+    "Aliases": [],
+    "Modified": "2025-06-02",
+    "Seasons": {
+        "0": {
+            "ID": "584433",
+            "URL": "https://thetvdb.com/series/majimoji-rurumo/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "7268838",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/majimoji-rurumo/episodes/7268838",
+                    "Titles": {
+                        "eng": "The Conclusion (1)",
+                        "jpn": "完結編　前編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "2": {
+                    "ID": "7268839",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/majimoji-rurumo/episodes/7268839",
+                    "Titles": {
+                        "eng": "The Conclusion (2)",
+                        "jpn": "完結編　後編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        },
+        "1": {
+            "ID": "584434",
+            "URL": "https://thetvdb.com/series/majimoji-rurumo/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "4872393",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majimoji-rurumo/episodes/4872393",
+                    "Titles": {
+                        "eng": "I Will Grant You Your Wish",
+                        "jpn": "あなたののぞみかなえます"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4928791",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majimoji-rurumo/episodes/4928791",
+                    "Titles": {
+                        "eng": "The Dream of Living Together",
+                        "jpn": "夢の同棲生活"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4928792",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majimoji-rurumo/episodes/4928792",
+                    "Titles": {
+                        "eng": "Magical Girl Showdown",
+                        "jpn": "魔法少女対決"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4928793",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majimoji-rurumo/episodes/4928793",
+                    "Titles": {
+                        "eng": "Inoue, the Disciplinary Committee Member",
+                        "jpn": "風紀委員の井上さん"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4940329",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majimoji-rurumo/episodes/4940329",
+                    "Titles": {
+                        "eng": "My First Errand",
+                        "jpn": "はじめてのおつかい"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4940330",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majimoji-rurumo/episodes/4940330",
+                    "Titles": {
+                        "eng": "Incident on a Rainy Day",
+                        "jpn": "雨の日のジケン"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4955306",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majimoji-rurumo/episodes/4955306",
+                    "Titles": {
+                        "eng": "The Legendary Swimsuit",
+                        "jpn": "伝説の水着"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4955307",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majimoji-rurumo/episodes/4955307",
+                    "Titles": {
+                        "eng": "1st Class Witch, Harulily, Appears",
+                        "jpn": "第一級魔女ハルリリ降臨"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4969713",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majimoji-rurumo/episodes/4969713",
+                    "Titles": {
+                        "eng": "A Secret That No One Can Know",
+                        "jpn": "誰にも言えない秘密"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4969714",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majimoji-rurumo/episodes/4969714",
+                    "Titles": {
+                        "eng": "Mixed Bath Trip in Ookami Village",
+                        "jpn": "混浴旅行in尾々神村"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4983369",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majimoji-rurumo/episodes/4983369",
+                    "Titles": {
+                        "eng": "Forming The Girls Band",
+                        "jpn": "結成★ガールズバンド"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4983370",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majimoji-rurumo/episodes/4983370",
+                    "Titles": {
+                        "eng": "A Day Without Rurumo",
+                        "jpn": "るるものいない日"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

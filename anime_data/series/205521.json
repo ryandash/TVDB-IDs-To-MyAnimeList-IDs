@@ -1,0 +1,56 @@
+{
+    "URL": "https://thetvdb.com/series/ninja-resurrection",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Drama",
+        "Fantasy",
+        "Horror"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0237500/",
+        "https://www.themoviedb.org/tv/80221"
+    ],
+    "Titles": {
+        "eng": "Ninja Resurrection",
+        "jpn": "魔界転生"
+    },
+    "Aliases": [],
+    "Modified": "2022-08-22",
+    "Seasons": {
+        "1": {
+            "ID": "355581",
+            "URL": "https://thetvdb.com/series/ninja-resurrection/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "3144751",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-resurrection/episodes/3144751",
+                    "Titles": {
+                        "eng": "The Revenge Of Jubei",
+                        "jpn": "地獄篇 第一歌"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "3144741",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-resurrection/episodes/3144741",
+                    "Titles": {
+                        "eng": "Hell's Spawn",
+                        "jpn": "地獄篇 第二歌"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

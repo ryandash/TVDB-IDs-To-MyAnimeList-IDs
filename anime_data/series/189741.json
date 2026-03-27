@@ -1,0 +1,87 @@
+{
+    "URL": "https://thetvdb.com/series/summer",
+    "Genres": [
+        "Animation"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/78430"
+    ],
+    "Titles": {
+        "eng": "_Summer",
+        "jpn": "_summer（アンダーバーサマー）"
+    },
+    "Aliases": [],
+    "Modified": "2025-09-30",
+    "Seasons": {
+        "0": {
+            "ID": "315091",
+            "URL": "https://thetvdb.com/series/summer/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "6041734",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/summer/episodes/6041734",
+                    "Titles": {
+                        "eng": "Omake",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "6041735",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/summer/episodes/6041735",
+                    "Titles": {
+                        "eng": "Omake II",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "315101",
+            "URL": "https://thetvdb.com/series/summer/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "2802711",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/summer/episodes/2802711",
+                    "Titles": {
+                        "eng": "Is There Anyone You Like?",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2802731",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/summer/episodes/2802731",
+                    "Titles": {
+                        "eng": "I Wish Everyone Could Stay Like This Forever",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

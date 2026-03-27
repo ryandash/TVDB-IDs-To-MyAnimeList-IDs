@@ -1,0 +1,139 @@
+{
+    "URL": "https://thetvdb.com/series/brotherhood-final-fantasy-xv",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt5595178/",
+        "https://www.themoviedb.org/tv/66987"
+    ],
+    "Titles": {
+        "eng": "Brotherhood: Final Fantasy XV",
+        "jpn": "Brotherhood Final Fantasy XV"
+    },
+    "Aliases": [],
+    "Modified": "2026-01-29",
+    "Seasons": {
+        "0": {
+            "ID": "670750",
+            "URL": "https://thetvdb.com/series/brotherhood-final-fantasy-xv/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "5763224",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/brotherhood-final-fantasy-xv/episodes/5763224",
+                    "Titles": {
+                        "eng": "Kingsglaive: Final Fantasy XV",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "7085850",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/brotherhood-final-fantasy-xv/episodes/7085850",
+                    "Titles": {
+                        "eng": "Final Fantasy XV: Episode Ardyn – Prologue",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "8018931",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/brotherhood-final-fantasy-xv/episodes/8018931",
+                    "Titles": {
+                        "eng": "Final Fantasy XV: Bonus Scenes",
+                        "jpn": "ファイナルファンタジーXV：ボーナスシーン"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "670751",
+            "URL": "https://thetvdb.com/series/brotherhood-final-fantasy-xv/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "5648548",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/brotherhood-final-fantasy-xv/episodes/5648548",
+                    "Titles": {
+                        "eng": "Before the Storm",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5648549",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/brotherhood-final-fantasy-xv/episodes/5648549",
+                    "Titles": {
+                        "eng": "Dogged Runner",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5675635",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/brotherhood-final-fantasy-xv/episodes/5675635",
+                    "Titles": {
+                        "eng": "Sword and Shield",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5712815",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/brotherhood-final-fantasy-xv/episodes/5712815",
+                    "Titles": {
+                        "eng": "Bittersweet Memories",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5755572",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/brotherhood-final-fantasy-xv/episodes/5755572",
+                    "Titles": {
+                        "eng": "The Warmth of Light",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "URL": "https://thetvdb.com/series/the-adventures-of-kotetsu",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0322990/",
+        "https://www.themoviedb.org/tv/116244"
+    ],
+    "Titles": {
+        "eng": "The Adventures of Kotetsu",
+        "jpn": null
+    },
+    "Aliases": [
+        "Kotetsu no Daibouken"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "524065",
+            "URL": "https://thetvdb.com/series/the-adventures-of-kotetsu/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4605852",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-kotetsu/episodes/4605852",
+                    "Titles": {
+                        "eng": "Volume 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4605853",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-adventures-of-kotetsu/episodes/4605853",
+                    "Titles": {
+                        "eng": "Volume 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,425 @@
+{
+    "URL": "https://thetvdb.com/series/shinzo",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Drama",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0293741/",
+        "https://www.themoviedb.org/tv/21175"
+    ],
+    "Titles": {
+        "eng": "Shinzo",
+        "jpn": "マシュランボー"
+    },
+    "Aliases": [
+        "Mushrambo"
+    ],
+    "Modified": "2024-05-22",
+    "Seasons": {
+        "0": {
+            "ID": "531506",
+            "URL": "https://thetvdb.com/series/shinzo/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "9188989",
+                    "TYPE": "Season Recaps",
+                    "CATEGORY": "Season Recaps",
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/9188989",
+                    "Titles": {
+                        "eng": "Kokoro wo Chikara ni",
+                        "jpn": "心を力に奇跡をおこせ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "9188992",
+                    "TYPE": "Season Recaps",
+                    "CATEGORY": "Season Recaps",
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/9188992",
+                    "Titles": {
+                        "eng": "Owaranai Chikyuu",
+                        "jpn": "地球はまだ終わらない"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "3971",
+            "URL": "https://thetvdb.com/series/shinzo/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 32,
+            "Episodes": {
+                "1": {
+                    "ID": "83128",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/83128",
+                    "Titles": {
+                        "eng": "Awakening",
+                        "jpn": "轟爆戦士いきなり怒変身"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "83129",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/83129",
+                    "Titles": {
+                        "eng": "Bee-Ware The Hunters",
+                        "jpn": "100億力だ!!　スッゲェぞ怒鉄拳!!"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "83130",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/83130",
+                    "Titles": {
+                        "eng": "Web of Evil",
+                        "jpn": "打倒!!　極悪クモ兄弟・金と銀"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "83131",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/83131",
+                    "Titles": {
+                        "eng": "Day At The Park",
+                        "jpn": "マシュラ、遊園地で大暴れ!?"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "83132",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/83132",
+                    "Titles": {
+                        "eng": "Kiri",
+                        "jpn": "強すぎる！　昆虫王ドッカク!!"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "83133",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/83133",
+                    "Titles": {
+                        "eng": "Battling Daku",
+                        "jpn": "最終決戦！　マシュラvs昆虫王"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "83134",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/83134",
+                    "Titles": {
+                        "eng": "Into The Jungle",
+                        "jpn": "新大陸突入！　ジャングルにひそむ怪人"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "83135",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/83135",
+                    "Titles": {
+                        "eng": "Reptilers",
+                        "jpn": "マシュラ激闘！スクールウォーズ!!"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "83136",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/83136",
+                    "Titles": {
+                        "eng": "Gyasa",
+                        "jpn": "敗北！　クータル、サーゴ死す！"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "83137",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/83137",
+                    "Titles": {
+                        "eng": "Mushrambo: The Ultimate Samurai",
+                        "jpn": "無敵の超戦士マシュランボー"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "83138",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/83138",
+                    "Titles": {
+                        "eng": "Clash of The Hyper Warriors",
+                        "jpn": "脅威のチカラだ！　ギャザ粉砕！"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "83139",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/83139",
+                    "Titles": {
+                        "eng": "The Test",
+                        "jpn": "マシュラ・謎の老師に入門か!?"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "83140",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/83140",
+                    "Titles": {
+                        "eng": "Ryuma, Lord of the Reptiles",
+                        "jpn": "敵か味方か？破壊神マシュランボー"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "83141",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/83141",
+                    "Titles": {
+                        "eng": "Dark Spirit of Destruction",
+                        "jpn": "ノンストップ暴走！　黒い破壊神"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "394890",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/394890",
+                    "Titles": {
+                        "eng": "Mechano City",
+                        "jpn": "天空のロボット王国メカノシティ"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "394891",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/394891",
+                    "Titles": {
+                        "eng": "The Giant Robot",
+                        "jpn": "巨大ロボ発進！　謎のカード工場"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "394893",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/394893",
+                    "Titles": {
+                        "eng": "The Great War",
+                        "jpn": "弱点なし!?　悪魔の発明エッグカード"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "394894",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/394894",
+                    "Titles": {
+                        "eng": "The Secrets of the Seven",
+                        "jpn": "７大将軍の秘密！"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "394896",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/394896",
+                    "Titles": {
+                        "eng": "The Feathered Fiend",
+                        "jpn": "倒せ！ 最強の鳥獣王ルシフェーヌ"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "394897",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/394897",
+                    "Titles": {
+                        "eng": "The Two Mushrambos",
+                        "jpn": "大激突！ マシュラVSマシュランボー"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "394898",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/394898",
+                    "Titles": {
+                        "eng": "The Battle of One",
+                        "jpn": "戦いの果てに…"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "394900",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/394900",
+                    "Titles": {
+                        "eng": "A New Beginning",
+                        "jpn": "オレは最強王・マシュラさまだ！"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "394901",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/394901",
+                    "Titles": {
+                        "eng": "Bear Claws",
+                        "jpn": "勇者復活のハイパーフォーム！"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "394904",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/394904",
+                    "Titles": {
+                        "eng": "Nightmare Dream Center",
+                        "jpn": "地獄の使者その名はアイリス!!"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "394906",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/394906",
+                    "Titles": {
+                        "eng": "Eillis of the Storm",
+                        "jpn": "目覚めよ!マシュランボー"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "394907",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/394907",
+                    "Titles": {
+                        "eng": "Reviving Yakumo",
+                        "jpn": "遅すぎた再会"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "394908",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/394908",
+                    "Titles": {
+                        "eng": "Lanancuras Arises",
+                        "jpn": "最後の希望"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "394910",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/394910",
+                    "Titles": {
+                        "eng": "Lanancuras Unbound",
+                        "jpn": "ヤクモ落日に死す"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "394911",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/394911",
+                    "Titles": {
+                        "eng": "Mushrambo Meets his Match",
+                        "jpn": "果てしなき死闘"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "394912",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/394912",
+                    "Titles": {
+                        "eng": "Mushra's Mission",
+                        "jpn": "マシュラの使命"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "394913",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/394913",
+                    "Titles": {
+                        "eng": "Soul Survivor",
+                        "jpn": "心ある戦い"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "394914",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinzo/episodes/394914",
+                    "Titles": {
+                        "eng": "Long Live Yakumo",
+                        "jpn": "さらばマシュランボー"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

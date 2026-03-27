@@ -1,0 +1,484 @@
+{
+    "URL": "https://thetvdb.com/series/d-i-c-e",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Children",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1206165/",
+        "https://www.themoviedb.org/tv/10978"
+    ],
+    "Titles": {
+        "eng": "D.I.C.E.",
+        "jpn": "ディノブレイカー"
+    },
+    "Aliases": [],
+    "Modified": "2022-10-30",
+    "Seasons": {
+        "1": {
+            "ID": "510113",
+            "URL": "https://thetvdb.com/series/d-i-c-e/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "4478032",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478032",
+                    "Titles": {
+                        "eng": "S.O.S. from Planet Saffaron",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4478033",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478033",
+                    "Titles": {
+                        "eng": "The Pirate Planet",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4478034",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478034",
+                    "Titles": {
+                        "eng": "Race Through the Plasma Blizzard",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4478035",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478035",
+                    "Titles": {
+                        "eng": "Countdown to Impact",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4478036",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478036",
+                    "Titles": {
+                        "eng": "The Monster of Lupis Sea",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4478037",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478037",
+                    "Titles": {
+                        "eng": "Operation Grand Prix",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4478038",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478038",
+                    "Titles": {
+                        "eng": "Vanishing Planet",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4478039",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478039",
+                    "Titles": {
+                        "eng": "Five Seconds to Interplanetary War",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4478040",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478040",
+                    "Titles": {
+                        "eng": "The Body of Elders Conspiracy",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4478041",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478041",
+                    "Titles": {
+                        "eng": "The Phantom Knight's Secret!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4478042",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478042",
+                    "Titles": {
+                        "eng": "D.I.C.E. vs. D.I.C.E.!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4478043",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478043",
+                    "Titles": {
+                        "eng": "Forgotten Labyrinth",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4478044",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478044",
+                    "Titles": {
+                        "eng": "Puffy's Quest",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4478045",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478045",
+                    "Titles": {
+                        "eng": "The Mega-Gravity Planet",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4478046",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478046",
+                    "Titles": {
+                        "eng": "Jet Defeated",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4478047",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478047",
+                    "Titles": {
+                        "eng": "Jet Returns!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4478048",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478048",
+                    "Titles": {
+                        "eng": "The Mutant Laboratory",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4478049",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478049",
+                    "Titles": {
+                        "eng": "Terror Under the Sea",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4478050",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478050",
+                    "Titles": {
+                        "eng": "Miss Lily's Memories",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4478051",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478051",
+                    "Titles": {
+                        "eng": "Fugitive Android",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4478052",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478052",
+                    "Titles": {
+                        "eng": "Trusting the Enemy",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4478053",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478053",
+                    "Titles": {
+                        "eng": "Runaway Train",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4478054",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478054",
+                    "Titles": {
+                        "eng": "The Point of No Return",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "4478055",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478055",
+                    "Titles": {
+                        "eng": "Uncovering Heron's Secret",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "4478056",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478056",
+                    "Titles": {
+                        "eng": "Jet Escapes!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "4478057",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478057",
+                    "Titles": {
+                        "eng": "The Secret of Sitan",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "510114",
+            "URL": "https://thetvdb.com/series/d-i-c-e/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 14,
+            "Episodes": {
+                "1": {
+                    "ID": "4478058",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478058",
+                    "Titles": {
+                        "eng": "The Amazing Heron Knights!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4478059",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478059",
+                    "Titles": {
+                        "eng": "Take Off! Dragon Fortress!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4478060",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478060",
+                    "Titles": {
+                        "eng": "The Legend of the Sword",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4478061",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478061",
+                    "Titles": {
+                        "eng": "Battle on Planet Lakia",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4478062",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478062",
+                    "Titles": {
+                        "eng": "The Kingdom of B-DICE",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4478063",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478063",
+                    "Titles": {
+                        "eng": "Jet Transforms, Part 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4478064",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478064",
+                    "Titles": {
+                        "eng": "Jet Transforms, Part 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4478065",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478065",
+                    "Titles": {
+                        "eng": "After the Malusword",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4478066",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478066",
+                    "Titles": {
+                        "eng": "Planet of Fossils",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4478067",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478067",
+                    "Titles": {
+                        "eng": "Brother vs. Brother",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4478068",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478068",
+                    "Titles": {
+                        "eng": "A Village Named DICE",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4478069",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478069",
+                    "Titles": {
+                        "eng": "Dinobreakers in Danger!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4478070",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478070",
+                    "Titles": {
+                        "eng": "The Truth",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4478071",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/d-i-c-e/episodes/4478071",
+                    "Titles": {
+                        "eng": "The Future of DICE",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

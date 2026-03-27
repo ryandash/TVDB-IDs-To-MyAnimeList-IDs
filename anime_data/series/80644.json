@@ -1,0 +1,624 @@
+{
+    "URL": "https://thetvdb.com/series/clannad",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1118804/",
+        "http://www.tbs.co.jp/clannad/clannad1/index-j.html",
+        "https://www.themoviedb.org/tv/24835"
+    ],
+    "Titles": {
+        "eng": "Clannad",
+        "jpn": "CLANNAD"
+    },
+    "Aliases": [
+        "Clannad After Story",
+        "クラナド アフターストーリー",
+        "Clannad ～after Story～",
+        "クラナド"
+    ],
+    "Modified": "2026-01-28",
+    "Seasons": {
+        "0": {
+            "ID": "28801",
+            "URL": "https://thetvdb.com/series/clannad/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "368899",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/368899",
+                    "Titles": {
+                        "eng": "The Events of Summer Holidays",
+                        "jpn": "夏休みの出来事"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "376850",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/376850",
+                    "Titles": {
+                        "eng": "Another World: Tomoyo Chapter",
+                        "jpn": "もうひとつの世界 智代編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "3": {
+                    "ID": "829741",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/829741",
+                    "Titles": {
+                        "eng": "Another World: Kyou Chapter",
+                        "jpn": "CLANNAD ～AFTER STORY～ 番外編2「もうひとつの世界 杏編」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                },
+                "4": {
+                    "ID": "376965",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/376965",
+                    "Titles": {
+                        "eng": "Clannad the Motion Picture",
+                        "jpn": "劇場版 CLANNAD"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "28802",
+            "URL": "https://thetvdb.com/series/clannad/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "zho": "CLANNAD"
+            },
+            "# Episodes": 22,
+            "Episodes": {
+                "1": {
+                    "ID": "337494",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/337494",
+                    "Titles": {
+                        "eng": "On the Hillside Path Where the Cherry Blossoms Flutter",
+                        "jpn": "桜舞い散る坂道で"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "337495",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/337495",
+                    "Titles": {
+                        "eng": "The First Step",
+                        "jpn": "最初の一歩"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "338365",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/338365",
+                    "Titles": {
+                        "eng": "Once Again After Crying",
+                        "jpn": "涙のあとにもう一度"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "338965",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/338965",
+                    "Titles": {
+                        "eng": "Let's Find Friends",
+                        "jpn": "仲間をさがそう"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "340338",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/340338",
+                    "Titles": {
+                        "eng": "The Scenery with a Carving",
+                        "jpn": "彫刻のある風景"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "340339",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/340339",
+                    "Titles": {
+                        "eng": "The Older and Younger Sister's Founder's Festival",
+                        "jpn": "姉と妹の創立者祭"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "341666",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/341666",
+                    "Titles": {
+                        "eng": "Star-Shaped Feelings",
+                        "jpn": "星形の気持ち"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "341667",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/341667",
+                    "Titles": {
+                        "eng": "The Wind That Vanishes Into Dusk",
+                        "jpn": "黄昏に消える風"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "341668",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/341668",
+                    "Titles": {
+                        "eng": "Until the End of the Dream",
+                        "jpn": "夢の最後まで"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "344797",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/344797",
+                    "Titles": {
+                        "eng": "The Girl Genius' Challenge",
+                        "jpn": "天才少女の挑戦"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "344798",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/344798",
+                    "Titles": {
+                        "eng": "The After School Rhapsody",
+                        "jpn": "放課後の狂想曲"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "348915",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/348915",
+                    "Titles": {
+                        "eng": "Hidden World",
+                        "jpn": "かくされた世界"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "348916",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/348916",
+                    "Titles": {
+                        "eng": "Garden of Memories",
+                        "jpn": "思い出の庭を"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "348917",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/348917",
+                    "Titles": {
+                        "eng": "Theory of Everything",
+                        "jpn": "Theory of Everything"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "348918",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/348918",
+                    "Titles": {
+                        "eng": "Stuck Problem",
+                        "jpn": "困った問題"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "348919",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/348919",
+                    "Titles": {
+                        "eng": "3 on 3",
+                        "jpn": "3 on 3"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "348920",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/348920",
+                    "Titles": {
+                        "eng": "A Room Without Anyone",
+                        "jpn": "不在の空間"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "354678",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/354678",
+                    "Titles": {
+                        "eng": "Counter Measures",
+                        "jpn": "逆転の秘策"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "354679",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/354679",
+                    "Titles": {
+                        "eng": "A New Life",
+                        "jpn": "新しい生活"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "354680",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/354680",
+                    "Titles": {
+                        "eng": "A Hidden Past",
+                        "jpn": "秘められた過去"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "354681",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/354681",
+                    "Titles": {
+                        "eng": "Face Toward the School Festival",
+                        "jpn": "学園祭にむけて"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "354682",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/354682",
+                    "Titles": {
+                        "eng": "Two Shadows",
+                        "jpn": "影二つ"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "35751",
+            "URL": "https://thetvdb.com/series/clannad/seasons/official/2",
+            "Titles": {
+                "eng": "After Story",
+                "jpn": "CLANNAD 〜AFTER STORY〜",
+                "zho": "CLANNAD ～AFTER STORY～",
+                "rus": "КЛАННАД 〜ПОСЛЕ ИСТОРИИ〜",
+                "deu": "After Story"
+            },
+            "# Episodes": 24,
+            "Episodes": {
+                "1": {
+                    "ID": "393365",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/393365",
+                    "Titles": {
+                        "eng": "A Farewell to the End of Summer",
+                        "jpn": "夏の終わりのサヨナラ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "394794",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/394794",
+                    "Titles": {
+                        "eng": "In Search of False Love",
+                        "jpn": "いつわりの愛をさがして"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "394795",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/394795",
+                    "Titles": {
+                        "eng": "Hearts Out of Synch",
+                        "jpn": "すれちがう心"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "394796",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/394796",
+                    "Titles": {
+                        "eng": "With the Same Smile as That Day",
+                        "jpn": "あの日と同じ笑顔で"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "402338",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/402338",
+                    "Titles": {
+                        "eng": "The Season You Were There",
+                        "jpn": "君のいた季節"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "403689",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/403689",
+                    "Titles": {
+                        "eng": "Forever by Your Side",
+                        "jpn": "ずっとあなたのそばに"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "403690",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/403690",
+                    "Titles": {
+                        "eng": "Where She Belongs",
+                        "jpn": "彼女の居場所"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "403691",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/403691",
+                    "Titles": {
+                        "eng": "A Courageous Battle",
+                        "jpn": "勇気ある闘い"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "403692",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/403692",
+                    "Titles": {
+                        "eng": "Along the Path",
+                        "jpn": "坂道の途中"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "414808",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/414808",
+                    "Titles": {
+                        "eng": "A Season of Beginnings",
+                        "jpn": "始まりの季節"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "416357",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/416357",
+                    "Titles": {
+                        "eng": "The Founder's Day Festival Promise",
+                        "jpn": "約束の創立者祭"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "417813",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/417813",
+                    "Titles": {
+                        "eng": "A Sudden Happening",
+                        "jpn": "突然の出来事"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "422968",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/422968",
+                    "Titles": {
+                        "eng": "Graduation",
+                        "jpn": "卒業"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "427545",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/427545",
+                    "Titles": {
+                        "eng": "A New Family",
+                        "jpn": "新しい家族"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "428467",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/428467",
+                    "Titles": {
+                        "eng": "In the Remains of Summer",
+                        "jpn": "夏の名残りに"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "430965",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/430965",
+                    "Titles": {
+                        "eng": "White Darkness",
+                        "jpn": "白い闇"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "432998",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/432998",
+                    "Titles": {
+                        "eng": "Summertime",
+                        "jpn": "夏時間"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "435862",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/435862",
+                    "Titles": {
+                        "eng": "The Ends of the Earth",
+                        "jpn": "大地の果て"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "438642",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/438642",
+                    "Titles": {
+                        "eng": "The Road Home",
+                        "jpn": "家路"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "441346",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/441346",
+                    "Titles": {
+                        "eng": "The Tidal Breeze's Mischief",
+                        "jpn": "汐風の戯れ"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "442625",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/442625",
+                    "Titles": {
+                        "eng": "The End of the World",
+                        "jpn": "世界の終わり"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "444779",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/444779",
+                    "Titles": {
+                        "eng": "Small Palms",
+                        "jpn": "小さな手のひら"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "1873841",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/1873841",
+                    "Titles": {
+                        "eng": "The Event from One Year Before",
+                        "jpn": "一年前の出来事"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "1873851",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/clannad/episodes/1873851",
+                    "Titles": {
+                        "eng": "Under the Green Tree",
+                        "jpn": "緑の樹の下で"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

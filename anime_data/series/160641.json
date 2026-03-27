@@ -1,0 +1,81 @@
+{
+    "URL": "https://thetvdb.com/series/mad-bull-34",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Crime",
+        "Romance",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0160503/",
+        "https://www.themoviedb.org/tv/45287"
+    ],
+    "Titles": {
+        "eng": "Mad Bull 34",
+        "jpn": "マッド★ブル34"
+    },
+    "Aliases": [
+        "Maddo buru sâti-fô"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "240621",
+            "URL": "https://thetvdb.com/series/mad-bull-34/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "2165091",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mad-bull-34/episodes/2165091",
+                    "Titles": {
+                        "eng": "Hit and Rape",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2165101",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mad-bull-34/episodes/2165101",
+                    "Titles": {
+                        "eng": "Manhattan Connection",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "2165111",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mad-bull-34/episodes/2165111",
+                    "Titles": {
+                        "eng": "Charging Jackie",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "2165121",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mad-bull-34/episodes/2165121",
+                    "Titles": {
+                        "eng": "Good-Bye Sleepy",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

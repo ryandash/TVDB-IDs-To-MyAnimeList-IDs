@@ -1,0 +1,472 @@
+{
+    "URL": "https://thetvdb.com/series/black-lagoon",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0962826/",
+        "https://tvlistings.zap2it.com/overview.html?programSeriesId=SH1020728",
+        "https://www.themoviedb.org/tv/12598"
+    ],
+    "Titles": {
+        "eng": "Black Lagoon",
+        "jpn": "ブラック・ラグーン"
+    },
+    "Aliases": [
+        "Black Lagoon: Roberta's Blood Trail",
+        "Black Lagoon: Roberta`s Blood Trail",
+        "Black Lagoon: The Second Barrage",
+        "Burakku Ragūn"
+    ],
+    "Modified": "2026-03-18",
+    "Seasons": {
+        "0": {
+            "ID": "27024",
+            "URL": "https://thetvdb.com/series/black-lagoon/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "2550741",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/2550741",
+                    "Titles": {
+                        "eng": "Highschool Life",
+                        "jpn": "高校編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "2550771",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/2550771",
+                    "Titles": {
+                        "eng": "The Magical Girl",
+                        "jpn": "魔法少女編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "2550781",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/2550781",
+                    "Titles": {
+                        "eng": "The Melancholy of Balalaika",
+                        "jpn": "バラライカの憂鬱"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "2550791",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/2550791",
+                    "Titles": {
+                        "eng": "Boys and Girls",
+                        "jpn": "男の子女の子編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "5": {
+                    "ID": "2550811",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/2550811",
+                    "Titles": {
+                        "eng": "Summer Evening Spooky Story Contest",
+                        "jpn": "納涼 怖い話編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "6": {
+                    "ID": "2550821",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/2550821",
+                    "Titles": {
+                        "eng": "Viva! Youth!",
+                        "jpn": "ビバ!ヤング編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "7": {
+                    "ID": "2550801",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/2550801",
+                    "Titles": {
+                        "eng": "Go For It! Manzai Grand Prix!",
+                        "jpn": "めざせお笑いグランプリ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "8": {
+                    "ID": "2396121",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/2396121",
+                    "Titles": {
+                        "eng": "Roberta's Blood Trail: Collateral Massacre",
+                        "jpn": "Collateral Massacre"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "9": {
+                    "ID": "2396131",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/2396131",
+                    "Titles": {
+                        "eng": "Roberta's Blood Trail: An Office Man's Tactics",
+                        "jpn": "An Office Man's Tactics"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "10": {
+                    "ID": "2396141",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/2396141",
+                    "Titles": {
+                        "eng": "Roberta's Blood Trail: Angels in the Crosshairs",
+                        "jpn": "Angels in the Crosshairs"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "11": {
+                    "ID": "2396151",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/2396151",
+                    "Titles": {
+                        "eng": "Roberta's Blood Trail: Oversaturation Kill Box",
+                        "jpn": "Oversaturation Kill Box"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "12": {
+                    "ID": "2396161",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/2396161",
+                    "Titles": {
+                        "eng": "Roberta's Blood Trail: Codename Paradise, Status MIA",
+                        "jpn": "Codename Paradise,Status MIA"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "17212",
+            "URL": "https://thetvdb.com/series/black-lagoon/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 24,
+            "Episodes": {
+                "1": {
+                    "ID": "319886",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/319886",
+                    "Titles": {
+                        "eng": "The Black Lagoon",
+                        "jpn": "The Black Lagoon"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "319887",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/319887",
+                    "Titles": {
+                        "eng": "Mangrove Heaven",
+                        "jpn": "Mangrove Heaven"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "319888",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/319888",
+                    "Titles": {
+                        "eng": "Ring-Ding Ship Chase",
+                        "jpn": "Ring-Ding Ship Chase"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "319889",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/319889",
+                    "Titles": {
+                        "eng": "Die Rückkehr des Adlers",
+                        "jpn": "Die Rückkehr des Adlers"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "319890",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/319890",
+                    "Titles": {
+                        "eng": "Eagle Hunting and Hunting Eagles",
+                        "jpn": "Eagle Hunting and Hunting Eagles"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "319891",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/319891",
+                    "Titles": {
+                        "eng": "Moonlit Hunting Grounds",
+                        "jpn": "Moonlit Hunting Grounds"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "319892",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/319892",
+                    "Titles": {
+                        "eng": "Calm Down, Two Men",
+                        "jpn": "Calm Down, Two Men"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "319893",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/319893",
+                    "Titles": {
+                        "eng": "Rasta Blasta",
+                        "jpn": "Rasta Blasta"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "319894",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/319894",
+                    "Titles": {
+                        "eng": "Maid to Kill",
+                        "jpn": "Maid to Kill"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "319895",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/319895",
+                    "Titles": {
+                        "eng": "The Unstoppable Chambermaid",
+                        "jpn": "The Unstoppable Chambermaid"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "319896",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/319896",
+                    "Titles": {
+                        "eng": "Lock 'n' Load Revolution",
+                        "jpn": "Lock 'n' Load Revolution"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "319897",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/319897",
+                    "Titles": {
+                        "eng": "Guerrillas in the Jungle",
+                        "jpn": "Guerrillas in the Jungle"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "319898",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/319898",
+                    "Titles": {
+                        "eng": "The Vampire Twins Comen",
+                        "jpn": "The Vampire Twins Comen"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "319899",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/319899",
+                    "Titles": {
+                        "eng": "Bloodsport Fairytale",
+                        "jpn": "Bloodsport Fairytale"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "319900",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/319900",
+                    "Titles": {
+                        "eng": "Swan Song at Dawn",
+                        "jpn": "Swan Song at Dawn"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "319901",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/319901",
+                    "Titles": {
+                        "eng": "Greenback Jane",
+                        "jpn": "Greenback Jane"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "319902",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/319902",
+                    "Titles": {
+                        "eng": "The Roanapur Freakshow Circus",
+                        "jpn": "The Roanapur Freakshow Circus"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "319903",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/319903",
+                    "Titles": {
+                        "eng": "Mr. Benny's Good Fortune",
+                        "jpn": "Mr. Benny's Good Fortune"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "319904",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/319904",
+                    "Titles": {
+                        "eng": "Fujiyama Gangsta Paradise",
+                        "jpn": "Fujiyama Gangsta Paradise"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "319905",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/319905",
+                    "Titles": {
+                        "eng": "The Succession",
+                        "jpn": "The Succession"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "319906",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/319906",
+                    "Titles": {
+                        "eng": "Two Father's Little Soldier Girls",
+                        "jpn": "Two Father's Little Soldier Girls"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "319907",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/319907",
+                    "Titles": {
+                        "eng": "The Dark Tower",
+                        "jpn": "The Dark Tower"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "319908",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/319908",
+                    "Titles": {
+                        "eng": "Snow White's Payback",
+                        "jpn": "Snow White's Payback"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "319909",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-lagoon/episodes/319909",
+                    "Titles": {
+                        "eng": "The Gunslingers",
+                        "jpn": "The Gunslingers"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
