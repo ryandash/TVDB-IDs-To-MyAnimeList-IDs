@@ -427,7 +427,7 @@ async def map_anime():
                 continue
             
             # Initialize episode tracking
-            SeasonMalID = malid
+            SeasonMalID = None
             malurl = None
             mal_eps = None
             seasons = series.get("Seasons") or {}
@@ -452,8 +452,9 @@ async def map_anime():
                 else:
                     if season_num != "0":
                         previousSeasonMalID = SeasonMalID
-                        
-                        if season_num != "1":
+                        if season_num == "1":
+                            SeasonMalID = malid
+                        else:
                             if mal_eps and episode_offset > mal_eps:
                                 SeasonMalID = await get_mal_relations(SeasonMalID, total_episodes, season_title_jpn or season_title_eng)
                         
@@ -464,13 +465,11 @@ async def map_anime():
                                     SeasonMalID = mid
                                     break
                         
-                        if SeasonMalID:
+                        if SeasonMalID and SeasonMalID != previousSeasonMalID:
+                            episode_offset = 0
                             mal_eps = await get_mal_episode_count(SeasonMalID)
                             malurl = await get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
-
-                            if SeasonMalID != previousSeasonMalID and mal_eps:
-                                episode_offset = 0
-
+                        
                         season_tvdb_url = f"https://www.thetvdb.com/dereferrer/season/{season_id}"
                         if SeasonMalID and SeasonMalID not in lookup_seasons:
                             mapped_seasons .append({
@@ -503,7 +502,6 @@ async def map_anime():
                     ep_titles_to_try = build_titles_to_try(ep_title_eng, ep_title_jpn, series_title_eng, series_title_jpn)
 
                     ep_aliases = ep_data.get("Aliases") or []
-                    episode_offset += 1
                     if ep_id in lookup_episodes:
                         EpisodeMALID = lookup_episodes[ep_id][0]
                         mal_episode_counter[EpisodeMALID] = mal_episode_counter.get(EpisodeMALID, 0) + 1
@@ -576,6 +574,7 @@ async def map_anime():
                             unmapped_episodes.append(record)
 
                     elif SeasonMalID:
+                        episode_offset += 1
                         # Regular episodes
                         previousSeasonMalID = SeasonMalID
                         if mal_eps and episode_offset > mal_eps:
