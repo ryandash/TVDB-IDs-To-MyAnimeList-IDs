@@ -258,16 +258,6 @@ async def scrape_episode(session: aiohttp.ClientSession, ep_info, season_eps: di
 
     return True
 
-special_categories = {
-    "Episodic Special",
-    "Movies",
-    "OVAs",
-    "Season Recaps",
-    "Uncategorized",
-    "Webisodes and Shorts"
-}
-special_categories_lower = [c.lower() for c in special_categories]
-
 from rapidfuzz import fuzz
 def group_similar_episodes(episodes: list, threshold=80):
     groups = []
@@ -332,6 +322,14 @@ def assign_episode_numbers(season_eps: dict, similarity_threshold=80):
             "Episode #": ep["Episode #"],
             "Num Episodes": ep["Num Episodes"]
         })
+
+special_categories = {
+    "Episodic Special",
+    "Movies",
+    "OVAs",
+    "Webisodes and Shorts"
+}
+special_categories_lower = [c.lower() for c in special_categories]
 
 def extract_episode_rows(soup, season_number):
     rows_with_category = []
