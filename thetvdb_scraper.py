@@ -227,7 +227,7 @@ async def scrape_episode(session: aiohttp.ClientSession, ep_info, season_eps: di
     titles = {lang: data.get("title") for lang, data in translations.items()}
     # summaries = {lang: data.get("summary") for lang, data in translations.items()}
 
-    if titles.get("eng", "").strip().upper() == "TBA":
+    if (titles.get("eng") or "").strip().upper() == "TBA":
         failed_items["Episodes"].add(ep_id)
         return False
 
