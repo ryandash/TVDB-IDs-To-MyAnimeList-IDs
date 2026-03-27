@@ -14,7 +14,6 @@ from typing import Optional, Union
 from rapidfuzz import fuzz
 from safe_jikan import SafeJikan
 from tqdm import tqdm
-# from googleSearch import GoogleSearch
 
 # ----------------------
 # Config / Constants
@@ -24,7 +23,6 @@ LOG_FILE = "mapping.log"
 DATA_DIR = Path("anime_data")
 DATA_DIR.mkdir(exist_ok=True)
 
-# google_search = GoogleSearch()
 safe_jikan = SafeJikan()
 
 # ----------------------
@@ -293,6 +291,15 @@ def load_existing_malids(category: str) -> dict[str, int]:
 
     return existing_lookup
 
+OVERRIDE_DIR = Path("overrides")
+OVERRIDE_DIR.mkdir(exist_ok=True)
+
+def load_override(name: str) -> dict:
+    path = OVERRIDE_DIR / name
+    if not path.exists():
+        return {}
+    return safe_load_json(path)
+
 async def try_titles_for_mal_id(titles):
     for t in titles:
         mid, _ = await get_best_mal_id(t, None, False)
@@ -341,6 +348,12 @@ episode_json = "mapped-tvdb-ids-episodes.json"
 
 async def map_anime():
     all_unmapped_series, all_unmapped_seasons, all_unmapped_episodes = [], [], []
+    season_override = load_override("season_overrides.json")
+    episode_override = load_override("episode_overrides.json")
+    special_override = load_override("special_overrides.json")
+    season_override = {int(k): v for k, v in season_override.items()}
+    episode_override = {int(k): v for k, v in episode_override.items()}
+    special_override = {int(k): v for k, v in special_override.items()}
 
     for category in ["series", "movie"]:
         category_dir = DATA_DIR / category
@@ -446,7 +459,16 @@ async def map_anime():
                 episodes = season_data.get("Episodes") or {}
                 total_episodes = len(episodes)
                 
-                if season_id in lookup_seasons:
+                
+                if season_id in season_override:
+                    previousSeasonMalID = SeasonMalID
+                    SeasonMalID = season_override[season_id]["mal_id"]
+                    if SeasonMalID and SeasonMalID != previousSeasonMalID:
+                        episode_offset = 0
+                    malurl = await get_mal_url(SeasonMalID, None if total_episodes == 1 else 1)
+                    mal_eps = await get_mal_episode_count(SeasonMalID)
+
+                elif season_id in lookup_seasons:
                     SeasonMalID = lookup_seasons[season_id][0]
                     malurl = lookup_seasons[season_id][1]
                 else:
@@ -510,6 +532,24 @@ async def map_anime():
                     record = {"season": int(season_num), "episode": int(ep_num), "thetvdb url": f"https://www.thetvdb.com/dereferrer/episode/{ep_id}"}
 
                     if season_num == "0":
+                        if ep_id in special_override:
+                            override = special_override[ep_id]
+
+                            mal_id = override["mal_id"]
+                            mal_ep = override.get("mal_episode")
+
+                            if mal_ep:
+                                record["myanimelist url"] = f"{await get_mal_url(mal_id, mal_ep)}{mal_ep}"
+                            else:
+                                record["myanimelist url"] = await get_mal_url(mal_id, None)
+
+                            record["myanimelist"] = mal_id
+                            record["thetvdb"] = ep_id
+                            record["series id"] = int(series_id)
+                            record["season id"] = int(season_id)
+
+                            mapped_episodes.append(record)
+                            continue
                         # Specials
                         type_mapping = {
                             "Movies": "movie",
@@ -537,16 +577,6 @@ async def map_anime():
                                 )
                                 if EpisodeMALID:
                                     break
-                            
-                            # if not EpisodeMALID and ep_title_eng:
-                            #     data = await safe_jikan.get_anime_relations(SeasonMalID)
-                            #     relations = [
-                            #         int(e["mal_id"])
-                            #         for rel in data.get("data", []) 
-                            #         for e in rel.get("entry", [])
-                            #     ]
-                            #     if relations:
-                            #         EpisodeMALID = await google_search.cached_search_mal_id(series_title_eng + " " + ep_title_eng, relations)
 
                             if EpisodeMALID:
                                 mal_eps = await get_mal_episode_count(EpisodeMALID)
@@ -574,7 +604,37 @@ async def map_anime():
                             unmapped_episodes.append(record)
 
                     elif SeasonMalID:
-                        episode_offset += 1
+                        override = episode_override.get(ep_id)
+                        if override:
+                            action = override.get("action")
+
+                            if action == "skip":
+                                continue
+
+                            elif action == "set":
+                                episode_offset = override["mal_episode"]
+
+                            elif action == "offset":
+                                episode_offset += override["delta"]
+
+                            elif action == "force":
+                                # completely override mapping
+                                mal_id = override["mal_id"]
+                                mal_ep = override["mal_episode"]
+
+                                record["myanimelist url"] = f"{await get_mal_url(mal_id, mal_ep)}{mal_ep}"
+                                record["myanimelist"] = mal_id
+                                record["thetvdb"] = int(ep_id)
+                                record["series id"] = int(series_id)
+                                record["season id"] = int(season_id)
+
+                                mapped_episodes.append(record)
+                                continue
+
+                            else:
+                                episode_offset += 1
+                        else:
+                            episode_offset += 1
                         # Regular episodes
                         previousSeasonMalID = SeasonMalID
                         if mal_eps and episode_offset > mal_eps:

@@ -259,7 +259,7 @@ async def scrape_episode(session: aiohttp.ClientSession, ep_info, season_eps: di
     return True
 
 from rapidfuzz import fuzz
-def group_similar_episodes(episodes: list, threshold=80):
+def group_similar_episodes(episodes: list, threshold=90):
     groups = []
     for ep in episodes:
         ep_title = (ep['Titles'].get('eng') or "").lower()
