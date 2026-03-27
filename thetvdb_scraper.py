@@ -323,24 +323,12 @@ def assign_episode_numbers(season_eps: dict, similarity_threshold=80):
             "Num Episodes": ep["Num Episodes"]
         })
 
-special_categories = {
-    "Episodic Special",
-    "Movies",
-    "OVAs",
-    "Webisodes and Shorts"
-}
-special_categories_lower = [c.lower() for c in special_categories]
-
 def extract_episode_rows(soup, season_number):
     rows_with_category = []
 
     if season_number == "0":
         for h3 in soup.select("#episodes > h3"):
             category = h3.get_text(strip=True)
-            category_lower = category.strip().lower()
-
-            if not any(cat in category_lower for cat in special_categories_lower):
-                continue
 
             table = h3.find_next_sibling("table")
             if not table:
