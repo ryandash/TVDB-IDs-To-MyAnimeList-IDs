@@ -459,7 +459,6 @@ async def map_anime():
                 episodes = season_data.get("Episodes") or {}
                 total_episodes = len(episodes)
                 
-                
                 if season_id in season_override:
                     previousSeasonMalID = SeasonMalID
                     SeasonMalID = season_override[season_id]["mal_id"]

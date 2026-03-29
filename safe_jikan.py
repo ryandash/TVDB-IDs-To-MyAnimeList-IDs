@@ -242,38 +242,33 @@ class SafeJikan:
     # -----------------------------
     # Public Jikan API methods
     # -----------------------------
-    async def search_anime(
-        self,
-        query: str | None = None,
-        type_: str | None = None,
-        page: int | None = None,
-        limit: int | None = None
-    ) -> dict:
+    async def search_anime(self, query: str | None = None, type_: str | None = None, page: int | None = None, limit: int | None = None) -> dict:
         """
         Perform a safe Jikan anime search with automatic rate limiting and retries.
         """
-        if not any([query, type_, page]):
-            raise ValueError(
-                "search_anime() requires at least one of: query, type_, or page."
-            )
-        
-        params: dict[str, int | str] = {}
+        if not any((query, type_, page)):
+            raise ValueError("search_anime() requires at least one of: query, type_, or page.")
 
-        if type_:
-            params["type"] = type_
-        if limit:
-            params["limit"] = limit
+        params = {
+            **({ "type": type_ } if type_ else {}),
+            **({ "limit": limit } if limit else {}),
+        }
 
-        # Add `page` argument only if explicitly provided
-        kwargs = {"search_type": "anime", "parameters": params}
-        if query is not None:
-            kwargs["query"] = query
-        else:
-            kwargs["query"] = ""
-        if page is not None:
-            kwargs["page"] = page
+        kwargs = {
+            "search_type": "anime",
+            "query": query or "",
+            "parameters": params,
+            **({ "page": page } if page is not None else {}),
+        }
 
-        return await self._cached_call(self.aio_jikan.search, **kwargs)
+        result = await self._cached_call(self.aio_jikan.search, **kwargs)
+
+        result["data"] = [
+            a for a in result.get("data", [])
+            if not (a.get("rating") or "").lower().startswith("rx")
+        ]
+
+        return result
 
     async def get_anime(self, mal_id: int, episode_number: Optional[int] = None) -> Optional[MinimalAnime]:
         if not isinstance(mal_id, int) or mal_id <= 0:
