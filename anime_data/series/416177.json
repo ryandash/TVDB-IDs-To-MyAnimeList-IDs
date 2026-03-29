@@ -1,0 +1,81 @@
+{
+    "URL": "https://thetvdb.com/series/416177-",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Drama",
+        "History",
+        "Mini-Series",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt13635902/",
+        "https://www.themoviedb.org/tv/116431",
+        "https://www.themoviedb.org/tv/11643"
+    ],
+    "Titles": {
+        "eng": "Nightsong of Splendor",
+        "jpn": "火星 や曲"
+    },
+    "Aliases": [
+        "Kasei Yakyoku"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "1983634",
+            "URL": "https://thetvdb.com/series/416177-/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "8995325",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/416177-/episodes/8995325",
+                    "Titles": {
+                        "eng": "Akiko, Sara... One Night's Dream",
+                        "jpn": "アキコ、サラ…ある夜の夢"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8995326",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/416177-/episodes/8995326",
+                    "Titles": {
+                        "eng": "Learning Love...",
+                        "jpn": "愛を学ぶ..."
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8995327",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/416177-/episodes/8995327",
+                    "Titles": {
+                        "eng": "September 1, 1923",
+                        "jpn": "1923年9月1日"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "8995328",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/416177-/episodes/8995328",
+                    "Titles": {
+                        "eng": "And Then to Shanghai",
+                        "jpn": "そして上海へ"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

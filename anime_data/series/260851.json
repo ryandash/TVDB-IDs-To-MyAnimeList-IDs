@@ -1,0 +1,116 @@
+{
+    "URL": "https://thetvdb.com/series/touhou-musou-kakyou",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://maikaze.com/musoukakyo",
+        "https://www.themoviedb.org/tv/73361",
+        "https://www.themoviedb.org/tv/73361"
+    ],
+    "Titles": {
+        "eng": "Touhou Musou Kakyou",
+        "jpn": "東方夢想夏郷"
+    },
+    "Aliases": [
+        "A Summer Day's Dream",
+        "夢想夏郷",
+        "東方アニメプロジェクト",
+        "東方二次創作同人アニメ"
+    ],
+    "Modified": "2024-09-19",
+    "Seasons": {
+        "0": {
+            "ID": "496813",
+            "URL": "https://thetvdb.com/series/touhou-musou-kakyou/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4363556",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/touhou-musou-kakyou/episodes/4363556",
+                    "Titles": {
+                        "eng": "Touhou Musou Kakyou Trailer",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "5303750",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/touhou-musou-kakyou/episodes/5303750",
+                    "Titles": {
+                        "eng": "A Summer Day's Dream 2.5",
+                        "jpn": "夢想夏郷2.5"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "496816",
+            "URL": "https://thetvdb.com/series/touhou-musou-kakyou/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "4363550",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/touhou-musou-kakyou/episodes/4363550",
+                    "Titles": {
+                        "eng": "A Summer Day's Dream",
+                        "jpn": "夢想夏郷"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4407588",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/touhou-musou-kakyou/episodes/4407588",
+                    "Titles": {
+                        "eng": "Pre-Established Harmony",
+                        "jpn": "予定調和"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9304398",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/touhou-musou-kakyou/episodes/9304398",
+                    "Titles": {
+                        "eng": "Blooming Deja Vu",
+                        "jpn": "綻びのデジャヴ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "8933005",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/touhou-musou-kakyou/episodes/8933005",
+                    "Titles": {
+                        "eng": "The Beginning of Summer",
+                        "jpn": "夏の始まり"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

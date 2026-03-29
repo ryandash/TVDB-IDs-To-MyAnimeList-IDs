@@ -1,0 +1,692 @@
+{
+    "URL": "https://thetvdb.com/series/mobile-suit-gundam-00",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1134000/",
+        "https://www.themoviedb.org/tv/21732"
+    ],
+    "Titles": {
+        "eng": "Mobile Suit Gundam 00",
+        "jpn": "機動戦士ガンダム00"
+    },
+    "Aliases": [],
+    "Modified": "2026-02-15",
+    "Seasons": {
+        "0": {
+            "ID": "28914",
+            "URL": "https://thetvdb.com/series/mobile-suit-gundam-00/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 7,
+            "Episodes": {
+                "1": {
+                    "ID": "1334521",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/1334521",
+                    "Titles": {
+                        "eng": "Special Edition I: Celestial Being",
+                        "jpn": "スペシャルエディションⅠ ソレスタルビーイング"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "3382551",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/3382551",
+                    "Titles": {
+                        "eng": "Special Edition II: End of World",
+                        "jpn": "スペシャルエディションⅡ エンド・オブ・ワールド"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "3": {
+                    "ID": "3382561",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/3382561",
+                    "Titles": {
+                        "eng": "Special Edition III: Return of the World",
+                        "jpn": "スペシャルエディションⅢ リターン・ザ・ワールド"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                },
+                "4": {
+                    "ID": "3237461",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/3237461",
+                    "Titles": {
+                        "eng": "A Wakening of the Trailblazer",
+                        "jpn": "劇場版 機動戦士ガンダム00 -A wakening of the Trailblazer-"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "5": {
+                    "ID": "386014",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/386014",
+                    "Titles": {
+                        "eng": "Celestial Being Character Second Season Preview",
+                        "jpn": "機動戦士ガンダム00 CBきゃら 第二期予告"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "6": {
+                    "ID": "3382371",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/3382371",
+                    "Titles": {
+                        "eng": "Celestial Being Character Movie Preview",
+                        "jpn": "機動戦士ガンダム00 CBきゃら 劇場予告編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                },
+                "7": {
+                    "ID": "6065046",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/6065046",
+                    "Titles": {
+                        "eng": "Tenshitachi no Kiseki (RECAP)",
+                        "jpn": "天使たちの軌跡"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "29182",
+            "URL": "https://thetvdb.com/series/mobile-suit-gundam-00/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "340368",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/340368",
+                    "Titles": {
+                        "eng": "Celestial Being",
+                        "jpn": "ソレスタルビーイング"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "341437",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/341437",
+                    "Titles": {
+                        "eng": "Gundam Meisters",
+                        "jpn": "ガンダムマイスター"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "341438",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/341438",
+                    "Titles": {
+                        "eng": "The Changing World",
+                        "jpn": "変わる世界"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "341439",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/341439",
+                    "Titles": {
+                        "eng": "International Negotiation",
+                        "jpn": "対外折衝"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "341440",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/341440",
+                    "Titles": {
+                        "eng": "Escape Limit Zone",
+                        "jpn": "限界離脱領域"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "341441",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/341441",
+                    "Titles": {
+                        "eng": "Seven Swords",
+                        "jpn": "セブンソード"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "341442",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/341442",
+                    "Titles": {
+                        "eng": "Unrewarded Souls",
+                        "jpn": "報われぬ魂"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "341443",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/341443",
+                    "Titles": {
+                        "eng": "Indiscriminate Retaliation",
+                        "jpn": "無差別報復"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "341590",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/341590",
+                    "Titles": {
+                        "eng": "The Honor of a Great Power",
+                        "jpn": "大国の威信"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "341591",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/341591",
+                    "Titles": {
+                        "eng": "Operation Gundam Capture",
+                        "jpn": "ガンダム鹵獲作戦"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "350029",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/350029",
+                    "Titles": {
+                        "eng": "Allelujah",
+                        "jpn": "アレルヤ"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "350030",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/350030",
+                    "Titles": {
+                        "eng": "To the Limits of Holy Teachings",
+                        "jpn": "教義の果てに"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "350031",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/350031",
+                    "Titles": {
+                        "eng": "Return of the Saint",
+                        "jpn": "聖者の帰還"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "350032",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/350032",
+                    "Titles": {
+                        "eng": "Dawn of Determination",
+                        "jpn": "決意の朝"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "350033",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/350033",
+                    "Titles": {
+                        "eng": "Broken Wings",
+                        "jpn": "折れた翼"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "350034",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/350034",
+                    "Titles": {
+                        "eng": "Trinity",
+                        "jpn": "トリニティ"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "350035",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/350035",
+                    "Titles": {
+                        "eng": "Assault of the Thrones",
+                        "jpn": "スローネ強襲"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "350036",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/350036",
+                    "Titles": {
+                        "eng": "The Aim of Evil Intents",
+                        "jpn": "悪意の矛先"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "350037",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/350037",
+                    "Titles": {
+                        "eng": "Bonds",
+                        "jpn": "絆"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "350038",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/350038",
+                    "Titles": {
+                        "eng": "Blade of Reformation",
+                        "jpn": "変革の刃"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "351460",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/351460",
+                    "Titles": {
+                        "eng": "Path of Destruction",
+                        "jpn": "滅びの道"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "351461",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/351461",
+                    "Titles": {
+                        "eng": "Trans-Am",
+                        "jpn": "トランザム"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "356571",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/356571",
+                    "Titles": {
+                        "eng": "Stop the World",
+                        "jpn": "世界を止めて"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "356572",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/356572",
+                    "Titles": {
+                        "eng": "Endless Poem",
+                        "jpn": "終わりなき詩"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "356573",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/356573",
+                    "Titles": {
+                        "eng": "Setsuna",
+                        "jpn": "刹那"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "35259",
+            "URL": "https://thetvdb.com/series/mobile-suit-gundam-00/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "389089",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/389089",
+                    "Titles": {
+                        "eng": "The Angels' Second Advent",
+                        "jpn": "天使再臨"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "396629",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/396629",
+                    "Titles": {
+                        "eng": "Twin Drive",
+                        "jpn": "ツインドライヴ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "396630",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/396630",
+                    "Titles": {
+                        "eng": "Allelujah Rescue Operation",
+                        "jpn": "アレルヤ奪還作戦"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "401228",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/401228",
+                    "Titles": {
+                        "eng": "A Reason to Fight",
+                        "jpn": "戦う理由"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "401229",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/401229",
+                    "Titles": {
+                        "eng": "Homeland Burning",
+                        "jpn": "故国燃ゆ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "401230",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/401230",
+                    "Titles": {
+                        "eng": "Scars",
+                        "jpn": "傷痕"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "404895",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/404895",
+                    "Titles": {
+                        "eng": "Reunion and Separation",
+                        "jpn": "再会と離別と"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "404896",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/404896",
+                    "Titles": {
+                        "eng": "Twistedness of Innocence",
+                        "jpn": "無垢なる歪み"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "409102",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/409102",
+                    "Titles": {
+                        "eng": "The Indelible Past",
+                        "jpn": "拭えぬ過去"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "409103",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/409103",
+                    "Titles": {
+                        "eng": "Light of Heaven",
+                        "jpn": "天の光"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "415700",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/415700",
+                    "Titles": {
+                        "eng": "00's Voice",
+                        "jpn": "ダブルオーの声"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "415701",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/415701",
+                    "Titles": {
+                        "eng": "Wait for Me in Space",
+                        "jpn": "宇宙で待ってる"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "415702",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/415702",
+                    "Titles": {
+                        "eng": "Assault on Memento Mori",
+                        "jpn": "メメントモリ攻略戦"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "424554",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/424554",
+                    "Titles": {
+                        "eng": "I Can Hear a Song",
+                        "jpn": "歌が聴こえる"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "424555",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/424555",
+                    "Titles": {
+                        "eng": "Victory Song of the Resistance",
+                        "jpn": "反抗の凱歌"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "424556",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/424556",
+                    "Titles": {
+                        "eng": "Prelude to Tragedy",
+                        "jpn": "悲劇への序章"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "424557",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/424557",
+                    "Titles": {
+                        "eng": "Within the Scattering Light",
+                        "jpn": "散りゆく光の中で"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "428925",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/428925",
+                    "Titles": {
+                        "eng": "Entangled Yearnings",
+                        "jpn": "交錯する想い"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "428926",
+                    "TYPE": "OVA",
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/428926",
+                    "Titles": {
+                        "eng": "Shadow of the Innovators",
+                        "jpn": "イノベイターの影"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "428927",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/428927",
+                    "Titles": {
+                        "eng": "Anew Returns",
+                        "jpn": "アニュー・リターン"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "428928",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/428928",
+                    "Titles": {
+                        "eng": "The Door of Change",
+                        "jpn": "革新の扉"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "428929",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/428929",
+                    "Titles": {
+                        "eng": "For the Future",
+                        "jpn": "未来のために"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "428930",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/428930",
+                    "Titles": {
+                        "eng": "Flower of Life",
+                        "jpn": "命の華"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "428931",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/428931",
+                    "Titles": {
+                        "eng": "Beyond",
+                        "jpn": "BEYOND"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "428932",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-00/episodes/428932",
+                    "Titles": {
+                        "eng": "Rebirth",
+                        "jpn": "再生"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

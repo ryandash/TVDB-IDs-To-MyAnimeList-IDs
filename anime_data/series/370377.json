@@ -1,0 +1,184 @@
+{
+    "URL": "https://thetvdb.com/series/id-invaded",
+    "Genres": [
+        "Anime",
+        "Crime",
+        "Mystery",
+        "Science Fiction",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt10954274/",
+        "https://id-invaded-anime.com",
+        "https://www.themoviedb.org/tv/92602",
+        "https://x.com/idinvadedanim"
+    ],
+    "Titles": {
+        "eng": "ID: INVADED",
+        "jpn": "ID:INVADED イド:インヴェイデッド"
+    },
+    "Aliases": [
+        "ID:INVADED",
+        "ID INVADED",
+        "インヴェイデッド",
+        "イド:インヴェイデッド",
+        "INDAVIDED"
+    ],
+    "Modified": "2026-01-12",
+    "Seasons": {
+        "1": {
+            "ID": "828429",
+            "URL": "https://thetvdb.com/series/id-invaded/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "7384309",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/id-invaded/episodes/7384309",
+                    "Titles": {
+                        "eng": "Jigsawed",
+                        "jpn": "JIGSAWED バラバラの世界"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7516121",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/id-invaded/episodes/7516121",
+                    "Titles": {
+                        "eng": "Jigsawed II",
+                        "jpn": "JIGSAWED Ⅱ バラバラの世界"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7525033",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/id-invaded/episodes/7525033",
+                    "Titles": {
+                        "eng": "Sniped",
+                        "jpn": "SNIPED 滝の世界"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7526597",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/id-invaded/episodes/7526597",
+                    "Titles": {
+                        "eng": "Extended",
+                        "jpn": "EXTENDED 燃えさかるビルの世界"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7526598",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/id-invaded/episodes/7526598",
+                    "Titles": {
+                        "eng": "Fallen",
+                        "jpn": "FALLEN 落ちる世界"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "7534068",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/id-invaded/episodes/7534068",
+                    "Titles": {
+                        "eng": "Circled",
+                        "jpn": "CIRCLED 円環の世界"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "7534071",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/id-invaded/episodes/7534071",
+                    "Titles": {
+                        "eng": "Thunderbolted",
+                        "jpn": "THUNDERBOLTED 雷の世界"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "7534072",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/id-invaded/episodes/7534072",
+                    "Titles": {
+                        "eng": "Desertified",
+                        "jpn": "DESERTIFIED 砂の世界"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "7534074",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/id-invaded/episodes/7534074",
+                    "Titles": {
+                        "eng": "Inside-outed",
+                        "jpn": "INSIDE-OUTED"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "7534075",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/id-invaded/episodes/7534075",
+                    "Titles": {
+                        "eng": "Inside-outed II",
+                        "jpn": "INSIDE-OUTED II"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "7534077",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/id-invaded/episodes/7534077",
+                    "Titles": {
+                        "eng": "Stormed",
+                        "jpn": "STORMED"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "7534078",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/id-invaded/episodes/7534078",
+                    "Titles": {
+                        "eng": "Channeled",
+                        "jpn": "CHANNELED"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "7534079",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/id-invaded/episodes/7534079",
+                    "Titles": {
+                        "eng": "Channeled II",
+                        "jpn": "CHANNELED Ⅱ"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

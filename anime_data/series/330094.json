@@ -1,0 +1,471 @@
+{
+    "URL": "https://thetvdb.com/series/marvels-future-avengers",
+    "Genres": [
+        "Superhero"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt6591446/",
+        "https://www.themoviedb.org/tv/91278"
+    ],
+    "Titles": {
+        "eng": "Marvel Future Avengers",
+        "jpn": "マーベル フューチャー・アベンジャーズ"
+    },
+    "Aliases": [
+        "Marvel Future Avengers"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "716181",
+            "URL": "https://thetvdb.com/series/marvels-future-avengers/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "6134303",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6134303",
+                    "Titles": {
+                        "eng": "Destroy the Avengers",
+                        "jpn": "アベンジャーズを狙え"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6703626",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703626",
+                    "Titles": {
+                        "eng": "Avengers Assemble!",
+                        "jpn": "絶望の赤いドクロ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6703628",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703628",
+                    "Titles": {
+                        "eng": "The Red Skull Conspiracy",
+                        "jpn": "レッド・スカル争奪戦"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6703630",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703630",
+                    "Titles": {
+                        "eng": "Future Avengers: Assemble!",
+                        "jpn": "マコトたちの反乱!?"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6703632",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703632",
+                    "Titles": {
+                        "eng": "Iron Fist",
+                        "jpn": "秘境都市クン・ルン"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6703633",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703633",
+                    "Titles": {
+                        "eng": "Secret Past of Iron Man",
+                        "jpn": "ヒーローの資格"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6703635",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703635",
+                    "Titles": {
+                        "eng": "Here Comes Deadpool!",
+                        "jpn": "来たぜ！デッドプール"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6703636",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703636",
+                    "Titles": {
+                        "eng": "Super Soldier: Steve Rogers",
+                        "jpn": "キャップの遠い過去"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6703637",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703637",
+                    "Titles": {
+                        "eng": "Who is the Winter Soldier?",
+                        "jpn": "W・ソルジャーの正体"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6703639",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703639",
+                    "Titles": {
+                        "eng": "Black Panther",
+                        "jpn": "王国を守りし黒ヒョウ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6703640",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703640",
+                    "Titles": {
+                        "eng": "The Rampaging Hulk",
+                        "jpn": "謎のハルク暴走"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6703645",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703645",
+                    "Titles": {
+                        "eng": "Spider-Man to the Rescue",
+                        "jpn": "ヒーロー規制法可決"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "6703646",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703646",
+                    "Titles": {
+                        "eng": "Green Goblin vs. the Hulk",
+                        "jpn": "緑の怪物VS緑の巨人"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "6703649",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703649",
+                    "Titles": {
+                        "eng": "The Flight of the Falcon",
+                        "jpn": "止まれない超高速飛行"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "6703650",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703650",
+                    "Titles": {
+                        "eng": "Ms. Marvel",
+                        "jpn": "もう一人の変身少女"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "6703651",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703651",
+                    "Titles": {
+                        "eng": "Operation Rescue Winter Soldier",
+                        "jpn": "W・ソルジャー救出戦"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "6703653",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703653",
+                    "Titles": {
+                        "eng": "Finding Hydra's Comrades",
+                        "jpn": "ヒドラの協力者を探せ"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "6703654",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703654",
+                    "Titles": {
+                        "eng": "It's Deadpool, Again",
+                        "jpn": "またかよデッドプール"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "6703655",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703655",
+                    "Titles": {
+                        "eng": "Can You Believe in Loki",
+                        "jpn": "ロキを信じるのか！？"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "6703656",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703656",
+                    "Titles": {
+                        "eng": "The Bond of Brothers",
+                        "jpn": "『兄弟』の絆"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "6703657",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703657",
+                    "Titles": {
+                        "eng": "Conqueror Kang",
+                        "jpn": "最凶の征服者"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "6703658",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703658",
+                    "Titles": {
+                        "eng": "The Darkest Hour",
+                        "jpn": "絶対要塞"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "6703659",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703659",
+                    "Titles": {
+                        "eng": "Out of Time",
+                        "jpn": "時をかけるマコト"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "6703660",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703660",
+                    "Titles": {
+                        "eng": "Operation Barrier Breakthrough",
+                        "jpn": "バリア突破作戦！"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "6703661",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703661",
+                    "Titles": {
+                        "eng": "The Final Fateful Battle",
+                        "jpn": "運命の最終決戦！"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "6703663",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6703663",
+                    "Titles": {
+                        "eng": "The Future Avengers",
+                        "jpn": "未来のアベンジャーズ"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "767842",
+            "URL": "https://thetvdb.com/series/marvels-future-avengers/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "6721331",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/6721331",
+                    "Titles": {
+                        "eng": "Visco's Rebellion",
+                        "jpn": "ヴィスコの反乱！？"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7208252",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/7208252",
+                    "Titles": {
+                        "eng": "Infiltration Black Market Auction",
+                        "jpn": "潜入！闇オークション"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7208255",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/7208255",
+                    "Titles": {
+                        "eng": "Here Comes Hawkeye",
+                        "jpn": "ニャンと？ホークアイ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7208256",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/7208256",
+                    "Titles": {
+                        "eng": "The Boy Who Draws Monsters",
+                        "jpn": "怪獣の絵を描く少年"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7208258",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/7208258",
+                    "Titles": {
+                        "eng": "The Great Kaiju Showdown",
+                        "jpn": "怪獣大決戦！"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "7208259",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/7208259",
+                    "Titles": {
+                        "eng": "The Mystery Mist",
+                        "jpn": "謎のミストと能力者"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "7208261",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/7208261",
+                    "Titles": {
+                        "eng": "The Hunt for A.I.M.",
+                        "jpn": "悪の組織AIMを探せ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "7208262",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/7208262",
+                    "Titles": {
+                        "eng": "The Super-Adaptoid Strikes",
+                        "jpn": "複製！？正義のパワー"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "7208263",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/7208263",
+                    "Titles": {
+                        "eng": "Arrival of the Inhumans",
+                        "jpn": "インヒューマンズ参上"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "7208264",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/7208264",
+                    "Titles": {
+                        "eng": "Lunar City Attilan",
+                        "jpn": "月面都市アティラン"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "7208265",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/7208265",
+                    "Titles": {
+                        "eng": "The Rage of Black Bolt",
+                        "jpn": "対決！ブラックボルト"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "7208266",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/7208266",
+                    "Titles": {
+                        "eng": "The Maximus Armada",
+                        "jpn": "進軍！マクシマス艦隊"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "7208267",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marvels-future-avengers/episodes/7208267",
+                    "Titles": {
+                        "eng": "The Avengers: Last Stand",
+                        "jpn": "戦いの果てに"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

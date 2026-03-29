@@ -1,0 +1,54 @@
+{
+    "URL": "https://thetvdb.com/series/very-private-lesson",
+    "Genres": [
+        "Animation",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2304700/",
+        "https://www.themoviedb.org/tv/138724"
+    ],
+    "Titles": {
+        "eng": "Very Private Lesson",
+        "jpn": "教科書にないッ!"
+    },
+    "Aliases": [
+        "Kyokasho ni nai!"
+    ],
+    "Modified": "2025-10-16",
+    "Seasons": {
+        "1": {
+            "ID": "34678",
+            "URL": "https://thetvdb.com/series/very-private-lesson/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "3015601",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/very-private-lesson/episodes/3015601",
+                    "Titles": {
+                        "eng": "Volume 1",
+                        "jpn": "#1"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "3015611",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/very-private-lesson/episodes/3015611",
+                    "Titles": {
+                        "eng": "Volume 2",
+                        "jpn": "#2"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

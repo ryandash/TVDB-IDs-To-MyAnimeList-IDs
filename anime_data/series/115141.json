@@ -1,0 +1,355 @@
+{
+    "URL": "https://thetvdb.com/series/panzer-world-galient",
+    "Genres": [
+        "Animation",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1945851/"
+    ],
+    "Titles": {
+        "eng": "Panzer World Galient",
+        "jpn": "機甲界ガリアン"
+    },
+    "Aliases": [],
+    "Modified": "2025-03-18",
+    "Seasons": {
+        "0": {
+            "ID": "121211",
+            "URL": "https://thetvdb.com/series/panzer-world-galient/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "1981851",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1981851",
+                    "Titles": {
+                        "eng": "Chapter of the Land",
+                        "jpn": "大地の章"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "2": {
+                    "ID": "1981861",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1981861",
+                    "Titles": {
+                        "eng": "Chapter of the Sky",
+                        "jpn": "天空の章"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                },
+                "3": {
+                    "ID": "1981871",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1981871",
+                    "Titles": {
+                        "eng": "Crest of Iron",
+                        "jpn": "鉄の紋章"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "121221",
+            "URL": "https://thetvdb.com/series/panzer-world-galient/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "1100611",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1100611",
+                    "Titles": {
+                        "eng": "The Legend Begins",
+                        "jpn": "伝説の始まり"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1100621",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1100621",
+                    "Titles": {
+                        "eng": "Galient Awakens",
+                        "jpn": "ガリアンの目覚め"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1100631",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1100631",
+                    "Titles": {
+                        "eng": "The Battle of White Valley",
+                        "jpn": "白い谷の闘い"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1100641",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1100641",
+                    "Titles": {
+                        "eng": "Following Jirulu",
+                        "jpn": "チュルルを追って"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "1102331",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1102331",
+                    "Titles": {
+                        "eng": "Weightless Valley",
+                        "jpn": "無重力の谷"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "1102341",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1102341",
+                    "Titles": {
+                        "eng": "The Secret Which Sleeps in the Ground",
+                        "jpn": "地底に眠る秘密"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "1102351",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1102351",
+                    "Titles": {
+                        "eng": "Troops Approach Laudan",
+                        "jpn": "ローダン軍接近"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "1102361",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1102361",
+                    "Titles": {
+                        "eng": "Prosecution of Madaru",
+                        "jpn": "マーダルの告発"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "1102371",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1102371",
+                    "Titles": {
+                        "eng": "Hirumuka is Judged",
+                        "jpn": "裁かれるヒルムカ"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "1102381",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1102381",
+                    "Titles": {
+                        "eng": "Heavy Equipment Blows the Reforming Fire",
+                        "jpn": "火を吹く重装改"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "1102391",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1102391",
+                    "Titles": {
+                        "eng": "Horseman and Hero",
+                        "jpn": "騎士と勇者"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "1102401",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1102401",
+                    "Titles": {
+                        "eng": "Identity of Madaru",
+                        "jpn": "マーダルの正体"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "1102411",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1102411",
+                    "Titles": {
+                        "eng": "JoJo Worries",
+                        "jpn": "ジョジョの悩み"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "1102421",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1102421",
+                    "Titles": {
+                        "eng": "Oh, Mother Monoiwanu",
+                        "jpn": "ああ、ものいわぬ母"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "1102431",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1102431",
+                    "Titles": {
+                        "eng": "Iron Castle Escape",
+                        "jpn": "鉄の城脱出"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "1102441",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1102441",
+                    "Titles": {
+                        "eng": "Madaru Kick-off",
+                        "jpn": "マーダル出陣"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "1102451",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1102451",
+                    "Titles": {
+                        "eng": "Showdown of Fate",
+                        "jpn": "運命の対決"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "1102461",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1102461",
+                    "Titles": {
+                        "eng": "The End of Azubesu",
+                        "jpn": "アズベスの最期"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "1102471",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1102471",
+                    "Titles": {
+                        "eng": "Collapse of the White Valley",
+                        "jpn": "白い谷崩壊"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "1102481",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1102481",
+                    "Titles": {
+                        "eng": "Towering Ambition",
+                        "jpn": "そびえたつ野望"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "1102491",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1102491",
+                    "Titles": {
+                        "eng": "Turbulent City",
+                        "jpn": "動乱の都"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "1102501",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1102501",
+                    "Titles": {
+                        "eng": "Feria Play",
+                        "jpn": "フェリア再生"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "1102511",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1102511",
+                    "Titles": {
+                        "eng": "Ramp Planet",
+                        "jpn": "惑星ランプレート"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "1102521",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1102521",
+                    "Titles": {
+                        "eng": "Collapse of the Illusion",
+                        "jpn": "幻想の崩壊"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "1102531",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/panzer-world-galient/episodes/1102531",
+                    "Titles": {
+                        "eng": "A Shaft of Light in the Legend",
+                        "jpn": "伝説の光芒"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

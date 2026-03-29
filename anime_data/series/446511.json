@@ -1,0 +1,172 @@
+{
+    "URL": "https://thetvdb.com/series/lupin-shanshei",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Mini-Series"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt31469654/",
+        "https://web.archive.org/web/20200629230220/https://www.tms-e.co.jp/english/search/introduction.php?pdt_no=560",
+        "https://www.themoviedb.org/tv/123200",
+        "https://www.wikidata.org/wiki/Q4796584"
+    ],
+    "Titles": {
+        "eng": "Lupin Shanshei",
+        "jpn": "ルパンしゃんしぇい"
+    },
+    "Aliases": [
+        "Rupan Shanshei",
+        "Lupin Shanshei"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "2113001",
+            "URL": "https://thetvdb.com/series/lupin-shanshei/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "10326670",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lupin-shanshei/episodes/10326670",
+                    "Titles": {
+                        "eng": "Lupin Sensei (Pilot)",
+                        "jpn": "ルパンしゃんしぇいパイロット版"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "2113002",
+            "URL": "https://thetvdb.com/series/lupin-shanshei/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 10,
+            "Episodes": {
+                "1": {
+                    "ID": "10326697",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-shanshei/episodes/10326697",
+                    "Titles": {
+                        "eng": "Attack on Lupin",
+                        "jpn": "進撃のルパン"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10326699",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-shanshei/episodes/10326699",
+                    "Titles": {
+                        "eng": "Saito Lupin",
+                        "jpn": "斉藤ルパン"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10326701",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-shanshei/episodes/10326701",
+                    "Titles": {
+                        "eng": "Lupiky",
+                        "jpn": "ルパキ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "10326702",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-shanshei/episodes/10326702",
+                    "Titles": {
+                        "eng": "Melting Man Lupin",
+                        "jpn": "ようかい人間ルパン"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "10326703",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-shanshei/episodes/10326703",
+                    "Titles": {
+                        "eng": "Tropical Lupin",
+                        "jpn": "熱帯性ルパン"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "10326704",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-shanshei/episodes/10326704",
+                    "Titles": {
+                        "eng": "Steal in the Countryside!",
+                        "jpn": "田舎で盗もう！"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "10326705",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-shanshei/episodes/10326705",
+                    "Titles": {
+                        "eng": "Washing Lupin III",
+                        "jpn": "洗いルパン三世"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "10326706",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-shanshei/episodes/10326706",
+                    "Titles": {
+                        "eng": "My Neighbor Lupin",
+                        "jpn": "となりのルパン"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "10326707",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-shanshei/episodes/10326707",
+                    "Titles": {
+                        "eng": "Blackholepin",
+                        "jpn": "ブラックホールパン"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "10326708",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/lupin-shanshei/episodes/10326708",
+                    "Titles": {
+                        "eng": "Conclusion from Lupin Sensei",
+                        "jpn": "最後のルパン先生"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

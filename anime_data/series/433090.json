@@ -1,0 +1,51 @@
+{
+    "URL": "https://thetvdb.com/series/generation-of-chaos-iii-toki-no-fuuin",
+    "Genres": [
+        "Animation",
+        "Anime"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/223508"
+    ],
+    "Titles": {
+        "eng": "Generation of Chaos III ~Toki no Fuuin",
+        "jpn": "ジェネレーション オブ カオス 3 時の封印"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "2055811",
+            "URL": "https://thetvdb.com/series/generation-of-chaos-iii-toki-no-fuuin/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "9701129",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/generation-of-chaos-iii-toki-no-fuuin/episodes/9701129",
+                    "Titles": {
+                        "eng": "Session 1",
+                        "jpn": "Session 1"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9701130",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/generation-of-chaos-iii-toki-no-fuuin/episodes/9701130",
+                    "Titles": {
+                        "eng": "Session 2",
+                        "jpn": "Session 2"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "URL": "https://thetvdb.com/series/yoma-curse-of-the-undead",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Fantasy",
+        "Horror"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0161113/",
+        "https://www.themoviedb.org/tv/116269"
+    ],
+    "Titles": {
+        "eng": "Blood Reign: Curse of the Yoma",
+        "jpn": "妖魔"
+    },
+    "Aliases": [],
+    "Modified": "2024-09-05",
+    "Seasons": {
+        "1": {
+            "ID": "40745",
+            "URL": "https://thetvdb.com/series/yoma-curse-of-the-undead/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "435393",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yoma-curse-of-the-undead/episodes/435393",
+                    "Titles": {
+                        "eng": "Hikage in the Evil World",
+                        "jpn": "上の巻 緋影魔境編"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "435394",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yoma-curse-of-the-undead/episodes/435394",
+                    "Titles": {
+                        "eng": "Marou with the Crazy Fang",
+                        "jpn": "下の巻 魔狼兇牙編"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

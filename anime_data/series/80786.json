@@ -1,0 +1,143 @@
+{
+    "URL": "https://thetvdb.com/series/birdy-the-mighty",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0160979/",
+        "https://www.themoviedb.org/tv/95916"
+    ],
+    "Titles": {
+        "eng": "Birdy the Mighty",
+        "jpn": "鉄腕バーディー"
+    },
+    "Aliases": [
+        "Birdy the Mighty OVA"
+    ],
+    "Modified": "2026-01-10",
+    "Seasons": {
+        "0": {
+            "ID": "536228",
+            "URL": "https://thetvdb.com/series/birdy-the-mighty/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "10006963",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/birdy-the-mighty/episodes/10006963",
+                    "Titles": {
+                        "eng": "Act 0",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "10006985",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/birdy-the-mighty/episodes/10006985",
+                    "Titles": {
+                        "eng": "Act 2 Commercial 1",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 3
+                },
+                "3": {
+                    "ID": "10006986",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/birdy-the-mighty/episodes/10006986",
+                    "Titles": {
+                        "eng": "Act 2 Commercial 2",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 3
+                },
+                "4": {
+                    "ID": "10006987",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/birdy-the-mighty/episodes/10006987",
+                    "Titles": {
+                        "eng": "Act 1 & 2 Commercials",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 3
+                }
+            }
+        },
+        "1": {
+            "ID": "29222",
+            "URL": "https://thetvdb.com/series/birdy-the-mighty/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "340702",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/birdy-the-mighty/episodes/340702",
+                    "Titles": {
+                        "eng": "2 Hearts in 1 Body",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "340703",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/birdy-the-mighty/episodes/340703",
+                    "Titles": {
+                        "eng": "Double Trouble",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "340704",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/birdy-the-mighty/episodes/340704",
+                    "Titles": {
+                        "eng": "Triangle Trial",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "340705",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/birdy-the-mighty/episodes/340705",
+                    "Titles": {
+                        "eng": "Final Force",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

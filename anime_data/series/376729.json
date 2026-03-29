@@ -1,0 +1,486 @@
+{
+    "URL": "https://thetvdb.com/series/tower-of-god",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Fantasy",
+        "Mystery"
+    ],
+    "Other Sites": [
+        "https://www.facebook.com/anime.tog",
+        "https://www.imdb.com/title/tt12057106/",
+        "https://www.instagram.com/official.tower.of.god",
+        "https://tog-anime.com/",
+        "https://www.themoviedb.org/tv/97860",
+        "https://x.com/anime_ToG"
+    ],
+    "Titles": {
+        "eng": "Tower of God",
+        "jpn": "神之塔 -Tower of God-"
+    },
+    "Aliases": [
+        "Kami no Tō",
+        "Kami no Tou"
+    ],
+    "Modified": "2026-01-10",
+    "Seasons": {
+        "1": {
+            "ID": "1819691",
+            "URL": "https://thetvdb.com/series/tower-of-god/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "7580214",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/7580214",
+                    "Titles": {
+                        "eng": "BALL",
+                        "jpn": "BALL"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7659830",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/7659830",
+                    "Titles": {
+                        "eng": "3/400 (Three Four-Hundredths)",
+                        "jpn": "400分の３"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7663521",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/7663521",
+                    "Titles": {
+                        "eng": "The Correct Door",
+                        "jpn": "正解の扉"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7663523",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/7663523",
+                    "Titles": {
+                        "eng": "The Green April",
+                        "jpn": "緑の四月"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7663524",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/7663524",
+                    "Titles": {
+                        "eng": "The Crown’s Fate",
+                        "jpn": "王冠の行方"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "7663527",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/7663527",
+                    "Titles": {
+                        "eng": "Position Selection",
+                        "jpn": "ポジション分け"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "7663529",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/7663529",
+                    "Titles": {
+                        "eng": "Lunch and Tag",
+                        "jpn": "ご飯と鬼ごっこ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "7663532",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/7663532",
+                    "Titles": {
+                        "eng": "Khun’s Strategy",
+                        "jpn": "クンの策略"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "7663533",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/7663533",
+                    "Titles": {
+                        "eng": "The One-Horned Ogre",
+                        "jpn": "片角の鬼"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "7663534",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/7663534",
+                    "Titles": {
+                        "eng": "Beyond the Sadness",
+                        "jpn": "悲しみの先に"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "7663536",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/7663536",
+                    "Titles": {
+                        "eng": "Underwater Hunt (Part One)",
+                        "jpn": "潜魚狩り(前編)"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "7663537",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/7663537",
+                    "Titles": {
+                        "eng": "Underwater Hunt (Part Two)",
+                        "jpn": "潜魚狩り（後編）"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "7663539",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/7663539",
+                    "Titles": {
+                        "eng": "Tower of God",
+                        "jpn": "神之塔"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "2016680",
+            "URL": "https://thetvdb.com/series/tower-of-god/seasons/official/2",
+            "Titles": {
+                "eng": "Return of the Prince / Workshop Battle",
+                "jpn": "王子の帰還／工房戦編",
+                "spa": "El regreso del Príncipe",
+                "fra": "Ōjinokikan",
+                "deu": "Return of the Prince / Workshop Battle",
+                "kor": "왕자의 귀환 / 공방전"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "10075790",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10075790",
+                    "Titles": {
+                        "eng": "Last Chance",
+                        "jpn": "LAST CHANCE"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10563857",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10563857",
+                    "Titles": {
+                        "eng": "The Strongest Regular",
+                        "jpn": "最強の選別者"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10563858",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10563858",
+                    "Titles": {
+                        "eng": "The Trustworthy Room",
+                        "jpn": "信じられる部屋"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "10563859",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10563859",
+                    "Titles": {
+                        "eng": "Ramen and the Great Big Sky",
+                        "jpn": "ラーメンと広い空"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "10563860",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10563860",
+                    "Titles": {
+                        "eng": "The Other Team",
+                        "jpn": "もうひとつのチーム"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "10563861",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10563861",
+                    "Titles": {
+                        "eng": "Zygaena's Flower",
+                        "jpn": "チゲナの花"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "10563862",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10563862",
+                    "Titles": {
+                        "eng": "Mazino Magic",
+                        "jpn": "マジノマジック"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "10563863",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10563863",
+                    "Titles": {
+                        "eng": "Her Name Is Emily",
+                        "jpn": "彼女の名はエミリー"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "10563864",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10563864",
+                    "Titles": {
+                        "eng": "One-Winged Devil",
+                        "jpn": "片翼の悪魔"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "10563865",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10563865",
+                    "Titles": {
+                        "eng": "The Hand of Arlen",
+                        "jpn": "アルレンの手"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "10563866",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10563866",
+                    "Titles": {
+                        "eng": "A Thick and Distant Wall",
+                        "jpn": "厚くて遠い壁"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "10563867",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10563867",
+                    "Titles": {
+                        "eng": "A New Trial",
+                        "jpn": "新たな試練"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "10563868",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10563868",
+                    "Titles": {
+                        "eng": "Archimedes",
+                        "jpn": "アルキメデス"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "10684068",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10684068",
+                    "Titles": {
+                        "eng": "Meeting the Traveler",
+                        "jpn": "旅人との出会い"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "10684069",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10684069",
+                    "Titles": {
+                        "eng": "The Promise of That Day",
+                        "jpn": "あの日の約束"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "10684070",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10684070",
+                    "Titles": {
+                        "eng": "The 25th Bam",
+                        "jpn": "二十五日の夜"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "10684071",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10684071",
+                    "Titles": {
+                        "eng": "Funky!",
+                        "jpn": "ファンキー！"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "10684072",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10684072",
+                    "Titles": {
+                        "eng": "The Mad Dog and the Lizard",
+                        "jpn": "狂犬とトカゲ"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "10684073",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10684073",
+                    "Titles": {
+                        "eng": "ALL IN",
+                        "jpn": "ALL IN"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "10684074",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10684074",
+                    "Titles": {
+                        "eng": "Like a Flame in the Wind",
+                        "jpn": "風前の灯火"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "10684075",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10684075",
+                    "Titles": {
+                        "eng": "The Beginning of Dawn",
+                        "jpn": "夜明けのはじまり"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "10684076",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10684076",
+                    "Titles": {
+                        "eng": "Their Workshop",
+                        "jpn": "ふたりのこうぼう"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "10684077",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10684077",
+                    "Titles": {
+                        "eng": "The End of Dawn",
+                        "jpn": "夜明けの終わり"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "10730762",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10730762",
+                    "Titles": {
+                        "eng": "The Cost of Battle",
+                        "jpn": "戦いの代償"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "10730763",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10730763",
+                    "Titles": {
+                        "eng": "Return of the King",
+                        "jpn": "王の帰還"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "10730764",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tower-of-god/episodes/10730764",
+                    "Titles": {
+                        "eng": "The Dawn of the Departure",
+                        "jpn": "旅立ちの夜明け"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

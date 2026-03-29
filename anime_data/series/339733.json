@@ -1,0 +1,616 @@
+{
+    "URL": "https://thetvdb.com/series/339733-show",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Family",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0765441/",
+        "https://www.themoviedb.org/tv/39980"
+    ],
+    "Titles": {
+        "eng": "Digimon Data Squad",
+        "jpn": "デジモンセイバーズ"
+    },
+    "Aliases": [
+        "Digimon Savers",
+        "Digimon: Data Squad"
+    ],
+    "Modified": "2025-07-04",
+    "Seasons": {
+        "0": {
+            "ID": "743100",
+            "URL": "https://thetvdb.com/series/339733-show/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "6746535",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6746535",
+                    "Titles": {
+                        "eng": "Digimon Savers 3D: The Digital World in Imminent Danger!",
+                        "jpn": "デジモンセイバーズ3D デジタルワールド危機イッパツ！"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "6472605",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472605",
+                    "Titles": {
+                        "eng": "Digimon Savers: Ultimate Power! Activate Burst Mode!!",
+                        "jpn": "デジモンセイバーズ THE MOVIE 究極パワー！バーストモード発動！！"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "6604756",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6604756",
+                    "Titles": {
+                        "eng": "Digimon Savers Special: Agumon! Gaomon! Lalamon! Explosion! The Last Battle Off-screen",
+                        "jpn": "デジモンセイバーズ映像特典 - アグモン！ガオモン！ララモン！爆裂！場外ラストバトル！"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "743101",
+            "URL": "https://thetvdb.com/series/339733-show/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "kor": "디지몬 세이버즈"
+            },
+            "# Episodes": 48,
+            "Episodes": {
+                "1": {
+                    "ID": "6465016",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6465016",
+                    "Titles": {
+                        "eng": "There Are Monsters Among Us",
+                        "jpn": "俺が大だ！コカトリモン襲来"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6465018",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6465018",
+                    "Titles": {
+                        "eng": "Marcus' Inner Strength",
+                        "jpn": "燃えろ怒りのデジソウル 闇にひそむフライモン"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6465019",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6465019",
+                    "Titles": {
+                        "eng": "The Return of Thomas!",
+                        "jpn": "帰ってきた天才トーマ！メラモンをぶっとばせ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6465020",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6465020",
+                    "Titles": {
+                        "eng": "The New Team of Marcus and Thomas!",
+                        "jpn": "新チーム初出動！ドリモゲモンを追え!"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6465021",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6465021",
+                    "Titles": {
+                        "eng": "Digital World, Here We Come!",
+                        "jpn": "デジタルワールド突入！ドリモゲモンの罠"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6465022",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6465022",
+                    "Titles": {
+                        "eng": "The Ultimate Team No More?",
+                        "jpn": "大・アグモンコンビ解消！？疾風ガルルモン"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6465023",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6465023",
+                    "Titles": {
+                        "eng": "A Birthday Kristy Will Never Forget!",
+                        "jpn": "トーマの休日 爆裂ボンバーナニモン"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6465024",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6465024",
+                    "Titles": {
+                        "eng": "The Singer's Secret",
+                        "jpn": "ヨシノ玉の輿ゲット!? クリサリモンの影"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6465025",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6465025",
+                    "Titles": {
+                        "eng": "Never Meet Your Heroes",
+                        "jpn": "トーマ栄光なき戦い 暗躍トゲモン"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6465026",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6465026",
+                    "Titles": {
+                        "eng": "Curse This Curse (Marcus's Bad Day)",
+                        "jpn": "マサル人生最悪の日 いたずらソウルモン"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6465027",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6465027",
+                    "Titles": {
+                        "eng": "The Vile of Vilemon!",
+                        "jpn": "親子の絆を取り戻せ イビルモンの幻惑"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6465028",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6465028",
+                    "Titles": {
+                        "eng": "The Digi-egg That Fell to Earth",
+                        "jpn": "知香はボクが守る! ピヨモンの決意"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "6465029",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6465029",
+                    "Titles": {
+                        "eng": "The Rise of RizeGreymon",
+                        "jpn": "マサル新たなる力 進化! ライズグレイモン"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "6465030",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6465030",
+                    "Titles": {
+                        "eng": "The Wild Boy of the Digital World",
+                        "jpn": "デジモン少年イクト 森の番人ジュレイモン"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "6465031",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6465031",
+                    "Titles": {
+                        "eng": "The Gorge of Deception!",
+                        "jpn": "母さんの想い出 吠えろマッハガオガモン"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "6465032",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6465032",
+                    "Titles": {
+                        "eng": "Falcomon - Friend or Foe?",
+                        "jpn": "仲間はファルコモン!? モーレツ! ブロッサモン"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "6465033",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6465033",
+                    "Titles": {
+                        "eng": "Yoshi's Biggest Battle: The One With Herself",
+                        "jpn": "奇跡を呼ぶ歌声 ライラモン進化"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "6465034",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6465034",
+                    "Titles": {
+                        "eng": "The Clash with Merukimon",
+                        "jpn": "DATSチーム全滅!? 激突メルクリモン"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "6465036",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6465036",
+                    "Titles": {
+                        "eng": "The Truth About Keenan",
+                        "jpn": "標的はイクト!? ゴツモンの企み"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "6465037",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6465037",
+                    "Titles": {
+                        "eng": "The Crier Family Reunion",
+                        "jpn": "母親を救え、イクト　ハグルモンの檻"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "6465039",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6465039",
+                    "Titles": {
+                        "eng": "The Digimon Army Makes Its Move",
+                        "jpn": "人間界大パニック デジモン軍団進撃"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "6472416",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472416",
+                    "Titles": {
+                        "eng": "The Wrath of SaberLeoMon",
+                        "jpn": "倒せ究極体! 怒涛サーベルレオモン"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "6472423",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472423",
+                    "Titles": {
+                        "eng": "One More Digital Dive",
+                        "jpn": "再びデジタルワールドへ インセキモン大暴れ"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "6472425",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472425",
+                    "Titles": {
+                        "eng": "The Past Revealed",
+                        "jpn": "明かされる過去 非情！ギズモン:ＡＴ"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "6472428",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472428",
+                    "Titles": {
+                        "eng": "Kurata's Revenge",
+                        "jpn": "倉田の野望をくだけ 飛翔ヤタガラモン"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "6472430",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472430",
+                    "Titles": {
+                        "eng": "Memory is the First Thing to Go",
+                        "jpn": "マサル記憶消去 失われた絆"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "6472432",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472432",
+                    "Titles": {
+                        "eng": "The Beginning of the End",
+                        "jpn": "倉田を追え・デジモン纎滅作戦開始！"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "6472433",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472433",
+                    "Titles": {
+                        "eng": "Digivice Meltdown!",
+                        "jpn": "進化不可能！デジヴァイス崩壊"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "6472434",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472434",
+                    "Titles": {
+                        "eng": "How to Fix a Broken Digivice",
+                        "jpn": "よみがえるデジヴァイス 新たなる輝き"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "6472438",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472438",
+                    "Titles": {
+                        "eng": "Journey to the Sacred City",
+                        "jpn": "とらわれの大(マサル) 聖なる都の罠"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "6472445",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472445",
+                    "Titles": {
+                        "eng": "Showdown Between Geniuses: Thomas vs. Nanami!",
+                        "jpn": "天才対決! トーマvsナナミ"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "6472456",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472456",
+                    "Titles": {
+                        "eng": "The Sacred City's Last Stand",
+                        "jpn": "猛攻倉田軍団 聖なる都を守れ"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "6472460",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472460",
+                    "Titles": {
+                        "eng": "The Final Bio-Hybrid Battle",
+                        "jpn": "最後の決戦！聖、究極進化"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "6472464",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472464",
+                    "Titles": {
+                        "eng": "The Norstein Family Secret",
+                        "jpn": "訣別の日 最強の敵・トーマ!"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "6472467",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472467",
+                    "Titles": {
+                        "eng": "Kurata's Real Plan",
+                        "jpn": "破滅のパワー シャイングレイモン暴走"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "6472471",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472471",
+                    "Titles": {
+                        "eng": "Awaken Belphemon",
+                        "jpn": "魔王ベルフェモン復活"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "6472478",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472478",
+                    "Titles": {
+                        "eng": "The Battle with Belphemon",
+                        "jpn": "目覚めよアグモン ベルフェモンを倒せ!"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "6472482",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472482",
+                    "Titles": {
+                        "eng": "The Power of the Burst Mode",
+                        "jpn": "バーストモード 究極を超える力"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "6472487",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472487",
+                    "Titles": {
+                        "eng": "King Drasil's Fatal Decision",
+                        "jpn": "人間界消滅！イグドラシルの決断"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "6472493",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472493",
+                    "Titles": {
+                        "eng": "The Royal Knights Assemble",
+                        "jpn": "最強騎士団・ロイヤルナイツ集結"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "6472497",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472497",
+                    "Titles": {
+                        "eng": "Father and Son Destiny",
+                        "jpn": "拳でたしかめろ！父さんの想い"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "6472501",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472501",
+                    "Titles": {
+                        "eng": "Thomas Bursts on the Scene",
+                        "jpn": "トーマ決意のバーストモード"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "6472505",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472505",
+                    "Titles": {
+                        "eng": "Justice Equals Power",
+                        "jpn": "力こそ正義！獣騎士ドゥフトモン"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "6472510",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472510",
+                    "Titles": {
+                        "eng": "Human Potential",
+                        "jpn": "砕け！クレニアムモンの最強の盾"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "6472512",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472512",
+                    "Titles": {
+                        "eng": "A Family Quarrel",
+                        "jpn": "男と男のタイマン勝負！大(マサル)VS英(スグル)"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "6472521",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472521",
+                    "Titles": {
+                        "eng": "The Truth About BanchoLeomon",
+                        "jpn": "衝撃！バンチョーレオモンの真実"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "6472523",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472523",
+                    "Titles": {
+                        "eng": "The Data Squad's Final Battle",
+                        "jpn": "未来を守れ！DATS最後の戦い"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "6472529",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/339733-show/episodes/6472529",
+                    "Titles": {
+                        "eng": "The Ultimate Farewell",
+                        "jpn": "完全決着！さらばケンカ番長"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

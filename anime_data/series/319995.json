@@ -1,0 +1,502 @@
+{
+    "URL": "https://thetvdb.com/series/one-room",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Drama",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt7797662/",
+        "https://oneroom-anime.com/",
+        "https://www.themoviedb.org/tv/69298",
+        "https://x.com/anime_one_room"
+    ],
+    "Titles": {
+        "eng": "One Room",
+        "jpn": "One Room"
+    },
+    "Aliases": [],
+    "Modified": "2025-06-04",
+    "Seasons": {
+        "0": {
+            "ID": "689094",
+            "URL": "https://thetvdb.com/series/one-room/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "6115754",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/6115754",
+                    "Titles": {
+                        "eng": "OVA",
+                        "jpn": "OVA「花坂結衣は水着で挨拶する／桃原奈月は水着でお掃除する／青島萌香は水着で頑張る」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "6748979",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/6748979",
+                    "Titles": {
+                        "eng": "Hanasaka Yui's Prologue",
+                        "jpn": "花坂結衣のプロローグ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "7128899",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/7128899",
+                    "Titles": {
+                        "eng": "Second Season Special",
+                        "jpn": "花坂結衣は試してみる／花坂結衣は送られてくる／七橋御乃梨は会議する／七橋御乃梨は大物になる／天月真白は猫になる／天月真白は治療する"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "689095",
+            "URL": "https://thetvdb.com/series/one-room/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "5845938",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/5845938",
+                    "Titles": {
+                        "eng": "Hanasaka Yui Makes a Request",
+                        "jpn": "花坂結衣はお願いする"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5907812",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/5907812",
+                    "Titles": {
+                        "eng": "Hanasaka Yui Makes a Promise",
+                        "jpn": "花坂結衣は約束する"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5907818",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/5907818",
+                    "Titles": {
+                        "eng": "Hanasaka Yui Dozes Off",
+                        "jpn": "花坂結衣は寝落ちする"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5952550",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/5952550",
+                    "Titles": {
+                        "eng": "Holding Hands with Hanasaka Yui",
+                        "jpn": "花坂結衣は手をつなぐ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5963047",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/5963047",
+                    "Titles": {
+                        "eng": "Momohara Natsuki Meddles",
+                        "jpn": "桃原奈月は世話を焼く"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5963071",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/5963071",
+                    "Titles": {
+                        "eng": "Momohara Natsuki Blushes",
+                        "jpn": "桃原奈月はほっとする"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5963072",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/5963072",
+                    "Titles": {
+                        "eng": "Momohara Natsuki Gets Embarrassed and Plays Things Off",
+                        "jpn": "桃原奈月は照れてごまかす"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5963073",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/5963073",
+                    "Titles": {
+                        "eng": "Momohara Natsuki Can't Be Honest",
+                        "jpn": "桃原奈月は素直になれない"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5963074",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/5963074",
+                    "Titles": {
+                        "eng": "Aoshima Moka Remembers",
+                        "jpn": "青島萌香は覚えてる"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5963075",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/5963075",
+                    "Titles": {
+                        "eng": "Aoshima Moka is Troubled",
+                        "jpn": "青島萌香は悩んでる"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5963076",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/5963076",
+                    "Titles": {
+                        "eng": "Aoshima Moka Understands",
+                        "jpn": "青島萌香はわかってる"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5963077",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/5963077",
+                    "Titles": {
+                        "eng": "Aoshima Moka is Singing",
+                        "jpn": "青島萌香は歌ってる"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "763966",
+            "URL": "https://thetvdb.com/series/one-room/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "6680096",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/6680096",
+                    "Titles": {
+                        "eng": "Hanasaka Yui is Excited",
+                        "jpn": "花坂結衣ははしゃいでる"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6761021",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/6761021",
+                    "Titles": {
+                        "eng": "Hanasaka Yui is Scolded",
+                        "jpn": "花坂結衣は叱られる"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6764024",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/6764024",
+                    "Titles": {
+                        "eng": "Hanasaka Yui is Sulking",
+                        "jpn": "花坂結衣は拗ねている"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6775873",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/6775873",
+                    "Titles": {
+                        "eng": "Hanasaka Yui is Near Me",
+                        "jpn": "花坂結衣はそばにいる"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6775874",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/6775874",
+                    "Titles": {
+                        "eng": "Nanahashi Minori Comes to Wake You Up",
+                        "jpn": "七橋御乃梨は起こしに来る"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6789192",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/6789192",
+                    "Titles": {
+                        "eng": "Nanahashi Minori Has a Heart-to-Heart",
+                        "jpn": "七橋御乃梨はしんみりする"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6798713",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/6798713",
+                    "Titles": {
+                        "eng": "Nanahashi Minori Asks the Impossible",
+                        "jpn": "七橋御乃梨は無茶を言う"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6798715",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/6798715",
+                    "Titles": {
+                        "eng": "Nanahashi Minori is Right Here",
+                        "jpn": "七橋御乃梨はここにいる"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6814490",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/6814490",
+                    "Titles": {
+                        "eng": "Amatsuki Mashiro is Searching",
+                        "jpn": "天月真白は探してる"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6814491",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/6814491",
+                    "Titles": {
+                        "eng": "Amatsuki Mashiro Gives It a Try",
+                        "jpn": "天月真白はやってみる"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6814492",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/6814492",
+                    "Titles": {
+                        "eng": "Amatsuki Mashiro Recalls",
+                        "jpn": "天月真白は思い出す"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6814494",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/6814494",
+                    "Titles": {
+                        "eng": "Amatsuki Mashiro is Waiting",
+                        "jpn": "天月真白は待っている"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "1865247",
+            "URL": "https://thetvdb.com/series/one-room/seasons/official/3",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "7918045",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/7918045",
+                    "Titles": {
+                        "eng": "Kotokawa Akira Is Clingy",
+                        "jpn": "琴川晶はなついてる"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7990777",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/7990777",
+                    "Titles": {
+                        "eng": "Kotokawa Akira Is Worried About It",
+                        "jpn": "琴川晶は気にしてる"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7990827",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/7990827",
+                    "Titles": {
+                        "eng": "Kotokawa Akira Can't Say It",
+                        "jpn": "琴川晶は言えずにいる"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7990832",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/7990832",
+                    "Titles": {
+                        "eng": "Kotokawa Akira Is Nurturing",
+                        "jpn": "琴川晶は育ててる"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "8016127",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/8016127",
+                    "Titles": {
+                        "eng": "Momohara Natsuki Is Convincing",
+                        "jpn": "桃原奈月は説得する"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "8027361",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/8027361",
+                    "Titles": {
+                        "eng": "Nanahashi Minori Will Keep Walking",
+                        "jpn": "七橋御乃梨は歩いてく"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "8027362",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/8027362",
+                    "Titles": {
+                        "eng": "Orisaki Saya Apologizes",
+                        "jpn": "織崎紗耶は謝罪する"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "8027364",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/8027364",
+                    "Titles": {
+                        "eng": "Orisaki Saya Is Cheering You On",
+                        "jpn": "織崎紗耶は応援してる"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "8060163",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/8060163",
+                    "Titles": {
+                        "eng": "Orisaki Saya Takes a Hint",
+                        "jpn": "織崎紗耶は察してる"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "8065406",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/8065406",
+                    "Titles": {
+                        "eng": "Orisaki Saya Comes Over",
+                        "jpn": "織崎紗耶はお邪魔する"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "8065408",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/8065408",
+                    "Titles": {
+                        "eng": "Hanasaka Yui Is Startled",
+                        "jpn": "花坂結衣はびっくりする"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "8065409",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/one-room/episodes/8065409",
+                    "Titles": {
+                        "eng": "Hanasaka Yui Is Next to Me",
+                        "jpn": "花坂結衣は隣にいる"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

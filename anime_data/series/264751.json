@@ -1,0 +1,682 @@
+{
+    "URL": "https://thetvdb.com/series/whirlwind-iron-leaguer",
+    "Genres": [
+        "Animation",
+        "Science Fiction",
+        "Sport"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt11156966/"
+    ],
+    "Titles": {
+        "eng": "Whirlwind! Iron Leaguer",
+        "jpn": "疾風！ アイアンリーガー"
+    },
+    "Aliases": [
+        "Shippu! Iron Leaguer",
+        "Hurricane! Iron Leaguer",
+        "Iron Leaguer"
+    ],
+    "Modified": "2023-05-13",
+    "Seasons": {
+        "0": {
+            "ID": "557035",
+            "URL": "https://thetvdb.com/series/whirlwind-iron-leaguer/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": "銀光（シルバー）の旗の下に"
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "5658808",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/5658808",
+                    "Titles": {
+                        "eng": "OVA - 1",
+                        "jpn": "さらば友よ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 5
+                },
+                "2": {
+                    "ID": "5658809",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/5658809",
+                    "Titles": {
+                        "eng": "OVA - 2",
+                        "jpn": "約束の地"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 5
+                },
+                "3": {
+                    "ID": "5658810",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/5658810",
+                    "Titles": {
+                        "eng": "OVA - 3",
+                        "jpn": "シルバーの鼓動"
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 5
+                },
+                "4": {
+                    "ID": "5658811",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/5658811",
+                    "Titles": {
+                        "eng": "OVA - 4",
+                        "jpn": "蘇るエース"
+                    },
+                    "Aliases": [],
+                    "Episode #": 4,
+                    "Num Episodes": 5
+                },
+                "5": {
+                    "ID": "5658812",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/5658812",
+                    "Titles": {
+                        "eng": "OVA - 5",
+                        "jpn": "友よまた逢おう"
+                    },
+                    "Aliases": [],
+                    "Episode #": 5,
+                    "Num Episodes": 5
+                }
+            }
+        },
+        "1": {
+            "ID": "507004",
+            "URL": "https://thetvdb.com/series/whirlwind-iron-leaguer/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 52,
+            "Episodes": {
+                "1": {
+                    "ID": "4451877",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451877",
+                    "Titles": {
+                        "eng": "My Name is Ace!",
+                        "jpn": "俺の名はエース！"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4451879",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451879",
+                    "Titles": {
+                        "eng": "Our First Victory!",
+                        "jpn": "俺たちの初勝利！"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4451880",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451880",
+                    "Titles": {
+                        "eng": "Open Your Eyes Angry Bull",
+                        "jpn": "目をさませケンカ牛"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4451888",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451888",
+                    "Titles": {
+                        "eng": "Magic Pitch 44 Sonic",
+                        "jpn": "魔球44ソニック"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4451890",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451890",
+                    "Titles": {
+                        "eng": "Versus! Sword and Magic Pitch",
+                        "jpn": "対決！剣と魔球"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4451892",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451892",
+                    "Titles": {
+                        "eng": "The Miracle Invoking Last Batter",
+                        "jpn": "奇跡を呼ぶ最終打席"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4451894",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451894",
+                    "Titles": {
+                        "eng": "The Mysterious Newbie Topjoy",
+                        "jpn": "謎の新人トップジョイ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4451895",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451895",
+                    "Titles": {
+                        "eng": "Go For It, Ryuken!",
+                        "jpn": "リュウケンがんばる！"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4451896",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451896",
+                    "Titles": {
+                        "eng": "The Street Basketball Trap",
+                        "jpn": "ストリートバスケの罠"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4451897",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451897",
+                    "Titles": {
+                        "eng": "Magnum Ace's Secret",
+                        "jpn": "マグナムエースの秘密"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4451898",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451898",
+                    "Titles": {
+                        "eng": "Field of Rampage!",
+                        "jpn": "暴走のフィールド！"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4451899",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451899",
+                    "Titles": {
+                        "eng": "Encounter! His Name is GZ",
+                        "jpn": "遭遇！奴の名はＧＺ"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4451900",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451900",
+                    "Titles": {
+                        "eng": "The Burning Glacial Plain",
+                        "jpn": "燃える大氷原"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4451901",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451901",
+                    "Titles": {
+                        "eng": "Clash! The Seven Heroes",
+                        "jpn": "激突！七人の勇者"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4451902",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451902",
+                    "Titles": {
+                        "eng": "The Wounded Rush!",
+                        "jpn": "傷だらけの激走！"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4451903",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451903",
+                    "Titles": {
+                        "eng": "The Storm-Bringing Finishing Shot!",
+                        "jpn": "嵐が呼ぶ必殺シュート"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4451904",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451904",
+                    "Titles": {
+                        "eng": "The Life-or-Death Challenge!",
+                        "jpn": "命懸けの大挑戦！"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4451905",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451905",
+                    "Titles": {
+                        "eng": "Shine! Silver Spirit",
+                        "jpn": "輝け！シルバー魂"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4451906",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451906",
+                    "Titles": {
+                        "eng": "nineteen",
+                        "jpn": "ゴールド三兄弟の逆襲"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4451907",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451907",
+                    "Titles": {
+                        "eng": "twenty",
+                        "jpn": "閃光のシュート炸裂！"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4451908",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451908",
+                    "Titles": {
+                        "eng": "twenty one",
+                        "jpn": "地獄からの最強部隊"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4451910",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451910",
+                    "Titles": {
+                        "eng": "twenty two",
+                        "jpn": "限りなき大勝利"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4451911",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451911",
+                    "Titles": {
+                        "eng": "twenty three",
+                        "jpn": "悪夢の強制引退"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "4451912",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451912",
+                    "Titles": {
+                        "eng": "twenty four",
+                        "jpn": "蘇れ！炎のライバル"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "4451913",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451913",
+                    "Titles": {
+                        "eng": "twenty five",
+                        "jpn": "自由への大脱出"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "4451914",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451914",
+                    "Titles": {
+                        "eng": "twenty six",
+                        "jpn": "新たなる使命！"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "4451915",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451915",
+                    "Titles": {
+                        "eng": "twenty seven",
+                        "jpn": "戦え！密林バスケ"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "4451916",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451916",
+                    "Titles": {
+                        "eng": "twenty eight",
+                        "jpn": "熱球のダイヤモンド"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "4451918",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451918",
+                    "Titles": {
+                        "eng": "twenty nine",
+                        "jpn": "電撃アタック作戦"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "4451919",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451919",
+                    "Titles": {
+                        "eng": "thirty",
+                        "jpn": "ＧＺ危機一髪！"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "4451920",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451920",
+                    "Titles": {
+                        "eng": "thirty one",
+                        "jpn": "幻のチャンピオン"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "4451921",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451921",
+                    "Titles": {
+                        "eng": "thirty two",
+                        "jpn": "熱砂の大盗賊"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "4451922",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451922",
+                    "Titles": {
+                        "eng": "thirty three",
+                        "jpn": "炎熱の秘密兵器"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "4451923",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451923",
+                    "Titles": {
+                        "eng": "thirty four",
+                        "jpn": "暁に消えた伝説"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "4451925",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451925",
+                    "Titles": {
+                        "eng": "thirty five",
+                        "jpn": "走れ！ブルアーマー"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "4451926",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451926",
+                    "Titles": {
+                        "eng": "thirty six",
+                        "jpn": "荒野のアイアンボウラー"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "4451927",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451927",
+                    "Titles": {
+                        "eng": "thirty seven",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "4451928",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451928",
+                    "Titles": {
+                        "eng": "thirty eight",
+                        "jpn": "はぐれリーガーの絆"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "4451929",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451929",
+                    "Titles": {
+                        "eng": "thirty nine",
+                        "jpn": "運命の大決戦！"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "4451930",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451930",
+                    "Titles": {
+                        "eng": "forty",
+                        "jpn": "燃えつきぬ闘志！"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "4451931",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451931",
+                    "Titles": {
+                        "eng": "forty one",
+                        "jpn": "魂の勝利宣言"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "4451932",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451932",
+                    "Titles": {
+                        "eng": "forty two",
+                        "jpn": "激戦！ワールドツアー"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "4451934",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451934",
+                    "Titles": {
+                        "eng": "forty three",
+                        "jpn": "強敵！ファイター兄弟"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "4451935",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451935",
+                    "Titles": {
+                        "eng": "forty four",
+                        "jpn": "見えない突破口"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "4451936",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451936",
+                    "Titles": {
+                        "eng": "forty five",
+                        "jpn": "打ち砕かれた魔球"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "4451937",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451937",
+                    "Titles": {
+                        "eng": "forty six",
+                        "jpn": "熱きチームワーク復活"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "4451938",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451938",
+                    "Titles": {
+                        "eng": "forty seven",
+                        "jpn": "熱戦！嵐のスタジアム"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "4451939",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451939",
+                    "Titles": {
+                        "eng": "forty eight",
+                        "jpn": "心の霧を打ちはらえ！"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "4451940",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451940",
+                    "Titles": {
+                        "eng": "forty nine",
+                        "jpn": "目覚めた記憶"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "4451941",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451941",
+                    "Titles": {
+                        "eng": "fifty",
+                        "jpn": "地上最大のキックオフ！"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "4451942",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451942",
+                    "Titles": {
+                        "eng": "fifty one",
+                        "jpn": "終わりなき大勝負！"
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "4451943",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/whirlwind-iron-leaguer/episodes/4451943",
+                    "Titles": {
+                        "eng": "fifty two",
+                        "jpn": "勝利への大行進"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

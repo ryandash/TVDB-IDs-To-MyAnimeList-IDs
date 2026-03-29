@@ -1,0 +1,328 @@
+{
+    "URL": "https://thetvdb.com/series/kono-oto-tomare-sounds-of-life",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Musical",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt9886006/",
+        "http://www.konooto-anime.jp/",
+        "https://www.themoviedb.org/tv/85843",
+        "https://x.com/konooto_anime"
+    ],
+    "Titles": {
+        "eng": "Kono Oto Tomare!: Sounds of Life",
+        "jpn": "この音とまれ！"
+    },
+    "Aliases": [
+        "Sounds of Life",
+        "Stop at this Sound!",
+        "Stop this Sound!",
+        "Kono Oto Tomare!",
+        "Kono Oto Tomare"
+    ],
+    "Modified": "2026-01-12",
+    "Seasons": {
+        "1": {
+            "ID": "800117",
+            "URL": "https://thetvdb.com/series/kono-oto-tomare-sounds-of-life/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "7061426",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7061426",
+                    "Titles": {
+                        "eng": "New Club Members",
+                        "jpn": "新入部員"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7110309",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7110309",
+                    "Titles": {
+                        "eng": "Having What It Takes",
+                        "jpn": "資格の在処"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7110311",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7110311",
+                    "Titles": {
+                        "eng": "The Koto Club Reborn",
+                        "jpn": "新生箏曲部始動"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7110312",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7110312",
+                    "Titles": {
+                        "eng": "The First Resounding Note",
+                        "jpn": "初めての響き"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7110314",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7110314",
+                    "Titles": {
+                        "eng": "Let Our Sound Resound and Reach Them",
+                        "jpn": "響き届け　僕らの音"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "7110315",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7110315",
+                    "Titles": {
+                        "eng": "An Invisible Boundary",
+                        "jpn": "見えない境界線"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "7110317",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7110317",
+                    "Titles": {
+                        "eng": "Unknown Sounds",
+                        "jpn": "知られざる音の葉"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "7110318",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7110318",
+                    "Titles": {
+                        "eng": "A Sign",
+                        "jpn": "みちしるべ"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "7110320",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7110320",
+                    "Titles": {
+                        "eng": "A Piercing Sound",
+                        "jpn": "突き刺さる言の音"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "7110321",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7110321",
+                    "Titles": {
+                        "eng": "Near Yet Far",
+                        "jpn": "近くて遠い距離"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "7110322",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7110322",
+                    "Titles": {
+                        "eng": "The Sound We Were Searching For",
+                        "jpn": "探してた音"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "7110324",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7110324",
+                    "Titles": {
+                        "eng": "Rivals",
+                        "jpn": "ライバル"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "7244970",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7244970",
+                    "Titles": {
+                        "eng": "Kuon",
+                        "jpn": "久遠"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "7384495",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7384495",
+                    "Titles": {
+                        "eng": "A Step Forward",
+                        "jpn": "一歩前へ"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "7384501",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7384501",
+                    "Titles": {
+                        "eng": "Becoming Aware",
+                        "jpn": "きづき"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "7384504",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7384504",
+                    "Titles": {
+                        "eng": "Their Time",
+                        "jpn": "二人の時間"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "7389826",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7389826",
+                    "Titles": {
+                        "eng": "Reunion",
+                        "jpn": "再会"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "7389837",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7389837",
+                    "Titles": {
+                        "eng": "Their Determination",
+                        "jpn": "それぞれの決意"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "7430564",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7430564",
+                    "Titles": {
+                        "eng": "Confrontation",
+                        "jpn": "対峙"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "7430567",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7430567",
+                    "Titles": {
+                        "eng": "Another Chance",
+                        "jpn": "もう一度"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "7466960",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7466960",
+                    "Titles": {
+                        "eng": "Meaning and Role",
+                        "jpn": "意味と役割"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "7466961",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7466961",
+                    "Titles": {
+                        "eng": "Morning of the Showdown",
+                        "jpn": "決戦の朝"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "7466962",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7466962",
+                    "Titles": {
+                        "eng": "Champions' Resolve",
+                        "jpn": "王者の覚悟"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "7466964",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7466964",
+                    "Titles": {
+                        "eng": "Beyond the Right Answer",
+                        "jpn": "正解のその先"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "7467241",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7467241",
+                    "Titles": {
+                        "eng": "\"Tenkyu\"",
+                        "jpn": "天泣"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "7467242",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kono-oto-tomare-sounds-of-life/episodes/7467242",
+                    "Titles": {
+                        "eng": "Starting Line",
+                        "jpn": "スタートライン"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

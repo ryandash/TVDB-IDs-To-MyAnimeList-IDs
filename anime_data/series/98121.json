@@ -1,0 +1,80 @@
+{
+    "URL": "https://thetvdb.com/series/yawaraka-sangokushi-tsukisase-ryofuko-chan",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "http://king-cr.jp/special/ryofuko/",
+        "https://www.themoviedb.org/tv/45161",
+        "https://www.themoviedb.org/tv/45161"
+    ],
+    "Titles": {
+        "eng": "Yawaraka Sangokushi Tsukisase!! Ryofuko-chan",
+        "jpn": null
+    },
+    "Aliases": [
+        "Ryofuko-chan"
+    ],
+    "Modified": "2025-06-18",
+    "Seasons": {
+        "1": {
+            "ID": "75301",
+            "URL": "https://thetvdb.com/series/yawaraka-sangokushi-tsukisase-ryofuko-chan/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "729591",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yawaraka-sangokushi-tsukisase-ryofuko-chan/episodes/729591",
+                    "Titles": {
+                        "eng": "Incident No. 1 / Incident No. 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "729601",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yawaraka-sangokushi-tsukisase-ryofuko-chan/episodes/729601",
+                    "Titles": {
+                        "eng": "Incident No. 3 / Incident No. 4",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "729611",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yawaraka-sangokushi-tsukisase-ryofuko-chan/episodes/729611",
+                    "Titles": {
+                        "eng": "Incident No. 5 / Incident No. 5 (Part 2) / Incident No. 6",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "729621",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yawaraka-sangokushi-tsukisase-ryofuko-chan/episodes/729621",
+                    "Titles": {
+                        "eng": "Incident No. 7 / Incident No. 8",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

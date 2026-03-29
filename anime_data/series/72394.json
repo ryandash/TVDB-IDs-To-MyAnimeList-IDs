@@ -1,0 +1,642 @@
+{
+    "URL": "https://thetvdb.com/series/project-arms",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0429416/",
+        "https://www.themoviedb.org/tv/34857"
+    ],
+    "Titles": {
+        "eng": "Project Arms",
+        "jpn": "PROJECT ARMS"
+    },
+    "Aliases": [],
+    "Modified": "2026-01-10",
+    "Seasons": {
+        "0": {
+            "ID": "19861",
+            "URL": "https://thetvdb.com/series/project-arms/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "4118988",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/4118988",
+                    "Titles": {
+                        "eng": "Influence",
+                        "jpn": "影響"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "4067",
+            "URL": "https://thetvdb.com/series/project-arms/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "84482",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84482",
+                    "Titles": {
+                        "eng": "Vibration",
+                        "jpn": "共振"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "84483",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84483",
+                    "Titles": {
+                        "eng": "Trance",
+                        "jpn": "発動"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "84484",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84484",
+                    "Titles": {
+                        "eng": "Nightmare",
+                        "jpn": "悪夢"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "84485",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84485",
+                    "Titles": {
+                        "eng": "Intercept",
+                        "jpn": "迎撃"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "84486",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84486",
+                    "Titles": {
+                        "eng": "Counterattack",
+                        "jpn": "反撃"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "84487",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84487",
+                    "Titles": {
+                        "eng": "Flash",
+                        "jpn": "瞬撃"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "84488",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84488",
+                    "Titles": {
+                        "eng": "Trust",
+                        "jpn": "共闘"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "84489",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84489",
+                    "Titles": {
+                        "eng": "Stranger",
+                        "jpn": "異郷"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "84490",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84490",
+                    "Titles": {
+                        "eng": "Illusion",
+                        "jpn": "魔境"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "84491",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84491",
+                    "Titles": {
+                        "eng": "Jabberwock",
+                        "jpn": "魔獣"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "84492",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84492",
+                    "Titles": {
+                        "eng": "Evolution",
+                        "jpn": "覚醒"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "84493",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84493",
+                    "Titles": {
+                        "eng": "Beat",
+                        "jpn": "鼓動"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "84494",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84494",
+                    "Titles": {
+                        "eng": "Blue Men",
+                        "jpn": "組織"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "84495",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84495",
+                    "Titles": {
+                        "eng": "Welcome Rain",
+                        "jpn": "慈雨"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "84496",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84496",
+                    "Titles": {
+                        "eng": "Showtime",
+                        "jpn": "魔宴"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "84497",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84497",
+                    "Titles": {
+                        "eng": "Satan (The Devil Cliff)",
+                        "jpn": "魔王"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "84498",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84498",
+                    "Titles": {
+                        "eng": "Heaven (Advent)",
+                        "jpn": "降臨"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "84499",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84499",
+                    "Titles": {
+                        "eng": "Gehenna",
+                        "jpn": "業火"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "84500",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84500",
+                    "Titles": {
+                        "eng": "Snark Hunt",
+                        "jpn": "狩場"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "84501",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84501",
+                    "Titles": {
+                        "eng": "Crisis",
+                        "jpn": "危機"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "84502",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84502",
+                    "Titles": {
+                        "eng": "Wish",
+                        "jpn": "希望"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "84503",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84503",
+                    "Titles": {
+                        "eng": "Knight",
+                        "jpn": "騎士"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "84504",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84504",
+                    "Titles": {
+                        "eng": "White Rabbit",
+                        "jpn": "白兎"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "84505",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84505",
+                    "Titles": {
+                        "eng": "Venom",
+                        "jpn": "猛毒"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "84506",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84506",
+                    "Titles": {
+                        "eng": "Judgement",
+                        "jpn": "審判"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "84507",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84507",
+                    "Titles": {
+                        "eng": "Fly",
+                        "jpn": "邂逅"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "4068",
+            "URL": "https://thetvdb.com/series/project-arms/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "84508",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84508",
+                    "Titles": {
+                        "eng": "Arrive",
+                        "jpn": "遠来"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "84509",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84509",
+                    "Titles": {
+                        "eng": "Hound",
+                        "jpn": "猟犬"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "84510",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84510",
+                    "Titles": {
+                        "eng": "Hunter",
+                        "jpn": "闘士"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "84511",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84511",
+                    "Titles": {
+                        "eng": "Link",
+                        "jpn": "信頼"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "84512",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84512",
+                    "Titles": {
+                        "eng": "Hercules",
+                        "jpn": "来襲"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "84513",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84513",
+                    "Titles": {
+                        "eng": "Incubation",
+                        "jpn": "孵化"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "84514",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84514",
+                    "Titles": {
+                        "eng": "Mars",
+                        "jpn": "火神"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "84515",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84515",
+                    "Titles": {
+                        "eng": "Canary",
+                        "jpn": "鳥篭"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "84516",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84516",
+                    "Titles": {
+                        "eng": "Silent",
+                        "jpn": "静寂"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "84517",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84517",
+                    "Titles": {
+                        "eng": "Stream",
+                        "jpn": "奔流"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "84518",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84518",
+                    "Titles": {
+                        "eng": "Forward",
+                        "jpn": "前進"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "84519",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84519",
+                    "Titles": {
+                        "eng": "Coma",
+                        "jpn": "昏睡"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "84520",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84520",
+                    "Titles": {
+                        "eng": "Element",
+                        "jpn": "火水"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "84521",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84521",
+                    "Titles": {
+                        "eng": "Reverse",
+                        "jpn": "復活"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "84522",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84522",
+                    "Titles": {
+                        "eng": "Drakken",
+                        "jpn": "離反"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "84523",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84523",
+                    "Titles": {
+                        "eng": "Alice",
+                        "jpn": "誕生"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "84524",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84524",
+                    "Titles": {
+                        "eng": "Turn",
+                        "jpn": "転回"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "84525",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84525",
+                    "Titles": {
+                        "eng": "Arcadia",
+                        "jpn": "幻境"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "84526",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84526",
+                    "Titles": {
+                        "eng": "Killing Field",
+                        "jpn": "戦場"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "84527",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84527",
+                    "Titles": {
+                        "eng": "Fortress",
+                        "jpn": "要塞"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "84528",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84528",
+                    "Titles": {
+                        "eng": "Junction",
+                        "jpn": "交錯"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "84529",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84529",
+                    "Titles": {
+                        "eng": "Human",
+                        "jpn": "人間"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "84530",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84530",
+                    "Titles": {
+                        "eng": "Liberation",
+                        "jpn": "黙示"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "84531",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84531",
+                    "Titles": {
+                        "eng": "Animus",
+                        "jpn": "世界"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "84532",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84532",
+                    "Titles": {
+                        "eng": "Blue Wish",
+                        "jpn": "青空"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "84533",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/project-arms/episodes/84533",
+                    "Titles": {
+                        "eng": "Life",
+                        "jpn": "帰還"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

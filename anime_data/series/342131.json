@@ -1,0 +1,511 @@
+{
+    "URL": "https://thetvdb.com/series/radiant",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt9225320/",
+        "https://anime-radiant.com/",
+        "https://www.themoviedb.org/tv/82879",
+        "https://x.com/nep_radiant"
+    ],
+    "Titles": {
+        "eng": "Radiant",
+        "jpn": "ラディアン"
+    },
+    "Aliases": [
+        "ラディアン (2018)"
+    ],
+    "Modified": "2026-01-12",
+    "Seasons": {
+        "1": {
+            "ID": "749769",
+            "URL": "https://thetvdb.com/series/radiant/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 21,
+            "Episodes": {
+                "1": {
+                    "ID": "6531461",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/6531461",
+                    "Titles": {
+                        "eng": "The Young Sorcerer -Seth-",
+                        "jpn": "魔法使いの少年"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6840573",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/6840573",
+                    "Titles": {
+                        "eng": "True Courage -Bravery-",
+                        "jpn": "本当の勇気"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6840574",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/6840574",
+                    "Titles": {
+                        "eng": "Day of Departure -Alma-",
+                        "jpn": "旅立ちの日"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6840575",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/6840575",
+                    "Titles": {
+                        "eng": "A Meeting in the Sky -Encounter-",
+                        "jpn": "大空の出会い"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6876061",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/6876061",
+                    "Titles": {
+                        "eng": "A Paradise of Wisdom and Hope -Artemis-",
+                        "jpn": "英知と希望の楽園"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6876064",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/6876064",
+                    "Titles": {
+                        "eng": "Drops of Friendship -Melie-",
+                        "jpn": "友情の雫"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6876070",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/6876070",
+                    "Titles": {
+                        "eng": "The Sewer Dweller -Monster-",
+                        "jpn": "地下水道に潜む者"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6876076",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/6876076",
+                    "Titles": {
+                        "eng": "Proof of Strength -Progress-",
+                        "jpn": "強さの証明"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6890972",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/6890972",
+                    "Titles": {
+                        "eng": "Those Who Hunt Heretics -Inquisition-",
+                        "jpn": "異端を狩る者たち"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6924071",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/6924071",
+                    "Titles": {
+                        "eng": "Broom of Memories -Memory-",
+                        "jpn": "思い出の箒"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6924076",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/6924076",
+                    "Titles": {
+                        "eng": "The City That Roars Like Thunder -Rumble Town-",
+                        "jpn": "轟音と喧騒の街"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6924194",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/6924194",
+                    "Titles": {
+                        "eng": "The Shadow Lurking in the City -Darkness-",
+                        "jpn": "街に巣食う闇"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "6924196",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/6924196",
+                    "Titles": {
+                        "eng": "Overture of Turbulence -Storm-",
+                        "jpn": "動乱序曲"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "6924198",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/6924198",
+                    "Titles": {
+                        "eng": "The Bell Tolls the Sound of Destruction -Catastrophe-",
+                        "jpn": "崩壊の鐘の音"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "6924200",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/6924200",
+                    "Titles": {
+                        "eng": "With Fists Like Shooting Stars -Burst-",
+                        "jpn": "その拳は流星のように"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "6924201",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/6924201",
+                    "Titles": {
+                        "eng": "Fly High and Pierce Through the Storm -Rising-",
+                        "jpn": "嵐穿ち舞い上がれ"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "6924203",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/6924203",
+                    "Titles": {
+                        "eng": "To Stop the Sound of the Wind -Serenade-",
+                        "jpn": "いま風の音を止めて"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "6924206",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/6924206",
+                    "Titles": {
+                        "eng": "The Light That Follows the Darkness -Awakening-",
+                        "jpn": "闇のあとの光"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "6924207",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/6924207",
+                    "Titles": {
+                        "eng": "The World That You Changed -Relief-",
+                        "jpn": "君が変えた世界"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "6924210",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/6924210",
+                    "Titles": {
+                        "eng": "Omen -Sign-",
+                        "jpn": "予兆"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "6924215",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/6924215",
+                    "Titles": {
+                        "eng": "In Search of the Future -Utopia-",
+                        "jpn": "未来を求めて"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "799871",
+            "URL": "https://thetvdb.com/series/radiant/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 21,
+            "Episodes": {
+                "1": {
+                    "ID": "7057963",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/7057963",
+                    "Titles": {
+                        "eng": "Toward a New Adventure -Overture-",
+                        "jpn": "新たなる冒険へ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7380638",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/7380638",
+                    "Titles": {
+                        "eng": "An Encounter in the Rain -Mist-",
+                        "jpn": "霧雨の邂逅（かいこう）"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7380640",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/7380640",
+                    "Titles": {
+                        "eng": "The City of Knights -Caislean Merlin-",
+                        "jpn": "騎士の都"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7380643",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/7380643",
+                    "Titles": {
+                        "eng": "The Bringer of Calamity -Dullahan-",
+                        "jpn": "災いをよぶ者"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7380647",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/7380647",
+                    "Titles": {
+                        "eng": "Silent Rain, Distant Hearts -Rain-",
+                        "jpn": "雨音静かに心は遠く"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "7380651",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/7380651",
+                    "Titles": {
+                        "eng": "His Name Is -Diabal-",
+                        "jpn": "彼（か）の者の名は"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "7380655",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/7380655",
+                    "Titles": {
+                        "eng": "The Spectre Battle -Spectre-",
+                        "jpn": "スペクトル攻防戦"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "7380659",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/7380659",
+                    "Titles": {
+                        "eng": "Seth in the Forest of Time -Caillte-",
+                        "jpn": "時の森のセト"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "7380663",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/7380663",
+                    "Titles": {
+                        "eng": "The Palace of Schemes -Palace-",
+                        "jpn": "謀略の王宮"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "7380665",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/7380665",
+                    "Titles": {
+                        "eng": "The Qualifications of a Knight -Quality-",
+                        "jpn": "騎士の資格"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "7380667",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/7380667",
+                    "Titles": {
+                        "eng": "Now, Feel the World -Resonance-",
+                        "jpn": "いま世界を感じて"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "7380670",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/7380670",
+                    "Titles": {
+                        "eng": "The Truth Is Like a Curse -Ocoho-",
+                        "jpn": "真実は呪いのように"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "7380672",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/7380672",
+                    "Titles": {
+                        "eng": "Your Decision -Knighthood-",
+                        "jpn": "君の決意"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "7380676",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/7380676",
+                    "Titles": {
+                        "eng": "The Final Battlefield -Battlefield-",
+                        "jpn": "決戦の大地"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "7380677",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/7380677",
+                    "Titles": {
+                        "eng": "Led to the Abyss by a Melody of Death -Harmonizium-",
+                        "jpn": "奈落へ誘（いざな）う滅びの調べ"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "7380680",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/7380680",
+                    "Titles": {
+                        "eng": "The Light of Life is Extinguished -Tragedy-",
+                        "jpn": "消えゆく命の灯火（ともしび）"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "7380683",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/7380683",
+                    "Titles": {
+                        "eng": "The Black Dragon Descends -Pen Draig-",
+                        "jpn": "黒き竜は舞い降りた"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "7380688",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/7380688",
+                    "Titles": {
+                        "eng": "The Will of the People Shines Bright -Resistance-",
+                        "jpn": "輝くは人の意思"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "7380692",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/7380692",
+                    "Titles": {
+                        "eng": "I Can't Hear Your Voice -Myrddin-",
+                        "jpn": "君の声が聞こえない"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "7380695",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/7380695",
+                    "Titles": {
+                        "eng": "A Bouquet of Flowers for This Land -Fantasia-",
+                        "jpn": "この大地に花束を"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "7380697",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/radiant/episodes/7380697",
+                    "Titles": {
+                        "eng": "The Future is With You -Eternity-",
+                        "jpn": "未来は君とともに"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

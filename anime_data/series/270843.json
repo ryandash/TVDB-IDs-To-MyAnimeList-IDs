@@ -1,0 +1,61 @@
+{
+    "URL": "https://thetvdb.com/series/ashiaraiyashiki-no-juunintachi",
+    "Genres": [],
+    "Other Sites": [],
+    "Titles": {
+        "eng": "Ashiaraiyashiki no Juunintachi",
+        "jpn": "足洗邸の住人たち。"
+    },
+    "Aliases": [
+        "Ashiaraiyashiki no Juunin-tachi."
+    ],
+    "Modified": "2022-07-29",
+    "Seasons": {
+        "0": {
+            "ID": "522951",
+            "URL": "https://thetvdb.com/series/ashiaraiyashiki-no-juunintachi/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "4595835",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ashiaraiyashiki-no-juunintachi/episodes/4595835",
+                    "Titles": {
+                        "eng": "OVA",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "1825522",
+            "URL": "https://thetvdb.com/series/ashiaraiyashiki-no-juunintachi/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "7621503",
+                    "TYPE": "OVA",
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ashiaraiyashiki-no-juunintachi/episodes/7621503",
+                    "Titles": {
+                        "eng": "OVA",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

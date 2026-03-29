@@ -1,0 +1,712 @@
+{
+    "URL": "https://thetvdb.com/series/tsubasa-reservoir-chronicle",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Fantasy",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0477543/",
+        "https://www.themoviedb.org/tv/37565"
+    ],
+    "Titles": {
+        "eng": "Tsubasa: RESERVoir CHRoNiCLE",
+        "jpn": "ツバサ・クロニクル"
+    },
+    "Aliases": [
+        "Tsubasa Chronicle",
+        "Tsubasa Kuronikuru",
+        "Tsubasa Reservoir Chronicle",
+        "ツバサ-RESERVoir CHRoNiCLE-"
+    ],
+    "Modified": "2026-01-10",
+    "Seasons": {
+        "0": {
+            "ID": "23481",
+            "URL": "https://thetvdb.com/series/tsubasa-reservoir-chronicle/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "379777",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/379777",
+                    "Titles": {
+                        "eng": "The Princess of the Country of Birdcages",
+                        "jpn": "鳥カゴの国の姫君"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "4924635",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/4924635",
+                    "Titles": {
+                        "eng": "Tokyo Revelations 1 - The Magician's Message",
+                        "jpn": "Tokyo Revelations 魔術師の伝言"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "4924636",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/4924636",
+                    "Titles": {
+                        "eng": "Tokyo Revelations 2 - The Boy's Right Eye",
+                        "jpn": "Tokyo Revelations 少年の右目"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "4924637",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/4924637",
+                    "Titles": {
+                        "eng": "Tokyo Revelations 3 - The Dream that the Princess Saw",
+                        "jpn": "Tokyo Revelations 姫君の視た夢"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "5": {
+                    "ID": "5049990",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/5049990",
+                    "Titles": {
+                        "eng": "Spring Thunder Chronicles (1)",
+                        "jpn": "ツバサ春雷記 (前編)"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "6": {
+                    "ID": "5049994",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/5049994",
+                    "Titles": {
+                        "eng": "Spring Thunder Chronicles (2)",
+                        "jpn": "ツバサ春雷記 (後編)"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        },
+        "1": {
+            "ID": "9562",
+            "URL": "https://thetvdb.com/series/tsubasa-reservoir-chronicle/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "181761",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/181761",
+                    "Titles": {
+                        "eng": "Destinies Converge",
+                        "jpn": "必然のデアイ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "181762",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/181762",
+                    "Titles": {
+                        "eng": "The Power to Fight",
+                        "jpn": "戦うチカラ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "181763",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/181763",
+                    "Titles": {
+                        "eng": "Sword of Demon Destruction",
+                        "jpn": "破魔のカタナ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "181764",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/181764",
+                    "Titles": {
+                        "eng": "Innocent Wandering",
+                        "jpn": "汚れなき放浪"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "181765",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/181765",
+                    "Titles": {
+                        "eng": "The Battle of the Mage",
+                        "jpn": "魔術師のバトル"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "181766",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/181766",
+                    "Titles": {
+                        "eng": "Unshed Tears",
+                        "jpn": "泣かないナミダ"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "181767",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/181767",
+                    "Titles": {
+                        "eng": "The Broken Memento",
+                        "jpn": "砕けたカタミ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "181768",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/181768",
+                    "Titles": {
+                        "eng": "God's Beloved Daughter",
+                        "jpn": "神の愛娘"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "181769",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/181769",
+                    "Titles": {
+                        "eng": "Princess of Shadows",
+                        "jpn": "妖しきオンナ"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "323168",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/323168",
+                    "Titles": {
+                        "eng": "Mirror of Separation",
+                        "jpn": "別離のカガミ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "323169",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/323169",
+                    "Titles": {
+                        "eng": "The Chosen Tomorrow",
+                        "jpn": "選ばれたアシタ"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "323170",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/323170",
+                    "Titles": {
+                        "eng": "A Warm Smile",
+                        "jpn": "暖かなエガオ"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "323171",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/323171",
+                    "Titles": {
+                        "eng": "Advocate of Illusions",
+                        "jpn": "まぼろしのオトギ"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "323172",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/323172",
+                    "Titles": {
+                        "eng": "Truth In History",
+                        "jpn": "真実のレキシ"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "323173",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/323173",
+                    "Titles": {
+                        "eng": "A Heart that Believes",
+                        "jpn": "信じるココロ"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "323174",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/323174",
+                    "Titles": {
+                        "eng": "Strength and Kindness",
+                        "jpn": "強さと優しさ"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "323175",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/323175",
+                    "Titles": {
+                        "eng": "Demon Hunters",
+                        "jpn": "桜の国のカフェ"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "323176",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/323176",
+                    "Titles": {
+                        "eng": "Cats and Dogs",
+                        "jpn": "にゃんことワンコ"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "323177",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/323177",
+                    "Titles": {
+                        "eng": "Resolution to Live",
+                        "jpn": "生きるカクゴ"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "323178",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/323178",
+                    "Titles": {
+                        "eng": "The Afternoon Piano",
+                        "jpn": "午後のピアノ"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "323179",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/323179",
+                    "Titles": {
+                        "eng": "The Demon's True Face",
+                        "jpn": "鬼児のスガオ"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "323180",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/323180",
+                    "Titles": {
+                        "eng": "Indelible Memory",
+                        "jpn": "消せないキオク"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "323181",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/323181",
+                    "Titles": {
+                        "eng": "The Fading Life",
+                        "jpn": "消えゆくイノチ"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "323182",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/323182",
+                    "Titles": {
+                        "eng": "Blade of a Desperate Fight",
+                        "jpn": "死闘のヤイバ"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "323183",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/323183",
+                    "Titles": {
+                        "eng": "The Ultimate Game",
+                        "jpn": "究極のゲーム"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "323184",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/323184",
+                    "Titles": {
+                        "eng": "The Last Wish",
+                        "jpn": "最後の願い"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "16493",
+            "URL": "https://thetvdb.com/series/tsubasa-reservoir-chronicle/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "310260",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/310260",
+                    "Titles": {
+                        "eng": "Dangerous Race",
+                        "jpn": "危険なレース"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "310261",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/310261",
+                    "Titles": {
+                        "eng": "The Three Badges",
+                        "jpn": "三つのバッジ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "310262",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/310262",
+                    "Titles": {
+                        "eng": "Goal of Glory",
+                        "jpn": "栄光のゴール"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "310263",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/310263",
+                    "Titles": {
+                        "eng": "Sorrowful Miracle",
+                        "jpn": "哀しいキセキ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "310264",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/310264",
+                    "Titles": {
+                        "eng": "A Young Man's Resolve",
+                        "jpn": "少年のケツイ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "310265",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/310265",
+                    "Titles": {
+                        "eng": "A Date with the Wizard",
+                        "jpn": "魔術師とデート"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "310266",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/310266",
+                    "Titles": {
+                        "eng": "The Origins of Ashura",
+                        "jpn": "阿修羅のイワレ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "310267",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/310267",
+                    "Titles": {
+                        "eng": "Endless War",
+                        "jpn": "終わりなきイクサ"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "310268",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/310268",
+                    "Titles": {
+                        "eng": "Two Memories",
+                        "jpn": "ふたつのキオク"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "310269",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/310269",
+                    "Titles": {
+                        "eng": "Love That Transcends Time",
+                        "jpn": "時をこえるオモイ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "310270",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/310270",
+                    "Titles": {
+                        "eng": "Mokona the Artist",
+                        "jpn": "おえかきモコナ"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "310271",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/310271",
+                    "Titles": {
+                        "eng": "Dangerous Road",
+                        "jpn": "危険なロード"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "310272",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/310272",
+                    "Titles": {
+                        "eng": "Parting of Beginnings",
+                        "jpn": "始まりのワカレ"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "310273",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/310273",
+                    "Titles": {
+                        "eng": "Black Steel",
+                        "jpn": "黒き鋼"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "310274",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/310274",
+                    "Titles": {
+                        "eng": "Secret of the Library",
+                        "jpn": "図書館のヒミツ"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "310275",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/310275",
+                    "Titles": {
+                        "eng": "Faraway Homesickness",
+                        "jpn": "望郷のカナタ"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "310276",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/310276",
+                    "Titles": {
+                        "eng": "The Fifth Oath",
+                        "jpn": "五つ目のチカイ"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "310277",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/310277",
+                    "Titles": {
+                        "eng": "Kero and Mokona",
+                        "jpn": "ケロちゃんとモコナ"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "310278",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/310278",
+                    "Titles": {
+                        "eng": "The Second Hardship",
+                        "jpn": "二度目のクナン"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "310279",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/310279",
+                    "Titles": {
+                        "eng": "The Secret of Hijutsu",
+                        "jpn": "秘術のゴクイ"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "310280",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/310280",
+                    "Titles": {
+                        "eng": "Sakura Works",
+                        "jpn": "はたらくサクラ"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "310281",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/310281",
+                    "Titles": {
+                        "eng": "Feather-King Chaos",
+                        "jpn": "羽王カオス"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "310282",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/310282",
+                    "Titles": {
+                        "eng": "A Warped Wish",
+                        "jpn": "歪んだネガイ"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "310283",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/310283",
+                    "Titles": {
+                        "eng": "Determined Friends",
+                        "jpn": "決意のナカマ"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "311492",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/311492",
+                    "Titles": {
+                        "eng": "A Frozen Spirit",
+                        "jpn": "凍てつくミタマ"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "312044",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tsubasa-reservoir-chronicle/episodes/312044",
+                    "Titles": {
+                        "eng": "Wings Toward Tomorrow",
+                        "jpn": "明日へのツバサ"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

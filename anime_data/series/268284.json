@@ -1,0 +1,348 @@
+{
+    "URL": "https://thetvdb.com/series/majestic-prince",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2703708/",
+        "https://www.themoviedb.org/tv/53724"
+    ],
+    "Titles": {
+        "eng": "Majestic Prince",
+        "jpn": "銀河機攻隊 マジェスティックプリンス"
+    },
+    "Aliases": [
+        "Ginga Kikoutai Majestic Prince"
+    ],
+    "Modified": "2025-05-28",
+    "Seasons": {
+        "0": {
+            "ID": "516327",
+            "URL": "https://thetvdb.com/series/majestic-prince/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "4611427",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4611427",
+                    "Titles": {
+                        "eng": "Special Edition: It won’t end with Zannen!! (Episode 12.5)",
+                        "jpn": "12.5話 特別編 ザンネンなんかで終わんない!!"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "5779147",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/5779147",
+                    "Titles": {
+                        "eng": "Wings to the Future",
+                        "jpn": "未来への翼"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "5779151",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/5779151",
+                    "Titles": {
+                        "eng": "Majestic Prince: Genetic Awakening",
+                        "jpn": "覚醒の遺伝子"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "516328",
+            "URL": "https://thetvdb.com/series/majestic-prince/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 24,
+            "Episodes": {
+                "1": {
+                    "ID": "4537180",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4537180",
+                    "Titles": {
+                        "eng": "Sortie",
+                        "jpn": "出撃"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4537181",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4537181",
+                    "Titles": {
+                        "eng": "Heroes Are Born",
+                        "jpn": "ヒーロー誕生"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4537182",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4537182",
+                    "Titles": {
+                        "eng": "Surprise Attack",
+                        "jpn": "奇襲"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4537183",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4537183",
+                    "Titles": {
+                        "eng": "Loss",
+                        "jpn": "喪失"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4537184",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4537184",
+                    "Titles": {
+                        "eng": "Operation: Infiltrate a Planetoid Base",
+                        "jpn": "小惑星基地潜入作戦"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4537185",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4537185",
+                    "Titles": {
+                        "eng": "Graduation",
+                        "jpn": "卒業"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4537186",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4537186",
+                    "Titles": {
+                        "eng": "Stronghold of Lust",
+                        "jpn": "欲望の牙城"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4537187",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4537187",
+                    "Titles": {
+                        "eng": "Battle of Ceres",
+                        "jpn": "ケレス大戦"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4537188",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4537188",
+                    "Titles": {
+                        "eng": "Disclosure",
+                        "jpn": "開示"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4537189",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4537189",
+                    "Titles": {
+                        "eng": "The Hunter and the Hunted",
+                        "jpn": "狩るもの、狩られるもの"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4537190",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4537190",
+                    "Titles": {
+                        "eng": "Operation: Ares",
+                        "jpn": "オペレーション・アレス"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4537191",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4537191",
+                    "Titles": {
+                        "eng": "Secret Mission",
+                        "jpn": "シークレットミッション"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4537192",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4537192",
+                    "Titles": {
+                        "eng": "The Aloof Ace",
+                        "jpn": "孤高のエース"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4537193",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4537193",
+                    "Titles": {
+                        "eng": "AHSMB's Shadow",
+                        "jpn": "アッシュの影"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4537194",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4537194",
+                    "Titles": {
+                        "eng": "Defending Vesta",
+                        "jpn": "ヴェスタ防衛"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4537195",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4537195",
+                    "Titles": {
+                        "eng": "Your Hero",
+                        "jpn": "君のヒーロー"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4537196",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4537196",
+                    "Titles": {
+                        "eng": "Defensive Battle at Cosmopolitan Academy (Part 1)",
+                        "jpn": "都市学園防衛戦 (前篇)"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4537197",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4537197",
+                    "Titles": {
+                        "eng": "Defensive Battle at Cosmopolitan Academy (Part 2)",
+                        "jpn": "都市学園防衛戦 (後篇)"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4537198",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4537198",
+                    "Titles": {
+                        "eng": "Deep Recon",
+                        "jpn": "ディープリーコン"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4537199",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4537199",
+                    "Titles": {
+                        "eng": "Genes of Destiny",
+                        "jpn": "宿命の遺伝子"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4537200",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4537200",
+                    "Titles": {
+                        "eng": "Night before the Decisive Battle",
+                        "jpn": "決戦前夜"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4537201",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4537201",
+                    "Titles": {
+                        "eng": "Operation: Heaven's Gate",
+                        "jpn": "オペレーション・ヘヴンズゲート"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4537203",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4537203",
+                    "Titles": {
+                        "eng": "Alea Iacta Est",
+                        "jpn": "アーレア・ヤクタ・エスト"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "4537204",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/majestic-prince/episodes/4537204",
+                    "Titles": {
+                        "eng": "Flowers Falling in Space",
+                        "jpn": "宇宙に散る花"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

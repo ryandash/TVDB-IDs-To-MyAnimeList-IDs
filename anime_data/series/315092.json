@@ -1,0 +1,937 @@
+{
+    "URL": "https://thetvdb.com/series/ninja-girl-and-samurai-master",
+    "Genres": [
+        "Animation",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt6114698/",
+        "https://nobunaga-no-shinobi.com/",
+        "https://www.themoviedb.org/tv/68146"
+    ],
+    "Titles": {
+        "eng": "Ninja Girl & Samurai Master",
+        "jpn": "信長の忍び"
+    },
+    "Aliases": [
+        "Nobunaga no Shinobi"
+    ],
+    "Modified": "2024-12-23",
+    "Seasons": {
+        "0": {
+            "ID": "675778",
+            "URL": "https://thetvdb.com/series/ninja-girl-and-samurai-master/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "5778749",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5778749",
+                    "Titles": {
+                        "eng": "Episode 0",
+                        "jpn": "第0話「信長と見習い忍び」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "675779",
+            "URL": "https://thetvdb.com/series/ninja-girl-and-samurai-master/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "5697403",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5697403",
+                    "Titles": {
+                        "eng": "Let's Go See Nobunaga-sama",
+                        "jpn": "信長様に会いに行こう"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5778751",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5778751",
+                    "Titles": {
+                        "eng": "The Oda Clan and Their Merry Friends",
+                        "jpn": "信長家とゆかいな仲間たち"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5798297",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5798297",
+                    "Titles": {
+                        "eng": "Attack Imagawa-san Next Door",
+                        "jpn": "突撃!!となりの今川さん"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5798552",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5798552",
+                    "Titles": {
+                        "eng": "The Monkey and the Tsundere Girl",
+                        "jpn": "サルとツンデレ娘"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5811184",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5811184",
+                    "Titles": {
+                        "eng": "The Imagawa Army Arrives",
+                        "jpn": "今川軍がやってきた"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5811185",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5811185",
+                    "Titles": {
+                        "eng": "Chidori, Like a Bird",
+                        "jpn": "千鳥、鳥の如く"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5811186",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5811186",
+                    "Titles": {
+                        "eng": "In the Center of Okehazama, Yoshimoto Yells",
+                        "jpn": "桶狭間の中心で、義元がさけぶ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5811187",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5811187",
+                    "Titles": {
+                        "eng": "History Is Full of People",
+                        "jpn": "歴史に人あり"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5842368",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5842368",
+                    "Titles": {
+                        "eng": "The Kiyosu Alliance and Motoyasu's Shinobi",
+                        "jpn": "清洲同盟と元康の忍び"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5842369",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5842369",
+                    "Titles": {
+                        "eng": "The One Who Rules Mino Rules the Land",
+                        "jpn": "美濃を制す者は天下を制す"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5842370",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5842370",
+                    "Titles": {
+                        "eng": "If Your Boss Doesn`t Favor You",
+                        "jpn": "上司にめぐまれなかったら"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5842371",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5842371",
+                    "Titles": {
+                        "eng": "The Genius Is Sickly",
+                        "jpn": "天才は病弱さん"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "5842372",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5842372",
+                    "Titles": {
+                        "eng": "The Situation at Inabayama Castle!!",
+                        "jpn": "風雲‼ 稲葉山城‼"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "5889772",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5889772",
+                    "Titles": {
+                        "eng": "Moving Up in the World Is Hard",
+                        "jpn": "出世は大変でござーる"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "5889773",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5889773",
+                    "Titles": {
+                        "eng": "Let's All Build Sunomata Castle",
+                        "jpn": "みんなで築こう墨俣城"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "5889774",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5889774",
+                    "Titles": {
+                        "eng": "Let's Just Say It Got Built Overnight!!",
+                        "jpn": "一夜で築いた事にしといて‼"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "5935386",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5935386",
+                    "Titles": {
+                        "eng": "Notice of the End of Being a Shut-In",
+                        "jpn": "引きこもり終了のお知らせ"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "5935387",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5935387",
+                    "Titles": {
+                        "eng": "Kyo is Calling Me",
+                        "jpn": "京が俺を呼んでるぜ"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "5935389",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5935389",
+                    "Titles": {
+                        "eng": "We Got Takenaka Hanbee",
+                        "jpn": "半兵衛ゲットだぜ‼"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "5935390",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5935390",
+                    "Titles": {
+                        "eng": "My Little Sister",
+                        "jpn": "妹よ"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "5977120",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5977120",
+                    "Titles": {
+                        "eng": "Someday, I Want to be the Shogun!!",
+                        "jpn": "いつか将軍になりた～い‼"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "5977121",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5977121",
+                    "Titles": {
+                        "eng": "The Straight Man Appears",
+                        "jpn": "ツッコミ師参入"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "5987386",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5987386",
+                    "Titles": {
+                        "eng": "Nobunaga, Behind You! Behind You!",
+                        "jpn": "信長！うしろ!!うしろ!!"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "5987687",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5987687",
+                    "Titles": {
+                        "eng": "The Legend of the Shadow",
+                        "jpn": "影の伝説"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "5987688",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5987688",
+                    "Titles": {
+                        "eng": "We Took the Castle",
+                        "jpn": "城とったどー‼"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "5987689",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/5987689",
+                    "Titles": {
+                        "eng": "Welcome to Kyo",
+                        "jpn": "おいでやす京へ"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "707253",
+            "URL": "https://thetvdb.com/series/ninja-girl-and-samurai-master/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": "伊勢・金ヶ崎篇"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "6038106",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6038106",
+                    "Titles": {
+                        "eng": "The Dangerous Old Man Appears",
+                        "jpn": "#27 デンジャラスじじい登場"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6047115",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6047115",
+                    "Titles": {
+                        "eng": "The Matsunaga Typhoon Makes Landfall",
+                        "jpn": "#28 松永台風上陸"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6047180",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6047180",
+                    "Titles": {
+                        "eng": "It's a Regime Change!!",
+                        "jpn": "#29 政権交代なのだー‼"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6066220",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6066220",
+                    "Titles": {
+                        "eng": "The Rokujo Battle While the Demon Is Away",
+                        "jpn": "#30 鬼の居ぬ間の六条合戦"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6072355",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6072355",
+                    "Titles": {
+                        "eng": "Let the Counterattack Begin with a Poem",
+                        "jpn": "#31 反撃は歌と共に"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6072903",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6072903",
+                    "Titles": {
+                        "eng": "1569 From a Western Land",
+                        "jpn": "#32 西の国から1569"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6092473",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6092473",
+                    "Titles": {
+                        "eng": "A Certain Shinobi-Hater and a Super Great Swordsman",
+                        "jpn": "#33 とある忍び嫌いと超剣豪"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6093975",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6093975",
+                    "Titles": {
+                        "eng": "The Demon and the Monster",
+                        "jpn": "#34 鬼と化け物"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6115149",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6115149",
+                    "Titles": {
+                        "eng": "A Fight to the Death Underwater",
+                        "jpn": "#35 水面下の死闘"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6124391",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6124391",
+                    "Titles": {
+                        "eng": "Until the Day We Fight Again",
+                        "jpn": "#36 また闘る日まで"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6124392",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6124392",
+                    "Titles": {
+                        "eng": "The History of a Hundred Years",
+                        "jpn": "#37 百年の歴史"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6141453",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6141453",
+                    "Titles": {
+                        "eng": "It Feels Like Something's About to Start",
+                        "jpn": "#38 何かが始まる予感"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "6165056",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6165056",
+                    "Titles": {
+                        "eng": "A Dangerous and Powerful Attack",
+                        "jpn": "#39 危うい快進撃"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "6181161",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6181161",
+                    "Titles": {
+                        "eng": "A Tremendous Shock for the Azai Clan!",
+                        "jpn": "#40 激震!!浅井家"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "6181417",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6181417",
+                    "Titles": {
+                        "eng": "Now is the Time to Withdraw!",
+                        "jpn": "#41 いざ!!退陣!!"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "6181418",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6181418",
+                    "Titles": {
+                        "eng": "Heated Battle at Kanegasaki!!",
+                        "jpn": "#42 熱闘金ヶ崎‼"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "6226031",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6226031",
+                    "Titles": {
+                        "eng": "Magara Musou",
+                        "jpn": "#43 真柄無双"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "6226032",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6226032",
+                    "Titles": {
+                        "eng": "Mototsuna of the Valley of Kutsuki",
+                        "jpn": "#44 朽木の谷のモトツナ"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "6240756",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6240756",
+                    "Titles": {
+                        "eng": "We're the Rearguard Until We Get Home",
+                        "jpn": "#45 家に帰るまでが殿（しんがり）です"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "6240757",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6240757",
+                    "Titles": {
+                        "eng": "Farewell, Kanegasaki",
+                        "jpn": "#46 さよなら金ヶ崎"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "6277748",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6277748",
+                    "Titles": {
+                        "eng": "Returning Alive, Nao",
+                        "jpn": "#47 生還なう。"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "6283261",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6283261",
+                    "Titles": {
+                        "eng": "Forever with My Lord",
+                        "jpn": "#48 殿といつまでも"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "6305225",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6305225",
+                    "Titles": {
+                        "eng": "A Certain Shinobi's Matchlock Gun",
+                        "jpn": "#49 とある忍びの火縄銃"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "6307701",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6307701",
+                    "Titles": {
+                        "eng": "Please Give Me Wings",
+                        "jpn": "#50 翼をください"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "6322649",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6322649",
+                    "Titles": {
+                        "eng": "The Competition for Oichi",
+                        "jpn": "#51 お市争奪戦"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "6338109",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6338109",
+                    "Titles": {
+                        "eng": "On to Anegawa",
+                        "jpn": "#52 そして姉川へ"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "758646",
+            "URL": "https://thetvdb.com/series/ninja-girl-and-samurai-master/seasons/official/3",
+            "Titles": {
+                "eng": null,
+                "jpn": "姉川・石山篇"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "6626935",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6626935",
+                    "Titles": {
+                        "eng": "The Silent Odani Castle",
+                        "jpn": "第５３話　沈黙の小谷城"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6642392",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6642392",
+                    "Titles": {
+                        "eng": "Isono Takes Off!",
+                        "jpn": "第５４話　磯野、発進！"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6657463",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6657463",
+                    "Titles": {
+                        "eng": "Chidori Dances",
+                        "jpn": "第５５話　千鳥乱舞"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6657464",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6657464",
+                    "Titles": {
+                        "eng": "The Dangerous Two",
+                        "jpn": "第５６話　キケンな二人"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6678858",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6678858",
+                    "Titles": {
+                        "eng": "A Warrior's Duty",
+                        "jpn": "第５７話　武士の本分"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6678861",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6678861",
+                    "Titles": {
+                        "eng": "The One-on-One Bastard Endo-san",
+                        "jpn": "第５８話　特攻野郎遠藤さん"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6678862",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6678862",
+                    "Titles": {
+                        "eng": "Walk Over My Corpse",
+                        "jpn": "第５９話　拙者の屍を越えてゆけ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6678864",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6678864",
+                    "Titles": {
+                        "eng": "Everyone's Own Anegawa",
+                        "jpn": "第６０話　それぞれの姉川"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6683541",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6683541",
+                    "Titles": {
+                        "eng": "True Resolve",
+                        "jpn": "第６１話　本当の覚悟"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6683542",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6683542",
+                    "Titles": {
+                        "eng": "Just a Little Trip to the Mori Clan",
+                        "jpn": "第６２話　ちょっと森家まで"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6683543",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6683543",
+                    "Titles": {
+                        "eng": "Let Sleeping Buddhas Lie",
+                        "jpn": "第６３話　さわらぬ仏にたたり無し"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6683546",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6683546",
+                    "Titles": {
+                        "eng": "Towards the Light",
+                        "jpn": "第６４話　光の射す方へ"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "6742548",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6742548",
+                    "Titles": {
+                        "eng": "Tatsuoki Always Appears Right Around the Time You Forget About Him",
+                        "jpn": "第６５話　龍興は忘れた頃にやってくる"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "6742549",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6742549",
+                    "Titles": {
+                        "eng": "The Opportunities Lie in Noda and Fukushima",
+                        "jpn": "第６６話　きっかけは野田・福島"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "6763007",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6763007",
+                    "Titles": {
+                        "eng": "Bring Guns, Not Bows and Arrows",
+                        "jpn": "第６７話　矢より鉄砲持って来い"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "6767262",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6767262",
+                    "Titles": {
+                        "eng": "The March of the True Believers",
+                        "jpn": "第６８話　信者の行進"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "6767263",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6767263",
+                    "Titles": {
+                        "eng": "The Counterstrike General",
+                        "jpn": "第６９話　逆襲の将"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "6779436",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6779436",
+                    "Titles": {
+                        "eng": "Territory Defended to the Last",
+                        "jpn": "第７０話　絶対死守領域"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "6779438",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6779438",
+                    "Titles": {
+                        "eng": "Resolve Complete",
+                        "jpn": "第７１話　覚悟完了"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "6790474",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6790474",
+                    "Titles": {
+                        "eng": "The Successors",
+                        "jpn": "第７２話　受け継ぐ者たち"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "6790475",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6790475",
+                    "Titles": {
+                        "eng": "The Blessing of the Demon",
+                        "jpn": "第７３話　天魔の御加護"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "6790476",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6790476",
+                    "Titles": {
+                        "eng": "There Are No Sanctuaries in These Troubled Times",
+                        "jpn": "第７４話　聖域無き戦国乱世"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "6790477",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6790477",
+                    "Titles": {
+                        "eng": "The Nightmarish Shiga Encampment",
+                        "jpn": "第７５話　悪夢の志賀の陣"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "6790478",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6790478",
+                    "Titles": {
+                        "eng": "The Humiliation at Mount Hiei",
+                        "jpn": "第７６話　比叡山の屈辱"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "6790479",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6790479",
+                    "Titles": {
+                        "eng": "The End of Misfortune",
+                        "jpn": "第７７話　連鎖の終わり"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "6829927",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ninja-girl-and-samurai-master/episodes/6829927",
+                    "Titles": {
+                        "eng": "The Headband and the Fresh Start",
+                        "jpn": "第７８話　鉢巻きと再出発"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

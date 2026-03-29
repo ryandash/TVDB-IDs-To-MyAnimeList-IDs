@@ -1,0 +1,47 @@
+{
+    "URL": "https://thetvdb.com/series/buresu",
+    "Genres": [
+        "Adaptation",
+        "Anime - Shonen",
+        "Fashion"
+    ],
+    "Other Sites": [
+        "https://bless-anime.com/",
+        "https://www.themoviedb.org/tv/315880",
+        "https://www.wikidata.org/wiki/Q138581827",
+        "https://en.wikipedia.org/wiki/Bless_(manga)#Anime",
+        "https://x.com/bless_anime"
+    ],
+    "Titles": {
+        "eng": "Bless",
+        "jpn": "ブレス"
+    },
+    "Aliases": [
+        "Buresu"
+    ],
+    "Modified": "2026-03-25",
+    "Seasons": {
+        "1": {
+            "ID": "2237694",
+            "URL": "https://thetvdb.com/series/buresu/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11659623",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/buresu/episodes/11659623",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

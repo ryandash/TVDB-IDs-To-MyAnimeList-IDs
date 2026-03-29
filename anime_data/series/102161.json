@@ -1,0 +1,91 @@
+{
+    "URL": "https://thetvdb.com/series/maiden-rose",
+    "Genres": [
+        "Animation",
+        "Drama",
+        "Romance",
+        "War"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt6100132/",
+        "https://www.themoviedb.org/tv/44458"
+    ],
+    "Titles": {
+        "eng": "Maiden Rose",
+        "jpn": "百日の薔薇"
+    },
+    "Aliases": [],
+    "Modified": "2023-02-12",
+    "Seasons": {
+        "0": {
+            "ID": "539829",
+            "URL": "https://thetvdb.com/series/maiden-rose/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "6476542",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/maiden-rose/episodes/6476542",
+                    "Titles": {
+                        "eng": "Rose of a Hundred Days",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "6476543",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/maiden-rose/episodes/6476543",
+                    "Titles": {
+                        "eng": "Underhanded Paws Chapter",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "86731",
+            "URL": "https://thetvdb.com/series/maiden-rose/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "828961",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/maiden-rose/episodes/828961",
+                    "Titles": {
+                        "eng": "My Knight",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1270701",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/maiden-rose/episodes/1270701",
+                    "Titles": {
+                        "eng": "The Flower of the Son of Heaven",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

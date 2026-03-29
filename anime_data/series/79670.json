@@ -1,0 +1,136 @@
+{
+    "URL": "https://thetvdb.com/series/karas",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt6545722/",
+        "https://www.themoviedb.org/tv/69055"
+    ],
+    "Titles": {
+        "eng": "KARAS",
+        "jpn": "鴉 -KARAS-"
+    },
+    "Aliases": [],
+    "Modified": "2026-01-12",
+    "Seasons": {
+        "0": {
+            "ID": "27084",
+            "URL": "https://thetvdb.com/series/karas/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "2586901",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/karas/episodes/2586901",
+                    "Titles": {
+                        "eng": "The Prophecy",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "2586911",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/karas/episodes/2586911",
+                    "Titles": {
+                        "eng": "The Revelation",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "16891",
+            "URL": "https://thetvdb.com/series/karas/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "315879",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/karas/episodes/315879",
+                    "Titles": {
+                        "eng": "The Karas Awakens",
+                        "jpn": "鴉開眼"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "315880",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/karas/episodes/315880",
+                    "Titles": {
+                        "eng": "The Flaming Wheels",
+                        "jpn": "火炎輪"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "315881",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/karas/episodes/315881",
+                    "Titles": {
+                        "eng": "The Destruction Awakes",
+                        "jpn": "滅 覚醒"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "338906",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/karas/episodes/338906",
+                    "Titles": {
+                        "eng": "The Human Otoha",
+                        "jpn": "人 乙羽"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "338907",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/karas/episodes/338907",
+                    "Titles": {
+                        "eng": "The Illusion of a District",
+                        "jpn": "幻想区"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "338908",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/karas/episodes/338908",
+                    "Titles": {
+                        "eng": "The True Legend",
+                        "jpn": "真 伝説"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

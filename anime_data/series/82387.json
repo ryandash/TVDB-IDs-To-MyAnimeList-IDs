@@ -1,0 +1,131 @@
+{
+    "URL": "https://thetvdb.com/series/mazinkaiser",
+    "Genres": [
+        "Animation",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0388225/",
+        "https://www.themoviedb.org/tv/45154"
+    ],
+    "Titles": {
+        "eng": "Mazinkaiser",
+        "jpn": "マジンカイザー"
+    },
+    "Aliases": [],
+    "Modified": "2025-06-21",
+    "Seasons": {
+        "0": {
+            "ID": "33407",
+            "URL": "https://thetvdb.com/series/mazinkaiser/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "983021",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/mazinkaiser/episodes/983021",
+                    "Titles": {
+                        "eng": "Mazinkaiser: Death! The Great General of Darkness",
+                        "jpn": "マジンカイザー　死闘！暗黒大将軍"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "33408",
+            "URL": "https://thetvdb.com/series/mazinkaiser/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 7,
+            "Episodes": {
+                "1": {
+                    "ID": "373682",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mazinkaiser/episodes/373682",
+                    "Titles": {
+                        "eng": "A Fierce Fight! Double Mazingers",
+                        "jpn": "激闘！ダブルマジンガー"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "373683",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mazinkaiser/episodes/373683",
+                    "Titles": {
+                        "eng": "A Descending, Malevolent Deity",
+                        "jpn": "魔神降臨"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "373684",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mazinkaiser/episodes/373684",
+                    "Titles": {
+                        "eng": "Kouji Assassination Order!",
+                        "jpn": "甲児暗殺指令！"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "373685",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mazinkaiser/episodes/373685",
+                    "Titles": {
+                        "eng": "Sayaka Rescue Operation",
+                        "jpn": "さやか救出作戦"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "373686",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mazinkaiser/episodes/373686",
+                    "Titles": {
+                        "eng": "A Narrow Escape! The Photon Power Lab",
+                        "jpn": "危機一髪！光子力研究所"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "373687",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mazinkaiser/episodes/373687",
+                    "Titles": {
+                        "eng": "Kouji Kabuto Dies in Magma!",
+                        "jpn": "兜甲児、マグマに死す！"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "373688",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mazinkaiser/episodes/373688",
+                    "Titles": {
+                        "eng": "A Decisive Battle!! Flaming Hell Castle!",
+                        "jpn": "決戦!! 炎の地獄城！"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

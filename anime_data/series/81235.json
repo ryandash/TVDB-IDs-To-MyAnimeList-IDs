@@ -1,0 +1,85 @@
+{
+    "URL": "https://thetvdb.com/series/strait-jacket",
+    "Genres": [
+        "Animation"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/132560"
+    ],
+    "Titles": {
+        "eng": "Strait Jacket",
+        "jpn": "ストレイト・ジャケット"
+    },
+    "Aliases": [],
+    "Modified": "2024-09-16",
+    "Seasons": {
+        "0": {
+            "ID": "30387",
+            "URL": "https://thetvdb.com/series/strait-jacket/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "432056",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/strait-jacket/episodes/432056",
+                    "Titles": {
+                        "eng": "Strait Jacket - International Version (Movie)",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "34553",
+            "URL": "https://thetvdb.com/series/strait-jacket/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "382978",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/strait-jacket/episodes/382978",
+                    "Titles": {
+                        "eng": "The Cast - Human Link",
+                        "jpn": "THE CAST ニンゲンのクビキ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "382979",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/strait-jacket/episodes/382979",
+                    "Titles": {
+                        "eng": "The Convicts - Memories of a Sinner",
+                        "jpn": "THE CONVICTS トガビトのキオク"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "382980",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/strait-jacket/episodes/382980",
+                    "Titles": {
+                        "eng": "The Relief - Atonement of the future",
+                        "jpn": "THE RELIEF ショクザイのミライ"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "URL": "https://thetvdb.com/series/sol-bianca",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0272299/",
+        "https://www.themoviedb.org/tv/43846"
+    ],
+    "Titles": {
+        "eng": "Sol Bianca",
+        "jpn": "太陽の船ソルビアンカ"
+    },
+    "Aliases": [],
+    "Modified": "2026-01-12",
+    "Seasons": {
+        "0": {
+            "ID": "28185",
+            "URL": "https://thetvdb.com/series/sol-bianca/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4219573",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/sol-bianca/episodes/4219573",
+                    "Titles": {
+                        "eng": "Sol Bianca",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "2": {
+                    "ID": "4219574",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/sol-bianca/episodes/4219574",
+                    "Titles": {
+                        "eng": "Sol Bianca 2",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        },
+        "1": {
+            "ID": "123001",
+            "URL": "https://thetvdb.com/series/sol-bianca/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "2640871",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sol-bianca/episodes/2640871",
+                    "Titles": {
+                        "eng": "The Emblem",
+                        "jpn": "EL EMBLEMA 〜紋章〜"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2640881",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sol-bianca/episodes/2640881",
+                    "Titles": {
+                        "eng": "Memories",
+                        "jpn": "LA REMINISCENCIA 〜記憶〜"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4219575",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sol-bianca/episodes/4219575",
+                    "Titles": {
+                        "eng": "The Cleaner",
+                        "jpn": "EL ARREGLO 〜掃除人〜"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4219576",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sol-bianca/episodes/4219576",
+                    "Titles": {
+                        "eng": "Lovers",
+                        "jpn": "LA MOVREX 〜恋人たち〜"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4219577",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sol-bianca/episodes/4219577",
+                    "Titles": {
+                        "eng": "Earth",
+                        "jpn": "LA TIERRA 〜地球〜"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4219578",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sol-bianca/episodes/4219578",
+                    "Titles": {
+                        "eng": "Vessel of the Sun",
+                        "jpn": "BARCO DEL SOL 〜太陽の船〜"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "URL": "https://thetvdb.com/series/pet-shop-of-horrors",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Horror",
+        "Mystery"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0291419/",
+        "https://www.themoviedb.org/tv/45462"
+    ],
+    "Titles": {
+        "eng": "Pet Shop of Horrors",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2025-05-20",
+    "Seasons": {
+        "0": {
+            "ID": "537419",
+            "URL": "https://thetvdb.com/series/pet-shop-of-horrors/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "6786769",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/pet-shop-of-horrors/episodes/6786769",
+                    "Titles": {
+                        "eng": "Clean Opening & Closing Animation",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "41751",
+            "URL": "https://thetvdb.com/series/pet-shop-of-horrors/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "444737",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pet-shop-of-horrors/episodes/444737",
+                    "Titles": {
+                        "eng": "Daughter",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "444738",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pet-shop-of-horrors/episodes/444738",
+                    "Titles": {
+                        "eng": "Delicious",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "444739",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pet-shop-of-horrors/episodes/444739",
+                    "Titles": {
+                        "eng": "Despair",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "444740",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pet-shop-of-horrors/episodes/444740",
+                    "Titles": {
+                        "eng": "Dual",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

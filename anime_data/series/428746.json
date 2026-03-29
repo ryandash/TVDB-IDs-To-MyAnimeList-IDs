@@ -1,0 +1,147 @@
+{
+    "URL": "https://thetvdb.com/series/428746-",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt25051156/",
+        "https://ak.hypergryph.com/lee/",
+        "https://www.themoviedb.org/tv/216062",
+        "https://www.wikidata.org/wiki/Q136147704"
+    ],
+    "Titles": {
+        "eng": "Lee's Detective Agency",
+        "jpn": "鲤氏侦探事务所"
+    },
+    "Aliases": [],
+    "Modified": "2025-09-07",
+    "Seasons": {
+        "0": {
+            "ID": "2036505",
+            "URL": "https://thetvdb.com/series/428746-/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "9522065",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/428746-/episodes/9522065",
+                    "Titles": {
+                        "eng": "Miniseries Pre-Short - Home Service",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "9594405",
+                    "TYPE": "Episodic Special",
+                    "CATEGORY": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/428746-/episodes/9594405",
+                    "Titles": {
+                        "eng": "Once Upon a Time in Lungmen",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "9748063",
+                    "TYPE": "Episodic Special",
+                    "CATEGORY": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/428746-/episodes/9748063",
+                    "Titles": {
+                        "eng": "A Holiday of Two Hours",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "2036506",
+            "URL": "https://thetvdb.com/series/428746-/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "9520670",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/428746-/episodes/9520670",
+                    "Titles": {
+                        "eng": "A Day of Perfection",
+                        "jpn": "完璧な日"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9529877",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/428746-/episodes/9529877",
+                    "Titles": {
+                        "eng": "A Cup of Tequila",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9529878",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/428746-/episodes/9529878",
+                    "Titles": {
+                        "eng": "A Night of Rain",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9529879",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/428746-/episodes/9529879",
+                    "Titles": {
+                        "eng": "A Lapping of Waves",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "9529880",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/428746-/episodes/9529880",
+                    "Titles": {
+                        "eng": "A Minute of Investigation",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "9529881",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/428746-/episodes/9529881",
+                    "Titles": {
+                        "eng": "A Day We Love Best",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

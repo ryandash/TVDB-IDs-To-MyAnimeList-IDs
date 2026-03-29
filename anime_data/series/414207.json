@@ -1,0 +1,509 @@
+{
+    "URL": "https://thetvdb.com/series/mf-ghost",
+    "Genres": [
+        "Adaptation",
+        "Anime - Seinen"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt28299608/",
+        "https://mfg-anime.com/",
+        "https://www.themoviedb.org/tv/154526",
+        "https://en.wikipedia.org/wiki/MF_Ghost",
+        "https://x.com/mfg_anime",
+        "https://www.youtube.com/c/../@mfg_anime"
+    ],
+    "Titles": {
+        "eng": "MF GHOST",
+        "jpn": "MFゴースト"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-27",
+    "Seasons": {
+        "0": {
+            "ID": "1975067",
+            "URL": "https://thetvdb.com/series/mf-ghost/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "10531282",
+                    "TYPE": "Season Recaps",
+                    "CATEGORY": "Season Recaps",
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/10531282",
+                    "Titles": {
+                        "eng": "MF GHOST BATTLE DIGEST",
+                        "jpn": "MFゴースト BATTLE DIGEST"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "1975068",
+            "URL": "https://thetvdb.com/series/mf-ghost/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "9899440",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/9899440",
+                    "Titles": {
+                        "eng": "The Challenger from England",
+                        "jpn": "Turn01「英国からの挑戦者（チャレンジャー）」"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10015755",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/10015755",
+                    "Titles": {
+                        "eng": "The Shocking New MFG Generation",
+                        "jpn": "衝撃のMFG新世代"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10015756",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/10015756",
+                    "Titles": {
+                        "eng": "The Kamaboko Straight",
+                        "jpn": "カマボコストレート"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "10015757",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/10015757",
+                    "Titles": {
+                        "eng": "Tire Management",
+                        "jpn": "タイヤマネジメント"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "10015758",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/10015758",
+                    "Titles": {
+                        "eng": "Teamwork",
+                        "jpn": "連携プレー"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "10015759",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/10015759",
+                    "Titles": {
+                        "eng": "The Tragic Rallyist",
+                        "jpn": "悲運のラリースト"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "10015760",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/10015760",
+                    "Titles": {
+                        "eng": "The Man in the 4 Car",
+                        "jpn": "4号車の男"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "10015761",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/10015761",
+                    "Titles": {
+                        "eng": "The Voice Callout",
+                        "jpn": "音声ボイスカウント"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "10015762",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/10015762",
+                    "Titles": {
+                        "eng": "The 300 kph Dogfight",
+                        "jpn": "時速300キロのドッグファイト"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "10015763",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/10015763",
+                    "Titles": {
+                        "eng": "Updates",
+                        "jpn": "アップデート"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "10015764",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/10015764",
+                    "Titles": {
+                        "eng": "The Genius Awakens",
+                        "jpn": "天才覚醒"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "10015765",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/10015765",
+                    "Titles": {
+                        "eng": "Inherited Perception",
+                        "jpn": "うけつがれた感覚"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "2141091",
+            "URL": "https://thetvdb.com/series/mf-ghost/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "10633663",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/10633663",
+                    "Titles": {
+                        "eng": "The White Reaper Descends",
+                        "jpn": "舞いおちる白い死神"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10733500",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/10733500",
+                    "Titles": {
+                        "eng": "The 4x4 Attack",
+                        "jpn": "4WDの攻勢"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10733501",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/10733501",
+                    "Titles": {
+                        "eng": "The Relay Straight Yin-Yang",
+                        "jpn": "駅伝ストレートの明と暗"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "10733502",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/10733502",
+                    "Titles": {
+                        "eng": "Sawatari Koki, the Demon God",
+                        "jpn": "鬼神（きしん）！！沢渡 光輝"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "10733504",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/10733504",
+                    "Titles": {
+                        "eng": "A Harsh Reality",
+                        "jpn": "残酷な現実"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "10733505",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/10733505",
+                    "Titles": {
+                        "eng": "The Devil of Ashinoko Skyline",
+                        "jpn": "芦ノ湖スカイラインの悪魔"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "10733506",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/10733506",
+                    "Titles": {
+                        "eng": "Lonesome Cowboy",
+                        "jpn": "ロンサムカウボーイ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "10733507",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/10733507",
+                    "Titles": {
+                        "eng": "The Conclusion",
+                        "jpn": "決着"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "10733508",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/10733508",
+                    "Titles": {
+                        "eng": "The Rival",
+                        "jpn": "好敵手（ライバル）"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "10733509",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/10733509",
+                    "Titles": {
+                        "eng": "The Peninsula Opens",
+                        "jpn": "ザ・ペニンシュラ開幕"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "10733510",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/10733510",
+                    "Titles": {
+                        "eng": "The Cost of Courage",
+                        "jpn": "勇気の代償"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "10733511",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/10733511",
+                    "Titles": {
+                        "eng": "A Bitter Decision",
+                        "jpn": "苦渋の選択"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "2162904",
+            "URL": "https://thetvdb.com/series/mf-ghost/seasons/official/3",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "11486660",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/11486660",
+                    "Titles": {
+                        "eng": "Miraculous Comeback",
+                        "jpn": "奇跡の復活"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11524735",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/11524735",
+                    "Titles": {
+                        "eng": "Fireball",
+                        "jpn": "火の玉"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "11524736",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/11524736",
+                    "Titles": {
+                        "eng": "Into the Final Lap",
+                        "jpn": "ファイナルラップ突入"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "11524737",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/11524737",
+                    "Titles": {
+                        "eng": "Their First Kiss",
+                        "jpn": "2人のファーストキス"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "11524738",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/11524738",
+                    "Titles": {
+                        "eng": "Grandma's Kei Truck",
+                        "jpn": "おばあちゃんの軽トラ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "11524739",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/11524739",
+                    "Titles": {
+                        "eng": "The 1:09PM Miracle",
+                        "jpn": "13時09分の奇跡"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "11524740",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/11524740",
+                    "Titles": {
+                        "eng": "The End of Summer",
+                        "jpn": "夏の終わり"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "11524741",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/11524741",
+                    "Titles": {
+                        "eng": "Sparks Fly",
+                        "jpn": "火花バチバチ"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "11524742",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/11524742",
+                    "Titles": {
+                        "eng": "The Red Bullet",
+                        "jpn": "赤い弾丸"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "11524743",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/11524743",
+                    "Titles": {
+                        "eng": "The King's Impatience",
+                        "jpn": "王者のあせり"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "11524744",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/11524744",
+                    "Titles": {
+                        "eng": "The Strongest Train",
+                        "jpn": "最強トレイン"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "11524745",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/11524745",
+                    "Titles": {
+                        "eng": "The Midair Feints",
+                        "jpn": "空中フェイント"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "11686345",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/11686345",
+                    "Titles": {
+                        "eng": "The Lead Group Splits",
+                        "jpn": "先頭グループの分裂"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "4": {
+            "ID": "2241717",
+            "URL": "https://thetvdb.com/series/mf-ghost/seasons/official/4",
+            "Titles": {
+                "eng": "Final Season",
+                "jpn": "Final Season"
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11698373",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mf-ghost/episodes/11698373",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "URL": "https://thetvdb.com/series/tristia-of-the-deep-blue-sea",
+    "Genres": [
+        "Animation",
+        "Anime"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0491745/",
+        "https://www.themoviedb.org/tv/208847"
+    ],
+    "Titles": {
+        "eng": "Tristia of the Deep-Blue Sea",
+        "jpn": "蒼い海のトリスティア"
+    },
+    "Aliases": [],
+    "Modified": "2026-01-06",
+    "Seasons": {
+        "1": {
+            "ID": "149671",
+            "URL": "https://thetvdb.com/series/tristia-of-the-deep-blue-sea/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "1335081",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tristia-of-the-deep-blue-sea/episodes/1335081",
+                    "Titles": {
+                        "eng": "Tristia Golem Tournament (Part 1)",
+                        "jpn": "第１巻"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1335091",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tristia-of-the-deep-blue-sea/episodes/1335091",
+                    "Titles": {
+                        "eng": "Tristia Golem Tournament (Part 2)",
+                        "jpn": "第２巻"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
