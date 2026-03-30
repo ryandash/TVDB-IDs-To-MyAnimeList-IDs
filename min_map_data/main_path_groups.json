@@ -195747,6 +195747,28 @@
   ],
   [
     {
+      "malId": 63832,
+      "type": "TV",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5 \u7b2c2\u671f",
+          "type": "Japanese"
+        },
+        {
+          "title": "You and I Are Polar Oppoasites Season 2",
+          "type": "English"
+        },
+        {
+          "title": "Seihantai na Kimi to Boku 2nd Season",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -266389,6 +266411,26 @@
           "type": "Default"
         }
       ]
+    },
+    {
+      "malId": 63834,
+      "type": "ONA",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u7ae5\u8a71\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba \u3077\u3061",
+          "type": "Japanese"
+        },
+        {
+          "title": "Fairy Tale Revengers Petit",
+          "type": "English"
+        },
+        {
+          "title": "Douwa Revenger: Petit",
+          "type": "Default"
+        }
+      ]
     }
   ],
   [
@@ -277100,6 +277142,24 @@
         },
         {
           "title": "Ling Long 2nd Season Qianzhan Pian: Changye Jiang Zhi",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 63833,
+      "type": "ONA",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u5203\u7259\u9053 \u7b2c2\u30af\u30fc\u30eb",
+          "type": "Japanese"
+        },
+        {
+          "title": "Baki-dou Part 2",
           "type": "Default"
         }
       ]
@@ -341116,46 +341176,6 @@
         },
         {
           "title": "Princession Orchestra Recaps",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 63832,
-      "type": "TV",
-      "year": 2026,
-      "episodes": 0,
-      "titles": [
-        {
-          "title": "\u6b63\u53cd\u5bfe\u306a\u541b\u3068\u50d5 \u7b2c2\u671f",
-          "type": "Japanese"
-        },
-        {
-          "title": "You and I Are Polar Oppoasites Season 2",
-          "type": "English"
-        },
-        {
-          "title": "Seihantai na Kimi to Boku 2nd Season",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 63833,
-      "type": "ONA",
-      "year": 0,
-      "episodes": 0,
-      "titles": [
-        {
-          "title": "\u5203\u7259\u9053 \u7b2c2\u30af\u30fc\u30eb",
-          "type": "Japanese"
-        },
-        {
-          "title": "Baki-dou Part 2",
           "type": "Default"
         }
       ]
