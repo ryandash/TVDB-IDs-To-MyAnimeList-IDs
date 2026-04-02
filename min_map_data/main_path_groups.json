@@ -180457,6 +180457,26 @@
           "type": "Default"
         }
       ]
+    },
+    {
+      "malId": 63885,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u30b6\u30fb\u30d5\u30a1\u30d6\u30eb \u7b2c2\u671f",
+          "type": "Japanese"
+        },
+        {
+          "title": "The Fable Season 2",
+          "type": "English"
+        },
+        {
+          "title": "The Fable 2nd Season",
+          "type": "Default"
+        }
+      ]
     }
   ],
   [
@@ -195762,6 +195782,42 @@
         },
         {
           "title": "Seihantai na Kimi to Boku 2nd Season",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 63818,
+      "type": "TV",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "Battle Spirits [Re] \u7d76\u754c\u306e\u7a7a",
+          "type": "Japanese"
+        },
+        {
+          "title": "Battle Spirits [Re]: Zekkai no Kuu",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 63851,
+      "type": "TV",
+      "year": 2027,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u84ee\u30ce\u7a7a\u5973\u5b66\u9662\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u30af\u30e9\u30d6",
+          "type": "Japanese"
+        },
+        {
+          "title": "Love Live! Hasunosora Jogakuin School Idol Club",
           "type": "Default"
         }
       ]
@@ -277185,6 +277241,24 @@
   ],
   [
     {
+      "malId": 63827,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 7,
+      "titles": [
+        {
+          "title": "AnimeJapan\u65b0\u4eba\u30af\u30ea\u30a8\u30a4\u30bf\u30fc\u5927\u8cde2026",
+          "type": "Japanese"
+        },
+        {
+          "title": "AnimeJapan Awards 2026",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 49,
       "type": "OVA",
       "year": 1993,
@@ -341201,17 +341275,17 @@
   ],
   [
     {
-      "malId": 63818,
+      "malId": 63878,
       "type": "TV",
       "year": 2026,
       "episodes": 0,
       "titles": [
         {
-          "title": "Battle Spirits [Re] \u7d76\u754c\u306e\u7a7a",
+          "title": "\u8eab\u4ee3\u308f\u308a\u4ee4\u5b22\u3092\u6551\u3063\u305f\u306e\u306f\u51b7\u9177\u7121\u6148\u60b2\u306a\u6c37\u306e\u738b\u5b50\u306e\u611b\u3067\u3057\u305f",
           "type": "Japanese"
         },
         {
-          "title": "Battle Spirits [Re]: Zekkai no Kuu",
+          "title": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
           "type": "Default"
         }
       ]
@@ -341219,35 +341293,21 @@
   ],
   [
     {
-      "malId": 63851,
-      "type": "TV",
-      "year": 2027,
-      "episodes": 0,
-      "titles": [
-        {
-          "title": "\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u84ee\u30ce\u7a7a\u5973\u5b66\u9662\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u30af\u30e9\u30d6",
-          "type": "Japanese"
-        },
-        {
-          "title": "Love Live! Hasunosora Jogakuin School Idol Club",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 63827,
-      "type": "ONA",
+      "malId": 63857,
+      "type": "TV Special",
       "year": 2026,
-      "episodes": 7,
+      "episodes": 1,
       "titles": [
         {
-          "title": "AnimeJapan\u65b0\u4eba\u30af\u30ea\u30a8\u30a4\u30bf\u30fc\u5927\u8cde2026",
+          "title": "\u300e\u6756\u3068\u5263\u306e\u30a6\u30a3\u30b9\u30c8\u30ea\u30a2\u300f\u7279\u5225\u7dcf\u96c6\u7de8",
           "type": "Japanese"
         },
         {
-          "title": "AnimeJapan Awards 2026",
+          "title": "Wistoria: Wand and Sword Recap",
+          "type": "English"
+        },
+        {
+          "title": "Tsue to Tsurugi no Wistoria Recap",
           "type": "Default"
         }
       ]

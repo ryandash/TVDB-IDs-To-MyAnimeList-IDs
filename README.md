@@ -24,11 +24,11 @@ https://github-checker-worker.ryandash0.workers.dev/
 <!---counts-start--->
 ### TVDB → MAL Mapping Stats
 
-- ✅ Mapped Movies: **1671**
+- ✅ Mapped Movies: **1672**
 - ✅ Mapped Series: **5282**
 - ✅ Mapped Seasons: **7690**
-- ✅ Mapped Episodes: **174727**
+- ✅ Mapped Episodes: **174743**
 - ❌ Unmapped Series/Movies: **0**
 - ❌ Unmapped Seasons: **44**
-- ❌ Unmapped Episodes: **8472**
+- ❌ Unmapped Episodes: **8473**
 <!---counts-end--->
