@@ -24,6 +24,43 @@
     ],
     "Modified": "2026-02-08",
     "Seasons": {
+        "0": {
+            "ID": "2111791",
+            "URL": "https://thetvdb.com/series/tensei-akujo-no-kuro-rekishi/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "11716368",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/tensei-akujo-no-kuro-rekishi/episodes/11716368",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Episode 1"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "2": {
+                    "ID": "11716369",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/tensei-akujo-no-kuro-rekishi/episodes/11716369",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Episode 2"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        },
         "1": {
             "ID": "2111792",
             "URL": "https://thetvdb.com/series/tensei-akujo-no-kuro-rekishi/seasons/official/1",
