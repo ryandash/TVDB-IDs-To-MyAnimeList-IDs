@@ -47,6 +47,19 @@
                     "Aliases": [],
                     "Episode #": 1,
                     "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "11719510",
+                    "TYPE": "Season Recaps",
+                    "CATEGORY": "Season Recaps",
+                    "URL": "https://www.thetvdb.com/series/tsue-to-tsurugi-no-wistoria/episodes/11719510",
+                    "Titles": {
+                        "eng": "Season 2 Broadcast Commemorative - Wistoria: Wand and Sword Special Compilation Episode",
+                        "jpn": "「杖と剣のウィストリア」特別総集編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
                 }
             }
         },
@@ -336,5 +349,11 @@
                 }
             }
         }
+    },
+    "Failed": {
+        "Seasons": [
+            "2"
+        ],
+        "Episodes": []
     }
 }
