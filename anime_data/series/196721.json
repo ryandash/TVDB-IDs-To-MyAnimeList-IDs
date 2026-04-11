@@ -16,6 +16,30 @@
     ],
     "Modified": "2026-03-23",
     "Seasons": {
+        "0": {
+            "ID": "545041",
+            "URL": "https://thetvdb.com/series/momoiro-sisters/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11730389",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/momoiro-sisters/episodes/11730389",
+                    "Titles": {
+                        "eng": "Legendary Idol Momoko?!",
+                        "jpn": "アイドル伝説桃子!?"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
         "1": {
             "ID": "332931",
             "URL": "https://thetvdb.com/series/momoiro-sisters/seasons/official/1",
