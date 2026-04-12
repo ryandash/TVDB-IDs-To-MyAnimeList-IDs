@@ -252,5 +252,23 @@
         "thetvdb": 5119688,
         "series id": 283942,
         "season id": 591529
+    },
+    {
+        "season": 2,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/season/2222233",
+        "myanimelist url": "https://myanimelist.net/anime/25013",
+        "myanimelist": 25013,
+        "thetvdb": 2222233,
+        "series id": 283942
+    },
+    {
+        "season": 2,
+        "episode": 1,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/11516504",
+        "myanimelist url": "https://myanimelist.net/anime/25013/Akatsuki_no_Yona/episode/1",
+        "myanimelist": 25013,
+        "thetvdb": 11516504,
+        "series id": 283942,
+        "season id": 2222233
     }
 ]

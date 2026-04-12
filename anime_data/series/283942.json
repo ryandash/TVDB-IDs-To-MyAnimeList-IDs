@@ -358,6 +358,28 @@
                     "Aliases": []
                 }
             }
+        },
+        "2": {
+            "ID": "2222233",
+            "URL": "https://thetvdb.com/series/yona-of-the-dawn/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11516504",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/11516504",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
         }
     }
 }
