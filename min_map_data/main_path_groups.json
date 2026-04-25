@@ -277359,6 +277359,26 @@
           "type": "Default"
         }
       ]
+    },
+    {
+      "malId": 64011,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "\u9913\u72fc\u4f1d\u8aac CotW\uff5c\u30f4\u30a9\u30eb\u30d5\u30ac\u30f3\u30b0\u30fb\u30af\u30e9\u30a6\u30b6\u30fc\uff5c\u30ed\u30f3\u30b0\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u30c8\u30ec\u30fc\u30e9\u30fc",
+          "type": "Japanese"
+        },
+        {
+          "title": "Fatal Fury: City of the Wolves - Wolfgang Krauser Trailer",
+          "type": "English"
+        },
+        {
+          "title": "Garou Densetsu: CotW - Wolfgang Krauser",
+          "type": "Default"
+        }
+      ]
     }
   ],
   [
@@ -277736,6 +277756,50 @@
         },
         {
           "title": "Changsheng Xianyou",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 63991,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "\u300a\u5d29\u574f\uff1a\u661f\u7a79\u94c1\u9053\u300b\u52a8\u753b\u77ed\u7247\uff1a\u300c\u8fd9\u6e38\u620f\u8fd8\u80fd\u4e0d\u80fd\u73a9\u4e86\uff1f\u300d",
+          "type": "Japanese"
+        },
+        {
+          "title": "Honkai: Star Rail - Is This Game Even Playable?",
+          "type": "English"
+        },
+        {
+          "title": "Benghuai: Xing Qiong Tiedao - Zhe Youxi Hai Neng Buneng Wanle?",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64012,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "THE RIBBON HERO \u30ea\u30dc\u30f3\u30d2\u30fc\u30ed\u30fc",
+          "type": "Japanese"
+        },
+        {
+          "title": "The Ribbon Hero",
+          "type": "English"
+        },
+        {
+          "title": "The Ribbon Hero",
           "type": "Default"
         }
       ]
@@ -341835,43 +341899,17 @@
   ],
   [
     {
-      "malId": 63991,
+      "malId": 64008,
       "type": "ONA",
       "year": 2026,
-      "episodes": 1,
+      "episodes": 0,
       "titles": [
         {
-          "title": "\u300a\u5d29\u574f\uff1a\u661f\u7a79\u94c1\u9053\u300b\u52a8\u753b\u77ed\u7247\uff1a\u300c\u8fd9\u6e38\u620f\u8fd8\u80fd\u4e0d\u80fd\u73a9\u4e86\uff1f\u300d",
+          "title": "\u300e\u30e4\u30cb\u306d\u3053\u300f\u30df\u30cb\u30a2\u30cb\u30e1",
           "type": "Japanese"
         },
         {
-          "title": "Honkai: Star Rail - Is This Game Even Playable?",
-          "type": "English"
-        },
-        {
-          "title": "Benghuai: Xing Qiong Tiedao - Zhe Youxi Hai Neng Buneng Wanle?",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64012,
-      "type": "ONA",
-      "year": 2026,
-      "episodes": 1,
-      "titles": [
-        {
-          "title": "THE RIBBON HERO \u30ea\u30dc\u30f3\u30d2\u30fc\u30ed\u30fc",
-          "type": "Japanese"
-        },
-        {
-          "title": "The Ribbon Hero",
-          "type": "English"
-        },
-        {
-          "title": "The Ribbon Hero",
+          "title": "Yani Neko Mini Anime",
           "type": "Default"
         }
       ]
