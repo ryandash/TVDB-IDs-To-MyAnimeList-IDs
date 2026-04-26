@@ -186,6 +186,28 @@
                     "Aliases": []
                 }
             }
+        },
+        "4": {
+            "ID": "2246986",
+            "URL": "https://thetvdb.com/series/yu-gi-oh-card-game-the-chronicles/seasons/official/4",
+            "Titles": {
+                "eng": "Magistus",
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11760162",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-card-game-the-chronicles/episodes/11760162",
+                    "Titles": {
+                        "eng": "Magistus I: “Aleister the Invoker”",
+                        "jpn": "マギストスⅠ「召喚師アレイスター」"
+                    },
+                    "Aliases": []
+                }
+            }
         }
     }
 }
