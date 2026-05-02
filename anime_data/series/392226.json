@@ -44,6 +44,19 @@
                     "Aliases": [],
                     "Episode #": 1,
                     "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "11772213",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/11772213",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
                 }
             }
         },
@@ -2882,5 +2895,11 @@
                 }
             }
         }
+    },
+    "Failed": {
+        "Seasons": [
+            "5"
+        ],
+        "Episodes": []
     }
 }
