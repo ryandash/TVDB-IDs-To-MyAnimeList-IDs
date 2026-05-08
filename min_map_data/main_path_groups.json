@@ -196151,6 +196151,28 @@
   ],
   [
     {
+      "malId": 64131,
+      "type": "TV",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u5f7c\u5973\u306e\u53cb\u9054",
+          "type": "Japanese"
+        },
+        {
+          "title": "My Girlfriend's Friend",
+          "type": "English"
+        },
+        {
+          "title": "Kanojo no Tomodachi",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -277935,6 +277957,24 @@
   ],
   [
     {
+      "malId": 64079,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u308b\u30fc\u306b\u30fc\u30fb\u3066\u3085\u30fc\u3093\u305a\u3054\u3063\u3053",
+          "type": "Japanese"
+        },
+        {
+          "title": "Looney Tunes Gokko",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 49,
       "type": "OVA",
       "year": 1993,
@@ -342078,46 +342118,6 @@
         },
         {
           "title": "Tsue to Tsurugi no Wistoria Recap",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64131,
-      "type": "TV",
-      "year": 2026,
-      "episodes": 0,
-      "titles": [
-        {
-          "title": "\u5f7c\u5973\u306e\u53cb\u9054",
-          "type": "Japanese"
-        },
-        {
-          "title": "My Girlfriend's Friend",
-          "type": "English"
-        },
-        {
-          "title": "Kanojo no Tomodachi",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64079,
-      "type": "ONA",
-      "year": 2026,
-      "episodes": 0,
-      "titles": [
-        {
-          "title": "\u308b\u30fc\u306b\u30fc\u30fb\u3066\u3085\u30fc\u3093\u305a\u3054\u3063\u3053",
-          "type": "Japanese"
-        },
-        {
-          "title": "Looney Tunes Gokko",
           "type": "Default"
         }
       ]
