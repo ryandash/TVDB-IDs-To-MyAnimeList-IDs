@@ -184447,6 +184447,26 @@
           "type": "Default"
         }
       ]
+    },
+    {
+      "malId": 64137,
+      "type": "TV",
+      "year": 2025,
+      "episodes": 20,
+      "titles": [
+        {
+          "title": "\u98d3\u98ce\u6218\u9b42\u4e4b\u65cb\u529b\u542f\u6e90",
+          "type": "Japanese"
+        },
+        {
+          "title": "Infinity Nado 7",
+          "type": "English"
+        },
+        {
+          "title": "Jufeng Zhan Hun: Xuan Li Qi Yuan",
+          "type": "Default"
+        }
+      ]
     }
   ],
   [
@@ -342118,6 +342138,46 @@
         },
         {
           "title": "Tsue to Tsurugi no Wistoria Recap",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 63901,
+      "type": "TV",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u3057\u308d\u305f\u3093",
+          "type": "Japanese"
+        },
+        {
+          "title": "Sirotan",
+          "type": "English"
+        },
+        {
+          "title": "Sirotan",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 63956,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u30d6\u30e9\u30c3\u30af\u30c1\u30e3\u30f3\u30cd\u30eb",
+          "type": "Japanese"
+        },
+        {
+          "title": "Black Channel",
           "type": "Default"
         }
       ]
