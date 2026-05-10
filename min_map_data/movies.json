@@ -95595,6 +95595,42 @@
           "type": "Default"
         }
       ]
+    },
+    {
+      "malId": 64138,
+      "type": "Movie",
+      "year": 1937,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "\u3060\u3093\u3054\u306e\u884c\u65b9",
+          "type": "Japanese"
+        },
+        {
+          "title": "Dango no Yukue",
+          "type": "Default"
+        }
+      ]
+    },
+    {
+      "malId": 64140,
+      "type": "Movie",
+      "year": 1952,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "\u4e2d\u592e\u6c23\u8c61\u53f0\u6307\u5c0e \u304a\u5929\u6c23\u5b66\u6821",
+          "type": "Japanese"
+        },
+        {
+          "title": "Central Meteorological Observatory Guidance: Weather School",
+          "type": "English"
+        },
+        {
+          "title": "Chuuou Kishodai Shidou: Otenki Gakkou",
+          "type": "Default"
+        }
+      ]
     }
   ]
 ]
