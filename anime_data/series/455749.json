@@ -26,6 +26,30 @@
     ],
     "Modified": "2026-01-05",
     "Seasons": {
+        "0": {
+            "ID": "2151988",
+            "URL": "https://thetvdb.com/series/watashi-o-tabetai-hito-de-nashi/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11786087",
+                    "TYPE": "Behind the Scenes/ Makings Of",
+                    "CATEGORY": "Behind the Scenes/ Makings Of",
+                    "URL": "https://www.thetvdb.com/series/watashi-o-tabetai-hito-de-nashi/episodes/11786087",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "「私を喰べたい、ひとでなし」アニメ化記念特番 fromえひめ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
         "1": {
             "ID": "2151989",
             "URL": "https://thetvdb.com/series/watashi-o-tabetai-hito-de-nashi/seasons/official/1",
