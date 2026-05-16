@@ -23,6 +23,30 @@
     ],
     "Modified": "2026-03-10",
     "Seasons": {
+        "0": {
+            "ID": "2141133",
+            "URL": "https://thetvdb.com/series/yano-kun-no-futsuu-no-hibi-453230/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11795384",
+                    "TYPE": "Episodic Special",
+                    "CATEGORY": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/yano-kun-no-futsuu-no-hibi-453230/episodes/11795384",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "矢野くんの普通の日々 放送記念スペシャル特番"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
         "1": {
             "ID": "2141134",
             "URL": "https://thetvdb.com/series/yano-kun-no-futsuu-no-hibi-453230/seasons/official/1",
