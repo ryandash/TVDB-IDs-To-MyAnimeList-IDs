@@ -55,6 +55,19 @@
                     "Aliases": [],
                     "Episode #": 2,
                     "Num Episodes": 2
+                },
+                "3": {
+                    "ID": "11801383",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/i-want-you-to-make-a-disgusted-face-and-show-me-your-underwear/episodes/11801383",
+                    "Titles": {
+                        "eng": "Major General Grashenka",
+                        "jpn": "グラシェンカ少将"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
                 }
             }
         },
@@ -366,5 +379,11 @@
                 }
             }
         }
+    },
+    "Failed": {
+        "Seasons": [
+            "3"
+        ],
+        "Episodes": []
     }
 }
