@@ -173663,6 +173663,26 @@
           "type": "Default"
         }
       ]
+    },
+    {
+      "malId": 64254,
+      "type": "TV",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u51b0\u5263\u306e\u9b54\u8853\u5e2b\u304c\u4e16\u754c\u3092\u7d71\u3079\u308bII",
+          "type": "Japanese"
+        },
+        {
+          "title": "The Iceblade Sorcerer Shall Rule the World II",
+          "type": "English"
+        },
+        {
+          "title": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+          "type": "Default"
+        }
+      ]
     }
   ],
   [
@@ -196266,6 +196286,24 @@
         },
         {
           "title": "Omae, Tanuki ni Naranee ka?",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64253,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u6708\u83ef\u56fd\u5947\u533b\u4f1d",
+          "type": "Japanese"
+        },
+        {
+          "title": "Gekkakoku Kiiden",
           "type": "Default"
         }
       ]
@@ -278189,6 +278227,28 @@
   ],
   [
     {
+      "malId": 64251,
+      "type": "ONA",
+      "year": 2023,
+      "episodes": 10,
+      "titles": [
+        {
+          "title": "\u732b\u4e4b\u8317 \u7b2c\u4e8c\u5b63\u5c0f\u5267\u573a",
+          "type": "Japanese"
+        },
+        {
+          "title": "The Cat's Tea 2 Small Theater",
+          "type": "English"
+        },
+        {
+          "title": "Mao Zhi Ming 2nd Season: Xiao Juchang",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 49,
       "type": "OVA",
       "year": 1993,
@@ -342431,17 +342491,17 @@
   ],
   [
     {
-      "malId": 64253,
+      "malId": 64230,
       "type": "TV",
       "year": 0,
       "episodes": 0,
       "titles": [
         {
-          "title": "\u6708\u83ef\u56fd\u5947\u533b\u4f1d",
+          "title": "\u53ef\u54c0\u60f3\u306b\uff01\u5287\u5834",
           "type": "Japanese"
         },
         {
-          "title": "Gekkakoku Kiiden",
+          "title": "Kawaisouni! Theater",
           "type": "Default"
         }
       ]
@@ -342449,21 +342509,39 @@
   ],
   [
     {
-      "malId": 64251,
+      "malId": 64107,
       "type": "ONA",
-      "year": 2023,
-      "episodes": 10,
+      "year": 2026,
+      "episodes": 0,
       "titles": [
         {
-          "title": "\u732b\u4e4b\u8317 \u7b2c\u4e8c\u5b63\u5c0f\u5267\u573a",
+          "title": "\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2 I am a hero too",
           "type": "Japanese"
         },
         {
-          "title": "The Cat's Tea 2 Small Theater",
+          "title": "My Hero Academia: I Am a Hero Too",
           "type": "English"
         },
         {
-          "title": "Mao Zhi Ming 2nd Season: Xiao Juchang",
+          "title": "Boku no Hero Academia: I Am a Hero Too",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64249,
+      "type": "TV Special",
+      "year": 1980,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "\u307b\u3048\u308d\u30d6\u30f3\u30d6\u30f3\uff08\u5358\u767a\u7279\u756a\uff09",
+          "type": "Japanese"
+        },
+        {
+          "title": "Hoero Bunbun (TV Special)",
           "type": "Default"
         }
       ]
