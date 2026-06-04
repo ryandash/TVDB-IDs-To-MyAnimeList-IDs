@@ -196387,6 +196387,78 @@
   ],
   [
     {
+      "malId": 64319,
+      "type": "TV",
+      "year": 1970,
+      "episodes": 27,
+      "titles": [
+        {
+          "title": "\u30b5\u30e9\u30ea\u30fc\u30de\u30f3\u30df\u30cb\u30df\u30cb\u4f5c\u6226",
+          "type": "Japanese"
+        },
+        {
+          "title": "Salaryman Mini Mini Sakusen",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64331,
+      "type": "TV",
+      "year": 2008,
+      "episodes": 5,
+      "titles": [
+        {
+          "title": "\u30c1\u30e7\u30edQ\u30c7\u30c3\u30ad\u30b7\u30b9\u30c6\u30e0 Q\u30d5\u30a1\u30a4\u30bf\u30fc\u30ba!",
+          "type": "Japanese"
+        },
+        {
+          "title": "Choro-Q Deck System Q Fighters!",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64340,
+      "type": "TV",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u30c6\u30e0\u30d1\u30eb \uff5e\u30a2\u30a4\u30c6\u30e0\u306e\u529b\uff5e",
+          "type": "Japanese"
+        },
+        {
+          "title": "Tempal: Item no Chikara",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64341,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u3048\u3001\u793e\u5185\u30b7\u30b9\u30c6\u30e0\u5168\u3066\u30ef\u30f3\u30aa\u30da\u3057\u3066\u3044\u308b\u79c1\u3092\u89e3\u96c7\u3067\u3059\u304b\uff1f",
+          "type": "Japanese"
+        },
+        {
+          "title": "E, Shanai System Subete One Operation shiteiru Watashi wo Kaiko desu ka?",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -278369,6 +278441,24 @@
   ],
   [
     {
+      "malId": 64325,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 8,
+      "titles": [
+        {
+          "title": "\u30d1\u30a4\u306e\u5b9f",
+          "type": "Japanese"
+        },
+        {
+          "title": "Pie no Mi",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 49,
       "type": "OVA",
       "year": 1993,
@@ -326203,6 +326293,42 @@
   ],
   [
     {
+      "malId": 64332,
+      "type": "OVA",
+      "year": 2002,
+      "episodes": 3,
+      "titles": [
+        {
+          "title": "\u96fb\u52d5\u4f5c\u6226\u30ac\u30c3\u30bf\u30a4\u30aa\u30fc",
+          "type": "Japanese"
+        },
+        {
+          "title": "Dendou Sakusen Gattaiou",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64333,
+      "type": "OVA",
+      "year": 1990,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "\u30c8\u30df\u30ab\u672a\u6765\u7dca\u6025\u968a\u30a2\u30fc\u30b9\u30b3\u30de\u30f3\u30c0\u30fc",
+          "type": "Japanese"
+        },
+        {
+          "title": "Tomica Mirai Kinkyuu Tai Earth Commander",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 2302,
       "type": "Special",
       "year": 1988,
@@ -342629,132 +342755,6 @@
   ],
   [
     {
-      "malId": 64319,
-      "type": "TV",
-      "year": 1970,
-      "episodes": 27,
-      "titles": [
-        {
-          "title": "\u30b5\u30e9\u30ea\u30fc\u30de\u30f3\u30df\u30cb\u30df\u30cb\u4f5c\u6226",
-          "type": "Japanese"
-        },
-        {
-          "title": "Salaryman Mini Mini Sakusen",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64331,
-      "type": "TV",
-      "year": 2008,
-      "episodes": 5,
-      "titles": [
-        {
-          "title": "\u30c1\u30e7\u30edQ\u30c7\u30c3\u30ad\u30b7\u30b9\u30c6\u30e0 Q\u30d5\u30a1\u30a4\u30bf\u30fc\u30ba!",
-          "type": "Japanese"
-        },
-        {
-          "title": "Choro-Q Deck System Q Fighters!",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64340,
-      "type": "TV",
-      "year": 2026,
-      "episodes": 0,
-      "titles": [
-        {
-          "title": "\u30c6\u30e0\u30d1\u30eb \uff5e\u30a2\u30a4\u30c6\u30e0\u306e\u529b\uff5e",
-          "type": "Japanese"
-        },
-        {
-          "title": "Tempal: Item no Chikara",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64341,
-      "type": "TV",
-      "year": 0,
-      "episodes": 0,
-      "titles": [
-        {
-          "title": "\u3048\u3001\u793e\u5185\u30b7\u30b9\u30c6\u30e0\u5168\u3066\u30ef\u30f3\u30aa\u30da\u3057\u3066\u3044\u308b\u79c1\u3092\u89e3\u96c7\u3067\u3059\u304b\uff1f",
-          "type": "Japanese"
-        },
-        {
-          "title": "E, Shanai System Subete One Operation shiteiru Watashi wo Kaiko desu ka?",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64325,
-      "type": "ONA",
-      "year": 2026,
-      "episodes": 8,
-      "titles": [
-        {
-          "title": "\u30d1\u30a4\u306e\u5b9f",
-          "type": "Japanese"
-        },
-        {
-          "title": "Pie no Mi",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64332,
-      "type": "OVA",
-      "year": 2002,
-      "episodes": 3,
-      "titles": [
-        {
-          "title": "\u96fb\u52d5\u4f5c\u6226\u30ac\u30c3\u30bf\u30a4\u30aa\u30fc",
-          "type": "Japanese"
-        },
-        {
-          "title": "Dendou Sakusen Gattaiou",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64333,
-      "type": "OVA",
-      "year": 1990,
-      "episodes": 1,
-      "titles": [
-        {
-          "title": "\u30c8\u30df\u30ab\u672a\u6765\u7dca\u6025\u968a\u30a2\u30fc\u30b9\u30b3\u30de\u30f3\u30c0\u30fc",
-          "type": "Japanese"
-        },
-        {
-          "title": "Tomica Mirai Kinkyuu Tai Earth Commander",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
       "malId": 64320,
       "type": "TV Special",
       "year": 1977,
@@ -342784,6 +342784,60 @@
         },
         {
           "title": "Hinamatsuri Anime Fantasy! Uchuu no Hate made Bouken Ryokoi Romantic Ginga Tour e no wo Shoutai!!",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64344,
+      "type": "TV",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u7363\u738b\u6b66\u795e\u30c0\u30f3\u30c7\u30f4\u30a1\u30a4\u30f3",
+          "type": "Japanese"
+        },
+        {
+          "title": "Kemono Ou Bushin Dandivine",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64338,
+      "type": "ONA",
+      "year": 2006,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "\u706b\u306e\u9ce5 \u30a2\u30fc\u30b9\u30ad\u30fc\u30d1\u30fc\u30ba\u7bc7",
+          "type": "Japanese"
+        },
+        {
+          "title": "Hi no Tori: Earthkeepers-hen",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64337,
+      "type": "OVA",
+      "year": 1990,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "\u609f\u7a7a\u306e\u8457\u4f5c\u6a29\u5165\u9580",
+          "type": "Japanese"
+        },
+        {
+          "title": "Gokuu no Chosakken Nyuumon",
           "type": "Default"
         }
       ]
