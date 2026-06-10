@@ -196537,6 +196537,24 @@
   ],
   [
     {
+      "malId": 64374,
+      "type": "TV",
+      "year": 2027,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u96fb\u6483\u30c7\u30a4\u30b8\u30fc",
+          "type": "Japanese"
+        },
+        {
+          "title": "Dengeki Daisy",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -342927,17 +342945,39 @@
   ],
   [
     {
-      "malId": 64374,
-      "type": "TV",
-      "year": 2027,
-      "episodes": 0,
+      "malId": 64289,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 1,
       "titles": [
         {
-          "title": "\u96fb\u6483\u30c7\u30a4\u30b8\u30fc",
+          "title": "\u9913\u72fc\u4f1d\u8aac CotW\uff5cMr.KARATE\uff5c\u30ed\u30f3\u30b0\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u30c8\u30ec\u30fc\u30e9\u30fc",
           "type": "Japanese"
         },
         {
-          "title": "Dengeki Daisy",
+          "title": "Fatal Fury: City of the Wolves - Mr. KARATE Trailer",
+          "type": "English"
+        },
+        {
+          "title": "Garou Densetsu: CotW - Mr. Karate",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64375,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 6,
+      "titles": [
+        {
+          "title": "\u57ce\u968d\u5f55",
+          "type": "Japanese"
+        },
+        {
+          "title": "Cheng Huang Lu",
           "type": "Default"
         }
       ]
