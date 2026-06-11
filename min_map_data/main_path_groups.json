@@ -278573,6 +278573,46 @@
   ],
   [
     {
+      "malId": 64289,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "\u9913\u72fc\u4f1d\u8aac CotW\uff5cMr.KARATE\uff5c\u30ed\u30f3\u30b0\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u30c8\u30ec\u30fc\u30e9\u30fc",
+          "type": "Japanese"
+        },
+        {
+          "title": "Fatal Fury: City of the Wolves - Mr. KARATE Trailer",
+          "type": "English"
+        },
+        {
+          "title": "Garou Densetsu: CotW - Mr. Karate",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64375,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 6,
+      "titles": [
+        {
+          "title": "\u57ce\u968d\u5f55",
+          "type": "Japanese"
+        },
+        {
+          "title": "Cheng Huang Lu",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 49,
       "type": "OVA",
       "year": 1993,
@@ -342945,21 +342985,17 @@
   ],
   [
     {
-      "malId": 64289,
-      "type": "ONA",
+      "malId": 64378,
+      "type": "TV",
       "year": 2026,
-      "episodes": 1,
+      "episodes": 0,
       "titles": [
         {
-          "title": "\u9913\u72fc\u4f1d\u8aac CotW\uff5cMr.KARATE\uff5c\u30ed\u30f3\u30b0\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u30c8\u30ec\u30fc\u30e9\u30fc",
+          "title": "\u5317\u6597\u306e\u62f3 \u62f3\u738b\u8ecd\u30b6\u30b3\u305f\u3061\u306e\u633d\u6b4c \u7b2c2\u30af\u30fc\u30eb",
           "type": "Japanese"
         },
         {
-          "title": "Fatal Fury: City of the Wolves - Mr. KARATE Trailer",
-          "type": "English"
-        },
-        {
-          "title": "Garou Densetsu: CotW - Mr. Karate",
+          "title": "Hokuto no Ken: Kenougun Zako-tachi no Banka Part 2",
           "type": "Default"
         }
       ]
@@ -342967,17 +343003,39 @@
   ],
   [
     {
-      "malId": 64375,
-      "type": "ONA",
-      "year": 2026,
-      "episodes": 6,
+      "malId": 64379,
+      "type": "TV",
+      "year": 2027,
+      "episodes": 0,
       "titles": [
         {
-          "title": "\u57ce\u968d\u5f55",
+          "title": "\u6700\u5f37\u9b54\u6cd5\u5e2b\u306e\u96a0\u9041\u8a08\u753b",
           "type": "Japanese"
         },
         {
-          "title": "Cheng Huang Lu",
+          "title": "The Greatest Magicmaster's Retirement Plan",
+          "type": "English"
+        },
+        {
+          "title": "Saikyou Mahoushi no Inton Keikaku",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64372,
+      "type": "OVA",
+      "year": 1996,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "\u6b8b\u3055\u308c\u305f\u540d\u523a\uff0d\u3042\u308b\u5728\u65e5\u4e00\u4e16\u306e\u8ecc\u8de1\uff0d",
+          "type": "Japanese"
+        },
+        {
+          "title": "Nokosareta Meishi: Aru Zainichi Issei no Kiseki",
           "type": "Default"
         }
       ]
