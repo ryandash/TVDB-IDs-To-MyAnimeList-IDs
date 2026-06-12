@@ -59805,6 +59805,26 @@
           "type": "Default"
         }
       ]
+    },
+    {
+      "malId": 64381,
+      "type": "TV Special",
+      "year": 2026,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "TV\u30a2\u30cb\u30e1\u300c\u304a\u305d\u677e\u3055\u3093\u300d\u7b2c4\u671f \u7b2c13\u8a71\u300c\u30b6\u30fb\u30de\u30c4\u30ce\u30c6\u30f3\u300d",
+          "type": "Japanese"
+        },
+        {
+          "title": "Mr. Osomatsu 4th Season: The Matsuno Ten",
+          "type": "English"
+        },
+        {
+          "title": "Osomatsu-san 4th Season: The Matsuno Ten",
+          "type": "Default"
+        }
+      ]
     }
   ],
   [
@@ -196555,6 +196575,46 @@
   ],
   [
     {
+      "malId": 64378,
+      "type": "TV",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u5317\u6597\u306e\u62f3 \u62f3\u738b\u8ecd\u30b6\u30b3\u305f\u3061\u306e\u633d\u6b4c \u7b2c2\u30af\u30fc\u30eb",
+          "type": "Japanese"
+        },
+        {
+          "title": "Hokuto no Ken: Kenougun Zako-tachi no Banka Part 2",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64379,
+      "type": "TV",
+      "year": 2027,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u6700\u5f37\u9b54\u6cd5\u5e2b\u306e\u96a0\u9041\u8a08\u753b",
+          "type": "Japanese"
+        },
+        {
+          "title": "The Greatest Magicmaster's Retirement Plan",
+          "type": "English"
+        },
+        {
+          "title": "Saikyou Mahoushi no Inton Keikaku",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -326501,6 +326561,24 @@
   ],
   [
     {
+      "malId": 64372,
+      "type": "OVA",
+      "year": 1996,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "\u6b8b\u3055\u308c\u305f\u540d\u523a\uff0d\u3042\u308b\u5728\u65e5\u4e00\u4e16\u306e\u8ecc\u8de1\uff0d",
+          "type": "Japanese"
+        },
+        {
+          "title": "Nokosareta Meishi: Aru Zainichi Issei no Kiseki",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 2302,
       "type": "Special",
       "year": 1988,
@@ -342985,57 +343063,21 @@
   ],
   [
     {
-      "malId": 64378,
-      "type": "TV",
-      "year": 2026,
-      "episodes": 0,
-      "titles": [
-        {
-          "title": "\u5317\u6597\u306e\u62f3 \u62f3\u738b\u8ecd\u30b6\u30b3\u305f\u3061\u306e\u633d\u6b4c \u7b2c2\u30af\u30fc\u30eb",
-          "type": "Japanese"
-        },
-        {
-          "title": "Hokuto no Ken: Kenougun Zako-tachi no Banka Part 2",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64379,
+      "malId": 64380,
       "type": "TV",
       "year": 2027,
       "episodes": 0,
       "titles": [
         {
-          "title": "\u6700\u5f37\u9b54\u6cd5\u5e2b\u306e\u96a0\u9041\u8a08\u753b",
+          "title": "\u604b\u305b\u3088\u307e\u3084\u304b\u3057\u5929\u4f7f\u3069\u3082",
           "type": "Japanese"
         },
         {
-          "title": "The Greatest Magicmaster's Retirement Plan",
+          "title": "Fall in Love, You False Angels",
           "type": "English"
         },
         {
-          "title": "Saikyou Mahoushi no Inton Keikaku",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64372,
-      "type": "OVA",
-      "year": 1996,
-      "episodes": 1,
-      "titles": [
-        {
-          "title": "\u6b8b\u3055\u308c\u305f\u540d\u523a\uff0d\u3042\u308b\u5728\u65e5\u4e00\u4e16\u306e\u8ecc\u8de1\uff0d",
-          "type": "Japanese"
-        },
-        {
-          "title": "Nokosareta Meishi: Aru Zainichi Issei no Kiseki",
+          "title": "Koiseyo Mayakashi Tenshi-domo",
           "type": "Default"
         }
       ]
