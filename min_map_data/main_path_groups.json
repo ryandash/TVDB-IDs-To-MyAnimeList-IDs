@@ -196615,6 +196615,28 @@
   ],
   [
     {
+      "malId": 64380,
+      "type": "TV",
+      "year": 2027,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u604b\u305b\u3088\u307e\u3084\u304b\u3057\u5929\u4f7f\u3069\u3082",
+          "type": "Japanese"
+        },
+        {
+          "title": "Fall in Love, You False Angels",
+          "type": "English"
+        },
+        {
+          "title": "Koiseyo Mayakashi Tenshi-domo",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -266311,6 +266333,22 @@
           "type": "Default"
         }
       ]
+    },
+    {
+      "malId": 64388,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 100,
+      "titles": [
+        {
+          "title": "\u7edd\u4e16\u6218\u9b42 \u7b2c2\u5b63",
+          "type": "Japanese"
+        },
+        {
+          "title": "Jueshi Zhan Hun 2nd Season",
+          "type": "Default"
+        }
+      ]
     }
   ],
   [
@@ -267938,6 +267976,26 @@
         },
         {
           "title": "Jian Lai 2nd Season",
+          "type": "Default"
+        }
+      ]
+    },
+    {
+      "malId": 64387,
+      "type": "ONA",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u5251\u6765 \u7b2c\u4e09\u5b63",
+          "type": "Japanese"
+        },
+        {
+          "title": "The Swords 3",
+          "type": "English"
+        },
+        {
+          "title": "Jian Lai 3rd Season",
           "type": "Default"
         }
       ]
@@ -343063,21 +343121,21 @@
   ],
   [
     {
-      "malId": 64380,
-      "type": "TV",
-      "year": 2027,
-      "episodes": 0,
+      "malId": 64384,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 40,
       "titles": [
         {
-          "title": "\u604b\u305b\u3088\u307e\u3084\u304b\u3057\u5929\u4f7f\u3069\u3082",
+          "title": "\u638c\u95e8\u4f4e\u8c03\u70b9",
           "type": "Japanese"
         },
         {
-          "title": "Fall in Love, You False Angels",
+          "title": "Stay Low Profile, Sect Chief",
           "type": "English"
         },
         {
-          "title": "Koiseyo Mayakashi Tenshi-domo",
+          "title": "Zhangmen Didiao Dian",
           "type": "Default"
         }
       ]
