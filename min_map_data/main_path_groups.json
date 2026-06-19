@@ -343182,5 +343182,45 @@
         }
       ]
     }
+  ],
+  [
+    {
+      "malId": 64419,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u30cb\u30bb\u30e2\u30ce\u306e\u932c\u91d1\u8853\u5e2b",
+          "type": "Japanese"
+        },
+        {
+          "title": "The Fake Alchemist",
+          "type": "English"
+        },
+        {
+          "title": "Nisemono no Renkinjutsushi",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64422,
+      "type": "ONA",
+      "year": 2024,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "\u3072\u307f\u3064\u3069\u3046\u3057",
+          "type": "Japanese"
+        },
+        {
+          "title": "Himitsu Doushi",
+          "type": "Default"
+        }
+      ]
+    }
   ]
 ]
