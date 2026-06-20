@@ -196637,6 +196637,28 @@
   ],
   [
     {
+      "malId": 64419,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u30cb\u30bb\u30e2\u30ce\u306e\u932c\u91d1\u8853\u5e2b",
+          "type": "Japanese"
+        },
+        {
+          "title": "The Fake Alchemist",
+          "type": "English"
+        },
+        {
+          "title": "Nisemono no Renkinjutsushi",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -278795,6 +278817,24 @@
   ],
   [
     {
+      "malId": 64422,
+      "type": "ONA",
+      "year": 2024,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "\u3072\u307f\u3064\u3069\u3046\u3057",
+          "type": "Japanese"
+        },
+        {
+          "title": "Himitsu Doushi",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 49,
       "type": "OVA",
       "year": 1993,
@@ -343185,21 +343225,17 @@
   ],
   [
     {
-      "malId": 64419,
+      "malId": 64430,
       "type": "TV",
-      "year": 0,
+      "year": 2026,
       "episodes": 0,
       "titles": [
         {
-          "title": "\u30cb\u30bb\u30e2\u30ce\u306e\u932c\u91d1\u8853\u5e2b",
+          "title": "\u3086\u308b\u3086\u308b\u56f3\u9451",
           "type": "Japanese"
         },
         {
-          "title": "The Fake Alchemist",
-          "type": "English"
-        },
-        {
-          "title": "Nisemono no Renkinjutsushi",
+          "title": "Yuruyuru Zukan",
           "type": "Default"
         }
       ]
@@ -343207,17 +343243,57 @@
   ],
   [
     {
-      "malId": 64422,
+      "malId": 64427,
       "type": "ONA",
-      "year": 2024,
-      "episodes": 1,
+      "year": 2027,
+      "episodes": 0,
       "titles": [
         {
-          "title": "\u3072\u307f\u3064\u3069\u3046\u3057",
+          "title": "BEAT\uff06MOTION",
           "type": "Japanese"
         },
         {
-          "title": "Himitsu Doushi",
+          "title": "Beat & Motion",
+          "type": "English"
+        },
+        {
+          "title": "Beat & Motion",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64428,
+      "type": "ONA",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u5730\u5143\u6700\u9ad8!",
+          "type": "Japanese"
+        },
+        {
+          "title": "Jimoto Saikou!",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64433,
+      "type": "ONA",
+      "year": 2021,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u611b\u3057\u306e\u30b6\u30b3\u914d\u4fe1\u8005\u3061\u3083\u3093",
+          "type": "Japanese"
+        },
+        {
+          "title": "Itoshi no Zako Haishinsha-chan",
           "type": "Default"
         }
       ]
