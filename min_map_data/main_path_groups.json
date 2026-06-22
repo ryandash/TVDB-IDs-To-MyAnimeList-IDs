@@ -76921,6 +76921,26 @@
           "type": "Default"
         }
       ]
+    },
+    {
+      "malId": 64435,
+      "type": "TV",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u95c7\u829d\u5c45 \u5341\u4e03\u671f",
+          "type": "Japanese"
+        },
+        {
+          "title": "Theatre of Darkness: Yamishibai 17",
+          "type": "English"
+        },
+        {
+          "title": "Yami Shibai 17",
+          "type": "Default"
+        }
+      ]
     }
   ],
   [
@@ -196677,6 +196697,42 @@
   ],
   [
     {
+      "malId": 64439,
+      "type": "TV",
+      "year": 2027,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u3042\u304b\u306d\u567a \u7b2c2\u671f",
+          "type": "Japanese"
+        },
+        {
+          "title": "Akane-banashi 2nd Season",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64441,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u30ab\u30ca\u30f3\u69d8\u306f\u3042\u304f\u307e\u3067\u30c1\u30e7\u30ed\u3044 \u7b2c2\u671f",
+          "type": "Japanese"
+        },
+        {
+          "title": "Kanan-sama wa Akumade Choroi 2nd Season",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -214966,6 +215022,22 @@
         },
         {
           "title": "Doupo Cangqiong: Nian Fan",
+          "type": "Default"
+        }
+      ]
+    },
+    {
+      "malId": 64448,
+      "type": "ONA",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u6597\u7834\u82cd\u7a79\u5267\u573a\u7248 \u53cc\u5e1d\u4e4b\u6218",
+          "type": "Japanese"
+        },
+        {
+          "title": "Doupo Cangqiong Movie: Shuang Di Zhi Zhan",
           "type": "Default"
         }
       ]
@@ -343301,17 +343373,17 @@
   ],
   [
     {
-      "malId": 64439,
+      "malId": 64449,
       "type": "TV",
-      "year": 2027,
+      "year": 0,
       "episodes": 0,
       "titles": [
         {
-          "title": "\u3042\u304b\u306d\u567a \u7b2c2\u671f",
+          "title": "\u300c\u3072\u3050\u3089\u3057\u306e\u306a\u304f\u9803\u306b\u300d\u65b0\u4f5cTV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3",
           "type": "Japanese"
         },
         {
-          "title": "Akane-banashi 2nd Season",
+          "title": "Higurashi no Naku Koro ni (Shinsaku TV Animation)",
           "type": "Default"
         }
       ]
@@ -343319,17 +343391,125 @@
   ],
   [
     {
-      "malId": 64441,
+      "malId": 64452,
       "type": "TV",
       "year": 0,
       "episodes": 0,
       "titles": [
         {
-          "title": "\u30ab\u30ca\u30f3\u69d8\u306f\u3042\u304f\u307e\u3067\u30c1\u30e7\u30ed\u3044 \u7b2c2\u671f",
+          "title": "\u604b\u3059\u308b\uff08\u304a\u3068\u3081\uff09\u306e\u4f5c\u308a\u65b9",
           "type": "Japanese"
         },
         {
-          "title": "Kanan-sama wa Akumade Choroi 2nd Season",
+          "title": "Koisuru (Otome) no Tsukurikata",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64444,
+      "type": "ONA",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u6c42\u9b54",
+          "type": "Japanese"
+        },
+        {
+          "title": "Qiu Mo",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64445,
+      "type": "ONA",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u4ed9\u9006\u5267\u573a\u7248 \u5f11\u4ed9\u4e4b\u6218",
+          "type": "Japanese"
+        },
+        {
+          "title": "Xian Ni Movie: Shi Xian Zhi Zhan",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64446,
+      "type": "ONA",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u5341\u65e5\u7ec8\u7109",
+          "type": "Japanese"
+        },
+        {
+          "title": "Shi Ri Zhong Yan",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64447,
+      "type": "ONA",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u6211\u6709\u4e00\u5ea7\u5192\u9669\u5c4b",
+          "type": "Japanese"
+        },
+        {
+          "title": "Wo You Yi Zuo Maoxian Wu",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64450,
+      "type": "ONA",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u8bdb\u4ed9\u5267\u573a\u7248 \u5341\u5e74\u6b8a\u9014",
+          "type": "Japanese"
+        },
+        {
+          "title": "Zhu Xian Movie: Shi Nian Shu Tu",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64451,
+      "type": "ONA",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u70bc\u6c14\u5341\u4e07\u5e74\u7279\u522b\u7bc7 \u9633\u6781\u5929\u4e0b",
+          "type": "Japanese"
+        },
+        {
+          "title": "Lian Qi Shi Wan Nian Special: Yangji Tianxia",
           "type": "Default"
         }
       ]
