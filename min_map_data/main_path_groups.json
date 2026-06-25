@@ -196769,6 +196769,24 @@
   ],
   [
     {
+      "malId": 64462,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u30ec\u30d9\u30eb\u30ed\u30dc\u30c1\u30ab",
+          "type": "Japanese"
+        },
+        {
+          "title": "Re:bel Robotica",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -258867,6 +258885,26 @@
           "type": "Default"
         }
       ]
+    },
+    {
+      "malId": 64461,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u6709\u517d\u7109 \u7b2c\u516d\u5b63",
+          "type": "Japanese"
+        },
+        {
+          "title": "Fabulous Beasts 6th Season",
+          "type": "English"
+        },
+        {
+          "title": "You Shou Yan 6th Season",
+          "type": "Default"
+        }
+      ]
     }
   ],
   [
@@ -279216,6 +279254,46 @@
         },
         {
           "title": "Tunshi Xingkong Movie: Jie Shou Weiji",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64459,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u30d5\u30fc\u30eb\u30ca\u30a4\u30c8",
+          "type": "Japanese"
+        },
+        {
+          "title": "Fool Night",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64460,
+      "type": "ONA",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u795e\u5370\u738b\u5ea7\u00b7\u5723\u5df4\u522b\u4e4b\u6218",
+          "type": "Japanese"
+        },
+        {
+          "title": "Throne of Seal: The Battle of Saint Bable",
+          "type": "English"
+        },
+        {
+          "title": "Shen Yin Wangzuo: Sheng Babie Zhi Zhan",
           "type": "Default"
         }
       ]
@@ -343613,57 +343691,21 @@
   ],
   [
     {
-      "malId": 64462,
+      "malId": 64463,
       "type": "TV",
       "year": 0,
       "episodes": 0,
       "titles": [
         {
-          "title": "\u30ec\u30d9\u30eb\u30ed\u30dc\u30c1\u30ab",
+          "title": "\u3088\u3046\u3053\u305d\u5b9f\u529b\u81f3\u4e0a\u4e3b\u7fa9\u306e\u6559\u5ba4\u3078 5th season",
           "type": "Japanese"
         },
         {
-          "title": "Re:bel Robotica",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64459,
-      "type": "ONA",
-      "year": 2026,
-      "episodes": 0,
-      "titles": [
-        {
-          "title": "\u30d5\u30fc\u30eb\u30ca\u30a4\u30c8",
-          "type": "Japanese"
-        },
-        {
-          "title": "Fool Night",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64460,
-      "type": "ONA",
-      "year": 0,
-      "episodes": 0,
-      "titles": [
-        {
-          "title": "\u795e\u5370\u738b\u5ea7\u00b7\u5723\u5df4\u522b\u4e4b\u6218",
-          "type": "Japanese"
-        },
-        {
-          "title": "Throne of Seal: The Battle of Saint Bable",
+          "title": "Classroom of the Elite 5th Season",
           "type": "English"
         },
         {
-          "title": "Shen Yin Wangzuo: Sheng Babie Zhi Zhan",
+          "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season",
           "type": "Default"
         }
       ]
