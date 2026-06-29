@@ -177751,6 +177751,26 @@
           "type": "Default"
         }
       ]
+    },
+    {
+      "malId": 64503,
+      "type": "TV",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u591c\u685c\u3055\u3093\u3061\u306e\u5927\u4f5c\u6226 \u7b2c2\u671f2\u30af\u30fc\u30eb",
+          "type": "Japanese"
+        },
+        {
+          "title": "Mission: Yozakura Family Season 2 Part 2",
+          "type": "English"
+        },
+        {
+          "title": "Yozakura-san Chi no Daisakusen 2nd Season Part 2",
+          "type": "Default"
+        }
+      ]
     }
   ],
   [
@@ -182395,6 +182415,22 @@
           "type": "Default"
         }
       ]
+    },
+    {
+      "malId": 64487,
+      "type": "TV",
+      "year": 2027,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u5317\u6597\u306e\u62f3 -FIST OF THE NORTH STAR- \u7b2c2\u30af\u30fc\u30eb",
+          "type": "Japanese"
+        },
+        {
+          "title": "Hokuto no Ken: Fist of the North Star Part 2",
+          "type": "Default"
+        }
+      ]
     }
   ],
   [
@@ -184834,6 +184870,26 @@
         },
         {
           "title": "Tsue to Tsurugi no Wistoria Season 2",
+          "type": "Default"
+        }
+      ]
+    },
+    {
+      "malId": 64500,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u6756\u3068\u5263\u306e\u30a6\u30a3\u30b9\u30c8\u30ea\u30a2 Season 3",
+          "type": "Japanese"
+        },
+        {
+          "title": "Wistoria: Wand and Sword Season 3",
+          "type": "English"
+        },
+        {
+          "title": "Tsue to Tsurugi no Wistoria Season 3",
           "type": "Default"
         }
       ]
@@ -196904,6 +196960,28 @@
         },
         {
           "title": "Kanojo, Okarishimasu 6th Season",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64495,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u30ad\u30eb\u30a2\u30aa \u7b2c2\u671f",
+          "type": "Japanese"
+        },
+        {
+          "title": "Kill Blue Season 2",
+          "type": "English"
+        },
+        {
+          "title": "Kill Ao 2nd Season",
           "type": "Default"
         }
       ]
@@ -242426,6 +242504,22 @@
         },
         {
           "title": "Ruguo Lishi Shi Yiqun Miao: Yuan Mo Ming Chu Pian",
+          "type": "Default"
+        }
+      ]
+    },
+    {
+      "malId": 64510,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 12,
+      "titles": [
+        {
+          "title": "\u5982\u679c\u5386\u53f2\u662f\u4e00\u7fa4\u55b5 \u5927\u660e\u7687\u671d\u7bc7",
+          "type": "Japanese"
+        },
+        {
+          "title": "Ruguo Lishi Shi Yiqun Miao: Daming Huangchao Pian",
           "type": "Default"
         }
       ]
@@ -343815,21 +343909,39 @@
   ],
   [
     {
-      "malId": 64495,
+      "malId": 64501,
       "type": "TV",
-      "year": 0,
+      "year": 2027,
       "episodes": 0,
       "titles": [
         {
-          "title": "\u30ad\u30eb\u30a2\u30aa \u7b2c2\u671f",
+          "title": "LONA",
           "type": "Japanese"
         },
         {
-          "title": "Kill Blue Season 2",
+          "title": "Laboratory of Optics and Neural Analysis",
           "type": "English"
         },
         {
-          "title": "Kill Ao 2nd Season",
+          "title": "LONA",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64509,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 14,
+      "titles": [
+        {
+          "title": "\u662f\u738b\u8005\u554a\uff1f\u7b2c\u516d\u5b63",
+          "type": "Japanese"
+        },
+        {
+          "title": "Shi Wangzhe A? 6th Season",
           "type": "Default"
         }
       ]
