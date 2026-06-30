@@ -75627,6 +75627,26 @@
           "type": "Default"
         }
       ]
+    },
+    {
+      "malId": 64505,
+      "type": "TV",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u30c0\u30a4\u30e4\u306eA act\u2161 Second Season \u7b2c2\u30af\u30fc\u30eb",
+          "type": "Japanese"
+        },
+        {
+          "title": "Ace of Diamond Act II Season 2 Part 2",
+          "type": "English"
+        },
+        {
+          "title": "Diamond no Ace: Act II Second Season Part 2",
+          "type": "Default"
+        }
+      ]
     }
   ],
   [
@@ -196989,6 +197009,28 @@
   ],
   [
     {
+      "malId": 64501,
+      "type": "TV",
+      "year": 2027,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "LONA",
+          "type": "Japanese"
+        },
+        {
+          "title": "Laboratory of Optics and Neural Analysis",
+          "type": "English"
+        },
+        {
+          "title": "LONA",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -279519,6 +279561,24 @@
   ],
   [
     {
+      "malId": 64509,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 14,
+      "titles": [
+        {
+          "title": "\u662f\u738b\u8005\u554a\uff1f\u7b2c\u516d\u5b63",
+          "type": "Japanese"
+        },
+        {
+          "title": "Shi Wangzhe A? 6th Season",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 49,
       "type": "OVA",
       "year": 1993,
@@ -343909,21 +343969,21 @@
   ],
   [
     {
-      "malId": 64501,
+      "malId": 64516,
       "type": "TV",
-      "year": 2027,
+      "year": 0,
       "episodes": 0,
       "titles": [
         {
-          "title": "LONA",
+          "title": "\u3068\u3093\u304c\u308a\u5e3d\u5b50\u306e\u30a2\u30c8\u30ea\u30a8 \u7b2c2\u671f",
           "type": "Japanese"
         },
         {
-          "title": "Laboratory of Optics and Neural Analysis",
+          "title": "Witch Hat Atelier Seasib 2",
           "type": "English"
         },
         {
-          "title": "LONA",
+          "title": "Tongari Boushi no Atelier 2nd Season",
           "type": "Default"
         }
       ]
@@ -343931,17 +343991,21 @@
   ],
   [
     {
-      "malId": 64509,
-      "type": "ONA",
-      "year": 2026,
-      "episodes": 14,
+      "malId": 64520,
+      "type": "TV",
+      "year": 2027,
+      "episodes": 0,
       "titles": [
         {
-          "title": "\u662f\u738b\u8005\u554a\uff1f\u7b2c\u516d\u5b63",
+          "title": "\u6226\u594f\u6559\u5ba4",
           "type": "Japanese"
         },
         {
-          "title": "Shi Wangzhe A? 6th Season",
+          "title": "The Bugle Call",
+          "type": "English"
+        },
+        {
+          "title": "Sensou Kyoushitsu",
           "type": "Default"
         }
       ]
