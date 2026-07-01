@@ -486,6 +486,28 @@
                     "Aliases": []
                 }
             }
+        },
+        "4": {
+            "ID": "2257562",
+            "URL": "https://thetvdb.com/series/bananya/seasons/official/4",
+            "Titles": {
+                "eng": "Bananya: At-Home Party",
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11867268",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bananya/episodes/11867268",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
         }
     }
 }
