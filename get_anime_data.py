@@ -15,6 +15,7 @@ from urllib.parse import quote
 from rapidfuzz import fuzz
 from tqdm import tqdm
 from safe_jikan import SafeJikan
+from search_thetvdb import search_tvdb, build_batch_requests
 
 @dataclass
 class TitleEntry:
@@ -64,34 +65,6 @@ from collections import defaultdict
 file_locks: dict[Path, asyncio.Lock] = defaultdict(asyncio.Lock)
 def get_file_lock(path: Path):
     return file_locks[path]
-
-# -----------------------------
-# Get Latest Algolia Key
-# -----------------------------
-async def get_latest_algolia_key():
-    async with aiohttp.ClientSession(headers={"User-Agent": "Mozilla/5.0"}) as session:
-        # Get HTML page
-        async with session.get("https://www.thetvdb.com") as resp:
-            resp.raise_for_status()
-            html_text = await resp.text()
-
-        # Find vendor JS path
-        vendor_path_match = re.search(r'src="(/build/js/vendor-[^"]+\.js)"', html_text)
-        if not vendor_path_match:
-            raise Exception("Vendor JS not found.")
-        vendor_path = vendor_path_match.group(1)
-
-        # Get vendor JS content
-        async with session.get(f"https://www.thetvdb.com{vendor_path}") as js_resp:
-            js_resp.raise_for_status()
-            js_text = await js_resp.text()
-
-        # Extract Algolia key
-        key_match = re.search(r'tvshowtime","([a-f0-9]{32})"', js_text)
-        if not key_match:
-            raise Exception("Algolia API key not found.")
-
-        return key_match.group(1)
 
 # -----------------------------
 # Fetch New Anime
@@ -353,7 +326,7 @@ async def make_main_path_relations_map(
 # -----------------------------
 # Search TVDB and Save
 # -----------------------------
-async def search_and_save_tvdb_hits(key: str, grouped: SortedListsOfMinimalAnime, max_concurrent_groups: int = 4):
+async def search_and_save_tvdb_hits(grouped: SortedListsOfMinimalAnime, max_concurrent_groups: int = 4):
     semaphore = asyncio.Semaphore(max_concurrent_groups)
 
     async with aiohttp.ClientSession(headers={
@@ -482,13 +455,8 @@ async def process_group(session: aiohttp.ClientSession, group: List[MinimalAnime
             continue
 
         try:
-            body = {"requests": requests_payload}
-            async with session.post(
-                "https://tvshowtime-dsn.algolia.net/1/indexes/*/queries",
-                json=body
-            ) as resp:
-                resp.raise_for_status()
-                data = await resp.json()
+            body = build_batch_requests(requests_payload)
+            data = await search_tvdb(session, body)
         except Exception as e:
             print(f"Error querying TVDB for {anime.malId}: {e}")
             remaining_group.pop(0)
@@ -594,9 +562,6 @@ async def main():
     JIKAN = SafeJikan()
     await JIKAN.preload_disk_cache()
 
-    # Fetch Algolia key for TVDB
-    key = await get_latest_algolia_key()
-
     # -----------------------------
     # Categories and JSON paths (all under BASE_DIR)
     # -----------------------------
@@ -675,7 +640,7 @@ async def main():
     groups_for_tvdb = SortedListsOfMinimalAnime(groups=all_groups_to_process)
     
     # Search and save TVDB hits for both filtered main path + new movies
-    await search_and_save_tvdb_hits(key, groups_for_tvdb)
+    await search_and_save_tvdb_hits(groups_for_tvdb)
 
     print("\n✅ All categories updated and new movies mapped to TVDB.")
 
