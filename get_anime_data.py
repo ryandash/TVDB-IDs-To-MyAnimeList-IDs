@@ -330,7 +330,6 @@ async def search_and_save_tvdb_hits(grouped: SortedListsOfMinimalAnime, max_conc
     semaphore = asyncio.Semaphore(max_concurrent_groups)
 
     async with aiohttp.ClientSession(headers={
-        "X-Algolia-API-Key": key,
         "X-Algolia-Application-Id": "tvshowtime"
     }) as session:
 
