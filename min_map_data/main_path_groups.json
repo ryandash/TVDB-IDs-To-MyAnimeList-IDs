@@ -182319,6 +182319,22 @@
           "type": "Default"
         }
       ]
+    },
+    {
+      "malId": 64521,
+      "type": "TV",
+      "year": 2025,
+      "episodes": 13,
+      "titles": [
+        {
+          "title": "\uc288\ud37c\ud2b8\ub8602",
+          "type": "Japanese"
+        },
+        {
+          "title": "Supertrons 2",
+          "type": "Default"
+        }
+      ]
     }
   ],
   [
@@ -190653,6 +190669,26 @@
           "type": "Default"
         }
       ]
+    },
+    {
+      "malId": 64534,
+      "type": "TV",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u6c37\u306e\u57ce\u58c1 \u7b2c2\u671f",
+          "type": "Japanese"
+        },
+        {
+          "title": "The Ramparts of Ice Season 2",
+          "type": "English"
+        },
+        {
+          "title": "Koori no Jouheki 2nd Season",
+          "type": "Default"
+        }
+      ]
     }
   ],
   [
@@ -197084,6 +197120,28 @@
         },
         {
           "title": "Sensou Kyoushitsu",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64524,
+      "type": "TV",
+      "year": 2027,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u30de\u30ea\u30c3\u30b8\u30c8\u30ad\u30b7\u30f3 \u7b2c2\u671f",
+          "type": "Japanese"
+        },
+        {
+          "title": "Marriagetoxin Season 2",
+          "type": "English"
+        },
+        {
+          "title": "Marriagetoxin 2nd Season",
           "type": "Default"
         }
       ]
@@ -258763,21 +258821,17 @@
       ]
     },
     {
-      "malId": 58143,
+      "malId": 64535,
       "type": "ONA",
-      "year": 2024,
-      "episodes": 1,
+      "year": 0,
+      "episodes": 0,
       "titles": [
         {
-          "title": "\u7231\u4e0a\u5979\u7684\u7406\u7531",
+          "title": "\u674e\u8bd7\u96c5",
           "type": "Japanese"
         },
         {
-          "title": "The Girl Downstairs Extra",
-          "type": "English"
-        },
-        {
-          "title": "Aishang Ta de Liyou Extra",
+          "title": "Li Shiya",
           "type": "Default"
         }
       ]
@@ -265686,6 +265740,28 @@
         },
         {
           "title": "Guonian Zhe Lianmeng: Xinchun Saima",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 58143,
+      "type": "ONA",
+      "year": 2024,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "\u7231\u4e0a\u5979\u7684\u7406\u7531",
+          "type": "Japanese"
+        },
+        {
+          "title": "The Girl Downstairs Extra",
+          "type": "English"
+        },
+        {
+          "title": "Aishang Ta de Liyou Extra",
           "type": "Default"
         }
       ]
@@ -279632,6 +279708,28 @@
         },
         {
           "title": "Shi Wangzhe A? 6th Season",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64525,
+      "type": "ONA",
+      "year": 2018,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "\u65e5\u66ae\u4e4b\u9699",
+          "type": "Japanese"
+        },
+        {
+          "title": "The Quintet of the Sunset",
+          "type": "English"
+        },
+        {
+          "title": "Rimu Zhi Xi",
           "type": "Default"
         }
       ]
@@ -344029,21 +344127,21 @@
   ],
   [
     {
-      "malId": 64524,
+      "malId": 64527,
       "type": "TV",
       "year": 2027,
       "episodes": 0,
       "titles": [
         {
-          "title": "\u30de\u30ea\u30c3\u30b8\u30c8\u30ad\u30b7\u30f3 \u7b2c2\u671f",
+          "title": "\u30bd\u30a2\u30e9\u3068\u9b54\u7269\u306e\u5bb6",
           "type": "Japanese"
         },
         {
-          "title": "Marriagetoxin Season 2",
+          "title": "Soara and Monster's House",
           "type": "English"
         },
         {
-          "title": "Marriagetoxin 2nd Season",
+          "title": "Soara to Mamono no Ie",
           "type": "Default"
         }
       ]
@@ -344051,21 +344149,65 @@
   ],
   [
     {
-      "malId": 64525,
-      "type": "ONA",
-      "year": 2018,
-      "episodes": 1,
+      "malId": 64528,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
       "titles": [
         {
-          "title": "\u65e5\u66ae\u4e4b\u9699",
+          "title": "\u9b54\u5973\u3068\u731f\u72ac",
           "type": "Japanese"
         },
         {
-          "title": "The Quintet of the Sunset",
+          "title": "Witch and Hound",
           "type": "English"
         },
         {
-          "title": "Rimu Zhi Xi",
+          "title": "Majo to Ryouken",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64540,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u9b54\u7269\u4f7f\u3044\u306e\u5a18",
+          "type": "Japanese"
+        },
+        {
+          "title": "Monster Master Girl",
+          "type": "English"
+        },
+        {
+          "title": "Mamonotsukai no Musume",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64533,
+      "type": "ONA",
+      "year": 2019,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "\u5938\u7236\u8ffd\u65e5",
+          "type": "Japanese"
+        },
+        {
+          "title": "Kuafu Chasing After the Sun",
+          "type": "English"
+        },
+        {
+          "title": "Kua Fu Zhui Ri",
           "type": "Default"
         }
       ]

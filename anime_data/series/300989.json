@@ -448,6 +448,19 @@
                     "Aliases": [],
                     "Episode #": 1,
                     "Num Episodes": 1
+                },
+                "33": {
+                    "ID": "11868320",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/mr-osomatsu/episodes/11868320",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "12.5話 「爽・醜・変」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
                 }
             }
         },
@@ -1463,5 +1476,11 @@
                 }
             }
         }
+    },
+    "Failed": {
+        "Seasons": [
+            "4"
+        ],
+        "Episodes": []
     }
 }

@@ -17,6 +17,30 @@
     "Aliases": [],
     "Modified": "2024-01-31",
     "Seasons": {
+        "0": {
+            "ID": "544070",
+            "URL": "https://thetvdb.com/series/179181-show/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11870885",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/179181-show/episodes/11870885",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "怪物くん 怪物ランドへの招待"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
         "1": {
             "ID": "287501",
             "URL": "https://thetvdb.com/series/179181-show/seasons/official/1",
