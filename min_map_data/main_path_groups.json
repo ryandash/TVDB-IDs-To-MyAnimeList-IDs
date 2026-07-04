@@ -197149,6 +197149,72 @@
   ],
   [
     {
+      "malId": 64527,
+      "type": "TV",
+      "year": 2027,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u30bd\u30a2\u30e9\u3068\u9b54\u7269\u306e\u5bb6",
+          "type": "Japanese"
+        },
+        {
+          "title": "Soara and Monster's House",
+          "type": "English"
+        },
+        {
+          "title": "Soara to Mamono no Ie",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64528,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u9b54\u5973\u3068\u731f\u72ac",
+          "type": "Japanese"
+        },
+        {
+          "title": "Witch and Hound",
+          "type": "English"
+        },
+        {
+          "title": "Majo to Ryouken",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64540,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u9b54\u7269\u4f7f\u3044\u306e\u5a18",
+          "type": "Japanese"
+        },
+        {
+          "title": "Monster Master Girl",
+          "type": "English"
+        },
+        {
+          "title": "Mamonotsukai no Musume",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -279737,6 +279803,28 @@
   ],
   [
     {
+      "malId": 64533,
+      "type": "ONA",
+      "year": 2019,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "\u5938\u7236\u8ffd\u65e5",
+          "type": "Japanese"
+        },
+        {
+          "title": "Kuafu Chasing After the Sun",
+          "type": "English"
+        },
+        {
+          "title": "Kua Fu Zhui Ri",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 49,
       "type": "OVA",
       "year": 1993,
@@ -344120,94 +344208,6 @@
         },
         {
           "title": "Meitantei Conan: Hanamaru na Answer",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64527,
-      "type": "TV",
-      "year": 2027,
-      "episodes": 0,
-      "titles": [
-        {
-          "title": "\u30bd\u30a2\u30e9\u3068\u9b54\u7269\u306e\u5bb6",
-          "type": "Japanese"
-        },
-        {
-          "title": "Soara and Monster's House",
-          "type": "English"
-        },
-        {
-          "title": "Soara to Mamono no Ie",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64528,
-      "type": "TV",
-      "year": 0,
-      "episodes": 0,
-      "titles": [
-        {
-          "title": "\u9b54\u5973\u3068\u731f\u72ac",
-          "type": "Japanese"
-        },
-        {
-          "title": "Witch and Hound",
-          "type": "English"
-        },
-        {
-          "title": "Majo to Ryouken",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64540,
-      "type": "TV",
-      "year": 0,
-      "episodes": 0,
-      "titles": [
-        {
-          "title": "\u9b54\u7269\u4f7f\u3044\u306e\u5a18",
-          "type": "Japanese"
-        },
-        {
-          "title": "Monster Master Girl",
-          "type": "English"
-        },
-        {
-          "title": "Mamonotsukai no Musume",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64533,
-      "type": "ONA",
-      "year": 2019,
-      "episodes": 1,
-      "titles": [
-        {
-          "title": "\u5938\u7236\u8ffd\u65e5",
-          "type": "Japanese"
-        },
-        {
-          "title": "Kuafu Chasing After the Sun",
-          "type": "English"
-        },
-        {
-          "title": "Kua Fu Zhui Ri",
           "type": "Default"
         }
       ]
