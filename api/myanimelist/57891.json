@@ -132,5 +132,23 @@
         "thetvdb": 10693380,
         "series id": 445009,
         "season id": 2106537
+    },
+    {
+        "season": 2,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/season/2258053",
+        "myanimelist url": "https://myanimelist.net/anime/57891",
+        "myanimelist": 57891,
+        "thetvdb": 2258053,
+        "series id": 445009
+    },
+    {
+        "season": 2,
+        "episode": 1,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/11872234",
+        "myanimelist url": "https://myanimelist.net/anime/57891/Hitoribocchi_no_Isekai_Kouryaku/episode/1",
+        "myanimelist": 57891,
+        "thetvdb": 11872234,
+        "series id": 445009,
+        "season id": 2258053
     }
 ]
