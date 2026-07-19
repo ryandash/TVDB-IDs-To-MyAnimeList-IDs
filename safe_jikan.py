@@ -62,7 +62,7 @@ class SafeJikan:
         self._inflight_tasks: dict[tuple, asyncio.Task] = {}
         self._cache_lock = asyncio.Lock()
         self.semaphore = asyncio.Semaphore(max_concurrent)
-        self.aio_jikan = AioJikan()
+        self.aio_jikan = AioJikan(selected_base="https://api.tenrai.org/v1")
         self._last_request = 0.0
         self._lock = asyncio.Lock()
         self.disk_cache_dir = Path("anime_cache")
