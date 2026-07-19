@@ -242,33 +242,64 @@ class SafeJikan:
     # -----------------------------
     # Public Jikan API methods
     # -----------------------------
+    async def anime_list(self, **kwargs) -> dict:
+        url = f"{self.aio_jikan.base}/anime"
+
+        session = await self.aio_jikan._get_session()
+
+        response = await session.get(
+            url,
+            params=kwargs
+        )
+
+        return await self.aio_jikan._wrap_response(
+            response,
+            str(response.url)
+        )
+
     async def search_anime(self, query: str | None = None, type_: str | None = None, page: int | None = None, limit: int | None = None) -> dict:
         """
         Perform a safe Jikan anime search with automatic rate limiting and retries.
         """
-        if not any((query, type_, page)):
-            raise ValueError("search_anime() requires at least one of: query, type_, or page.")
 
-        params = {
-            **({ "type": type_ } if type_ else {}),
-            **({ "limit": limit } if limit else {}),
+        if query is None and type_ is None and page is None:
+            raise ValueError(
+                "search_anime() requires at least one of: query, type_, or page."
+            )
+
+        if query:
+            kwargs = {
+                "search_type": "anime",
+                "query": query,
+                **({"type": type_} if type_ is not None else {}),
+                **({"limit": limit} if limit is not None else {}),
+                **({"page": page} if page is not None else {}),
+            }
+
+            result = await self._cached_call(
+                self.aio_jikan.search,
+                **kwargs
+            )
+
+        else:
+            kwargs = {
+                **({"type": type_} if type_ is not None else {}),
+                **({"limit": limit} if limit is not None else {}),
+                **({"page": page} if page is not None else {}),
+            }
+
+            result = await self._cached_call(
+                self.anime_list,
+                **kwargs
+            )
+
+        return {
+            **result,
+            "data": [
+                a for a in result.get("data", [])
+                if not (a.get("rating") or "").lower().startswith("rx")
+            ]
         }
-
-        kwargs = {
-            "search_type": "anime",
-            "query": query or "",
-            "parameters": params,
-            **({ "page": page } if page is not None else {}),
-        }
-
-        result = await self._cached_call(self.aio_jikan.search, **kwargs)
-
-        result["data"] = [
-            a for a in result.get("data", [])
-            if not (a.get("rating") or "").lower().startswith("rx")
-        ]
-
-        return result
 
     async def get_anime(self, mal_id: int, episode_number: Optional[int] = None) -> Optional[MinimalAnime]:
         if not isinstance(mal_id, int) or mal_id <= 0:
