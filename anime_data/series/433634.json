@@ -294,6 +294,28 @@
                     "Aliases": []
                 }
             }
+        },
+        "2": {
+            "ID": "2258025",
+            "URL": "https://thetvdb.com/series/433634-series/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11871916",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/433634-series/episodes/11871916",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
         }
     }
 }

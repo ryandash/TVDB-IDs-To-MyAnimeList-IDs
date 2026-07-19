@@ -189,6 +189,34 @@
                     "Aliases": []
                 }
             }
+        },
+        "2": {
+            "ID": "2257820",
+            "URL": "https://thetvdb.com/series/koori-no-jouheki/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11869926",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koori-no-jouheki/episodes/11869926",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
         }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": []
     }
 }
