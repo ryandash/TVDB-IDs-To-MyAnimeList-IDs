@@ -8,3 +8,4 @@ lxml>=6.0.1
 aiohttp>=3.12.15
 orjson>=3.11.7
 networkx>=3.6.1
+curl_cffi>=0.15.0

@@ -1,4 +1,4 @@
-import aiohttp
+from curl_cffi import requests
 import asyncio
 import argparse
 
@@ -40,11 +40,11 @@ def build_batch_requests(requests: list[dict]):
 # -------------------------
 # HTTP CALL (WORKS FOR BOTH)
 # -------------------------
-async def search_tvdb(session: aiohttp.ClientSession, body: dict) -> dict:
-    async with session.post(TVDB_URL, json=body) as resp:
-        if resp.status != 200:
-            raise RuntimeError(f"TVDB search failed: {resp.status}")
-        return await resp.json()
+async def search_tvdb(session: requests.AsyncSession, body: dict) -> dict:
+    resp = await session.post(TVDB_URL, json=body)
+    if resp.status_code != 200:
+        raise RuntimeError(f"TVDB search failed: {resp.status_code}")
+    return await resp.json()
 
 
 def extract_hits(data: dict):
@@ -61,9 +61,19 @@ async def main():
     headers = {
         "X-Algolia-Application-Id": "tvshowtime",
         "Content-Type": "application/json",
+        "Accept": "application/json",
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 "
+            "(KHTML, like Gecko) "
+            "Chrome/150.0.0.0 Safari/537.36"
+        )
     }
 
-    async with aiohttp.ClientSession(headers=headers) as session:
+    async with requests.AsyncSession(
+        impersonate="chrome",
+        headers=headers
+    ) as session:
 
         body = build_batch_requests([
             build_single_request("dragon ball z", "series", 1986),
