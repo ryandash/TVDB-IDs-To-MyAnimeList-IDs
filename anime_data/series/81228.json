@@ -1,0 +1,57 @@
+{
+    "URL": "https://thetvdb.com/series/tide-line-blue",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Drama"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1234602/",
+        "https://www.themoviedb.org/tv/34084"
+    ],
+    "Titles": {
+        "eng": "Tide Line Blue",
+        "jpn": "タイドライン・ブルー"
+    },
+    "Aliases": [],
+    "Modified": "2026-06-25",
+    "Seasons": {
+        "0": {
+            "ID": "30378",
+            "URL": "https://thetvdb.com/series/tide-line-blue/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "4131976",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/tide-line-blue/episodes/4131976",
+                    "Titles": {
+                        "eng": "Brother",
+                        "jpn": "兄弟"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "349923",
+            "349920",
+            "349922",
+            "349919",
+            "349921"
+        ]
+    }
+}

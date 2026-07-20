@@ -1,0 +1,64 @@
+{
+    "URL": "https://thetvdb.com/series/the-story-of-saiunkoku",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1687093/",
+        "https://www.themoviedb.org/tv/42980"
+    ],
+    "Titles": {
+        "eng": "The Story of Saiunkoku",
+        "jpn": "彩雲国物語"
+    },
+    "Aliases": [
+        "Saiunkoku Monogatari"
+    ],
+    "Modified": "2025-09-28",
+    "Seasons": {
+        "0": {
+            "ID": "29752",
+            "URL": "https://thetvdb.com/series/the-story-of-saiunkoku/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "345660",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/the-story-of-saiunkoku/episodes/345660",
+                    "Titles": {
+                        "eng": "The World of Saiunkoku Monogatari (Part 1) - Welcome to Saiunkoku",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1",
+            "2"
+        ],
+        "Episodes": [
+            "345629",
+            "345628",
+            "345623",
+            "345626",
+            "345624",
+            "345627",
+            "345625"
+        ]
+    }
+}

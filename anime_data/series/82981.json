@@ -1,0 +1,64 @@
+{
+    "URL": "https://thetvdb.com/series/wingman",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0296462/",
+        "https://www.themoviedb.org/tv/78382"
+    ],
+    "Titles": {
+        "eng": "Wingman",
+        "jpn": "夢戦士ウイングマン"
+    },
+    "Aliases": [
+        "Dream Warrior Wingman",
+        "Yume Senshi Wingman",
+        "Dream Fighter Wingman"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "537426",
+            "URL": "https://thetvdb.com/series/wingman/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "7000664",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/wingman/episodes/7000664",
+                    "Titles": {
+                        "eng": "Episode 01",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "386222",
+            "386226",
+            "386219",
+            "386225",
+            "386218",
+            "386220",
+            "386224"
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "URL": "https://thetvdb.com/series/lovedol-lovely-idol",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0978081/",
+        "https://www.themoviedb.org/tv/132994"
+    ],
+    "Titles": {
+        "eng": "Lovedol ~Lovely Idol~",
+        "jpn": "らぶドル 〜Lovely Idol〜"
+    },
+    "Aliases": [],
+    "Modified": "2026-06-06",
+    "Seasons": {
+        "0": {
+            "ID": "224111",
+            "URL": "https://thetvdb.com/series/lovedol-lovely-idol/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "2004381",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/lovedol-lovely-idol/episodes/2004381",
+                    "Titles": {
+                        "eng": "It is a Hot Spring?",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "2002751",
+            "2002761",
+            "2002771"
+        ]
+    }
+}

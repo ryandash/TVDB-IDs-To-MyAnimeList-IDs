@@ -1,0 +1,113 @@
+{
+    "URL": "https://thetvdb.com/series/inazuma-eleven",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Sport"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2189248/",
+        "https://www.themoviedb.org/tv/42912"
+    ],
+    "Titles": {
+        "eng": "Inazuma Eleven",
+        "jpn": "イナズマイレブン"
+    },
+    "Aliases": [
+        "Inazuma Eleven GO",
+        "Inazuma Eleven GO Galaxy",
+        "Inazuma Eleven GO 2: Chrono Stone",
+        "イナズマイレブンGO",
+        "イナズマイレブンGO ギャラクシー",
+        "イナズマイレブンGO 2 クロノ・ストーン",
+        "イナズマイレブン アレスの天秤"
+    ],
+    "Modified": "2026-05-19",
+    "Seasons": {
+        "0": {
+            "ID": "205031",
+            "URL": "https://thetvdb.com/series/inazuma-eleven/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "9123306",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/inazuma-eleven/episodes/9123306",
+                    "Titles": {
+                        "eng": "Inazuma Eleven the Movie: The Invasion of the Strongest Army Ogre",
+                        "jpn": "イナズマイレブン 最強軍団オーガ襲来"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "9123308",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/inazuma-eleven/episodes/9123308",
+                    "Titles": {
+                        "eng": "Inazuma Eleven GO the Movie: The Ultimate Bonds Gryphon",
+                        "jpn": "劇場版イナズマイレブンGO 究極の絆 グリフォン"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "9123310",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/inazuma-eleven/episodes/9123310",
+                    "Titles": {
+                        "eng": "Inazuma Eleven GO VS Danball Senki W",
+                        "jpn": "劇場版イナズマイレブンGO vs ダンボール戦機W"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "9123311",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/inazuma-eleven/episodes/9123311",
+                    "Titles": {
+                        "eng": "Inazuma Eleven Chou Jigen Dream Match",
+                        "jpn": "イナズマイレブン超次元ドリームマッチ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "4",
+            "2",
+            "3",
+            "1"
+        ],
+        "Episodes": [
+            "4140474",
+            "2975971",
+            "4313526",
+            "4287150",
+            "4313525",
+            "2975961",
+            "4121845",
+            "4287151",
+            "4121844",
+            "2975991",
+            "4121843",
+            "2975911"
+        ]
+    }
+}

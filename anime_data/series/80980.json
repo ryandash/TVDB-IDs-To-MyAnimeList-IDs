@@ -1,0 +1,72 @@
+{
+    "URL": "https://thetvdb.com/series/a-little-snow-fairy-sugar",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1155605/",
+        "https://www.themoviedb.org/tv/22758"
+    ],
+    "Titles": {
+        "eng": "A Little Snow Fairy Sugar",
+        "jpn": "ちっちゃな雪使いシュガー"
+    },
+    "Aliases": [
+        "Tiny Snow Fairy Sugar",
+        "Chitchana Yukitsukai Shugā",
+        "Chiccha na Yuki Tsukai Sugar"
+    ],
+    "Modified": "2024-09-04",
+    "Seasons": {
+        "0": {
+            "ID": "29755",
+            "URL": "https://thetvdb.com/series/a-little-snow-fairy-sugar/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "345685",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/a-little-snow-fairy-sugar/episodes/345685",
+                    "Titles": {
+                        "eng": "What's in the Heart (Part One)",
+                        "jpn": "その胸にあるもの 前編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "2": {
+                    "ID": "345686",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/a-little-snow-fairy-sugar/episodes/345686",
+                    "Titles": {
+                        "eng": "What's in the Heart (Part Two)",
+                        "jpn": "その胸にあるもの 後編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "345681",
+            "345683",
+            "345682"
+        ]
+    }
+}

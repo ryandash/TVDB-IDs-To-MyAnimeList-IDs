@@ -1,0 +1,64 @@
+{
+    "URL": "https://thetvdb.com/series/sofy-ruby",
+    "Genres": [
+        "Animation",
+        "Children"
+    ],
+    "Other Sites": [],
+    "Titles": {
+        "eng": "Sofy Ruby",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2017-04-26",
+    "Seasons": {
+        "0": {
+            "ID": "709808",
+            "URL": "https://thetvdb.com/series/sofy-ruby/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "7047750",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/sofy-ruby/episodes/7047750",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "2",
+            "1"
+        ],
+        "Episodes": [
+            "7048488",
+            "6226081",
+            "7048489",
+            "7048491",
+            "7048493",
+            "6231185",
+            "7048501",
+            "7048499",
+            "7048490",
+            "7048496",
+            "7048494",
+            "6153667",
+            "6226083",
+            "7048498",
+            "6226080",
+            "6226082"
+        ]
+    }
+}

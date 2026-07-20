@@ -1,0 +1,54 @@
+{
+    "URL": "https://thetvdb.com/series/angels-feather",
+    "Genres": [
+        "Animation",
+        "Drama",
+        "Romance",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt5914168/",
+        "https://www.themoviedb.org/tv/94930"
+    ],
+    "Titles": {
+        "eng": "Angel's Feather",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2026-07-02",
+    "Seasons": {
+        "1": {
+            "ID": "106061",
+            "URL": "https://thetvdb.com/series/angels-feather/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "981951",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/angels-feather/episodes/981951",
+                    "Titles": {
+                        "eng": "Omen",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "981961",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/angels-feather/episodes/981961",
+                    "Titles": {
+                        "eng": "Seeking the Dawn's Light",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

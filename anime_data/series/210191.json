@@ -1,0 +1,78 @@
+{
+    "URL": "https://thetvdb.com/series/megane-na-kanojo",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt3460860/",
+        "https://web.archive.org/web/20100915134537/http://meganenakanojo.com/",
+        "https://www.themoviedb.org/tv/92220",
+        "https://www.themoviedb.org/tv/92220"
+    ],
+    "Titles": {
+        "eng": "Glasses Girlfriends",
+        "jpn": "眼鏡なカノジョ"
+    },
+    "Aliases": [
+        "Spectacled Girlfriends",
+        "Megane na Kanojo"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "367781",
+            "URL": "https://thetvdb.com/series/megane-na-kanojo/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "3249841",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/megane-na-kanojo/episodes/3249841",
+                    "Titles": {
+                        "eng": "I Hate Not Wearing Them",
+                        "jpn": "かけず嫌い"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "3249851",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/megane-na-kanojo/episodes/3249851",
+                    "Titles": {
+                        "eng": "The Two After Taking Them Off",
+                        "jpn": "外して二人"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "3249861",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/megane-na-kanojo/episodes/3249861",
+                    "Titles": {
+                        "eng": "Transparent Hearts",
+                        "jpn": "透き通る心"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "3249871",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/megane-na-kanojo/episodes/3249871",
+                    "Titles": {
+                        "eng": "Foggy Warmth",
+                        "jpn": "曇ぬくもり"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "URL": "https://thetvdb.com/series/318966-show",
+    "Genres": [
+        "Anime - Kodomomuke",
+        "Anime - Shonen"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt7905120/",
+        "http://mecard.co.kr/",
+        "http://www.reddit.com/r/Mecard",
+        "https://tvlistings.zap2it.com/overview.html?programSeriesId=EP02690979",
+        "https://www.themoviedb.org/tv/76843",
+        "https://www.themoviedb.org/tv/76843",
+        "https://www.wikidata.org/wiki/Q21825272",
+        "https://en.wikipedia.org/wiki/Turning_Mecard_(TV_series)",
+        "https://www.youtube.com/c/mecard"
+    ],
+    "Titles": {
+        "eng": "Turning Mecard",
+        "jpn": "ターニングメカード"
+    },
+    "Aliases": [
+        "Mecard",
+        "Tāningumekādo",
+        "Tāningu Mekādo",
+        "超速戦士 メカード"
+    ],
+    "Modified": "2024-05-07",
+    "Seasons": {
+        "0": {
+            "ID": "686110",
+            "URL": "https://thetvdb.com/series/318966-show/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "9476039",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/318966-show/episodes/9476039",
+                    "Titles": {
+                        "eng": "Turning Mecard Special",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "5819699",
+            "5819700",
+            "5819698"
+        ]
+    }
+}

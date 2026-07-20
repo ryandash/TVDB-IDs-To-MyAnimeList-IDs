@@ -1,0 +1,73 @@
+{
+    "URL": "https://thetvdb.com/series/421869-",
+    "Genres": [
+        "History",
+        "Martial Arts"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/113060"
+    ],
+    "Titles": {
+        "eng": "Shinshuu Sudama Hen",
+        "jpn": "神州魑魅変"
+    },
+    "Aliases": [],
+    "Modified": "2022-07-20",
+    "Seasons": {
+        "1": {
+            "ID": "2007845",
+            "URL": "https://thetvdb.com/series/421869-/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "9238727",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/421869-/episodes/9238727",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "黄金の竜"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9238728",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/421869-/episodes/9238728",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "妖魔蠢動"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9238729",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/421869-/episodes/9238729",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "剣風魔魂"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9238730",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/421869-/episodes/9238730",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "霊峰血戦"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

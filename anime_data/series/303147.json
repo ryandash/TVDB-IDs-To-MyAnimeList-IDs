@@ -1,0 +1,60 @@
+{
+    "URL": "https://thetvdb.com/series/girls-beyond-the-wasteland",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt5326434/",
+        "https://www.themoviedb.org/tv/65661"
+    ],
+    "Titles": {
+        "eng": "Girls Beyond the Wasteland",
+        "jpn": "少女たちは荒野を目指す"
+    },
+    "Aliases": [
+        "Shōjo-tachi wa Kōya o Mezasu",
+        "Shoujo-tachi wa Kouya wo Mezasu",
+        "Girls beyond the youth KOYA",
+        "Girls aim for the Wilderness: Girls beyond the youth KOYA"
+    ],
+    "Modified": "2025-06-03",
+    "Seasons": {
+        "0": {
+            "ID": "644679",
+            "URL": "https://thetvdb.com/series/girls-beyond-the-wasteland/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "5401950",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/girls-beyond-the-wasteland/episodes/5401950",
+                    "Titles": {
+                        "eng": "Shoujotachi wa Kouya o Mezasu: OVA",
+                        "jpn": "OVA「戦略的ゲームバンドル版…と言うべきものかしら」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "5498608",
+            "5498607"
+        ]
+    }
+}

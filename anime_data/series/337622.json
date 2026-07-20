@@ -1,0 +1,87 @@
+{
+    "URL": "https://thetvdb.com/series/katana-maidens-toji-no-miko",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt7829656/",
+        "https://www.themoviedb.org/tv/75864",
+        "https://www.themoviedb.org/tv/75864"
+    ],
+    "Titles": {
+        "eng": "Katana Maidens ~ Toji No Miko",
+        "jpn": "刀使ノ巫女"
+    },
+    "Aliases": [
+        "Sword User Shrine Maiden",
+        "Katana Maidens -Tomoshibi",
+        "Toji no Miko"
+    ],
+    "Modified": "2026-01-10",
+    "Seasons": {
+        "0": {
+            "ID": "737203",
+            "URL": "https://thetvdb.com/series/katana-maidens-toji-no-miko/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "6613235",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/katana-maidens-toji-no-miko/episodes/6613235",
+                    "Titles": {
+                        "eng": "Short Version Digest",
+                        "jpn": "総集編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "8013312",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/katana-maidens-toji-no-miko/episodes/8013312",
+                    "Titles": {
+                        "eng": "Tomoshibi Part 1",
+                        "jpn": "刀使ノ巫女 刻みし一閃の燈火 前編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "3": {
+                    "ID": "8078659",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/katana-maidens-toji-no-miko/episodes/8078659",
+                    "Titles": {
+                        "eng": "Tomoshibi Part 2",
+                        "jpn": "刀使ノ巫女 刻みし一閃の燈火 後編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "6506888",
+            "6506887",
+            "6506889"
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "URL": "https://thetvdb.com/series/katsugeki-touken-ranbu",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Fantasy",
+        "History"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt8503628/",
+        "https://www.themoviedb.org/tv/72028"
+    ],
+    "Titles": {
+        "eng": "Katsugeki TOUKEN RANBU",
+        "jpn": "活撃 刀剣乱舞"
+    },
+    "Aliases": [
+        "Katsugeki! Tōken Ranbu",
+        "Katsugeki/Touken Ranbu"
+    ],
+    "Modified": "2026-02-03",
+    "Seasons": {
+        "0": {
+            "ID": "709592",
+            "URL": "https://thetvdb.com/series/katsugeki-touken-ranbu/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "6328946",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/katsugeki-touken-ranbu/episodes/6328946",
+                    "Titles": {
+                        "eng": "Movie",
+                        "jpn": "劇場版 活撃/刀剣乱舞"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "6281427",
+            "6212226",
+            "6212227",
+            "6267062",
+            "6196049",
+            "6253481"
+        ]
+    }
+}

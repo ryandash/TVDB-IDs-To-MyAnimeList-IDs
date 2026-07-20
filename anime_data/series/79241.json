@@ -1,0 +1,138 @@
+{
+    "URL": "https://thetvdb.com/series/el-hazard-the-wanderers",
+    "Genres": [
+        "Adaptation",
+        "Anime - Shonen"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0158406/",
+        "https://www.themoviedb.org/tv/22098"
+    ],
+    "Titles": {
+        "eng": "El Hazard: The Wanderers",
+        "jpn": "神秘の世界エルハザード"
+    },
+    "Aliases": [],
+    "Modified": "2026-01-10",
+    "Seasons": {
+        "0": {
+            "ID": "535549",
+            "URL": "https://thetvdb.com/series/el-hazard-the-wanderers/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 7,
+            "Episodes": {
+                "1": {
+                    "ID": "8259596",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/el-hazard-the-wanderers/episodes/8259596",
+                    "Titles": {
+                        "eng": "The Magnificent World OVA 1",
+                        "jpn": "混戦の世界エルハザード"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 7
+                },
+                "2": {
+                    "ID": "8259597",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/el-hazard-the-wanderers/episodes/8259597",
+                    "Titles": {
+                        "eng": "The Magnificent World OVA 2",
+                        "jpn": "美女の世界エルハザード"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 7
+                },
+                "3": {
+                    "ID": "8259598",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/el-hazard-the-wanderers/episodes/8259598",
+                    "Titles": {
+                        "eng": "The Magnificent World OVA 3",
+                        "jpn": "温泉の世界エルハザード"
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 7
+                },
+                "4": {
+                    "ID": "8259599",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/el-hazard-the-wanderers/episodes/8259599",
+                    "Titles": {
+                        "eng": "The Magnificent World OVA 4",
+                        "jpn": "鬼神の世界エルハザード"
+                    },
+                    "Aliases": [],
+                    "Episode #": 4,
+                    "Num Episodes": 7
+                },
+                "5": {
+                    "ID": "8259600",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/el-hazard-the-wanderers/episodes/8259600",
+                    "Titles": {
+                        "eng": "The Magnificent World OVA 5",
+                        "jpn": "雷鳴の世界エルハザード"
+                    },
+                    "Aliases": [],
+                    "Episode #": 5,
+                    "Num Episodes": 7
+                },
+                "6": {
+                    "ID": "8259601",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/el-hazard-the-wanderers/episodes/8259601",
+                    "Titles": {
+                        "eng": "The Magnificent World OVA 6",
+                        "jpn": "閃光の世界エルハザード"
+                    },
+                    "Aliases": [],
+                    "Episode #": 6,
+                    "Num Episodes": 7
+                },
+                "7": {
+                    "ID": "8259602",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/el-hazard-the-wanderers/episodes/8259602",
+                    "Titles": {
+                        "eng": "The Magnificent World OVA 7",
+                        "jpn": "永遠の世界エルハザード"
+                    },
+                    "Aliases": [],
+                    "Episode #": 7,
+                    "Num Episodes": 7
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "3318791",
+            "3318801",
+            "3318741",
+            "3318761",
+            "3318721",
+            "3318731",
+            "3318781",
+            "3318821",
+            "3318751",
+            "3318771"
+        ]
+    }
+}

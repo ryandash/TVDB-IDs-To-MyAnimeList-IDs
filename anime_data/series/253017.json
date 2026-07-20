@@ -1,0 +1,57 @@
+{
+    "URL": "https://thetvdb.com/series/idol-densetsu-eriko",
+    "Genres": [
+        "Animation",
+        "Drama"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0302119/",
+        "https://www.themoviedb.org/tv/44647"
+    ],
+    "Titles": {
+        "eng": "Legendary Idol Eriko",
+        "jpn": "アイドル伝説えり子"
+    },
+    "Aliases": [
+        "Idol Densetsu Eriko"
+    ],
+    "Modified": "2025-10-25",
+    "Seasons": {
+        "0": {
+            "ID": "550606",
+            "URL": "https://thetvdb.com/series/idol-densetsu-eriko/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "6292475",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/idol-densetsu-eriko/episodes/6292475",
+                    "Titles": {
+                        "eng": "Non-existant episode",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "4192747",
+            "4192748",
+            "4192749",
+            "4192745",
+            "4192746"
+        ]
+    }
+}

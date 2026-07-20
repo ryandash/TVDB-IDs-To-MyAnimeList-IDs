@@ -1,0 +1,138 @@
+{
+    "URL": "https://thetvdb.com/series/ng-knight-ramune-and-40",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Fantasy",
+        "Romance",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/26110"
+    ],
+    "Titles": {
+        "eng": "NG Knight Lamune & 40",
+        "jpn": "NG騎士ラムネ&40"
+    },
+    "Aliases": [],
+    "Modified": "2025-10-31",
+    "Seasons": {
+        "0": {
+            "ID": "622066",
+            "URL": "https://thetvdb.com/series/ng-knight-ramune-and-40/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "5217062",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ng-knight-ramune-and-40/episodes/5217062",
+                    "Titles": {
+                        "eng": "EX: Trembling Triangle Operation: Love Storm 1 – Love, Resumed",
+                        "jpn": "NG騎士ラムネ&40EX ビクビクトライアングル愛の嵐大作戦 #1 愛ふたたび"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 3
+                },
+                "2": {
+                    "ID": "5217063",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ng-knight-ramune-and-40/episodes/5217063",
+                    "Titles": {
+                        "eng": "EX: Trembling Triangle Operation: Love Storm 2 – Love, Swept Away",
+                        "jpn": "NG騎士ラムネ&40EX ビクビクトライアングル愛の嵐大作戦 #2 愛流されて"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 3
+                },
+                "3": {
+                    "ID": "5217064",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ng-knight-ramune-and-40/episodes/5217064",
+                    "Titles": {
+                        "eng": "EX: Trembling Triangle Operation: Love Storm 3 – Love Triumphant",
+                        "jpn": "NG騎士ラムネ&40EX ビクビクトライアングル愛の嵐大作戦 #3 愛は勝つ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 3
+                },
+                "4": {
+                    "ID": "5217065",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ng-knight-ramune-and-40/episodes/5217065",
+                    "Titles": {
+                        "eng": "DX: Passionate Pursuit in Wakuwaku Space-time: Warriors of Love, Begin a New Journey!",
+                        "jpn": "NG騎士ラムネ&40DX ワクワク時空 炎の大捜査戦 #1 愛の戦士たち"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "5": {
+                    "ID": "5217066",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ng-knight-ramune-and-40/episodes/5217066",
+                    "Titles": {
+                        "eng": "DX: Search of Passion in Wakuwaku Space-time: Warriors of Love, Travel to the Past!",
+                        "jpn": "NG騎士ラムネ&40DX ワクワク時空 炎の大捜査戦 #2 過去へ…"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "6": {
+                    "ID": "5217067",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ng-knight-ramune-and-40/episodes/5217067",
+                    "Titles": {
+                        "eng": "DX: Passionate Pursuit in Wakuwaku Space-time: Warriors of Love, Be Eternal!",
+                        "jpn": "NG騎士ラムネ&40DX ワクワク時空 炎の大捜査戦 #3 永遠に!"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "5216976",
+            "5216975",
+            "5216982",
+            "5216987",
+            "5216979",
+            "5216984",
+            "5216986",
+            "5216978",
+            "5216989",
+            "5216977",
+            "5216973",
+            "5216971",
+            "5216980",
+            "5216988",
+            "5216974",
+            "5216981",
+            "5216990",
+            "5216985",
+            "5216983",
+            "5216972"
+        ]
+    }
+}

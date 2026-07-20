@@ -1,0 +1,832 @@
+{
+    "URL": "https://thetvdb.com/series/monogatari",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/7B77-C753-1928-B435-9683-9",
+        "https://www.imdb.com/title/tt1480925/",
+        "https://www.monogatari-series.com/",
+        "http://www.reddit.com/r/araragi/",
+        "https://www.tvmaze.com/shows/4202/show-slug",
+        "https://www.themoviedb.org/tv/46195",
+        "https://en.wikipedia.org/wiki/Monogatari_(series)"
+    ],
+    "Titles": {
+        "eng": "Monogatari",
+        "jpn": "物語シリーズ"
+    },
+    "Aliases": [
+        "Ghostory",
+        "Tsukimonogatari: Yotsugi Doll",
+        "Bakemonogatari",
+        "Zenmonogatari",
+        "Hanamonogatari",
+        "Zoku Owarimonogatari",
+        "Kabukimonogatari",
+        "Kizumonogatari",
+        "Koimonogatari",
+        "Koyomimonogatari",
+        "Monogatari Series",
+        "Monogatari Series: First Season",
+        "Monogatari Series: Second Season",
+        "Monogatari Series: Final Season",
+        "Nekomonogatari",
+        "Nisemonogatari",
+        "Onimonogatari",
+        "Otorimonogatari",
+        "Owarimonogatari",
+        "MONOGATARI Series OFF & MONSTER Season",
+        "暦物語",
+        "シリーズ セカンド",
+        "〈物語〉シリーズ オフ＆モンスターシーズン",
+        "〈物語〉シリーズ"
+    ],
+    "Modified": "2026-07-15",
+    "Seasons": {
+        "1": {
+            "ID": "86961",
+            "URL": "https://thetvdb.com/series/monogatari/seasons/official/1",
+            "Titles": {
+                "eng": "Bakemonogatari",
+                "jpn": "化物語",
+                "fra": "Bakemonogatari",
+                "kor": "바케모노가타리",
+                "zho": "化物語",
+                "spa": "Bakemonogatari",
+                "deu": "Bakemonogatari",
+                "rus": "Истории монстров",
+                "ukr": "Історії Монстрів"
+            },
+            "# Episodes": 15,
+            "Episodes": {
+                "1": {
+                    "ID": "830421",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/830421",
+                    "Titles": {
+                        "eng": "Hitagi Crab - Part 1",
+                        "jpn": "ひたぎクラブ 其ノ壹"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "830451",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/830451",
+                    "Titles": {
+                        "eng": "Hitagi Crab - Part 2",
+                        "jpn": "ひたぎクラブ 其ノ貮"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "882021",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/882021",
+                    "Titles": {
+                        "eng": "Mayoi Snail - Part 1",
+                        "jpn": "まよいマイマイ 其ノ壹"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "908301",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/908301",
+                    "Titles": {
+                        "eng": "Mayoi Snail - Part 2",
+                        "jpn": "まよいマイマイ 其ノ貮"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "935411",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/935411",
+                    "Titles": {
+                        "eng": "Mayoi Snail - Part 3",
+                        "jpn": "まよいマイマイ 其ノ參"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "960831",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/960831",
+                    "Titles": {
+                        "eng": "Suruga Monkey - Part 1",
+                        "jpn": "するがモンキー 其ノ壹"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "966311",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/966311",
+                    "Titles": {
+                        "eng": "Suruga Monkey - Part 2",
+                        "jpn": "するがモンキー 其ノ貮"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "966321",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/966321",
+                    "Titles": {
+                        "eng": "Suruga Monkey - Part 3",
+                        "jpn": "するがモンキー 其ノ參"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "966331",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/966331",
+                    "Titles": {
+                        "eng": "Nadeko Snake - Part 1",
+                        "jpn": "なでこスネイク 其ノ壹"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "1056211",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/1056211",
+                    "Titles": {
+                        "eng": "Nadeko Snake - Part 2",
+                        "jpn": "なでこスネイク 其ノ貮"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "1074891",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/1074891",
+                    "Titles": {
+                        "eng": "Tsubasa Cat - Part 1",
+                        "jpn": "つばさキャット 其ノ壹"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "1074901",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/1074901",
+                    "Titles": {
+                        "eng": "Tsubasa Cat - Part 2",
+                        "jpn": "つばさキャット 其ノ貮"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "1124541",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/1124541",
+                    "Titles": {
+                        "eng": "Tsubasa Cat - Part 3",
+                        "jpn": "つばさキャット 其ノ參"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "1327321",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/1327321",
+                    "Titles": {
+                        "eng": "Tsubasa Cat - Part 4",
+                        "jpn": "つばさキャット 其ノ肆"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "2409291",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/2409291",
+                    "Titles": {
+                        "eng": "Tsubasa Cat - Part 5",
+                        "jpn": "つばさキャット 其ノ伍"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "481207",
+            "URL": "https://thetvdb.com/series/monogatari/seasons/official/2",
+            "Titles": {
+                "eng": "Nisemonogatari",
+                "jpn": "偽物語",
+                "fra": "Nisemonogatari",
+                "zho": "伪物语",
+                "spa": "Nisemonogatari",
+                "kor": "니세모노가타리",
+                "deu": "Nisemonogatari",
+                "rus": "Истории подделок",
+                "ukr": "Історії підробок"
+            },
+            "# Episodes": 11,
+            "Episodes": {
+                "1": {
+                    "ID": "4229864",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/4229864",
+                    "Titles": {
+                        "eng": "Karen Bee - Part 1",
+                        "jpn": "かれんビー 其ノ壹"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4230994",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/4230994",
+                    "Titles": {
+                        "eng": "Karen Bee - Part 2",
+                        "jpn": "かれんビー 其ノ貳"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4230993",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/4230993",
+                    "Titles": {
+                        "eng": "Karen Bee - Part 3",
+                        "jpn": "かれんビー 其ノ參"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4230992",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/4230992",
+                    "Titles": {
+                        "eng": "Karen Bee - Part 4",
+                        "jpn": "かれんビー 其ノ肆"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4246705",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/4246705",
+                    "Titles": {
+                        "eng": "Karen Bee - Part 5",
+                        "jpn": "かれんビー 其ノ伍"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4246706",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/4246706",
+                    "Titles": {
+                        "eng": "Karen Bee - Part 6",
+                        "jpn": "かれんビー 其ノ陸"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4246707",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/4246707",
+                    "Titles": {
+                        "eng": "Karen Bee - Part 7",
+                        "jpn": "かれんビー 其ノ漆"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4246708",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/4246708",
+                    "Titles": {
+                        "eng": "Tsukihi Phoenix - Part 1",
+                        "jpn": "つきひフェニックス 其ノ壹"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4246709",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/4246709",
+                    "Titles": {
+                        "eng": "Tsukihi Phoenix - Part 2",
+                        "jpn": "つきひフェニックス 其ノ貳"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4246710",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/4246710",
+                    "Titles": {
+                        "eng": "Tsukihi Phoenix - Part 3",
+                        "jpn": "つきひフェニックス 其ノ參"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4246711",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/4246711",
+                    "Titles": {
+                        "eng": "Tsukihi Phoenix - Part 4",
+                        "jpn": "つきひフェニックス 其ノ肆"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "4": {
+            "ID": "631760",
+            "URL": "https://thetvdb.com/series/monogatari/seasons/official/4",
+            "Titles": {
+                "eng": "Owarimonogatari",
+                "jpn": "終物語",
+                "fra": "Owarimonogatari",
+                "zho": "终物语",
+                "spa": "Owarimonogatari",
+                "rus": "История финала",
+                "kor": "오와리모노가타리 (상)",
+                "ukr": "Історії фіналу",
+                "deu": "Owarimonogatari"
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "5276091",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/5276091",
+                    "Titles": {
+                        "eng": "Ougi Formula - Parts 1 & 2",
+                        "jpn": "おうぎフォーミュラ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5325616",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/5325616",
+                    "Titles": {
+                        "eng": "Sodachi Riddle - Part 1",
+                        "jpn": "そだちリドル 其ノ壹"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5325617",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/5325617",
+                    "Titles": {
+                        "eng": "Sodachi Riddle - Part 2",
+                        "jpn": "そだちリドル 其ノ貳"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5325618",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/5325618",
+                    "Titles": {
+                        "eng": "Sodachi Lost - Part 1",
+                        "jpn": "そだちロスト 其ノ壹"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5325619",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/5325619",
+                    "Titles": {
+                        "eng": "Sodachi Lost - Part 2",
+                        "jpn": "そだちロスト 其ノ貳"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5356170",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/5356170",
+                    "Titles": {
+                        "eng": "Sodachi Lost - Part 3",
+                        "jpn": "そだちロスト 其ノ參"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5356171",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/5356171",
+                    "Titles": {
+                        "eng": "Shinobu Mail - Part 1",
+                        "jpn": "しのぶメイル 其ノ壹"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5356172",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/5356172",
+                    "Titles": {
+                        "eng": "Shinobu Mail - Part 2",
+                        "jpn": "しのぶメイル 其ノ貳"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5356173",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/5356173",
+                    "Titles": {
+                        "eng": "Shinobu Mail - Part 3",
+                        "jpn": "しのぶメイル 其ノ參"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5356174",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/5356174",
+                    "Titles": {
+                        "eng": "Shinobu Mail - Part 4",
+                        "jpn": "しのぶメイル 其ノ肆"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5356176",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/5356176",
+                    "Titles": {
+                        "eng": "Shinobu Mail - Part 5",
+                        "jpn": "しのぶメイル 其ノ伍"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5356177",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/5356177",
+                    "Titles": {
+                        "eng": "Shinobu Mail - Part 6",
+                        "jpn": "しのぶメイル 其ノ陸"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "5": {
+            "ID": "724784",
+            "URL": "https://thetvdb.com/series/monogatari/seasons/official/5",
+            "Titles": {
+                "eng": "Owarimonogatari 2nd Season",
+                "jpn": "終物語SP",
+                "zho": "终物语（第二季）",
+                "fra": "Owarimonogatari Saison 2",
+                "rus": "История финала 2",
+                "spa": "Owarimonogatari (Ge)",
+                "kor": "오와리모노가타리 (하)",
+                "ukr": "Історії фіналу: другий сезон",
+                "deu": "Owarimonogatari 2"
+            },
+            "# Episodes": 7,
+            "Episodes": {
+                "1": {
+                    "ID": "6253102",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/6253102",
+                    "Titles": {
+                        "eng": "Mayoi Hell - Part 1",
+                        "jpn": "まよいヘル 其ノ壹"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6277681",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/6277681",
+                    "Titles": {
+                        "eng": "Mayoi Hell - Part 2",
+                        "jpn": "まよいヘル 其ノ貮"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6253103",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/6253103",
+                    "Titles": {
+                        "eng": "Hitagi Rendezvous - Part 1",
+                        "jpn": "ひたぎランデブー 其ノ壹"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6277689",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/6277689",
+                    "Titles": {
+                        "eng": "Hitagi Rendezvous - Part 2",
+                        "jpn": "ひたぎランデブー 其ノ貮"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6277745",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/6277745",
+                    "Titles": {
+                        "eng": "Ougi Dark - Part 1",
+                        "jpn": "おうぎダーク 其ノ壹"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6277744",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/6277744",
+                    "Titles": {
+                        "eng": "Ougi Dark - Part 2",
+                        "jpn": "おうぎダーク 其ノ貮"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6253482",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/6253482",
+                    "Titles": {
+                        "eng": "Ougi Dark - Part 3",
+                        "jpn": "おうぎダーク 其ノ参"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "6": {
+            "ID": "2138077",
+            "URL": "https://thetvdb.com/series/monogatari/seasons/official/6",
+            "Titles": {
+                "eng": "MONOGATARI Series OFF & MONSTER Season",
+                "jpn": "〈物語〉シリーズ オフ＆モンスターシーズン",
+                "fra": "MONOGATARI Series OFF & MONSTER Season",
+                "zho": "物语系列 外传季&怪物季",
+                "kor": "모노가타리 시리즈 오프 & 몬스터 시즌",
+                "ita": "Monogatari Series: Off & Monster Season",
+                "spa": "MONOGATARI Series OFF & MONSTER Season",
+                "deu": "MONOGATARI Series OFF & MONSTER Season",
+                "rus": "Цикл историй: Межсезонье и сезон монстров",
+                "zhtw": "物語系列 第外季&第怪季",
+                "pt": "MONOGATARI Series OFF & MONSTER Season"
+            },
+            "# Episodes": 14,
+            "Episodes": {
+                "1": {
+                    "ID": "10601303",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/10601303",
+                    "Titles": {
+                        "eng": "OROKAMONOGATARI: Tsukihi Undo",
+                        "jpn": "愚物語 つきひアンドゥ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10601304",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/10601304",
+                    "Titles": {
+                        "eng": "NADEMONOGATARI: Nadeko Draw (1)",
+                        "jpn": "撫物語 なでこドロー 其ノ壹"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10601305",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/10601305",
+                    "Titles": {
+                        "eng": "NADEMONOGATARI: Nadeko Draw (2)",
+                        "jpn": "撫物語 なでこドロー 其ノ貮"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "10601306",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/10601306",
+                    "Titles": {
+                        "eng": "NADEMONOGATARI: Nadeko Draw (3)",
+                        "jpn": "撫物語 なでこドロー 其ノ參"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "10601320",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/10601320",
+                    "Titles": {
+                        "eng": "NADEMONOGATARI: Nadeko Draw (4)",
+                        "jpn": "撫物語 なでこドロー 其ノ肆"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "10601321",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/10601321",
+                    "Titles": {
+                        "eng": "NADEMONOGATARI: Nadeko Draw (5)",
+                        "jpn": "撫物語 なでこドロー 其ノ伍"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "10601322",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/10601322",
+                    "Titles": {
+                        "eng": "WAZAMONOGATARI: Acerola Bon Appétit (1)",
+                        "jpn": "業物語 あせろらボナペティ 其ノ壹"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "10601323",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/10601323",
+                    "Titles": {
+                        "eng": "WAZAMONOGATARI: Acerola Bon Appétit (2)",
+                        "jpn": "業物語 あせろらボナペティ 其ノ貮"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "10601324",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/10601324",
+                    "Titles": {
+                        "eng": "SHINOBUMONOGATARI: Shinobu Mustard (1)",
+                        "jpn": "忍物語 しのぶマスタード 其ノ壹"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "10601325",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/10601325",
+                    "Titles": {
+                        "eng": "SHINOBUMONOGATARI: Shinobu Mustard (2)",
+                        "jpn": "忍物語 しのぶマスタード 其ノ貮"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "10601326",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/10601326",
+                    "Titles": {
+                        "eng": "SHINOBUMONOGATARI: Shinobu Mustard (3)",
+                        "jpn": "忍物語 しのぶマスタード 其ノ參"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "10601328",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/10601328",
+                    "Titles": {
+                        "eng": "SHINOBUMONOGATARI: Shinobu Mustard (4)",
+                        "jpn": "忍物語 しのぶマスタード 其ノ肆"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "10601329",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/10601329",
+                    "Titles": {
+                        "eng": "SHINOBUMONOGATARI: Shinobu Mustard (5)",
+                        "jpn": "忍物語 しのぶマスタード 其ノ伍"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "10601331",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/10601331",
+                    "Titles": {
+                        "eng": "SHINOBUMONOGATARI: Shinobu Mustard (6)",
+                        "jpn": "忍物語 しのぶマスタード 其ノ陸"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "7": {
+            "ID": "2145746",
+            "URL": "https://thetvdb.com/series/monogatari/seasons/official/7",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11283266",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/monogatari/episodes/11283266",
+                    "Titles": {
+                        "eng": "WAZAMONOGATARI: Karen Ogre",
+                        "jpn": "業物語 かれんオウガ"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "3",
+            "0"
+        ],
+        "Episodes": [
+            "3406651",
+            "4590173",
+            "7111625",
+            "4590177",
+            "7111627",
+            "4590176",
+            "4590175",
+            "7111626",
+            "4590172",
+            "4641341",
+            "4590174",
+            "4590178",
+            "10641492"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "URL": "https://thetvdb.com/series/c",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Comedy",
+        "Fantasy",
+        "Mystery",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2073864/",
+        "https://www.themoviedb.org/tv/45954"
+    ],
+    "Titles": {
+        "eng": "C³ - CubexCursedxCurious",
+        "jpn": "C3 -シーキューブ-"
+    },
+    "Aliases": [
+        "C³",
+        "C3",
+        "C Cube",
+        "C^3",
+        "C³ - CubexCursedxCurious",
+        "Cube×Cursed×Curious",
+        "C3 CubexCursedxCurious",
+        "C3 -C Cube-",
+        "C3: Cube x Cursed x Curious"
+    ],
+    "Modified": "2026-02-06",
+    "Seasons": {
+        "0": {
+            "ID": "474503",
+            "URL": "https://thetvdb.com/series/c/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "4237678",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/c/episodes/4237678",
+                    "Titles": {
+                        "eng": "Outdoor School Confusion!",
+                        "jpn": "第十三章「林間学校こんふゅーじょん！」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "4182224",
+            "4182225",
+            "4182226"
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "URL": "https://thetvdb.com/series/pretty-cure-splash-star",
+    "Genres": [
+        "Anime - Shojo"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1556080/",
+        "https://www.themoviedb.org/tv/36324"
+    ],
+    "Titles": {
+        "eng": "Futari wa Pretty Cure Splash☆Star",
+        "jpn": "ふたりはプリキュア Splash☆Star"
+    },
+    "Aliases": [
+        "Futari wa PreCure Splash☆Star",
+        "We are Pretty Cure Splash☆Star",
+        "PreCure Splash☆Star",
+        "Futari wa Precure Splash Star",
+        "Precure Splash Star",
+        "ふたりはプリキュア スプラッシュスター",
+        "ふたりはプリキュアSplash Star"
+    ],
+    "Modified": "2026-06-27",
+    "Seasons": {
+        "0": {
+            "ID": "446481",
+            "URL": "https://thetvdb.com/series/pretty-cure-splash-star/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "3931551",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/pretty-cure-splash-star/episodes/3931551",
+                    "Titles": {
+                        "eng": "Futari wa Precure Splash☆Star The Movie: Tic-Tac Crisis Hanging by a Thin Thread!",
+                        "jpn": "ふたりはプリキュア スプラッシュ☆スター チクタク危機一髪!"
+                    },
+                    "Aliases": [
+                        "Futari wa Pretty Cure Splash☆Star Tick Tack Kiki Ippatsu!",
+                        "Futari wa Precure Splash Star The Movie: Tic-Tac Crisis Hanging by a Thin Thread!"
+                    ],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "7817550",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/pretty-cure-splash-star/episodes/7817550",
+                    "Titles": {
+                        "eng": "Maji Doki 3D Theater",
+                        "jpn": "ふたりはプリキュア Splash Star マジッ★ドキッ♥ シアター"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": []
+    }
+}

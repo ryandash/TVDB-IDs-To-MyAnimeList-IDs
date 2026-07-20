@@ -1,0 +1,52 @@
+{
+    "URL": "https://thetvdb.com/series/flower-angel",
+    "Genres": [
+        "Animation",
+        "Children",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.youtube.com/watch?v=bb4v-JtED-s&list=PLzVhVnEr7-HRaoF9FhUFt31gRrYU5dXPp"
+    ],
+    "Titles": {
+        "eng": "Flower Angel",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2024-01-31",
+    "Seasons": {
+        "2": {
+            "ID": "2104626",
+            "URL": "https://thetvdb.com/series/flower-angel/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "10280517",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/flower-angel/episodes/10280517",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "10243989",
+            "10243988",
+            "10243990",
+            "10243991"
+        ]
+    }
+}

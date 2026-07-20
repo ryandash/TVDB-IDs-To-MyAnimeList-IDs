@@ -1,0 +1,143 @@
+{
+    "URL": "https://thetvdb.com/series/dorohedoro",
+    "Genres": [
+        "Adaptation",
+        "Anime - Seinen",
+        "Dark Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt11147852/",
+        "https://dorohedoro.net/",
+        "http://www.reddit.com/r/Dorohedoro",
+        "https://www.tvmaze.com/shows/44383/show-slug",
+        "https://www.themoviedb.org/tv/94404",
+        "https://www.wikidata.org/wiki/Q96516868",
+        "https://en.wikipedia.org/wiki/Dorohedoro",
+        "https://x.com/dorohedoro_PR"
+    ],
+    "Titles": {
+        "eng": "Dorohedoro",
+        "jpn": "ドロヘドロ"
+    },
+    "Aliases": [
+        "ドロヘドロ 魔のおまけ",
+        "ドロヘドロ 続編",
+        "ドロヘドロ"
+    ],
+    "Modified": "2026-07-04",
+    "Seasons": {
+        "0": {
+            "ID": "829561",
+            "URL": "https://thetvdb.com/series/dorohedoro/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 7,
+            "Episodes": {
+                "1": {
+                    "ID": "7776686",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/dorohedoro/episodes/7776686",
+                    "Titles": {
+                        "eng": "Mask Disparities",
+                        "jpn": "魔のおまけ「仮面格差」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "7776692",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/dorohedoro/episodes/7776692",
+                    "Titles": {
+                        "eng": "A Shop for You",
+                        "jpn": "魔のおまけ「店舗 for you」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "7776707",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/dorohedoro/episodes/7776707",
+                    "Titles": {
+                        "eng": "A Low Level's Youth - Graffiti -",
+                        "jpn": "魔のおまけ「下の青春 —グラフィティー」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "7776776",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/dorohedoro/episodes/7776776",
+                    "Titles": {
+                        "eng": "The Gyoza Fairy That You Don't Know",
+                        "jpn": "魔のおまけ「あなたの知らないギョウザの怪」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "5": {
+                    "ID": "7776779",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/dorohedoro/episodes/7776779",
+                    "Titles": {
+                        "eng": "Evil Dancing Masquerade Ball",
+                        "jpn": "魔のおまけ「オドル魔ノウタゲ」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "6": {
+                    "ID": "7776783",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/dorohedoro/episodes/7776783",
+                    "Titles": {
+                        "eng": "Blowin' in the Night Breeze, an Oba Anniversary",
+                        "jpn": "魔のおまけ「夜風に吹かれて大葉記念日」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "8": {
+                    "ID": "11441077",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/dorohedoro/episodes/11441077",
+                    "Titles": {
+                        "eng": "Mask Disparities / A Shop for You / A Low Level's Youth - Graffiti - / The Gyoza Fairy That You Don't Know / Evil Dancing Masquerade Ball / Blowin' in the Night Breeze, an Oba Anniversary",
+                        "jpn": "魔のおまけ「仮面格差」/「店舗 for you」/「下の青春 —グラフィティー」/「あなたの知らないギョウザの怪」/「オドル魔ノウタゲ」/「夜風に吹かれて大葉記念日」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1",
+            "2"
+        ],
+        "Episodes": [
+            "7571081",
+            "7571084",
+            "7571083"
+        ]
+    }
+}

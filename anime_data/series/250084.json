@@ -1,0 +1,76 @@
+{
+    "URL": "https://thetvdb.com/series/penguindrum",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2017925/",
+        "https://www.themoviedb.org/tv/39657"
+    ],
+    "Titles": {
+        "eng": "Penguindrum",
+        "jpn": "輪るピングドラム"
+    },
+    "Aliases": [
+        "Mawaru Penguin Drum",
+        "Mawaru Penguindrum",
+        "Penguin Drum"
+    ],
+    "Modified": "2026-05-26",
+    "Seasons": {
+        "0": {
+            "ID": "549123",
+            "URL": "https://thetvdb.com/series/penguindrum/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "9718680",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/penguindrum/episodes/9718680",
+                    "Titles": {
+                        "eng": "RE:cycle of the PENGUINDRUM Part 1: Your Train Is the Survival Tactic",
+                        "jpn": "劇場版 RE:cycle of the PENGUINDRUM ［前編］"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "9718681",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/penguindrum/episodes/9718681",
+                    "Titles": {
+                        "eng": "RE:cycle of the PENGUINDRUM Part 2: I Love You",
+                        "jpn": "劇場版 RE:cycle of the PENGUINDRUM ［後編］"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "4182101",
+            "4170187",
+            "4129755",
+            "4129754"
+        ]
+    }
+}

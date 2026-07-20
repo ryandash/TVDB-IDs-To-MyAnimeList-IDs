@@ -1,0 +1,87 @@
+{
+    "URL": "https://thetvdb.com/series/cannon-busters",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt5066664/",
+        "https://www.instagram.com/cannonbustersofficial",
+        "https://www.netflix.com/title/80195357",
+        "http://www.reddit.com/r/CannonBusters",
+        "https://www.themoviedb.org/tv/82257",
+        "https://x.com/cannon_busters"
+    ],
+    "Titles": {
+        "eng": "Cannon Busters",
+        "jpn": "キャノン・バスターズ"
+    },
+    "Aliases": [
+        "キャノンバスターズ"
+    ],
+    "Modified": "2026-04-13",
+    "Seasons": {
+        "0": {
+            "ID": "727375",
+            "URL": "https://thetvdb.com/series/cannon-busters/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "9899448",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/cannon-busters/episodes/9899448",
+                    "Titles": {
+                        "eng": "Kickstarter Pilot",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "9932499",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/cannon-busters/episodes/9932499",
+                    "Titles": {
+                        "eng": "Animated Storyboard: Episode 1",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "9932500",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/cannon-busters/episodes/9932500",
+                    "Titles": {
+                        "eng": "A Journey Behind the Scenes",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "6287933"
+        ]
+    }
+}

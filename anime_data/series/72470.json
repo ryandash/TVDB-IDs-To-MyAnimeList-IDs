@@ -1,0 +1,69 @@
+{
+    "URL": "https://thetvdb.com/series/hand-maid-may",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Romance",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0293830/",
+        "https://www.themoviedb.org/tv/34749"
+    ],
+    "Titles": {
+        "eng": "Hand Maid May",
+        "jpn": "HAND MAID メイ"
+    },
+    "Aliases": [],
+    "Modified": "2025-09-07",
+    "Seasons": {
+        "0": {
+            "ID": "19937",
+            "URL": "https://thetvdb.com/series/hand-maid-may/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "86854",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/hand-maid-may/episodes/86854",
+                    "Titles": {
+                        "eng": "Never Give Up (Episode 11)",
+                        "jpn": "あきらめません"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "4387173",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/hand-maid-may/episodes/4387173",
+                    "Titles": {
+                        "eng": "Hand Maid Mai OVA",
+                        "jpn": "HAND MAID マイ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "86845",
+            "86846",
+            "86847"
+        ]
+    }
+}

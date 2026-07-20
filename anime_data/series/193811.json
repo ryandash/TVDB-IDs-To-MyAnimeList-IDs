@@ -1,0 +1,369 @@
+{
+    "URL": "https://thetvdb.com/series/bakuman",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1738419/",
+        "https://www.themoviedb.org/tv/36041"
+    ],
+    "Titles": {
+        "eng": "Bakuman",
+        "jpn": "バクマン。"
+    },
+    "Aliases": [],
+    "Modified": "2026-01-20",
+    "Seasons": {
+        "0": {
+            "ID": "544888",
+            "URL": "https://thetvdb.com/series/bakuman/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "5263488",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/5263488",
+                    "Titles": {
+                        "eng": "Otter Human Meeting!",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "5280797",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/5280797",
+                    "Titles": {
+                        "eng": "Otter Goes Back to the Sea!",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "2": {
+            "ID": "473098",
+            "URL": "https://thetvdb.com/series/bakuman/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "pt": "Bakuman ll"
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "4160633",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4160633",
+                    "Titles": {
+                        "eng": "Silence and Party",
+                        "jpn": "沈黙と宴"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4185312",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4185312",
+                    "Titles": {
+                        "eng": "Anthology and Photobook",
+                        "jpn": "文集と写真集"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4185314",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4185314",
+                    "Titles": {
+                        "eng": "Window and Snow",
+                        "jpn": "窓と雪"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4185316",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4185316",
+                    "Titles": {
+                        "eng": "Support and Patience",
+                        "jpn": "テコと我慢"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4185317",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4185317",
+                    "Titles": {
+                        "eng": "Comedy and News",
+                        "jpn": "ボケとニュース"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4185318",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4185318",
+                    "Titles": {
+                        "eng": "Disease and Drive",
+                        "jpn": "病気とやる気"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4185319",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4185319",
+                    "Titles": {
+                        "eng": "Life-and-Death and Standstill",
+                        "jpn": "生死と制止"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4185320",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4185320",
+                    "Titles": {
+                        "eng": "Recall and Call",
+                        "jpn": "リコールとコール"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4185321",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4185321",
+                    "Titles": {
+                        "eng": "Resumption and Low Rank",
+                        "jpn": "再開と下位"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4185322",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4185322",
+                    "Titles": {
+                        "eng": "Gags and Serious",
+                        "jpn": "ギャグとシリアス"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4185323",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4185323",
+                    "Titles": {
+                        "eng": "Manga and Youth",
+                        "jpn": "マンガと青春"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4185324",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4185324",
+                    "Titles": {
+                        "eng": "Experience and Data",
+                        "jpn": "経験とデータ"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4185325",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4185325",
+                    "Titles": {
+                        "eng": "Alliance and Classmates",
+                        "jpn": "同盟と同級"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4215006",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4215006",
+                    "Titles": {
+                        "eng": "Unfaithfulness and Trust",
+                        "jpn": "不信と信用"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4225796",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4225796",
+                    "Titles": {
+                        "eng": "Monkeys and Marriage",
+                        "jpn": "猿と結婚"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4225797",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4225797",
+                    "Titles": {
+                        "eng": "King and Savior",
+                        "jpn": "王子と救世主"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4229906",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4229906",
+                    "Titles": {
+                        "eng": "Special Relationship and Hometown",
+                        "jpn": "特別な仲と田舎"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4232140",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4232140",
+                    "Titles": {
+                        "eng": "Complaint and Roar",
+                        "jpn": "文句と一喝"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4232139",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4232139",
+                    "Titles": {
+                        "eng": "Fate and Star",
+                        "jpn": "縁と星"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4232138",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4232138",
+                    "Titles": {
+                        "eng": "Love and Rejection",
+                        "jpn": "大好きと否定"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4232137",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4232137",
+                    "Titles": {
+                        "eng": "Selfishness and Advice",
+                        "jpn": "わがままとアドバイス"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4232136",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4232136",
+                    "Titles": {
+                        "eng": "Hint and Best",
+                        "jpn": "ヒントとベスト"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4232135",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4232135",
+                    "Titles": {
+                        "eng": "Winning and Losing",
+                        "jpn": "勝ちと負け"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "4232134",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4232134",
+                    "Titles": {
+                        "eng": "Imagination and Presentation",
+                        "jpn": "表現力と想像力"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "4232133",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bakuman/episodes/4232133",
+                    "Titles": {
+                        "eng": "Votes and Charts",
+                        "jpn": "票と表"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "3",
+            "1"
+        ],
+        "Episodes": [
+            "4412173",
+            "4412174",
+            "3247931",
+            "4412176",
+            "3247961",
+            "3247941",
+            "3247991",
+            "4412172",
+            "4412175",
+            "3247971",
+            "3247901",
+            "3247951",
+            "3247911",
+            "3247921",
+            "3247981"
+        ]
+    }
+}

@@ -267,31 +267,17 @@ class SafeJikan:
                 "search_anime() requires at least one of: query, type_, or page."
             )
 
-        if query:
-            kwargs = {
-                "search_type": "anime",
-                "query": query,
-                **({"type": type_} if type_ is not None else {}),
-                **({"limit": limit} if limit is not None else {}),
-                **({"page": page} if page is not None else {}),
-            }
+        kwargs = {
+            **({"q": query} if query else {}),
+            **({"type": type_} if type_ else {}),
+            **({"limit": limit} if limit else {}),
+            **({"page": page} if page else {}),
+        }
 
-            result = await self._cached_call(
-                self.aio_jikan.search,
-                **kwargs
-            )
-
-        else:
-            kwargs = {
-                **({"type": type_} if type_ is not None else {}),
-                **({"limit": limit} if limit is not None else {}),
-                **({"page": page} if page is not None else {}),
-            }
-
-            result = await self._cached_call(
-                self.anime_list,
-                **kwargs
-            )
+        result = await self._cached_call(
+            self.anime_list,
+            **kwargs
+        )
 
         return {
             **result,

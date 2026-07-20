@@ -1,0 +1,77 @@
+{
+    "URL": "https://thetvdb.com/series/blood",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Science Fiction",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/6F75-1A0E-E7DA-8017-F95B-1",
+        "https://www.imdb.com/title/tt0482855/",
+        "http://www.production-ig.com/contents/works_sp/20_/index.html",
+        "https://www.themoviedb.org/tv/19849"
+    ],
+    "Titles": {
+        "eng": "Blood+",
+        "jpn": "BLOOD+"
+    },
+    "Aliases": [
+        "Blood +",
+        "Blood Plus",
+        "ブラッドプラス",
+        "Buraddo Purasu"
+    ],
+    "Modified": "2026-01-12",
+    "Seasons": {
+        "0": {
+            "ID": "26409",
+            "URL": "https://thetvdb.com/series/blood/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "3297991",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/blood/episodes/3297991",
+                    "Titles": {
+                        "eng": "Blood: The Last Vampire",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1",
+            "3",
+            "2",
+            "4"
+        ],
+        "Episodes": [
+            "305191",
+            "305192",
+            "301342",
+            "300798",
+            "301340",
+            "301343",
+            "300799",
+            "300797",
+            "300800",
+            "301341"
+        ]
+    }
+}

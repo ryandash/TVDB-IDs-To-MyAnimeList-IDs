@@ -1,0 +1,62 @@
+{
+    "URL": "https://thetvdb.com/series/transformers-energon",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Children",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0388650/",
+        "https://www.themoviedb.org/tv/75911"
+    ],
+    "Titles": {
+        "eng": "Transformers: Energon",
+        "jpn": "トランスフォーマー スーパーリンク"
+    },
+    "Aliases": [
+        "Transformers: Superlink",
+        "Transformers Energon"
+    ],
+    "Modified": "2025-10-19",
+    "Seasons": {
+        "0": {
+            "ID": "531719",
+            "URL": "https://thetvdb.com/series/transformers-energon/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "5320233",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/transformers-energon/episodes/5320233",
+                    "Titles": {
+                        "eng": "Must See! The Strongest Match of Dreams (Distribution)",
+                        "jpn": "必見! 夢の最強マッチ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "96079",
+            "96080",
+            "96081",
+            "96083",
+            "96082"
+        ]
+    }
+}

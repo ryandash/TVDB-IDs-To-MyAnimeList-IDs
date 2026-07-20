@@ -1,0 +1,139 @@
+{
+    "URL": "https://thetvdb.com/series/gunslinger-girl",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0476042/",
+        "http://www.marv.jp/special/gs/gunslingergirl/www/1st/",
+        "https://www.themoviedb.org/tv/31731",
+        "https://www.themoviedb.org/tv/31731"
+    ],
+    "Titles": {
+        "eng": "Gunslinger Girl",
+        "jpn": "GUNSLINGER GIRL"
+    },
+    "Aliases": [
+        "Школа убийц",
+        "Дівчинка-вбивця"
+    ],
+    "Modified": "2026-06-06",
+    "Seasons": {
+        "0": {
+            "ID": "26268",
+            "URL": "https://thetvdb.com/series/gunslinger-girl/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 7,
+            "Episodes": {
+                "1": {
+                    "ID": "669191",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/gunslinger-girl/episodes/669191",
+                    "Titles": {
+                        "eng": "The Light of Venice, The Darkness of the Heart",
+                        "jpn": "ヴェネツィアの光、心の闇"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "1031181",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/gunslinger-girl/episodes/1031181",
+                    "Titles": {
+                        "eng": "Fantasma",
+                        "jpn": "ファンタズマ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "2059411",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/gunslinger-girl/episodes/2059411",
+                    "Titles": {
+                        "eng": "Meet the Real Gunslinger Girls: Henrietta",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 5
+                },
+                "4": {
+                    "ID": "2059421",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/gunslinger-girl/episodes/2059421",
+                    "Titles": {
+                        "eng": "Meet the Real Gunslinger Girls: Claes",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 5
+                },
+                "5": {
+                    "ID": "2059431",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/gunslinger-girl/episodes/2059431",
+                    "Titles": {
+                        "eng": "Meet the Real Gunslinger Girls: Angelica",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 5
+                },
+                "6": {
+                    "ID": "2059441",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/gunslinger-girl/episodes/2059441",
+                    "Titles": {
+                        "eng": "Meet the Real Gunslinger Girls: Rico",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 4,
+                    "Num Episodes": 5
+                },
+                "7": {
+                    "ID": "2059451",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/gunslinger-girl/episodes/2059451",
+                    "Titles": {
+                        "eng": "Meet the Real Gunslinger Girls: Triela",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 5,
+                    "Num Episodes": 5
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "2",
+            "1"
+        ],
+        "Episodes": [
+            "295355",
+            "295356"
+        ]
+    }
+}

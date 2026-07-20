@@ -1,0 +1,71 @@
+{
+    "URL": "https://thetvdb.com/series/brave-exkaiser",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Children",
+        "Comedy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0143003/",
+        "https://www.themoviedb.org/tv/17016"
+    ],
+    "Titles": {
+        "eng": "Brave Exkaiser",
+        "jpn": "勇者エクスカイザー"
+    },
+    "Aliases": [
+        "Brave Exkaizer",
+        "Brave Fighter Exkizer"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "776347",
+            "URL": "https://thetvdb.com/series/brave-exkaiser/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "9332021",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/brave-exkaiser/episodes/9332021",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Halloween Monster"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "6810034",
+            "6810024",
+            "6810039",
+            "6810021",
+            "6810022",
+            "6810028",
+            "6810029",
+            "6810037",
+            "6810027",
+            "6810036",
+            "6810025",
+            "6810030",
+            "6810041",
+            "6810032"
+        ]
+    }
+}

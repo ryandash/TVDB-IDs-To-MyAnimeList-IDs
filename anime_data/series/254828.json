@@ -1,0 +1,88 @@
+{
+    "URL": "https://thetvdb.com/series/slow-step",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Sport"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0330899/",
+        "https://www.themoviedb.org/tv/105700"
+    ],
+    "Titles": {
+        "eng": "Slow Step",
+        "jpn": "スローステップ"
+    },
+    "Aliases": [],
+    "Modified": "2025-06-02",
+    "Seasons": {
+        "1": {
+            "ID": "481690",
+            "URL": "https://thetvdb.com/series/slow-step/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "4232745",
+                    "TYPE": "OVA",
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slow-step/episodes/4232745",
+                    "Titles": {
+                        "eng": "OVA 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4232947",
+                    "TYPE": "OVA",
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slow-step/episodes/4232947",
+                    "Titles": {
+                        "eng": "OVA 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4232948",
+                    "TYPE": "OVA",
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slow-step/episodes/4232948",
+                    "Titles": {
+                        "eng": "OVA 3",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4232949",
+                    "TYPE": "OVA",
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slow-step/episodes/4232949",
+                    "Titles": {
+                        "eng": "OVA 4",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4232950",
+                    "TYPE": "OVA",
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slow-step/episodes/4232950",
+                    "Titles": {
+                        "eng": "OVA 5",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

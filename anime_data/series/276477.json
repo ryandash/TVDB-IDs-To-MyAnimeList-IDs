@@ -1,0 +1,68 @@
+{
+    "URL": "https://thetvdb.com/series/276477-show",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1125794/",
+        "https://www.themoviedb.org/tv/68417"
+    ],
+    "Titles": {
+        "eng": "AIKa R-16 Virgin Mission",
+        "jpn": "AIKa"
+    },
+    "Aliases": [
+        "AIKa - New Mission"
+    ],
+    "Modified": "2026-02-08",
+    "Seasons": {
+        "1": {
+            "ID": "570824",
+            "URL": "https://thetvdb.com/series/276477-show/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "4747268",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/276477-show/episodes/4747268",
+                    "Titles": {
+                        "eng": "Trial 1: Secret Game",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4747269",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/276477-show/episodes/4747269",
+                    "Titles": {
+                        "eng": "Trial 2: Peach Peach Beach",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4747270",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/276477-show/episodes/4747270",
+                    "Titles": {
+                        "eng": "Trial 3: Deep Blue Girl",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

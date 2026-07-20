@@ -1,0 +1,123 @@
+{
+    "URL": "https://thetvdb.com/series/softenni",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Sport"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt13027536/",
+        "https://www.themoviedb.org/tv/46037"
+    ],
+    "Titles": {
+        "eng": "Softenni",
+        "jpn": "そふてにっ"
+    },
+    "Aliases": [
+        "Soft Tenni",
+        "Sofuteni"
+    ],
+    "Modified": "2025-06-25",
+    "Seasons": {
+        "0": {
+            "ID": "463968",
+            "URL": "https://thetvdb.com/series/softenni/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "4142023",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/softenni/episodes/4142023",
+                    "Titles": {
+                        "eng": "Special 1",
+                        "jpn": "お風呂トーク 〜明日菜と花子〜"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 6
+                },
+                "2": {
+                    "ID": "4145987",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/softenni/episodes/4145987",
+                    "Titles": {
+                        "eng": "Special 2",
+                        "jpn": "お風呂トーク 〜琴音の過去〜"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 6
+                },
+                "3": {
+                    "ID": "4188282",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/softenni/episodes/4188282",
+                    "Titles": {
+                        "eng": "Special 3",
+                        "jpn": "お風呂トーク 〜千歳のチチ〜"
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 6
+                },
+                "4": {
+                    "ID": "4188283",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/softenni/episodes/4188283",
+                    "Titles": {
+                        "eng": "Special 4",
+                        "jpn": "お風呂トーク 〜エリとやよい〜"
+                    },
+                    "Aliases": [],
+                    "Episode #": 4,
+                    "Num Episodes": 6
+                },
+                "5": {
+                    "ID": "4188284",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/softenni/episodes/4188284",
+                    "Titles": {
+                        "eng": "Special 5",
+                        "jpn": "お風呂トーク ～来栖のおっ凸事変～"
+                    },
+                    "Aliases": [],
+                    "Episode #": 5,
+                    "Num Episodes": 6
+                },
+                "6": {
+                    "ID": "4370950",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/softenni/episodes/4370950",
+                    "Titles": {
+                        "eng": "Special 6",
+                        "jpn": "お風呂トーク 〜大団円〜"
+                    },
+                    "Aliases": [],
+                    "Episode #": 6,
+                    "Num Episodes": 6
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "4080722",
+            "4080721",
+            "4080723",
+            "4080724"
+        ]
+    }
+}

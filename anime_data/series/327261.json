@@ -1,0 +1,179 @@
+{
+    "URL": "https://thetvdb.com/series/please-take-my-brother-away",
+    "Genres": [
+        "Animation",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt8938030/",
+        "https://anitsuke.com/",
+        "https://www.themoviedb.org/tv/70972",
+        "https://x.com/anitsuke_info"
+    ],
+    "Titles": {
+        "eng": "Please Take My Brother Away",
+        "jpn": "兄に付ける薬はない!"
+    },
+    "Aliases": [
+        "Ani ni Tsukeru Kusuri wa Nai!",
+        "Please Take My Brother Away (2020)"
+    ],
+    "Modified": "2025-12-16",
+    "Seasons": {
+        "1": {
+            "ID": "708776",
+            "URL": "https://thetvdb.com/series/please-take-my-brother-away/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "6052579",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/please-take-my-brother-away/episodes/6052579",
+                    "Titles": {
+                        "eng": "Me Target My Brother",
+                        "jpn": "私的兄"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6052580",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/please-take-my-brother-away/episodes/6052580",
+                    "Titles": {
+                        "eng": "Crisis Target After School",
+                        "jpn": "危機的放課後"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6052581",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/please-take-my-brother-away/episodes/6052581",
+                    "Titles": {
+                        "eng": "Big Brother Target Dignity",
+                        "jpn": "兄的威厳"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6052582",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/please-take-my-brother-away/episodes/6052582",
+                    "Titles": {
+                        "eng": "Love Target Cafeteria",
+                        "jpn": "恋愛的食堂"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6052583",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/please-take-my-brother-away/episodes/6052583",
+                    "Titles": {
+                        "eng": "Miracle Target Reunion",
+                        "jpn": "奇跡的再会"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6052584",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/please-take-my-brother-away/episodes/6052584",
+                    "Titles": {
+                        "eng": "Appetite Target Comrades",
+                        "jpn": "食欲的同志"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6052585",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/please-take-my-brother-away/episodes/6052585",
+                    "Titles": {
+                        "eng": "Shi Mao Target Love",
+                        "jpn": "時秒的恋慕"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6052586",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/please-take-my-brother-away/episodes/6052586",
+                    "Titles": {
+                        "eng": "Aristocratic Melancholy",
+                        "jpn": "貴族的憂鬱"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6052587",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/please-take-my-brother-away/episodes/6052587",
+                    "Titles": {
+                        "eng": "A Sudden Visitor",
+                        "jpn": "突然的来客"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6052588",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/please-take-my-brother-away/episodes/6052588",
+                    "Titles": {
+                        "eng": "Shi Fen's Euphoria",
+                        "jpn": "時分的暴走"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6052589",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/please-take-my-brother-away/episodes/6052589",
+                    "Titles": {
+                        "eng": "Shi Mao's gloominess",
+                        "jpn": "時秒的憂鬱"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6052590",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/please-take-my-brother-away/episodes/6052590",
+                    "Titles": {
+                        "eng": "Daily Life of Siblings",
+                        "jpn": "兄妹的日常"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "3",
+            "4",
+            "2",
+            "5"
+        ],
+        "Episodes": [
+            "6936615",
+            "6927427"
+        ]
+    }
+}

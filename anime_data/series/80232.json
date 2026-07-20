@@ -1,0 +1,105 @@
+{
+    "URL": "https://thetvdb.com/series/kiss-dum-engage-planet",
+    "Genres": [
+        "Animation",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1188295/",
+        "https://www.themoviedb.org/tv/34844"
+    ],
+    "Titles": {
+        "eng": "Kiss Dum Engage Planet",
+        "jpn": "キスダム -ENGAGE planet-"
+    },
+    "Aliases": [],
+    "Modified": "2026-06-27",
+    "Seasons": {
+        "0": {
+            "ID": "27703",
+            "URL": "https://thetvdb.com/series/kiss-dum-engage-planet/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "4540954",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kiss-dum-engage-planet/episodes/4540954",
+                    "Titles": {
+                        "eng": "Original TV Broadcast - Criminal",
+                        "jpn": "オリジナルテレビ放送 - クリミナル"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "2": {
+                    "ID": "4185412",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kiss-dum-engage-planet/episodes/4185412",
+                    "Titles": {
+                        "eng": "Intermedio",
+                        "jpn": "人片 オモカゲ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "5090050",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kiss-dum-engage-planet/episodes/5090050",
+                    "Titles": {
+                        "eng": "Encore Meguriahi",
+                        "jpn": "第26話（めぐりあい）"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "10617133",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kiss-dum-engage-planet/episodes/10617133",
+                    "Titles": {
+                        "eng": "Original TV Broadcast - Away Binding Morokimono",
+                        "jpn": "オリジナルテレビ放送 - アウェイ・バインディング モロキモノ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "5": {
+                    "ID": "11862688",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kiss-dum-engage-planet/episodes/11862688",
+                    "Titles": {
+                        "eng": "Original TV Broadcast - New Dawn",
+                        "jpn": "オリジナルテレビ放送 - ニュー・ドーン"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "1889611",
+            "1889601",
+            "1889621"
+        ]
+    }
+}

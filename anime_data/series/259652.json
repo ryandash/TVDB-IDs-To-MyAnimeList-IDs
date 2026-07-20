@@ -1,0 +1,57 @@
+{
+    "URL": "https://thetvdb.com/series/arcana-famiglia",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Family"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2250048/",
+        "https://www.themoviedb.org/tv/45275"
+    ],
+    "Titles": {
+        "eng": "La storia della Arcana Famiglia",
+        "jpn": "アルカナ・ファミリア"
+    },
+    "Aliases": [],
+    "Modified": "2026-02-05",
+    "Seasons": {
+        "0": {
+            "ID": "493890",
+            "URL": "https://thetvdb.com/series/arcana-famiglia/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "4453737",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/arcana-famiglia/episodes/4453737",
+                    "Titles": {
+                        "eng": "La Prima Festa",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "4353330",
+            "4363093",
+            "4353332",
+            "4353331"
+        ]
+    }
+}

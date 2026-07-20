@@ -1,0 +1,100 @@
+{
+    "URL": "https://thetvdb.com/series/gokushufudou",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt13357124/",
+        "https://www.netflix.com/title/81261669",
+        "http://www.reddit.com/r/Gokushufudou",
+        "https://www.themoviedb.org/tv/112160"
+    ],
+    "Titles": {
+        "eng": "The Way of the Househusband (2021)",
+        "jpn": "極主夫道 (2021)"
+    },
+    "Aliases": [
+        "Gokushufudō",
+        "Gokushufudou"
+    ],
+    "Modified": "2026-01-10",
+    "Seasons": {
+        "2": {
+            "ID": "2014135",
+            "URL": "https://thetvdb.com/series/gokushufudou/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "9487820",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gokushufudou/episodes/9487820",
+                    "Titles": {
+                        "eng": "Episode 1",
+                        "jpn": "第1話"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9533354",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gokushufudou/episodes/9533354",
+                    "Titles": {
+                        "eng": "Episode 2",
+                        "jpn": "第2話"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9533355",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gokushufudou/episodes/9533355",
+                    "Titles": {
+                        "eng": "Episode 3",
+                        "jpn": "第3話"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9533356",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gokushufudou/episodes/9533356",
+                    "Titles": {
+                        "eng": "Episode 4",
+                        "jpn": "第4話"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "9533357",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gokushufudou/episodes/9533357",
+                    "Titles": {
+                        "eng": "Episode 5",
+                        "jpn": "第5話"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "8337641",
+            "8337640",
+            "8337639",
+            "8662525"
+        ]
+    }
+}

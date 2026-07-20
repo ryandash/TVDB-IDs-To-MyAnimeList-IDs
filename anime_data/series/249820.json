@@ -1,0 +1,334 @@
+{
+    "URL": "https://thetvdb.com/series/dash-yonkuro",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Comedy",
+        "Sport"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt10399638/",
+        "https://www.themoviedb.org/tv/45037",
+        "https://www.themoviedb.org/tv/45037"
+    ],
+    "Titles": {
+        "eng": "Dash! Yonkuro",
+        "jpn": "ダッシュ!四駆郎"
+    },
+    "Aliases": [
+        "Dasshu! Yonkurō"
+    ],
+    "Modified": "2026-04-08",
+    "Seasons": {
+        "0": {
+            "ID": "548979",
+            "URL": "https://thetvdb.com/series/dash-yonkuro/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "7040620",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/7040620",
+                    "Titles": {
+                        "eng": "Horizon Gundan vs. Dash Gundan",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "468676",
+            "URL": "https://thetvdb.com/series/dash-yonkuro/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "4122383",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4122383",
+                    "Titles": {
+                        "eng": "Dash Warriors' First Battle",
+                        "jpn": "ダッシュ軍団（ウォリアーズ）登場"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4122384",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4122384",
+                    "Titles": {
+                        "eng": "Yonkuro, Soaked Up with Emperor",
+                        "jpn": "水中のエンペラー"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4122386",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4122386",
+                    "Titles": {
+                        "eng": "The Scariest Pyramid",
+                        "jpn": "恐怖のピラミッド"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4806543",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4806543",
+                    "Titles": {
+                        "eng": "Exits The Maze",
+                        "jpn": "迷路からの脱出！"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4806544",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4806544",
+                    "Titles": {
+                        "eng": "Scallion's Counter Attack",
+                        "jpn": "スカリオンの逆襲"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4806545",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4806545",
+                    "Titles": {
+                        "eng": "Mini 4WD vs. RC",
+                        "jpn": "ミニ四駆VSRC！"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4806546",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4806546",
+                    "Titles": {
+                        "eng": "Emperor is Missing",
+                        "jpn": "消えたエンペラー"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4806550",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4806550",
+                    "Titles": {
+                        "eng": "Deathmatch! The Wind Valley Battle",
+                        "jpn": "死闘！風の谷"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4806554",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4806554",
+                    "Titles": {
+                        "eng": "Battle! The Tornado Valley",
+                        "jpn": "激戦！竜巻の谷"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4806558",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4806558",
+                    "Titles": {
+                        "eng": "Jumped Over the Rosary Hill",
+                        "jpn": "十字の道を越えろ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4806560",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4806560",
+                    "Titles": {
+                        "eng": "The Miracle of Windmill Valley",
+                        "jpn": "風車の谷の奇跡"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4806561",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4806561",
+                    "Titles": {
+                        "eng": "The New Challenge",
+                        "jpn": "めざせホライゾン"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4806562",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4806562",
+                    "Titles": {
+                        "eng": "The Horizon Fellowers",
+                        "jpn": "激闘！決勝への道"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4806563",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4806563",
+                    "Titles": {
+                        "eng": "To Lose a Skateboard",
+                        "jpn": "スケボーを倒せ！"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4806564",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4806564",
+                    "Titles": {
+                        "eng": "The Five Skills of Shurin Temple",
+                        "jpn": "小輪寺五房の荒行"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4806565",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4806565",
+                    "Titles": {
+                        "eng": "The Emperor is on a Dangerous Crisis",
+                        "jpn": "皇帝（エンペラー）絶体絶命！"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4806566",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4806566",
+                    "Titles": {
+                        "eng": "The Legendary Horizon",
+                        "jpn": "ホライゾン伝説"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4806567",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4806567",
+                    "Titles": {
+                        "eng": "The Legendary History",
+                        "jpn": "伝説の後継者達"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4806568",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4806568",
+                    "Titles": {
+                        "eng": "Another Legend",
+                        "jpn": "あらたなる伝説"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4806569",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4806569",
+                    "Titles": {
+                        "eng": "The Black Devil Warriors",
+                        "jpn": "対決！黒鬼士軍団"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4806570",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4806570",
+                    "Titles": {
+                        "eng": "Get Ready for the Finals",
+                        "jpn": "燃えろ！決勝戦!!"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4806571",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4806571",
+                    "Titles": {
+                        "eng": "Go For It, Shinkuro!",
+                        "jpn": "駆けろ！進駆郎!!"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4806572",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4806572",
+                    "Titles": {
+                        "eng": "Who Will Able to Win!?",
+                        "jpn": "勝利は誰の手に!?"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "4806573",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4806573",
+                    "Titles": {
+                        "eng": "Warrior's Holiday",
+                        "jpn": "戦士達の休日"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "4806574",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dash-yonkuro/episodes/4806574",
+                    "Titles": {
+                        "eng": "An Endless Challenge",
+                        "jpn": "果てしなき挑戦！"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

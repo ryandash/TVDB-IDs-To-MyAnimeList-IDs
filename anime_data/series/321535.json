@@ -1,0 +1,89 @@
+{
+    "URL": "https://thetvdb.com/series/kado-the-right-answer",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Drama",
+        "Mystery",
+        "Science Fiction",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.facebook.com/SeikaisuruKado.official",
+        "https://www.imdb.com/title/tt7001136/",
+        "https://www.instagram.com/Seikaisuru_Kado",
+        "https://seikaisuru-kado.com/",
+        "https://www.themoviedb.org/tv/71016",
+        "https://x.com/Seikaisuru_Kado",
+        "https://www.youtube.com/c/正解するカド official"
+    ],
+    "Titles": {
+        "eng": "KADO: The Right Answer",
+        "jpn": "正解するカド"
+    },
+    "Aliases": [
+        "Seikai Suru Kado",
+        "Seikaisuru Kado"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "693182",
+            "URL": "https://thetvdb.com/series/kado-the-right-answer/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "6036356",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kado-the-right-answer/episodes/6036356",
+                    "Titles": {
+                        "eng": "Ninovo",
+                        "jpn": "第0話「二ノヴォ」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "6054909",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kado-the-right-answer/episodes/6054909",
+                    "Titles": {
+                        "eng": "Ekwari",
+                        "jpn": "第6.5話「エクワリ」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "6799161",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kado-the-right-answer/episodes/6799161",
+                    "Titles": {
+                        "eng": "Beyond Information",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "6045766"
+        ]
+    }
+}

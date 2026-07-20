@@ -1,0 +1,54 @@
+{
+    "URL": "https://thetvdb.com/series/tactical-roar",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Romance",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/21260"
+    ],
+    "Titles": {
+        "eng": "Tactical Roar",
+        "jpn": "タクティカルロア"
+    },
+    "Aliases": [],
+    "Modified": "2026-02-10",
+    "Seasons": {
+        "0": {
+            "ID": "536243",
+            "URL": "https://thetvdb.com/series/tactical-roar/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "5128194",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/tactical-roar/episodes/5128194",
+                    "Titles": {
+                        "eng": "Today's Special, The Mercurius Holiday",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "341579",
+            "341577",
+            "341578"
+        ]
+    }
+}

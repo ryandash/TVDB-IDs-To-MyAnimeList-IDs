@@ -1,0 +1,863 @@
+{
+    "URL": "https://thetvdb.com/series/333777-show",
+    "Genres": [
+        "Animation",
+        "Children"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/123521"
+    ],
+    "Titles": {
+        "eng": "Tobot",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2021-09-02",
+    "Seasons": {
+        "1": {
+            "ID": "726240",
+            "URL": "https://thetvdb.com/series/333777-show/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 28,
+            "Episodes": {
+                "1": {
+                    "ID": "6274162",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274162",
+                    "Titles": {
+                        "eng": "Two Boys, Two Bots",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6274163",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274163",
+                    "Titles": {
+                        "eng": "Roadways and Renegades",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6274164",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274164",
+                    "Titles": {
+                        "eng": "Right Lane, Wrong Lane",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6274165",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274165",
+                    "Titles": {
+                        "eng": "Twists and Turnpikes",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6274166",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274166",
+                    "Titles": {
+                        "eng": "Twins in Turbo",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6274167",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274167",
+                    "Titles": {
+                        "eng": "Signs and Shorcuts",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6274168",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274168",
+                    "Titles": {
+                        "eng": "Clash and Dash",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6274169",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274169",
+                    "Titles": {
+                        "eng": "Machine Mania",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6274171",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274171",
+                    "Titles": {
+                        "eng": "Taking Rides Taking Sides",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6274172",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274172",
+                    "Titles": {
+                        "eng": "Power Up Power Out",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6274173",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274173",
+                    "Titles": {
+                        "eng": "Zoom and Gloom",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6274174",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274174",
+                    "Titles": {
+                        "eng": "Axels and Allies",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "6274175",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274175",
+                    "Titles": {
+                        "eng": "Fueled up Fakers",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "6274176",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274176",
+                    "Titles": {
+                        "eng": "Hot Rods and Heroes",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "6274177",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274177",
+                    "Titles": {
+                        "eng": "Wheels and Deals",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "6274178",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274178",
+                    "Titles": {
+                        "eng": "New Friends, New Features",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "6274179",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274179",
+                    "Titles": {
+                        "eng": "Tails and Tailpipes",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "6274180",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274180",
+                    "Titles": {
+                        "eng": "Race to Rescue",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "6274181",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274181",
+                    "Titles": {
+                        "eng": "Dents and Detours",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "6274182",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274182",
+                    "Titles": {
+                        "eng": "Merging of Minds",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "6274183",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274183",
+                    "Titles": {
+                        "eng": "Brushes with Bikers",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "6274184",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274184",
+                    "Titles": {
+                        "eng": "Diesel and Decoys",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "6274185",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274185",
+                    "Titles": {
+                        "eng": "Red Light Runaway",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "6274186",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274186",
+                    "Titles": {
+                        "eng": "Lost and Loosing Ground",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "6274187",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274187",
+                    "Titles": {
+                        "eng": "Guages and Gross Outs",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "6274188",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274188",
+                    "Titles": {
+                        "eng": "Voter Veer Off",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "6274189",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274189",
+                    "Titles": {
+                        "eng": "W, Diverted",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "6274190",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6274190",
+                    "Titles": {
+                        "eng": "Raptorbot Rampage",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "732353",
+            "URL": "https://thetvdb.com/series/333777-show/seasons/official/3",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 22,
+            "Episodes": {
+                "1": {
+                    "ID": "6369660",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6369660",
+                    "Titles": {
+                        "eng": "Fresh Start New Starts",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6369672",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6369672",
+                    "Titles": {
+                        "eng": "Tow Truck Tangle",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6369679",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6369679",
+                    "Titles": {
+                        "eng": "Slugbot Gridlock",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6344366",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6344366",
+                    "Titles": {
+                        "eng": "Limo's Limits",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6344367",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6344367",
+                    "Titles": {
+                        "eng": "Drivers Divided",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6344368",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6344368",
+                    "Titles": {
+                        "eng": "Conflicts and Consoles",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6344369",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6344369",
+                    "Titles": {
+                        "eng": "Hooks and Heavyweights",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6344370",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6344370",
+                    "Titles": {
+                        "eng": "Competition Ignition",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6344371",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6344371",
+                    "Titles": {
+                        "eng": "Magic and Mashups",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6344372",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6344372",
+                    "Titles": {
+                        "eng": "Moves and Malfunctions",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6369685",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6369685",
+                    "Titles": {
+                        "eng": "Upgrade Undetected",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6369687",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6369687",
+                    "Titles": {
+                        "eng": "Tobot Against Tobot",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "6369688",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6369688",
+                    "Titles": {
+                        "eng": "Pedals to Propellers",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "6369695",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6369695",
+                    "Titles": {
+                        "eng": "Tracking Timmy",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "6369698",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6369698",
+                    "Titles": {
+                        "eng": "Fend Off Send Off",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "6369703",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6369703",
+                    "Titles": {
+                        "eng": "Real Versus Steel",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "6369712",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6369712",
+                    "Titles": {
+                        "eng": "Traction Distraction",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "6369713",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6369713",
+                    "Titles": {
+                        "eng": "Sync or Swim",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "6369714",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6369714",
+                    "Titles": {
+                        "eng": "Ditched and Derailed",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "6369715",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6369715",
+                    "Titles": {
+                        "eng": "Diluk Decoded",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "6369716",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6369716",
+                    "Titles": {
+                        "eng": "Switches and Hitches",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "6369717",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/6369717",
+                    "Titles": {
+                        "eng": "First to the Finish",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "4": {
+            "ID": "797900",
+            "URL": "https://thetvdb.com/series/333777-show/seasons/official/4",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 22,
+            "Episodes": {
+                "1": {
+                    "ID": "7036292",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/7036292",
+                    "Titles": {
+                        "eng": "Suped Up Side Kicks",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7036294",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/7036294",
+                    "Titles": {
+                        "eng": "Digging in Daedo",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7036295",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/7036295",
+                    "Titles": {
+                        "eng": "Fired Up, Tired Out",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7036296",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/7036296",
+                    "Titles": {
+                        "eng": "Experts and Excavations",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7036297",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/7036297",
+                    "Titles": {
+                        "eng": "Revved Up Rivals",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "7036299",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/7036299",
+                    "Titles": {
+                        "eng": "Dump Truck Drama",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "7036300",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/7036300",
+                    "Titles": {
+                        "eng": "Tunnel Teamwork",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "7036301",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/7036301",
+                    "Titles": {
+                        "eng": "Rescuing Radar",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "7036303",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/7036303",
+                    "Titles": {
+                        "eng": "Riders and Outsiders",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "7036304",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/7036304",
+                    "Titles": {
+                        "eng": "Beats and Battles",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "7036305",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/7036305",
+                    "Titles": {
+                        "eng": "Traps and Transformations",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "7036307",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/7036307",
+                    "Titles": {
+                        "eng": "Reverse Revenge",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "7036308",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/7036308",
+                    "Titles": {
+                        "eng": "Off Road Offense",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "7036309",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/7036309",
+                    "Titles": {
+                        "eng": "Off Road, Off Key",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "7036310",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/7036310",
+                    "Titles": {
+                        "eng": "Gardens and Guard Rails",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "7036312",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/7036312",
+                    "Titles": {
+                        "eng": "Brake Pedal Break-Out",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "7036313",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/7036313",
+                    "Titles": {
+                        "eng": "Chase and Trace",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "7036315",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/7036315",
+                    "Titles": {
+                        "eng": "Shocks and Showdowns",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "7036316",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/7036316",
+                    "Titles": {
+                        "eng": "Drawbridge Drama",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "7036318",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/7036318",
+                    "Titles": {
+                        "eng": "Punches and Paddles",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "7036319",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/7036319",
+                    "Titles": {
+                        "eng": "Homesick Highway",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "7036320",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/333777-show/episodes/7036320",
+                    "Titles": {
+                        "eng": "Giga Bytes Back",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "2"
+        ],
+        "Episodes": [
+            "6369736",
+            "6369727",
+            "6369731",
+            "6369724",
+            "6369732",
+            "6369726",
+            "6369728",
+            "6369729",
+            "6369734",
+            "6369737",
+            "6369730",
+            "6369723",
+            "6369725"
+        ]
+    }
+}

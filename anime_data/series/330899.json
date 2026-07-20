@@ -1,0 +1,71 @@
+{
+    "URL": "https://thetvdb.com/series/mushiking",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1157975/",
+        "https://www.themoviedb.org/tv/29153"
+    ],
+    "Titles": {
+        "eng": "Mushiking",
+        "jpn": "ムシキング"
+    },
+    "Aliases": [
+        "Mushiking: The Guardians of the Forest",
+        "Kôchû ôja mushikingu: Mori no tami no densetsu"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "718334",
+            "URL": "https://thetvdb.com/series/mushiking/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "9565396",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/mushiking/episodes/9565396",
+                    "Titles": {
+                        "eng": "Mushiking: The Road to the Greatest Champion",
+                        "jpn": "甲虫王者ムシキング グレイテストチャンピオンへの道 劇場版"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "9565397",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/mushiking/episodes/9565397",
+                    "Titles": {
+                        "eng": "Kouchuu Ouja Mushiking Super Battle Movie: Yami no Kaizou Kouchuu",
+                        "jpn": "甲虫王者ムシキング スーパーバトルムービー ~闇の改造甲虫~"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "6163115",
+            "6163122",
+            "6163119"
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "URL": "https://thetvdb.com/series/lucky-star",
+    "Genres": [
+        "Anime - Shonen",
+        "LGBTQ+"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1086236/",
+        "http://www.lucky-ch.com/",
+        "https://www.themoviedb.org/tv/42500"
+    ],
+    "Titles": {
+        "eng": "Lucky Star",
+        "jpn": "らき☆すた"
+    },
+    "Aliases": [
+        "Lucky☆Star"
+    ],
+    "Modified": "2026-05-23",
+    "Seasons": {
+        "0": {
+            "ID": "27555",
+            "URL": "https://thetvdb.com/series/lucky-star/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "853241",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/lucky-star/episodes/853241",
+                    "Titles": {
+                        "eng": "JK",
+                        "jpn": "らき☆すたOVA(オリジナルなビジュアルとアニメーション)"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "329354",
+            "329355"
+        ]
+    }
+}

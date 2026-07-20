@@ -1,0 +1,68 @@
+{
+    "URL": "https://thetvdb.com/series/girl-meets-bear",
+    "Genres": [
+        "Animation",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt5630058/",
+        "https://www.themoviedb.org/tv/65382"
+    ],
+    "Titles": {
+        "eng": "Kumamiko - Girl Meets Bear",
+        "jpn": "くまみこ"
+    },
+    "Aliases": [
+        "Girl Meets Bear"
+    ],
+    "Modified": "2025-01-16",
+    "Seasons": {
+        "0": {
+            "ID": "649876",
+            "URL": "https://thetvdb.com/series/girl-meets-bear/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "5663778",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/girl-meets-bear/episodes/5663778",
+                    "Titles": {
+                        "eng": "OVA 1 - Day of the First Snow",
+                        "jpn": "OVA 壱 初雪の日"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "5663779",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/girl-meets-bear/episodes/5663779",
+                    "Titles": {
+                        "eng": "OVA 2 - Natchan's Shocking Debut!",
+                        "jpn": "OVA 弐 ナッちゃん、衝撃デビュー！"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "5617885",
+            "5617886",
+            "5617887"
+        ]
+    }
+}

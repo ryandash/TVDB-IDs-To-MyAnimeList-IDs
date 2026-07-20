@@ -1,0 +1,182 @@
+{
+    "URL": "https://thetvdb.com/series/shiguang-daili-ren",
+    "Genres": [
+        "Action",
+        "Anime",
+        "Fantasy",
+        "Mystery"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt14976292/",
+        "https://www.bilibili.com/bangumi/media/md28230742/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1",
+        "https://www.themoviedb.org/tv/123542"
+    ],
+    "Titles": {
+        "eng": "Link Click",
+        "jpn": "時光代理人 -LINK CLICK-"
+    },
+    "Aliases": [
+        "CLICK",
+        "Time Agents",
+        "Link Click (2021)",
+        "Shiguang Dailiren (2021)",
+        "Link Click S2",
+        "Shiguang Dailiren II"
+    ],
+    "Modified": "2026-06-29",
+    "Seasons": {
+        "1": {
+            "ID": "1923437",
+            "URL": "https://thetvdb.com/series/shiguang-daili-ren/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 11,
+            "Episodes": {
+                "1": {
+                    "ID": "8399373",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shiguang-daili-ren/episodes/8399373",
+                    "Titles": {
+                        "eng": "Emma",
+                        "jpn": "エマ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8399374",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shiguang-daili-ren/episodes/8399374",
+                    "Titles": {
+                        "eng": "Secret Recipe",
+                        "jpn": "秘伝のレシピ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8410119",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shiguang-daili-ren/episodes/8410119",
+                    "Titles": {
+                        "eng": "To Lose, Not To Win",
+                        "jpn": "必ず負けろ、決して勝つな"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "8413537",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shiguang-daili-ren/episodes/8413537",
+                    "Titles": {
+                        "eng": "Confess",
+                        "jpn": "告白"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "8413538",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shiguang-daili-ren/episodes/8413538",
+                    "Titles": {
+                        "eng": "Farewell",
+                        "jpn": "告別"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "8413540",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shiguang-daili-ren/episodes/8413540",
+                    "Titles": {
+                        "eng": "Search of the Child",
+                        "jpn": "消えた息子"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "8413541",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shiguang-daili-ren/episodes/8413541",
+                    "Titles": {
+                        "eng": "Aunt May",
+                        "jpn": "信念"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "8413542",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shiguang-daili-ren/episodes/8413542",
+                    "Titles": {
+                        "eng": "Lost Signal",
+                        "jpn": "逃したシグナル"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "8413543",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shiguang-daili-ren/episodes/8413543",
+                    "Titles": {
+                        "eng": "Consequence of Goodwill",
+                        "jpn": "善意の代償"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "8413544",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shiguang-daili-ren/episodes/8413544",
+                    "Titles": {
+                        "eng": "Trap",
+                        "jpn": "罠"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "8522236",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shiguang-daili-ren/episodes/8522236",
+                    "Titles": {
+                        "eng": "Pinnacle of Light",
+                        "jpn": "光をくれる人"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "4",
+            "0",
+            "3",
+            "2"
+        ],
+        "Episodes": [
+            "9897342",
+            "9909676",
+            "9909672",
+            "9909675",
+            "9909679",
+            "9909680",
+            "9909677",
+            "9909674",
+            "9909673",
+            "9897351",
+            "9909678"
+        ]
+    }
+}

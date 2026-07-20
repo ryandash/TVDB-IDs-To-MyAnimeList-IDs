@@ -1,0 +1,64 @@
+{
+    "URL": "https://thetvdb.com/series/level-1-dakedo-unique-skill-de-saikyou-desu",
+    "Genres": [
+        "Adaptation",
+        "Anime - Shonen"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt27990591/",
+        "https://level1-anime.com/",
+        "https://www.themoviedb.org/tv/201363",
+        "https://en.wikipedia.org/wiki/My_Unique_Skill_Makes_Me_OP_Even_at_Level_1",
+        "https://x.com/level1_anime"
+    ],
+    "Titles": {
+        "eng": "My Unique Skill Makes Me OP Even at Level 1",
+        "jpn": "レベル1だけどユニークスキルで最強です"
+    },
+    "Aliases": [
+        "Level 1 dakedo Unique Skill de Saikyō desu",
+        "Level 1 dakedo Unique Skill de Saikyou desu",
+        "Level 1 With S-Rank Drop Rate Is the Strongest"
+    ],
+    "Modified": "2026-05-18",
+    "Seasons": {
+        "0": {
+            "ID": "1999330",
+            "URL": "https://thetvdb.com/series/level-1-dakedo-unique-skill-de-saikyou-desu/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "10526957",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/level-1-dakedo-unique-skill-de-saikyou-desu/episodes/10526957",
+                    "Titles": {
+                        "eng": "30 seconds notice",
+                        "jpn": "30秒予告"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "9887969",
+            "9887973",
+            "9887975",
+            "9887971",
+            "9887972",
+            "9887970",
+            "9887974"
+        ]
+    }
+}

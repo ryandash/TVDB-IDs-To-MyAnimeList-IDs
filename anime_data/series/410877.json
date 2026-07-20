@@ -1,0 +1,82 @@
+{
+    "URL": "https://thetvdb.com/series/410877-",
+    "Genres": [
+        "Video Game Play"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt14924976/",
+        "https://www.tv-tokyo.co.jp/anime/primagi/",
+        "https://www.themoviedb.org/tv/129599",
+        "https://en.wikipedia.org/wiki/Waccha_PriMagi!?msclkid=175a394ec54811ec8ec1313388f4bebd",
+        "https://x.com/prichan_PR",
+        "https://www.youtube.com/c/UCiNZRBw9_e0dXs7JH3HUoCA/featured"
+    ],
+    "Titles": {
+        "eng": "Waccha PriMagi!",
+        "jpn": "ワッチャプリマジ！"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "1960215",
+            "URL": "https://thetvdb.com/series/410877-/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "9082543",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/410877-/episodes/9082543",
+                    "Titles": {
+                        "eng": "I Really Understand! Waccha PriMagi Academy",
+                        "jpn": "マジでわかる！ワッチャプリマジ学園"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "9082545",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/410877-/episodes/9082545",
+                    "Titles": {
+                        "eng": "It's the New Semester! Waccha PriMagi Academy",
+                        "jpn": "新学期だよ！ワッチャプリマジ学園"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "8756549",
+            "8948116",
+            "8811119",
+            "8898614",
+            "8756548",
+            "8811114",
+            "8811115",
+            "8811118",
+            "8927670",
+            "8811116",
+            "8811117",
+            "8756545",
+            "8948115",
+            "8811120",
+            "9377961",
+            "8811113"
+        ]
+    }
+}

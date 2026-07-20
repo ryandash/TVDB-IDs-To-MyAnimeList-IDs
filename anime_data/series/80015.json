@@ -1,0 +1,95 @@
+{
+    "URL": "https://thetvdb.com/series/ushio-and-tora",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Fantasy",
+        "Horror"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0205492/",
+        "https://www.themoviedb.org/tv/63084"
+    ],
+    "Titles": {
+        "eng": "Ushio and Tora",
+        "jpn": "うしおととら OVA"
+    },
+    "Aliases": [],
+    "Modified": "2025-11-12",
+    "Seasons": {
+        "0": {
+            "ID": "27380",
+            "URL": "https://thetvdb.com/series/ushio-and-tora/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "610171",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ushio-and-tora/episodes/610171",
+                    "Titles": {
+                        "eng": "Comically Deformed Theatre: Akaname",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "2": {
+                    "ID": "4244438",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ushio-and-tora/episodes/4244438",
+                    "Titles": {
+                        "eng": "Comically Deformed Theatre: Idaten",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                },
+                "3": {
+                    "ID": "4244439",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ushio-and-tora/episodes/4244439",
+                    "Titles": {
+                        "eng": "Comically Deformed Theatre: Tora & the Kitten",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "4244440",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ushio-and-tora/episodes/4244440",
+                    "Titles": {
+                        "eng": "ADR Outtakes!",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "610161"
+        ]
+    }
+}

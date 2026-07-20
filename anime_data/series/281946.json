@@ -1,0 +1,55 @@
+{
+    "URL": "https://thetvdb.com/series/nobunaga-concerto",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "History",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt3717892/",
+        "https://www.themoviedb.org/tv/65200"
+    ],
+    "Titles": {
+        "eng": "Nobunaga Concerto",
+        "jpn": "信長協奏曲"
+    },
+    "Aliases": [],
+    "Modified": "2025-06-02",
+    "Seasons": {
+        "0": {
+            "ID": "586237",
+            "URL": "https://thetvdb.com/series/nobunaga-concerto/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "4975316",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/nobunaga-concerto/episodes/4975316",
+                    "Titles": {
+                        "eng": "OVA",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "4975269"
+        ]
+    }
+}

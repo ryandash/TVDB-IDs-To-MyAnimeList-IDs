@@ -1,0 +1,83 @@
+{
+    "URL": "https://thetvdb.com/series/brave-command-dagwon",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/D16D-F9B2-B459-EE97-3D79-D",
+        "https://www.imdb.com/title/tt0143005/",
+        "https://www.sunrise-inc.co.jp/international/work/detail.php?cid=11",
+        "https://www.themoviedb.org/tv/98561",
+        "https://www.themoviedb.org/tv/98561"
+    ],
+    "Titles": {
+        "eng": "Brave Command Dagwon",
+        "jpn": "勇者指令ダグオン"
+    },
+    "Aliases": [
+        "Yuusha Shirei Dagwon",
+        "Yuusha/Brave Series 7",
+        "Dagwon",
+        "Yuusha Shirei Daguon",
+        "Yūsha Shirei Daguon",
+        "ゆうしゃしれいダグオン"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "730002",
+            "URL": "https://thetvdb.com/series/brave-command-dagwon/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "6651073",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/brave-command-dagwon/episodes/6651073",
+                    "Titles": {
+                        "eng": "The Boy with Crystal Eyes - Part 1",
+                        "jpn": "勇者指令ダグオン 水晶の瞳の少年 第01話"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "2": {
+                    "ID": "6651074",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/brave-command-dagwon/episodes/6651074",
+                    "Titles": {
+                        "eng": "The Boy with Crystal Eyes - Part 2",
+                        "jpn": "勇者指令ダグオン 水晶の瞳の少年 第02話"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "6317603",
+            "6317604",
+            "6317605",
+            "6317602",
+            "6317606"
+        ]
+    }
+}

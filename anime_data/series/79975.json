@@ -1,0 +1,70 @@
+{
+    "URL": "https://thetvdb.com/series/red-garden",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Suspense",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0891890/",
+        "https://www.themoviedb.org/tv/38790"
+    ],
+    "Titles": {
+        "eng": "Red Garden",
+        "jpn": "RED GARDEN"
+    },
+    "Aliases": [],
+    "Modified": "2026-01-14",
+    "Seasons": {
+        "0": {
+            "ID": "27353",
+            "URL": "https://thetvdb.com/series/red-garden/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "429974",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/red-garden/episodes/429974",
+                    "Titles": {
+                        "eng": "Dead Girls OVA",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "2": {
+                    "ID": "7165206",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/red-garden/episodes/7165206",
+                    "Titles": {
+                        "eng": "Dead Girls Final",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "327331",
+            "327332"
+        ]
+    }
+}

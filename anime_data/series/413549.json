@@ -1,0 +1,76 @@
+{
+    "URL": "https://thetvdb.com/series/yu-gi-oh-go-rush",
+    "Genres": [
+        "Adaptation",
+        "Anime - Shonen"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt19383782/",
+        "https://www.tv-tokyo.co.jp/anime/yugioh-gorush/",
+        "https://www.themoviedb.org/tv/196257",
+        "https://en.wikipedia.org/wiki/Yu-Gi-Oh!_Go_Rush!!",
+        "https://x.com/@yugioh_anime"
+    ],
+    "Titles": {
+        "eng": "Yu-Gi-Oh! Go Rush!!",
+        "jpn": "遊☆戯☆王ゴーラッシュ！！"
+    },
+    "Aliases": [
+        "Go Rush"
+    ],
+    "Modified": "2026-03-28",
+    "Seasons": {
+        "0": {
+            "ID": "1971963",
+            "URL": "https://thetvdb.com/series/yu-gi-oh-go-rush/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "10854790",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-go-rush/episodes/10854790",
+                    "Titles": {
+                        "eng": "Tanabata Music Festival",
+                        "jpn": "七夕音楽祭"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "9665317",
+            "10190682",
+            "9665316",
+            "9791713",
+            "9718998",
+            "10158276",
+            "9665319",
+            "9734832",
+            "9614773",
+            "9844987",
+            "9614774",
+            "9781145",
+            "9661065",
+            "9665318",
+            "9734834",
+            "9791716",
+            "10174753",
+            "10187080",
+            "9734833",
+            "9844986",
+            "9791714"
+        ]
+    }
+}

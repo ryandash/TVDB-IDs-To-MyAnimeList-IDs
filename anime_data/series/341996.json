@@ -1,0 +1,61 @@
+{
+    "URL": "https://thetvdb.com/series/341996-show",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Fantasy",
+        "Horror"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt7899522/",
+        "https://www.themoviedb.org/tv/76759"
+    ],
+    "Titles": {
+        "eng": "GeGeGe no Kitaro (2018)",
+        "jpn": "ゲゲゲの鬼太郎（2018）"
+    },
+    "Aliases": [
+        "Gegege no Kitarou"
+    ],
+    "Modified": "2026-06-14",
+    "Seasons": {
+        "0": {
+            "ID": "749401",
+            "URL": "https://thetvdb.com/series/341996-show/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "10941471",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/341996-show/episodes/10941471",
+                    "Titles": {
+                        "eng": "The Birth of Kitaro: The Mystery of GeGeGe",
+                        "jpn": "鬼太郎誕生 ゲゲゲの謎"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "7495814",
+            "6684476",
+            "6684479",
+            "7490866",
+            "7524953",
+            "6684477"
+        ]
+    }
+}

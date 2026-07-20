@@ -1,0 +1,96 @@
+{
+    "URL": "https://thetvdb.com/series/magical-angel-sweet-mint",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Children",
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0291632/"
+    ],
+    "Titles": {
+        "eng": "Magical Angel Sweet Mint",
+        "jpn": "魔法のエンジェル スイートミント"
+    },
+    "Aliases": [
+        "Mahou no Angel Sweet Mint"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "613317",
+            "URL": "https://thetvdb.com/series/magical-angel-sweet-mint/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "5167823",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/magical-angel-sweet-mint/episodes/5167823",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 3
+                },
+                "2": {
+                    "ID": "5167824",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/magical-angel-sweet-mint/episodes/5167824",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 3
+                },
+                "3": {
+                    "ID": "5167825",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/magical-angel-sweet-mint/episodes/5167825",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 3
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "5129126",
+            "5129118",
+            "5129120",
+            "5129127",
+            "5129129",
+            "5129116",
+            "5129122",
+            "5129123",
+            "5129121",
+            "5129119",
+            "5129117",
+            "5129125",
+            "5129124",
+            "5129128"
+        ]
+    }
+}

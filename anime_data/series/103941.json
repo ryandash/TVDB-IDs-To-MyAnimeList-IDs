@@ -1,0 +1,65 @@
+{
+    "URL": "https://thetvdb.com/series/canvas-2",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Drama"
+    ],
+    "Other Sites": [],
+    "Titles": {
+        "eng": "Canvas 2: Rainbow Colored Sketch",
+        "jpn": "Canvas2 〜虹色のスケッチ〜"
+    },
+    "Aliases": [
+        "Canvas 2",
+        "Canvas 2, Niji Iro No Sketch"
+    ],
+    "Modified": "2026-01-04",
+    "Seasons": {
+        "0": {
+            "ID": "91841",
+            "URL": "https://thetvdb.com/series/canvas-2/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "3217181",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/3217181",
+                    "Titles": {
+                        "eng": "Unfinished Draft",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "3217191",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/3217191",
+                    "Titles": {
+                        "eng": "Exhibition Sketch",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "864261"
+        ]
+    }
+}

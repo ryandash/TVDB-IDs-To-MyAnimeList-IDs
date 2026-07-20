@@ -1,0 +1,73 @@
+{
+    "URL": "https://thetvdb.com/series/tabi-wa-ni",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Travel"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt36998908/",
+        "https://www.tabihani.com/",
+        "https://www.themoviedb.org/tv/132958",
+        "https://x.com/tabihani_PR",
+        "https://www.youtube.com/c/UCY3kWyDCMnQPJ2AnurJwINw"
+    ],
+    "Titles": {
+        "eng": "Tabi Hani",
+        "jpn": "旅はに"
+    },
+    "Aliases": [
+        "Tabihani",
+        "Tabi-Hani",
+        "Tabi Wa Ni"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "1928210",
+            "URL": "https://thetvdb.com/series/tabi-wa-ni/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "8581425",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tabi-wa-ni/episodes/8581425",
+                    "Titles": {
+                        "eng": "Kyoto-hen",
+                        "jpn": "京都編"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10198241",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tabi-wa-ni/episodes/10198241",
+                    "Titles": {
+                        "eng": "Okayama-hen",
+                        "jpn": "岡山編"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10198242",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tabi-wa-ni/episodes/10198242",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

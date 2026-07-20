@@ -1,0 +1,113 @@
+{
+    "URL": "https://thetvdb.com/series/azur-lane",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/D118-0FED-94D2-E0F5-763A-B",
+        "https://www.imdb.com/title/tt10980934/",
+        "https://azurlane-anime.jp/",
+        "https://www.tvmaze.com/shows/43968/show-slug",
+        "https://www.themoviedb.org/tv/91455",
+        "https://x.com/azurlane_anime"
+    ],
+    "Titles": {
+        "eng": "Azur Lane",
+        "jpn": "アズールレーン"
+    },
+    "Aliases": [
+        "Azur Lane the Animation",
+        "アズールレーン the Animation"
+    ],
+    "Modified": "2026-01-12",
+    "Seasons": {
+        "0": {
+            "ID": "819662",
+            "URL": "https://thetvdb.com/series/azur-lane/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "7466087",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/azur-lane/episodes/7466087",
+                    "Titles": {
+                        "eng": "Episode 6.5 - Recap",
+                        "jpn": "三笠大先輩と学ぶ アニメ『アズールレーン』"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "7466998",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/azur-lane/episodes/7466998",
+                    "Titles": {
+                        "eng": "Episode 6.5 - Mini Drama",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "9492900",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/azur-lane/episodes/9492900",
+                    "Titles": {
+                        "eng": "A Party at the Grand Base",
+                        "jpn": "誇らしき母港に祝祭を"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "10020788",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/azur-lane/episodes/10020788",
+                    "Titles": {
+                        "eng": "Queen's Order Part I",
+                        "jpn": "アズールレーン Queen`s Orders Part I"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "5": {
+                    "ID": "10020789",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/azur-lane/episodes/10020789",
+                    "Titles": {
+                        "eng": "Queen's Order Part II",
+                        "jpn": "アズールレーン Queen`s Orders Part II"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": []
+    }
+}

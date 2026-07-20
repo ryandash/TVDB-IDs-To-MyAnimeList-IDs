@@ -1,0 +1,499 @@
+{
+    "URL": "https://thetvdb.com/series/log-horizon",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2942218/",
+        "https://www6.nhk.or.jp/anime/program/detail.html?i=loghorizon",
+        "http://www.reddit.com/r/LogHorizon",
+        "https://www.themoviedb.org/tv/60846",
+        "https://x.com/nhk_loghorizon"
+    ],
+    "Titles": {
+        "eng": "Log Horizon",
+        "jpn": "ログ・ホライズン"
+    },
+    "Aliases": [
+        "Rogu Horaizun",
+        "Log Horizon 2",
+        "Log Horizon 3",
+        "Log Horizon II",
+        "Log Horizon III",
+        "Log Horizon: Destruction of the Round Table",
+        "Log Horizon: Entaku Hōkai",
+        "Log Horizon: Entaku Houkai"
+    ],
+    "Modified": "2026-03-25",
+    "Seasons": {
+        "0": {
+            "ID": "561637",
+            "URL": "https://thetvdb.com/series/log-horizon/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "5146603",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/5146603",
+                    "Titles": {
+                        "eng": "Recap - Episode 6.5",
+                        "jpn": "今なら間に合う!ログ・ホライズン"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "526516",
+            "URL": "https://thetvdb.com/series/log-horizon/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "4630450",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630450",
+                    "Titles": {
+                        "eng": "The Apocalypse",
+                        "jpn": "大災害"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4630451",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630451",
+                    "Titles": {
+                        "eng": "The Battle of Loka",
+                        "jpn": "ロカの遭遇戦"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4630452",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630452",
+                    "Titles": {
+                        "eng": "The Depths of Palm",
+                        "jpn": "パルムの深き場所"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4630453",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630453",
+                    "Titles": {
+                        "eng": "Escape",
+                        "jpn": "脱出"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4630454",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630454",
+                    "Titles": {
+                        "eng": "Return to Akihabara",
+                        "jpn": "アキバへの帰還"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4630455",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630455",
+                    "Titles": {
+                        "eng": "Resolve",
+                        "jpn": "決意"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4630456",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630456",
+                    "Titles": {
+                        "eng": "Crescent Moon",
+                        "jpn": "クレセントムーン"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4630457",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630457",
+                    "Titles": {
+                        "eng": "Villain in Glasses",
+                        "jpn": "腹ぐろ眼鏡"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4630458",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630458",
+                    "Titles": {
+                        "eng": "Round Table Conference",
+                        "jpn": "円卓会議"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4630459",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630459",
+                    "Titles": {
+                        "eng": "Grab It in Your Hand",
+                        "jpn": "その手につかみとれ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4630460",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630460",
+                    "Titles": {
+                        "eng": "An Invitation from Eastal",
+                        "jpn": "イースタルからの招待状"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4630461",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630461",
+                    "Titles": {
+                        "eng": "The Forest of Lagranda",
+                        "jpn": "ラグランダの杜"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4630462",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630462",
+                    "Titles": {
+                        "eng": "Shield and Freedom",
+                        "jpn": "盾と自由"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4630463",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630463",
+                    "Titles": {
+                        "eng": "World Fraction",
+                        "jpn": "ワールド・フラクション"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4630464",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630464",
+                    "Titles": {
+                        "eng": "Attack",
+                        "jpn": "襲撃"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4630465",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630465",
+                    "Titles": {
+                        "eng": "Return of the Goblin King",
+                        "jpn": "ゴブリン王の帰還"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4630466",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630466",
+                    "Titles": {
+                        "eng": "A Lazy, Cowardly Princess",
+                        "jpn": "怠惰で臆病な姫君"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4630467",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630467",
+                    "Titles": {
+                        "eng": "Expeditionary Force",
+                        "jpn": "遠征軍"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4630468",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630468",
+                    "Titles": {
+                        "eng": "Chasing After Them",
+                        "jpn": "あの背中を追いかけて"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4630469",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630469",
+                    "Titles": {
+                        "eng": "Contract",
+                        "jpn": "契約"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4630470",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630470",
+                    "Titles": {
+                        "eng": "The Two of Us Shall Waltz",
+                        "jpn": "ふたりでワルツを"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4630471",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630471",
+                    "Titles": {
+                        "eng": "Swallow and Young Starling",
+                        "jpn": "つばめとひなむく"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4630472",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630472",
+                    "Titles": {
+                        "eng": "Student of the Mage",
+                        "jpn": "魔法使いの弟子"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "4630473",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630473",
+                    "Titles": {
+                        "eng": "Chaos",
+                        "jpn": "混乱"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "4630474",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/4630474",
+                    "Titles": {
+                        "eng": "The Scale Festival",
+                        "jpn": "天秤祭"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "1869373",
+            "URL": "https://thetvdb.com/series/log-horizon/seasons/official/3",
+            "Titles": {
+                "eng": "Destruction of the Round Table",
+                "jpn": "円卓崩壊",
+                "fra": "Destruction of the Round Table",
+                "kor": "원탁붕괴",
+                "por": "A Queda da Távola Redonda",
+                "rus": "Падение Круглого Стола",
+                "pt": "Destruction of the Round Table",
+                "deu": "Destruction of the Round Table"
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "7953504",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/7953504",
+                    "Titles": {
+                        "eng": "Rayneshia's Marriage",
+                        "jpn": "レイネシアの結婚"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7953513",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/7953513",
+                    "Titles": {
+                        "eng": "The Duke of Akiba",
+                        "jpn": "アキバ公爵"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7953514",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/7953514",
+                    "Titles": {
+                        "eng": "The Round Table Fractures",
+                        "jpn": "ひびわれる円卓"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7953516",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/7953516",
+                    "Titles": {
+                        "eng": "Akiba General Election",
+                        "jpn": "アキバ総選挙"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7953519",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/7953519",
+                    "Titles": {
+                        "eng": "Blessings",
+                        "jpn": "それぞれの祝福"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "7953521",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/7953521",
+                    "Titles": {
+                        "eng": "Immortal in Ethereal Utopia",
+                        "jpn": "桃源郷の仙君"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "7953528",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/7953528",
+                    "Titles": {
+                        "eng": "Not a Curse",
+                        "jpn": "呪いではなく"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "7953534",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/7953534",
+                    "Titles": {
+                        "eng": "The Oldest Ancients",
+                        "jpn": "最古の古来種"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "7953540",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/7953540",
+                    "Titles": {
+                        "eng": "Adoration",
+                        "jpn": "あこがれ"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "7953551",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/7953551",
+                    "Titles": {
+                        "eng": "Labyrinth in Akiba",
+                        "jpn": "アキバの迷宮"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "7953552",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/7953552",
+                    "Titles": {
+                        "eng": "Despair Genius",
+                        "jpn": "失望の典災"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "7953554",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/log-horizon/episodes/7953554",
+                    "Titles": {
+                        "eng": "Song of the Nightingales",
+                        "jpn": "夜啼鳥の唄"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "2"
+        ],
+        "Episodes": [
+            "5083940",
+            "5083941",
+            "5083942"
+        ]
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "URL": "https://thetvdb.com/series/barbapapa-around-the-world",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0304998/",
+        "https://www.themoviedb.org/tv/54552",
+        "https://en.wikipedia.org/wiki/Barbapapa"
+    ],
+    "Titles": {
+        "eng": "Barbapapa Around the World",
+        "jpn": "バーバパパ 世界をまわる"
+    },
+    "Aliases": [],
+    "Modified": "2026-04-21",
+    "Seasons": {
+        "0": {
+            "ID": "540855",
+            "URL": "https://thetvdb.com/series/barbapapa-around-the-world/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "10876801",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/barbapapa-around-the-world/episodes/10876801",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "動物の発見"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 4
+                },
+                "2": {
+                    "ID": "10876802",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/barbapapa-around-the-world/episodes/10876802",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "あらゆる国の友達"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 4
+                },
+                "3": {
+                    "ID": "10876809",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/barbapapa-around-the-world/episodes/10876809",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "地球から月まで"
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 4
+                },
+                "4": {
+                    "ID": "10876810",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/barbapapa-around-the-world/episodes/10876810",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "素晴らしいバルバドベンチャーズ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 4,
+                    "Num Episodes": 4
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "1207051",
+            "1207131",
+            "1207041",
+            "1207091",
+            "1206931",
+            "1207201",
+            "1207241",
+            "1207101",
+            "1207111",
+            "1207141",
+            "1207161",
+            "1207121",
+            "1207171",
+            "1207181",
+            "1207151",
+            "1207191",
+            "1207081",
+            "1207021"
+        ]
+    }
+}

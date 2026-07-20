@@ -1,0 +1,74 @@
+{
+    "URL": "https://thetvdb.com/series/time-travel-tondekeman",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0461109/",
+        "http://ashipro.jp/works/tv_series/w018.html",
+        "https://www.themoviedb.org/tv/8721"
+    ],
+    "Titles": {
+        "eng": "Time Travel Tondekeman!",
+        "jpn": "たいむとらぶる トンデケマン！"
+    },
+    "Aliases": [
+        "Time Quest!"
+    ],
+    "Modified": "2026-04-06",
+    "Seasons": {
+        "0": {
+            "ID": "612908",
+            "URL": "https://thetvdb.com/series/time-travel-tondekeman/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "5368028",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/time-travel-tondekeman/episodes/5368028",
+                    "Titles": {
+                        "eng": "Opening",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "6294011",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/time-travel-tondekeman/episodes/6294011",
+                    "Titles": {
+                        "eng": "Ending",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "5125716",
+            "5125718",
+            "5125717",
+            "5125713",
+            "5125714",
+            "5125715"
+        ]
+    }
+}

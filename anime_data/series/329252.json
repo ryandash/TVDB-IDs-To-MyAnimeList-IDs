@@ -1,0 +1,58 @@
+{
+    "URL": "https://thetvdb.com/series/infini-t-force",
+    "Genres": [
+        "Superhero"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/E73E-12C5-A3F9-E65B-1729-A",
+        "https://www.imdb.com/title/tt6697296/",
+        "http://www.infini-tforce.com/",
+        "https://www.themoviedb.org/tv/74093",
+        "https://www.themoviedb.org/tv/74093",
+        "https://x.com/Infini_TForce"
+    ],
+    "Titles": {
+        "eng": "Infini-T Force",
+        "jpn": "Infini-T Force"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "713906",
+            "URL": "https://thetvdb.com/series/infini-t-force/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "6802632",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/infini-t-force/episodes/6802632",
+                    "Titles": {
+                        "eng": "Infini-T Force: Farewell, Friend",
+                        "jpn": "劇場版Infini-T Force/ガッチャマン さらば友よ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "6387272",
+            "6409013",
+            "6379713",
+            "6401153",
+            "6417960"
+        ]
+    }
+}

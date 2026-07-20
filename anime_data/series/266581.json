@@ -1,0 +1,80 @@
+{
+    "URL": "https://thetvdb.com/series/dokidoki-precure",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Children",
+        "Family",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt4621212/",
+        "https://www.themoviedb.org/tv/75086"
+    ],
+    "Titles": {
+        "eng": "DokiDoki! Precure",
+        "jpn": "ドキドキ！プリキュア"
+    },
+    "Aliases": [
+        "Doki Doki! Pretty Cure"
+    ],
+    "Modified": "2026-07-01",
+    "Seasons": {
+        "0": {
+            "ID": "558136",
+            "URL": "https://thetvdb.com/series/dokidoki-precure/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "5294965",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/dokidoki-precure/episodes/5294965",
+                    "Titles": {
+                        "eng": "Pretty Cure All Stars New Stage 2: Friends of the Heart",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "4935638",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/dokidoki-precure/episodes/4935638",
+                    "Titles": {
+                        "eng": "DokiDoki! Precure Movie: Mana's Getting Married!!? The Dress of Hope That Connects to the Future",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "4621498",
+            "4621496",
+            "4633057",
+            "4633058",
+            "4640740",
+            "4600002",
+            "4670225",
+            "4640741",
+            "4621499",
+            "4621497"
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "URL": "https://thetvdb.com/series/da-capo-iii",
+    "Genres": [
+        "Animation",
+        "Drama"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0496193/",
+        "https://hikosen.co.jp/eigeki/dc3/",
+        "https://x.com/https://twitter.com/DC3_anime"
+    ],
+    "Titles": {
+        "eng": "Da Capo III",
+        "jpn": "D.C.III ～ダ・カーポIII～"
+    },
+    "Aliases": [
+        "D.C.III ~Da Capo III~",
+        "Da Capo 3",
+        "D.C.Ⅲ ダ・カーポⅢ"
+    ],
+    "Modified": "2026-06-11",
+    "Seasons": {
+        "0": {
+            "ID": "556887",
+            "URL": "https://thetvdb.com/series/da-capo-iii/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "4682782",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/da-capo-iii/episodes/4682782",
+                    "Titles": {
+                        "eng": "Pre-Air Special",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "4446331",
+            "4446327",
+            "4536342",
+            "4446325",
+            "4446321",
+            "4446323"
+        ]
+    }
+}

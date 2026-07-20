@@ -1,0 +1,59 @@
+{
+    "URL": "https://thetvdb.com/series/himawari",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1806917/",
+        "https://www.themoviedb.org/tv/42987"
+    ],
+    "Titles": {
+        "eng": "Himawari",
+        "jpn": "ひまわりっ！"
+    },
+    "Aliases": [],
+    "Modified": "2023-03-19",
+    "Seasons": {
+        "0": {
+            "ID": "535752",
+            "URL": "https://thetvdb.com/series/himawari/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "9679577",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/himawari/episodes/9679577",
+                    "Titles": {
+                        "eng": "Special Episode",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "2",
+            "1"
+        ],
+        "Episodes": [
+            "315888",
+            "315890",
+            "315893",
+            "315894",
+            "315891",
+            "315892",
+            "315889"
+        ]
+    }
+}

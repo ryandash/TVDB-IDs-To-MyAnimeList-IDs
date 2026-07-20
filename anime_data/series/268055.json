@@ -1,0 +1,58 @@
+{
+    "URL": "https://thetvdb.com/series/muromi-san",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2703716/",
+        "https://www.themoviedb.org/tv/53808"
+    ],
+    "Titles": {
+        "eng": "Muromi-san",
+        "jpn": "波打際のむろみさん"
+    },
+    "Aliases": [
+        "Namiuchigiwa no Muromi-san"
+    ],
+    "Modified": "2026-02-02",
+    "Seasons": {
+        "0": {
+            "ID": "515698",
+            "URL": "https://thetvdb.com/series/muromi-san/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "4550957",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/muromi-san/episodes/4550957",
+                    "Titles": {
+                        "eng": "Muromi-san of the Pangaea Supercontinent",
+                        "jpn": "OVA「パンゲア超大陸のむろみさん」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "4530824",
+            "4530827",
+            "4530825",
+            "4530826",
+            "4530823"
+        ]
+    }
+}

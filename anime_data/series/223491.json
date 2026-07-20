@@ -1,0 +1,97 @@
+{
+    "URL": "https://thetvdb.com/series/machine-robo-revenge-of-cronos",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Children",
+        "Fantasy",
+        "Science Fiction",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0140346/",
+        "https://www.themoviedb.org/tv/14290"
+    ],
+    "Titles": {
+        "eng": "Machine Robo: Revenge of Cronos",
+        "jpn": "マシンロボ クロノスの大逆襲"
+    },
+    "Aliases": [],
+    "Modified": "2025-04-23",
+    "Seasons": {
+        "0": {
+            "ID": "546462",
+            "URL": "https://thetvdb.com/series/machine-robo-revenge-of-cronos/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "5303045",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/machine-robo-revenge-of-cronos/episodes/5303045",
+                    "Titles": {
+                        "eng": "Leina: The Legend of the Wolf Sword I",
+                        "jpn": "レイナ剣狼伝説Ⅰ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 3
+                },
+                "2": {
+                    "ID": "5303046",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/machine-robo-revenge-of-cronos/episodes/5303046",
+                    "Titles": {
+                        "eng": "Leina: The Legend of the Wolf Sword II",
+                        "jpn": "レイナ剣狼伝説Ⅱ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 3
+                },
+                "3": {
+                    "ID": "5303047",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/machine-robo-revenge-of-cronos/episodes/5303047",
+                    "Titles": {
+                        "eng": "Leina: The Legend of the Wolf Sword III",
+                        "jpn": "レイナ剣狼伝説Ⅲ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 3
+                },
+                "4": {
+                    "ID": "5303048",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/machine-robo-revenge-of-cronos/episodes/5303048",
+                    "Titles": {
+                        "eng": "Lightning Trap Leina & Laika OAV",
+                        "jpn": "LIGHTNING TRAP LEINA & LAIKA"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "3547021",
+            "3547031",
+            "4168332"
+        ]
+    }
+}

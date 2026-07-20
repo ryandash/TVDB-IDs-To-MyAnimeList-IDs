@@ -1,0 +1,167 @@
+{
+    "URL": "https://thetvdb.com/series/alien-nine",
+    "Genres": [
+        "Adaptation",
+        "Anime - Seinen"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1915535/",
+        "https://www.themoviedb.org/tv/43086",
+        "https://www.wikidata.org/wiki/Q112687796",
+        "https://en.wikipedia.org/wiki/Alien_Nine"
+    ],
+    "Titles": {
+        "eng": "Alien Nine",
+        "jpn": "エイリアン9"
+    },
+    "Aliases": [
+        "Alien 9"
+    ],
+    "Modified": "2026-05-19",
+    "Seasons": {
+        "0": {
+            "ID": "535548",
+            "URL": "https://thetvdb.com/series/alien-nine/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "10590234",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/alien-nine/episodes/10590234",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Taro Maki Interview"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 6
+                },
+                "2": {
+                    "ID": "10590235",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/alien-nine/episodes/10590235",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Sketch Gallery"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 6
+                },
+                "3": {
+                    "ID": "10590236",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/alien-nine/episodes/10590236",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Japanese Promos"
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 6
+                },
+                "6": {
+                    "ID": "10590239",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/alien-nine/episodes/10590239",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "English Dubbing Diary"
+                    },
+                    "Aliases": [],
+                    "Episode #": 4,
+                    "Num Episodes": 6
+                },
+                "7": {
+                    "ID": "10590240",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/alien-nine/episodes/10590240",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "English Dub Credits"
+                    },
+                    "Aliases": [],
+                    "Episode #": 5,
+                    "Num Episodes": 6
+                },
+                "8": {
+                    "ID": "10590241",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/alien-nine/episodes/10590241",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Art Gallery"
+                    },
+                    "Aliases": [],
+                    "Episode #": 6,
+                    "Num Episodes": 6
+                }
+            }
+        },
+        "1": {
+            "ID": "34076",
+            "URL": "https://thetvdb.com/series/alien-nine/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "378452",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/alien-nine/episodes/378452",
+                    "Titles": {
+                        "eng": "9th Elementary School Alien Party",
+                        "jpn": "第9小学校 エイリアン対策係"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "378453",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/alien-nine/episodes/378453",
+                    "Titles": {
+                        "eng": "Overgrown Starship Boredom",
+                        "jpn": "退屈 宇宙船 過成長"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "378454",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/alien-nine/episodes/378454",
+                    "Titles": {
+                        "eng": "Summer Vacation - Borg Dies",
+                        "jpn": "夏休み ボウグ 絶命"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "378455",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/alien-nine/episodes/378455",
+                    "Titles": {
+                        "eng": "The End of the Beginning",
+                        "jpn": "始まりの終わり"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "URL": "https://thetvdb.com/series/shin-yaiba",
+    "Genres": [
+        "Adaptation",
+        "Anime - Shonen"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt33332400/",
+        "https://www.yaiba-pr.com/",
+        "https://www.themoviedb.org/tv/254017",
+        "https://en.wikipedia.org/wiki/Yaiba#Anime",
+        "https://x.com/YAIBA_PR"
+    ],
+    "Titles": {
+        "eng": "YAIBA: Samurai Legend",
+        "jpn": "真・侍伝 YAIBA"
+    },
+    "Aliases": [
+        "Shin Samuraden YAIBA",
+        "shin YAIBA",
+        "Y∀IBA (2024)",
+        "Legend of the Swordmaster Yaiba (2024)",
+        "YAIBA (2024)",
+        "Shin Samurai-den Yaiba",
+        "YAIBA (2025)"
+    ],
+    "Modified": "2026-03-28",
+    "Seasons": {
+        "2": {
+            "ID": "2208650",
+            "URL": "https://thetvdb.com/series/shin-yaiba/seasons/official/2",
+            "Titles": {
+                "eng": "Kaguya Arc",
+                "jpn": "かぐや編"
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11363267",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shin-yaiba/episodes/11363267",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "11206014",
+            "11008900",
+            "11206010",
+            "11008901",
+            "11206013",
+            "11206012",
+            "11008899",
+            "11206011",
+            "11008902"
+        ]
+    }
+}

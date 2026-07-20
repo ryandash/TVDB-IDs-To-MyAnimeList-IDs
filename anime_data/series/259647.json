@@ -1,0 +1,97 @@
+{
+    "URL": "https://thetvdb.com/series/kokoro-connect",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2250034/",
+        "https://www.themoviedb.org/tv/45807"
+    ],
+    "Titles": {
+        "eng": "Kokoro Connect",
+        "jpn": "ココロコネクト"
+    },
+    "Aliases": [],
+    "Modified": "2026-01-13",
+    "Seasons": {
+        "0": {
+            "ID": "822150",
+            "URL": "https://thetvdb.com/series/kokoro-connect/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "4394514",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kokoro-connect/episodes/4394514",
+                    "Titles": {
+                        "eng": "The Days Fall Apart",
+                        "jpn": "壊れてゆく日々"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "4394516",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kokoro-connect/episodes/4394516",
+                    "Titles": {
+                        "eng": "You Don't See It, You Don't Get It",
+                        "jpn": "なにも見えてない　なにもわかってない"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "4394518",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kokoro-connect/episodes/4394518",
+                    "Titles": {
+                        "eng": "Determination and Resolution",
+                        "jpn": "覚悟と氷解"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "4394522",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kokoro-connect/episodes/4394522",
+                    "Titles": {
+                        "eng": "Connecting Hearts",
+                        "jpn": "心をつないで"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "4356955",
+            "4356956",
+            "4356957"
+        ]
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "URL": "https://thetvdb.com/series/metalions",
+    "Genres": [
+        "Animation"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/227949"
+    ],
+    "Titles": {
+        "eng": "Metalions",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2023-07-15",
+    "Seasons": {
+        "2": {
+            "ID": "1862957",
+            "URL": "https://thetvdb.com/series/metalions/seasons/official/2",
+            "Titles": {
+                "eng": "In the Dragon’s Lair, Part 2!",
+                "jpn": null,
+                "pol": "W jaskini smoka, część druga"
+            },
+            "# Episodes": 8,
+            "Episodes": {
+                "1": {
+                    "ID": "7901954",
+                    "TYPE": "OVA",
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalions/episodes/7901954",
+                    "Titles": {
+                        "eng": "Once Upon A Time in Nova City",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7901955",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalions/episodes/7901955",
+                    "Titles": {
+                        "eng": "Adventures in Antelope Canyon",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "7901968",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalions/episodes/7901968",
+                    "Titles": {
+                        "eng": "A Thief’s Best Friend, Part 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "7901983",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalions/episodes/7901983",
+                    "Titles": {
+                        "eng": "A Thief’s Best Friend, Part 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "7902095",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalions/episodes/7902095",
+                    "Titles": {
+                        "eng": "In the Dragon’s Lair!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "7902104",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalions/episodes/7902104",
+                    "Titles": {
+                        "eng": "In the Dragon’s Lair, Part 2!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "7912168",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalions/episodes/7912168",
+                    "Titles": {
+                        "eng": "Permafrost Peril",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "7912172",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalions/episodes/7912172",
+                    "Titles": {
+                        "eng": "The Metallic Ruins",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "9899813",
+            "9899811",
+            "9899816",
+            "9899808",
+            "9899804",
+            "9899815",
+            "9899810",
+            "9899803",
+            "9899806",
+            "9899802",
+            "9899800",
+            "9899805",
+            "9899801",
+            "9899799",
+            "9899814",
+            "9899817",
+            "9899809",
+            "9899819",
+            "9899818",
+            "9899807",
+            "9899812"
+        ]
+    }
+}

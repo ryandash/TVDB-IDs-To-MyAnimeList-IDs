@@ -1,0 +1,128 @@
+{
+    "URL": "https://thetvdb.com/series/ghost-slayers-ayashi",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "History"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0881819/",
+        "https://www.themoviedb.org/tv/44940"
+    ],
+    "Titles": {
+        "eng": "Ghost Slayers Ayashi",
+        "jpn": "天保異聞 妖奇士"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "26967",
+            "URL": "https://thetvdb.com/series/ghost-slayers-ayashi/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "2269241",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ghost-slayers-ayashi/episodes/2269241",
+                    "Titles": {
+                        "eng": "Inferno I: The River of Wailing",
+                        "jpn": "嘆きの河"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "2269251",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ghost-slayers-ayashi/episodes/2269251",
+                    "Titles": {
+                        "eng": "Inferno II: The City of Dis",
+                        "jpn": "ディーテの市"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "2269261",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ghost-slayers-ayashi/episodes/2269261",
+                    "Titles": {
+                        "eng": "Inferno III: Mountain of Purgatory",
+                        "jpn": "煉獄山"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "2269271",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ghost-slayers-ayashi/episodes/2269271",
+                    "Titles": {
+                        "eng": "Inferno IV: Earthly Paradise",
+                        "jpn": "地上楽園"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "5": {
+                    "ID": "2269281",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ghost-slayers-ayashi/episodes/2269281",
+                    "Titles": {
+                        "eng": "Inferno V: Myth",
+                        "jpn": "神話"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "337267",
+            "337282",
+            "337270",
+            "337274",
+            "337268",
+            "337273",
+            "337281",
+            "337266",
+            "337277",
+            "337264",
+            "337263",
+            "337269",
+            "337280",
+            "337279",
+            "337271",
+            "337278",
+            "337265",
+            "337272",
+            "337276",
+            "337275"
+        ]
+    }
+}

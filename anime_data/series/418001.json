@@ -1,0 +1,100 @@
+{
+    "URL": "https://thetvdb.com/series/tekken-bloodline",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt19875850/",
+        "https://www.netflix.com/title/81002441",
+        "https://www.themoviedb.org/tv/195530"
+    ],
+    "Titles": {
+        "eng": "Tekken: Bloodline",
+        "jpn": "Tekken: Bloodline"
+    },
+    "Aliases": [],
+    "Modified": "2026-01-09",
+    "Seasons": {
+        "1": {
+            "ID": "1990963",
+            "URL": "https://thetvdb.com/series/tekken-bloodline/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "9064569",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tekken-bloodline/episodes/9064569",
+                    "Titles": {
+                        "eng": "Episode 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9310923",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tekken-bloodline/episodes/9310923",
+                    "Titles": {
+                        "eng": "Episode 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9310924",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tekken-bloodline/episodes/9310924",
+                    "Titles": {
+                        "eng": "Episode 3",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9310925",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tekken-bloodline/episodes/9310925",
+                    "Titles": {
+                        "eng": "Episode 4",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "9310926",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tekken-bloodline/episodes/9310926",
+                    "Titles": {
+                        "eng": "Episode 5",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "9310928",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tekken-bloodline/episodes/9310928",
+                    "Titles": {
+                        "eng": "Episode 6",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

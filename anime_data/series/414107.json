@@ -1,0 +1,75 @@
+{
+    "URL": "https://thetvdb.com/series/delicious-party-pretty-cure",
+    "Genres": [
+        "Educational Content",
+        "Superhero"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt18246604/",
+        "https://www.toei-anim.co.jp/tv/delicious-party_precure/",
+        "https://www.themoviedb.org/tv/156197"
+    ],
+    "Titles": {
+        "eng": "Delicious Party♡Precure",
+        "jpn": "デリシャスパーティ♡プリキュア"
+    },
+    "Aliases": [
+        "Delicious Party♡Pretty Cure",
+        "Delicious Party Pretty Cure",
+        "Delicious Party♡PreCure",
+        "Delicious Party Precure"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "1974449",
+            "URL": "https://thetvdb.com/series/delicious-party-pretty-cure/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "9625363",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/delicious-party-pretty-cure/episodes/9625363",
+                    "Titles": {
+                        "eng": "Delicious Party Pretty Cure the Movie: Dreaming Children's Lunch!",
+                        "jpn": "映画デリシャスパーティ♡プリキュア 夢みる♡お子さまランチ！"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "10989997",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/delicious-party-pretty-cure/episodes/10989997",
+                    "Titles": {
+                        "eng": "Watashi dake no Okosama Lunch",
+                        "jpn": "わたしだけのお子さまランチ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "9479306",
+            "9018947",
+            "9520430",
+            "9520431",
+            "9018945",
+            "9018946"
+        ]
+    }
+}

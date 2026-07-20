@@ -1,0 +1,95 @@
+{
+    "URL": "https://thetvdb.com/series/toward-the-terra",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Drama",
+        "Science Fiction",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0985492/",
+        "https://www.themoviedb.org/tv/30237"
+    ],
+    "Titles": {
+        "eng": "Toward the Terra",
+        "jpn": "地球へ…"
+    },
+    "Aliases": [
+        "Terra e...",
+        "Terra e... (2007)"
+    ],
+    "Modified": "2026-01-04",
+    "Seasons": {
+        "0": {
+            "ID": "27712",
+            "URL": "https://thetvdb.com/series/toward-the-terra/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "2251421",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/2251421",
+                    "Titles": {
+                        "eng": "Toward the Terra",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "6836398",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/6836398",
+                    "Titles": {
+                        "eng": "Terra e...: Type Blue - the Origin",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "6836406",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/toward-the-terra/episodes/6836406",
+                    "Titles": {
+                        "eng": "Epilogue: Toward the last moment of soldier blue",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "393273",
+            "393271",
+            "393270",
+            "393266",
+            "393277",
+            "393278",
+            "393256",
+            "393272",
+            "393274",
+            "393279",
+            "393269",
+            "393276",
+            "393275"
+        ]
+    }
+}

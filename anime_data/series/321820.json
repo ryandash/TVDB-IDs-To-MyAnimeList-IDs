@@ -1,0 +1,100 @@
+{
+    "URL": "https://thetvdb.com/series/kirakira-precure-a-la-mode",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Children",
+        "Comedy",
+        "Fantasy",
+        "Food"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/334B-D016-F478-7262-4FB9-S",
+        "https://www.imdb.com/title/tt11662748/",
+        "https://www.themoviedb.org/tv/69289",
+        "https://www.wikidata.org/wiki/Q28039618",
+        "https://en.wikipedia.org/wiki/Kirakira_Pretty_Cure_a_la_Mode"
+    ],
+    "Titles": {
+        "eng": "Kirakira☆Precure A La Mode",
+        "jpn": "キラキラ☆プリキュアアラモード"
+    },
+    "Aliases": [],
+    "Modified": "2026-04-26",
+    "Seasons": {
+        "0": {
+            "ID": "693842",
+            "URL": "https://thetvdb.com/series/kirakira-precure-a-la-mode/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "6215816",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kirakira-precure-a-la-mode/episodes/6215816",
+                    "Titles": {
+                        "eng": "Pretty Cure Dream Stars!",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "6609109",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kirakira-precure-a-la-mode/episodes/6609109",
+                    "Titles": {
+                        "eng": "Crisply! The Memory of Mille-feuille!",
+                        "jpn": "映画キラキラ☆プリキュアアラモード パリッと！想い出のミルフィーユ！"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "10989987",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kirakira-precure-a-la-mode/episodes/10989987",
+                    "Titles": {
+                        "eng": "Petit☆Dream Stars!: Let's La Cooking? Showtime!",
+                        "jpn": "Petit☆ドリームスターズ! レッツ・ラ・クッキン? ショータイム!"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "11761973",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kirakira-precure-a-la-mode/episodes/11761973",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Cure Yell Baton Pass"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "5963634",
+            "6002924",
+            "5963633",
+            "6002923"
+        ]
+    }
+}

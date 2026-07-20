@@ -1,0 +1,86 @@
+{
+    "URL": "https://thetvdb.com/series/osomatsu-kun-1988",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Family"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt4730606/",
+        "https://www.themoviedb.org/tv/121372"
+    ],
+    "Titles": {
+        "eng": "Osomatsu-kun (1988)",
+        "jpn": "おそ松くん (1988)"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "674091",
+            "URL": "https://thetvdb.com/series/osomatsu-kun-1988/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "6190812",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/osomatsu-kun-1988/episodes/6190812",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "あっぱれチビ太の鬼たいじザンス"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 3
+                },
+                "2": {
+                    "ID": "6190892",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/osomatsu-kun-1988/episodes/6190892",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "おそ松くん スイカの星からこんにちはザンス!"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 3
+                },
+                "3": {
+                    "ID": "6190898",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/osomatsu-kun-1988/episodes/6190898",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "おそ松くん イヤミはひとり風の中"
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 3
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "6190803",
+            "6190801",
+            "6190800",
+            "6190798",
+            "6190804",
+            "6190799",
+            "6190802",
+            "6190805"
+        ]
+    }
+}

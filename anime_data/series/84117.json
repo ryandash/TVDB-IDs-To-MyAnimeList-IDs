@@ -1,0 +1,50 @@
+{
+    "URL": "https://thetvdb.com/series/hanoka",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt16295758/",
+        "https://www.themoviedb.org/tv/43983"
+    ],
+    "Titles": {
+        "eng": "Hanoka",
+        "jpn": "HANOKA〜葉ノ香〜"
+    },
+    "Aliases": [],
+    "Modified": "2023-11-06",
+    "Seasons": {
+        "0": {
+            "ID": "38170",
+            "URL": "https://thetvdb.com/series/hanoka/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "4166848",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/hanoka/episodes/4166848",
+                    "Titles": {
+                        "eng": "Recap",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": []
+    }
+}

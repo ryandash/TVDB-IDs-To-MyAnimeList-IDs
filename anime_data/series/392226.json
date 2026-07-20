@@ -1,0 +1,774 @@
+{
+    "URL": "https://thetvdb.com/series/swallowed-star",
+    "Genres": [
+        "Adaptation",
+        "Superhero",
+        "Xianxia"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt17050076/",
+        "https://v.qq.com/x/search/?q=%E5%90%9E%E5%99%AC%E6%98%9F%E7%A9%BA&stag=0&smartbox_ab=",
+        "https://www.tvmaze.com/shows/52178/show-slug",
+        "https://www.themoviedb.org/tv/101172",
+        "https://www.wikidata.org/wiki/Q124709051"
+    ],
+    "Titles": {
+        "eng": "Swallowed Star",
+        "jpn": null
+    },
+    "Aliases": [
+        "Tunshi Xingkong - Swallowed Star",
+        "Tunshi Xingkong",
+        "吞噬星空"
+    ],
+    "Modified": "2026-07-20",
+    "Seasons": {
+        "0": {
+            "ID": "1882202",
+            "URL": "https://thetvdb.com/series/swallowed-star/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "10847589",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/10847589",
+                    "Titles": {
+                        "eng": "Blood Luo Continent",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "11772213",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/11772213",
+                    "Titles": {
+                        "eng": "Showdown on Primodial Star",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "1882203",
+            "URL": "https://thetvdb.com/series/swallowed-star/seasons/official/1",
+            "Titles": {
+                "eng": "The Beginning",
+                "jpn": null,
+                "zho": "初露锋芒",
+                "rus": "Начало"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "8055008",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8055008",
+                    "Titles": {
+                        "eng": "Episode 01",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8055009",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8055009",
+                    "Titles": {
+                        "eng": "Episode 02",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8078652",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8078652",
+                    "Titles": {
+                        "eng": "Episode 03",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "8078653",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8078653",
+                    "Titles": {
+                        "eng": "Episode 04",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "8096977",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8096977",
+                    "Titles": {
+                        "eng": "Episode 05",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "8100650",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8100650",
+                    "Titles": {
+                        "eng": "Episode 06",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "8121021",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8121021",
+                    "Titles": {
+                        "eng": "Episode 07",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "8121025",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8121025",
+                    "Titles": {
+                        "eng": "Episode 08",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "8155578",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8155578",
+                    "Titles": {
+                        "eng": "Episode 09",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "8155581",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8155581",
+                    "Titles": {
+                        "eng": "Episode 10",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "8155586",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8155586",
+                    "Titles": {
+                        "eng": "Episode 11",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "8155590",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8155590",
+                    "Titles": {
+                        "eng": "Episode 12",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "8185063",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8185063",
+                    "Titles": {
+                        "eng": "Episode 13",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "8296250",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8296250",
+                    "Titles": {
+                        "eng": "Episode 14",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "8296261",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8296261",
+                    "Titles": {
+                        "eng": "Episode 15",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "8296288",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8296288",
+                    "Titles": {
+                        "eng": "Episode 16",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "8296289",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8296289",
+                    "Titles": {
+                        "eng": "Episode 17",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "8296290",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8296290",
+                    "Titles": {
+                        "eng": "Episode 18",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "8296291",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8296291",
+                    "Titles": {
+                        "eng": "Episode 19",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "8296292",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8296292",
+                    "Titles": {
+                        "eng": "Episode 20",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "8185064",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8185064",
+                    "Titles": {
+                        "eng": "Episode 21",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "8244951",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8244951",
+                    "Titles": {
+                        "eng": "Episode 22",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "8269810",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8269810",
+                    "Titles": {
+                        "eng": "Episode 23",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "8375614",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8375614",
+                    "Titles": {
+                        "eng": "Episode 24",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "8408526",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8408526",
+                    "Titles": {
+                        "eng": "Episode 25",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "8436183",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/8436183",
+                    "Titles": {
+                        "eng": "Episode 26",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "2053175",
+            "URL": "https://thetvdb.com/series/swallowed-star/seasons/official/3",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "zho": "地球篇",
+                "rus": "Земля"
+            },
+            "# Episodes": 33,
+            "Episodes": {
+                "1": {
+                    "ID": "9349684",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9349684",
+                    "Titles": {
+                        "eng": "Episode 53",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9349685",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9349685",
+                    "Titles": {
+                        "eng": "Episode 54",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9349686",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9349686",
+                    "Titles": {
+                        "eng": "Episode 55",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9349687",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9349687",
+                    "Titles": {
+                        "eng": "Episode 56",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "9349680",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9349680",
+                    "Titles": {
+                        "eng": "Episode 57",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "9349681",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9349681",
+                    "Titles": {
+                        "eng": "Episode 58",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "9349682",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9349682",
+                    "Titles": {
+                        "eng": "Episode 59",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "9349683",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9349683",
+                    "Titles": {
+                        "eng": "Episode 60",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "9446352",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9446352",
+                    "Titles": {
+                        "eng": "Episode 61",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "9446353",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9446353",
+                    "Titles": {
+                        "eng": "Episode 62",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "9446354",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9446354",
+                    "Titles": {
+                        "eng": "Episode 63",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "9446355",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9446355",
+                    "Titles": {
+                        "eng": "Episode 64",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "9446356",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9446356",
+                    "Titles": {
+                        "eng": "Episode 65",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "9505819",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9505819",
+                    "Titles": {
+                        "eng": "Episode 66",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "9519277",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9519277",
+                    "Titles": {
+                        "eng": "Episode 67",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "9519279",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9519279",
+                    "Titles": {
+                        "eng": "Episode 68",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "9519281",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9519281",
+                    "Titles": {
+                        "eng": "Episode 69",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "9519283",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9519283",
+                    "Titles": {
+                        "eng": "Episode 70",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "9567188",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9567188",
+                    "Titles": {
+                        "eng": "Episode 71",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "9567189",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9567189",
+                    "Titles": {
+                        "eng": "Episode 72",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "9593346",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9593346",
+                    "Titles": {
+                        "eng": "Episode 73",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "9612989",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9612989",
+                    "Titles": {
+                        "eng": "Episode 74",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "9619036",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9619036",
+                    "Titles": {
+                        "eng": "Episode 75",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "9619037",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9619037",
+                    "Titles": {
+                        "eng": "Episode 76",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "9619038",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9619038",
+                    "Titles": {
+                        "eng": "Episode 77",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "9619039",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9619039",
+                    "Titles": {
+                        "eng": "Episode 78",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "9670729",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9670729",
+                    "Titles": {
+                        "eng": "Episode 79",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "9670730",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9670730",
+                    "Titles": {
+                        "eng": "Episode 80",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "9670731",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9670731",
+                    "Titles": {
+                        "eng": "Episode 81",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "9670732",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9670732",
+                    "Titles": {
+                        "eng": "Episode 82",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "9722669",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9722669",
+                    "Titles": {
+                        "eng": "Episode 83",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "9722670",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9722670",
+                    "Titles": {
+                        "eng": "Episode 84",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "9722671",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/swallowed-star/episodes/9722671",
+                    "Titles": {
+                        "eng": "Episode 85",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "2",
+            "5",
+            "4"
+        ],
+        "Episodes": [
+            "10868569",
+            "10956962",
+            "10406700",
+            "11763982",
+            "11763984",
+            "9300431",
+            "10868571",
+            "11763988",
+            "10436163",
+            "11763980",
+            "10956960",
+            "10868572",
+            "9300433",
+            "10436164",
+            "10956961",
+            "9300432",
+            "11763986",
+            "10460123",
+            "11875107",
+            "10298086",
+            "10946235",
+            "10460122",
+            "10485250",
+            "10868570",
+            "11875106",
+            "10406701"
+        ]
+    }
+}

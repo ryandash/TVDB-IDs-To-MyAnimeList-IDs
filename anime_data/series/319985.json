@@ -1,0 +1,61 @@
+{
+    "URL": "https://thetvdb.com/series/minami-kamakura-high-school-girls-cycling-club",
+    "Genres": [
+        "Adaptation",
+        "Anime - Shonen"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt6436436/",
+        "https://minakama-anime.jp/",
+        "https://www.themoviedb.org/tv/69296",
+        "https://www.wikidata.org/wiki/Q100743087",
+        "https://en.wikipedia.org/wiki/Minami_Kamakura_High_School_Girls_Cycling_Club"
+    ],
+    "Titles": {
+        "eng": "Minami Kamakura High School Girls Cycling Club",
+        "jpn": "南鎌倉高校女子自転車部"
+    },
+    "Aliases": [
+        "Minami Kamakura H.S.C.C.",
+        "Minami Kamakura Kōkō Joshi Jitensha-bu",
+        "Minami Kamakura Koukou Joshi Jitensha-bu"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "689076",
+            "URL": "https://thetvdb.com/series/minami-kamakura-high-school-girls-cycling-club/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "6075836",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/minami-kamakura-high-school-girls-cycling-club/episodes/6075836",
+                    "Titles": {
+                        "eng": "We're in Taiwan!!",
+                        "jpn": "特別編「来たよ、台湾！！」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "5954836",
+            "5926915",
+            "5927942",
+            "5944575"
+        ]
+    }
+}

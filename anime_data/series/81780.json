@@ -1,0 +1,90 @@
+{
+    "URL": "https://thetvdb.com/series/mirage-of-blaze",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Drama",
+        "Fantasy",
+        "History",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0447590/",
+        "https://www.themoviedb.org/tv/1065"
+    ],
+    "Titles": {
+        "eng": "Mirage of Blaze",
+        "jpn": "炎の蜃気楼"
+    },
+    "Aliases": [],
+    "Modified": "2026-04-03",
+    "Seasons": {
+        "0": {
+            "ID": "31838",
+            "URL": "https://thetvdb.com/series/mirage-of-blaze/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "1183911",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/mirage-of-blaze/episodes/1183911",
+                    "Titles": {
+                        "eng": "Rebels of the River Edge - Chapter 1: Dearest Wish",
+                        "jpn": "～みなぎわの反逆者～ 第1章：悲願"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "2": {
+                    "ID": "1183921",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/mirage-of-blaze/episodes/1183921",
+                    "Titles": {
+                        "eng": "Rebels of the River Edge - Chapter 2: Tiger's Eye",
+                        "jpn": "～みなぎわの反逆者～ 第2章：タイガース・アイ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                },
+                "3": {
+                    "ID": "1183931",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/mirage-of-blaze/episodes/1183931",
+                    "Titles": {
+                        "eng": "Rebels of the River Edge - Chapter 3: Wind of the River's Edge",
+                        "jpn": "～みなぎわの反逆者～ 第3章：みなぎわの風"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "361536",
+            "361543",
+            "361545",
+            "361541",
+            "361539",
+            "361540",
+            "361544",
+            "361537",
+            "361538",
+            "361542"
+        ]
+    }
+}

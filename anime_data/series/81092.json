@@ -1,0 +1,169 @@
+{
+    "URL": "https://thetvdb.com/series/black-jack-2004",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Drama",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0446543/",
+        "https://www.themoviedb.org/tv/35868",
+        "https://www.themoviedb.org/tv/35868"
+    ],
+    "Titles": {
+        "eng": "Black Jack (2004)",
+        "jpn": "ブラック・ジャック"
+    },
+    "Aliases": [],
+    "Modified": "2026-05-20",
+    "Seasons": {
+        "0": {
+            "ID": "30030",
+            "URL": "https://thetvdb.com/series/black-jack-2004/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 9,
+            "Episodes": {
+                "1": {
+                    "ID": "724101",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/black-jack-2004/episodes/724101",
+                    "Titles": {
+                        "eng": "Where is a Doctor?",
+                        "jpn": "医者はどこだ！"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "724111",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/black-jack-2004/episodes/724111",
+                    "Titles": {
+                        "eng": "The Disowned Son",
+                        "jpn": "勘当息子"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "724121",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/black-jack-2004/episodes/724121",
+                    "Titles": {
+                        "eng": "U-18 Knew It",
+                        "jpn": "U-18は知っていた"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "724131",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/black-jack-2004/episodes/724131",
+                    "Titles": {
+                        "eng": "Just Like a Pearl",
+                        "jpn": "ときには真珠のように"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "5": {
+                    "ID": "724081",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/black-jack-2004/episodes/724081",
+                    "Titles": {
+                        "eng": "The Two Doctors of Darkness (Movie)",
+                        "jpn": "ブラック・ジャック ふたりの黒い医者"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "6": {
+                    "ID": "5064931",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/black-jack-2004/episodes/5064931",
+                    "Titles": {
+                        "eng": "Dr. Pinoko`s Adventure",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "7": {
+                    "ID": "723421",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/black-jack-2004/episodes/723421",
+                    "Titles": {
+                        "eng": "Thieving Dog",
+                        "jpn": "樹海のかまいたち"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "8": {
+                    "ID": "724091",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/black-jack-2004/episodes/724091",
+                    "Titles": {
+                        "eng": "Kamaitachi in the Woodlands",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "9": {
+                    "ID": "4723313",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/black-jack-2004/episodes/4723313",
+                    "Titles": {
+                        "eng": "Karte: NG Extras",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "723451",
+            "723671",
+            "723631",
+            "723411",
+            "723641",
+            "723441",
+            "723681",
+            "723471",
+            "723651",
+            "723661",
+            "723461",
+            "723481"
+        ]
+    }
+}

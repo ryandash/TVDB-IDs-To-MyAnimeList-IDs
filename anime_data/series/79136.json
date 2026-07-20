@@ -1,0 +1,53 @@
+{
+    "URL": "https://thetvdb.com/series/fantastic-children",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0774065/",
+        "https://www.themoviedb.org/tv/34699"
+    ],
+    "Titles": {
+        "eng": "Fantastic Children",
+        "jpn": "ファンタジックチルドレン"
+    },
+    "Aliases": [],
+    "Modified": "2026-06-27",
+    "Seasons": {
+        "0": {
+            "ID": "535504",
+            "URL": "https://thetvdb.com/series/fantastic-children/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "9725959",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/fantastic-children/episodes/9725959",
+                    "Titles": {
+                        "eng": "Fantastic Children Extended Ending",
+                        "jpn": "ベフォールの子供たちのその後"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": []
+    }
+}

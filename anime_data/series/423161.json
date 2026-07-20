@@ -1,0 +1,54 @@
+{
+    "URL": "https://thetvdb.com/series/sugarbunnies",
+    "Genres": [
+        "Anime",
+        "Children"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/BB72-8A4B-641C-0685-0E94-O",
+        "https://www.imdb.com/title/tt10959096/",
+        "https://www.themoviedb.org/tv/20971",
+        "https://www.themoviedb.org/tv/20971"
+    ],
+    "Titles": {
+        "eng": "Sugar Bunnies",
+        "jpn": "Shugâbanîzu"
+    },
+    "Aliases": [
+        "Shugâbanîzu shokora!",
+        "Shugâbanîzu Furûru"
+    ],
+    "Modified": "2026-04-23",
+    "Seasons": {
+        "0": {
+            "ID": "2013122",
+            "URL": "https://thetvdb.com/series/sugarbunnies/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "9881079",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/sugarbunnies/episodes/9881079",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "大切な友達へ…"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": []
+    }
+}

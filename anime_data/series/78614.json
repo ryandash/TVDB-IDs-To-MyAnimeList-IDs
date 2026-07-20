@@ -1,0 +1,71 @@
+{
+    "URL": "https://thetvdb.com/series/belle-and-sebastian",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Children"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0283710/",
+        "https://www.themoviedb.org/tv/10108",
+        "https://www.wikidata.org/wiki/Q368770"
+    ],
+    "Titles": {
+        "eng": "Belle and Sebastian",
+        "jpn": "名犬ジョリィ"
+    },
+    "Aliases": [
+        "Jolly the famous dog",
+        "Meiken Jorī",
+        "Meiken Jolie"
+    ],
+    "Modified": "2026-07-02",
+    "Seasons": {
+        "0": {
+            "ID": "26071",
+            "URL": "https://thetvdb.com/series/belle-and-sebastian/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "6368778",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/belle-and-sebastian/episodes/6368778",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "2": {
+                    "ID": "11870158",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/belle-and-sebastian/episodes/11870158",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "イタリア版エンディング"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "290090",
+            "290089"
+        ]
+    }
+}

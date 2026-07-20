@@ -1,0 +1,81 @@
+{
+    "URL": "https://thetvdb.com/series/cutey-honey-flash",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Fantasy",
+        "Romance",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0189254/",
+        "https://www.themoviedb.org/tv/36001"
+    ],
+    "Titles": {
+        "eng": "Cutie Honey Flash",
+        "jpn": "キューティーハニーＦ"
+    },
+    "Aliases": [
+        "Cutie Honey F",
+        "Cutey Honey Flash",
+        "キューティーハニー フラッシュ",
+        "キューティーハニーF",
+        "Kyûteî Hanî Flash"
+    ],
+    "Modified": "2026-03-17",
+    "Seasons": {
+        "0": {
+            "ID": "491083",
+            "URL": "https://thetvdb.com/series/cutey-honey-flash/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4372037",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/cutey-honey-flash/episodes/4372037",
+                    "Titles": {
+                        "eng": "The Movie",
+                        "jpn": "キューティーハニーF"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "7355941",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/cutey-honey-flash/episodes/7355941",
+                    "Titles": {
+                        "eng": "Nagano Ai Clip",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "4315398",
+            "4315396",
+            "4315399",
+            "4315397",
+            "4315401",
+            "4315400"
+        ]
+    }
+}

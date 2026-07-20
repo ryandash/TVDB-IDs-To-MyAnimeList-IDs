@@ -1,0 +1,630 @@
+{
+    "URL": "https://thetvdb.com/series/pretty-cure",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "Mystery"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1441577/",
+        "https://www.themoviedb.org/tv/37508"
+    ],
+    "Titles": {
+        "eng": "Pretty Cure",
+        "jpn": "ふたりはプリキュア"
+    },
+    "Aliases": [
+        "Futari wa Precure",
+        "Futari wa Precure Max Heart",
+        "ふたりはプリキュア Max Heart"
+    ],
+    "Modified": "2026-06-27",
+    "Seasons": {
+        "0": {
+            "ID": "538184",
+            "URL": "https://thetvdb.com/series/pretty-cure/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4916469",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/4916469",
+                    "Titles": {
+                        "eng": "Pretty Cure Max Heart: The Movie",
+                        "jpn": "ふたりはプリキュア ー マックスハート"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "4916470",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/4916470",
+                    "Titles": {
+                        "eng": "Pretty Cure Max Heart: Friends of the Snow-Laden Sky",
+                        "jpn": "ふたりはプリキュアマックスハート２ 雪空のともだち"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "38779",
+            "URL": "https://thetvdb.com/series/pretty-cure/seasons/official/1",
+            "Titles": {
+                "eng": "Futari wa Pretty Cure",
+                "jpn": "ふたりはプリキュア",
+                "fra": "Pretty Cure",
+                "deu": "Pretty Cure"
+            },
+            "# Episodes": 49,
+            "Episodes": {
+                "1": {
+                    "ID": "422352",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422352",
+                    "Titles": {
+                        "eng": "What D' You Mean Transform?",
+                        "jpn": "私たちが変身！？ありえない！"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "422353",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422353",
+                    "Titles": {
+                        "eng": "Cleaning Up the City",
+                        "jpn": "カンベンして！闇に狙われた街"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "422354",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422354",
+                    "Titles": {
+                        "eng": "Who's the New T.A.?",
+                        "jpn": "イケてる実習生に気をつけろ！"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "422355",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422355",
+                    "Titles": {
+                        "eng": "Mystery at the Museum",
+                        "jpn": "ミラクル！？生きている美術館"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "422356",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422356",
+                    "Titles": {
+                        "eng": "Is it Over Yet?",
+                        "jpn": "マジヤバ！捨て身のピーサード"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "422357",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422357",
+                    "Titles": {
+                        "eng": "Mountains, Ogres and Bears",
+                        "jpn": "新たな闇！危険な森のクマさん"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "422358",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422358",
+                    "Titles": {
+                        "eng": "Lacrossed Wires",
+                        "jpn": "熱闘ラクロス！乙女心は超ビミョー！"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "422359",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422359",
+                    "Titles": {
+                        "eng": "The Pretty Cure Breakup",
+                        "jpn": "プリキュア解散！ぶっちゃけ早すぎ！？"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "422360",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422360",
+                    "Titles": {
+                        "eng": "Get Him Back! Operation Rescue!",
+                        "jpn": "取り返せ！メポメポ大作戦"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "422362",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422362",
+                    "Titles": {
+                        "eng": "Birthday Heist",
+                        "jpn": "ほのか炸裂！素敵な誕生日"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "422363",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422363",
+                    "Titles": {
+                        "eng": "Fish Out of Water",
+                        "jpn": "亮太を救え！ゲキドラーゴ・パニック"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "422364",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422364",
+                    "Titles": {
+                        "eng": "Darkness in Disguise",
+                        "jpn": "悪の華・ポイズニー参上！って誰？"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "422365",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422365",
+                    "Titles": {
+                        "eng": "Who's the New Student?",
+                        "jpn": "ご用心！年下の転校生"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "422366",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422366",
+                    "Titles": {
+                        "eng": "Spot the Fakes",
+                        "jpn": "ウソホント！？ニセプリキュア大暴れ"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "422367",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422367",
+                    "Titles": {
+                        "eng": "We Need A Vacation",
+                        "jpn": "メッチャ危ない家族旅行"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "422381",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422381",
+                    "Titles": {
+                        "eng": "Practice Makes Perfect",
+                        "jpn": "ストレス全開！マドンナはつらいよ"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "422382",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422382",
+                    "Titles": {
+                        "eng": "Cultivating Crushes",
+                        "jpn": "ハートをゲット！トキメキ農作業"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "422383",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422383",
+                    "Titles": {
+                        "eng": "Midterm Mission",
+                        "jpn": "ドキドキ！中間テストは恋の迷宮"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "422384",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422384",
+                    "Titles": {
+                        "eng": "The Dark Zone's Secret Weapon",
+                        "jpn": "こわすぎ！ドツクゾーン最後の切り札"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "422385",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422385",
+                    "Titles": {
+                        "eng": "A Double Dose of Smart",
+                        "jpn": "どっちが本物？ふたりのほのか"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "422386",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422386",
+                    "Titles": {
+                        "eng": "The Truth About Kirea",
+                        "jpn": "衝撃デート！キリヤの真実"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "422387",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422387",
+                    "Titles": {
+                        "eng": "Puppy Pandemonium",
+                        "jpn": "ウッソー！忠太郎ママになる！？"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "422388",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422388",
+                    "Titles": {
+                        "eng": "Summer Camp Fiasco",
+                        "jpn": "危うし！夏合宿の悪夢"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "422389",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422389",
+                    "Titles": {
+                        "eng": "Match Point! Pretty Cure Vs. Ilkubo",
+                        "jpn": "決戦！プリキュア対イルクーボ"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "422390",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422390",
+                    "Titles": {
+                        "eng": "Return to the Garden of Light",
+                        "jpn": "いざ光の園へポポ！私たちも！？"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "422391",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/422391",
+                    "Titles": {
+                        "eng": "Saying Goodbye is Never Easy",
+                        "jpn": "さよならメップルミップル！？やだー！"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "655031",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/655031",
+                    "Titles": {
+                        "eng": "A New Evil Gathers",
+                        "jpn": "新たな闇が迫る！迷子のポルンを救え"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "655041",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/655041",
+                    "Titles": {
+                        "eng": "Turning Up the Heat",
+                        "jpn": "レギーネ登場！ってもう来ないで！"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "655051",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/655051",
+                    "Titles": {
+                        "eng": "Summer Ends with a Bang",
+                        "jpn": "嵐の夏祭り！カミナリ様は超コワイ！？"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "655061",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/655061",
+                    "Titles": {
+                        "eng": "Pretty Cure Rainbow Storm",
+                        "jpn": "炸裂！　プリキュアレインボーストーム"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "655071",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/655071",
+                    "Titles": {
+                        "eng": "Porun on the Loose",
+                        "jpn": "マジ家出？　ポルンはいったいどこー！？"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "655081",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/655081",
+                    "Titles": {
+                        "eng": "Cheer Up, Porun",
+                        "jpn": "ポルンを励ませ!　とっておきのカーニバル"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "655091",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/655091",
+                    "Titles": {
+                        "eng": "Teamwork Saves The Day",
+                        "jpn": "Vゲット！　心でつなげ光のパスライン！！"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "655101",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/655101",
+                    "Titles": {
+                        "eng": "Running On Empty",
+                        "jpn": "なぎさぶっちぎり！　炎のガチンコリレー"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "427837",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/427837",
+                    "Titles": {
+                        "eng": "You Call This A Date?",
+                        "jpn": "これってデート？怒涛のハッピーバースデー"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "427786",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/427786",
+                    "Titles": {
+                        "eng": "Guardian's Great Escape",
+                        "jpn": "自由を掴め！ 番人決死の大脱走"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "427793",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/427793",
+                    "Titles": {
+                        "eng": "Shaking Up Shakespeare",
+                        "jpn": "いざ初舞台！！　負けるなロミオとジュリエット"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "427794",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/427794",
+                    "Titles": {
+                        "eng": "Ryan's Solo Mission",
+                        "jpn": "ガッツでGO！　亮太のお使い大作戦"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "427804",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/427804",
+                    "Titles": {
+                        "eng": "Patching It Up",
+                        "jpn": "涙キラ！　汗がタラ！　結婚式は大騒動！！"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "427805",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/427805",
+                    "Titles": {
+                        "eng": "Sleepover Nightmare",
+                        "jpn": "夢の世界へご招待！？　一泊二日闇の旅"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "427806",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/427806",
+                    "Titles": {
+                        "eng": "Losing Isn't An Option",
+                        "jpn": "負けないってばー！！闇の力をぶっとばせ！"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "427807",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/427807",
+                    "Titles": {
+                        "eng": "Together, We Are One!",
+                        "jpn": "二人はひとつ！　なぎさとほのか最強の絆"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "427808",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/427808",
+                    "Titles": {
+                        "eng": "Fergie's Birthday Brouhaha",
+                        "jpn": "激揺れまくり！藤P先輩に届けこの想い"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "427809",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/427809",
+                    "Titles": {
+                        "eng": "A Holiday Visitor",
+                        "jpn": "最高ハッピー!?　なぎさのホワイトクリスマス"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "427815",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/427815",
+                    "Titles": {
+                        "eng": "Choir Chaos",
+                        "jpn": "歌えさくら組! 合唱は勇気を乗せて"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "427821",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/427821",
+                    "Titles": {
+                        "eng": "A New Year Debacle",
+                        "jpn": "サイアク～!　石の力が奪われた～!?"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "427822",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/427822",
+                    "Titles": {
+                        "eng": "The Dark Zone Expedition",
+                        "jpn": "最強戦士登場!っても～ありえない!!"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "427823",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/427823",
+                    "Titles": {
+                        "eng": "Evil vs. Evil",
+                        "jpn": "史上最大の決戦！　プリキュア最後の日!!"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "427824",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pretty-cure/episodes/427824",
+                    "Titles": {
+                        "eng": "Fight for the Future",
+                        "jpn": "未来を信じて！　明日を信じて！　さよならなんて言わせない!!"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "2"
+        ],
+        "Episodes": [
+            "4916462",
+            "4916463",
+            "4916465",
+            "4916464",
+            "4916466"
+        ]
+    }
+}

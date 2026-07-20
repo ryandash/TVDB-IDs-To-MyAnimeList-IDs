@@ -1,0 +1,91 @@
+{
+    "URL": "https://thetvdb.com/series/psychic-squad",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1216257/",
+        "https://www.tv-tokyo.co.jp/anime/zettai_children/",
+        "https://www.themoviedb.org/tv/42926"
+    ],
+    "Titles": {
+        "eng": "Psychic Squad",
+        "jpn": "絶対可憐チルドレン"
+    },
+    "Aliases": [
+        "Zettai Karen Children"
+    ],
+    "Modified": "2025-04-03",
+    "Seasons": {
+        "0": {
+            "ID": "38226",
+            "URL": "https://thetvdb.com/series/psychic-squad/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "583891",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/psychic-squad/episodes/583891",
+                    "Titles": {
+                        "eng": "Generous Treatment! Natsuko and Hotaru's B.A.B.E.L. Report",
+                        "jpn": "大盤振舞！奈津子とほたるのバベル通信"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "3234511",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/psychic-squad/episodes/3234511",
+                    "Titles": {
+                        "eng": "Zettai Karen Children Limited Release! OVA Super Advance Special!",
+                        "jpn": "絶対可憐チルドレン 限定解禁!! OVA超先取りスペシャル!!"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "3234501",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/psychic-squad/episodes/3234501",
+                    "Titles": {
+                        "eng": "Zettai Karen Children OVA: Changing Love! Take Back a Stolen Future?",
+                        "jpn": "OVA 愛多憎生!奪われた未来？"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "416171",
+            "583841",
+            "416172",
+            "416175",
+            "416173",
+            "416174",
+            "583831",
+            "583851",
+            "583861"
+        ]
+    }
+}

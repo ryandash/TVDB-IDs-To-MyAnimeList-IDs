@@ -1,0 +1,67 @@
+{
+    "URL": "https://thetvdb.com/series/nozo-x-kimi",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Mini-Series",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt3779860/",
+        "https://www.themoviedb.org/tv/212966"
+    ],
+    "Titles": {
+        "eng": "Nozo X Kimi",
+        "jpn": "ノゾ×キミ"
+    },
+    "Aliases": [
+        "Nozomi x Kimio"
+    ],
+    "Modified": "2025-10-14",
+    "Seasons": {
+        "1": {
+            "ID": "594672",
+            "URL": "https://thetvdb.com/series/nozo-x-kimi/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "4971802",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nozo-x-kimi/episodes/4971802",
+                    "Titles": {
+                        "eng": "The Girl with Massive Melons",
+                        "jpn": "タワワなカノジョ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4971803",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nozo-x-kimi/episodes/4971803",
+                    "Titles": {
+                        "eng": "The Clubhouse Ghost",
+                        "jpn": "ブシツのオバケ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5054961",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nozo-x-kimi/episodes/5054961",
+                    "Titles": {
+                        "eng": "Our Heartbeats",
+                        "jpn": "フタリのコドウ"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

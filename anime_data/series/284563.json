@@ -1,0 +1,75 @@
+{
+    "URL": "https://thetvdb.com/series/wolf-girl-and-black-prince",
+    "Genres": [
+        "Anime",
+        "Comedy",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt3950092/",
+        "https://www.themoviedb.org/tv/68960"
+    ],
+    "Titles": {
+        "eng": "Wolf Girl & Black Prince",
+        "jpn": "オオカミ少女と黒王子"
+    },
+    "Aliases": [
+        "Ookami Shoujo to Kuro Ouji",
+        "Wolf Girl and Black Prince"
+    ],
+    "Modified": "2025-06-02",
+    "Seasons": {
+        "0": {
+            "ID": "593260",
+            "URL": "https://thetvdb.com/series/wolf-girl-and-black-prince/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "5406347",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/wolf-girl-and-black-prince/episodes/5406347",
+                    "Titles": {
+                        "eng": "Wolf Girl & Black Prince Recap",
+                        "jpn": "総集編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "5357910",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/wolf-girl-and-black-prince/episodes/5357910",
+                    "Titles": {
+                        "eng": "Breeding Doubts -Happening Kiss-",
+                        "jpn": "OAD「佐田くんの誕生日」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "5008210",
+            "5028297",
+            "5028299",
+            "5008211",
+            "4956351",
+            "5008213",
+            "5028300",
+            "5028298"
+        ]
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "URL": "https://thetvdb.com/series/blessing-of-the-campanella",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1685415/",
+        "https://www.themoviedb.org/tv/93845"
+    ],
+    "Titles": {
+        "eng": "Blessing of the Campanella",
+        "jpn": "祝福のカンパネラ"
+    },
+    "Aliases": [
+        "Shukufuku no Campanella"
+    ],
+    "Modified": "2025-04-27",
+    "Seasons": {
+        "0": {
+            "ID": "272121",
+            "URL": "https://thetvdb.com/series/blessing-of-the-campanella/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 7,
+            "Episodes": {
+                "1": {
+                    "ID": "3234611",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/blessing-of-the-campanella/episodes/3234611",
+                    "Titles": {
+                        "eng": "Issho ni Bath Time: Carina Version",
+                        "jpn": "いっしょにばすたいむカリーナ編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 6
+                },
+                "2": {
+                    "ID": "3234631",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/blessing-of-the-campanella/episodes/3234631",
+                    "Titles": {
+                        "eng": "Issho ni Bath Time: Minette Version",
+                        "jpn": "いっしょにばすたいむミネット編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 6
+                },
+                "3": {
+                    "ID": "3234641",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/blessing-of-the-campanella/episodes/3234641",
+                    "Titles": {
+                        "eng": "Issho ni Bath Time: Chelsea Version",
+                        "jpn": "いっしょにばすたいむチェルシー編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 6
+                },
+                "4": {
+                    "ID": "3343571",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/blessing-of-the-campanella/episodes/3343571",
+                    "Titles": {
+                        "eng": "Issho ni Bath Time: Agnes Version",
+                        "jpn": "いっしょにばすたいむアニエス編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 4,
+                    "Num Episodes": 6
+                },
+                "5": {
+                    "ID": "3623191",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/blessing-of-the-campanella/episodes/3623191",
+                    "Titles": {
+                        "eng": "Issho ni Bath Time: Ritos & Salsa Version",
+                        "jpn": "いっしょにばすたいむサルサ&リトス編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 5,
+                    "Num Episodes": 6
+                },
+                "6": {
+                    "ID": "3845671",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/blessing-of-the-campanella/episodes/3845671",
+                    "Titles": {
+                        "eng": "Issho ni Bath Time:  All Party Version",
+                        "jpn": "いっしょにばすたいむ全員集合編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 6,
+                    "Num Episodes": 6
+                },
+                "7": {
+                    "ID": "3845681",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/blessing-of-the-campanella/episodes/3845681",
+                    "Titles": {
+                        "eng": "Shukufuku no Campanella OVA",
+                        "jpn": "祝福のカンパネラOVA"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": []
+    }
+}

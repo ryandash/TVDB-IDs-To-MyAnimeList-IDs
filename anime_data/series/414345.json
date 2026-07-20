@@ -1,0 +1,71 @@
+{
+    "URL": "https://thetvdb.com/series/sotsugyou-graduation",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Drama",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2912300/",
+        "https://www.themoviedb.org/tv/116087",
+        "https://www.themoviedb.org/tv/116087"
+    ],
+    "Titles": {
+        "eng": "Graduation",
+        "jpn": "卒業~Graduation~"
+    },
+    "Aliases": [
+        "Sotsugyō - Graduation",
+        "Sotsugyo",
+        "Sotsugyou: Graduation"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "2": {
+            "ID": "1975829",
+            "URL": "https://thetvdb.com/series/sotsugyou-graduation/seasons/official/2",
+            "Titles": {
+                "eng": "Marriage",
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "8929407",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sotsugyou-graduation/episodes/8929407",
+                    "Titles": {
+                        "eng": "Red String",
+                        "jpn": "出逢ひの赤い糸"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8929408",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/sotsugyou-graduation/episodes/8929408",
+                    "Titles": {
+                        "eng": "Women's Sorrow",
+                        "jpn": "五分の二女の悲哀"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1",
+            "0"
+        ],
+        "Episodes": [
+            "8929517",
+            "8929516",
+            "8929515",
+            "8929497"
+        ]
+    }
+}

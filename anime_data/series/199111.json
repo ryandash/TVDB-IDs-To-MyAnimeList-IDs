@@ -1,0 +1,421 @@
+{
+    "URL": "https://thetvdb.com/series/marie-and-gali",
+    "Genres": [
+        "Animation",
+        "Children",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/25395"
+    ],
+    "Titles": {
+        "eng": "Marie & Gali",
+        "jpn": "マリー＆ガリー"
+    },
+    "Aliases": [],
+    "Modified": "2023-05-01",
+    "Seasons": {
+        "0": {
+            "ID": "339441",
+            "URL": "https://thetvdb.com/series/marie-and-gali/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "3005281",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/3005281",
+                    "Titles": {
+                        "eng": "Project X Episode 0",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "3006131",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/3006131",
+                    "Titles": {
+                        "eng": "Special Compilation",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "8142523",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/8142523",
+                    "Titles": {
+                        "eng": "Meeting (9.5)",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "2": {
+            "ID": "646498",
+            "URL": "https://thetvdb.com/series/marie-and-gali/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 30,
+            "Episodes": {
+                "1": {
+                    "ID": "5423425",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423425",
+                    "Titles": {
+                        "eng": "Marika is back",
+                        "jpn": "帰ってきたマリカ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5423434",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423434",
+                    "Titles": {
+                        "eng": "Why is it round? Soap bubbles!",
+                        "jpn": "どうして丸いのシャボン玉"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5423438",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423438",
+                    "Titles": {
+                        "eng": "Why is it reversed? The secret of a mirror.",
+                        "jpn": "どうしてさかさま？鏡の秘密"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5423441",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423441",
+                    "Titles": {
+                        "eng": "Let's Bake Some Plump Bread!",
+                        "jpn": "ふっくらパンを焼こう！"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5423444",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423444",
+                    "Titles": {
+                        "eng": "Argument Intervention. Marika Is Detergent?",
+                        "jpn": "けんかの仲裁マリカはせっけん？"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5423447",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423447",
+                    "Titles": {
+                        "eng": "Marika and Norika's Snore Busters",
+                        "jpn": "マリカとノリカのイビキバスターズ！"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5423450",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423450",
+                    "Titles": {
+                        "eng": "Marika is a Famous Golfer!?",
+                        "jpn": "マリカは名ゴルファー！？"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5423454",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423454",
+                    "Titles": {
+                        "eng": "Inner Body Discovery with Micro-Machines!",
+                        "jpn": "マイクロマシンで体内探検！"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5423457",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423457",
+                    "Titles": {
+                        "eng": "Galiba-Way!? Ringo-chan Diet!",
+                        "jpn": "ガリバ式！？リンゴちゃんダイエット！"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5423460",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423460",
+                    "Titles": {
+                        "eng": "The Bear the Lived 100,000,000 Years",
+                        "jpn": "一億年生きたクマ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5423462",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423462",
+                    "Titles": {
+                        "eng": "Searching for Lost Time",
+                        "jpn": "失われた時を求めて"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5423463",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423463",
+                    "Titles": {
+                        "eng": "Tale of the Dreamy White Night",
+                        "jpn": "白夜の夢の物語"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "5423464",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423464",
+                    "Titles": {
+                        "eng": "Galiba's Pirates! Aim for the Hidden Treasure!",
+                        "jpn": "ガリバの海賊！隠された宝をねらえ"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "5423467",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423467",
+                    "Titles": {
+                        "eng": "Cool Down the Heated Galiba!",
+                        "jpn": "灼熱のガリバを冷やせ！"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "5423472",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423472",
+                    "Titles": {
+                        "eng": "Coming to Life! Galiba Future Museum",
+                        "jpn": "誕生！ガリバ未来館"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "5423475",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423475",
+                    "Titles": {
+                        "eng": "I Want to Convey the Feelings of My Hot Heart!",
+                        "jpn": "熱いハートを伝えたい！"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "5423480",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423480",
+                    "Titles": {
+                        "eng": "Welcome to the Galiba Amusement Park",
+                        "jpn": "ガリバ遊園地へようこそ"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "5423485",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423485",
+                    "Titles": {
+                        "eng": "Science Detectives! Loli-Loli Sisters",
+                        "jpn": "科学探偵！ロリロリシスターズ"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "5423489",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423489",
+                    "Titles": {
+                        "eng": "Phantom Thief Galiba's Letter of Challenge",
+                        "jpn": "怪盗ガリバの挑戦状"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "5423493",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423493",
+                    "Titles": {
+                        "eng": "Phantom Thief Galiba's End",
+                        "jpn": "怪盗ガリバの最後"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "5423497",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423497",
+                    "Titles": {
+                        "eng": "The Secret Behind the Shape of the Stars",
+                        "jpn": "星の形のひみつ"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "5423502",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423502",
+                    "Titles": {
+                        "eng": "Challenge! Science Cooking",
+                        "jpn": "挑戦！サイエンスクッキング"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "5423506",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423506",
+                    "Titles": {
+                        "eng": "Fly in the Sky!",
+                        "jpn": "大空にはばたけ！"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "5423510",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423510",
+                    "Titles": {
+                        "eng": "Adventurers in the Clouds",
+                        "jpn": "天空の冒険者たち"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "5423515",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423515",
+                    "Titles": {
+                        "eng": "Let's Move! Loli-Loli Fire Brigade",
+                        "jpn": "出動！ロリロリ消防隊"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "5423520",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423520",
+                    "Titles": {
+                        "eng": "Pet, Kuma Evolved",
+                        "jpn": "ペット･クマ進化論"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "5423525",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423525",
+                    "Titles": {
+                        "eng": "Super Popular! Loli-Loli DJ Sisters",
+                        "jpn": "大人気！ロリロリDJシスターズ"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "5423530",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423530",
+                    "Titles": {
+                        "eng": "Huge Explosion! Let's Silence Norika's Anger!",
+                        "jpn": "大噴火！ノリカの怒りをしずめろ！"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "5423534",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423534",
+                    "Titles": {
+                        "eng": "The Challenger of the Universe",
+                        "jpn": "宇宙への挑戦者"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "5423537",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/marie-and-gali/episodes/5423537",
+                    "Titles": {
+                        "eng": "Let's All Go on a Space Vacation",
+                        "jpn": "みんなで宇宙旅行"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "3005751",
+            "3005771",
+            "3005781",
+            "3005761"
+        ]
+    }
+}

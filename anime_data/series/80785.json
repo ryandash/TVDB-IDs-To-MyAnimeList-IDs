@@ -1,0 +1,127 @@
+{
+    "URL": "https://thetvdb.com/series/mobile-suit-gundam-0080-war-in-the-pocket",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Mini-Series",
+        "Science Fiction",
+        "War"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0097661/",
+        "https://www.themoviedb.org/tv/46512"
+    ],
+    "Titles": {
+        "eng": "Mobile Suit Gundam 0080: War in the Pocket",
+        "jpn": "機動戦士ガンダム0080 ポケットの中の戦争"
+    },
+    "Aliases": [
+        "Kidou Senshi Gundam 0080: Pocket no Naka no Sensou"
+    ],
+    "Modified": "2026-06-25",
+    "Seasons": {
+        "0": {
+            "ID": "29219",
+            "URL": "https://thetvdb.com/series/mobile-suit-gundam-0080-war-in-the-pocket/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "6051027",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-0080-war-in-the-pocket/episodes/6051027",
+                    "Titles": {
+                        "eng": "All That Gundam",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "29220",
+            "URL": "https://thetvdb.com/series/mobile-suit-gundam-0080-war-in-the-pocket/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "340690",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-0080-war-in-the-pocket/episodes/340690",
+                    "Titles": {
+                        "eng": "How Many Miles to the Battlefield?",
+                        "jpn": "戦場までは何マイル?"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "340691",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-0080-war-in-the-pocket/episodes/340691",
+                    "Titles": {
+                        "eng": "Reflections in a Brown Eye",
+                        "jpn": "茶色の瞳に映るもの"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "340692",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-0080-war-in-the-pocket/episodes/340692",
+                    "Titles": {
+                        "eng": "And at the End of the Rainbow?",
+                        "jpn": "虹の果てには?"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "340693",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-0080-war-in-the-pocket/episodes/340693",
+                    "Titles": {
+                        "eng": "Over the River & Through the Woods",
+                        "jpn": "河を渡って木立を抜けて"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "340694",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-0080-war-in-the-pocket/episodes/340694",
+                    "Titles": {
+                        "eng": "Say it Ain't So, Bernie!",
+                        "jpn": "嘘だといってよ、バーニィ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "340695",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-0080-war-in-the-pocket/episodes/340695",
+                    "Titles": {
+                        "eng": "War in the Pocket",
+                        "jpn": "ポケットの中の戦争"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "URL": "https://thetvdb.com/series/the-pilots-love-song",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Fantasy",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt3196730/",
+        "https://web.archive.org/web/20161007144311/http://koiuta.tv/",
+        "https://www.themoviedb.org/tv/77437"
+    ],
+    "Titles": {
+        "eng": "The Pilot's Love Song",
+        "jpn": "とある飛空士への恋歌"
+    },
+    "Aliases": [
+        "The Princess and the Pilot",
+        "Toaru Hikuushi e no Koiuta"
+    ],
+    "Modified": "2026-02-06",
+    "Seasons": {
+        "0": {
+            "ID": "525241",
+            "URL": "https://thetvdb.com/series/the-pilots-love-song/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "4635016",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/the-pilots-love-song/episodes/4635016",
+                    "Titles": {
+                        "eng": "The Princess and the Pilot",
+                        "jpn": "とある飛空士への追憶"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "4755178",
+            "4836850"
+        ]
+    }
+}

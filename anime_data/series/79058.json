@@ -1,0 +1,89 @@
+{
+    "URL": "https://thetvdb.com/series/midori-days",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1244322/",
+        "https://www.themoviedb.org/tv/42824"
+    ],
+    "Titles": {
+        "eng": "Midori Days",
+        "jpn": "美鳥の日々"
+    },
+    "Aliases": [
+        "Midori no Hibi"
+    ],
+    "Modified": "2026-05-24",
+    "Seasons": {
+        "0": {
+            "ID": "535464",
+            "URL": "https://thetvdb.com/series/midori-days/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "5164391",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/midori-days/episodes/5164391",
+                    "Titles": {
+                        "eng": "Picture Drama 1",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 3
+                },
+                "2": {
+                    "ID": "5164392",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/midori-days/episodes/5164392",
+                    "Titles": {
+                        "eng": "Picture Drama 2",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 3
+                },
+                "3": {
+                    "ID": "5164393",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/midori-days/episodes/5164393",
+                    "Titles": {
+                        "eng": "Picture Drama 3",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 3
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "301548",
+            "301546",
+            "301547",
+            "301545",
+            "301551",
+            "301550",
+            "301549"
+        ]
+    }
+}

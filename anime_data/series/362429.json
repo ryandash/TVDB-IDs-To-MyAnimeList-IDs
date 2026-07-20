@@ -1,0 +1,203 @@
+{
+    "URL": "https://thetvdb.com/series/infinite-dendrogram",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt11295582/",
+        "http://dendro-anime.jp/",
+        "https://www.themoviedb.org/tv/94649",
+        "https://x.com/dendro_anime"
+    ],
+    "Titles": {
+        "eng": "Infinite Dendrogram",
+        "jpn": "インフィニット・デンドログラム"
+    },
+    "Aliases": [],
+    "Modified": "2026-02-19",
+    "Seasons": {
+        "1": {
+            "ID": "1803190",
+            "URL": "https://thetvdb.com/series/infinite-dendrogram/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "7464490",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/infinite-dendrogram/episodes/7464490",
+                    "Titles": {
+                        "eng": "The Beginning of Possibility",
+                        "jpn": "可能性の始まり"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7527995",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/infinite-dendrogram/episodes/7527995",
+                    "Titles": {
+                        "eng": "Tomb Labyrinth",
+                        "jpn": "墓標迷宮"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7531420",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/infinite-dendrogram/episodes/7531420",
+                    "Titles": {
+                        "eng": "Superior",
+                        "jpn": "超級"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7531421",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/infinite-dendrogram/episodes/7531421",
+                    "Titles": {
+                        "eng": "Like a Flag Flying the Reversal",
+                        "jpn": "逆転は翻る旗の如く"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7537514",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/infinite-dendrogram/episodes/7537514",
+                    "Titles": {
+                        "eng": "La Porte de l'Enfer",
+                        "jpn": "地獄門"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "7537516",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/infinite-dendrogram/episodes/7537516",
+                    "Titles": {
+                        "eng": "Beyond the Radix Point",
+                        "jpn": "小数点の彼方"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "7537517",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/infinite-dendrogram/episodes/7537517",
+                    "Titles": {
+                        "eng": "Showdown City",
+                        "jpn": "決闘都市"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "7537518",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/infinite-dendrogram/episodes/7537518",
+                    "Titles": {
+                        "eng": "Clash of the Superiors",
+                        "jpn": "超級激突"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "7537520",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/infinite-dendrogram/episodes/7537520",
+                    "Titles": {
+                        "eng": "The Beginning of Madness",
+                        "jpn": "狂宴の始まり"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "7537521",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/infinite-dendrogram/episodes/7537521",
+                    "Titles": {
+                        "eng": "The Movement on the Board",
+                        "jpn": "盤上の攻防"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "7537522",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/infinite-dendrogram/episodes/7537522",
+                    "Titles": {
+                        "eng": "The Right Arm of the Victor",
+                        "jpn": "勝利者の右腕"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "7537524",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/infinite-dendrogram/episodes/7537524",
+                    "Titles": {
+                        "eng": "King of Destruction",
+                        "jpn": "破壊王"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "7660245",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/infinite-dendrogram/episodes/7660245",
+                    "Titles": {
+                        "eng": "Those Who Bind the Possibilities",
+                        "jpn": "可能性を繋ぐ者達"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "0"
+        ],
+        "Episodes": [
+            "10447401",
+            "10447388",
+            "10447400",
+            "10447389",
+            "10447390",
+            "10447404",
+            "10447393",
+            "10447397",
+            "10447398",
+            "10447392",
+            "10447402",
+            "10447395",
+            "10447396",
+            "10447399",
+            "10447403",
+            "10447391",
+            "10447394"
+        ]
+    }
+}

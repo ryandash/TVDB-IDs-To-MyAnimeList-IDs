@@ -1,0 +1,56 @@
+{
+    "URL": "https://thetvdb.com/series/school-babysitters",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Family"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt7964088/",
+        "http://gakubaby-anime.com/",
+        "https://www.themoviedb.org/tv/76124",
+        "https://x.com/gakubaby_anime"
+    ],
+    "Titles": {
+        "eng": "School Babysitters",
+        "jpn": "学園ベビーシッターズ"
+    },
+    "Aliases": [
+        "Gakuen Babysitters"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "730483",
+            "URL": "https://thetvdb.com/series/school-babysitters/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "7057072",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/school-babysitters/episodes/7057072",
+                    "Titles": {
+                        "eng": "Special - Episode 13",
+                        "jpn": "その13"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": []
+    }
+}

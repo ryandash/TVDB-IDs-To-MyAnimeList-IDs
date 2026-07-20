@@ -1,0 +1,59 @@
+{
+    "URL": "https://thetvdb.com/series/433954-series",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://list.youku.com/show/id_ffcef5f715464f64bab8",
+        "https://www.themoviedb.org/tv/224911",
+        "https://www.themoviedb.org/tv/224911"
+    ],
+    "Titles": {
+        "eng": "The Rich God",
+        "jpn": null
+    },
+    "Aliases": [
+        "Bu Mie Shen Wang"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "2059675",
+            "URL": "https://thetvdb.com/series/433954-series/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "9887046",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/433954-series/episodes/9887046",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "9741833",
+            "9741835",
+            "9741831",
+            "9741830",
+            "9741829",
+            "9741832",
+            "9741834"
+        ]
+    }
+}

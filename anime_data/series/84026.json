@@ -1,0 +1,54 @@
+{
+    "URL": "https://thetvdb.com/series/nana-7-of-7",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/34161"
+    ],
+    "Titles": {
+        "eng": "Seven of Seven",
+        "jpn": "七人のナナ"
+    },
+    "Aliases": [
+        "Shichinin no Nana"
+    ],
+    "Modified": "2026-06-19",
+    "Seasons": {
+        "0": {
+            "ID": "37952",
+            "URL": "https://thetvdb.com/series/nana-7-of-7/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "413936",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/nana-7-of-7/episodes/413936",
+                    "Titles": {
+                        "eng": "New Year Special: It`s New Year`s! 7 x 7 = 49 Nanas?",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "413940",
+            "413939"
+        ]
+    }
+}

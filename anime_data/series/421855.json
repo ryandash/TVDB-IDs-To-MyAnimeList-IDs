@@ -1,0 +1,651 @@
+{
+    "URL": "https://thetvdb.com/series/shangri-la-frontier",
+    "Genres": [
+        "Adaptation",
+        "Anime - Shonen"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt28776190/",
+        "https://anime.shangrilafrontier.com/",
+        "http://www.reddit.com/r/ShangriLaFrontier",
+        "https://www.themoviedb.org/tv/205050",
+        "https://en.wikipedia.org/wiki/Shangri-La_Frontier",
+        "https://x.com/ShanFro_Comic"
+    ],
+    "Titles": {
+        "eng": "Shangri-La Frontier",
+        "jpn": "シャングリラ・フロンティア"
+    },
+    "Aliases": [
+        "シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～",
+        "Shangri-La Frontier - Kusogē Hunter, Kamige ni Idoman to Su",
+        "Shangri-La Frontier - Kusogee Hunter, Kamige ni Idoman to Su",
+        "ShanFro",
+        "Shangri-La Frontier: Crappy Game Hunter Challenges God-Tier Game",
+        "ShangriLa Frontier",
+        "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su"
+    ],
+    "Modified": "2026-07-14",
+    "Seasons": {
+        "1": {
+            "ID": "2007795",
+            "URL": "https://thetvdb.com/series/shangri-la-frontier/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "9659268",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/9659268",
+                    "Titles": {
+                        "eng": "What Do You Play Games For?",
+                        "jpn": "貴方はなんのためにゲームをしますか？"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9967390",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/9967390",
+                    "Titles": {
+                        "eng": "A Peculiar One",
+                        "jpn": "特異なる者"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9967391",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/9967391",
+                    "Titles": {
+                        "eng": "Black Wolf Nightslayer",
+                        "jpn": "黒狼夜襲"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9967392",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/9967392",
+                    "Titles": {
+                        "eng": "A Trash Game Realignment of Elevated Tastes",
+                        "jpn": "肥えた価値観をクソゲーで濯ぐ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "9967393",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/9967393",
+                    "Titles": {
+                        "eng": "Lo, Thou Art Assailed on All Sides",
+                        "jpn": "かくて汝、騒動の槍衾に囲まれん"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "9967395",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/9967395",
+                    "Titles": {
+                        "eng": "The Writing Tool Knight-Queen",
+                        "jpn": "筆記用具の騎士王"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "9967397",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/9967397",
+                    "Titles": {
+                        "eng": "Remnant of the Divinity: The Aberrant Loser",
+                        "jpn": "神代の残滓、妄執の敗者"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "9967399",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/9967399",
+                    "Titles": {
+                        "eng": "The 300-Limit Pandemonium",
+                        "jpn": "300リミット狂騒曲"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "9967401",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/9967401",
+                    "Titles": {
+                        "eng": "A Dazzling Sea of Trees",
+                        "jpn": "華やかなる樹の海"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "9967403",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/9967403",
+                    "Titles": {
+                        "eng": "Let's Go Tomb Raiding!!",
+                        "jpn": "やろうぜ、墓荒らし!!"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "9967405",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/9967405",
+                    "Titles": {
+                        "eng": "The Glimmer of Truth",
+                        "jpn": "まことのかがやき"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "9967408",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/9967408",
+                    "Titles": {
+                        "eng": "Regrets Always Lie in the Past",
+                        "jpn": "後悔はいつも過去にいる"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "10119396",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10119396",
+                    "Titles": {
+                        "eng": "Only Resentments About the End of Life Remain",
+                        "jpn": "未練だけがそこにいる"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "10119397",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10119397",
+                    "Titles": {
+                        "eng": "Squish",
+                        "jpn": "ぷちっと"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "10119398",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10119398",
+                    "Titles": {
+                        "eng": "Putting Feelings Into a Moment, Part 1",
+                        "jpn": "刹那に想いを込めて其の一"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "10119399",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10119399",
+                    "Titles": {
+                        "eng": "Putting Feelings Into a Moment, Part 2",
+                        "jpn": "刹那に想いを込めて其の二"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "10119400",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10119400",
+                    "Titles": {
+                        "eng": "Putting Feelings Into a Moment, Part 3",
+                        "jpn": "刹那に想いを込めて其の三"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "10119401",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10119401",
+                    "Titles": {
+                        "eng": "Putting Feelings Into a Moment, Part 4",
+                        "jpn": "刹那に想いを込めて其の四"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "10119402",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10119402",
+                    "Titles": {
+                        "eng": "The World Progresses, the Heroes are Revealed",
+                        "jpn": "進む世界、明かされる英雄"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "10119403",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10119403",
+                    "Titles": {
+                        "eng": "Current Situations and Next Steps",
+                        "jpn": "それぞれの今と次"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "10119404",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10119404",
+                    "Titles": {
+                        "eng": "Errands, Cultivation, and Game Progress",
+                        "jpn": "お使いと育成と攻略と"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "10119405",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10119405",
+                    "Titles": {
+                        "eng": "The Walking Air Purifier",
+                        "jpn": "ウォーキング・オブ・ザ・エアクリーナー"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "10119406",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10119406",
+                    "Titles": {
+                        "eng": "Bird with Rabbits vs. Skeletal Choir",
+                        "jpn": "鳥with兎s vs 合唱髑髏"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "10119407",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10119407",
+                    "Titles": {
+                        "eng": "Rare Items, Worth More Than Life Itself",
+                        "jpn": "レアアイテムは命よりも重い"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "10119408",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10119408",
+                    "Titles": {
+                        "eng": "Those Who Illuminate The World's Darkness",
+                        "jpn": "世界の暗闇を拓く者"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "2120582",
+            "URL": "https://thetvdb.com/series/shangri-la-frontier/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "10415996",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10415996",
+                    "Titles": {
+                        "eng": "Half-Naked Birdman and the Gang in Golem Paradise",
+                        "jpn": "半裸と愉快な仲間達inゴーレムパラダイス"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10580453",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10580453",
+                    "Titles": {
+                        "eng": "The Uncompromising Gatekeeper",
+                        "jpn": "融通知らずの門番"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10580454",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10580454",
+                    "Titles": {
+                        "eng": "Accelerating Meetings, Surging Desires, and Individual Clues",
+                        "jpn": "加速する会議、迸る（ほとばし）欲望、そしてそれぞれの糸口"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "10580455",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10580455",
+                    "Titles": {
+                        "eng": "When Humanity Dreams of the Impossible and Takes to the Skies",
+                        "jpn": "人は不可能を夢に見る、いざ空を歩く時"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "10580456",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10580456",
+                    "Titles": {
+                        "eng": "The Impetus of Hunger; the Persistence of Thirst",
+                        "jpn": "その衝動は、飢餓　その執念は、渇望"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "10580458",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10580458",
+                    "Titles": {
+                        "eng": "After the Fierce Battle, Despair",
+                        "jpn": "激闘の果てに、絶望"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "10580460",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10580460",
+                    "Titles": {
+                        "eng": "The Wings in a Draw",
+                        "jpn": "双翼相打つ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "10580462",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10580462",
+                    "Titles": {
+                        "eng": "The Lion Catches a Rabbit With Its Full Strength",
+                        "jpn": "獅子は兎に全力を、蟹は不死鳥にピザカッター"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "10580464",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10580464",
+                    "Titles": {
+                        "eng": "Run, Fueled by Impatience",
+                        "jpn": "駆けろ、焦燥を燃料に"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "10580465",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10580465",
+                    "Titles": {
+                        "eng": "Track It Like a Bloodhound",
+                        "jpn": "猟犬の如く嗅ぎ付けて"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "10580466",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10580466",
+                    "Titles": {
+                        "eng": "Embrace the Lamplight of Ambition, Part 1",
+                        "jpn": "大志の灯火を抱いて　其の一"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "10580467",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10580467",
+                    "Titles": {
+                        "eng": "Embrace the Lamplight of Ambition, Part 2",
+                        "jpn": "大志の灯火を抱いて　其の二"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "10580468",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10580468",
+                    "Titles": {
+                        "eng": "Embrace the Lamplight of Ambition, Part 3",
+                        "jpn": "大志の灯火を抱いて　其の三"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "10580469",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10580469",
+                    "Titles": {
+                        "eng": "Embrace the Lamplight of Ambition, Part 4",
+                        "jpn": "大志の灯火を抱いて　其の四"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "10580470",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10580470",
+                    "Titles": {
+                        "eng": "Embrace the Lamplight of Ambition, Part 5",
+                        "jpn": "大志の灯火を抱いて　其の五"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "10580471",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10580471",
+                    "Titles": {
+                        "eng": "What Do You Play Games For? Their Answers",
+                        "jpn": "貴方はなんのためにゲームをしますか？：彼らの回答"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "10580472",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10580472",
+                    "Titles": {
+                        "eng": "A Straight Flush Mixed With Jokers",
+                        "jpn": "ジョーカー混じりのストレートフラッシュ"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "10580473",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10580473",
+                    "Titles": {
+                        "eng": "The Crimson Whale Meets the Monster Fish",
+                        "jpn": "赤鯨、魚怪と相対す"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "10580474",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10580474",
+                    "Titles": {
+                        "eng": "Revive, Broken City, Your Peace At an End",
+                        "jpn": "静謐が終わる、廃都よ賑やかなれ"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "10580475",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10580475",
+                    "Titles": {
+                        "eng": "Time to Fillet a Dragon Fish",
+                        "jpn": "いざ龍魚三枚おろし"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "10580476",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10580476",
+                    "Titles": {
+                        "eng": "Venturing Wolves Then From the Seas to the Skyscrapers",
+                        "jpn": "そして旅狼は海から摩天楼へ"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "10580477",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10580477",
+                    "Titles": {
+                        "eng": "The Light Blazes Brightly, But for Just an Instant",
+                        "jpn": "ただ一瞬にて気取るは灼光の限界"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "10580478",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10580478",
+                    "Titles": {
+                        "eng": "Malice at 100 Meters Per Second",
+                        "jpn": "秒速百メートルの殺意"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "10580479",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10580479",
+                    "Titles": {
+                        "eng": "Great King of the Deep, I Humbly Seek to Crush You",
+                        "jpn": "深き海の王よ、ぶちのめし奉る"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "10719112",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/10719112",
+                    "Titles": {
+                        "eng": "The Anonymous (Asinine) A-Team and a Crisis",
+                        "jpn": "匿名(馬鹿)野郎Aチーム、そして風雲急"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "2179822",
+            "URL": "https://thetvdb.com/series/shangri-la-frontier/seasons/official/3",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11058961",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shangri-la-frontier/episodes/11058961",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "0"
+        ],
+        "Episodes": [
+            "11753559",
+            "11753556",
+            "11753562",
+            "11753589",
+            "11753616",
+            "11753596",
+            "11753557",
+            "11753588",
+            "11753591",
+            "11753593",
+            "11753594",
+            "11753590",
+            "11753560",
+            "11753592",
+            "11753561",
+            "11753595",
+            "11753558",
+            "11753615",
+            "11753555"
+        ]
+    }
+}

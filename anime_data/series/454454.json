@@ -1,0 +1,61 @@
+{
+    "URL": "https://thetvdb.com/series/an-ye-noshi-dai-ju",
+    "Genres": [
+        "Anime",
+        "History"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/218658"
+    ],
+    "Titles": {
+        "eng": "闇夜の時代劇",
+        "jpn": "闇夜の時代劇"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "2146376",
+            "URL": "https://thetvdb.com/series/an-ye-noshi-dai-ju/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "10694075",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/an-ye-noshi-dai-ju/episodes/10694075",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "甚助の耳"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "2": {
+                    "ID": "10694076",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/an-ye-noshi-dai-ju/episodes/10694076",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "幕末洛中瓦版"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": []
+    }
+}

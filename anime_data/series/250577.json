@@ -1,0 +1,87 @@
+{
+    "URL": "https://thetvdb.com/series/crush-gear-turbo",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Children",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/944E-2F58-1078-C022-7A21-M",
+        "https://www.imdb.com/title/tt1867710/",
+        "https://www.sunrise-inc.co.jp/international/work/detail.php?cid=71",
+        "https://www.themoviedb.org/tv/45004",
+        "https://www.themoviedb.org/tv/45004"
+    ],
+    "Titles": {
+        "eng": "Crush Gear Turbo",
+        "jpn": "激闘!クラッシュギアTURBO"
+    },
+    "Aliases": [
+        "Gekitou! Crush Gear TURBO",
+        "Gekitou! Kurasshu Gia Taabo",
+        "Gekitō! Kurasshugia Tābo",
+        "Gekito! Crush Gear Turbo",
+        "Fight! Crash Gear TURBO",
+        "Fight! Crush Gear TURBO",
+        "Fierce fight Crush Gear Turbo",
+        "げきとう クラッシュギアターボ"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "549400",
+            "URL": "https://thetvdb.com/series/crush-gear-turbo/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "7936404",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/crush-gear-turbo/episodes/7936404",
+                    "Titles": {
+                        "eng": "Crush Gear Turbo The Movie - Kaiservern's Ultimate Challenge",
+                        "jpn": "カイザバーンの挑戦"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "4141410",
+            "4141406",
+            "4141404",
+            "4141401",
+            "4141405",
+            "4141409",
+            "4141400",
+            "4141396",
+            "4141403",
+            "4141397",
+            "4141402",
+            "4141411",
+            "4141407",
+            "4141395",
+            "4141398",
+            "4141408",
+            "4141399"
+        ]
+    }
+}

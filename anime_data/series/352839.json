@@ -1,0 +1,61 @@
+{
+    "URL": "https://thetvdb.com/series/uzamaid",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt8993614/",
+        "https://www.themoviedb.org/tv/82864",
+        "https://www.themoviedb.org/tv/82864"
+    ],
+    "Titles": {
+        "eng": "UzaMaid!",
+        "jpn": "うちのメイドがウザすぎる！"
+    },
+    "Aliases": [],
+    "Modified": "2025-06-05",
+    "Seasons": {
+        "0": {
+            "ID": "778786",
+            "URL": "https://thetvdb.com/series/uzamaid/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "7152217",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/uzamaid/episodes/7152217",
+                    "Titles": {
+                        "eng": "My Maid Is Still Seriously Way Too Annoying...",
+                        "jpn": "うちのメイドはやっぱりもうホントウザいんだなあ……"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "6826587",
+            "6826586",
+            "6826589",
+            "6826591",
+            "6826590",
+            "6826592",
+            "6826585",
+            "6826584"
+        ]
+    }
+}

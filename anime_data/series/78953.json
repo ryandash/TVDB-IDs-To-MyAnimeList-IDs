@@ -1,0 +1,80 @@
+{
+    "URL": "https://thetvdb.com/series/s-cry-ed",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0307427/",
+        "https://www.themoviedb.org/tv/42676"
+    ],
+    "Titles": {
+        "eng": "s-CRY-ed",
+        "jpn": "スクライド"
+    },
+    "Aliases": [],
+    "Modified": "2026-05-19",
+    "Seasons": {
+        "0": {
+            "ID": "26402",
+            "URL": "https://thetvdb.com/series/s-cry-ed/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4544439",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/s-cry-ed/episodes/4544439",
+                    "Titles": {
+                        "eng": "S-CRY-Ed Alteration I: Tao",
+                        "jpn": "スクライドオルタレイション　前編  TAO"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "2": {
+                    "ID": "4544440",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/s-cry-ed/episodes/4544440",
+                    "Titles": {
+                        "eng": "S-CRY-Ed Alteration II: Quan",
+                        "jpn": "スクライドオルタレイション　後編  QUAN"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "300421",
+            "300425",
+            "300419",
+            "300424",
+            "300420",
+            "300422",
+            "300416",
+            "300417",
+            "300423",
+            "300414",
+            "300415",
+            "300418"
+        ]
+    }
+}

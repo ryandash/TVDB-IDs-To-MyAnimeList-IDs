@@ -1,0 +1,76 @@
+{
+    "URL": "https://thetvdb.com/series/gatchaman-crowds",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2959370/",
+        "https://www.ntv.co.jp/GATCHAMAN_Crowds/",
+        "https://www.themoviedb.org/tv/61527"
+    ],
+    "Titles": {
+        "eng": "Gatchaman Crowds",
+        "jpn": "ガッチャマン クラウズ"
+    },
+    "Aliases": [
+        "Gatchaman Crowds Insight",
+        "ガッチャマンクラウズ インサイト"
+    ],
+    "Modified": "2026-05-25",
+    "Seasons": {
+        "0": {
+            "ID": "560215",
+            "URL": "https://thetvdb.com/series/gatchaman-crowds/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4844427",
+                    "TYPE": "OVA",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/gatchaman-crowds/episodes/4844427",
+                    "Titles": {
+                        "eng": "[OVA] Embrace (Episode 12 Director's Cut Version)",
+                        "jpn": "Embrace (12話ディレクターズカット版)"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "5267616",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/gatchaman-crowds/episodes/5267616",
+                    "Titles": {
+                        "eng": "#00 Inbound",
+                        "jpn": "inbound"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "2",
+            "1"
+        ],
+        "Episodes": [
+            "4625908",
+            "4625907",
+            "4625906",
+            "4625910",
+            "4625909"
+        ]
+    }
+}

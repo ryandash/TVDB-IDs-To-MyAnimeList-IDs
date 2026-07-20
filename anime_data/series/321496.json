@@ -1,0 +1,59 @@
+{
+    "URL": "https://thetvdb.com/series/koro-sensei-quest",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt6050174/",
+        "https://www.themoviedb.org/tv/69453"
+    ],
+    "Titles": {
+        "eng": "Koro-sensei Quest!",
+        "jpn": "殺せんせーQ!"
+    },
+    "Aliases": [
+        "Koro Teacher Quest!",
+        "Koro-sensei Q!"
+    ],
+    "Modified": "2026-01-14",
+    "Seasons": {
+        "0": {
+            "ID": "693082",
+            "URL": "https://thetvdb.com/series/koro-sensei-quest/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "5892790",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/koro-sensei-quest/episodes/5892790",
+                    "Titles": {
+                        "eng": "Assassination Classroom: Koro-sensei Q!",
+                        "jpn": "殺せんせーQ!"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "5901801",
+            "5901803",
+            "5901804",
+            "5901802"
+        ]
+    }
+}

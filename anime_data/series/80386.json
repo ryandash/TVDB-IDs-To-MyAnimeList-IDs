@@ -1,0 +1,57 @@
+{
+    "URL": "https://thetvdb.com/series/the-skull-man",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Horror"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0996277/",
+        "https://www.themoviedb.org/tv/29663"
+    ],
+    "Titles": {
+        "eng": "The Skull Man",
+        "jpn": "スカルマン SKULL MAN"
+    },
+    "Aliases": [
+        "Skull Man",
+        "The Skullman"
+    ],
+    "Modified": "2026-02-10",
+    "Seasons": {
+        "0": {
+            "ID": "28060",
+            "URL": "https://thetvdb.com/series/the-skull-man/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "4565747",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/the-skull-man/episodes/4565747",
+                    "Titles": {
+                        "eng": "Prologue of Darkness",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "332656",
+            "332655",
+            "332654"
+        ]
+    }
+}

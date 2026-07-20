@@ -1,0 +1,72 @@
+{
+    "URL": "https://thetvdb.com/series/space-runaway-ideon",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0476513/",
+        "https://www.themoviedb.org/tv/13465"
+    ],
+    "Titles": {
+        "eng": "Space Runaway Ideon",
+        "jpn": "伝説巨神イデオン"
+    },
+    "Aliases": [
+        "Densetsu Kyojin Ideon"
+    ],
+    "Modified": "2026-04-10",
+    "Seasons": {
+        "0": {
+            "ID": "91391",
+            "URL": "https://thetvdb.com/series/space-runaway-ideon/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "1071011",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/space-runaway-ideon/episodes/1071011",
+                    "Titles": {
+                        "eng": "The Ideon: A Contact",
+                        "jpn": "伝説巨神イデオン 劇場版 『接触篇』"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "1071021",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/space-runaway-ideon/episodes/1071021",
+                    "Titles": {
+                        "eng": "The Ideon: Be Invoked",
+                        "jpn": "伝説巨神イデオン 劇場版 『発動篇』"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "1070991",
+            "1070981",
+            "1071001"
+        ]
+    }
+}

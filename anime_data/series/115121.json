@@ -1,0 +1,116 @@
+{
+    "URL": "https://thetvdb.com/series/tiger-mask",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Drama",
+        "Sport"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0206516/",
+        "https://www.themoviedb.org/tv/25114",
+        "https://www.themoviedb.org/tv/25114"
+    ],
+    "Titles": {
+        "eng": "Tiger Mask",
+        "jpn": "タイガーマスク"
+    },
+    "Aliases": [
+        "Tiger Mask II",
+        "Tiger Mask Nisei"
+    ],
+    "Modified": "2026-07-08",
+    "Seasons": {
+        "0": {
+            "ID": "540573",
+            "URL": "https://thetvdb.com/series/tiger-mask/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "ara": "النمر المقنع"
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "6270931",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/tiger-mask/episodes/6270931",
+                    "Titles": {
+                        "eng": "Opening",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "6413688",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/tiger-mask/episodes/6413688",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 3
+                },
+                "3": {
+                    "ID": "6413689",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/tiger-mask/episodes/6413689",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 3
+                },
+                "4": {
+                    "ID": "6413690",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/tiger-mask/episodes/6413690",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 3
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "2",
+            "1"
+        ],
+        "Episodes": [
+            "5952225",
+            "1099721",
+            "1099731",
+            "1099751",
+            "1099711",
+            "1099801",
+            "5952227",
+            "1099821",
+            "1099811",
+            "1099771",
+            "1100731",
+            "1099761",
+            "5952224",
+            "1099781",
+            "1100711",
+            "1100721",
+            "1099741",
+            "5952226",
+            "1099791"
+        ]
+    }
+}

@@ -1,0 +1,215 @@
+{
+    "URL": "https://thetvdb.com/series/hi-no-tori",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Drama",
+        "Fantasy",
+        "History",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1324042/",
+        "https://www.themoviedb.org/tv/23674"
+    ],
+    "Titles": {
+        "eng": "The Phoenix",
+        "jpn": "火の鳥"
+    },
+    "Aliases": [
+        "Bird of Fire",
+        "Firebird 2772: Cosmos Zone of Love",
+        "Space Firebird 2772",
+        "Phoenix 2772 - Space Firebird",
+        "Hinotori MOVIE",
+        "Hinotori 2772 Ai no Cosmo Zone",
+        "Space Firebird",
+        "Firebird: Karma Chapter",
+        "Phoenix: Karma Chapter",
+        "The Phoenix: Chapter of Yamato",
+        "Firebird: Space Chapter",
+        "Phoenix: Universe",
+        "Phoenix",
+        "Hinotori",
+        "Hi no Tori"
+    ],
+    "Modified": "2026-06-18",
+    "Seasons": {
+        "0": {
+            "ID": "75391",
+            "URL": "https://thetvdb.com/series/hi-no-tori/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "5660276",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/hi-no-tori/episodes/5660276",
+                    "Titles": {
+                        "eng": "Phoenix 2772",
+                        "jpn": "火の鳥2772 愛のコスモゾーン"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "4288622",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/hi-no-tori/episodes/4288622",
+                    "Titles": {
+                        "eng": "Phoenix: Karma Chapter",
+                        "jpn": "火の鳥 鳳凰編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "4288623",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hi-no-tori/episodes/4288623",
+                    "Titles": {
+                        "eng": "The Phoenix: Chapter of Yamato",
+                        "jpn": "火の鳥 ヤマト編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "4288624",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hi-no-tori/episodes/4288624",
+                    "Titles": {
+                        "eng": "The Phoenix -Space-",
+                        "jpn": "火の鳥 宇宙編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "5": {
+                    "ID": "11819661",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/hi-no-tori/episodes/11819661",
+                    "Titles": {
+                        "eng": "Hi no Tori: Dougo Onsen Hen - 1 - Prologue: Ookuninushi and Sukunahikona / Prince Shoutoku Bathes",
+                        "jpn": "プロローグ「大国主と少彦名」 / 聖徳太子, 来浴"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "6": {
+                    "ID": "11819662",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/hi-no-tori/episodes/11819662",
+                    "Titles": {
+                        "eng": "Hi no Tori: Dougo Onsen Hen - 2 - Shiki and Souseki",
+                        "jpn": "子規と漱石"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "7": {
+                    "ID": "11819663",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/hi-no-tori/episodes/11819663",
+                    "Titles": {
+                        "eng": "Hi no Tori: Dougo Onsen Hen - 3 - And to the Future",
+                        "jpn": "そして, 未来へ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "9": {
+                    "ID": "11819972",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hi-no-tori/episodes/11819972",
+                    "Titles": {
+                        "eng": "Phoenix: Universe",
+                        "jpn": "Hi no Tori: Uchuu Hen"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "10": {
+                    "ID": "11819973",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/hi-no-tori/episodes/11819973",
+                    "Titles": {
+                        "eng": "Hi no Tori: Hagoromo-hen",
+                        "jpn": "Hi no Tori: Hagoromo Hen"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "11": {
+                    "ID": "11819974",
+                    "TYPE": "Episodic Special",
+                    "CATEGORY": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/hi-no-tori/episodes/11819974",
+                    "Titles": {
+                        "eng": "Hi no Tori: Kizuna-hen",
+                        "jpn": "Hi no Tori: Kizuna Hen"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "12": {
+                    "ID": "11819975",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/hi-no-tori/episodes/11819975",
+                    "Titles": {
+                        "eng": "Hi no Tori \"Dougo Onsen-hen\"",
+                        "jpn": "Hi no Tori: Dougo Onsen Hen"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "13": {
+                    "ID": "11819976",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/hi-no-tori/episodes/11819976",
+                    "Titles": {
+                        "eng": "Phoenix: Reminiscence of Flower",
+                        "jpn": "Hi no Tori: Eden no Hana"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "730211",
+            "730201"
+        ]
+    }
+}

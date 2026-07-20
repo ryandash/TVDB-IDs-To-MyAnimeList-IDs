@@ -1,0 +1,81 @@
+{
+    "URL": "https://thetvdb.com/series/vivy-fluorite-eyes-song",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Drama",
+        "Science Fiction",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt13851958/",
+        "https://vivy-portal.com/",
+        "http://www.reddit.com/r/Vivy",
+        "https://www.themoviedb.org/tv/116725",
+        "https://x.com/vivy_portal"
+    ],
+    "Titles": {
+        "eng": "Vivy: Fluorite Eye's Song",
+        "jpn": "Vivy-Flourite Eye's Song-"
+    },
+    "Aliases": [
+        "Vivy - Fluorite Eye's Song",
+        "Vivy -Fluorite Eye's Song-",
+        "Vivy - Fluorite Eye's Song -",
+        "Vivy: Fluorite Eye's Song"
+    ],
+    "Modified": "2026-05-05",
+    "Seasons": {
+        "0": {
+            "ID": "1905864",
+            "URL": "https://thetvdb.com/series/vivy-fluorite-eyes-song/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "8500657",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/vivy-fluorite-eyes-song/episodes/8500657",
+                    "Titles": {
+                        "eng": "Special Summary – To Make Everyone Happy With My Singing",
+                        "jpn": "特別総集編-To make everyone happy with my singing-"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "10926725",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/vivy-fluorite-eyes-song/episodes/10926725",
+                    "Titles": {
+                        "eng": "Vivy: Fluorite Eye’s Song - Pilot Movie",
+                        "jpn": "Vivy: Fluorite Eye’s Song - Pilot Movie"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "8257300",
+            "8257299",
+            "8257301",
+            "8257302",
+            "8328402"
+        ]
+    }
+}

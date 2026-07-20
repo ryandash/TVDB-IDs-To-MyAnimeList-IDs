@@ -1,0 +1,106 @@
+{
+    "URL": "https://thetvdb.com/series/shaman-king",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0367409/",
+        "https://www.themoviedb.org/tv/40143"
+    ],
+    "Titles": {
+        "eng": "Shaman King",
+        "jpn": "シャーマンキング"
+    },
+    "Aliases": [
+        "Shaman King: Uncut"
+    ],
+    "Modified": "2026-05-30",
+    "Seasons": {
+        "0": {
+            "ID": "27253",
+            "URL": "https://thetvdb.com/series/shaman-king/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "2530761",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/shaman-king/episodes/2530761",
+                    "Titles": {
+                        "eng": "Documents of the Shaman Fight",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "2530771",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/shaman-king/episodes/2530771",
+                    "Titles": {
+                        "eng": "The Form That Friendship Takes",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "2530781",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/shaman-king/episodes/2530781",
+                    "Titles": {
+                        "eng": "The Form That Love Takes",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "2530801",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/shaman-king/episodes/2530801",
+                    "Titles": {
+                        "eng": "The Form That Sadness Takes: Hao`s Tribute",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "5": {
+                    "ID": "4668001",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/shaman-king/episodes/4668001",
+                    "Titles": {
+                        "eng": "Omake",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "4769782",
+            "4769784",
+            "4769783"
+        ]
+    }
+}

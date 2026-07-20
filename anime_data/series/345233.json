@@ -1,0 +1,64 @@
+{
+    "URL": "https://thetvdb.com/series/345233-show",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Drama",
+        "Family",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/F9CC-338A-19E4-B99F-69AB-Q",
+        "https://www.imdb.com/title/tt9331376/",
+        "https://www.themoviedb.org/tv/78459",
+        "https://www.wikidata.org/wiki/Q60846262"
+    ],
+    "Titles": {
+        "eng": "Okko's Inn",
+        "jpn": "若おかみは小学生！"
+    },
+    "Aliases": [
+        "The Young Innkeeper Is a Grade Schooler!"
+    ],
+    "Modified": "2026-07-13",
+    "Seasons": {
+        "0": {
+            "ID": "758283",
+            "URL": "https://thetvdb.com/series/345233-show/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "7324202",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/345233-show/episodes/7324202",
+                    "Titles": {
+                        "eng": "Okko’s Inn: The Movie",
+                        "jpn": "劇場版若おかみは小学生!"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "6775560",
+            "6789632",
+            "6768640",
+            "6763077",
+            "6782368",
+            "6753577"
+        ]
+    }
+}

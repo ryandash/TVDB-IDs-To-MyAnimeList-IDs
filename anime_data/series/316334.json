@@ -1,0 +1,67 @@
+{
+    "URL": "https://thetvdb.com/series/young-kiitarou-and-his-youkai-picture-diary",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/95B2-A033-5576-B3C3-B3F8-2",
+        "http://kiitarou.jp/",
+        "https://www.themoviedb.org/tv/68138",
+        "https://www.wikidata.org/wiki/Q17222603",
+        "https://x.com/kiitaro_anime"
+    ],
+    "Titles": {
+        "eng": "Kiitaro's Yokai Picture Diary",
+        "jpn": "奇異太郎少年の妖怪絵日記"
+    },
+    "Aliases": [
+        "Kiitarō Shōnen no Yōkai Enikki",
+        "Kiitarou Shounen no Youkai Enikki"
+    ],
+    "Modified": "2025-06-12",
+    "Seasons": {
+        "0": {
+            "ID": "679219",
+            "URL": "https://thetvdb.com/series/young-kiitarou-and-his-youkai-picture-diary/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "5994933",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/young-kiitarou-and-his-youkai-picture-diary/episodes/5994933",
+                    "Titles": {
+                        "eng": "Jonan no Saijitsu",
+                        "jpn": "女難の祭日"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "5780979",
+            "5852714",
+            "5817878",
+            "5852712",
+            "5852715",
+            "5852713",
+            "5817880",
+            "5817879",
+            "5780980",
+            "5817877"
+        ]
+    }
+}

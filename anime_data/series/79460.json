@@ -1,0 +1,537 @@
+{
+    "URL": "https://thetvdb.com/series/young-kindaichis-casebook",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Crime",
+        "Mystery",
+        "Suspense"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0348952/",
+        "https://www.themoviedb.org/tv/23587",
+        "https://www.themoviedb.org/tv/23587"
+    ],
+    "Titles": {
+        "eng": "The File of Young Kindaichi",
+        "jpn": "金田一少年の事件簿"
+    },
+    "Aliases": [
+        "Kindaichi Shounen no Jikenbo Returns",
+        "The Case File of Young Kindaichi Returns",
+        "Young Kindaichi`s Casebook",
+        "Kindaichi Case Files",
+        "金田一少年の事件簿R",
+        "金田一少年の事件簿Ｒ（リターンズ）",
+        "金田一少年の事件簿 (1997)",
+        "Kindaichi Shounen no Jikenbo"
+    ],
+    "Modified": "2026-06-03",
+    "Seasons": {
+        "0": {
+            "ID": "26890",
+            "URL": "https://thetvdb.com/series/young-kindaichis-casebook/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 9,
+            "Episodes": {
+                "1": {
+                    "ID": "4118946",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118946",
+                    "Titles": {
+                        "eng": "Movie 1: The File of Young Kindaichi",
+                        "jpn": "オペラ座馆・新たなる杀人"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "4948495",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4948495",
+                    "Titles": {
+                        "eng": "Episode 23.5: Shinigami Hospital Murder",
+                        "jpn": "死神病院殺人事件"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "4439704",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4439704",
+                    "Titles": {
+                        "eng": "Movie 2: Deep Blue Massacre",
+                        "jpn": "殺戮のディープブルー"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "4118947",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118947",
+                    "Titles": {
+                        "eng": "Special 1: The Opera House Murders",
+                        "jpn": "オペラ座館・最後の殺人"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "5": {
+                    "ID": "4118948",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118948",
+                    "Titles": {
+                        "eng": "Special 2: Legendary Vampire Murders",
+                        "jpn": "吸血鬼伝説殺人事件"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "6": {
+                    "ID": "5301474",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/5301474",
+                    "Titles": {
+                        "eng": "The Black Magic Murders, Part 1",
+                        "jpn": "黒魔術殺人事件編 (1)"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "7": {
+                    "ID": "5301475",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/5301475",
+                    "Titles": {
+                        "eng": "The Black Magic Murders, Part 2",
+                        "jpn": "黒魔術殺人事件編 (2)"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                },
+                "8": {
+                    "ID": "5445554",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/5445554",
+                    "Titles": {
+                        "eng": "The File of Inspector Akechi",
+                        "jpn": "「明智警部の事件簿」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "9": {
+                    "ID": "8261973",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/8261973",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Kindaichi Shounen no Jikenbo"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "468228",
+            "URL": "https://thetvdb.com/series/young-kindaichis-casebook/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "deu": "Kindaichi Shounen no Jikenbo (1997)"
+            },
+            "# Episodes": 32,
+            "Episodes": {
+                "1": {
+                    "ID": "4118885",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118885",
+                    "Titles": {
+                        "eng": "Academy's Seven Mysteries Murder Case - File 1",
+                        "jpn": "「学園七不思議殺人事件」ファイル1"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4118886",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118886",
+                    "Titles": {
+                        "eng": "Academy's Seven Mysteries Murder Case - File 2",
+                        "jpn": "「学園七不思議殺人事件」ファイル2"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4118887",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118887",
+                    "Titles": {
+                        "eng": "Academy's Seven Mysteries Murder Case - File 3",
+                        "jpn": "「学園七不思議殺人事件」ファイル3"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4118888",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118888",
+                    "Titles": {
+                        "eng": "Hirenko Legend Murder Case - File 1",
+                        "jpn": "「悲恋湖伝説殺人事件」ファイル1"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4118889",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118889",
+                    "Titles": {
+                        "eng": "Hirenko Legend Murder Case - File 2",
+                        "jpn": "「悲恋湖伝説殺人事件」ファイル2"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4118890",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118890",
+                    "Titles": {
+                        "eng": "Hirenko Legend Murder Case - File 3",
+                        "jpn": "「悲恋湖伝説殺人事件」ファイル3"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4118891",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118891",
+                    "Titles": {
+                        "eng": "Wax Doll Castle Murder Case - File 1",
+                        "jpn": "「蠟人形城殺人事件」ファイル1"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4118892",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118892",
+                    "Titles": {
+                        "eng": "Wax Doll Castle Murder Case - File 2",
+                        "jpn": "「蠟人形城殺人事件」ファイル2"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4118893",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118893",
+                    "Titles": {
+                        "eng": "Wax Doll Castle Murder Case - File 3",
+                        "jpn": "「蠟人形城殺人事件」ファイル3"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4118894",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118894",
+                    "Titles": {
+                        "eng": "Gentleman Thief's Murder Case - File 1",
+                        "jpn": "「怪盗紳士の殺人」ファイル1"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4118896",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118896",
+                    "Titles": {
+                        "eng": "Gentleman Thief's Murder Case - File 2",
+                        "jpn": "「怪盗紳士の殺人」ファイル2"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4118897",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118897",
+                    "Titles": {
+                        "eng": "Gentleman Thief's Murder Case - File 3",
+                        "jpn": "「怪盗紳士の殺人」ファイル3"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4118898",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118898",
+                    "Titles": {
+                        "eng": "Hihoutou Murder Case - File 1",
+                        "jpn": "「悲報島殺人事件」ファイル1"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4118899",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118899",
+                    "Titles": {
+                        "eng": "Hihoutou Murder Case - File 2",
+                        "jpn": "「悲報島殺人事件」ファイル2"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4118900",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118900",
+                    "Titles": {
+                        "eng": "Hihoutou Murder Case - File 3",
+                        "jpn": "「悲報島殺人事件」ファイル3"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4118901",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118901",
+                    "Titles": {
+                        "eng": "The Devil's Suite Murder Case - File 1",
+                        "jpn": "「悪魔組曲殺人事件」ファイル1"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4118902",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118902",
+                    "Titles": {
+                        "eng": "The Devil's Suite Murder Case - File 2",
+                        "jpn": "「悪魔組曲殺人事件」ファイル2"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4118903",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118903",
+                    "Titles": {
+                        "eng": "Hida, Trick Mansion Murder Case - File 1",
+                        "jpn": "「飛驒からくり屋敷殺人事件」ファイル1"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4118904",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118904",
+                    "Titles": {
+                        "eng": "Hida, Trick Mansion Murder Case - File 2",
+                        "jpn": "「飛驒からくり屋敷殺人事件」ファイル2"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4118905",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118905",
+                    "Titles": {
+                        "eng": "Hida, Trick Mansion Murder Case - File 3",
+                        "jpn": "「飛驒からくり屋敷殺人事件」ファイル3"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4118906",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118906",
+                    "Titles": {
+                        "eng": "The Opera House Murder Case - File 1",
+                        "jpn": "「オペラ座館殺人事件」ファイル1"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4118907",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118907",
+                    "Titles": {
+                        "eng": "The Opera House Murder Case - File 2",
+                        "jpn": "「オペラ座館殺人事件」ファイル2"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4118908",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118908",
+                    "Titles": {
+                        "eng": "The Opera House Murder Case - File 3",
+                        "jpn": "「オペラ座館殺人事件」ファイル3"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "4118910",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118910",
+                    "Titles": {
+                        "eng": "Kindaichi is a Murderer - File 1",
+                        "jpn": "「金田一少年の殺人」ファイル1"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "4118911",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118911",
+                    "Titles": {
+                        "eng": "Kindaichi is a Murderer - File 2",
+                        "jpn": "「金田一少年の殺人」ファイル2"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "4118912",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118912",
+                    "Titles": {
+                        "eng": "Kindaichi is a Murderer - File 3",
+                        "jpn": "「金田一少年の殺人」ファイル3"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "4118913",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118913",
+                    "Titles": {
+                        "eng": "Kindaichi is a Murderer - File 4",
+                        "jpn": "「金田一少年の殺人」ファイル4"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "4118914",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118914",
+                    "Titles": {
+                        "eng": "Ghost Ship Murder - File 1",
+                        "jpn": "「幽霊客船殺人事件」ファイル1"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "4118915",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118915",
+                    "Titles": {
+                        "eng": "Ghost Ship Murder - File 2",
+                        "jpn": "「幽霊客船殺人事件」ファイル2"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "4118916",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118916",
+                    "Titles": {
+                        "eng": "Ghost Ship Murder - File 3",
+                        "jpn": "「幽霊客船殺人事件」ファイル3"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "4118917",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118917",
+                    "Titles": {
+                        "eng": "Ghost Ship Murder - File 4",
+                        "jpn": "「幽霊客船殺人事件」ファイル4"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "4118918",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/young-kindaichis-casebook/episodes/4118918",
+                    "Titles": {
+                        "eng": "Murderous Intent Below 15 Degrees",
+                        "jpn": "「氷点下１５度の殺意」"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "2",
+            "3",
+            "6",
+            "4",
+            "5"
+        ],
+        "Episodes": [
+            "4948391"
+        ]
+    }
+}

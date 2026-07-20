@@ -1,0 +1,50 @@
+{
+    "URL": "https://thetvdb.com/series/kouryuu-densetsu-villgust",
+    "Genres": [
+        "Animation"
+    ],
+    "Other Sites": [],
+    "Titles": {
+        "eng": "Armored Dragon Legend Villgust",
+        "jpn": null
+    },
+    "Aliases": [
+        "Kouryuu Densetsu Villgust"
+    ],
+    "Modified": "2026-02-02",
+    "Seasons": {
+        "1": {
+            "ID": "430211",
+            "URL": "https://thetvdb.com/series/kouryuu-densetsu-villgust/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "3777071",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kouryuu-densetsu-villgust/episodes/3777071",
+                    "Titles": {
+                        "eng": "The Chosen Heroes End!?",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "3777081",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kouryuu-densetsu-villgust/episodes/3777081",
+                    "Titles": {
+                        "eng": "The Revived Land",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

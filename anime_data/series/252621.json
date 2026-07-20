@@ -1,0 +1,81 @@
+{
+    "URL": "https://thetvdb.com/series/mobile-suit-gundam-age",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2193783/",
+        "https://www.themoviedb.org/tv/45835"
+    ],
+    "Titles": {
+        "eng": "Mobile Suit Gundam AGE",
+        "jpn": "機動戦士ガンダムAGE"
+    },
+    "Aliases": [
+        "Gundam AGE"
+    ],
+    "Modified": "2025-04-22",
+    "Seasons": {
+        "0": {
+            "ID": "476063",
+            "URL": "https://thetvdb.com/series/mobile-suit-gundam-age/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "4632465",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/4632465",
+                    "Titles": {
+                        "eng": "Memory of Eden - OVA 1",
+                        "jpn": "MEMORY OF EDEN 前編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "2": {
+                    "ID": "7261119",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/mobile-suit-gundam-age/episodes/7261119",
+                    "Titles": {
+                        "eng": "Memory of Eden - OVA 2",
+                        "jpn": "MEMORY OF EDEN 後編"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "4219830",
+            "4225823",
+            "4255862",
+            "4237902",
+            "4268348",
+            "4237901",
+            "4261904",
+            "4190481",
+            "4252734",
+            "4247382",
+            "4247383",
+            "4225822"
+        ]
+    }
+}

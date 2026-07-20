@@ -1,0 +1,1819 @@
+{
+    "URL": "https://thetvdb.com/series/yu-gi-oh-5ds",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1196094/",
+        "https://www.yugioh.com/yu-gi-oh-5ds",
+        "https://tvlistings.zap2it.com/overview.html?programSeriesId=EP0108368800",
+        "https://www.themoviedb.org/tv/20695"
+    ],
+    "Titles": {
+        "eng": "Yu-Gi-Oh! 5D's",
+        "jpn": "遊☆戯☆王５Ｄ'ｓ"
+    },
+    "Aliases": [
+        "Yûgiô: 5Ds",
+        "遊戯王５Ｄ'ｓ"
+    ],
+    "Modified": "2026-07-08",
+    "Seasons": {
+        "0": {
+            "ID": "40245",
+            "URL": "https://thetvdb.com/series/yu-gi-oh-5ds/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "2558001",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/2558001",
+                    "Titles": {
+                        "eng": "Evolving Duel! Stardust vs. Red Daemon's",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "5547647",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/5547647",
+                    "Titles": {
+                        "eng": "Yu-Gi-Oh! 3D: Bonds Beyond Time",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "40246",
+            "URL": "https://thetvdb.com/series/yu-gi-oh-5ds/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "zho": "幸运杯篇"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "430996",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/430996",
+                    "Titles": {
+                        "eng": "On Your Mark, Get Set, Duel!",
+                        "jpn": "ライディング・デュエル！アクセラレーション！"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "430997",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/430997",
+                    "Titles": {
+                        "eng": "Power Insect Deck! Trap of Ant-Lion!",
+                        "jpn": "パワーインセクトデッキ！蟻地獄の罠"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "431136",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/431136",
+                    "Titles": {
+                        "eng": "Pipe Dreams",
+                        "jpn": "脱出！ニトロ・ウォリアーVSゴヨウ・ガーディアン！"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "431137",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/431137",
+                    "Titles": {
+                        "eng": "A Blast from the Past (1)",
+                        "jpn": "運命の対決！　立ちはだかるスターダスト・ドラゴン"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "431138",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/431138",
+                    "Titles": {
+                        "eng": "A Blast from the Past (2)",
+                        "jpn": "激突するエースドラゴン！スターダストVSレッド・デーモンズ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "431139",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/431139",
+                    "Titles": {
+                        "eng": "The Facility (1)",
+                        "jpn": "見てくれ！ワシの秘宝デッキ！"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "431140",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/431140",
+                    "Titles": {
+                        "eng": "The Facility (2)",
+                        "jpn": "カードにこめた想い！　水晶ドクロVS大牛鬼"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "431141",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/431141",
+                    "Titles": {
+                        "eng": "Fire It Up!",
+                        "jpn": "満たされぬ魂　シグナーと伝説の竜"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "431142",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/431142",
+                    "Titles": {
+                        "eng": "The Lockdown Duel (1)",
+                        "jpn": "カードにかける思い　仕組まれたライトニング・デスマッチ"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "431143",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/431143",
+                    "Titles": {
+                        "eng": "The Lockdown Duel (2)",
+                        "jpn": "デッキ0　チェーントラップのループを破れ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "431144",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/431144",
+                    "Titles": {
+                        "eng": "The Take Back (1)",
+                        "jpn": "特殊追跡デッキ再び　取り戻せ仲間との絆"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "431145",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/431145",
+                    "Titles": {
+                        "eng": "The Take Back (2)",
+                        "jpn": "死闘追跡（デッドチェイス）！　絆を紡げターボウォリアー"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "431146",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/431146",
+                    "Titles": {
+                        "eng": "A Duel to Remember",
+                        "jpn": "ダイヤル・オン！　うなれディフォーマーデッキ"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "431147",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/431147",
+                    "Titles": {
+                        "eng": "Bloom of the Black Rose",
+                        "jpn": "現れるフォークロア　破壊をもたらす『黒薔薇の魔女』"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "431148",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/431148",
+                    "Titles": {
+                        "eng": "Welcome to the Fortune Cup",
+                        "jpn": "デュエル・オブ・フォーチュンカップ開幕　大空襲！ジャイアントボマー・エアレイド"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "431149",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/431149",
+                    "Titles": {
+                        "eng": "Battle with the Black Rose",
+                        "jpn": "魔女再来、破滅の竜『ブラック・ローズ・ドラゴン』"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "431150",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/431150",
+                    "Titles": {
+                        "eng": "Surprise, Surprise",
+                        "jpn": "炎のリベンジャー　スピード・キング☆スカル・フレイム"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "431151",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/431151",
+                    "Titles": {
+                        "eng": "Return to the Spirit World (1)",
+                        "jpn": "古の森　精霊世界への誘い"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "431152",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/431152",
+                    "Titles": {
+                        "eng": "Return to the Spirit World (2)",
+                        "jpn": "汚染される精霊世界　悪なる意思　超魔神イド"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "431153",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/431153",
+                    "Titles": {
+                        "eng": "Second Round Showdown (1)",
+                        "jpn": "譲れない想い　我が使命は故郷と共に"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "431154",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/431154",
+                    "Titles": {
+                        "eng": "Second Round Showdown (2)",
+                        "jpn": "復讐のボマー　悲しみのトラップ　チャリオット・パイル"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "431155",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/431155",
+                    "Titles": {
+                        "eng": "Dueling Minds",
+                        "jpn": "暴かれる過去　デュエルプロファイラーVS黒バラの魔女"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "431156",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/431156",
+                    "Titles": {
+                        "eng": "Duel of the Dragons (1)",
+                        "jpn": "決勝戦、仮面の奥に隠された心"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "431157",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/431157",
+                    "Titles": {
+                        "eng": "Duel of the Dragons (2)",
+                        "jpn": "ヴィクテム・サンクチュアリ　破壊を包む星となれ！　スターダスト・ドラゴン"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "431158",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/431158",
+                    "Titles": {
+                        "eng": "The Fortune Cup Finale (1)",
+                        "jpn": "フォーチュンカップ ファイナル！　孤高のキング ジャック・アトラス"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "443350",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/443350",
+                    "Titles": {
+                        "eng": "The Fortune Cup Finale (2)",
+                        "jpn": "シグナーたちの運命！　赤き竜が導く未来！"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "187321",
+            "URL": "https://thetvdb.com/series/yu-gi-oh-5ds/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "zho": "黑暗者篇"
+            },
+            "# Episodes": 38,
+            "Episodes": {
+                "1": {
+                    "ID": "1677431",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677431",
+                    "Titles": {
+                        "eng": "A Web of Deceit (1)",
+                        "jpn": "光なき世界 ダークシンクロ　氷結のフィッツジェラルド！"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1677441",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677441",
+                    "Titles": {
+                        "eng": "A Web of Deceit (2)",
+                        "jpn": "すべてを呑みこむ闇　不滅のダークシグナー"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1677451",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677451",
+                    "Titles": {
+                        "eng": "Good Cop, Bad Cop",
+                        "jpn": "迫りくる脅威！　ダークシグナー牛尾!?"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1677461",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677461",
+                    "Titles": {
+                        "eng": "Fight or Flight",
+                        "jpn": "わが名はクロウ！　飛べブラック・バード"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "1677471",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677471",
+                    "Titles": {
+                        "eng": "The Reunion Duel",
+                        "jpn": "故郷と仲間　再会のタッグ・ライディング！"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "1677481",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677481",
+                    "Titles": {
+                        "eng": "Dark Signs (1)",
+                        "jpn": "自由の象徴　ダイダロスブリッジ"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "1677491",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677491",
+                    "Titles": {
+                        "eng": "Dark Signs (2)",
+                        "jpn": "復讐の劫火！　かつての友　鬼柳京介"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "1677501",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677501",
+                    "Titles": {
+                        "eng": "Dark Signs (3)",
+                        "jpn": "ダークシンクロ！　いでよ ワンハンドレッド・アイ・ドラゴン"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "1677511",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677511",
+                    "Titles": {
+                        "eng": "Dark Signs (4)",
+                        "jpn": "戦慄！　地縛神コカパク・アプ"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "1677521",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677521",
+                    "Titles": {
+                        "eng": "Supersensory Shakedown",
+                        "jpn": "勇気と力をドッキング！　シンクロ召喚！パワー・ツール・ドラゴン"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "1677531",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677531",
+                    "Titles": {
+                        "eng": "Digging Deeper (1)",
+                        "jpn": "潜入！アルカディアムーブメント　私のターンなんだから！"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "1677541",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677541",
+                    "Titles": {
+                        "eng": "Digging Deeper (2)",
+                        "jpn": "蘇りし魂　燃えさかる新たなるジオグリフ"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "1677551",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677551",
+                    "Titles": {
+                        "eng": "Digging Deeper (3)",
+                        "jpn": "降臨！ 2体の地縛神"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "1677561",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677561",
+                    "Titles": {
+                        "eng": "Clash of the Dragons (1)",
+                        "jpn": "戻れない過去　閉ざされた心の扉"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "1677571",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677571",
+                    "Titles": {
+                        "eng": "Clash of the Dragons (2)",
+                        "jpn": "悲しみ故の憎悪！　受け止めろ スターダスト・ドラゴン"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "1677581",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677581",
+                    "Titles": {
+                        "eng": "The Signs of Time",
+                        "jpn": "集結！　赤き竜の戦士たち！"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "1677591",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677591",
+                    "Titles": {
+                        "eng": "Surely, You Jest (1)",
+                        "jpn": "それぞれの決意　心から信じられるもの"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "1677601",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677601",
+                    "Titles": {
+                        "eng": "Surely, You Jest (2)",
+                        "jpn": "神風を巻き起こせ！ブラックフェザー・アームズ・ウィング"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "1677611",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677611",
+                    "Titles": {
+                        "eng": "Mark of the Spider (1)",
+                        "jpn": "対決！　蜘蛛の痣をもつ男"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "1677621",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677621",
+                    "Titles": {
+                        "eng": "Mark of the Spider (2)",
+                        "jpn": "17年前の真実　隠されたダークシグナーの罠"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "1677631",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677631",
+                    "Titles": {
+                        "eng": "Mark of the Monkey (1)",
+                        "jpn": "猿の地上絵の痣を持つ男"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "1677641",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677641",
+                    "Titles": {
+                        "eng": "Mark of the Monkey (2)",
+                        "jpn": "マイナスワールド　白き獅子レグルスを探せ"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "1677651",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677651",
+                    "Titles": {
+                        "eng": "Mark of the Monkey (3)",
+                        "jpn": "マイナスをつかさどる王　猿魔王ゼーマン"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "1677661",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677661",
+                    "Titles": {
+                        "eng": "Mark of the Monkey (4)",
+                        "jpn": "マイナスの呪い　捕らわれたエンシェント・フェアリー・ドラゴン"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "1677671",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677671",
+                    "Titles": {
+                        "eng": "A Whale of a Ride (1)",
+                        "jpn": "転生せよ！限界突破のライディング・デュエル"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "1677681",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/1677681",
+                    "Titles": {
+                        "eng": "A Whale of a Ride (2)",
+                        "jpn": "カードが紡ぐ想いの果てに"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "2152411",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/2152411",
+                    "Titles": {
+                        "eng": "A Whale of a Ride (3)",
+                        "jpn": "吹きすさべ嵐　ブラックフェザー孤高のシルバー・ウィンド"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "2152421",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/2152421",
+                    "Titles": {
+                        "eng": "A Score to Settle (1)",
+                        "jpn": "ラストデュエル！チームサティスファクション"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "2152431",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/2152431",
+                    "Titles": {
+                        "eng": "A Score to Settle (2)",
+                        "jpn": "仲間たちの想い、救世竜セイヴァー・ドラゴン"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "2152441",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/2152441",
+                    "Titles": {
+                        "eng": "Destiny's Will (1)",
+                        "jpn": "17年前の誓い　モーメントが導く運命"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "2152451",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/2152451",
+                    "Titles": {
+                        "eng": "Destiny's Will (2)",
+                        "jpn": "心の闇　残された最後の希望"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "2152461",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/2152461",
+                    "Titles": {
+                        "eng": "Shadows of Doubt (1)",
+                        "jpn": "その先にある運命！　地獄の覇者ダークキング"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "2152471",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/2152471",
+                    "Titles": {
+                        "eng": "Shadows of Doubt (2)",
+                        "jpn": "孤高の光　セイヴァー・デモン・ドラゴン"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "2152481",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/2152481",
+                    "Titles": {
+                        "eng": "Truth and Consequences (1)",
+                        "jpn": "サッド・ストーリー～悲しみの記憶～"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "2152491",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/2152491",
+                    "Titles": {
+                        "eng": "Truth and Consequences (2)",
+                        "jpn": "真実の果てに"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "2152501",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/2152501",
+                    "Titles": {
+                        "eng": "Signs of Doom (1)",
+                        "jpn": "最後の戦い！２つの神をもつ男"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "2152511",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/2152511",
+                    "Titles": {
+                        "eng": "Signs of Doom (2)",
+                        "jpn": "最強の地縛神！ウィラコチャ・ラスカ！"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "2152521",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/2152521",
+                    "Titles": {
+                        "eng": "Signs of Doom (3)",
+                        "jpn": "オレたちの未来へ！"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "362311",
+            "URL": "https://thetvdb.com/series/yu-gi-oh-5ds/seasons/official/3",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "zho": "世界骑乘决斗大赛前篇"
+            },
+            "# Episodes": 28,
+            "Episodes": {
+                "1": {
+                    "ID": "3204681",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3204681",
+                    "Titles": {
+                        "eng": "A New Threat (1)",
+                        "jpn": "新たなる脅威"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "3204691",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3204691",
+                    "Titles": {
+                        "eng": "A New Threat (2)",
+                        "jpn": "進化の証　シンクロモンスター"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "3204701",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3204701",
+                    "Titles": {
+                        "eng": "Lessons Learned",
+                        "jpn": "デュエルアカデミアの伝統！　アンティーク・ギアゴーレム"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "3204711",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3204711",
+                    "Titles": {
+                        "eng": "Trash Talk",
+                        "jpn": "老人の記憶　くず鉄ファミリーデッキ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "3204721",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3204721",
+                    "Titles": {
+                        "eng": "A Duel with Interest",
+                        "jpn": "脅威！ローントークン地獄"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "3204731",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3204731",
+                    "Titles": {
+                        "eng": "The Wicked Spirit",
+                        "jpn": "神隠しの森　スリーピービューティー"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "3204741",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3204741",
+                    "Titles": {
+                        "eng": "French Twist (1)",
+                        "jpn": "捕らわれた遊星"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "3204751",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3204751",
+                    "Titles": {
+                        "eng": "French Twist (2)",
+                        "jpn": "風の中にあるもの"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "3204761",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3204761",
+                    "Titles": {
+                        "eng": "Synchro Straits",
+                        "jpn": "シンクロ召喚を封じた先に･･･"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "3204771",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3204771",
+                    "Titles": {
+                        "eng": "Synchro Solution",
+                        "jpn": "さらなる進化！アクセルシンクロ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "3204781",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3204781",
+                    "Titles": {
+                        "eng": "Acceleration",
+                        "jpn": "十六夜アキ　アクセラレーション！"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "3204791",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3204791",
+                    "Titles": {
+                        "eng": "Syd Is Vicious",
+                        "jpn": "誇り高き デーモン・カオス・キング"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "3204801",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3204801",
+                    "Titles": {
+                        "eng": "Dawn of the Duel Board (1)",
+                        "jpn": "登場！スーパーエリート転校生"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "3204811",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3204811",
+                    "Titles": {
+                        "eng": "Dawn of the Duel Board (2)",
+                        "jpn": "甦る悪夢！機皇帝スキエル"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "3204821",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3204821",
+                    "Titles": {
+                        "eng": "Putting It All Together",
+                        "jpn": "まだ見ぬ世界へ"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "3204831",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3204831",
+                    "Titles": {
+                        "eng": "The Super Genius",
+                        "jpn": "謎のスーパーメカニック"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "3204841",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3204841",
+                    "Titles": {
+                        "eng": "Get with the Program (1)",
+                        "jpn": "イェーガー捕獲作戦！"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "3204851",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3204851",
+                    "Titles": {
+                        "eng": "Get with the Program (2)",
+                        "jpn": "不動遊星　敗北確率１００％！"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "3204861",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3204861",
+                    "Titles": {
+                        "eng": "Will the Real Jack Atlas Please Stand Up (1)",
+                        "jpn": "容疑者！？ジャック・アトラス"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "3204871",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3204871",
+                    "Titles": {
+                        "eng": "Will the Real Jack Atlas Please Stand Up (2)",
+                        "jpn": "もう一人のジャック"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "3987891",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3987891",
+                    "Titles": {
+                        "eng": "Mother Knows Best",
+                        "jpn": "ポッポタイムの古時計"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "3987901",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3987901",
+                    "Titles": {
+                        "eng": "Duelist for Hire",
+                        "jpn": "クラッシュタウン"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "3987911",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3987911",
+                    "Titles": {
+                        "eng": "Showdown at Sundown (1)",
+                        "jpn": "鬼柳救出！さまよえる決闘者の街"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "3987921",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3987921",
+                    "Titles": {
+                        "eng": "Showdown at Sundown (2)",
+                        "jpn": "勝利の先にある罠"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "3987931",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3987931",
+                    "Titles": {
+                        "eng": "The Race to Escape (1)",
+                        "jpn": "ガトリング・オーガの恐怖"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "3987941",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3987941",
+                    "Titles": {
+                        "eng": "The Race to Escape (2)",
+                        "jpn": "死闘のライディングデュエル"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "3987951",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3987951",
+                    "Titles": {
+                        "eng": "Clash at Crash Town (1)",
+                        "jpn": "タッグデュエル　鬼柳・遊星VSロットン"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "3987961",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3987961",
+                    "Titles": {
+                        "eng": "Clash at Crash Town (2)",
+                        "jpn": "サティスファクション"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "4": {
+            "ID": "453231",
+            "URL": "https://thetvdb.com/series/yu-gi-oh-5ds/seasons/official/4",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "zho": "世界骑乘决斗大赛后篇"
+            },
+            "# Episodes": 42,
+            "Episodes": {
+                "1": {
+                    "ID": "3987971",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3987971",
+                    "Titles": {
+                        "eng": "The Question of the Card",
+                        "jpn": "戦慄！主従の覚悟！！"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "3987981",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3987981",
+                    "Titles": {
+                        "eng": "Keeping a Promise (1)",
+                        "jpn": "追憶　朋友が託した遺志"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "3987991",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3987991",
+                    "Titles": {
+                        "eng": "Keeping a Promise (2)",
+                        "jpn": "舞い上がれ！ブラックフェザー・ドラゴン！！"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "3988001",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3988001",
+                    "Titles": {
+                        "eng": "Natural Instincts (1)",
+                        "jpn": "結成！チーム５Ｄ'ｓ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "3988011",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3988011",
+                    "Titles": {
+                        "eng": "Natural Instincts (2)",
+                        "jpn": "絶望と葛藤の先に・・・"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "3988021",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/3988021",
+                    "Titles": {
+                        "eng": "Power Plays",
+                        "jpn": "ＷＲＧＰ開幕　チーム５Ｄ'ｓ ＶＳ チームユニコーン"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4044451",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044451",
+                    "Titles": {
+                        "eng": "Trouble for Team 5D's",
+                        "jpn": "燃えろ！フェニキシアン・クラスター・アマリリス"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4044581",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044581",
+                    "Titles": {
+                        "eng": "The Edge of Elimination (1)",
+                        "jpn": "窮地　ラスト・ホイーラー遊星"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4044591",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044591",
+                    "Titles": {
+                        "eng": "The Edge of Elimination (2)",
+                        "jpn": "フォア・ザ・チーム"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4044601",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044601",
+                    "Titles": {
+                        "eng": "The Edge of Elimination (3)",
+                        "jpn": "ただ勝利のために"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4044611",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044611",
+                    "Titles": {
+                        "eng": "Party Crashers",
+                        "jpn": "戦いの果てに得たもの"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4044621",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044621",
+                    "Titles": {
+                        "eng": "Knight Takes Pawn",
+                        "jpn": "破滅の使者　チームカタストロフ"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4044631",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044631",
+                    "Titles": {
+                        "eng": "Rook Takes Knight",
+                        "jpn": "闇のカード　ヒドゥン・ナイト－フック－"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4044641",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044641",
+                    "Titles": {
+                        "eng": "Primo's Plan (1)",
+                        "jpn": "ゴースト氾濫！恐怖のバトル・ロイヤル・モード"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4044651",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044651",
+                    "Titles": {
+                        "eng": "Primo's Plan (2)",
+                        "jpn": "覚醒！！揺るがなき境地　クリア・マインド"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4044661",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044661",
+                    "Titles": {
+                        "eng": "Primo's Plan (3)",
+                        "jpn": "蘇る恐怖　機皇帝ワイゼル"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4044671",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044671",
+                    "Titles": {
+                        "eng": "Primo's Plan (4)",
+                        "jpn": "アクセル・シンクロ！生来せよ！シューティング・スター・ドラゴン！"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4044681",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044681",
+                    "Titles": {
+                        "eng": "Primo's Plan (5)",
+                        "jpn": "イリアステルの三皇帝"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4044691",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044691",
+                    "Titles": {
+                        "eng": "The Ancient Land - To Nazca!",
+                        "jpn": "古の地　ナスカへ"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4044701",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044701",
+                    "Titles": {
+                        "eng": "The Crimson Devil",
+                        "jpn": "紅蓮の悪魔"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4044711",
+                    "TYPE": "OVA",
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044711",
+                    "Titles": {
+                        "eng": "Burning Seething Soul! Scarlet Nova Dragon",
+                        "jpn": "燃え滾る魂！スカーレッド・ノヴァ・ドラゴン"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4044721",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044721",
+                    "Titles": {
+                        "eng": "Operation Capture Jaeger II",
+                        "jpn": "イェーガー捕獲作戦II！"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4044731",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044731",
+                    "Titles": {
+                        "eng": "Press Him About The Mystery! The Endgame Riding Duel!!",
+                        "jpn": "謎にせまれ！詰めライディングデュエル！！"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "4044741",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044741",
+                    "Titles": {
+                        "eng": "The Ener-D Express Development Agency",
+                        "jpn": "モーメント・エクスプレス開発機構"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "4044751",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044751",
+                    "Titles": {
+                        "eng": "The Distorted Past",
+                        "jpn": "歪められた過去"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "4044761",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044761",
+                    "Titles": {
+                        "eng": "The New Rivals",
+                        "jpn": "新たなるライバル"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "4044771",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044771",
+                    "Titles": {
+                        "eng": "The Invincible Scrum! Smash The Unbreakable Defense!",
+                        "jpn": "鉄壁のスクラム！強硬守備を打ち砕け！"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "4044781",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044781",
+                    "Titles": {
+                        "eng": "Tie those Feelings! The Hand Tied to the Majin!",
+                        "jpn": "想いをつなげ！手をつなぐ魔人"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "4044791",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044791",
+                    "Titles": {
+                        "eng": "The Miraculous Trump Card - Sleeping Giant Zushin!",
+                        "jpn": "奇跡の切り札　眠れる巨人ズシン！"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "4044801",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044801",
+                    "Titles": {
+                        "eng": "Believe in the Power! The Strongest Giant Zushin vs Shooting Star Dragon",
+                        "jpn": "信じる力！最強の巨人ズシン ＶＳ シューティング・スター・ドラゴン"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "4044811",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044811",
+                    "Titles": {
+                        "eng": "Eyes on the Prize",
+                        "jpn": "ルーンの瞳のデュエリスト"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "4044821",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044821",
+                    "Titles": {
+                        "eng": "Duel For Redemption",
+                        "jpn": "傷つけられたプライド"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "4044831",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044831",
+                    "Titles": {
+                        "eng": "Soul Solution",
+                        "jpn": "魂の戦い！極神皇トール ＶＳ スカーレッド・ノヴァ・ドラゴン"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "4044841",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044841",
+                    "Titles": {
+                        "eng": "When Nordic Gods Attack",
+                        "jpn": "降臨！第二の神　極神皇ロキ"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "4044851",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044851",
+                    "Titles": {
+                        "eng": "Tricking The Trickster",
+                        "jpn": "激闘！運命を賭けた黒い羽！"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "4044861",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044861",
+                    "Titles": {
+                        "eng": "Yusei's Last Stand",
+                        "jpn": "不死身の三極神！叫べ、セイヴァー・スター・ドラゴン！"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "4044871",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044871",
+                    "Titles": {
+                        "eng": "Fight to the Finish Line",
+                        "jpn": "ギャラルホルン！終焉へのカウントダウン"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "4044881",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044881",
+                    "Titles": {
+                        "eng": "Bound To The Future, Bonds To Our Companions",
+                        "jpn": "未来へつなぐ、仲間との絆"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "4044891",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044891",
+                    "Titles": {
+                        "eng": "The Beginning of the End",
+                        "jpn": "未来を賭けた戦い！機皇帝スキエルＶＳスカーレッド・ノヴァ・ドラゴン"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "4044901",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044901",
+                    "Titles": {
+                        "eng": "Dawn of the Machines",
+                        "jpn": "強襲！！機皇帝ワイゼル"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "4044911",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044911",
+                    "Titles": {
+                        "eng": "Against All Odds",
+                        "jpn": "立ちはだかる巨帝！機皇帝グランエル"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "4044921",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044921",
+                    "Titles": {
+                        "eng": "For Synchro's Sake",
+                        "jpn": "破滅の道！シンクロ召喚が行きつく未来"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "5": {
+            "ID": "2128020",
+            "URL": "https://thetvdb.com/series/yu-gi-oh-5ds/seasons/official/5",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "zho": "圣柜摇篮篇"
+            },
+            "# Episodes": 20,
+            "Episodes": {
+                "1": {
+                    "ID": "4044931",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044931",
+                    "Titles": {
+                        "eng": "Fight for the Future",
+                        "jpn": "絶望の魔人！機皇神マシニクルインフィニティ・キュービック"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4044941",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044941",
+                    "Titles": {
+                        "eng": "Victory or Doom",
+                        "jpn": "決死の攻防！機皇神ＶＳシンクロモンスター"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4044951",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044951",
+                    "Titles": {
+                        "eng": "An Approaching Terror - The Citadel of God",
+                        "jpn": "迫りくる恐怖　神の居城『アーククレイドル』"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4044961",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044961",
+                    "Titles": {
+                        "eng": "The Path to the Future - The Rainbow Bridge Bifrost!",
+                        "jpn": "未来への架け橋　虹の橋ビフレスト"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4044971",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044971",
+                    "Titles": {
+                        "eng": "The Terrifying Field Spell - École de Zone!",
+                        "jpn": "幻惑のフィールド！エコール・ド・ゾーン"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4044981",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044981",
+                    "Titles": {
+                        "eng": "The Soul-Binding Gate! The Forbidden Future!",
+                        "jpn": "魂縛門！封じられた未来！"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4044991",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4044991",
+                    "Titles": {
+                        "eng": "The Duel of Despair! Fortissimo the Moving Fortress!",
+                        "jpn": "絶望のデュエル！機動要塞フォルテシモ！"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4045001",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4045001",
+                    "Titles": {
+                        "eng": "A Life-or-Death Battle! Machine Divine Emperor Dragon Asterisk",
+                        "jpn": "生死を懸けた闘い！機皇神龍アステリスク"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4045011",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4045011",
+                    "Titles": {
+                        "eng": "The Miracle of Life",
+                        "jpn": "命の奇跡、ライフ・ストリーム・ドラゴン！！"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4045021",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4045021",
+                    "Titles": {
+                        "eng": "The Beginning of the End: A Fight for the Future!",
+                        "jpn": "終焉の起源　未来の為の死闘！"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4045031",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4045031",
+                    "Titles": {
+                        "eng": "Faster Than Light!!",
+                        "jpn": "光よりも速く！！"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4045041",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4045041",
+                    "Titles": {
+                        "eng": "The Last Human , Z-One",
+                        "jpn": "最後の一人　Ｚ－ＯＮＥ"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4045051",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4045051",
+                    "Titles": {
+                        "eng": "A Hope for the Future!",
+                        "jpn": "未来へつなぐ希望！"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4045061",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4045061",
+                    "Titles": {
+                        "eng": "One Chance to Turn It All Around",
+                        "jpn": "ただ１枚に懸けた勝機"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4045071",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4045071",
+                    "Titles": {
+                        "eng": "The Revived Hero",
+                        "jpn": "蘇った英雄"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4045081",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4045081",
+                    "Titles": {
+                        "eng": "Feelings Entrusted from my Father",
+                        "jpn": "父が託した想い"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4045091",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4045091",
+                    "Titles": {
+                        "eng": "Clustering Wishes",
+                        "jpn": "集いし願い"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4045101",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4045101",
+                    "Titles": {
+                        "eng": "Moving Towards the Future",
+                        "jpn": "進むべき未来"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4045111",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4045111",
+                    "Titles": {
+                        "eng": "Clashing Souls!",
+                        "jpn": "ぶつかり合う魂！"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4045121",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-5ds/episodes/4045121",
+                    "Titles": {
+                        "eng": "Shining Forth To The Future",
+                        "jpn": "光り差す未来へ"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

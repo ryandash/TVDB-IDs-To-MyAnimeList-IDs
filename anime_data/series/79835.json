@@ -1,0 +1,93 @@
+{
+    "URL": "https://thetvdb.com/series/cats-eye",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Crime",
+        "Mystery",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0131160/",
+        "https://tvlistings.zap2it.com/overview.html?programSeriesId=SH934752",
+        "https://www.themoviedb.org/tv/34114"
+    ],
+    "Titles": {
+        "eng": "Cat's Eye",
+        "jpn": "キャッツ♥アイ"
+    },
+    "Aliases": [
+        "キャッツ・アイ",
+        "キャッツ アイ",
+        "CAT'S♥EYE",
+        "CAT'S EYE"
+    ],
+    "Modified": "2026-06-24",
+    "Seasons": {
+        "0": {
+            "ID": "27232",
+            "URL": "https://thetvdb.com/series/cats-eye/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "2714181",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/2714181",
+                    "Titles": {
+                        "eng": "Cat's Eye - The Movie",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "6481929",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/6481929",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "9592987",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/cats-eye/episodes/9592987",
+                    "Titles": {
+                        "eng": "Lupin The 3rd vs. Cat’s Eye",
+                        "jpn": "ルパン三世VSキャッツ・アイ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "2",
+            "1"
+        ],
+        "Episodes": [
+            "320925",
+            "320922",
+            "320923",
+            "320924"
+        ]
+    }
+}

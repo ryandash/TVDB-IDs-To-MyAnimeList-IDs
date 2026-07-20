@@ -1,0 +1,122 @@
+{
+    "URL": "https://thetvdb.com/series/cowboy-bebop",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Science Fiction",
+        "Western"
+    ],
+    "Other Sites": [
+        "https://www.facebook.com/CowboyBebopOfficial",
+        "https://www.imdb.com/title/tt0213338/",
+        "https://www.instagram.com/cowboybebop",
+        "http://www.cowboy-bebop.net",
+        "http://www.reddit.com/r/cowboybebop",
+        "https://tvlistings.zap2it.com/overview.html?programSeriesId=EP00462579",
+        "https://www.themoviedb.org/tv/30991",
+        "https://en.wikipedia.org/wiki/Cowboy_Bebop",
+        "https://x.com/CowboyBebop"
+    ],
+    "Titles": {
+        "eng": "Cowboy Bebop",
+        "jpn": "カウボーイビバップ"
+    },
+    "Aliases": [
+        "Cowboy Bebop (1998)",
+        "Kaubôi Bibappu"
+    ],
+    "Modified": "2026-06-24",
+    "Seasons": {
+        "0": {
+            "ID": "24342",
+            "URL": "https://thetvdb.com/series/cowboy-bebop/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "7987639",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/cowboy-bebop/episodes/7987639",
+                    "Titles": {
+                        "eng": "Mish-Mash Blues",
+                        "jpn": "よせあつめブルース"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "937401",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/cowboy-bebop/episodes/937401",
+                    "Titles": {
+                        "eng": "Session #0",
+                        "jpn": "Session #0"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "360926",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/cowboy-bebop/episodes/360926",
+                    "Titles": {
+                        "eng": "Cowboy Bebop: The Movie",
+                        "jpn": "カウボーイビバップ 天国の扉"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "4478966",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/cowboy-bebop/episodes/4478966",
+                    "Titles": {
+                        "eng": "Ein's Summer Vacation",
+                        "jpn": "アインのなつやすみ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "219129",
+            "219128",
+            "300641",
+            "219127",
+            "300636",
+            "219125",
+            "219124",
+            "300637",
+            "219120",
+            "219123",
+            "300640",
+            "300638",
+            "219132",
+            "219130",
+            "219131",
+            "219126",
+            "300639"
+        ]
+    }
+}

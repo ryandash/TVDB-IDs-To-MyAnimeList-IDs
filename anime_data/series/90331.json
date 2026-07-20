@@ -1,0 +1,160 @@
+{
+    "URL": "https://thetvdb.com/series/atashinchi",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0320828/"
+    ],
+    "Titles": {
+        "eng": "Atashin'chi",
+        "jpn": "あたしンち"
+    },
+    "Aliases": [],
+    "Modified": "2026-03-28",
+    "Seasons": {
+        "0": {
+            "ID": "539127",
+            "URL": "https://thetvdb.com/series/atashinchi/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "5737755",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/atashinchi/episodes/5737755",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "みかん7歳・ユズ4歳 / 母の温泉旅行っ / 母、舌をかむ / みかんセンパイっ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 4
+                },
+                "2": {
+                    "ID": "5737757",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/atashinchi/episodes/5737757",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "母、強運っ!? / サボテンは見ている"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 4
+                },
+                "3": {
+                    "ID": "5737768",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/atashinchi/episodes/5737768",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "将来はお笑い芸人？ / カルメ焼き、ふくらまないっ / 藤野、遊びにくる / 母の注意書きっ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 4
+                },
+                "4": {
+                    "ID": "5737797",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/atashinchi/episodes/5737797",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "花を買うのは難しい / パンフレットにご用心っ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 4,
+                    "Num Episodes": 4
+                },
+                "5": {
+                    "ID": "8516884",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/atashinchi/episodes/8516884",
+                    "Titles": {
+                        "eng": "Atashin'chi: The 3D Movie",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "6": {
+                    "ID": "9565338",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/atashinchi/episodes/9565338",
+                    "Titles": {
+                        "eng": "Atashinchi Movie",
+                        "jpn": "映画 あたしンち"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "2",
+            "1"
+        ],
+        "Episodes": [
+            "5737530",
+            "5736196",
+            "5566684",
+            "5735419",
+            "5735741",
+            "5735841",
+            "5736198",
+            "5735849",
+            "5531400",
+            "5735685",
+            "5735686",
+            "5735844",
+            "5531401",
+            "5566683",
+            "5735425",
+            "5735426",
+            "5735744",
+            "5735740",
+            "5735739",
+            "5737537",
+            "5531402",
+            "5735846",
+            "5735679",
+            "5737535",
+            "5735743",
+            "5735427",
+            "5735678",
+            "5735845",
+            "5735428",
+            "5735429",
+            "5735742",
+            "5735682",
+            "5735847",
+            "5737532",
+            "5736197",
+            "5736195",
+            "5737543",
+            "5735848",
+            "5737527",
+            "5735850",
+            "5737534",
+            "5737536",
+            "5735684",
+            "5735677"
+        ]
+    }
+}

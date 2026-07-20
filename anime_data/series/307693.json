@@ -1,0 +1,64 @@
+{
+    "URL": "https://thetvdb.com/series/babel-ii",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1933701/"
+    ],
+    "Titles": {
+        "eng": "Babel nisei",
+        "jpn": "バビル2世"
+    },
+    "Aliases": [
+        "Babel II",
+        "Babil Junior"
+    ],
+    "Modified": "2024-12-23",
+    "Seasons": {
+        "0": {
+            "ID": "656818",
+            "URL": "https://thetvdb.com/series/babel-ii/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "5534043",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/babel-ii/episodes/5534043",
+                    "Titles": {
+                        "eng": "TV Trailer",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "5517854",
+            "5517855",
+            "5517858",
+            "5517856",
+            "5517853",
+            "5517857",
+            "5517852",
+            "5517851",
+            "5517859"
+        ]
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "URL": "https://thetvdb.com/series/good-luck-girl",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2250040/",
+        "http://www.binbogamiga.net/",
+        "https://www.themoviedb.org/tv/45968"
+    ],
+    "Titles": {
+        "eng": "Good Luck Girl!",
+        "jpn": "貧乏神が!"
+    },
+    "Aliases": [
+        "Binbō-gami ga!",
+        "Binbougami ga!",
+        "Binbogami ga!"
+    ],
+    "Modified": "2026-05-12",
+    "Seasons": {
+        "0": {
+            "ID": "554046",
+            "URL": "https://thetvdb.com/series/good-luck-girl/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "6460541",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/good-luck-girl/episodes/6460541",
+                    "Titles": {
+                        "eng": "Opening 1",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 3
+                },
+                "2": {
+                    "ID": "6460543",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/good-luck-girl/episodes/6460543",
+                    "Titles": {
+                        "eng": "Ending 1",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 3
+                },
+                "3": {
+                    "ID": "6460544",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/good-luck-girl/episodes/6460544",
+                    "Titles": {
+                        "eng": "Opening 2",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 3
+                },
+                "4": {
+                    "ID": "6460546",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/good-luck-girl/episodes/6460546",
+                    "Titles": {
+                        "eng": "Ending 2",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "4355371",
+            "4354374",
+            "4355370",
+            "4354375"
+        ]
+    }
+}

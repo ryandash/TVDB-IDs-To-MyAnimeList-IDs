@@ -1,0 +1,101 @@
+{
+    "URL": "https://thetvdb.com/series/the-pet-girl-of-sakurasou",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2296348/",
+        "https://www.themoviedb.org/tv/50325"
+    ],
+    "Titles": {
+        "eng": "The Pet Girl of Sakurasou",
+        "jpn": "さくら荘のペットな彼女"
+    },
+    "Aliases": [
+        "Sakurasou no Pet na Kanojo"
+    ],
+    "Modified": "2026-02-02",
+    "Seasons": {
+        "0": {
+            "ID": "555424",
+            "URL": "https://thetvdb.com/series/the-pet-girl-of-sakurasou/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "11268503",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/the-pet-girl-of-sakurasou/episodes/11268503",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Kimi ga Yume wo Tsuretekita"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 4
+                },
+                "2": {
+                    "ID": "11268504",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/the-pet-girl-of-sakurasou/episodes/11268504",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Yume no Tsuzuki"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 4
+                },
+                "3": {
+                    "ID": "11268505",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/the-pet-girl-of-sakurasou/episodes/11268505",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "DAYS of DASH"
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 4
+                },
+                "4": {
+                    "ID": "11268506",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/the-pet-girl-of-sakurasou/episodes/11268506",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Prime Number -Minna to Deaeru Hi"
+                    },
+                    "Aliases": [],
+                    "Episode #": 4,
+                    "Num Episodes": 4
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "4418692",
+            "4413082",
+            "4418690",
+            "4413081",
+            "4418691",
+            "4418694",
+            "4418693"
+        ]
+    }
+}

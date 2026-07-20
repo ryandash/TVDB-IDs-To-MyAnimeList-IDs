@@ -1,0 +1,98 @@
+{
+    "URL": "https://thetvdb.com/series/photon-the-idiot-adventures",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Comedy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0289010/",
+        "https://www.themoviedb.org/tv/39383"
+    ],
+    "Titles": {
+        "eng": "Photon: The Idiot Adventures",
+        "jpn": "フォトン"
+    },
+    "Aliases": [],
+    "Modified": "2026-01-10",
+    "Seasons": {
+        "1": {
+            "ID": "45401",
+            "URL": "https://thetvdb.com/series/photon-the-idiot-adventures/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "475491",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/photon-the-idiot-adventures/episodes/475491",
+                    "Titles": {
+                        "eng": "Aun is an IDIOT!",
+                        "jpn": "アウンのバカ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "475501",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/photon-the-idiot-adventures/episodes/475501",
+                    "Titles": {
+                        "eng": "The New Bride Keyne",
+                        "jpn": "新妻のキーネ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "475511",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/photon-the-idiot-adventures/episodes/475511",
+                    "Titles": {
+                        "eng": "Lashara Leaves Home",
+                        "jpn": "旅立ちのラシャラ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "475521",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/photon-the-idiot-adventures/episodes/475521",
+                    "Titles": {
+                        "eng": "Pochi's Feelings",
+                        "jpn": "ぽちの気持ち"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "475531",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/photon-the-idiot-adventures/episodes/475531",
+                    "Titles": {
+                        "eng": "Papacha Turns the Key",
+                        "jpn": "鍵を開けるパパチャ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "475541",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/photon-the-idiot-adventures/episodes/475541",
+                    "Titles": {
+                        "eng": "Photon of the Green Planet",
+                        "jpn": "緑の星のフォトン"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

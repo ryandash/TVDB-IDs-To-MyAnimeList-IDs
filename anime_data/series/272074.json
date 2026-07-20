@@ -1,0 +1,120 @@
+{
+    "URL": "https://thetvdb.com/series/kill-la-kill",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.facebook.com/Killlakillusa",
+        "https://www.imdb.com/title/tt3114390/",
+        "https://www.kill-la-kill.jp/",
+        "https://www.themoviedb.org/tv/60728",
+        "https://x.com/kill_la_kill"
+    ],
+    "Titles": {
+        "eng": "Kill la Kill",
+        "jpn": "キルラキル"
+    },
+    "Aliases": [
+        "Kiru ra kiru: KILL la KILL"
+    ],
+    "Modified": "2026-05-19",
+    "Seasons": {
+        "0": {
+            "ID": "561605",
+            "URL": "https://thetvdb.com/series/kill-la-kill/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "4745147",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kill-la-kill/episodes/4745147",
+                    "Titles": {
+                        "eng": "Goodbye Once Again",
+                        "jpn": "さよならをもう一度"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "6554347",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kill-la-kill/episodes/6554347",
+                    "Titles": {
+                        "eng": "Digest: Naked Memories by Aikuro Mikisugi",
+                        "jpn": "装繍編 裸の青春-美木杉愛九郎の回想-"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "7360840",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kill-la-kill/episodes/7360840",
+                    "Titles": {
+                        "eng": "500 Days of Production I",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "4": {
+                    "ID": "7360842",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kill-la-kill/episodes/7360842",
+                    "Titles": {
+                        "eng": "500 Days of Production II",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                },
+                "5": {
+                    "ID": "7360843",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kill-la-kill/episodes/7360843",
+                    "Titles": {
+                        "eng": "VOICES",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "4671258",
+            "4671261",
+            "4671263",
+            "4671256",
+            "4671259",
+            "4671262",
+            "4671257",
+            "4671260"
+        ]
+    }
+}

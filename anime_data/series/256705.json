@@ -1,0 +1,114 @@
+{
+    "URL": "https://thetvdb.com/series/space-brothers",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2267446/",
+        "https://www.ytv.co.jp/uchukyodai/",
+        "https://www.themoviedb.org/tv/45209",
+        "https://x.com/animeuchukyodai"
+    ],
+    "Titles": {
+        "eng": "Space Brothers",
+        "jpn": "宇宙兄弟"
+    },
+    "Aliases": [
+        "Space Bros.",
+        "Uchū Kyōdai",
+        "Uchuu Kyoudai"
+    ],
+    "Modified": "2026-04-24",
+    "Seasons": {
+        "0": {
+            "ID": "486668",
+            "URL": "https://thetvdb.com/series/space-brothers/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "4330493",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/space-brothers/episodes/4330493",
+                    "Titles": {
+                        "eng": "Apo's Dream",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "4745819",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/space-brothers/episodes/4745819",
+                    "Titles": {
+                        "eng": "Planetarium Special: A Flash of Light",
+                        "jpn": "宇宙兄弟 一点のひかり"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "4745822",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/space-brothers/episodes/4745822",
+                    "Titles": {
+                        "eng": "Space Brothers: Number Zero",
+                        "jpn": "宇宙兄弟#0"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "5311521",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/space-brothers/episodes/5311521",
+                    "Titles": {
+                        "eng": "Live action",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "2",
+            "1"
+        ],
+        "Episodes": [
+            "4463833",
+            "4408756",
+            "4463834",
+            "4463839",
+            "4463837",
+            "4463831",
+            "4408755",
+            "4463832",
+            "4408754",
+            "4463830",
+            "4420761",
+            "4463829",
+            "4463841",
+            "4463838",
+            "4519479",
+            "4463836"
+        ]
+    }
+}

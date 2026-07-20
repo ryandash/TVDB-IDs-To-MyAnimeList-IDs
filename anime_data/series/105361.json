@@ -1,0 +1,58 @@
+{
+    "URL": "https://thetvdb.com/series/electromagnetic-girlfriend",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2636966/",
+        "https://www.themoviedb.org/tv/57036"
+    ],
+    "Titles": {
+        "eng": "Electromagnetic Girlfriend",
+        "jpn": "電波的な彼女"
+    },
+    "Aliases": [
+        "Denpateki na Kanojo",
+        "Denpa Teki na Kanojo"
+    ],
+    "Modified": "2026-06-24",
+    "Seasons": {
+        "1": {
+            "ID": "102931",
+            "URL": "https://thetvdb.com/series/electromagnetic-girlfriend/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "955911",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/electromagnetic-girlfriend/episodes/955911",
+                    "Titles": {
+                        "eng": "Electromagnetic Girlfriend",
+                        "jpn": "電波的な彼女"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1408981",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/electromagnetic-girlfriend/episodes/1408981",
+                    "Titles": {
+                        "eng": "Happiness Game",
+                        "jpn": "電波的な彼女 幸福ゲーム"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "URL": "https://thetvdb.com/series/wandering-son",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Drama"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2011519/",
+        "https://www.themoviedb.org/tv/43926"
+    ],
+    "Titles": {
+        "eng": "Wandering Son",
+        "jpn": "放浪息子"
+    },
+    "Aliases": [
+        "Hourou Musuko"
+    ],
+    "Modified": "2024-09-19",
+    "Seasons": {
+        "0": {
+            "ID": "395271",
+            "URL": "https://thetvdb.com/series/wandering-son/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "3484841",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/wandering-son/episodes/3484841",
+                    "Titles": {
+                        "eng": "They Only Laughed at Me ~Black Sheep~",
+                        "jpn": "ぼくだけ笑われた 〜Black sheep〜"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "3484851",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/wandering-son/episodes/3484851",
+                    "Titles": {
+                        "eng": "Confession ~Each Season~",
+                        "jpn": "告白 〜Each season〜"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "3484831",
+            "4083187",
+            "3484811",
+            "3484821",
+            "3984931"
+        ]
+    }
+}

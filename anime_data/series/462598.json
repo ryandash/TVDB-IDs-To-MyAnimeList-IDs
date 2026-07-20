@@ -1,0 +1,60 @@
+{
+    "URL": "https://thetvdb.com/series/kanan-sama-wa-akumade-choroi",
+    "Genres": [
+        "Adaptation",
+        "Anime - Shonen"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt37729351/",
+        "https://kanachoro-anime.com/",
+        "https://www.themoviedb.org/tv/285818",
+        "https://www.wikidata.org/wiki/Q133873393",
+        "https://en.wikipedia.org/wiki/Kanan-sama_wa_Akumade_Choroi#Anime",
+        "https://x.com/Kanan_Choroi"
+    ],
+    "Titles": {
+        "eng": "Mistress Kanan Is Devilishly Easy",
+        "jpn": "カナン様はあくまでチョロい"
+    },
+    "Aliases": [
+        "Kanan-sama wa Akumade Choroi",
+        "Kanan-sama Is Easy as Hell!"
+    ],
+    "Modified": "2026-07-04",
+    "Seasons": {
+        "2": {
+            "ID": "2256079",
+            "URL": "https://thetvdb.com/series/kanan-sama-wa-akumade-choroi/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11854068",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kanan-sama-wa-akumade-choroi/episodes/11854068",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "11700161",
+            "11700162",
+            "11700165",
+            "11700163",
+            "11700164"
+        ]
+    }
+}

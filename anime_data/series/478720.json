@@ -1,0 +1,79 @@
+{
+    "URL": "https://thetvdb.com/series/zhong-guo-liang-qi-xian-sheng",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Comedy",
+        "Fantasy",
+        "Thriller"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt15477596/",
+        "https://www.themoviedb.org/tv/108965"
+    ],
+    "Titles": {
+        "eng": "Chinese Mystery Man",
+        "jpn": null
+    },
+    "Aliases": [
+        "Zhongguo Jingqi Xiansheng"
+    ],
+    "Modified": "2026-06-03",
+    "Seasons": {
+        "0": {
+            "ID": "2253179",
+            "URL": "https://thetvdb.com/series/zhong-guo-liang-qi-xian-sheng/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "11822449",
+                    "TYPE": "Season Recaps",
+                    "CATEGORY": "Season Recaps",
+                    "URL": "https://www.thetvdb.com/series/zhong-guo-liang-qi-xian-sheng/episodes/11822449",
+                    "Titles": {
+                        "eng": "Chinese Mystery Man: Compilation",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "11822450",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/zhong-guo-liang-qi-xian-sheng/episodes/11822450",
+                    "Titles": {
+                        "eng": "Chinese Mystery Man: Extreme Taoist Master",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "11822377",
+            "11822378",
+            "11822373",
+            "11822374",
+            "11822372",
+            "11822371",
+            "11822376",
+            "11822370",
+            "11822375",
+            "11822379",
+            "11822369"
+        ]
+    }
+}
