@@ -36,15 +36,26 @@ DATA_DIR_MOVIE = Path("anime_data/movie")
 DATA_DIR_SERIES.mkdir(parents=True, exist_ok=True)
 DATA_DIR_MOVIE.mkdir(parents=True, exist_ok=True)
 
-MAX_ANIME_CONCURRENT = 2
+MAX_ANIME_CONCURRENT = 3
 SAVE_WORKERS = 2
 
 # -----------------------------
 # HTML Helpers
 # -----------------------------
 HEADERS = {
-    "User-Agent": "Mozilla/5.0",
+    "User-Agent": (
+        "Mozilla/5.0 (X11; Linux x86_64) "
+        "AppleWebKit/537.36 "
+        "(KHTML, like Gecko) "
+        "Chrome/120 Safari/537.36"
+    ),
+    "Accept": (
+        "text/html,application/xhtml+xml,"
+        "application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"
+    ),
     "Accept-Language": "en-US,en;q=0.9",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
     "Referer": "https://www.thetvdb.com/"
 }
 
@@ -417,22 +428,24 @@ async def scrape_season(session: aiohttp.ClientSession, season_url:str, numEpiso
     valid_eps = 0
     batch_size = 2
 
-    for i in range(0, len(ep_infos), batch_size):
-        batch = ep_infos[i:i + batch_size]
+    for ep_info in ep_infos:
+        result = await scrape_episode(
+            session,
+            ep_info,
+            existing_eps,
+            failed_items
+        )
 
-        tasks = [scrape_episode(session, ep, existing_eps, failed_items) for ep in batch]
-        results = await asyncio.gather(*tasks)
+        ep_id = ep_info[0]
 
-        for ep_info, result in zip(batch, results):
-            ep_id = ep_info[0]
+        if result == "FAILED":
+            failed_items["Episodes"].add(ep_id)
 
-            if result == "FAILED":
-                failed_items["Episodes"].add(ep_id)
-            elif result is True:
-                failed_items["Episodes"].discard(ep_id)
-                valid_eps += 1
+        elif result is True:
+            failed_items["Episodes"].discard(ep_id)
+            valid_eps += 1
 
-        await asyncio.sleep(random.uniform(0.3, 0.8))
+        await asyncio.sleep(random.uniform(0.5, 0.9))
 
     if not ep_infos or valid_eps < len(ep_infos):
         failed_items["Seasons"].add(season_number)
