@@ -23,12 +23,7 @@ def build_single_request(query: str, animeType: str, year: int, page: int = 0):
             "query": query,
             "page": page,
             "facetFilters": facet_filters,
-            "maxValuesPerFacet": 10,
-            "analytics": True,
-            "analyticsTags": ["tvdb_web"],
-            "highlightPreTag": "__ais-highlight__",
-            "highlightPostTag": "__/ais-highlight__",
-            "filters": "NOT is_official=0"
+            "maxValuesPerFacet": 10
         }
     }
 

@@ -15,7 +15,7 @@ from urllib.parse import quote
 from rapidfuzz import fuzz
 from tqdm import tqdm
 from safe_jikan import SafeJikan
-from search_thetvdb import search_tvdb, build_batch_requests
+from search_thetvdb import search_tvdb, build_batch_requests, build_single_request
 
 @dataclass
 class TitleEntry:
@@ -326,7 +326,7 @@ async def make_main_path_relations_map(
 # -----------------------------
 # Search TVDB and Save
 # -----------------------------
-async def search_and_save_tvdb_hits(grouped: SortedListsOfMinimalAnime, max_concurrent_groups: int = 4):
+async def search_and_save_tvdb_hits(grouped: SortedListsOfMinimalAnime, max_concurrent_groups: int = 2):
     semaphore = asyncio.Semaphore(max_concurrent_groups)
 
     async with aiohttp.ClientSession(headers={
@@ -424,7 +424,6 @@ async def process_group(session: aiohttp.ClientSession, group: List[MinimalAnime
 
         requests_payload = []
         query_map = {}
-        idx = 0
 
         for entry in anime.titles:
             if not entry.title:
@@ -437,17 +436,15 @@ async def process_group(session: aiohttp.ClientSession, group: List[MinimalAnime
                 title_variants.append(clean_title.split(":")[0].strip())
 
             for query in title_variants:
-                encoded_query = quote(query, safe="")
-                facet_filters = f'[[\"type:{facet_type}\"], [\"year:{anime.year}\"]]'
-                facet_filter_param = f"facetFilters={quote(facet_filters, safe='')}"
+                query_map[len(requests_payload)] = query
 
-                requests_payload.append({
-                    "indexName": "TVDB",
-                    "params": f"query={encoded_query}&{facet_filter_param}"
-                })
-
-                query_map[idx] = query
-                idx += 1
+                requests_payload.append(
+                    build_single_request(
+                        query=query,
+                        animeType=facet_type,
+                        year=anime.year,
+                    )
+                )
 
         if not requests_payload:
             remaining_group.pop(0)
