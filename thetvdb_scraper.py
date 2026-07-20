@@ -49,18 +49,31 @@ HEADERS = {
 }
 
 async def fetch_html(session: aiohttp.ClientSession, url: str, retries=3, delay=3) -> str:
-    for attempt in range(1, retries+1):
+    for attempt in range(retries):
         try:
             async with session.get(url, headers=HEADERS) as resp:
-                if resp.status != 200:
-                    raise RuntimeError(f"Status {resp.status}")
-                return await resp.text()
-        except Exception as e:
-            if attempt < retries:
-                await asyncio.sleep(delay * attempt + random.uniform(0.5, 1.5))
-            else:
-                print(f"[FAIL] Could not fetch {url} after {retries} retries: {e}")
-                return ""
+                if resp.status == 200:
+                    return await resp.text()
+
+                if resp.status == 202:
+                    wait = min(60, 2 ** attempt + random.random())
+                    await asyncio.sleep(wait)
+                    continue
+
+                if resp.status in (429, 500, 502, 503, 504):
+                    wait = min(60, 2 ** attempt + random.random())
+                    await asyncio.sleep(wait)
+                    continue
+
+                raise RuntimeError(f"Status {resp.status}")
+
+        except aiohttp.ClientError:
+            if attempt == retries - 1:
+                break
+            await asyncio.sleep(2 ** attempt)
+
+    print(f"[FAIL] {url}")
+    return ""
 
 # -------------------
 # Persistence
