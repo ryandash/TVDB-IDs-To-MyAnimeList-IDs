@@ -15,7 +15,7 @@ from copy import deepcopy
 import traceback
 from typing import List
 import uuid
-from curl_cffi import requests
+import aiohttp
 from tqdm.asyncio import tqdm_asyncio
 from tqdm import tqdm
 
@@ -59,50 +59,49 @@ HEADERS = {
     "Referer": "https://www.thetvdb.com/"
 }
 
-async def fetch_html(session: requests.AsyncSession, url: str, retries=3) -> str:
+async def fetch_html(session: aiohttp.ClientSession, url: str, retries=3, delay=3) -> str:
     for attempt in range(retries):
         try:
-            resp = await session.get(
+            async with session.get(
                 url,
                 headers=HEADERS,
-                impersonate="chrome",
-                timeout=30,
+                timeout=aiohttp.ClientTimeout(total=30),
                 allow_redirects=True
-            )
+            ) as resp:
 
-            if resp.status_code == 200:
-                text = resp.text
+                if resp.status == 200:
+                    text = await resp.text()
 
-                # CloudFront / bot challenge detection
-                if (
-                    "Just a moment" in text
-                    or "cf-chl" in text
-                    or "challenge" in text.lower()
-                ):
-                    print(f"[CHALLENGE] {url}")
-                    await asyncio.sleep(10)
+                    # detect Cloudflare / bot pages
+                    if "Just a moment..." in text or "cf-chl" in text:
+                        print(f"[CLOUDFLARE] {url}")
+                        await asyncio.sleep(10)
+                        continue
+
+                    return text
+
+                body = await resp.text()
+
+                print(
+                    f"[HTTP {resp.status}] {url}\n"
+                    f"Server: {resp.headers.get('server')}\n"
+                    f"Body: {body[:200]}"
+                )
+
+                if resp.status in (202, 429, 500, 502, 503, 504):
+                    wait = min(60, 2 ** attempt + random.random())
+                    await asyncio.sleep(wait)
                     continue
 
-                return text
+                return ""
 
-            print(
-                f"[HTTP {resp.status_code}] {url}\n"
-                f"Server: {resp.headers.get('server')}\n"
-                f"Body: {resp.text[:200]}"
-            )
+        except asyncio.TimeoutError:
+            print(f"[TIMEOUT] {url}")
 
-            if resp.status_code in (202, 429, 403, 500, 502, 503, 504):
-                wait = min(60, (2 ** attempt) + random.random())
-                await asyncio.sleep(wait)
-                continue
+        except aiohttp.ClientError as e:
+            print(f"[CLIENT ERROR] {url}: {e}")
 
-            return ""
-
-        except Exception as e:
-            print(f"[ERROR] {url}: {e}")
-
-            if attempt < retries - 1:
-                await asyncio.sleep(2 ** attempt)
+        await asyncio.sleep(2 ** attempt)
 
     print(f"[FAIL] {url}")
     return ""
@@ -260,7 +259,7 @@ def parse_special_category(li):
 # Episode / Season / Anime
 # -------------------
 
-async def scrape_episode(session: requests.AsyncSession, ep_info, season_eps: dict, failed_items: dict) -> bool:
+async def scrape_episode(session: aiohttp.ClientSession, ep_info, season_eps: dict, failed_items: dict) -> bool:
     ep_id, ep_url, ep_num, category = ep_info
     if ep_num in season_eps:
         return "SKIPPED"
@@ -388,7 +387,7 @@ def extract_episode_rows(soup, season_number):
 
     return rows_with_category
 
-async def scrape_season(session: requests.AsyncSession, season_url:str, numEpisodes:int, season_dict: dict, season_number: str, failed_items: dict) -> bool:
+async def scrape_season(session: aiohttp.ClientSession, season_url:str, numEpisodes:int, season_dict: dict, season_number: str, failed_items: dict) -> bool:
     html = await fetch_html(session, season_url)
     if not html:
         return False
@@ -489,7 +488,7 @@ def parse_date(date_str: str):
             continue
     raise ValueError(f"Could not parse date: {date_str}")
 
-async def scrape_anime(session: requests.AsyncSession, url: str, category: str, lookup: dict):
+async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, lookup: dict):
     html = await fetch_html(session, url)
     if not html:
         return
@@ -649,10 +648,7 @@ class TVDBMatches:
 
 async def scrape_all(matches_series: List[TVDBMatches], matches_movie: List[TVDBMatches]):
     sem = asyncio.Semaphore(MAX_ANIME_CONCURRENT)
-    async with requests.AsyncSession(
-        impersonate="chrome",
-        headers=HEADERS
-    ) as session:
+    async with aiohttp.ClientSession() as session:
 
         lookup_series = build_lookup_table("series")
         lookup_movie = build_lookup_table("movie")
