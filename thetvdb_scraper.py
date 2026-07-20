@@ -36,7 +36,7 @@ DATA_DIR_MOVIE = Path("anime_data/movie")
 DATA_DIR_SERIES.mkdir(parents=True, exist_ok=True)
 DATA_DIR_MOVIE.mkdir(parents=True, exist_ok=True)
 
-MAX_ANIME_CONCURRENT = 3
+MAX_ANIME_CONCURRENT = 2
 SAVE_WORKERS = 2
 
 # -----------------------------
@@ -44,10 +44,10 @@ SAVE_WORKERS = 2
 # -----------------------------
 HEADERS = {
     "User-Agent": (
-        "Mozilla/5.0 (X11; Linux x86_64) "
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
         "AppleWebKit/537.36 "
         "(KHTML, like Gecko) "
-        "Chrome/120 Safari/537.36"
+        "Chrome/150.0.0.0 Safari/537.36"
     ),
     "Accept": (
         "text/html,application/xhtml+xml,"
@@ -62,26 +62,46 @@ HEADERS = {
 async def fetch_html(session: aiohttp.ClientSession, url: str, retries=3, delay=3) -> str:
     for attempt in range(retries):
         try:
-            async with session.get(url, headers=HEADERS) as resp:
+            async with session.get(
+                url,
+                headers=HEADERS,
+                timeout=aiohttp.ClientTimeout(total=30),
+                allow_redirects=True
+            ) as resp:
+
                 if resp.status == 200:
-                    return await resp.text()
+                    text = await resp.text()
 
-                if resp.status == 202:
+                    # detect Cloudflare / bot pages
+                    if "Just a moment..." in text or "cf-chl" in text:
+                        print(f"[CLOUDFLARE] {url}")
+                        await asyncio.sleep(10)
+                        continue
+
+                    return text
+
+                body = await resp.text()
+
+                print(
+                    f"[HTTP {resp.status}] {url}\n"
+                    f"Server: {resp.headers.get('server')}\n"
+                    f"Body: {body[:200]}"
+                )
+
+                if resp.status in (202, 429, 500, 502, 503, 504):
                     wait = min(60, 2 ** attempt + random.random())
                     await asyncio.sleep(wait)
                     continue
 
-                if resp.status in (429, 500, 502, 503, 504):
-                    wait = min(60, 2 ** attempt + random.random())
-                    await asyncio.sleep(wait)
-                    continue
+                return ""
 
-                raise RuntimeError(f"Status {resp.status}")
+        except asyncio.TimeoutError:
+            print(f"[TIMEOUT] {url}")
 
-        except aiohttp.ClientError:
-            if attempt == retries - 1:
-                break
-            await asyncio.sleep(2 ** attempt)
+        except aiohttp.ClientError as e:
+            print(f"[CLIENT ERROR] {url}: {e}")
+
+        await asyncio.sleep(2 ** attempt)
 
     print(f"[FAIL] {url}")
     return ""
