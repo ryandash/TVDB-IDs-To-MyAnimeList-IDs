@@ -40,6 +40,13 @@ MAX_ANIME_CONCURRENT = 2
 SAVE_WORKERS = 2
 
 # -----------------------------
+# Global CloudFront cooldown
+# -----------------------------
+
+class CloudFrontException(Exception):
+    pass
+
+# -----------------------------
 # HTML Helpers
 # -----------------------------
 HEADERS = {
@@ -59,8 +66,12 @@ HEADERS = {
     "Referer": "https://www.thetvdb.com/"
 }
 
+cloudfront_attempt = 0
+
 async def fetch_html(session: aiohttp.ClientSession, url: str, retries=3, delay=3) -> str:
+    global cloudfront_attempt
     for attempt in range(retries):
+
         try:
             async with session.get(
                 url,
@@ -70,6 +81,7 @@ async def fetch_html(session: aiohttp.ClientSession, url: str, retries=3, delay=
             ) as resp:
 
                 if resp.status == 200:
+                    cloudfront_attempt = 0
                     text = await resp.text()
 
                     # detect Cloudflare / bot pages
@@ -88,7 +100,11 @@ async def fetch_html(session: aiohttp.ClientSession, url: str, retries=3, delay=
                     f"Body: {body[:200]}"
                 )
 
-                if resp.status in (202, 429, 500, 502, 503, 504):
+                if resp.status == 202 and resp.headers.get("server") == "CloudFront":
+                    print(f"[CLOUDFRONT] Triggered by {url}")
+                    raise CloudFrontException()
+                
+                if resp.status in (429, 500, 502, 503, 504):
                     wait = min(60, 2 ** attempt + random.random())
                     await asyncio.sleep(wait)
                     continue
@@ -465,7 +481,7 @@ async def scrape_season(session: aiohttp.ClientSession, season_url:str, numEpiso
             failed_items["Episodes"].discard(ep_id)
             valid_eps += 1
 
-        await asyncio.sleep(random.uniform(0.5, 0.9))
+        await asyncio.sleep(random.uniform(0.6, 1.1))
 
     if not ep_infos or valid_eps < len(ep_infos):
         failed_items["Seasons"].add(season_number)
@@ -647,55 +663,88 @@ class TVDBMatches:
     Url: str
 
 async def scrape_all(matches_series: List[TVDBMatches], matches_movie: List[TVDBMatches]):
-    async with aiohttp.ClientSession() as session:
 
-        lookup_series = build_lookup_table("series")
-        lookup_movie = build_lookup_table("movie")
+    lookup_series = build_lookup_table("series")
+    lookup_movie = build_lookup_table("movie")
 
-        if args.delete_folder:
-            import shutil
+    total = len(matches_series) + len(matches_movie)
 
-            print("[INFO] Deleting anime_data folders for a fresh start...")
+    max_cloudfront_retries = 3
+    global cloudfront_attempt
 
-            for folder in [DATA_DIR_SERIES, DATA_DIR_MOVIE]:
-                if folder.exists():
-                    shutil.rmtree(folder)
+    if args.delete_folder:
+        import shutil
 
-                folder.mkdir(parents=True, exist_ok=True)
+        print("[INFO] Deleting anime_data folders for a fresh start...")
+
+        for folder in [DATA_DIR_SERIES, DATA_DIR_MOVIE]:
+            if folder.exists():
+                shutil.rmtree(folder)
+
+            folder.mkdir(parents=True, exist_ok=True)
+
+    while True:
+        try:
+            async with aiohttp.ClientSession(
+                cookie_jar=aiohttp.DummyCookieJar(),
+                connector=aiohttp.TCPConnector(
+                    force_close=True,
+                    use_dns_cache=False
+                )
+            ) as session:
+                with tqdm(total=total, desc="Scraping") as pbar:
+
+                    for match in matches_series:
+                        await scrape_anime(
+                            session,
+                            match.Url,
+                            "series",
+                            lookup_series
+                        )
+
+                        pbar.update(1)
+
+                        await asyncio.sleep(
+                            random.uniform(1.5, 3)
+                        )
 
 
-        total = len(matches_series) + len(matches_movie)
+                    for match in matches_movie:
+                        await scrape_anime(
+                            session,
+                            match.Url,
+                            "movie",
+                            lookup_movie
+                        )
 
-        with tqdm(total=total, desc="Scraping") as pbar:
+                        pbar.update(1)
 
-            for match in matches_series:
-                await scrape_anime(
-                    session,
-                    match.Url,
-                    "series",
-                    lookup_series
+                        await asyncio.sleep(
+                            random.uniform(1.5, 3)
+                        )
+
+                return
+
+        except CloudFrontException:
+
+            cloudfront_attempt += 1
+
+            print(
+                f"::warning::CloudFront block detected. "
+                f"Retry {cloudfront_attempt}/{max_cloudfront_retries}"
+            )
+
+            if cloudfront_attempt < max_cloudfront_retries:
+                print("[INFO] Waiting 120 seconds before retry")
+                await asyncio.sleep(120)
+
+            else:
+                print(
+                    "::warning::CloudFront blocked this worker "
+                    "after 3 attempts. Exiting gracefully."
                 )
 
-                pbar.update(1)
-
-                await asyncio.sleep(
-                    random.uniform(2, 4)
-                )
-
-
-            for match in matches_movie:
-                await scrape_anime(
-                    session,
-                    match.Url,
-                    "movie",
-                    lookup_movie
-                )
-
-                pbar.update(1)
-
-                await asyncio.sleep(
-                    random.uniform(1, 3)
-                )
+                return
 
 # -----------------------------
 # Load Input Data
