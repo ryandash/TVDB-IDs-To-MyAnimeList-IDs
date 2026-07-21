@@ -378,25 +378,303 @@
                     "Num Episodes": 1
                 }
             }
+        },
+        "1": {
+            "ID": "85951",
+            "URL": "https://thetvdb.com/series/umineko-when-they-cry/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "823701",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/823701",
+                    "Titles": {
+                        "eng": "Opening",
+                        "jpn": "EpisodeI-I opening"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "823711",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/823711",
+                    "Titles": {
+                        "eng": "First Move",
+                        "jpn": "EpisodeI-II first move"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "823721",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/823721",
+                    "Titles": {
+                        "eng": "Dubious Move",
+                        "jpn": "EpisodeI-III dubious move"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "823731",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/823731",
+                    "Titles": {
+                        "eng": "Blunder",
+                        "jpn": "EpisodeI-IV blunder"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "823741",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/823741",
+                    "Titles": {
+                        "eng": "Fool's Mate",
+                        "jpn": "EpisodeI-V fool's mate"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "957701",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/957701",
+                    "Titles": {
+                        "eng": "Middle Game",
+                        "jpn": "EpisodeII-I middle game"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "988991",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/988991",
+                    "Titles": {
+                        "eng": "Early Queen Move",
+                        "jpn": "EpisodeII-II early queen move"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "1010371",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/1010371",
+                    "Titles": {
+                        "eng": "Week Square",
+                        "jpn": "EpisodeII-III week square"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "1031201",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/1031201",
+                    "Titles": {
+                        "eng": "Skewer",
+                        "jpn": "EpisodeII-IV skewer"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "1059351",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/1059351",
+                    "Titles": {
+                        "eng": "Accept",
+                        "jpn": "EpisodeII-V accept"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "1248051",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/1248051",
+                    "Titles": {
+                        "eng": "Back Rank Mate",
+                        "jpn": "EpisodeII-VI back rank mate"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "1248061",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/1248061",
+                    "Titles": {
+                        "eng": "Castling",
+                        "jpn": "EpisodeIII-I castling"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "1248071",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/1248071",
+                    "Titles": {
+                        "eng": "Gambit",
+                        "jpn": "EpisodeIII-II gambit"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "1248081",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/1248081",
+                    "Titles": {
+                        "eng": "Positional Play",
+                        "jpn": "EpisodeIII-III positional play"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "1248091",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/1248091",
+                    "Titles": {
+                        "eng": "Isolated Pawn",
+                        "jpn": "EpisodeIII-IV isolated pawn"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "1248101",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/1248101",
+                    "Titles": {
+                        "eng": "Queening Square",
+                        "jpn": "EpisodeIII-V queening square"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "1248111",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/1248111",
+                    "Titles": {
+                        "eng": "Promotion",
+                        "jpn": "EpisodeIII-VI promotion"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "1248121",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/1248121",
+                    "Titles": {
+                        "eng": "Swindles",
+                        "jpn": "EpisodeIII-VII swindles"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "1248131",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/1248131",
+                    "Titles": {
+                        "eng": "End Game",
+                        "jpn": "EpisodeIV-I end game"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "1449581",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/1449581",
+                    "Titles": {
+                        "eng": "Zugzwang",
+                        "jpn": "EpisodeIV-II zugzwang"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "1449591",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/1449591",
+                    "Titles": {
+                        "eng": "Prophylaxis",
+                        "jpn": "EpisodeIV-III prophylaxis"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "1449601",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/1449601",
+                    "Titles": {
+                        "eng": "Problem Child",
+                        "jpn": "EpisodeIV-IV problem child"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "1449611",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/1449611",
+                    "Titles": {
+                        "eng": "Breakthrough",
+                        "jpn": "EpisodeIV-V breakthrough"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "1449621",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/1449621",
+                    "Titles": {
+                        "eng": "Adjourn",
+                        "jpn": "EpisodeIV-VI adjourn"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "1449631",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/1449631",
+                    "Titles": {
+                        "eng": "Forced Move",
+                        "jpn": "EpisodeIV-VII forced move"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "1449641",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umineko-when-they-cry/episodes/1449641",
+                    "Titles": {
+                        "eng": "Sacrifice",
+                        "jpn": "EpisodeIV-VIII sacrifice"
+                    },
+                    "Aliases": []
+                }
+            }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "1"
-        ],
-        "Episodes": [
-            "1059351",
-            "1248051",
-            "1248101",
-            "1248061",
-            "1248091",
-            "1010371",
-            "1031201",
-            "957701",
-            "1248081",
-            "1248071",
-            "988991",
-            "823741"
-        ]
     }
 }

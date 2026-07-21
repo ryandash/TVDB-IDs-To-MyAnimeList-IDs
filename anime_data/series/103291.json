@@ -132,12 +132,149 @@
                     "Num Episodes": 1
                 }
             }
+        },
+        "1": {
+            "ID": "90311",
+            "URL": "https://thetvdb.com/series/juden-chan/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "857591",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/juden-chan/episodes/857591",
+                    "Titles": {
+                        "eng": "Plug In!",
+                        "jpn": "ぷらぐ・いん！"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "880291",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/juden-chan/episodes/880291",
+                    "Titles": {
+                        "eng": "Timing!",
+                        "jpn": "たいみんぐ！"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "880301",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/juden-chan/episodes/880301",
+                    "Titles": {
+                        "eng": "Lock On!",
+                        "jpn": "ろっく・おん！"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "880311",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/juden-chan/episodes/880311",
+                    "Titles": {
+                        "eng": "Iono Crisis",
+                        "jpn": "依緒乃、クライシス"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "971351",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/juden-chan/episodes/971351",
+                    "Titles": {
+                        "eng": "Happening!",
+                        "jpn": "はぷにんぐ！"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "971361",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/juden-chan/episodes/971361",
+                    "Titles": {
+                        "eng": "Counter-Current",
+                        "jpn": "逆流"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "971371",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/juden-chan/episodes/971371",
+                    "Titles": {
+                        "eng": "Maid in Arresta!",
+                        "jpn": "めいど・いん・アレスタ！"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "1088441",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/juden-chan/episodes/1088441",
+                    "Titles": {
+                        "eng": "Craziness and Kindness",
+                        "jpn": "無茶と優しさ"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "1138741",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/juden-chan/episodes/1138741",
+                    "Titles": {
+                        "eng": "Audit Division, Special Cases Section - Leakage Girls",
+                        "jpn": "監査室特務部・漏電ちゃん"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "1138751",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/juden-chan/episodes/1138751",
+                    "Titles": {
+                        "eng": "Present!?",
+                        "jpn": "ぷれぜんと!?"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "1138761",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/juden-chan/episodes/1138761",
+                    "Titles": {
+                        "eng": "Watch out! Discharger Girl!",
+                        "jpn": "要警戒・放電ちゃん"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "1138781",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/juden-chan/episodes/1138781",
+                    "Titles": {
+                        "eng": "Fight! One Shot!",
+                        "jpn": "ふぁいと！いっぱつ！"
+                    },
+                    "Aliases": []
+                }
+            }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "1"
-        ],
-        "Episodes": []
     }
 }

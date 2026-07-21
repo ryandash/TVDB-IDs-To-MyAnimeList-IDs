@@ -647,7 +647,6 @@ class TVDBMatches:
     Url: str
 
 async def scrape_all(matches_series: List[TVDBMatches], matches_movie: List[TVDBMatches]):
-    sem = asyncio.Semaphore(MAX_ANIME_CONCURRENT)
     async with aiohttp.ClientSession() as session:
 
         lookup_series = build_lookup_table("series")
@@ -657,23 +656,46 @@ async def scrape_all(matches_series: List[TVDBMatches], matches_movie: List[TVDB
             import shutil
 
             print("[INFO] Deleting anime_data folders for a fresh start...")
+
             for folder in [DATA_DIR_SERIES, DATA_DIR_MOVIE]:
                 if folder.exists():
                     shutil.rmtree(folder)
+
                 folder.mkdir(parents=True, exist_ok=True)
 
-        async def process_match(match: TVDBMatches, category: str):
-            async with sem:
-                await scrape_anime(session, match.Url, category, lookup_series if category == "series" else lookup_movie)
 
-        tasks = []
-        for m in matches_series:
-            tasks.append(process_match(m, "series"))
-        for m in matches_movie:
-            tasks.append(process_match(m, "movie"))
+        total = len(matches_series) + len(matches_movie)
 
-        for coro in tqdm_asyncio.as_completed(tasks, total=len(tasks), leave=True):
-            await coro
+        with tqdm(total=total, desc="Scraping") as pbar:
+
+            for match in matches_series:
+                await scrape_anime(
+                    session,
+                    match.Url,
+                    "series",
+                    lookup_series
+                )
+
+                pbar.update(1)
+
+                await asyncio.sleep(
+                    random.uniform(2, 4)
+                )
+
+
+            for match in matches_movie:
+                await scrape_anime(
+                    session,
+                    match.Url,
+                    "movie",
+                    lookup_movie
+                )
+
+                pbar.update(1)
+
+                await asyncio.sleep(
+                    random.uniform(1, 3)
+                )
 
 # -----------------------------
 # Load Input Data

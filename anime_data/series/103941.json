@@ -52,14 +52,281 @@
                     "Num Episodes": 1
                 }
             }
+        },
+        "1": {
+            "ID": "91851",
+            "URL": "https://thetvdb.com/series/canvas-2/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 24,
+            "Episodes": {
+                "1": {
+                    "ID": "864101",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/864101",
+                    "Titles": {
+                        "eng": "Classic Red Prohibition",
+                        "jpn": "禁断のクラシックレッド"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "864111",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/864111",
+                    "Titles": {
+                        "eng": "Mandarin Orange Reunion",
+                        "jpn": "マンダリンオレンジの再会"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "864121",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/864121",
+                    "Titles": {
+                        "eng": "Canary Yellow Prank",
+                        "jpn": "悪戯なカナリアイエロー"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "864131",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/864131",
+                    "Titles": {
+                        "eng": "Cobalt Blue Impatience",
+                        "jpn": "焦燥のコバルトブルー"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "864141",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/864141",
+                    "Titles": {
+                        "eng": "Moon Gray Sigh",
+                        "jpn": "溜息のムーングレイ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "864151",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/864151",
+                    "Titles": {
+                        "eng": "Emerald Green Temptation",
+                        "jpn": "誘惑のエメラルドグリーン"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "864161",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/864161",
+                    "Titles": {
+                        "eng": "Sand Beige Sea Roar",
+                        "jpn": "潮騒のサンドベージュ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "864171",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/864171",
+                    "Titles": {
+                        "eng": "Midnight Blue Sadness",
+                        "jpn": "哀愁のミッドナイトブルー"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "864181",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/864181",
+                    "Titles": {
+                        "eng": "Sentimental Azure",
+                        "jpn": "瑠璃色のセンチメンタル"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "864191",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/864191",
+                    "Titles": {
+                        "eng": "Snow White Recollections",
+                        "jpn": "追憶のスノーホワイト"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "864201",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/864201",
+                    "Titles": {
+                        "eng": "Light Yellow Distance",
+                        "jpn": "浅支子の距離"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "864211",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/864211",
+                    "Titles": {
+                        "eng": "Evergreen Innocence",
+                        "jpn": "無邪気なエバーグリーン"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "864221",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/864221",
+                    "Titles": {
+                        "eng": "Sepia Triangle",
+                        "jpn": "セピアのトライアングル"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "864231",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/864231",
+                    "Titles": {
+                        "eng": "Dark Navy Secret",
+                        "jpn": "ひめごとはダークネイビー"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "864241",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/864241",
+                    "Titles": {
+                        "eng": "Indigo Blue Pressure",
+                        "jpn": "藍色のプレッシャー"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "864251",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/864251",
+                    "Titles": {
+                        "eng": "Light Purple All Night Long",
+                        "jpn": "薄紫のオールナイトロング"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "864261",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/864261",
+                    "Titles": {
+                        "eng": "Want To Deliver Cherry Pink",
+                        "jpn": "チェリーピンクを届けたい"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "864271",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/864271",
+                    "Titles": {
+                        "eng": "Shoot At Tomato Red!",
+                        "jpn": "トマトレッドを撃て！"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "864281",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/864281",
+                    "Titles": {
+                        "eng": "A Milky White Night",
+                        "jpn": "ミルキィホワイトの一夜"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "864291",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/864291",
+                    "Titles": {
+                        "eng": "Marmalade Coloured Evening",
+                        "jpn": "マーマレード色の夕暮れ"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "864301",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/864301",
+                    "Titles": {
+                        "eng": "Crystal Blank Map",
+                        "jpn": "クリスタルの白地図"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "864311",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/864311",
+                    "Titles": {
+                        "eng": "On An Indigo Dawn",
+                        "jpn": "インディゴの夜明けに"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "864321",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/864321",
+                    "Titles": {
+                        "eng": "Christmas Coloured Decision",
+                        "jpn": "クリスマスカラーの決意"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "864331",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canvas-2/episodes/864331",
+                    "Titles": {
+                        "eng": "Rainbow Coloured Finale",
+                        "jpn": "虹色のフィナーレ"
+                    },
+                    "Aliases": []
+                }
+            }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "1"
-        ],
-        "Episodes": [
-            "864261"
-        ]
     }
 }

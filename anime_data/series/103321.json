@@ -39,17 +39,138 @@
                     "Num Episodes": 1
                 }
             }
+        },
+        "1": {
+            "ID": "90381",
+            "URL": "https://thetvdb.com/series/tokyo-magnitude-8-0/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 11,
+            "Episodes": {
+                "1": {
+                    "ID": "857681",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tokyo-magnitude-8-0/episodes/857681",
+                    "Titles": {
+                        "eng": "Odaiba Sinks",
+                        "jpn": "お台場、沈む"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "883361",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tokyo-magnitude-8-0/episodes/883361",
+                    "Titles": {
+                        "eng": "Broken World",
+                        "jpn": "壊れる、世界"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "905831",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tokyo-magnitude-8-0/episodes/905831",
+                    "Titles": {
+                        "eng": "Burning Bridge",
+                        "jpn": "燃える、橋"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "944131",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tokyo-magnitude-8-0/episodes/944131",
+                    "Titles": {
+                        "eng": "A Promise By the Three",
+                        "jpn": "三人の、約束"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "958041",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tokyo-magnitude-8-0/episodes/958041",
+                    "Titles": {
+                        "eng": "Schoolhouse of Lamentation",
+                        "jpn": "慟哭の、学び舎"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "978221",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tokyo-magnitude-8-0/episodes/978221",
+                    "Titles": {
+                        "eng": "Abandoned Choice",
+                        "jpn": "見捨てる、選択"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "978231",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tokyo-magnitude-8-0/episodes/978231",
+                    "Titles": {
+                        "eng": "Summer Sunset",
+                        "jpn": "夏の夕暮れ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "978241",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tokyo-magnitude-8-0/episodes/978241",
+                    "Titles": {
+                        "eng": "A Pure White Morning",
+                        "jpn": "まっしろな朝"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "978251",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tokyo-magnitude-8-0/episodes/978251",
+                    "Titles": {
+                        "eng": "Farewell for Today",
+                        "jpn": "今日、さよなら"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "1067991",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tokyo-magnitude-8-0/episodes/1067991",
+                    "Titles": {
+                        "eng": "Sis, Listen...",
+                        "jpn": "おねえちゃん、あのね"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "1086361",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tokyo-magnitude-8-0/episodes/1086361",
+                    "Titles": {
+                        "eng": "Dear Yuuki...",
+                        "jpn": "悠貴へ…"
+                    },
+                    "Aliases": []
+                }
+            }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "1"
-        ],
-        "Episodes": [
-            "1067991",
-            "1086361",
-            "978251",
-            "978241"
-        ]
     }
 }
