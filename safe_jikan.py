@@ -289,7 +289,7 @@ class SafeJikan:
 
     async def get_anime(self, mal_id: int, episode_number: Optional[int] = None) -> Optional[MinimalAnime]:
         if not isinstance(mal_id, int) or mal_id <= 0:
-            raise ValueError("mal_id must be a positive integer.")
+            return None
 
         if episode_number is not None:
             return await self._cached_call(self.aio_jikan.anime_episode_by_id, mal_id, episode_number)
@@ -297,9 +297,13 @@ class SafeJikan:
         return await self._get_anime_full(mal_id)
 
     async def get_anime_relations(self, mal_id: int) -> Optional[dict]:
+        if not isinstance(mal_id, int) or mal_id <= 0:
+            return None
+        
         data = await self._get_anime_full(mal_id)
         if not data:
             return None
+        
         return {"data": data.relations}
 
     async def _get_anime_full(self, mal_id: int, visited: bool = False) -> Optional[MinimalAnime]:
@@ -377,6 +381,8 @@ class SafeJikan:
         Fetch all episodes for a given anime ID, handling pagination.
         Results are cached in-memory for the lifetime of SafeJikan.
         """
+        if not isinstance(mal_id, int) or mal_id <= 0:
+            return None
 
         episodes = []
         page = 1

@@ -153,6 +153,9 @@ async def get_mal_episode_count(mal_id: int) -> int | None:
 
 async def get_mal_relations(mal_id: int, offset_eps: int, season_title: str, visited=None) -> int | None:
     """Find related MAL ID that matches season_title name first, then fallback to Sequel. Skips specials."""
+    if mal_id is None:
+        return None
+    
     if visited is None:
         visited = set()
     if mal_id in visited:
