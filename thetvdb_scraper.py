@@ -632,8 +632,11 @@ async def scrape_anime(session: aiohttp.ClientSession, url: str, category: str, 
             await asyncio.sleep(0.5)
         
         if not completed_seasons:
-            print(f"[DROP] Skipping {series_id} entirely (no valid seasons)")
-            return
+            if not anime_data.get("Seasons"):
+                print(f"[DROP] Skipping {series_id} entirely (no valid seasons)")
+                return
+            else:
+                print(f"[INFO] No new seasons added for {series_id}, keeping existing data")
 
         for season_number, season_temp in completed_seasons:
             anime_data["Seasons"][season_number] = season_temp
