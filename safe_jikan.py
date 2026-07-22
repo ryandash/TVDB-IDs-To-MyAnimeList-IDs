@@ -135,8 +135,12 @@ class SafeJikan:
 
             except exceptions.APIException as e:
                 # Handle Jikan rate limit gracefully
-                code = getattr(e, "status_code", getattr(e, "code", None))
-                if code in (429, 500):
+                code = (
+                    getattr(e, "status", None)
+                    or getattr(e, "status_code", None)
+                    or getattr(e, "code", None)
+                )
+                if code in (429, 500, 502, 503, 504):
                     attempt += 1
                     reason = "Rate-limited" if code == 429 else "Server error 500"
                     print(f"[Jikan] {reason} (attempt {attempt}). Retrying in {delay:.1f}s...")
@@ -150,7 +154,11 @@ class SafeJikan:
                     print(f"[Jikan] Non-retryable API error {code}: {e}")
                     raise
 
-            except (asyncio.TimeoutError, Exception) as e:
+            except (
+                asyncio.TimeoutError,
+                aiohttp.ClientError,
+                OSError,
+            ) as e:
                 # Handle network or temporary failures
                 attempt += 1
                 print(f"[Jikan] Request error: {e} (attempt {attempt}). Retrying in {delay:.1f}s...")
