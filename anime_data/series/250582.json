@@ -1,0 +1,82 @@
+{
+    "URL": "https://thetvdb.com/series/kaiketsu-zorro",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0843548/",
+        "https://www.mondotvstudios.com/en/contenidos/the-legend-of-zorro/",
+        "https://www.themoviedb.org/tv/17017"
+    ],
+    "Titles": {
+        "eng": "The Legend of Zorro",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2026-02-06",
+    "Seasons": {
+        "0": {
+            "ID": "470695",
+            "URL": "https://thetvdb.com/series/kaiketsu-zorro/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "99": {
+                    "ID": "6292434",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kaiketsu-zorro/episodes/6292434",
+                    "Titles": {
+                        "eng": "ending",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "100": {
+                    "ID": "6292433",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kaiketsu-zorro/episodes/6292433",
+                    "Titles": {
+                        "eng": "opening",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "101": {
+                    "ID": "9180568",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kaiketsu-zorro/episodes/9180568",
+                    "Titles": {
+                        "eng": "Compilation Movie",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "4141507",
+            "4141506"
+        ]
+    }
+}

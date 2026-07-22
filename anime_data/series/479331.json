@@ -1,0 +1,39 @@
+{
+    "URL": "https://thetvdb.com/series/yuruyuru-zukan",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://www.tv-tokyo.co.jp/anime/yuruyuru/"
+    ],
+    "Titles": {
+        "eng": "Gentle Picture Book",
+        "jpn": "ゆるゆる図鑑"
+    },
+    "Aliases": [],
+    "Modified": "2026-06-17",
+    "Seasons": {
+        "1": {
+            "ID": "2255545",
+            "URL": "https://thetvdb.com/series/yuruyuru-zukan/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11848866",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yuruyuru-zukan/episodes/11848866",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

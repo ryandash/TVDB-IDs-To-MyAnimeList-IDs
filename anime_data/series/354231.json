@@ -1,0 +1,97 @@
+{
+    "URL": "https://thetvdb.com/series/6-angels",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1876229/"
+    ],
+    "Titles": {
+        "eng": "6 Angels",
+        "jpn": null
+    },
+    "Aliases": [],
+    "Modified": "2026-03-29",
+    "Seasons": {
+        "1": {
+            "ID": "782726",
+            "URL": "https://thetvdb.com/series/6-angels/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "6865802",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/6-angels/episodes/6865802",
+                    "Titles": {
+                        "eng": "The Fateful Day - Freefall",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6865803",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/6-angels/episodes/6865803",
+                    "Titles": {
+                        "eng": "Violence Without Respect - Madness - Desire - These Too Are Human",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6865804",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/6-angels/episodes/6865804",
+                    "Titles": {
+                        "eng": "And an Endless Loop of Retribution",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6865805",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/6-angels/episodes/6865805",
+                    "Titles": {
+                        "eng": "Destroyer from the Moon",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6865806",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/6-angels/episodes/6865806",
+                    "Titles": {
+                        "eng": "If People's Hearts Are Evil",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6865807",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/6-angels/episodes/6865807",
+                    "Titles": {
+                        "eng": "God Exists in Heaven - Everything in the World is Non-existant",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

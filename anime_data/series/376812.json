@@ -1,0 +1,95 @@
+{
+    "URL": "https://thetvdb.com/series/376812-another-world",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt10623466/",
+        "https://www.hikaritv.net/sp/another-world/",
+        "https://www.themoviedb.org/tv/92710",
+        "https://x.com/HW_spinoff_AW"
+    ],
+    "Titles": {
+        "eng": "Another World (2019)",
+        "jpn": "アナザー・ワールド"
+    },
+    "Aliases": [
+        "Hello World: Another World"
+    ],
+    "Modified": "2026-06-09",
+    "Seasons": {
+        "0": {
+            "ID": "1820070",
+            "URL": "https://thetvdb.com/series/376812-another-world/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "7690876",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/376812-another-world/episodes/7690876",
+                    "Titles": {
+                        "eng": "Hello World",
+                        "jpn": "HELLO WORLD"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "1820071",
+            "URL": "https://thetvdb.com/series/376812-another-world/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "7582475",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/376812-another-world/episodes/7582475",
+                    "Titles": {
+                        "eng": "Record 2027",
+                        "jpn": "Record 2027"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7582476",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/376812-another-world/episodes/7582476",
+                    "Titles": {
+                        "eng": "Record 2032",
+                        "jpn": "Record 2032"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7582477",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/376812-another-world/episodes/7582477",
+                    "Titles": {
+                        "eng": "Record 2036",
+                        "jpn": "Record 2036"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

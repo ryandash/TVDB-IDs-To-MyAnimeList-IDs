@@ -1,0 +1,62 @@
+{
+    "URL": "https://thetvdb.com/series/happy-world",
+    "Genres": [
+        "Animation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt3508332/",
+        "https://www.themoviedb.org/tv/105870"
+    ],
+    "Titles": {
+        "eng": "Happy World!",
+        "jpn": "Happy World!"
+    },
+    "Aliases": [],
+    "Modified": "2025-12-03",
+    "Seasons": {
+        "1": {
+            "ID": "55411",
+            "URL": "https://thetvdb.com/series/happy-world/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "561701",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/happy-world/episodes/561701",
+                    "Titles": {
+                        "eng": "An Angel Came to Me When I Was Hopeless",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "561711",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/happy-world/episodes/561711",
+                    "Titles": {
+                        "eng": "Chase the Chance",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "561721",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/happy-world/episodes/561721",
+                    "Titles": {
+                        "eng": "Over the Rainbow",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

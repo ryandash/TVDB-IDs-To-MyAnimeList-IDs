@@ -1,0 +1,75 @@
+{
+    "URL": "https://thetvdb.com/series/idol-project",
+    "Genres": [
+        "Animation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt6008864/",
+        "https://www.themoviedb.org/tv/9492"
+    ],
+    "Titles": {
+        "eng": "Idol Project",
+        "jpn": "アイドルプロジェクト"
+    },
+    "Aliases": [
+        "Aidoru purojekuto"
+    ],
+    "Modified": "2026-07-01",
+    "Seasons": {
+        "1": {
+            "ID": "504100",
+            "URL": "https://thetvdb.com/series/idol-project/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "4425240",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/idol-project/episodes/4425240",
+                    "Titles": {
+                        "eng": "Starland Festival",
+                        "jpn": "スターランドフェスティバル"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4425241",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/idol-project/episodes/4425241",
+                    "Titles": {
+                        "eng": "Tropical Paradise",
+                        "jpn": "トロピカルディメンション"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4425243",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/idol-project/episodes/4425243",
+                    "Titles": {
+                        "eng": "Shocking Report",
+                        "jpn": "ショッキングリポート"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4425244",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/idol-project/episodes/4425244",
+                    "Titles": {
+                        "eng": "Final Stage",
+                        "jpn": "ファイナルコンサート"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
