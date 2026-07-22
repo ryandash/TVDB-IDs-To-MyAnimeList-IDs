@@ -1,0 +1,73 @@
+{
+    "URL": "https://thetvdb.com/series/spirit-blade-mountain",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt5330582/",
+        "https://www.themoviedb.org/tv/65206"
+    ],
+    "Titles": {
+        "eng": "Spirit Blade Mountain",
+        "jpn": "霊剣山"
+    },
+    "Aliases": [
+        "-Hoshikuzu-tachi no Utage",
+        "Congqian Youzuo Lingjianshan",
+        "Rei Kenzan Hoshikuzutachi No Utage",
+        "Reikenzan: Eichi e no Shikaku",
+        "Spirit Blade Mountain: Feast of the Stardust",
+        "There was once a Spirit Blade Mountain",
+        "Cóng Qián Yǒu Zuò Líng Jiàn Shān",
+        "Reikenzan: Hoshikuzu-tachi no Utage",
+        "Reikenzan",
+        "霊剣山 星屑たちの宴",
+        "霊剣山 叡智への資格"
+    ],
+    "Modified": "2025-07-16",
+    "Seasons": {
+        "0": {
+            "ID": "648224",
+            "URL": "https://thetvdb.com/series/spirit-blade-mountain/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "10917251",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/spirit-blade-mountain/episodes/10917251",
+                    "Titles": {
+                        "eng": "【Emergency Special】Lingken Mountain Stardust Eve Festival",
+                        "jpn": "【緊急特番】霊剣山　星屑たちの前夜祭"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1",
+            "2"
+        ],
+        "Episodes": [
+            "5466168",
+            "5540666",
+            "5515899",
+            "5541995",
+            "5541996",
+            "5534007",
+            "5466167",
+            "5515900",
+            "5541997"
+        ]
+    }
+}

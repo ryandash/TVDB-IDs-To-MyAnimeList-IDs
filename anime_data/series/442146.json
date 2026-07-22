@@ -1,0 +1,71 @@
+{
+    "URL": "https://thetvdb.com/series/1989",
+    "Genres": [
+        "Anime",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt4672342/",
+        "https://www.themoviedb.org/tv/227269"
+    ],
+    "Titles": {
+        "eng": "Akuma-Kun",
+        "jpn": "悪魔くん (1989)"
+    },
+    "Aliases": [],
+    "Modified": "2026-04-23",
+    "Seasons": {
+        "0": {
+            "ID": "2093842",
+            "URL": "https://thetvdb.com/series/1989/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "10141029",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/1989/episodes/10141029",
+                    "Titles": {
+                        "eng": "Akuma-kun",
+                        "jpn": "悪魔くん"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "10141030",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/1989/episodes/10141030",
+                    "Titles": {
+                        "eng": "Devil Boy: Welcome to Devil Land!!",
+                        "jpn": "悪魔くん ようこそ悪魔ランドへ!!"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "10141071",
+            "10141075",
+            "10141076",
+            "10141072",
+            "10141077",
+            "10141078",
+            "10141074",
+            "10141073"
+        ]
+    }
+}
