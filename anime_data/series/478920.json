@@ -1,0 +1,69 @@
+{
+    "URL": "https://thetvdb.com/series/re-xie-ren-mian-quan-life-is-movie",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Fantasy",
+        "Mystery",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt38487694/",
+        "https://www.themoviedb.org/tv/113057"
+    ],
+    "Titles": {
+        "eng": "Nekketsu Jinmen Inu: Life Is Movie",
+        "jpn": "熱血人面犬 Life Is Movie"
+    },
+    "Aliases": [
+        "Passionate Human Face Dog: Life Is Movie"
+    ],
+    "Modified": "2026-06-08",
+    "Seasons": {
+        "1": {
+            "ID": "2253991",
+            "URL": "https://thetvdb.com/series/re-xie-ren-mian-quan-life-is-movie/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "11831832",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/re-xie-ren-mian-quan-life-is-movie/episodes/11831832",
+                    "Titles": {
+                        "eng": "Episode 1",
+                        "jpn": "第1話"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11831833",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/re-xie-ren-mian-quan-life-is-movie/episodes/11831833",
+                    "Titles": {
+                        "eng": "Episode 2",
+                        "jpn": "第2話"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "11831834",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/re-xie-ren-mian-quan-life-is-movie/episodes/11831834",
+                    "Titles": {
+                        "eng": "Episode 3",
+                        "jpn": "第3話"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

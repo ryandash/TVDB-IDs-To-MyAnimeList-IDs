@@ -1,0 +1,75 @@
+{
+    "URL": "https://thetvdb.com/series/6hp",
+    "Genres": [
+        "Animation",
+        "Anime"
+    ],
+    "Other Sites": [
+        "https://poncotan.jp/works/6hp/"
+    ],
+    "Titles": {
+        "eng": "6HP - Six Hearts Princess",
+        "jpn": "6HP"
+    },
+    "Aliases": [
+        "シックスハートプリンセス",
+        "Six Heart Princesses",
+        "SixHeartsPrincess",
+        "6 ♡ Princess",
+        "Six ♡ Princess"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "1801594",
+            "URL": "https://thetvdb.com/series/6hp/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "8580664",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/6hp/episodes/8580664",
+                    "Titles": {
+                        "eng": "Episode 1 Full CG Alternate Story",
+                        "jpn": "Episode 1 Full CG Alternate Story"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "7465946",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/6hp/episodes/7465946",
+                    "Titles": {
+                        "eng": "Episode 1 Completed Version",
+                        "jpn": "然れども天地の御真名"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "7465962",
+            "7465947",
+            "7465964",
+            "7465948",
+            "7465936",
+            "7465953",
+            "7465957"
+        ]
+    }
+}

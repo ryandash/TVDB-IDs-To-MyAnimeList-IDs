@@ -162,17 +162,149 @@
                     "Aliases": []
                 }
             }
+        },
+        "2": {
+            "ID": "495120",
+            "URL": "https://thetvdb.com/series/medaka-box/seasons/official/2",
+            "Titles": {
+                "eng": "Medaka Box Abnormal",
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "4347658",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/medaka-box/episodes/4347658",
+                    "Titles": {
+                        "eng": "Normal, Special, and Abnormal",
+                        "jpn": "ノーマルと、スペシャルと、アブノーマル"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4414862",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/medaka-box/episodes/4414862",
+                    "Titles": {
+                        "eng": "Sister, Sister, Sister!",
+                        "jpn": "妹・妹・妹だ!"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4414863",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/medaka-box/episodes/4414863",
+                    "Titles": {
+                        "eng": "Crush You Today!",
+                        "jpn": "今日中に叩き潰す!"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4414864",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/medaka-box/episodes/4414864",
+                    "Titles": {
+                        "eng": "The Monster I've Sought",
+                        "jpn": "俺はお前という化け物と"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4414865",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/medaka-box/episodes/4414865",
+                    "Titles": {
+                        "eng": "You Can't Be Killed!",
+                        "jpn": "君の命は殺せない"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4414866",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/medaka-box/episodes/4414866",
+                    "Titles": {
+                        "eng": "Please Become My Something",
+                        "jpn": "俺の何かになってくれ"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4414867",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/medaka-box/episodes/4414867",
+                    "Titles": {
+                        "eng": "The Lovely Name",
+                        "jpn": "黒神くじらという素敵な名前"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4414868",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/medaka-box/episodes/4414868",
+                    "Titles": {
+                        "eng": "I Don't Want to See You Cry",
+                        "jpn": "泣くところなんて見たくない"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4414869",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/medaka-box/episodes/4414869",
+                    "Titles": {
+                        "eng": "Kurokami Medaka (Revised)",
+                        "jpn": "黒神めだか(改)です"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4414870",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/medaka-box/episodes/4414870",
+                    "Titles": {
+                        "eng": "To Make Everyone Happy",
+                        "jpn": "みんなを幸せにするためには"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4414871",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/medaka-box/episodes/4414871",
+                    "Titles": {
+                        "eng": "That's All She Wrote!",
+                        "jpn": "これにて一件落着!"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4414872",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/medaka-box/episodes/4414872",
+                    "Titles": {
+                        "eng": "Good Loser Kumagawa",
+                        "jpn": "番外編 グッドルーザー球磨川 第マイナス十二槽「生徒会を死刑執行する」"
+                    },
+                    "Aliases": []
+                }
+            }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "2"
-        ],
-        "Episodes": [
-            "4414870",
-            "4414868",
-            "4414867",
-            "4414869"
-        ]
     }
 }

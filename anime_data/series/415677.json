@@ -296,23 +296,183 @@
                     "Aliases": []
                 }
             }
+        },
+        "2": {
+            "ID": "2044801",
+            "URL": "https://thetvdb.com/series/bastard-2022/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "pol": "Piekielne requiem"
+            },
+            "# Episodes": 15,
+            "Episodes": {
+                "1": {
+                    "ID": "9817577",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bastard-2022/episodes/9817577",
+                    "Titles": {
+                        "eng": "Rebellion",
+                        "jpn": "叛旗"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9924968",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bastard-2022/episodes/9924968",
+                    "Titles": {
+                        "eng": "Fate",
+                        "jpn": "運命"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "9924969",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bastard-2022/episodes/9924969",
+                    "Titles": {
+                        "eng": "Blue Storm",
+                        "jpn": "青嵐"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9924970",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bastard-2022/episodes/9924970",
+                    "Titles": {
+                        "eng": "Dawn",
+                        "jpn": "黎明"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "9924971",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bastard-2022/episodes/9924971",
+                    "Titles": {
+                        "eng": "Ice and Snow",
+                        "jpn": "氷雪"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "9924972",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bastard-2022/episodes/9924972",
+                    "Titles": {
+                        "eng": "Departure",
+                        "jpn": "出航"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "9924974",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bastard-2022/episodes/9924974",
+                    "Titles": {
+                        "eng": "Teleportation",
+                        "jpn": "転移"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "9924975",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bastard-2022/episodes/9924975",
+                    "Titles": {
+                        "eng": "Magic Land",
+                        "jpn": "魔境"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "9924976",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bastard-2022/episodes/9924976",
+                    "Titles": {
+                        "eng": "Legend",
+                        "jpn": "伝説"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "9924977",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bastard-2022/episodes/9924977",
+                    "Titles": {
+                        "eng": "Distant Thunder",
+                        "jpn": "遠雷"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "9924978",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bastard-2022/episodes/9924978",
+                    "Titles": {
+                        "eng": "Holy War I",
+                        "jpn": "聖戦Ⅰ"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "9924979",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bastard-2022/episodes/9924979",
+                    "Titles": {
+                        "eng": "Holy War II",
+                        "jpn": "聖戦Ⅱ"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "9924980",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bastard-2022/episodes/9924980",
+                    "Titles": {
+                        "eng": "Holy War III",
+                        "jpn": "聖戦Ⅲ"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "9924981",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bastard-2022/episodes/9924981",
+                    "Titles": {
+                        "eng": "Holy War IV",
+                        "jpn": "聖戦Ⅳ"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "9924982",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/bastard-2022/episodes/9924982",
+                    "Titles": {
+                        "eng": "Gathering",
+                        "jpn": "集結"
+                    },
+                    "Aliases": []
+                }
+            }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "2"
-        ],
-        "Episodes": [
-            "9924977",
-            "9924969",
-            "9924976",
-            "9924975",
-            "9924972",
-            "9924971",
-            "9924978",
-            "9924968",
-            "9924974",
-            "9924970"
-        ]
     }
 }

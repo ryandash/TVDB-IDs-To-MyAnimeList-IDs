@@ -1,0 +1,1754 @@
+{
+    "URL": "https://thetvdb.com/series/yu-gi-oh-zexal",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2363624/",
+        "https://tvlistings.zap2it.com/overview.html?programSeriesId=EP01482633",
+        "https://www.themoviedb.org/tv/45854"
+    ],
+    "Titles": {
+        "eng": "Yu-Gi-Oh! Zexal",
+        "jpn": "遊☆戯☆王ゼアル"
+    },
+    "Aliases": [
+        "Yu-Gi-Oh! Zexal II",
+        "遊☆戯☆王ＺＥＸＡＬ",
+        "遊☆戯☆王ゼアルⅡ",
+        "遊☆戯☆王ＺＥＸＡＬⅡ",
+        "遊戯王ZEXAL",
+        "遊戯王ZEXAL II"
+    ],
+    "Modified": "2026-07-08",
+    "Seasons": {
+        "0": {
+            "ID": "548021",
+            "URL": "https://thetvdb.com/series/yu-gi-oh-zexal/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "5187680",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5187680",
+                    "Titles": {
+                        "eng": "Aim for #1 in the World!",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "6803966",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/6803966",
+                    "Titles": {
+                        "eng": "Barian Special Recap",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "3": {
+                    "ID": "11117015",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/11117015",
+                    "Titles": {
+                        "eng": "Barian Special Recap II",
+                        "jpn": "Barian Special Recap II"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        },
+        "1": {
+            "ID": "634248",
+            "URL": "https://thetvdb.com/series/yu-gi-oh-zexal/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "4410442",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4410442",
+                    "Titles": {
+                        "eng": "Go With the Flow: Part 1",
+                        "jpn": "かっとビングだぜ、俺！！"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4497783",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4497783",
+                    "Titles": {
+                        "eng": "Go With the Flow: Part 2",
+                        "jpn": "わが名はアストラル"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4446166",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4446166",
+                    "Titles": {
+                        "eng": "In the End: Part 1",
+                        "jpn": "トドのつまり事件です！！"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4446167",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4446167",
+                    "Titles": {
+                        "eng": "In the End: Part 2",
+                        "jpn": "逆転のカウントダウン！秘策はアストラル!?"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4446168",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4446168",
+                    "Titles": {
+                        "eng": "Flipping Out: Part 1",
+                        "jpn": "デュエルのウラを読むウラ！"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4446165",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4446165",
+                    "Titles": {
+                        "eng": "Flipping Out: Part 2",
+                        "jpn": "裏切のナンバーズ!?"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4497790",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4497790",
+                    "Titles": {
+                        "eng": "The Sparrow: Part 1",
+                        "jpn": "正義の大盤振る舞い！エスパー・ロビン参上!!"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4497794",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4497794",
+                    "Titles": {
+                        "eng": "The Sparrow: Part 2",
+                        "jpn": "スター・ロビンよ永遠に"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4497795",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4497795",
+                    "Titles": {
+                        "eng": "Feline Frenzy",
+                        "jpn": "キャットオドロく猫デッキ!?"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4497796",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4497796",
+                    "Titles": {
+                        "eng": "Shark Attack",
+                        "jpn": "逆襲のシャーク!"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4497797",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4497797",
+                    "Titles": {
+                        "eng": "The Pack: Part 1",
+                        "jpn": "遊馬とシャーク 傷だらけのタッグデュエル"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4497798",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4497798",
+                    "Titles": {
+                        "eng": "The Pack: Part 2",
+                        "jpn": "希望の合体! アーマード・エクシーズ発動!"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4497799",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4497799",
+                    "Titles": {
+                        "eng": "The Number Hunter: Part 1",
+                        "jpn": "魂を狩る者! ナンバーズ・ハンター現る!"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4497800",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4497800",
+                    "Titles": {
+                        "eng": "The Number Hunter: Part 2",
+                        "jpn": "銀河眼の光子竜』降臨!"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4497801",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4497801",
+                    "Titles": {
+                        "eng": "Training Days: Part 1",
+                        "jpn": "死闘、決闘庵 伝説のモンスター復活!!"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4497802",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4497802",
+                    "Titles": {
+                        "eng": "Training Days: Part 2",
+                        "jpn": "必殺忍法! 最恐忍者あらわる!"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4497803",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4497803",
+                    "Titles": {
+                        "eng": "It's in the Cards: Part 1",
+                        "jpn": "すべてを見通す者 恐怖の占い師・ジン"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4497804",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4497804",
+                    "Titles": {
+                        "eng": "It's in the Cards: Part 2",
+                        "jpn": "カオスエクシーズ・チェンジ! 希望の光ホープ・レイ!!"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4497805",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4497805",
+                    "Titles": {
+                        "eng": "The Edge of the World",
+                        "jpn": "約束のかっとビング"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4497806",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4497806",
+                    "Titles": {
+                        "eng": "Roots of the Problem",
+                        "jpn": "漆黒のナンバーズ 闇遊馬vs鉄男"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4776641",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4776641",
+                    "Titles": {
+                        "eng": "Battle with the Bot",
+                        "jpn": "遊馬VSお掃除ロボット オボミ"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4776642",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4776642",
+                    "Titles": {
+                        "eng": "The Shark Hunter",
+                        "jpn": "奪われた皇の鍵! 激突カイトvsシャーク"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4776643",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4776643",
+                    "Titles": {
+                        "eng": "Hunting Down The Hunter: Part 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "4776644",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4776644",
+                    "Titles": {
+                        "eng": "Hunting Down The Hunter: Part 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "4776645",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4776645",
+                    "Titles": {
+                        "eng": "Frozen in Time",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "668091",
+            "URL": "https://thetvdb.com/series/yu-gi-oh-zexal/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 24,
+            "Episodes": {
+                "1": {
+                    "ID": "4866705",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4866705",
+                    "Titles": {
+                        "eng": "Let the Duels Begin",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4866706",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4866706",
+                    "Titles": {
+                        "eng": "A Team Performance",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4866708",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4866708",
+                    "Titles": {
+                        "eng": "Heavy Metal",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4866709",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4866709",
+                    "Titles": {
+                        "eng": "Love Hurts",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4866710",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4866710",
+                    "Titles": {
+                        "eng": "No Tomato",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4866711",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4866711",
+                    "Titles": {
+                        "eng": "Life Is a Carnival: Part 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4866712",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4866712",
+                    "Titles": {
+                        "eng": "Life Is a Carnival: Part 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4866713",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4866713",
+                    "Titles": {
+                        "eng": "Foolish Fans",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4866714",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4866714",
+                    "Titles": {
+                        "eng": "Shark Bait",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4866718",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4866718",
+                    "Titles": {
+                        "eng": "Bad Developments: Part 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4866721",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4866721",
+                    "Titles": {
+                        "eng": "Bad Developments: Part 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4866724",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4866724",
+                    "Titles": {
+                        "eng": "Double Jeopardy: Part 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4866725",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4866725",
+                    "Titles": {
+                        "eng": "Double Jeopardy: Part 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4866726",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4866726",
+                    "Titles": {
+                        "eng": "Pets Peeved",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4866727",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4866727",
+                    "Titles": {
+                        "eng": "About Hart",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4866730",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4866730",
+                    "Titles": {
+                        "eng": "Losing Hart",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4866734",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4866734",
+                    "Titles": {
+                        "eng": "A Dubious Duo",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4866739",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4866739",
+                    "Titles": {
+                        "eng": "The Dragon Awakens",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4866741",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4866741",
+                    "Titles": {
+                        "eng": "Rock and a Hard Place",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4866747",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4866747",
+                    "Titles": {
+                        "eng": "Ruffled Feathers",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4866750",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4866750",
+                    "Titles": {
+                        "eng": "Family Leave",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4866751",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4866751",
+                    "Titles": {
+                        "eng": "Sky's the Limit",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4866752",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4866752",
+                    "Titles": {
+                        "eng": "Exit (Astral)",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "4866753",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/4866753",
+                    "Titles": {
+                        "eng": "Crestfallen",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "1805207",
+            "URL": "https://thetvdb.com/series/yu-gi-oh-zexal/seasons/official/3",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 24,
+            "Episodes": {
+                "1": {
+                    "ID": "5208078",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5208078",
+                    "Titles": {
+                        "eng": "Party Panic",
+                        "jpn": "波乱の前夜祭！姿を現した悪魔の決闘者・トロン"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5208079",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5208079",
+                    "Titles": {
+                        "eng": "Roller Duel",
+                        "jpn": "行くぜ決勝大会！デュエル・コースターでGO！"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5208080",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5208080",
+                    "Titles": {
+                        "eng": "Roller Coaster Rampage",
+                        "jpn": "デュエル・コースターVS爆走列車!!"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5208081",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5208081",
+                    "Titles": {
+                        "eng": "Test Your Luck",
+                        "jpn": "運命のレール 罠カードで運試し!?"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5208082",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5208082",
+                    "Titles": {
+                        "eng": "Welcome to the Jungle",
+                        "jpn": "トロンVSドロワ 死蝶の誘い！命懸けのヂャンガルフィールド"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5208083",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5208083",
+                    "Titles": {
+                        "eng": "Portal of Doom",
+                        "jpn": "ギャラクシー・アイズ封印!? 宇宙級ナンバーズあらわる！"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5208085",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5208085",
+                    "Titles": {
+                        "eng": "Cosmic Chaos",
+                        "jpn": "宇宙大決戦！ネオ・ギャラクシーアイズの逆襲"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5208087",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5208087",
+                    "Titles": {
+                        "eng": "Depths of Darkness",
+                        "jpn": "シャーク撃沈！悪夢のファンサービス"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5208088",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5208088",
+                    "Titles": {
+                        "eng": "Swimming with Sharks",
+                        "jpn": "シャーク覚醒！新たなるカオス・ナンバーズあらわる"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5208089",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5208089",
+                    "Titles": {
+                        "eng": "Rockin' and Rollin'",
+                        "jpn": "激戦！遊馬VSゴーシュ これがオレのデュエル魂"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5208090",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5208090",
+                    "Titles": {
+                        "eng": "Doctor Visit",
+                        "jpn": "決戦への序章　新たなる敵Dr.フェイカー"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5208092",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5208092",
+                    "Titles": {
+                        "eng": "Duel of Destiny: Part 1",
+                        "jpn": "消えかけた絆！遊馬VSシャーク、宿命の決闘！！"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "5208094",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5208094",
+                    "Titles": {
+                        "eng": "Duel of Destiny: Part 2",
+                        "jpn": "蘇れシャーク！絆に懸けた「かっとビング！」"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "5208099",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5208099",
+                    "Titles": {
+                        "eng": "The Hart of the Matter",
+                        "jpn": "恐るべき闇の策略！暴かれたトロンの正体!?"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "5208100",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5208100",
+                    "Titles": {
+                        "eng": "Change of Hart",
+                        "jpn": "ネオギャラクシーアイズ咆哮！ 闇を砕く兄弟の絆！"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "5208101",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5208101",
+                    "Titles": {
+                        "eng": "Sphere of Fear: Part 1",
+                        "jpn": "ナンバーズ総力戦！ 遊馬VSトロン！驚異の超異空間デュエル！"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "5208102",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5208102",
+                    "Titles": {
+                        "eng": "Sphere of Fear: Part 2",
+                        "jpn": "戦慄のデュエル！立ち上がれ絆の英雄ゼアル!!!"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "5208103",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5208103",
+                    "Titles": {
+                        "eng": "Sphere of Fear: Part 3",
+                        "jpn": "勝利を信じて！ファイナル・シャイニング・ドロー！"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "5208104",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5208104",
+                    "Titles": {
+                        "eng": "The Countdown Begins",
+                        "jpn": "崩壊への序曲 スフィア・フィールド砲の脅威！"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "5208105",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5208105",
+                    "Titles": {
+                        "eng": "A Trio's Challenge: Part 1",
+                        "jpn": "集いし三勇士(さんゆうし)、 未来を賭けたラストデュエル！"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "5208106",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5208106",
+                    "Titles": {
+                        "eng": "A Trio's Challenge: Part 2",
+                        "jpn": "戦慄の最凶龍現る！偽骸神龍ハートアース・ドラゴン"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "5208107",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5208107",
+                    "Titles": {
+                        "eng": "A Trio's Challenge: Part 3",
+                        "jpn": "奇跡のかっとビング！未来を切り開けゼアル!!"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "5208108",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5208108",
+                    "Titles": {
+                        "eng": "Kite's Plight: Part 1",
+                        "jpn": "雌雄決する時！！遊馬VSカイト、WDCもう一つの決勝戦！"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "5208109",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5208109",
+                    "Titles": {
+                        "eng": "Kite's Plight: Part 2",
+                        "jpn": "幻の大激突！！ダブル希望皇VSダブル銀河眼！！"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "4": {
+            "ID": "2014387",
+            "URL": "https://thetvdb.com/series/yu-gi-oh-zexal/seasons/official/4",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "5623584",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623584",
+                    "Titles": {
+                        "eng": "Attack of the Barians: Part 1",
+                        "jpn": "バリアン襲来! 驚愕のカオス・エクシーズ・チェンジ!!"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5623585",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623585",
+                    "Titles": {
+                        "eng": "Attack of the Barians: Part 2",
+                        "jpn": "揃え勝利の方程式　打ち砕けカオス・エクシーズ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5623586",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623586",
+                    "Titles": {
+                        "eng": "Hard Knox",
+                        "jpn": "よかれと思ってただいま参上! 真月零と申します"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5623587",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623587",
+                    "Titles": {
+                        "eng": "Rule Duel",
+                        "jpn": "デュエルの乱れは校則違反!? 出撃！ 特命風紀コマンダー"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5623588",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623588",
+                    "Titles": {
+                        "eng": "The Adventures of Artimus Stanleyus",
+                        "jpn": "シャーク激昂!! 捕らわれた妹を救え！"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5623589",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623589",
+                    "Titles": {
+                        "eng": "Doom in Bloom",
+                        "jpn": "氷結乱舞!! 氷の女王 神代璃緒"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5623590",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623590",
+                    "Titles": {
+                        "eng": "Rivals in the Ring",
+                        "jpn": "猛攻タイマンバトル!! 遊馬 VS 不屈の闘士アリト"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5623591",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623591",
+                    "Titles": {
+                        "eng": "The Friendship Games",
+                        "jpn": "小鳥がカオスエクシーズ・チェンジ!? 波乱のスポーツデュエル大会"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5623592",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623592",
+                    "Titles": {
+                        "eng": "Sphere Cube Calamity: Part 1",
+                        "jpn": "孤高のバリアン騎士 銀河眼使いミザエル現る"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5623593",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623593",
+                    "Titles": {
+                        "eng": "Sphere Cube Calamity: Part 2",
+                        "jpn": "超弩級次元竜!! 銀河眼の時空竜"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5623594",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623594",
+                    "Titles": {
+                        "eng": "Playing Defense",
+                        "jpn": "蘇れ!!遊馬VSシャーク復活の決闘"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5623595",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623595",
+                    "Titles": {
+                        "eng": "Counter Offensive: Part 1",
+                        "jpn": "疾風迅雷のカウンターバトル！決意の闘士アリト"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "5623596",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623596",
+                    "Titles": {
+                        "eng": "Counter Offensive: Part 2",
+                        "jpn": "唸れ！カオス・ナンバーズ　遊馬に向けたファイナルブロー"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "5623597",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623597",
+                    "Titles": {
+                        "eng": "Dual Duel: Part 1",
+                        "jpn": "ギラグ猛襲！炸裂、秘孔死爆無惚"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "5623598",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623598",
+                    "Titles": {
+                        "eng": "Dual Duel: Part 2",
+                        "jpn": "Vの鼓動　超新生ホープレイV!!"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "5623599",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623599",
+                    "Titles": {
+                        "eng": "Darkness Dawns",
+                        "jpn": "共闘ダークアストラル　影の巨人への挑戦！！"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "5623600",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623600",
+                    "Titles": {
+                        "eng": "You Give Love a Bot Name",
+                        "jpn": "オボミ奪還作戦！？恋スルオイラハ無敵デアリマス"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "5623601",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623601",
+                    "Titles": {
+                        "eng": "Take a Chance",
+                        "jpn": "シャークvs璃緒　100戦目の喧嘩デュエル!!"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "5623602",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623602",
+                    "Titles": {
+                        "eng": "An Imperfect Couple: Part 1",
+                        "jpn": "激戦カップルデュエル　｢アンナ奴｣と俺がタッグ!?"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "5623603",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623603",
+                    "Titles": {
+                        "eng": "An Imperfect Couple: Part 2",
+                        "jpn": "献身的な愛　遊馬に託したラストドロー!!"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "5623604",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623604",
+                    "Titles": {
+                        "eng": "Enter Vector",
+                        "jpn": "裏目の危機！暗躍者ベクターの襲撃"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "5623605",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623605",
+                    "Titles": {
+                        "eng": "The Search for Shadows",
+                        "jpn": "いざ決戦の地へ！皇の鍵の飛行船、発進！！"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "5623606",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623606",
+                    "Titles": {
+                        "eng": "Shadows of Deception",
+                        "jpn": "狂気のベクター 魔境サルガッソの闘い！"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "5623607",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623607",
+                    "Titles": {
+                        "eng": "Sinister Shadows",
+                        "jpn": "敗北へのカウントダウン！ デッキ破壊の恐怖"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "5623608",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623608",
+                    "Titles": {
+                        "eng": "Shadows End",
+                        "jpn": "限界突破!!「希望皇ホープレイ・ヴィクトリー」"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "5": {
+            "ID": "2014492",
+            "URL": "https://thetvdb.com/series/yu-gi-oh-zexal/seasons/official/5",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "5623609",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623609",
+                    "Titles": {
+                        "eng": "A Duel in Ruins: Part 1",
+                        "jpn": "飛行船再起動! 伝説のNo.を目指せ!!"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5623610",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623610",
+                    "Titles": {
+                        "eng": "A Duel in Ruins: Part 2",
+                        "jpn": "古への追憶 ドルベと白馬伝説の幻影"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5623611",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623611",
+                    "Titles": {
+                        "eng": "The Dark Mist Rises: Part 1",
+                        "jpn": "狡猾なるベクター アストラル VS No. 96"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5623612",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623612",
+                    "Titles": {
+                        "eng": "The Dark Mist Rises: Part 2",
+                        "jpn": "混沌(カオス)の領域 No.96狂気の化身!!"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5623613",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623613",
+                    "Titles": {
+                        "eng": "Barian Vengeance: Part 1",
+                        "jpn": "沈黙の闘士アリト熱き決闘者たちの再会！"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5623614",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623614",
+                    "Titles": {
+                        "eng": "Barian Vengeance: Part 2",
+                        "jpn": "よみがえれ！ 命を超えし決闘者魂!!"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5623615",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623615",
+                    "Titles": {
+                        "eng": "Put to the Test: Part 1",
+                        "jpn": "銀河眼使いへの試練！カイト決死のデュエル"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5623616",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623616",
+                    "Titles": {
+                        "eng": "Put to the Test: Part 2",
+                        "jpn": "ミザエル伝説！ No.となった神の龍"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5623617",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623617",
+                    "Titles": {
+                        "eng": "Furry Fury",
+                        "jpn": "化かされた遊馬!? ギラグ狸の皮算用"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5623618",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623618",
+                    "Titles": {
+                        "eng": "A Sea of Troubles: Part 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5623619",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623619",
+                    "Titles": {
+                        "eng": "A Sea of Troubles: Part 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5623620",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623620",
+                    "Titles": {
+                        "eng": "A World of Chaos: Part 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "5623621",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623621",
+                    "Titles": {
+                        "eng": "A World of Chaos: Part 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "5623622",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623622",
+                    "Titles": {
+                        "eng": "Memory Thief: Part 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "5623623",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623623",
+                    "Titles": {
+                        "eng": "Memory Thief: Part 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "5623624",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623624",
+                    "Titles": {
+                        "eng": "Tentacles of Terror: Part 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "5623625",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623625",
+                    "Titles": {
+                        "eng": "Tentacles of Terror: Part 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "5623626",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623626",
+                    "Titles": {
+                        "eng": "Now or Never: Part 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "5623627",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623627",
+                    "Titles": {
+                        "eng": "Now or Never: Part 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "5623628",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623628",
+                    "Titles": {
+                        "eng": "Mission: Astral World, Part 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "5623629",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623629",
+                    "Titles": {
+                        "eng": "Mission: Astral World, Part 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "5623630",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623630",
+                    "Titles": {
+                        "eng": "Mission: Astral World, Part 3",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "5623631",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623631",
+                    "Titles": {
+                        "eng": "Mission: Astral World, Part 4",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "5623632",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623632",
+                    "Titles": {
+                        "eng": "Assimilation: Part 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "5623633",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623633",
+                    "Titles": {
+                        "eng": "Assimilation: Part 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "6": {
+            "ID": "2014493",
+            "URL": "https://thetvdb.com/series/yu-gi-oh-zexal/seasons/official/6",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 23,
+            "Episodes": {
+                "1": {
+                    "ID": "5623634",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623634",
+                    "Titles": {
+                        "eng": "Battle with the Barians",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5623635",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623635",
+                    "Titles": {
+                        "eng": "Fight for a Friend",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5623636",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623636",
+                    "Titles": {
+                        "eng": "Farewell for a Friend",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5623637",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623637",
+                    "Titles": {
+                        "eng": "Settling the Score: Part 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5623638",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623638",
+                    "Titles": {
+                        "eng": "Settling the Score: Part 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5623639",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623639",
+                    "Titles": {
+                        "eng": "Fists of Fury: Part 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5623640",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623640",
+                    "Titles": {
+                        "eng": "Fists of Fury: Part 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5623641",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623641",
+                    "Titles": {
+                        "eng": "Power Play",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5623642",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623642",
+                    "Titles": {
+                        "eng": "Barian vs. Barian",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5623643",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623643",
+                    "Titles": {
+                        "eng": "Vector the Victor",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5623644",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623644",
+                    "Titles": {
+                        "eng": "Dragon Strife: Part 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5623645",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623645",
+                    "Titles": {
+                        "eng": "Dragon Strife: Part 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "5623646",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623646",
+                    "Titles": {
+                        "eng": "The Forsaken Palace",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "5623647",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623647",
+                    "Titles": {
+                        "eng": "Clash of the Emperors",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "5623648",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623648",
+                    "Titles": {
+                        "eng": "The New World",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "5623649",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623649",
+                    "Titles": {
+                        "eng": "The Source Code",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "5623650",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623650",
+                    "Titles": {
+                        "eng": "A Thousand Ways to Lose",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "5623651",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623651",
+                    "Titles": {
+                        "eng": "The Fate of Three Worlds",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "5623652",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623652",
+                    "Titles": {
+                        "eng": "The Battle of Three Worlds",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "5623653",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623653",
+                    "Titles": {
+                        "eng": "The Future of Three Worlds",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "5623654",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623654",
+                    "Titles": {
+                        "eng": "Last First Duel",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "5623655",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623655",
+                    "Titles": {
+                        "eng": "Outclassed and Outmatched",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "5623656",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yu-gi-oh-zexal/episodes/5623656",
+                    "Titles": {
+                        "eng": "Forever Zexal",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

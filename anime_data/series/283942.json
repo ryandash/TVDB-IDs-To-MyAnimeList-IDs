@@ -1,0 +1,385 @@
+{
+    "URL": "https://thetvdb.com/series/yona-of-the-dawn",
+    "Genres": [
+        "Adaptation",
+        "Anime - Shojo",
+        "Political"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt3957196/",
+        "http://marv.jp/special/yona/",
+        "https://www.themoviedb.org/tv/61461",
+        "https://x.com/yona_anime"
+    ],
+    "Titles": {
+        "eng": "Yona of the Dawn",
+        "jpn": "暁のヨナ"
+    },
+    "Aliases": [
+        "Akatsuki no Yona",
+        "AkaYona"
+    ],
+    "Modified": "2026-06-14",
+    "Seasons": {
+        "0": {
+            "ID": "591528",
+            "URL": "https://thetvdb.com/series/yona-of-the-dawn/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "5166840",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5166840",
+                    "Titles": {
+                        "eng": "On That Back",
+                        "jpn": "その背には"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "5677716",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5677716",
+                    "Titles": {
+                        "eng": "The Yellow Dragon's (Zeno's) Past, Part 1: The Starting Dragon",
+                        "jpn": "黄龍ゼノ過去編 前編 「はじまりの龍」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "3": {
+                    "ID": "5677717",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5677717",
+                    "Titles": {
+                        "eng": "The Yellow Dragon's (Zeno's) Past, Part 2: The Red Star Rises",
+                        "jpn": "黄龍ゼノ過去編 後編 「あかい星が昇る」 ／ 「今日はおやすみ」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                },
+                "4": {
+                    "ID": "6205671",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/6205671",
+                    "Titles": {
+                        "eng": "Good Night for Today",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "591529",
+            "URL": "https://thetvdb.com/series/yona-of-the-dawn/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 24,
+            "Episodes": {
+                "1": {
+                    "ID": "4937659",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/4937659",
+                    "Titles": {
+                        "eng": "Princess Yona",
+                        "jpn": "王女ヨナ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5000372",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5000372",
+                    "Titles": {
+                        "eng": "Broken Bond",
+                        "jpn": "ちぎれた絆"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5000373",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5000373",
+                    "Titles": {
+                        "eng": "Faraway Sky",
+                        "jpn": "遠い空"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5000374",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5000374",
+                    "Titles": {
+                        "eng": "The Wind Clan",
+                        "jpn": "風の部族"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5000375",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5000375",
+                    "Titles": {
+                        "eng": "Roar",
+                        "jpn": "咆哮"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5000376",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5000376",
+                    "Titles": {
+                        "eng": "The Crimson Hair",
+                        "jpn": "紅い髪"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5000377",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5000377",
+                    "Titles": {
+                        "eng": "Fate",
+                        "jpn": "天命"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5000378",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5000378",
+                    "Titles": {
+                        "eng": "The Chosen Door",
+                        "jpn": "選んだ扉"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5000379",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5000379",
+                    "Titles": {
+                        "eng": "Wavering Determination",
+                        "jpn": "ふるえる覚悟"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5000380",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5000380",
+                    "Titles": {
+                        "eng": "Yearn",
+                        "jpn": "待望"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5000381",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5000381",
+                    "Titles": {
+                        "eng": "The Dragon's Claws",
+                        "jpn": "龍の爪"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5000382",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5000382",
+                    "Titles": {
+                        "eng": "The Blindfolded Dragon",
+                        "jpn": "目隠しの龍"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "5075437",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5075437",
+                    "Titles": {
+                        "eng": "The Rippling Fear",
+                        "jpn": "反響する恐怖"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "5075438",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5075438",
+                    "Titles": {
+                        "eng": "Light",
+                        "jpn": "光"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "5075439",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5075439",
+                    "Titles": {
+                        "eng": "To a New Land",
+                        "jpn": "新たな地へ"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "5075440",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5075440",
+                    "Titles": {
+                        "eng": "Pretend-War",
+                        "jpn": "戦ごっこ"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "5075688",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5075688",
+                    "Titles": {
+                        "eng": "The Pirates of Awa",
+                        "jpn": "阿波の海賊"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "5075689",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5075689",
+                    "Titles": {
+                        "eng": "Bond",
+                        "jpn": "縁"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "5119683",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5119683",
+                    "Titles": {
+                        "eng": "Trial of the Cheonsu Plant",
+                        "jpn": "千樹草の試し"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "5119684",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5119684",
+                    "Titles": {
+                        "eng": "Chain of Courage",
+                        "jpn": "勇気の連鎖"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "5119685",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5119685",
+                    "Titles": {
+                        "eng": "Spark",
+                        "jpn": "火花"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "5119686",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5119686",
+                    "Titles": {
+                        "eng": "History Is Made At Night",
+                        "jpn": "歴史は夜作られる"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "5119687",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5119687",
+                    "Titles": {
+                        "eng": "Morning of Pledges",
+                        "jpn": "誓いの朝"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "5119688",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/5119688",
+                    "Titles": {
+                        "eng": "From Here On",
+                        "jpn": "これから"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "2222233",
+            "URL": "https://thetvdb.com/series/yona-of-the-dawn/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11516504",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yona-of-the-dawn/episodes/11516504",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

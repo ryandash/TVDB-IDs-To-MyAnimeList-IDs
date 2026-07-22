@@ -320,16 +320,149 @@
                     "Aliases": []
                 }
             }
+        },
+        "2": {
+            "ID": "2130664",
+            "URL": "https://thetvdb.com/series/mokushiroku-no-yon-kishi/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "10523133",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mokushiroku-no-yon-kishi/episodes/10523133",
+                    "Titles": {
+                        "eng": "The Power of the King",
+                        "jpn": "王の威光"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10733403",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mokushiroku-no-yon-kishi/episodes/10733403",
+                    "Titles": {
+                        "eng": "Prepared to Part Ways",
+                        "jpn": "別れの決意"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10733404",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mokushiroku-no-yon-kishi/episodes/10733404",
+                    "Titles": {
+                        "eng": "Guinevere",
+                        "jpn": "ギネヴィア"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "10733406",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mokushiroku-no-yon-kishi/episodes/10733406",
+                    "Titles": {
+                        "eng": "Confrontation",
+                        "jpn": "対峙"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "10733408",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mokushiroku-no-yon-kishi/episodes/10733408",
+                    "Titles": {
+                        "eng": "City of Battle",
+                        "jpn": "壁の町の戦い"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "10733410",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mokushiroku-no-yon-kishi/episodes/10733410",
+                    "Titles": {
+                        "eng": "Flames of Reminiscence",
+                        "jpn": "追想の炎"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "10733412",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mokushiroku-no-yon-kishi/episodes/10733412",
+                    "Titles": {
+                        "eng": "The Crazed King",
+                        "jpn": "狂王"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "10733413",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mokushiroku-no-yon-kishi/episodes/10733413",
+                    "Titles": {
+                        "eng": "Savior",
+                        "jpn": "救い主様"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "10733414",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mokushiroku-no-yon-kishi/episodes/10733414",
+                    "Titles": {
+                        "eng": "Behemoth of Calamity",
+                        "jpn": "災いのベヒモス"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "10733415",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mokushiroku-no-yon-kishi/episodes/10733415",
+                    "Titles": {
+                        "eng": "Wavering Hearts",
+                        "jpn": "揺れるココロ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "10733416",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mokushiroku-no-yon-kishi/episodes/10733416",
+                    "Titles": {
+                        "eng": "The Boy of Destiny",
+                        "jpn": "宿命の少年"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "10874520",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/mokushiroku-no-yon-kishi/episodes/10874520",
+                    "Titles": {
+                        "eng": "Banquet for Braves",
+                        "jpn": "強者たちの宴"
+                    },
+                    "Aliases": []
+                }
+            }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "2"
-        ],
-        "Episodes": [
-            "10733416",
-            "10874520",
-            "10733415"
-        ]
     }
 }

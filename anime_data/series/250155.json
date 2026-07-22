@@ -1,0 +1,78 @@
+{
+    "URL": "https://thetvdb.com/series/a-penguins-troubles",
+    "Genres": [
+        "Adult Animation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt12448306/",
+        "https://www.themoviedb.org/tv/104398",
+        "https://www.themoviedb.org/tv/104398"
+    ],
+    "Titles": {
+        "eng": "A Penguin's Troubles",
+        "jpn": "ペンギンの問題"
+    },
+    "Aliases": [],
+    "Modified": "2011-07-13",
+    "Seasons": {
+        "0": {
+            "ID": "469614",
+            "URL": "https://thetvdb.com/series/a-penguins-troubles/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "4131180",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/a-penguins-troubles/episodes/4131180",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "授賞式の問題"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "2": {
+                    "ID": "4131179",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/a-penguins-troubles/episodes/4131179",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "リクエストの問題"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                },
+                "3": {
+                    "ID": "4300844",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/a-penguins-troubles/episodes/4300844",
+                    "Titles": {
+                        "eng": "A Penguin's Troubles - The Movie",
+                        "jpn": "劇場版ペンギンの問題　幸せの青い鳥でごペンなさい"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "5200818",
+            "5200819"
+        ]
+    }
+}

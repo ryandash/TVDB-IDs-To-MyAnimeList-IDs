@@ -1,0 +1,38 @@
+{
+    "URL": "https://thetvdb.com/series/342601-show",
+    "Genres": [
+        "Animation",
+        "Fantasy"
+    ],
+    "Other Sites": [],
+    "Titles": {
+        "eng": "It's My Life",
+        "jpn": "It's My Life"
+    },
+    "Aliases": [],
+    "Modified": "2023-05-21",
+    "Seasons": {
+        "1": {
+            "ID": "1853975",
+            "URL": "https://thetvdb.com/series/342601-show/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "8154411",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/342601-show/episodes/8154411",
+                    "Titles": {
+                        "eng": "Episode 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

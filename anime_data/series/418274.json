@@ -1,0 +1,66 @@
+{
+    "URL": "https://thetvdb.com/series/starscollection",
+    "Genres": [
+        "Animation",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://holostars.hololivepro.com/",
+        "http://www.reddit.com/r/Holostars",
+        "https://x.com/holostarstv",
+        "https://www.youtube.com/c/UCWsfcksUUpoEvhia0_ut0bA"
+    ],
+    "Titles": {
+        "eng": "Stars*Collection!",
+        "jpn": "スターズ＊これくしょん！"
+    },
+    "Aliases": [],
+    "Modified": "2024-09-14",
+    "Seasons": {
+        "0": {
+            "ID": "1992074",
+            "URL": "https://thetvdb.com/series/starscollection/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "10271044",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/starscollection/episodes/10271044",
+                    "Titles": {
+                        "eng": "Something's About To Start!",
+                        "jpn": "何かがはじまる！？"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "10271045",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/starscollection/episodes/10271045",
+                    "Titles": {
+                        "eng": "Let's Watch the Previous Videos and Talk About Them Special!",
+                        "jpn": "これまでの作品をイッキ見してワイワイ語ろうSP！"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "9273907"
+        ]
+    }
+}

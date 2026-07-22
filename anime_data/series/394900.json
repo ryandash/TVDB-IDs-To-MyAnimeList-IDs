@@ -1,0 +1,88 @@
+{
+    "URL": "https://thetvdb.com/series/394900-",
+    "Genres": [
+        "Adaptation",
+        "Coming of Age",
+        "Xianxia"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt14986786/",
+        "https://v.qq.com/detail/m/mcv8hkc8zk8lnov.html",
+        "https://www.tvmaze.com/shows/54894/show-slug",
+        "https://www.themoviedb.org/tv/124003",
+        "https://www.wikidata.org/wiki/Q136744784"
+    ],
+    "Titles": {
+        "eng": "Perfect World (2021)",
+        "jpn": null
+    },
+    "Aliases": [
+        "Perfect World (Donghua)",
+        "Perfect World (Anime)",
+        "Perfect World (2021)",
+        "Perfect World",
+        "Wanmei Shijie"
+    ],
+    "Modified": "2026-06-07",
+    "Seasons": {
+        "0": {
+            "ID": "1893295",
+            "URL": "https://thetvdb.com/series/394900-/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "10698485",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/394900-/episodes/10698485",
+                    "Titles": {
+                        "eng": "Perfect World Theater Edition - Embers of Fire (Part1)",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 3
+                },
+                "2": {
+                    "ID": "10698486",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/394900-/episodes/10698486",
+                    "Titles": {
+                        "eng": "Perfect World Theater Edition - Embers of Fire (Part2)",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 3
+                },
+                "3": {
+                    "ID": "10698487",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/394900-/episodes/10698487",
+                    "Titles": {
+                        "eng": "Perfect World Theater Edition - Embers of Fire (Part3)",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 3
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "9525291",
+            "9525292"
+        ]
+    }
+}

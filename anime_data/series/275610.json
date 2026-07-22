@@ -1,0 +1,392 @@
+{
+    "URL": "https://thetvdb.com/series/noragami",
+    "Genres": [
+        "Adaptation",
+        "Anime - Shonen",
+        "Paranormal",
+        "Urban"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt3225270/",
+        "https://noragami-anime.net/",
+        "https://www.tvmaze.com/shows/4218/show-slug",
+        "https://www.themoviedb.org/tv/64710",
+        "https://en.wikipedia.org/wiki/Noragami",
+        "https://x.com/noragami_PR"
+    ],
+    "Titles": {
+        "eng": "Noragami",
+        "jpn": "ノラガミ"
+    },
+    "Aliases": [
+        "Noragami Aragoto",
+        "Noragami: Stray God"
+    ],
+    "Modified": "2026-07-01",
+    "Seasons": {
+        "0": {
+            "ID": "568412",
+            "URL": "https://thetvdb.com/series/noragami/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "4720059",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/4720059",
+                    "Titles": {
+                        "eng": "God's Possession, God's Curse",
+                        "jpn": "神憑り、神祟り  [Kamigakari, Kamitatari]"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "4720060",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/4720060",
+                    "Titles": {
+                        "eng": "A Promise in Spring",
+                        "jpn": "春の日の約束  [Haru no hi no yakusoku]"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "5353969",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/5353969",
+                    "Titles": {
+                        "eng": "The Yatogami Serial Murder Incident Noragami Suspense Theatre",
+                        "jpn": "ノラガミサスペンス劇場 夜ト神連続殺人事件"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "5413143",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/5413143",
+                    "Titles": {
+                        "eng": "A Picture Together",
+                        "jpn": "一緒に写真を"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "568413",
+            "URL": "https://thetvdb.com/series/noragami/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "4720069",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/4720069",
+                    "Titles": {
+                        "eng": "A Housecat, a Stray God, and a Tail",
+                        "jpn": "家猫と野良神と尻尾"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4720070",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/4720070",
+                    "Titles": {
+                        "eng": "Snow-like",
+                        "jpn": "雪のような"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4759428",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/4759428",
+                    "Titles": {
+                        "eng": "Bidden Calamity",
+                        "jpn": "招かれた厄災"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4759429",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/4759429",
+                    "Titles": {
+                        "eng": "Where Happiness Lies",
+                        "jpn": "しあわせの在処(ありか)"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4759430",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/4759430",
+                    "Titles": {
+                        "eng": "Borderline",
+                        "jpn": "境界線"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4759431",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/4759431",
+                    "Titles": {
+                        "eng": "Scary Person",
+                        "jpn": "コワイヒト"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4759432",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/4759432",
+                    "Titles": {
+                        "eng": "Uncertainty & Destiny",
+                        "jpn": "迷い事、定め事"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4759433",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/4759433",
+                    "Titles": {
+                        "eng": "Over the Line",
+                        "jpn": "一線を越えて"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4759434",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/4759434",
+                    "Titles": {
+                        "eng": "Name",
+                        "jpn": "名前"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4759435",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/4759435",
+                    "Titles": {
+                        "eng": "Regarded with Hate",
+                        "jpn": "忌むべき者"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4759436",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/4759436",
+                    "Titles": {
+                        "eng": "Abandoned God",
+                        "jpn": "棄てられた神"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4759437",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/4759437",
+                    "Titles": {
+                        "eng": "A Scrap of a Memory",
+                        "jpn": "一片(ひとひら)の記憶"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "635438",
+            "URL": "https://thetvdb.com/series/noragami/seasons/official/2",
+            "Titles": {
+                "eng": "Noragami Aragoto",
+                "jpn": "ノラガミ ARAGOTO",
+                "deu": "Noragami Aragoto",
+                "por": "Noragami Aragoto",
+                "spa": "Noragami - ARAGOTO",
+                "ita": "Noragami Aragoto"
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "5310466",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/5310466",
+                    "Titles": {
+                        "eng": "Bearing a Posthumous Name",
+                        "jpn": "諱（いみな）、握りて"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5353917",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/5353917",
+                    "Titles": {
+                        "eng": "One of Her Memories",
+                        "jpn": "彼女の思い出"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5353918",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/5353918",
+                    "Titles": {
+                        "eng": "False Bond",
+                        "jpn": "イツワリノ絆"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5353919",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/5353919",
+                    "Titles": {
+                        "eng": "Wish",
+                        "jpn": "願（ねがい）"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5353920",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/5353920",
+                    "Titles": {
+                        "eng": "Divine Acclamation, Imprecation",
+                        "jpn": "神祝き、呪きき（かむほさ、ほさ）"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5353922",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/5353922",
+                    "Titles": {
+                        "eng": "What Must Be Done",
+                        "jpn": "為すべきこと"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5353923",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/5353923",
+                    "Titles": {
+                        "eng": "How to Worship a God",
+                        "jpn": "神様の祀り方"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5353924",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/5353924",
+                    "Titles": {
+                        "eng": "God of Calamity",
+                        "jpn": "禍津神"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5353925",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/5353925",
+                    "Titles": {
+                        "eng": "The Sound of a Thread Snapping",
+                        "jpn": "糸の切れる音"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5353927",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/5353927",
+                    "Titles": {
+                        "eng": "A Certain Desire",
+                        "jpn": "斯く在りし望み"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5353928",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/5353928",
+                    "Titles": {
+                        "eng": "Revival",
+                        "jpn": "黄泉返り"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5353930",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/5353930",
+                    "Titles": {
+                        "eng": "Your Voice Calls Out",
+                        "jpn": "君の呼ぶ声"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "5437248",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/noragami/episodes/5437248",
+                    "Titles": {
+                        "eng": "The God of Fortune's Message",
+                        "jpn": "福の神の言伝（ことづて）"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

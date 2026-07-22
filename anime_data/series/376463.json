@@ -1,0 +1,50 @@
+{
+    "URL": "https://thetvdb.com/series/yj",
+    "Genres": [
+        "Anime"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/232351"
+    ],
+    "Titles": {
+        "eng": "Lemon Angel YJ-ban",
+        "jpn": "YJ版 レモンエンジェル"
+    },
+    "Aliases": [],
+    "Modified": "2026-04-23",
+    "Seasons": {
+        "1": {
+            "ID": "1818520",
+            "URL": "https://thetvdb.com/series/yj/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "7569030",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yj/episodes/7569030",
+                    "Titles": {
+                        "eng": "Medaka's Highschool Carnival",
+                        "jpn": "メダカのハイスクールカーニバル"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7569033",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yj/episodes/7569033",
+                    "Titles": {
+                        "eng": "Medaka's Time Capsule",
+                        "jpn": "メダカのタイムカプセル"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

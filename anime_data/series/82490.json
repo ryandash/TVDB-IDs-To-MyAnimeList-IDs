@@ -1,0 +1,103 @@
+{
+    "URL": "https://thetvdb.com/series/shinigami-no-ballad",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Drama",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt3367698/",
+        "https://www.themoviedb.org/tv/22827"
+    ],
+    "Titles": {
+        "eng": "Momo, Girl God of Death: Ballad of a Shinigami",
+        "jpn": "しにがみのバラッド。"
+    },
+    "Aliases": [
+        "Ballad of a Shinigami",
+        "Shinigami no Ballad",
+        "しにがみのバラッド。(アニメ)"
+    ],
+    "Modified": "2026-05-12",
+    "Seasons": {
+        "1": {
+            "ID": "33654",
+            "URL": "https://thetvdb.com/series/shinigami-no-ballad/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "375267",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinigami-no-ballad/episodes/375267",
+                    "Titles": {
+                        "eng": "Your Voice",
+                        "jpn": "きみのこえ。"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "375268",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinigami-no-ballad/episodes/375268",
+                    "Titles": {
+                        "eng": "The Lifetime of a Fish",
+                        "jpn": "さかなのころ。"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "375269",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinigami-no-ballad/episodes/375269",
+                    "Titles": {
+                        "eng": "Beyond the Light",
+                        "jpn": "ひかりのかなた。"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "375270",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinigami-no-ballad/episodes/375270",
+                    "Titles": {
+                        "eng": "Autumn's Magic",
+                        "jpn": "あきのまほう。"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "375271",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinigami-no-ballad/episodes/375271",
+                    "Titles": {
+                        "eng": "The Glow of Fireflies",
+                        "jpn": "ほたるのひかり。"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "375272",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/shinigami-no-ballad/episodes/375272",
+                    "Titles": {
+                        "eng": "A Heart's Journey",
+                        "jpn": "こころのたび。"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

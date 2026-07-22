@@ -1,0 +1,321 @@
+{
+    "URL": "https://thetvdb.com/series/heroic-age",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1433670/",
+        "https://www.themoviedb.org/tv/29358"
+    ],
+    "Titles": {
+        "eng": "Heroic Age",
+        "jpn": "ヒロイック·エイジ"
+    },
+    "Aliases": [
+        "Hiroikku Eiji"
+    ],
+    "Modified": "2026-01-14",
+    "Seasons": {
+        "1": {
+            "ID": "28111",
+            "URL": "https://thetvdb.com/series/heroic-age/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "332862",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/332862",
+                    "Titles": {
+                        "eng": "The Ruined Planet",
+                        "jpn": "滅びの星"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "332863",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/332863",
+                    "Titles": {
+                        "eng": "The Forgotten Child",
+                        "jpn": "忘れられた子供"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "332864",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/332864",
+                    "Titles": {
+                        "eng": "The Heroic Tribe",
+                        "jpn": "英雄の種族"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "332865",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/332865",
+                    "Titles": {
+                        "eng": "The Planet Titarros",
+                        "jpn": "惑星ティターロス"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "332866",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/332866",
+                    "Titles": {
+                        "eng": "The Nodos",
+                        "jpn": "ノドス"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "332867",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/332867",
+                    "Titles": {
+                        "eng": "The Cemetery Belt",
+                        "jpn": "セメタリー・ベルト"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "332868",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/332868",
+                    "Titles": {
+                        "eng": "The Agreement",
+                        "jpn": "契約"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "332869",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/332869",
+                    "Titles": {
+                        "eng": "The Flashing Nodos",
+                        "jpn": "閃光のノドス"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "332870",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/332870",
+                    "Titles": {
+                        "eng": "The Return",
+                        "jpn": "帰還"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "332871",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/332871",
+                    "Titles": {
+                        "eng": "The Hero of Solitude",
+                        "jpn": "孤独の英雄"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "332872",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/332872",
+                    "Titles": {
+                        "eng": "The Star of Brilliance",
+                        "jpn": "輝きの星"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "332873",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/332873",
+                    "Titles": {
+                        "eng": "The Torch of Destruction",
+                        "jpn": "破滅の炬火"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "332874",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/332874",
+                    "Titles": {
+                        "eng": "The Battle in the Space-Time Continuum",
+                        "jpn": "時空流の戦い"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "332875",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/332875",
+                    "Titles": {
+                        "eng": "The Raging One",
+                        "jpn": "荒ぶる者"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "332876",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/332876",
+                    "Titles": {
+                        "eng": "When The Light Falls",
+                        "jpn": "光降るとき"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "332877",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/332877",
+                    "Titles": {
+                        "eng": "Overcoming the Fates",
+                        "jpn": "幾つの定めを超えて"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "332878",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/332878",
+                    "Titles": {
+                        "eng": "The Retributive Troops",
+                        "jpn": "報復の軍勢"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "333770",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/333770",
+                    "Titles": {
+                        "eng": "The Victorious Day",
+                        "jpn": "勝利の日"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "333928",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/333928",
+                    "Titles": {
+                        "eng": "The Invasion Between The Planet Systems",
+                        "jpn": "星系間侵攻"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "333930",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/333930",
+                    "Titles": {
+                        "eng": "The Nodos of Darkness",
+                        "jpn": "暗黒のノドス"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "335158",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/335158",
+                    "Titles": {
+                        "eng": "The Planet Kodomos",
+                        "jpn": "惑星コドモス"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "335159",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/335159",
+                    "Titles": {
+                        "eng": "The Agreement of Death",
+                        "jpn": "死の契約"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "335901",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/335901",
+                    "Titles": {
+                        "eng": "The Four",
+                        "jpn": "四人"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "335902",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/335902",
+                    "Titles": {
+                        "eng": "Elysium",
+                        "jpn": "エリュシオン"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "337119",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/337119",
+                    "Titles": {
+                        "eng": "The Final Labor",
+                        "jpn": "最後の契約"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "337120",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/heroic-age/episodes/337120",
+                    "Titles": {
+                        "eng": "Age",
+                        "jpn": "エイジ"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "URL": "https://thetvdb.com/series/nobunaga-concerto",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "History",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt3717892/",
+        "https://www.themoviedb.org/tv/65200"
+    ],
+    "Titles": {
+        "eng": "Nobunaga Concerto",
+        "jpn": "信長協奏曲"
+    },
+    "Aliases": [],
+    "Modified": "2025-06-02",
+    "Seasons": {
+        "0": {
+            "ID": "586237",
+            "URL": "https://thetvdb.com/series/nobunaga-concerto/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "4975316",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/nobunaga-concerto/episodes/4975316",
+                    "Titles": {
+                        "eng": "OVA",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "586238",
+            "URL": "https://thetvdb.com/series/nobunaga-concerto/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 10,
+            "Episodes": {
+                "1": {
+                    "ID": "4889082",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nobunaga-concerto/episodes/4889082",
+                    "Titles": {
+                        "eng": "Saburou Nobunaga",
+                        "jpn": "サブロー信長"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4930038",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nobunaga-concerto/episodes/4930038",
+                    "Titles": {
+                        "eng": "Kanshi",
+                        "jpn": "諌死"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4930039",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nobunaga-concerto/episodes/4930039",
+                    "Titles": {
+                        "eng": "Viper of Mino",
+                        "jpn": "美濃のマムシ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4930040",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nobunaga-concerto/episodes/4930040",
+                    "Titles": {
+                        "eng": "Battle of Okehazama",
+                        "jpn": "桶狭間の戦い"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4946024",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nobunaga-concerto/episodes/4946024",
+                    "Titles": {
+                        "eng": "Love Letter",
+                        "jpn": "らぶれたぁ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4946025",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nobunaga-concerto/episodes/4946025",
+                    "Titles": {
+                        "eng": "Mitsuhide Akechi",
+                        "jpn": "明智光秀"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4963514",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nobunaga-concerto/episodes/4963514",
+                    "Titles": {
+                        "eng": "Kill Nobunaga",
+                        "jpn": "信長を討て!"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4963515",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nobunaga-concerto/episodes/4963515",
+                    "Titles": {
+                        "eng": "An Unthinkable Betrayal",
+                        "jpn": "まさかの裏切り"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4975265",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nobunaga-concerto/episodes/4975265",
+                    "Titles": {
+                        "eng": "A Thorny Road",
+                        "jpn": "イバラの道"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4975269",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nobunaga-concerto/episodes/4975269",
+                    "Titles": {
+                        "eng": "The Two Nobunagas",
+                        "jpn": "二人の信長"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

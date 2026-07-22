@@ -1,0 +1,56 @@
+{
+    "URL": "https://thetvdb.com/series/ultra-maniac",
+    "Genres": [
+        "Animation",
+        "Comedy",
+        "Fantasy",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2107575/",
+        "http://www.starchild.co.jp/special/urumani/",
+        "https://www.themoviedb.org/tv/38061",
+        "https://www.themoviedb.org/tv/38061"
+    ],
+    "Titles": {
+        "eng": "Ultra Maniac",
+        "jpn": "ウルトラマニアック"
+    },
+    "Aliases": [],
+    "Modified": "2026-01-10",
+    "Seasons": {
+        "0": {
+            "ID": "20661",
+            "URL": "https://thetvdb.com/series/ultra-maniac/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "1205481",
+                    "TYPE": "OVA",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ultra-maniac/episodes/1205481",
+                    "Titles": {
+                        "eng": "Ultra Maniac OVA",
+                        "jpn": "ウルトラマニアック"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "109647",
+            "109648"
+        ]
+    }
+}

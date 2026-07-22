@@ -1,0 +1,102 @@
+{
+    "URL": "https://thetvdb.com/series/tetsunabe-no-jan",
+    "Genres": [
+        "Adaptation",
+        "Anime - Shonen"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt42963873/",
+        "https://tetsujan.com/",
+        "https://www.themoviedb.org/tv/308403",
+        "https://www.wikidata.org/wiki/Q137392211",
+        "https://en.wikipedia.org/wiki/Iron_Wok_Jan#Anime",
+        "https://x.com/tetsujan1995"
+    ],
+    "Titles": {
+        "eng": "Iron Wok Jan!",
+        "jpn": "鉄鍋のジャン！"
+    },
+    "Aliases": [
+        "Tetsunabe no Jan!"
+    ],
+    "Modified": "2026-07-20",
+    "Seasons": {
+        "1": {
+            "ID": "2221538",
+            "URL": "https://thetvdb.com/series/tetsunabe-no-jan/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "11510753",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tetsunabe-no-jan/episodes/11510753",
+                    "Titles": {
+                        "eng": "Flames and Meetings",
+                        "jpn": "炎との出逢い"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11872986",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tetsunabe-no-jan/episodes/11872986",
+                    "Titles": {
+                        "eng": "They're Like Gunpowder",
+                        "jpn": "火薬のようなやつら"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "11872987",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tetsunabe-no-jan/episodes/11872987",
+                    "Titles": {
+                        "eng": "A Loser's Cry of Victory",
+                        "jpn": "負け犬の勝鬨"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "11872988",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tetsunabe-no-jan/episodes/11872988",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "毒を御す者"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "11872989",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tetsunabe-no-jan/episodes/11872989",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "11872990",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tetsunabe-no-jan/episodes/11872990",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

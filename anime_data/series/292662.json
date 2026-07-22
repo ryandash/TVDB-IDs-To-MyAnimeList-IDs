@@ -1,0 +1,140 @@
+{
+    "URL": "https://thetvdb.com/series/dream-hunter-rem",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Crime",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2455528/",
+        "http://www.dreamhunter.jp/",
+        "https://www.themoviedb.org/tv/448"
+    ],
+    "Titles": {
+        "eng": "Dream Hunter Rem",
+        "jpn": "ドリームハンター麗夢"
+    },
+    "Aliases": [],
+    "Modified": "2026-02-15",
+    "Seasons": {
+        "0": {
+            "ID": "614870",
+            "URL": "https://thetvdb.com/series/dream-hunter-rem/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": "旧版"
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "5745292",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/dream-hunter-rem/episodes/5745292",
+                    "Titles": {
+                        "eng": "Dream Hunter Rem (Special Version)",
+                        "jpn": "ドリームハンターレム（麗夢）"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "5745294",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/dream-hunter-rem/episodes/5745294",
+                    "Titles": {
+                        "eng": "Violent Dream! Dr. Death Resurrected",
+                        "jpn": "ドリームハンター麗夢Ⅰ PART-2 「惨夢、甦る死神博士」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "614871",
+            "URL": "https://thetvdb.com/series/dream-hunter-rem/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "5144466",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dream-hunter-rem/episodes/5144466",
+                    "Titles": {
+                        "eng": "Beautiful Dream Appears",
+                        "jpn": "ドリームハンター麗夢　麗夢登場／惨夢、甦る死神博士"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5144467",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dream-hunter-rem/episodes/5144467",
+                    "Titles": {
+                        "eng": "Dream Demon at Seibishinjo High School",
+                        "jpn": "ドリームハンター麗夢II 聖美神女学園の妖夢"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5144468",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dream-hunter-rem/episodes/5144468",
+                    "Titles": {
+                        "eng": "Hidden Dream, Legend of the Beheaded Warrior",
+                        "jpn": "ドリームハンター麗夢III 夢隠 首なし武者伝説"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "614872",
+            "URL": "https://thetvdb.com/series/dream-hunter-rem/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "5144472",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dream-hunter-rem/episodes/5144472",
+                    "Titles": {
+                        "eng": "Dream Knights",
+                        "jpn": "NEWドリームハンター麗夢 夢の騎士達"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5144473",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/dream-hunter-rem/episodes/5144473",
+                    "Titles": {
+                        "eng": "Massacre in the Phantasmic Labyrinth",
+                        "jpn": "NEWドリームハンター麗夢 殺戮の夢幻迷宮"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

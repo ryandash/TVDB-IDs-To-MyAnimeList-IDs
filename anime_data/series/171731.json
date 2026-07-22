@@ -1,0 +1,585 @@
+{
+    "URL": "https://thetvdb.com/series/nura-rise-of-the-yokai-clan",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Comedy",
+        "Horror"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2716982/",
+        "https://www.themoviedb.org/tv/37471"
+    ],
+    "Titles": {
+        "eng": "Nura: Rise of the Yokai Clan",
+        "jpn": "ぬらりひょんの孫"
+    },
+    "Aliases": [
+        "Nura: Rise of the Yokai Clan: Demon Capital",
+        "Nura Rise of the Yokai Clan",
+        "Nurarihyon no Mago"
+    ],
+    "Modified": "2026-05-25",
+    "Seasons": {
+        "1": {
+            "ID": "268081",
+            "URL": "https://thetvdb.com/series/nura-rise-of-the-yokai-clan/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 24,
+            "Episodes": {
+                "1": {
+                    "ID": "2428511",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/2428511",
+                    "Titles": {
+                        "eng": "Becoming the Lord of Pandemonium",
+                        "jpn": "魑魅魍魎の主となれ"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2428521",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/2428521",
+                    "Titles": {
+                        "eng": "Poison Wings Flutter in the Bamboo Thicket",
+                        "jpn": "毒羽根は竹林に舞う"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "2428531",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/2428531",
+                    "Titles": {
+                        "eng": "Yura Keikain and the Kiyojuji Paranormal Patrol",
+                        "jpn": "花開院ゆらと清十字怪奇探偵団"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "2428541",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/2428541",
+                    "Titles": {
+                        "eng": "The Rat of Darkness Devours the Cat",
+                        "jpn": "闇の鼠は猫を喰らう"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "2428551",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/2428551",
+                    "Titles": {
+                        "eng": "Red Plum Blossoms on the Demons` Mountain",
+                        "jpn": "鬼棲む山に紅き梅は咲く"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "2428561",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/2428561",
+                    "Titles": {
+                        "eng": "A Trap is Set on the Evil Mountain",
+                        "jpn": "魔の山に仕組まれし罠"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "2428571",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/2428571",
+                    "Titles": {
+                        "eng": "Darkness Moves on the Night of the New Moon",
+                        "jpn": "新月の夜に闇が動いた"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "2428581",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/2428581",
+                    "Titles": {
+                        "eng": "Cold-Blooded Umewakamaru",
+                        "jpn": "梅若丸、無残！"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "2428591",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/2428591",
+                    "Titles": {
+                        "eng": "Gyuuki's Beloved Nura Clan",
+                        "jpn": "牛鬼の愛した奴良組"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "2428601",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/2428601",
+                    "Titles": {
+                        "eng": "Eating the Fruit from Beyond the Evil Mirror",
+                        "jpn": "魔鏡来りて果実を喰らう"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "2428611",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/2428611",
+                    "Titles": {
+                        "eng": "The Vanguard Wind Blows from the West",
+                        "jpn": "先陣の風、西の方より"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "2428621",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/2428621",
+                    "Titles": {
+                        "eng": "Tamazuki and the Seven Shadows",
+                        "jpn": "玉章と七つの影"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "2428631",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/2428631",
+                    "Titles": {
+                        "eng": "The Inugamigyobu-Tanuki Tamazuki`s Beckoning",
+                        "jpn": "隠神刑部狸玉章の手招き"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "2536851",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/2536851",
+                    "Titles": {
+                        "eng": "Fierce Fire and Sudden Rain",
+                        "jpn": "劫火と驟雨"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "2536861",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/2536861",
+                    "Titles": {
+                        "eng": "The Fighting Girls",
+                        "jpn": "闘女、百花繚乱"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "2536871",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/2536871",
+                    "Titles": {
+                        "eng": "The Sublime Spirit Burns Crimson",
+                        "jpn": "気高き魂、紅に燃ゆ"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "2536881",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/2536881",
+                    "Titles": {
+                        "eng": "Natsumi and Lord Senba",
+                        "jpn": "夏実と千羽様"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "2536891",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/2536891",
+                    "Titles": {
+                        "eng": "The Evil Dog Howls at the Ruins",
+                        "jpn": "凶犬、廃墟に咆哮す"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "2536901",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/2536901",
+                    "Titles": {
+                        "eng": "The Curtain Falls in the Darkness",
+                        "jpn": "幕は闇より開く"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "2536911",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/2536911",
+                    "Titles": {
+                        "eng": "The 7:3 Pledge of Loyalty",
+                        "jpn": "七分三分の盃"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "2536921",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/2536921",
+                    "Titles": {
+                        "eng": "Towards the Sunrise",
+                        "jpn": "暁に"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "2536931",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/2536931",
+                    "Titles": {
+                        "eng": "Darkness and Ice",
+                        "jpn": "闇と氷"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "2536941",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/2536941",
+                    "Titles": {
+                        "eng": "The Devil`s Hammer",
+                        "jpn": "魔王の小槌"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "2536951",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/2536951",
+                    "Titles": {
+                        "eng": "The Moon is in the Sky",
+                        "jpn": "月は空にある"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "468195",
+            "URL": "https://thetvdb.com/series/nura-rise-of-the-yokai-clan/seasons/official/2",
+            "Titles": {
+                "eng": "Demon Capital",
+                "jpn": "ぬらりひょんの孫〜千年魔京〜",
+                "por": "Demon Capital"
+            },
+            "# Episodes": 24,
+            "Episodes": {
+                "1": {
+                    "ID": "4126165",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/4126165",
+                    "Titles": {
+                        "eng": "Awakening of the Nura Clan's Third Heir",
+                        "jpn": "覚醒、奴良組三代目"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4132000",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/4132000",
+                    "Titles": {
+                        "eng": "Two Justice",
+                        "jpn": "二人の正義"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4134665",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/4134665",
+                    "Titles": {
+                        "eng": "Keikain Yura's Realization",
+                        "jpn": "花開院ゆらの納得"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4142091",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/4142091",
+                    "Titles": {
+                        "eng": "Nurarihyon and Princess Yo",
+                        "jpn": "ぬらりひょんと珱姫"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4146104",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/4146104",
+                    "Titles": {
+                        "eng": "Towards Today",
+                        "jpn": "今へと繋ぐ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4146105",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/4146105",
+                    "Titles": {
+                        "eng": "The Legends of Tono",
+                        "jpn": "遠野・物語"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4152858",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/4152858",
+                    "Titles": {
+                        "eng": "Kyoka Suigetsu",
+                        "jpn": "鏡花水月"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4154529",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/4154529",
+                    "Titles": {
+                        "eng": "Hagoromo Gitsune's Total Destruction Invasion of Kyoto",
+                        "jpn": "羽衣狐京都全滅侵攻"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4154530",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/4154530",
+                    "Titles": {
+                        "eng": "The Grey Onmyoji",
+                        "jpn": "灰色の陰陽師"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4154531",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/4154531",
+                    "Titles": {
+                        "eng": "Hagun",
+                        "jpn": "破軍"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4155441",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/4155441",
+                    "Titles": {
+                        "eng": "Battle Above Kyoto",
+                        "jpn": "京上空の戦い"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4155442",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/4155442",
+                    "Titles": {
+                        "eng": "Long-Standing Wish",
+                        "jpn": "宿願"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4155443",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/4155443",
+                    "Titles": {
+                        "eng": "Torii Labyrinth",
+                        "jpn": "迷宮・鳥居の森"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4155446",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/4155446",
+                    "Titles": {
+                        "eng": "An Ayakashi to Avoid",
+                        "jpn": "絶対に遭遇してはならない妖"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4155447",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/4155447",
+                    "Titles": {
+                        "eng": "Descent Into Darkness",
+                        "jpn": "闇に沈む…"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4155448",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/4155448",
+                    "Titles": {
+                        "eng": "Shared Past",
+                        "jpn": "二人の過去"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4155449",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/4155449",
+                    "Titles": {
+                        "eng": "Equipping a Hundred Demons",
+                        "jpn": "百鬼纏う御業"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4155450",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/4155450",
+                    "Titles": {
+                        "eng": "Entrust It All to Me",
+                        "jpn": "全部あずけろ"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4155451",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/4155451",
+                    "Titles": {
+                        "eng": "A Bond of Trust",
+                        "jpn": "背中越しの絆"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4155452",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/4155452",
+                    "Titles": {
+                        "eng": "The Cycle of Rebirth",
+                        "jpn": "輪廻の環"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4155453",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/4155453",
+                    "Titles": {
+                        "eng": "Birth",
+                        "jpn": "誕生"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4155454",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/4155454",
+                    "Titles": {
+                        "eng": "Fragments of the Past",
+                        "jpn": "追憶の欠片"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4155455",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/4155455",
+                    "Titles": {
+                        "eng": "Banquet of Darkness",
+                        "jpn": "暗黒の宴"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "4155456",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/nura-rise-of-the-yokai-clan/episodes/4155456",
+                    "Titles": {
+                        "eng": "Rikuo’s Declaration",
+                        "jpn": "リクオ、宣言す"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "0"
+        ],
+        "Episodes": [
+            "4155445",
+            "4449513"
+        ]
+    }
+}

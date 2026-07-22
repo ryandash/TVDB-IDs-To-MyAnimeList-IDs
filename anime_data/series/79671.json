@@ -40,6 +40,160 @@
                 }
             }
         },
+        "1": {
+            "ID": "16892",
+            "URL": "https://thetvdb.com/series/himawari/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "315882",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/himawari/episodes/315882",
+                    "Titles": {
+                        "eng": "I'll Protect My Master",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "315883",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/himawari/episodes/315883",
+                    "Titles": {
+                        "eng": "I Definitely Won't Fall In Love",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "315884",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/himawari/episodes/315884",
+                    "Titles": {
+                        "eng": "I Won't Open My Mouth Even If I Get Killed",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "315885",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/himawari/episodes/315885",
+                    "Titles": {
+                        "eng": "Stealing Is A Shinobi's Shame",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "315886",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/himawari/episodes/315886",
+                    "Titles": {
+                        "eng": "A Female Ninja's Forbidden Valentine",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "315887",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/himawari/episodes/315887",
+                    "Titles": {
+                        "eng": "A Shinobi's Training Is A Matter Of Life Or Death",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "315888",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/himawari/episodes/315888",
+                    "Titles": {
+                        "eng": "I Won't Make Pointless Killings",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "315889",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/himawari/episodes/315889",
+                    "Titles": {
+                        "eng": "I'll Protect Everybody",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "315890",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/himawari/episodes/315890",
+                    "Titles": {
+                        "eng": "A Ninja's 'Nin' Is Shinobu's 'Shino'",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "315891",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/himawari/episodes/315891",
+                    "Titles": {
+                        "eng": "Pitying A Shinobi Is Useless",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "315892",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/himawari/episodes/315892",
+                    "Titles": {
+                        "eng": "A Bond That Cannot Be Severed",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "315893",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/himawari/episodes/315893",
+                    "Titles": {
+                        "eng": "The Master's Worth Is Not Fit For The Dogs",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "315894",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/himawari/episodes/315894",
+                    "Titles": {
+                        "eng": "A Servant With Life",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
         "2": {
             "ID": "40993",
             "URL": "https://thetvdb.com/series/himawari/seasons/official/2",
@@ -194,14 +348,5 @@
                 }
             }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "1"
-        ],
-        "Episodes": [
-            "315884",
-            "315883"
-        ]
     }
 }

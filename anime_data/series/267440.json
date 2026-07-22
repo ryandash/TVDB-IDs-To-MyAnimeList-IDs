@@ -1,0 +1,1072 @@
+{
+    "URL": "https://thetvdb.com/series/attack-on-titan",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2560140/",
+        "https://www.instagram.com/anime_shingeki_official/",
+        "https://shingeki.tv/",
+        "http://www.reddit.com/r/attackontitan",
+        "https://www.themoviedb.org/tv/1429",
+        "https://x.com/anime_shingeki"
+    ],
+    "Titles": {
+        "eng": "Attack on Titan",
+        "jpn": "進撃の巨人"
+    },
+    "Aliases": [
+        "SNK",
+        "AOT",
+        "Attack on Titan (2013)",
+        "Shingeki no Kyojin"
+    ],
+    "Modified": "2026-06-16",
+    "Seasons": {
+        "1": {
+            "ID": "514060",
+            "URL": "https://thetvdb.com/series/attack-on-titan/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "spa": "Primera temporada",
+                "ara": "الموسم الاول",
+                "fra": "Saison 1"
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "4516067",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4516067",
+                    "Titles": {
+                        "eng": "To You, in 2,000 Years: The Fall of Shiganshina (1)",
+                        "jpn": "二千年後の君へ ~シガンシナ陥落①~"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4520243",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4520243",
+                    "Titles": {
+                        "eng": "That Day: The Fall of Shiganshina (2)",
+                        "jpn": "その日 ~シガンシナ陥落②~"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4520244",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4520244",
+                    "Titles": {
+                        "eng": "A Dim Light Amid Despair: Humanity's Comeback (1)",
+                        "jpn": "絶望の中で鈍く光る ~人類の再起①~"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4520245",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4520245",
+                    "Titles": {
+                        "eng": "The Night of the Closing Ceremony: Humanity's Comeback (2)",
+                        "jpn": "解散式の夜 ~人類の再起②~"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4520246",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4520246",
+                    "Titles": {
+                        "eng": "First Battle: The Struggle for Trost (1)",
+                        "jpn": "初陣 ~トロスト区攻防戦①~"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4520247",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4520247",
+                    "Titles": {
+                        "eng": "The World the Girl Saw: The Struggle for Trost (2)",
+                        "jpn": "少女が見た世界 ~トロスト区攻防戦②~"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4520248",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4520248",
+                    "Titles": {
+                        "eng": "Small Blade: The Struggle for Trost (3)",
+                        "jpn": "小さな刃 ~トロスト区攻防戦③~"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4520249",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4520249",
+                    "Titles": {
+                        "eng": "I Can Hear His Heartbeat: The Struggle for Trost (4)",
+                        "jpn": "心臓の鼓動が聞こえる ~トロスト区攻防戦④~"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4520250",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4520250",
+                    "Titles": {
+                        "eng": "Whereabouts of His Left Arm: The Struggle for Trost (5)",
+                        "jpn": "左腕の行方 ~トロスト区攻防戦⑤~"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4520251",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4520251",
+                    "Titles": {
+                        "eng": "Response: The Struggle for Trost (6)",
+                        "jpn": "応える ~トロスト区攻防戦⑥~"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4520252",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4520252",
+                    "Titles": {
+                        "eng": "Idol: The Struggle for Trost (7)",
+                        "jpn": "偶像 ~トロスト区攻防戦⑦~"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4520253",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4520253",
+                    "Titles": {
+                        "eng": "Wound: The Struggle for Trost (8)",
+                        "jpn": "傷 ~トロスト区攻防戦⑧~"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4546795",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4546795",
+                    "Titles": {
+                        "eng": "Primal Desire: The Struggle for Trost (9)",
+                        "jpn": "原初的欲求 ~トロスト区攻防戦⑨~"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4546797",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4546797",
+                    "Titles": {
+                        "eng": "Can't Look into His Eyes Yet: Eve of the Counterattack (1)",
+                        "jpn": "まだ目を見れない ~反撃前夜①~"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4546798",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4546798",
+                    "Titles": {
+                        "eng": "Special Operations Squad: Eve of the Counterattack (2)",
+                        "jpn": "特別作戦班 ~反撃前夜②~"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4546799",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4546799",
+                    "Titles": {
+                        "eng": "What Needs to Be Done Now: Eve of the Counterattack (3)",
+                        "jpn": "今、何をすべきか ~反撃前夜③~"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4546800",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4546800",
+                    "Titles": {
+                        "eng": "Female Titan: The 57th Exterior Scouting Mission (1)",
+                        "jpn": "女型の巨人 ~第57回壁外調査①~"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4546801",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4546801",
+                    "Titles": {
+                        "eng": "Forest of Giant Trees: The 57th Exterior Scouting Mission (2)",
+                        "jpn": "巨大樹の森 ~第57回壁外調査②~"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4546802",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4546802",
+                    "Titles": {
+                        "eng": "Bite: The 57th Exterior Scouting Mission (3)",
+                        "jpn": "噛みつく ~第57回壁外調査③~"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4546803",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4546803",
+                    "Titles": {
+                        "eng": "Erwin Smith: The 57th Exterior Scouting Mission (4)",
+                        "jpn": "エルヴィン・スミス ~第57回壁外調査④~"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4546804",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4546804",
+                    "Titles": {
+                        "eng": "Crushing Blow: The 57th Exterior Scouting Mission (5)",
+                        "jpn": "鉄槌 ~第57回壁外調査⑤~"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4546805",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4546805",
+                    "Titles": {
+                        "eng": "The Defeated: The 57th Exterior Scouting Mission (6)",
+                        "jpn": "敗者達 ~第57回壁外調査⑥~"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4546806",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4546806",
+                    "Titles": {
+                        "eng": "Smile: Assault on Stohess (1)",
+                        "jpn": "微笑み ~ストヘス区急襲①~"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "4546807",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4546807",
+                    "Titles": {
+                        "eng": "Mercy: Assault on Stohess (2)",
+                        "jpn": "慈悲 ~ストヘス区急襲②~"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "4638113",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/4638113",
+                    "Titles": {
+                        "eng": "Wall: Assault on Stohess (3)",
+                        "jpn": "壁 ~ストヘス区急襲③~"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "701272",
+            "URL": "https://thetvdb.com/series/attack-on-titan/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "ara": "الموسم الثاني",
+                "spa": "Segunda temporada"
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "5978808",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/5978808",
+                    "Titles": {
+                        "eng": "Beast Titan",
+                        "jpn": "獣の巨人"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6028372",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6028372",
+                    "Titles": {
+                        "eng": "I'm Home",
+                        "jpn": "ただいま"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6028373",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6028373",
+                    "Titles": {
+                        "eng": "Southwestward",
+                        "jpn": "南西へ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6028374",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6028374",
+                    "Titles": {
+                        "eng": "Soldier",
+                        "jpn": "兵士"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6029080",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6029080",
+                    "Titles": {
+                        "eng": "Historia",
+                        "jpn": "ヒストリア"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6029081",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6029081",
+                    "Titles": {
+                        "eng": "Warrior",
+                        "jpn": "戦士"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6029082",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6029082",
+                    "Titles": {
+                        "eng": "Close Combat",
+                        "jpn": "打·投·極"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6029083",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6029083",
+                    "Titles": {
+                        "eng": "The Hunters",
+                        "jpn": "追う者"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6029084",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6029084",
+                    "Titles": {
+                        "eng": "Opening",
+                        "jpn": "開口"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6029085",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6029085",
+                    "Titles": {
+                        "eng": "Children",
+                        "jpn": "子供達"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6029086",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6029086",
+                    "Titles": {
+                        "eng": "Charge",
+                        "jpn": "突撃"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6029088",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6029088",
+                    "Titles": {
+                        "eng": "Scream",
+                        "jpn": "叫び"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "743129",
+            "URL": "https://thetvdb.com/series/attack-on-titan/seasons/official/3",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "ara": "الموسم الثالث",
+                "spa": "Tercera temporada"
+            },
+            "# Episodes": 22,
+            "Episodes": {
+                "1": {
+                    "ID": "6465435",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6465435",
+                    "Titles": {
+                        "eng": "Smoke Signal",
+                        "jpn": "狼煙"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6667862",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6667862",
+                    "Titles": {
+                        "eng": "Pain",
+                        "jpn": "痛み"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6667863",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6667863",
+                    "Titles": {
+                        "eng": "Old Story",
+                        "jpn": "昔話"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6667864",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6667864",
+                    "Titles": {
+                        "eng": "Trust",
+                        "jpn": "信頼"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6667865",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6667865",
+                    "Titles": {
+                        "eng": "Reply",
+                        "jpn": "回答"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6667866",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6667866",
+                    "Titles": {
+                        "eng": "Sin",
+                        "jpn": "罪"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6814216",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6814216",
+                    "Titles": {
+                        "eng": "Wish",
+                        "jpn": "願い"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6667868",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6667868",
+                    "Titles": {
+                        "eng": "Outside the Walls of Orvud District",
+                        "jpn": "オルブド区外壁"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6667869",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6667869",
+                    "Titles": {
+                        "eng": "Ruler of the Walls",
+                        "jpn": "壁の王"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6667870",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6667870",
+                    "Titles": {
+                        "eng": "Friends",
+                        "jpn": "友人"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6667871",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6667871",
+                    "Titles": {
+                        "eng": "Bystander",
+                        "jpn": "傍観者"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6667872",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6667872",
+                    "Titles": {
+                        "eng": "Night of the Battle to Retake the Wall",
+                        "jpn": "奪還作戦の夜"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "6667873",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6667873",
+                    "Titles": {
+                        "eng": "The Town Where Everything Began",
+                        "jpn": "はじまりの街"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "6667874",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6667874",
+                    "Titles": {
+                        "eng": "Thunder Spears",
+                        "jpn": "雷槍（らいそう）"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "6667875",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6667875",
+                    "Titles": {
+                        "eng": "Descent",
+                        "jpn": "光臨"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "6667876",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6667876",
+                    "Titles": {
+                        "eng": "Perfect Game",
+                        "jpn": "完全試合（パーフェクトゲーム）"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "6667877",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6667877",
+                    "Titles": {
+                        "eng": "Hero",
+                        "jpn": "勇者"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "6667878",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6667878",
+                    "Titles": {
+                        "eng": "Midnight Sun",
+                        "jpn": "白夜"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "6667879",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6667879",
+                    "Titles": {
+                        "eng": "The Basement",
+                        "jpn": "地下室"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "6667880",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6667880",
+                    "Titles": {
+                        "eng": "That Day",
+                        "jpn": "あの日"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "6667881",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6667881",
+                    "Titles": {
+                        "eng": "Attack Titan",
+                        "jpn": "進撃の巨人"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "6667882",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/6667882",
+                    "Titles": {
+                        "eng": "The Other Side of the Wall",
+                        "jpn": "壁の向こう側"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "4": {
+            "ID": "1846517",
+            "URL": "https://thetvdb.com/series/attack-on-titan/seasons/official/4",
+            "Titles": {
+                "eng": "The Final Season",
+                "jpn": "The Final Season",
+                "ara": "هجوم العمالقة: الموسم الأخير",
+                "fra": "Saison Finale",
+                "rus": "Последний сезон",
+                "spa": "La temporada final",
+                "kor": "진격의 거인 The Final Season",
+                "deu": "The Final Season",
+                "ita": "La Stagione Finale (Parte 1 - Parte 2 - Parte 3)",
+                "pt": "Temporada Final",
+                "zhtw": "The Final Season / The Final Season 完結篇"
+            },
+            "# Episodes": 30,
+            "Episodes": {
+                "1": {
+                    "ID": "7771368",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/7771368",
+                    "Titles": {
+                        "eng": "The Other Side of the Sea",
+                        "jpn": "海の向こう側"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8068624",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8068624",
+                    "Titles": {
+                        "eng": "Midnight Train",
+                        "jpn": "闇夜の列車"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8068625",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8068625",
+                    "Titles": {
+                        "eng": "The Door of Hope",
+                        "jpn": "希望の扉"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "8068626",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8068626",
+                    "Titles": {
+                        "eng": "From One Hand to Another",
+                        "jpn": "手から手へ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "8068627",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8068627",
+                    "Titles": {
+                        "eng": "Declaration of War",
+                        "jpn": "宣戦布告"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "8085622",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8085622",
+                    "Titles": {
+                        "eng": "The War Hammer Titan",
+                        "jpn": "戦鎚の巨人"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "8085623",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8085623",
+                    "Titles": {
+                        "eng": "Assault",
+                        "jpn": "強襲"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "8085625",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8085625",
+                    "Titles": {
+                        "eng": "Assassin's Bullet",
+                        "jpn": "凶弾"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "8085627",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8085627",
+                    "Titles": {
+                        "eng": "Brave Volunteers",
+                        "jpn": "義勇兵"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "8085629",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8085629",
+                    "Titles": {
+                        "eng": "A Sound Argument",
+                        "jpn": "正論"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "8085631",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8085631",
+                    "Titles": {
+                        "eng": "Deceiver",
+                        "jpn": "偽り者"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "8085633",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8085633",
+                    "Titles": {
+                        "eng": "Guides",
+                        "jpn": "導く者"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "8085635",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8085635",
+                    "Titles": {
+                        "eng": "Children of the Forest",
+                        "jpn": "森の子ら"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "8085636",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8085636",
+                    "Titles": {
+                        "eng": "Savagery",
+                        "jpn": "暴悪"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "8085637",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8085637",
+                    "Titles": {
+                        "eng": "Sole Salvation",
+                        "jpn": "唯一の救い"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "8085638",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8085638",
+                    "Titles": {
+                        "eng": "Above and Below",
+                        "jpn": "天地"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "8932418",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8932418",
+                    "Titles": {
+                        "eng": "Judgment",
+                        "jpn": "断罪"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "8935534",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8935534",
+                    "Titles": {
+                        "eng": "Sneak Attack",
+                        "jpn": "騙し討ち"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "8935535",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8935535",
+                    "Titles": {
+                        "eng": "Two Brothers",
+                        "jpn": "兄と弟"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "8945752",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8945752",
+                    "Titles": {
+                        "eng": "Memories of the Future",
+                        "jpn": "未来の記憶"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "8947991",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8947991",
+                    "Titles": {
+                        "eng": "From You, 2,000 Years Ago",
+                        "jpn": "二千年前の君から"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "8947992",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8947992",
+                    "Titles": {
+                        "eng": "Thaw",
+                        "jpn": "氷解"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "8947993",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8947993",
+                    "Titles": {
+                        "eng": "Sunset",
+                        "jpn": "夕焼け"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "8947994",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8947994",
+                    "Titles": {
+                        "eng": "Pride",
+                        "jpn": "矜持"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "8947995",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8947995",
+                    "Titles": {
+                        "eng": "Night of the End",
+                        "jpn": "終末の夜"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "8947996",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8947996",
+                    "Titles": {
+                        "eng": "Traitor",
+                        "jpn": "裏切り者"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "8947997",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8947997",
+                    "Titles": {
+                        "eng": "Retrospective",
+                        "jpn": "懐古"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "8947998",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/8947998",
+                    "Titles": {
+                        "eng": "The Dawn of Humanity",
+                        "jpn": "人類の夜明け"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "9564553",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/9564553",
+                    "Titles": {
+                        "eng": "The Final Chapters: Special 1",
+                        "jpn": "完結編（前編）"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "9644229",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/attack-on-titan/episodes/9644229",
+                    "Titles": {
+                        "eng": "The Final Chapters Special 2",
+                        "jpn": "完結編（後編）"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "0"
+        ],
+        "Episodes": []
+    }
+}

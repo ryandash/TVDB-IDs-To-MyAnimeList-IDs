@@ -1,0 +1,584 @@
+{
+    "URL": "https://thetvdb.com/series/soar-high-isami",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Children",
+        "Comedy",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2038118/",
+        "https://www.themoviedb.org/tv/57025"
+    ],
+    "Titles": {
+        "eng": "Soar High! Isami",
+        "jpn": "飛べ！イサミ"
+    },
+    "Aliases": [],
+    "Modified": "2024-11-28",
+    "Seasons": {
+        "1": {
+            "ID": "273301",
+            "URL": "https://thetvdb.com/series/soar-high-isami/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 50,
+            "Episodes": {
+                "1": {
+                    "ID": "2437301",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437301",
+                    "Titles": {
+                        "eng": "The secret door has been opened!",
+                        "jpn": "秘密の扉は開かれた!"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2437311",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437311",
+                    "Titles": {
+                        "eng": "The Shinsengumi and the sword of justice",
+                        "jpn": "しんせん組と正義の剣"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "2437321",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437321",
+                    "Titles": {
+                        "eng": "After the mystery of the Black Goblins!",
+                        "jpn": "黒天狗の影を追え!"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "2437331",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437331",
+                    "Titles": {
+                        "eng": "The Sneaking Shadow",
+                        "jpn": "誘拐されたプリンセス"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "2437341",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437341",
+                    "Titles": {
+                        "eng": "Man With Two Faces",
+                        "jpn": "怪人クモ男出現!"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "2437351",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437351",
+                    "Titles": {
+                        "eng": "Remote Control Madness",
+                        "jpn": "RX95の秘密"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "2437361",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437361",
+                    "Titles": {
+                        "eng": "Target: the pianist",
+                        "jpn": "ねらわれたピアニスト"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "2437371",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437371",
+                    "Titles": {
+                        "eng": "The Ghostly Gamaimas",
+                        "jpn": "幻のガママイマス"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "2437381",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437381",
+                    "Titles": {
+                        "eng": "The secret shadow",
+                        "jpn": "しのびよる影"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "2437391",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437391",
+                    "Titles": {
+                        "eng": "The man who has two faces",
+                        "jpn": "二つの顔を持つ男"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "2437401",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437401",
+                    "Titles": {
+                        "eng": "Doctor Braun's Treasure",
+                        "jpn": "ブラウン博士の宝物"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "2437411",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437411",
+                    "Titles": {
+                        "eng": "Gran caos por control remoto",
+                        "jpn": "リモコン大混線"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "2437421",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437421",
+                    "Titles": {
+                        "eng": "La espía de los cuervos negros",
+                        "jpn": "黒天狗の女スパイ"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "2437431",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437431",
+                    "Titles": {
+                        "eng": "Buen perro Genbe",
+                        "jpn": "迷犬ゲンベェ"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "2437441",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437441",
+                    "Titles": {
+                        "eng": "El olvidadizo hombre araña",
+                        "jpn": "コりない怪人クモ男"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "2437451",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437451",
+                    "Titles": {
+                        "eng": "Cuidado con el ladrón de carpas",
+                        "jpn": "コイ泥棒にご用心"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "2437461",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437461",
+                    "Titles": {
+                        "eng": "¡Es el mar!¡Son bañadores!¡Vacaciones!",
+                        "jpn": "海だ! 水着だ! 大騒動"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "2437471",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437471",
+                    "Titles": {
+                        "eng": "El misterio de las vacaciones de verano",
+                        "jpn": "夏祭りのミステリー"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "2437481",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437481",
+                    "Titles": {
+                        "eng": "La gran fuga del monstruo",
+                        "jpn": "おばけの大脱走"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "2437491",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437491",
+                    "Titles": {
+                        "eng": "¡Kunoichi,la mujer ninja!",
+                        "jpn": "くの一見参!"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "2437501",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437501",
+                    "Titles": {
+                        "eng": "Los falsos Ganbaman",
+                        "jpn": "ニセのガンバマン"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "2437511",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437511",
+                    "Titles": {
+                        "eng": "La gran operación Mogura",
+                        "jpn": "モグラ大作戦"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "2437521",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437521",
+                    "Titles": {
+                        "eng": "Aparecen las misteriosas tres hermanas",
+                        "jpn": "ナゾの三姉妹登場"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "2437531",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437531",
+                    "Titles": {
+                        "eng": "¡Proteged la luminotita!",
+                        "jpn": "ルミノタイトを守れ!"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "2437541",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437541",
+                    "Titles": {
+                        "eng": "¡La gran transformación de los Shinsengumi!",
+                        "jpn": "しんせん組大変身!!"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "2437551",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437551",
+                    "Titles": {
+                        "eng": "Golpe al misterioso haz",
+                        "jpn": "怪光線をぶっとばせ"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "2437561",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437561",
+                    "Titles": {
+                        "eng": "¡Tú eres el héroe!",
+                        "jpn": "君こそヒーローだ!"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "2437571",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437571",
+                    "Titles": {
+                        "eng": "¡Atrapemos al OVNI!",
+                        "jpn": "UFOを捕まえろ!"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "2437581",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437581",
+                    "Titles": {
+                        "eng": "¿El primer invento nuevo de los Duendes Negros?",
+                        "jpn": "黒天狗の珍発明?"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "2437591",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437591",
+                    "Titles": {
+                        "eng": "El misterioso circuito",
+                        "jpn": "謎の落とし物"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "2437601",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437601",
+                    "Titles": {
+                        "eng": "La cápsula misteriosa",
+                        "jpn": "不思議なカプセル"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "2437611",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437611",
+                    "Titles": {
+                        "eng": "¡Tras los fantasmales MIO!",
+                        "jpn": "幻のミーオを追え!"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "2437621",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437621",
+                    "Titles": {
+                        "eng": "El secreto de la espada del dragón",
+                        "jpn": "龍の剣の秘密"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "2437631",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437631",
+                    "Titles": {
+                        "eng": "El gran problema del misterioso hombre",
+                        "jpn": "謎の男の大ピンチ"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "2437641",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437641",
+                    "Titles": {
+                        "eng": "Pánico Robot",
+                        "jpn": "ロボットパニック"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "2437651",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437651",
+                    "Titles": {
+                        "eng": "¡El gran descontrol del Fantasma-SL!",
+                        "jpn": "幽霊SL大暴走!"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "2437661",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437661",
+                    "Titles": {
+                        "eng": "¡Desafío! Ultra Este",
+                        "jpn": "対決! ウルトライースト"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "2437671",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437671",
+                    "Titles": {
+                        "eng": "El secreto de la ninja Kunoichi",
+                        "jpn": "くの一忍者の秘密"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "2437681",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437681",
+                    "Titles": {
+                        "eng": "El hombre araña vuelve otra vez",
+                        "jpn": "また また また クモ男"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "2437691",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437691",
+                    "Titles": {
+                        "eng": "El complot de los Duendes Negros",
+                        "jpn": "黒天狗の陰謀"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "2437701",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437701",
+                    "Titles": {
+                        "eng": "¡El nuevo secreto!",
+                        "jpn": "秘密基地へ潜入せよ!"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "2437711",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437711",
+                    "Titles": {
+                        "eng": "Los misteriosos globos publicitarios",
+                        "jpn": "謎のアドバルーン"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "2437721",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437721",
+                    "Titles": {
+                        "eng": "¡Encontrada! La Luminotita",
+                        "jpn": "発見! ルミノタイト"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "2437731",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437731",
+                    "Titles": {
+                        "eng": "El secreto de la familia Rumino",
+                        "jpn": "瑠美之一族の秘密"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "2437741",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437741",
+                    "Titles": {
+                        "eng": "¡Shock! ¿El secreto de los Duendes Negros?",
+                        "jpn": "衝撃! 黒天狗の正体とは?"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "2437751",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437751",
+                    "Titles": {
+                        "eng": "La tempestuosa revelación de los Duendes Negros",
+                        "jpn": "天駆ける黒天狗号の反乱"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "2437761",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437761",
+                    "Titles": {
+                        "eng": "¡¿El último combate decisivo del Duende Mecánico?!",
+                        "jpn": "カラクリ天狗最終決戦!?"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "2437771",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437771",
+                    "Titles": {
+                        "eng": "El reto del Duende Dorado",
+                        "jpn": "ゴールデン天狗の挑戦"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "2437781",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437781",
+                    "Titles": {
+                        "eng": "La verdad revelada",
+                        "jpn": "明かされた真実"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "2437791",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/soar-high-isami/episodes/2437791",
+                    "Titles": {
+                        "eng": "¡Siempre Shinsengumi!",
+                        "jpn": "しんせん組よ 永遠に!"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

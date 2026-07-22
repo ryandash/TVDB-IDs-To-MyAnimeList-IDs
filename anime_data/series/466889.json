@@ -1,0 +1,86 @@
+{
+    "URL": "https://thetvdb.com/series/latair-the-earth",
+    "Genres": [
+        "Adaptation",
+        "Anime - Kodomomuke"
+    ],
+    "Other Sites": [
+        "https://latair.jp/"
+    ],
+    "Titles": {
+        "eng": "Latair the Earth",
+        "jpn": "地球のラテール"
+    },
+    "Aliases": [
+        "Chikyuu no Latair"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "2200830",
+            "URL": "https://thetvdb.com/series/latair-the-earth/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "11288179",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/latair-the-earth/episodes/11288179",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "アラビアオリックス ~願えば強くなれること~"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11563822",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/latair-the-earth/episodes/11563822",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ケツァール ~\"ありがとう\"の美しさ~"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "11563823",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/latair-the-earth/episodes/11563823",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ナポレオンフィッシュ ~自由の大切さ~"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "11563824",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/latair-the-earth/episodes/11563824",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "キンイロアデガエル ~挑戦することの大切さ~"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "11563825",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/latair-the-earth/episodes/11563825",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ジャイアントパンダ ~仲間がいる尊さ~"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

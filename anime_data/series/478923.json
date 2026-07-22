@@ -1,0 +1,77 @@
+{
+    "URL": "https://thetvdb.com/series/gu-ting-totuan-wu-lang",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/211452"
+    ],
+    "Titles": {
+        "eng": "Komachi and Dangorou",
+        "jpn": "古町と団五郎"
+    },
+    "Aliases": [
+        "Komachi to Dangorou"
+    ],
+    "Modified": "2026-06-07",
+    "Seasons": {
+        "1": {
+            "ID": "2254009",
+            "URL": "https://thetvdb.com/series/gu-ting-totuan-wu-lang/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "11831844",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gu-ting-totuan-wu-lang/episodes/11831844",
+                    "Titles": {
+                        "eng": "Find the Lagoon Stone!",
+                        "jpn": "第1話 ラグーンストーンを探せ!"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11831845",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gu-ting-totuan-wu-lang/episodes/11831845",
+                    "Titles": {
+                        "eng": "Catch the Mysterious Giant Fish!",
+                        "jpn": "第2話 謎の巨大魚をつかまえろ!"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "11831846",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gu-ting-totuan-wu-lang/episodes/11831846",
+                    "Titles": {
+                        "eng": "Get Back the Glowing Tai Cart!",
+                        "jpn": "第3話 光る鯛車を取り戻せ!"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "11831847",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gu-ting-totuan-wu-lang/episodes/11831847",
+                    "Titles": {
+                        "eng": "The Dream Beach - Furumachi's Idol Audition!",
+                        "jpn": "第4話 夢のビーチ 古町のアイドルオーディション!"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

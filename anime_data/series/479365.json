@@ -1,0 +1,77 @@
+{
+    "URL": "https://thetvdb.com/series/pan-no-aka-chan",
+    "Genres": [
+        "Animation"
+    ],
+    "Other Sites": [
+        "https://www.instagram.com/pan_baby_anime",
+        "https://www.ktv.jp/pan-aka-tv/",
+        "https://www.themoviedb.org/tv/327228",
+        "https://x.com/pan_baby_anime"
+    ],
+    "Titles": {
+        "eng": "Babies of Bread",
+        "jpn": "パンの赤ちゃん"
+    },
+    "Aliases": [
+        "Pan no Aka-chan"
+    ],
+    "Modified": "2026-07-18",
+    "Seasons": {
+        "1": {
+            "ID": "2255695",
+            "URL": "https://thetvdb.com/series/pan-no-aka-chan/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "11850335",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pan-no-aka-chan/episodes/11850335",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ごめんね"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11888518",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pan-no-aka-chan/episodes/11888518",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "じゃんけん"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "11888519",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pan-no-aka-chan/episodes/11888519",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "そっちね"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "11888520",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/pan-no-aka-chan/episodes/11888520",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,772 @@
+{
+    "URL": "https://thetvdb.com/series/ascendance-of-a-bookworm",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt10885406/",
+        "http://booklove-anime.jp",
+        "https://www.themoviedb.org/tv/91768",
+        "https://x.com/anime_booklove"
+    ],
+    "Titles": {
+        "eng": "Ascendance of a Bookworm",
+        "jpn": "本好きの下剋上 司書になるためには手段を選んでいられません"
+    },
+    "Aliases": [
+        "Ascendance of a Bookworm: I'll do anything to become a librarian",
+        "Honzuki no Gekokujou",
+        "Adopted Daughter of an Archduke",
+        "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+        "Ascendance of a Bookworm: Re-Ascendance of a Bookworm",
+        "本好きの下剋上",
+        "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
+        "Honzuki no Gekokujō",
+        "Honzuki no Gekokujō - Shisho ni Naru Tame niwa Shudan o Erandeiramasen",
+        "Honzuki no Gekokujô",
+        "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo"
+    ],
+    "Modified": "2026-07-19",
+    "Seasons": {
+        "0": {
+            "ID": "817011",
+            "URL": "https://thetvdb.com/series/ascendance-of-a-bookworm/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "7510035",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7510035",
+                    "Titles": {
+                        "eng": "Side Story One: Eustachius's Incognito Operation Downtown",
+                        "jpn": "外伝第一章・ユストクスの下町潜入大作戦"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "7626193",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7626193",
+                    "Titles": {
+                        "eng": "Side Story Two: Visiting Missus Corinna",
+                        "jpn": "外伝第二章・コリンナ様のお宅訪問"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "9082060",
+                    "TYPE": "Season Recaps",
+                    "CATEGORY": "Season Recaps",
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/9082060",
+                    "Titles": {
+                        "eng": "Re-Ascendance of a Bookworm: Recap: Part 1",
+                        "jpn": "総集編 第一章 「本好きの再下剋上その1」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "4": {
+                    "ID": "9082061",
+                    "TYPE": "Season Recaps",
+                    "CATEGORY": "Season Recaps",
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/9082061",
+                    "Titles": {
+                        "eng": "Re-Ascendance of a Bookworm Recap: Part 2",
+                        "jpn": "総集編 第二章 「本好きの再下剋上その2」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        },
+        "1": {
+            "ID": "817496",
+            "URL": "https://thetvdb.com/series/ascendance-of-a-bookworm/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 60,
+            "Episodes": {
+                "1": {
+                    "ID": "7267887",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7267887",
+                    "Titles": {
+                        "eng": "A World Without Books",
+                        "jpn": "本のない世界"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7384338",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7384338",
+                    "Titles": {
+                        "eng": "Life Improvements and Slates",
+                        "jpn": "生活改善と石板"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7384340",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7384340",
+                    "Titles": {
+                        "eng": "The Events of Winter",
+                        "jpn": "冬のできごと"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7385480",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7385480",
+                    "Titles": {
+                        "eng": "Forests and Clay Tablets",
+                        "jpn": "初めての森と粘土板"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7385481",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7385481",
+                    "Titles": {
+                        "eng": "Baptisms and Strange Fevers",
+                        "jpn": "洗礼式と不思議な熱"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "7386903",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7386903",
+                    "Titles": {
+                        "eng": "Meeting",
+                        "jpn": "会合"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "7386905",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7386905",
+                    "Titles": {
+                        "eng": "Seeds of Suspicion",
+                        "jpn": "不信感の芽生え"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "7386906",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7386906",
+                    "Titles": {
+                        "eng": "Lutz's Main",
+                        "jpn": "ルッツのマイン"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "7386908",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7386908",
+                    "Titles": {
+                        "eng": "The Guild Master's Granddaughter",
+                        "jpn": "ギルド長の孫娘"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "7386910",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7386910",
+                    "Titles": {
+                        "eng": "To the Second Winter",
+                        "jpn": "二度目の冬に向けて"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "7386911",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7386911",
+                    "Titles": {
+                        "eng": "Life-or-Death Choices and Family Meetings",
+                        "jpn": "究極の選択と家族会議"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "7386912",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7386912",
+                    "Titles": {
+                        "eng": "Baptism and Divine Paradises",
+                        "jpn": "洗礼式と神の楽園"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "7484130",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7484130",
+                    "Titles": {
+                        "eng": "The Choice To Be an Apprentice Priestess",
+                        "jpn": "巫女見習いという選択肢"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "7484135",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7484135",
+                    "Titles": {
+                        "eng": "Conclusions",
+                        "jpn": "決着"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "7510057",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7510057",
+                    "Titles": {
+                        "eng": "Apprentice Priestess",
+                        "jpn": "神殿の巫女見習い"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "7663438",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7663438",
+                    "Titles": {
+                        "eng": "Blue Robes and Uncommon Sense",
+                        "jpn": "青い衣と異なる常識"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "7677639",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7677639",
+                    "Titles": {
+                        "eng": "Needs",
+                        "jpn": "与えるべきもの"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "7686975",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7686975",
+                    "Titles": {
+                        "eng": "Orphanage Reforms",
+                        "jpn": "孤児院の大改革"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "7696165",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7696165",
+                    "Titles": {
+                        "eng": "Cleanups and Star Festivals",
+                        "jpn": "大掃除と星祭り"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "7710749",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7710749",
+                    "Titles": {
+                        "eng": "The Path Ahead of Lutz",
+                        "jpn": "ルッツの行く道"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "7711875",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7711875",
+                    "Titles": {
+                        "eng": "New Retainers",
+                        "jpn": "新しい側仕え"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "7711876",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7711876",
+                    "Titles": {
+                        "eng": "Wilma and Holy Scriptures for Kids",
+                        "jpn": "ヴィルマと子供用聖典"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "7711877",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7711877",
+                    "Titles": {
+                        "eng": "Harvest Festivals and Staying Home",
+                        "jpn": "収穫祭のお留守番"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "7711878",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7711878",
+                    "Titles": {
+                        "eng": "Knight Orders and Requests",
+                        "jpn": "騎士団からの要請"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "7776494",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7776494",
+                    "Titles": {
+                        "eng": "Trombe and Battles",
+                        "jpn": "トロンベ討伐"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "7778150",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/7778150",
+                    "Titles": {
+                        "eng": "Dreamlike World",
+                        "jpn": "夢の世界"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "9080970",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/9080970",
+                    "Titles": {
+                        "eng": "The Beginning of Winter",
+                        "jpn": "冬の始まり"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "9102359",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/9102359",
+                    "Titles": {
+                        "eng": "The Story About Winter Stays and the Future",
+                        "jpn": "冬籠もりと今後の話"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "9102360",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/9102360",
+                    "Titles": {
+                        "eng": "The Dedication Ceremony and Spring Arrives",
+                        "jpn": "奉納式と春の訪れ"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "9102361",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/9102361",
+                    "Titles": {
+                        "eng": "Spring Prayer",
+                        "jpn": "祈念式"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "9102362",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/9102362",
+                    "Titles": {
+                        "eng": "Gift From the Blue-Robed Priest and Going Home",
+                        "jpn": "青色神官の贈り物と帰宅"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "9102363",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/9102363",
+                    "Titles": {
+                        "eng": "The Abandoned Child of the Cathedral and Making Colors",
+                        "jpn": "神殿の捨て子と色作り"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "9102364",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/9102364",
+                    "Titles": {
+                        "eng": "Delia and Dirk",
+                        "jpn": "デリアとディルク"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "9102365",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/9102365",
+                    "Titles": {
+                        "eng": "Ominous Developments",
+                        "jpn": "不穏な動き"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "9102366",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/9102366",
+                    "Titles": {
+                        "eng": "The Black Protective Charm",
+                        "jpn": "黒いお守り"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "9102367",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/9102367",
+                    "Titles": {
+                        "eng": "Blessing",
+                        "jpn": "祝福"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "11570111",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/11570111",
+                    "Titles": {
+                        "eng": "I've Become a Noble",
+                        "jpn": "貴族になったわたし"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "11718101",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/11718101",
+                    "Titles": {
+                        "eng": "Lower City Family Reunion",
+                        "jpn": "下町家族との再会"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "11719066",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/11719066",
+                    "Titles": {
+                        "eng": "Archduke's Castle and Italian Restaurant",
+                        "jpn": "領主の城とイタリアンレストラン"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "11719067",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/11719067",
+                    "Titles": {
+                        "eng": "How to Collect Donations",
+                        "jpn": "寄付金の集め方"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "11719068",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/11719068",
+                    "Titles": {
+                        "eng": "Concert Preparations",
+                        "jpn": "演奏会の準備"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "11719069",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/11719069",
+                    "Titles": {
+                        "eng": "Harspiel Concert",
+                        "jpn": "フェシュピールコンサート"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "11719070",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/11719070",
+                    "Titles": {
+                        "eng": "Hasse's Monastery",
+                        "jpn": "ハッセの小神殿"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "11719071",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/11719071",
+                    "Titles": {
+                        "eng": "Ferdinand's Task",
+                        "jpn": "フェルディナンドの課題"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "11719072",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/11719072",
+                    "Titles": {
+                        "eng": "Wilfried's Day as High Bishop",
+                        "jpn": "ヴィルフリートの一日神殿長"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "11719073",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/11719073",
+                    "Titles": {
+                        "eng": "First Material Gathering",
+                        "jpn": "はじめての素材採集"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "11719074",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/11719074",
+                    "Titles": {
+                        "eng": "The Gathering of Gutenbergs",
+                        "jpn": "グーテンベルクの集い"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "11719075",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/11719075",
+                    "Titles": {
+                        "eng": "The Winter Social Season and Debut",
+                        "jpn": "冬の社交界とお披露目"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "11863203",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/11863203",
+                    "Titles": {
+                        "eng": "Winter Material Gathering",
+                        "jpn": "冬の素材採集"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "11880386",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/11880386",
+                    "Titles": {
+                        "eng": "Hasse's Punishment",
+                        "jpn": "ハッセへの罰"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "11880387",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/11880387",
+                    "Titles": {
+                        "eng": "Night of Fruhtrane",
+                        "jpn": "フリュートレーネの夜"
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "11880388",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/11880388",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                },
+                "53": {
+                    "ID": "11880389",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/11880389",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                },
+                "54": {
+                    "ID": "11880390",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/11880390",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                },
+                "55": {
+                    "ID": "11880391",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/11880391",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                },
+                "56": {
+                    "ID": "11880392",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/11880392",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                },
+                "57": {
+                    "ID": "11880393",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/11880393",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                },
+                "58": {
+                    "ID": "11880394",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/11880394",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                },
+                "59": {
+                    "ID": "11880395",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/11880395",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                },
+                "60": {
+                    "ID": "11880396",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ascendance-of-a-bookworm/episodes/11880396",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

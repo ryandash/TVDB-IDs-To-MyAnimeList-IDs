@@ -1,0 +1,65 @@
+{
+    "URL": "https://thetvdb.com/series/the-cockpit",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Drama",
+        "War"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0202299/",
+        "https://www.themoviedb.org/tv/65983"
+    ],
+    "Titles": {
+        "eng": "The Cockpit",
+        "jpn": "ザ・コクピット"
+    },
+    "Aliases": [],
+    "Modified": "2025-08-29",
+    "Seasons": {
+        "1": {
+            "ID": "366571",
+            "URL": "https://thetvdb.com/series/the-cockpit/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "3241051",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-cockpit/episodes/3241051",
+                    "Titles": {
+                        "eng": "Slipstream",
+                        "jpn": "成層圏気流"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "3241061",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-cockpit/episodes/3241061",
+                    "Titles": {
+                        "eng": "Sonic Boom Squadron",
+                        "jpn": "音速雷撃隊"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "3241071",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-cockpit/episodes/3241071",
+                    "Titles": {
+                        "eng": "Knight of the Iron Dragon",
+                        "jpn": "鉄の竜騎兵"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

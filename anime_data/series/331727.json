@@ -1,0 +1,322 @@
+{
+    "URL": "https://thetvdb.com/series/god-mazinger",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0421351/",
+        "https://www.themoviedb.org/tv/44281"
+    ],
+    "Titles": {
+        "eng": "God Mazinger",
+        "jpn": "ゴッドマジンガー"
+    },
+    "Aliases": [],
+    "Modified": "2023-06-29",
+    "Seasons": {
+        "0": {
+            "ID": "720518",
+            "URL": "https://thetvdb.com/series/god-mazinger/seasons/official/0",
+            "Titles": {
+                "eng": "Official Theme Songs",
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "9664438",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/9664438",
+                    "Titles": {
+                        "eng": "Dreamy My Love (Official Opening Theme)",
+                        "jpn": "Dreamy My Love (Official Opening Theme)"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "9664439",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/9664439",
+                    "Titles": {
+                        "eng": "Temptation of Time (Official Ending Theme)",
+                        "jpn": "Temptation of Time (Official Ending Theme)"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "720519",
+            "URL": "https://thetvdb.com/series/god-mazinger/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 23,
+            "Episodes": {
+                "1": {
+                    "ID": "6193451",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/6193451",
+                    "Titles": {
+                        "eng": "Resurrection of the Legendary Giant",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6193452",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/6193452",
+                    "Titles": {
+                        "eng": "Fate of the Chosen One",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "6193453",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/6193453",
+                    "Titles": {
+                        "eng": "Mystery of the Light Bearer",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "6193454",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/6193454",
+                    "Titles": {
+                        "eng": "Mazinger's Secret",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "6193455",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/6193455",
+                    "Titles": {
+                        "eng": "Prince Eld's Ambush",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "6193456",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/6193456",
+                    "Titles": {
+                        "eng": "Save Aira!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "6193457",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/6193457",
+                    "Titles": {
+                        "eng": "Missing Mazinger",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "6193458",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/6193458",
+                    "Titles": {
+                        "eng": "Hurry, Warrior Yamato!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "6193459",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/6193459",
+                    "Titles": {
+                        "eng": "Discovery of the Dinosaur Factory",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "6193460",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/6193460",
+                    "Titles": {
+                        "eng": "The Terrible Secret",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "6193461",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/6193461",
+                    "Titles": {
+                        "eng": "The Captive Aira",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "6193462",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/6193462",
+                    "Titles": {
+                        "eng": "The Stolen Clue",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "6193463",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/6193463",
+                    "Titles": {
+                        "eng": "Mazinger in Peril",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "6193490",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/6193490",
+                    "Titles": {
+                        "eng": "The Terror of the Light Bearer",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "6193510",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/6193510",
+                    "Titles": {
+                        "eng": "The Wandering Muvians",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "6193517",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/6193517",
+                    "Titles": {
+                        "eng": "The Death of Muraji",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "6193524",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/6193524",
+                    "Titles": {
+                        "eng": "Eld's Secret Base",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "6193542",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/6193542",
+                    "Titles": {
+                        "eng": "The Miracle at the Bottom of the Sea",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "6193550",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/6193550",
+                    "Titles": {
+                        "eng": "Do-or-Die Investigation in the Depths",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "6193551",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/6193551",
+                    "Titles": {
+                        "eng": "Dorado's Fury",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "6193553",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/6193553",
+                    "Titles": {
+                        "eng": "Yamato Versus Dorado!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "6193554",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/6193554",
+                    "Titles": {
+                        "eng": "Yamato is Dead?!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "6193555",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/god-mazinger/episodes/6193555",
+                    "Titles": {
+                        "eng": "Yamato Versus Eld",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "URL": "https://thetvdb.com/series/captain-future",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0122336/",
+        "http://www.toei-anim.co.jp/lineup/tv/captain_future/",
+        "https://www.tvmaze.com/shows/23073/show-slug",
+        "https://www.themoviedb.org/tv/23004",
+        "https://www.wikidata.org/wiki/Q9046782",
+        "https://en.wikipedia.org/wiki/Captain_Future"
+    ],
+    "Titles": {
+        "eng": "Captain Future",
+        "jpn": "キャプテンフューチャー"
+    },
+    "Aliases": [
+        "Captain Future: Star Trail to Glory",
+        "Captain Future: The Great Race in the Solar System",
+        "Captain Future Kareinaru Taiyoukei Race",
+        "キャプテンフューチャー・華麗なる太陽系レース"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "0": {
+            "ID": "26481",
+            "URL": "https://thetvdb.com/series/captain-future/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "441124",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/captain-future/episodes/441124",
+                    "Titles": {
+                        "eng": "Star Trail to Glory",
+                        "jpn": "華麗なる太陽系レース"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "9141226",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/captain-future/episodes/9141226",
+                    "Titles": {
+                        "eng": "Captain Future: The Brilliant Solar System Race",
+                        "jpn": "キャプテンフューチャー・華麗なる太陽系レース"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "1"
+        ],
+        "Episodes": [
+            "395185",
+            "395184"
+        ]
+    }
+}

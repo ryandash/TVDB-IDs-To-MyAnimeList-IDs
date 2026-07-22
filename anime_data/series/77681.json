@@ -1,0 +1,1408 @@
+{
+    "URL": "https://thetvdb.com/series/slayers",
+    "Genres": [
+        "Anime - Seinen"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/1F2D-9E01-CFAB-CAAB-4A6A-Q",
+        "https://www.imdb.com/title/tt0112166/",
+        "https://tvlistings.zap2it.com/overview.html?programSeriesId=SH523945",
+        "https://www.tvmaze.com/shows/6338/show-slug",
+        "https://www.themoviedb.org/tv/26318",
+        "https://www.wikidata.org/wiki/Q18819991",
+        "https://en.wikipedia.org/wiki/Slayers"
+    ],
+    "Titles": {
+        "eng": "Slayers",
+        "jpn": "スレイヤーズ"
+    },
+    "Aliases": [
+        "Slayers Evolution-R",
+        "Slayers Next",
+        "Slayers Revolution",
+        "Slayers Try",
+        "Slayers: Book of Spells"
+    ],
+    "Modified": "2026-01-17",
+    "Seasons": {
+        "0": {
+            "ID": "25138",
+            "URL": "https://thetvdb.com/series/slayers/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 11,
+            "Episodes": {
+                "1": {
+                    "ID": "723361",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/723361",
+                    "Titles": {
+                        "eng": "Slayers: The Motion Picture",
+                        "jpn": "劇場版スレイヤーズ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "415643",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/415643",
+                    "Titles": {
+                        "eng": "Slayers Return",
+                        "jpn": "スレイヤーズRETURN"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "415610",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/415610",
+                    "Titles": {
+                        "eng": "Slayers Book of Spells: The Scary Chimera Plan",
+                        "jpn": "スレイヤーズすぺしゃる　恐怖のリメラ計画"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "415611",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/415611",
+                    "Titles": {
+                        "eng": "Slayers Book of Spells: Jeffry's Knighthood",
+                        "jpn": "スレイヤーズすぺしゃる　ジェフリー君の騎士道"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "5": {
+                    "ID": "415612",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/415612",
+                    "Titles": {
+                        "eng": "Slayers Book of Spells: Mirror, Mirror",
+                        "jpn": "スレイヤーズすぺしゃる　鏡よ鏡"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "6": {
+                    "ID": "415617",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/415617",
+                    "Titles": {
+                        "eng": "Slayers Great",
+                        "jpn": "スレイヤーズぐれえと"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "7": {
+                    "ID": "415613",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/415613",
+                    "Titles": {
+                        "eng": "Slayers Excellent: Labyrinth",
+                        "jpn": "スレイヤーズえくせれんと　らびりんす"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "8": {
+                    "ID": "415614",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/415614",
+                    "Titles": {
+                        "eng": "Slayers Excellent: A Frightening Future",
+                        "jpn": "スレイヤーズえくせれんと　恐るべき未来"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "9": {
+                    "ID": "415615",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/415615",
+                    "Titles": {
+                        "eng": "Slayers Excellent: Lina-Chan's Lovely Makeover Operation",
+                        "jpn": "スレイヤーズえくせれんと　リナちゃん♥おしゃれ大作戦"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "10": {
+                    "ID": "415616",
+                    "TYPE": null,
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/415616",
+                    "Titles": {
+                        "eng": "Slayers Gorgeous",
+                        "jpn": "スレイヤーズごぅじゃす"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "12": {
+                    "ID": "415638",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/415638",
+                    "Titles": {
+                        "eng": "Slayers Premium",
+                        "jpn": "スレイヤーズぷれみあむ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "13359",
+            "URL": "https://thetvdb.com/series/slayers/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "deu": "The Slayers",
+                "kor": "슬레이어즈",
+                "fra": "Slayers",
+                "ita": "Slayers",
+                "pol": "Slayers",
+                "spa": "Los Justicieros (1995)"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "254124",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254124",
+                    "Titles": {
+                        "eng": "ANGRY? Lina's Furious Dragon Slave!",
+                        "jpn": "Angry？ リナ怒りのドラグスレイブ！"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "254125",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254125",
+                    "Titles": {
+                        "eng": "BAD! Mummy Men Aren't My Type!",
+                        "jpn": "Bad！ ミイラ男は趣味じゃない！"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "254126",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254126",
+                    "Titles": {
+                        "eng": "CRASH! Red and White and Suspicious All Over!",
+                        "jpn": "Crash！ 激突！赤いの白いの怪しいの！"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "254127",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254127",
+                    "Titles": {
+                        "eng": "DASH! Run for it! My Magic Doesn't Work?",
+                        "jpn": "Dash！ 逃げろ！魔法が使えない？"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "254128",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254128",
+                    "Titles": {
+                        "eng": "ESCAPE! Noonsa, the Flaming Fish Man!",
+                        "jpn": "Escape！ 炎の半魚人ヌンサ！"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "254129",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254129",
+                    "Titles": {
+                        "eng": "FOCUS! Rezo's the Real Enemy?!",
+                        "jpn": "Focus！ 本当の敵はレゾ？"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "254130",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254130",
+                    "Titles": {
+                        "eng": "GIVE UP! But, Just Before We Do, the Sure Kill Sword Appears!",
+                        "jpn": "Give up 寸前？出た必殺の剣っ!!"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "254131",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254131",
+                    "Titles": {
+                        "eng": "HELP! Shabranigdo is Reborn!",
+                        "jpn": "Help！ シャブラニグドゥ復活!!"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "254132",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254132",
+                    "Titles": {
+                        "eng": "IMPACT! The Eve of the Great Life or Death Struggle!",
+                        "jpn": "Impact！ 脅威の決戦前夜！"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "254133",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254133",
+                    "Titles": {
+                        "eng": "JACKPOT! The Great Life or Death Gamble!",
+                        "jpn": "Jackpot！ のるかそるかの大バクチ！"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "254134",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254134",
+                    "Titles": {
+                        "eng": "KNOCK OUT! The Seyruun Family Feud!",
+                        "jpn": "Knock out！ セイルーンお家騒動！"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "254135",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254135",
+                    "Titles": {
+                        "eng": "LOVELY! Amelia's Magic Training!",
+                        "jpn": "Lovely！ アメリアの魔法修行"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "254136",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254136",
+                    "Titles": {
+                        "eng": "MONEY! Knock Out Those Bounty Hunters!",
+                        "jpn": "Money！ 賞金稼ぎをブチのめせっ!!"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "254137",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254137",
+                    "Titles": {
+                        "eng": "NAVIGATION! An Invitation to Sairaag!",
+                        "jpn": "Navigation！ サイラーグへの招待状！"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "254138",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254138",
+                    "Titles": {
+                        "eng": "OH NO! Lina's Wedding Rhapsody?",
+                        "jpn": "Oh no！ リナの結婚狂想曲？"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "254139",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254139",
+                    "Titles": {
+                        "eng": "PASSION! Shall We Give Our Lives for the Stage?",
+                        "jpn": "Passion！ 舞台にかける青春？"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "254140",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254140",
+                    "Titles": {
+                        "eng": "QUESTION? He's Proposing to THAT Girl?",
+                        "jpn": "Question？ あの娘？にプロポーズ！"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "254141",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254141",
+                    "Titles": {
+                        "eng": "RETURN! The Red Priest Is Back!",
+                        "jpn": "Return！ 赤法師ふたたび！"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "254142",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254142",
+                    "Titles": {
+                        "eng": "SHOCK! Sairaag Falls!",
+                        "jpn": "Shock！ サイラーグ崩壊！"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "254143",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254143",
+                    "Titles": {
+                        "eng": "TROUBLE! Rahanimu, The Furious Fish Man!",
+                        "jpn": "Trouble！ 嵐の半魚人ラハニム♥"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "254144",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254144",
+                    "Titles": {
+                        "eng": "UPSET! Gourry vs. Zangulus!",
+                        "jpn": "Upset！ ガウリイVSザングルス"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "254145",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254145",
+                    "Titles": {
+                        "eng": "VICE! The One Who Was Left Behind!",
+                        "jpn": "Vice！ 残されしものたち"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "254146",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254146",
+                    "Titles": {
+                        "eng": "WARNING! Eris' Wrath!",
+                        "jpn": "Warning！ エリスの執念！"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "254147",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254147",
+                    "Titles": {
+                        "eng": "X-DAY! The Demon Beast is Reborn!",
+                        "jpn": "X-DAY よみがえる魔獣！"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "254148",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254148",
+                    "Titles": {
+                        "eng": "YES! A Final Hope: The Blessed Blade!",
+                        "jpn": "Yes！ 最後の希望 祝福の剣"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "254149",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254149",
+                    "Titles": {
+                        "eng": "ZAP! Victory is Always Mine!",
+                        "jpn": "Zap！ 勝利はあたしのためにある"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "13360",
+            "URL": "https://thetvdb.com/series/slayers/seasons/official/2",
+            "Titles": {
+                "eng": "Next",
+                "jpn": "NEXT",
+                "deu": "The Slayers Next",
+                "por": "Slayers Next",
+                "kor": "슬레이어즈 NEXT",
+                "fra": "Slayers Next",
+                "ita": "Slayers Next"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "254150",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254150",
+                    "Titles": {
+                        "eng": "The Sudden Pinch! The Terror of the Monstrous Zoamelgustar!",
+                        "jpn": "いきなりピンチ！魔人ゾアメルグスターの恐怖！"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "254151",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254151",
+                    "Titles": {
+                        "eng": "The Roguish Priest! His Name is Xellos!",
+                        "jpn": "ふざけた神官！その名はゼロス！"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "254152",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254152",
+                    "Titles": {
+                        "eng": "A Wonderful Business! Being a Bodyguard isn't Easy!",
+                        "jpn": "素敵な商売！用心棒も楽じゃない！"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "254153",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254153",
+                    "Titles": {
+                        "eng": "An Ancient Pledge! One Who Seeks Immortality!",
+                        "jpn": "いにしえの契約！不死を求める者！"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "254154",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254154",
+                    "Titles": {
+                        "eng": "Staying Behind For the Sake of Love!",
+                        "jpn": "残されし愛ゆえに！"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "254155",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254155",
+                    "Titles": {
+                        "eng": "You Can't Escape! The Return of the Obsessive Martina!",
+                        "jpn": "逃がさない！執念のマルチナふたたび！"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "254156",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254156",
+                    "Titles": {
+                        "eng": "Sudden Cooking! Follow the Phantom Dragon!",
+                        "jpn": "びっくり料理！幻のドラゴンを追え！"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "254157",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254157",
+                    "Titles": {
+                        "eng": "Be Eternal! The Day Prince Phil Died?",
+                        "jpn": "永遠なれ！フィルさんが死んだ日？"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "254158",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254158",
+                    "Titles": {
+                        "eng": "Hidden Ambitions! The Shocking Confession?",
+                        "jpn": "秘められし野望！衝撃の告白？"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "254159",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254159",
+                    "Titles": {
+                        "eng": "On a Journey With a Pack of Scoundrels?! Take Back That Magic Power!",
+                        "jpn": "クセ者ぞろいの珍道中？！魔力を取り戻せ！"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "254160",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254160",
+                    "Titles": {
+                        "eng": "Voices from the Darkness! Slash 'em to Bits, Ragna Blade!",
+                        "jpn": "迫り来る闇の声！切り裂けラグナ・ブレード！"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "254161",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254161",
+                    "Titles": {
+                        "eng": "The Unexpected End? The Shocking Truth!",
+                        "jpn": "ドンデン返し？意外なる真実！"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "254162",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254162",
+                    "Titles": {
+                        "eng": "Impending Fall! The Moment of Ambition's Defeat!",
+                        "jpn": "墜落寸前！野望のついえる時！"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "254163",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254163",
+                    "Titles": {
+                        "eng": "The Forbidden Dance? Where is the Strongest Spell?",
+                        "jpn": "禁断のダンス？最強呪文はどこだ！"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "254164",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254164",
+                    "Titles": {
+                        "eng": "A Big Crash? The Battle at Artemay Tower!",
+                        "jpn": "大激突？戦いのアルテメ塔！"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "254165",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254165",
+                    "Titles": {
+                        "eng": "Bitter Curve Balls! Gutsy Fast Balls!",
+                        "jpn": "恨みの魔球！根性の豪速球！"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "254166",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254166",
+                    "Titles": {
+                        "eng": "They're Talking About a Girl Named Zelgadis?",
+                        "jpn": "噂の彼女はゼルガディス？"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "254167",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254167",
+                    "Titles": {
+                        "eng": "The Temple of the Sand! The Secret of the Giga Slave!",
+                        "jpn": "砂の神殿！ギガスレイブの秘密！"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "254168",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254168",
+                    "Titles": {
+                        "eng": "Disclosure at Last? Xellos's True Form!",
+                        "jpn": "ついに発覚っ？ゼロスの正体！"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "254169",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254169",
+                    "Titles": {
+                        "eng": "No Other Choice! Set Course for Dragon Valley!",
+                        "jpn": "いくっきゃないっ！ドラゴンの谷を目指せ！"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "254170",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254170",
+                    "Titles": {
+                        "eng": "The Thousand Year Old Truth! The Traitorous Demon Dragon King!",
+                        "jpn": "千年の真実！裏切りの魔竜王！"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "254171",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254171",
+                    "Titles": {
+                        "eng": "The Stolen Sword of Light! The End of the Demon Dragon King!",
+                        "jpn": "奪われた光の剣！魔竜王最後の時！"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "254172",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254172",
+                    "Titles": {
+                        "eng": "The Menacing Swordsman! A Journey of Reunion!",
+                        "jpn": "脅威の魔剣士！再会の旅路！"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "254173",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254173",
+                    "Titles": {
+                        "eng": "Sinister Trap! The Mysterious City of Ghosts!",
+                        "jpn": "邪悪なる罠！幻の死霊都市！"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "254174",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254174",
+                    "Titles": {
+                        "eng": "The Souls of the Dead! Lina's Final Decision!",
+                        "jpn": "死せる者の魂！リナ最後の決断！"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "254175",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254175",
+                    "Titles": {
+                        "eng": "Go to NEXT! And Then Again...",
+                        "jpn": "Go to NEXT！そしてまた…"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "13361",
+            "URL": "https://thetvdb.com/series/slayers/seasons/official/3",
+            "Titles": {
+                "eng": "Try",
+                "jpn": "TRY",
+                "deu": "The Slayers Try",
+                "por": "Slayers Try",
+                "kor": "슬레이어즈 TRY",
+                "fra": "Slayers Try",
+                "ita": "Slayers Try"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "254176",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254176",
+                    "Titles": {
+                        "eng": "Majestic? Hoist Sails for the Journey!",
+                        "jpn": "威風堂々？旅立ちの帆をあげろ！"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "254177",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254177",
+                    "Titles": {
+                        "eng": "Doubtful? A Letter from Home!",
+                        "jpn": "半信半疑？故郷（くに）からの手紙に！"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "254178",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254178",
+                    "Titles": {
+                        "eng": "Where'd That Arrogant Guy Go?",
+                        "jpn": "傍若無人なアイツはどこへ？"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "254179",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254179",
+                    "Titles": {
+                        "eng": "On the Move! He's Out for Revenge?",
+                        "jpn": "東奔西走！ヤツの狙いはカタキ討ち？"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "254180",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254180",
+                    "Titles": {
+                        "eng": "A Wild Rumor! You Can't Have Smoke Without Fire?",
+                        "jpn": "流言飛語？炎を吐かなきゃ煙は立たぬ？"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "254181",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254181",
+                    "Titles": {
+                        "eng": "Wandering Around? The Runaway Shrine Takes a Trip!",
+                        "jpn": "流浪流転？暴走神殿の旅を！"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "254182",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254182",
+                    "Titles": {
+                        "eng": "A Peace Conference? This is the Dragon Shrine?",
+                        "jpn": "和平会談？これがドラゴンの神殿か？"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "254183",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254183",
+                    "Titles": {
+                        "eng": "Be Careful! The Plan has Begun!",
+                        "jpn": "用意周到！計画は動き出した！"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "254184",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254184",
+                    "Titles": {
+                        "eng": "Continuous Fire! The Wind-Swept Shore of Battle!",
+                        "jpn": "連続発射！戦いの荒磯！"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "254185",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254185",
+                    "Titles": {
+                        "eng": "Ready for Exile! Isn't Two People's Love Eternal?",
+                        "jpn": "追放覚悟！二人の愛は永遠よね？"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "254186",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254186",
+                    "Titles": {
+                        "eng": "The Hurdle's Cleared? Jiras' Hidden Power!",
+                        "jpn": "難関突破？男ジラスの底力！"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "254187",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254187",
+                    "Titles": {
+                        "eng": "Selfless and Senseless! Pursuit Through the Labyrinth!",
+                        "jpn": "無我夢中！迷宮の追跡行！"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "254188",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254188",
+                    "Titles": {
+                        "eng": "An Explosive Situation! The One Who Holds the Key!",
+                        "jpn": "一触即発！鍵を握る者！"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "254189",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254189",
+                    "Titles": {
+                        "eng": "Striding and Swaggering! Lamentation Without End!",
+                        "jpn": "横行闊歩！終わりなき慟哭！"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "254190",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254190",
+                    "Titles": {
+                        "eng": "Disaster and Danger? This Place is a Wonder Island!",
+                        "jpn": "厄難奇難？ここは不思議の島！"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "254191",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254191",
+                    "Titles": {
+                        "eng": "Pandemonium! Terror of the Cursed Jar!",
+                        "jpn": "喧々囂々！呪われた壺の恐怖！"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "254192",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254192",
+                    "Titles": {
+                        "eng": "Immediate Results? Love is in the Tiny Differences!",
+                        "jpn": "効果覿面？恋の行方は紙一重！"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "254193",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254193",
+                    "Titles": {
+                        "eng": "The Right Person in the Right Place! Amelia in the Village of Justice!",
+                        "jpn": "適材適所！正義の里のアメリア！"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "254194",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254194",
+                    "Titles": {
+                        "eng": "Three People, Three Ways! Where the Light Leads!",
+                        "jpn": "三者三様！光の示す先！"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "254195",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254195",
+                    "Titles": {
+                        "eng": "A Hero's Advent? To Whom does the Young Girl Pray?",
+                        "jpn": "勇者降臨？少女の祈りは誰のため？"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "254196",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254196",
+                    "Titles": {
+                        "eng": "Savage and Unexplored! History Sealed Away!",
+                        "jpn": "未開未踏！封じられた歴史！"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "254197",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254197",
+                    "Titles": {
+                        "eng": "Eternal Death, Final Farewells! A Cry to the Fallen!",
+                        "jpn": "永逝永訣！倒れし者への叫び！"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "254198",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254198",
+                    "Titles": {
+                        "eng": "No Time for Arguing! Head for the Showdown!",
+                        "jpn": "問答無用！決戦の地を目指せ！"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "254199",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254199",
+                    "Titles": {
+                        "eng": "No way to Guess! The Forbidden Gateway is Opened!",
+                        "jpn": "推測不能！開かれし禁断の門！"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "254200",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254200",
+                    "Titles": {
+                        "eng": "He Who Emerges from the Dark Star!",
+                        "jpn": "闇の星より出ずる者！"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "254201",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/254201",
+                    "Titles": {
+                        "eng": "TRY Again! When All Returns to White!",
+                        "jpn": "TRY again！白く還りし刻！"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "4": {
+            "ID": "38143",
+            "URL": "https://thetvdb.com/series/slayers/seasons/official/4",
+            "Titles": {
+                "eng": "Revolution",
+                "jpn": "REVOLUTION",
+                "por": "Slayers Revolution",
+                "kor": "슬레이어즈 REVOLUTION",
+                "fra": "Slayers Revolution",
+                "ita": "Slayers Revolution",
+                "spa": "Slayers Revolution"
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "415680",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/415680",
+                    "Titles": {
+                        "eng": "AMAZING! The Astonishing Dragon Slave!?",
+                        "jpn": "Ａｍａｚｉｎｇ　驚愕のドラグスレイブ！？"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "415681",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/415681",
+                    "Titles": {
+                        "eng": "BECAUSE! You're Lina Inverse, That's Why!",
+                        "jpn": "Ｂｅｃａｕｓｅ　それはリナ＝インバースだから！"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "415682",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/415682",
+                    "Titles": {
+                        "eng": "CHASE! The Endless Pursuit!",
+                        "jpn": "Ｃｈａｓｅ　終わりなき追走！"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "415683",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/415683",
+                    "Titles": {
+                        "eng": "DRIFTER! Who's Chasing Whom?!",
+                        "jpn": "Drifter　どっちが追うか追われるか！"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "415684",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/415684",
+                    "Titles": {
+                        "eng": "ETERNAL! The Forever-Sleeping Forest!",
+                        "jpn": "Eternal　悠久に眠れし森"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "415685",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/415685",
+                    "Titles": {
+                        "eng": "FALL ON! Strange Festival! Bizarre Festival? Push That Ball Up!",
+                        "jpn": "Fall on  奇祭！ 珍祭？ あの玉を押しあげろ！"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "415686",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/415686",
+                    "Titles": {
+                        "eng": "GORGEOUS! The Targeted Luxury Liner?",
+                        "jpn": "Gorgeous　狙われた豪華客船！？"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "415687",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/415687",
+                    "Titles": {
+                        "eng": "HURRY UP! Run Through! No, Don't?",
+                        "jpn": "Hurry up　つっこめっ！　いや、つっこむな？"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "415688",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/415688",
+                    "Titles": {
+                        "eng": "INSIDER! The One Who Knows the Truth!",
+                        "jpn": "Insider 真実を知るもの！"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "415689",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/415689",
+                    "Titles": {
+                        "eng": "JUDGEMENT! The Silver One Rises Again!",
+                        "jpn": "Judgement　蘇る白銀(しろがね)！"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "415690",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/415690",
+                    "Titles": {
+                        "eng": "KEEP OUT! The Demon Beast Looms!",
+                        "jpn": "Keep out　しのびよる魔獣！"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "415691",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/415691",
+                    "Titles": {
+                        "eng": "LEGACY! Decisive Battle in Seyruun!",
+                        "jpn": "Legacy　決戦セイルーン！"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "415692",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/415692",
+                    "Titles": {
+                        "eng": "MISTY! The Blades are Brought Down!",
+                        "jpn": "Misty　振り下ろされる刃！"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "5": {
+            "ID": "41105",
+            "URL": "https://thetvdb.com/series/slayers/seasons/official/5",
+            "Titles": {
+                "eng": "Evolution-R",
+                "jpn": "EVOLUTION-R",
+                "por": "Slayers Evolution-R",
+                "kor": "슬레이어즈 EVOLUTION-R",
+                "fra": "Slayers Evolution-R",
+                "ita": "Slayers Evolution-R",
+                "spa": "Slayers Evolution-R"
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "438452",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/438452",
+                    "Titles": {
+                        "eng": "NEWCOMER? A New Journey!",
+                        "jpn": "New comer？ 新たなる旅立ち！"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "438453",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/438453",
+                    "Titles": {
+                        "eng": "OH MY HEAD! Where's My Head?",
+                        "jpn": "Oh my head！ 頭はどこだ？"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "438454",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/438454",
+                    "Titles": {
+                        "eng": "PARTNER! Sharing Mind and Body?",
+                        "jpn": "Partner！ 二人は一心同体？"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "438455",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/438455",
+                    "Titles": {
+                        "eng": "QUALITY TIME? A Home Life with Love?",
+                        "jpn": "Quality time？ 愛ある生活？"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "438456",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/438456",
+                    "Titles": {
+                        "eng": "RAIDER! Voice From the Darkness!",
+                        "jpn": "Raider！ 闇からの声！"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "438457",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/438457",
+                    "Titles": {
+                        "eng": "SEEK! Who's being Targeted?!",
+                        "jpn": "Seek！ 狙われるのは誰だ！"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "442506",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/442506",
+                    "Titles": {
+                        "eng": "TOWNSCAPE! Because it's Manmade!",
+                        "jpn": "Town scape 人に作られたモノゆえに"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "443903",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/443903",
+                    "Titles": {
+                        "eng": "UNCOVER! The Exposed Darkness!",
+                        "jpn": "Uncover 暴かれる闇！"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "451361",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/451361",
+                    "Titles": {
+                        "eng": "VOICE! What's Inside the Jar?",
+                        "jpn": "Voice 壺の中身は何ですか？"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "451371",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/451371",
+                    "Titles": {
+                        "eng": "WISDOM! Seek the Time that Will Never Return!",
+                        "jpn": "Wisdom 帰らぬ時を求めて！"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "451381",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/451381",
+                    "Titles": {
+                        "eng": "XENO! The Price of Revival!",
+                        "jpn": "Xeno 復活の代償！"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "451391",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/451391",
+                    "Titles": {
+                        "eng": "YESTERDAY'S MEMORY! Days Regained!",
+                        "jpn": "Yesterdays memory 取り戻した日々"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "451401",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/slayers/episodes/451401",
+                    "Titles": {
+                        "eng": "ZERO HOUR! The Destroyed One!",
+                        "jpn": "Zero hour 滅びゆくもの！"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -19,6 +19,149 @@
     ],
     "Modified": "2026-02-04",
     "Seasons": {
+        "1": {
+            "ID": "1908772",
+            "URL": "https://thetvdb.com/series/the-duke-of-death-and-his-maid/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "8278506",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-duke-of-death-and-his-maid/episodes/8278506",
+                    "Titles": {
+                        "eng": "The Duke and Alice",
+                        "jpn": "坊ちゃんとアリス"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8500709",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-duke-of-death-and-his-maid/episodes/8500709",
+                    "Titles": {
+                        "eng": "The Duke, His Butler, and a Lost Cat",
+                        "jpn": "坊ちゃんと執事と迷い猫"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "8500710",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-duke-of-death-and-his-maid/episodes/8500710",
+                    "Titles": {
+                        "eng": "The Duke and the Meteor Shower During the Full Moon",
+                        "jpn": "坊ちゃんと満月の流星群"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "8500711",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-duke-of-death-and-his-maid/episodes/8500711",
+                    "Titles": {
+                        "eng": "The Duke, Alice, and Memories of Snow",
+                        "jpn": "坊ちゃんとアリスと雪の記憶"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "8500712",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-duke-of-death-and-his-maid/episodes/8500712",
+                    "Titles": {
+                        "eng": "The Duke, a Crow, and Ice Skating",
+                        "jpn": "坊ちゃんと烏とアイススケート"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "8500713",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-duke-of-death-and-his-maid/episodes/8500713",
+                    "Titles": {
+                        "eng": "The Duke, Alice, and a Night in the Witches' World",
+                        "jpn": "坊ちゃんとアリスと魔界の一夜"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "8500714",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-duke-of-death-and-his-maid/episodes/8500714",
+                    "Titles": {
+                        "eng": "The Duke's and Alice's Uneventful Day",
+                        "jpn": "坊ちゃんとアリスのなんでもない１日"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "8500715",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-duke-of-death-and-his-maid/episodes/8500715",
+                    "Titles": {
+                        "eng": "White Snow, Black Clothes",
+                        "jpn": "白い雪、黒い服"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "8500716",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-duke-of-death-and-his-maid/episodes/8500716",
+                    "Titles": {
+                        "eng": "The Duke, Alice, and the Christmas Eve Vow",
+                        "jpn": "坊ちゃんとアリスと聖夜の誓い"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "8500717",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-duke-of-death-and-his-maid/episodes/8500717",
+                    "Titles": {
+                        "eng": "The Duke, Alice, and a Song for Two",
+                        "jpn": "坊ちゃんとアリスと二人だけの歌"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "8500718",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-duke-of-death-and-his-maid/episodes/8500718",
+                    "Titles": {
+                        "eng": "The Duke and Secret Magic",
+                        "jpn": "坊ちゃんと秘密の魔法"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "8500719",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-duke-of-death-and-his-maid/episodes/8500719",
+                    "Titles": {
+                        "eng": "Together with the Duke...",
+                        "jpn": "坊ちゃんと一緒に……"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
         "2": {
             "ID": "2070378",
             "URL": "https://thetvdb.com/series/the-duke-of-death-and-his-maid/seasons/official/2",
@@ -305,14 +448,5 @@
                 }
             }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "1"
-        ],
-        "Episodes": [
-            "8500717",
-            "8500718"
-        ]
     }
 }

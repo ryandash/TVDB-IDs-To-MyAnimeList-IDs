@@ -1,0 +1,396 @@
+{
+    "URL": "https://thetvdb.com/series/gravion",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0425686/",
+        "https://www.themoviedb.org/tv/12333"
+    ],
+    "Titles": {
+        "eng": "Gravion",
+        "jpn": "超重神グラヴィオン"
+    },
+    "Aliases": [
+        "超重神グラヴィオンツヴァイ"
+    ],
+    "Modified": "2026-01-12",
+    "Seasons": {
+        "0": {
+            "ID": "29852",
+            "URL": "https://thetvdb.com/series/gravion/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "4097091",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/4097091",
+                    "Titles": {
+                        "eng": "Extra 1",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 4
+                },
+                "2": {
+                    "ID": "4097092",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/4097092",
+                    "Titles": {
+                        "eng": "Extra 2",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 4
+                },
+                "3": {
+                    "ID": "4097093",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/4097093",
+                    "Titles": {
+                        "eng": "Music Video",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "4": {
+                    "ID": "4097094",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/4097094",
+                    "Titles": {
+                        "eng": "Extra 3",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 4
+                },
+                "5": {
+                    "ID": "4097095",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/4097095",
+                    "Titles": {
+                        "eng": "Extra 4",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 4,
+                    "Num Episodes": 4
+                }
+            }
+        },
+        "1": {
+            "ID": "29853",
+            "URL": "https://thetvdb.com/series/gravion/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "346382",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/346382",
+                    "Titles": {
+                        "eng": "Fortress of the Diety",
+                        "jpn": "巨神の棲む城"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "346383",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/346383",
+                    "Titles": {
+                        "eng": "Mission of Gravity",
+                        "jpn": "重力の使命"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "346384",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/346384",
+                    "Titles": {
+                        "eng": "Labyrinth",
+                        "jpn": "迷宮"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "346385",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/346385",
+                    "Titles": {
+                        "eng": "The Princess in the Tower",
+                        "jpn": "塔の中の姫君"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "346386",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/346386",
+                    "Titles": {
+                        "eng": "The Girl Who Wouldn't Laugh",
+                        "jpn": "笑わない少女"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "346387",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/346387",
+                    "Titles": {
+                        "eng": "Toga's Day Off",
+                        "jpn": "斗牙の休日"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "346388",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/346388",
+                    "Titles": {
+                        "eng": "Drill Girl on the Beach",
+                        "jpn": "渚のドリル少女"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "346389",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/346389",
+                    "Titles": {
+                        "eng": "Storming the Castle",
+                        "jpn": "超重戦場"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "346390",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/346390",
+                    "Titles": {
+                        "eng": "A Distant Embrace",
+                        "jpn": "遠い抱擁"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "346391",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/346391",
+                    "Titles": {
+                        "eng": "Crack",
+                        "jpn": "亀裂"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "346392",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/346392",
+                    "Titles": {
+                        "eng": "The Thing That Was Lost",
+                        "jpn": "うしなわれたもの"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "346393",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/346393",
+                    "Titles": {
+                        "eng": "Because You're With Me",
+                        "jpn": "君がいるから"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "346394",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/346394",
+                    "Titles": {
+                        "eng": "White Steel Fang",
+                        "jpn": "しろがねの牙"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "35089",
+            "URL": "https://thetvdb.com/series/gravion/seasons/official/2",
+            "Titles": {
+                "eng": "Zwei",
+                "jpn": "Zwei"
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "387150",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/387150",
+                    "Titles": {
+                        "eng": "Super Heavy God, Second Coming",
+                        "jpn": "超重神再臨"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "387151",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/387151",
+                    "Titles": {
+                        "eng": "Elegant Reunion",
+                        "jpn": "麗しき再会"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "387152",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/387152",
+                    "Titles": {
+                        "eng": "Passionate Fight! Gravi Onsen!!",
+                        "jpn": "熱闘！愚裸美温泉!!"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "387153",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/387153",
+                    "Titles": {
+                        "eng": "From the Bottom of the Wave",
+                        "jpn": "波の底より"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "387154",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/387154",
+                    "Titles": {
+                        "eng": "The Dream Solitary Isle",
+                        "jpn": "夢みる孤島"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "387155",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/387155",
+                    "Titles": {
+                        "eng": "Lamenting Rosario",
+                        "jpn": "嘆きのロザリオ"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "387156",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/387156",
+                    "Titles": {
+                        "eng": "The Shattered Goddess",
+                        "jpn": "砕かれた女神（ディーヴァ）"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "387157",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/387157",
+                    "Titles": {
+                        "eng": "When Gravity Becomes Weak",
+                        "jpn": "重力が衰えるとき"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "387158",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/387158",
+                    "Titles": {
+                        "eng": "The Crimson Fang",
+                        "jpn": "紅ノ牙"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "387159",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/387159",
+                    "Titles": {
+                        "eng": "The Sun's Flames",
+                        "jpn": "太陽の炎"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "387160",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/387160",
+                    "Titles": {
+                        "eng": "Creation Star Machine",
+                        "jpn": "創星機"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "387161",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gravion/episodes/387161",
+                    "Titles": {
+                        "eng": "The Spirital Song of Victory",
+                        "jpn": "魂の凱歌"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

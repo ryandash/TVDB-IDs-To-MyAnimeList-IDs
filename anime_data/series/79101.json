@@ -1,0 +1,224 @@
+{
+    "URL": "https://thetvdb.com/series/air",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0940874/",
+        "http://www.tbs.co.jp/anime/air/",
+        "http://www.reddit.com/r/air",
+        "https://www.themoviedb.org/tv/26201"
+    ],
+    "Titles": {
+        "eng": "Air",
+        "jpn": "AIR"
+    },
+    "Aliases": [],
+    "Modified": "2026-06-20",
+    "Seasons": {
+        "0": {
+            "ID": "26548",
+            "URL": "https://thetvdb.com/series/air/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "890351",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/air/episodes/890351",
+                    "Titles": {
+                        "eng": "Air: The Motion Picture",
+                        "jpn": "劇場版AIR"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "365055",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/air/episodes/365055",
+                    "Titles": {
+                        "eng": "Air in Summer - Mountain Path",
+                        "jpn": "AIR イン サマー ~やまみち~"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "365056",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/air/episodes/365056",
+                    "Titles": {
+                        "eng": "Air in Summer - Universe",
+                        "jpn": "AIR イン サマー ~あめつち~"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "16038",
+            "URL": "https://thetvdb.com/series/air/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "302756",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/air/episodes/302756",
+                    "Titles": {
+                        "eng": "Breeze",
+                        "jpn": "かぜ ～breeze～"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "302757",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/air/episodes/302757",
+                    "Titles": {
+                        "eng": "Town",
+                        "jpn": "まち ～town～"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "302758",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/air/episodes/302758",
+                    "Titles": {
+                        "eng": "Whisper",
+                        "jpn": "こえ ～whisper～"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "302759",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/air/episodes/302759",
+                    "Titles": {
+                        "eng": "Plume",
+                        "jpn": "はね ～plume～"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "302760",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/air/episodes/302760",
+                    "Titles": {
+                        "eng": "Wing",
+                        "jpn": "つばさ ～wing～"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "302761",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/air/episodes/302761",
+                    "Titles": {
+                        "eng": "Star",
+                        "jpn": "ほし ～star～"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "305154",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/air/episodes/305154",
+                    "Titles": {
+                        "eng": "Dream",
+                        "jpn": "ゆめ ～dream～"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "305155",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/air/episodes/305155",
+                    "Titles": {
+                        "eng": "Summer",
+                        "jpn": "なつ ～summer～"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "305156",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/air/episodes/305156",
+                    "Titles": {
+                        "eng": "Moon",
+                        "jpn": "つき ～moon～"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "305157",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/air/episodes/305157",
+                    "Titles": {
+                        "eng": "Light",
+                        "jpn": "ひかり ～light～"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "305158",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/air/episodes/305158",
+                    "Titles": {
+                        "eng": "Sea",
+                        "jpn": "うみ ～sea～"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "305159",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/air/episodes/305159",
+                    "Titles": {
+                        "eng": "Air",
+                        "jpn": "そら ～air～"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "365054",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/air/episodes/365054",
+                    "Titles": {
+                        "eng": "Memories",
+                        "jpn": "総集編"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

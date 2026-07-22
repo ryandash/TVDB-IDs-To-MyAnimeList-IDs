@@ -94,12 +94,51 @@
                     "Aliases": []
                 }
             }
+        },
+        "2": {
+            "ID": "1846319",
+            "URL": "https://thetvdb.com/series/fastening-days/seasons/official/2",
+            "Titles": {
+                "eng": "Fastening Days 4",
+                "jpn": null,
+                "por": "Dias de Apertar o Fecho 4"
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "7770031",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/fastening-days/episodes/7770031",
+                    "Titles": {
+                        "eng": "Episode 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7770033",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/fastening-days/episodes/7770033",
+                    "Titles": {
+                        "eng": "Episode 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7770034",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/fastening-days/episodes/7770034",
+                    "Titles": {
+                        "eng": "Episode 3",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "2"
-        ],
-        "Episodes": []
     }
 }

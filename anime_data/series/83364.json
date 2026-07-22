@@ -1,0 +1,356 @@
+{
+    "URL": "https://thetvdb.com/series/tytania",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Romance",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1279025/",
+        "https://www.themoviedb.org/tv/34691"
+    ],
+    "Titles": {
+        "eng": "Tytania",
+        "jpn": "TYTANIA-タイタニア-"
+    },
+    "Aliases": [],
+    "Modified": "2025-12-27",
+    "Seasons": {
+        "0": {
+            "ID": "537639",
+            "URL": "https://thetvdb.com/series/tytania/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "6971092",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/6971092",
+                    "Titles": {
+                        "eng": "NHK Anime Pavilion 2008 Talk Show 1",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "2": {
+                    "ID": "6971093",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/6971093",
+                    "Titles": {
+                        "eng": "NHK Anime Pavilion 2008 Talk Show 2",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        },
+        "1": {
+            "ID": "36268",
+            "URL": "https://thetvdb.com/series/tytania/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "397835",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/397835",
+                    "Titles": {
+                        "eng": "The Battle of Cerberos",
+                        "jpn": "ケルベロスの戦い"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "399770",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/399770",
+                    "Titles": {
+                        "eng": "The Four Dukes of Uraniborg",
+                        "jpn": "天の城（ウラニボルグ）の四公爵"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "400804",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/400804",
+                    "Titles": {
+                        "eng": "The Requirements of a Hero",
+                        "jpn": "英雄の条件"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "402546",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/402546",
+                    "Titles": {
+                        "eng": "Lira's Determination",
+                        "jpn": "リラの決心"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "403699",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/403699",
+                    "Titles": {
+                        "eng": "Admiration, Pride, and...",
+                        "jpn": "憧れと、誇りと"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "412328",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/412328",
+                    "Titles": {
+                        "eng": "The Battle of Syracuse System",
+                        "jpn": "シラクサ星域会戦"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "412329",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/412329",
+                    "Titles": {
+                        "eng": "Under the Blaze Flag",
+                        "jpn": "流星の旗のもとに"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "412330",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/412330",
+                    "Titles": {
+                        "eng": "Two Encounters",
+                        "jpn": "ふたつの出会い"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "421409",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/421409",
+                    "Titles": {
+                        "eng": "Small Wind",
+                        "jpn": "小さな風"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "421410",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/421410",
+                    "Titles": {
+                        "eng": "Collapse of Euria",
+                        "jpn": "エウリヤ崩壊"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "421411",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/421411",
+                    "Titles": {
+                        "eng": "Hyulick's Determination",
+                        "jpn": "ヒューリックの決意"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "421412",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/421412",
+                    "Titles": {
+                        "eng": "The Infiltration of Emmental",
+                        "jpn": "エーメンタール潜入"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "431873",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/431873",
+                    "Titles": {
+                        "eng": "The Beginning of the End",
+                        "jpn": "終わりと始まり"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "431875",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/431875",
+                    "Titles": {
+                        "eng": "Storming the Ryutehhi",
+                        "jpn": "リュテッヒの動乱"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "431877",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/431877",
+                    "Titles": {
+                        "eng": "Like a Grain of Wheat",
+                        "jpn": "一粒の麦のごとく"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "431878",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/431878",
+                    "Titles": {
+                        "eng": "Counterattack of Fan",
+                        "jpn": "反撃の烽火（のろし）"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "431879",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/431879",
+                    "Titles": {
+                        "eng": "Overpriced Ransom",
+                        "jpn": "高すぎた身代金"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "431880",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/431880",
+                    "Titles": {
+                        "eng": "Prison Satellite Chronos",
+                        "jpn": "監獄衛星クロノス"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "431881",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/431881",
+                    "Titles": {
+                        "eng": "The Radmose Case",
+                        "jpn": "ラドモーズ事件"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "431882",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/431882",
+                    "Titles": {
+                        "eng": "Chronos Assault",
+                        "jpn": "クロノス強襲"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "431883",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/431883",
+                    "Titles": {
+                        "eng": "Chance Meeting on Esthar",
+                        "jpn": "エスタールの邂逅"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "431884",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/431884",
+                    "Titles": {
+                        "eng": "Prelude of Ambition",
+                        "jpn": "野望のプレリュード"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "431885",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/431885",
+                    "Titles": {
+                        "eng": "Desert Rat",
+                        "jpn": "砂漠の鼠"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "431886",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/431886",
+                    "Titles": {
+                        "eng": "Honest Old Man",
+                        "jpn": "オネストオールドマン"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "431888",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/431888",
+                    "Titles": {
+                        "eng": "Fierce Fighting on Hot Sand",
+                        "jpn": "熱砂の激闘"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "431889",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tytania/episodes/431889",
+                    "Titles": {
+                        "eng": "End of the Song of the Souls' Repose (Requiem)",
+                        "jpn": "終幕の鎮魂歌（レクイエム）"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

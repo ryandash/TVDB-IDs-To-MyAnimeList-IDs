@@ -87,6 +87,150 @@
                 }
             }
         },
+        "1": {
+            "ID": "800926",
+            "URL": "https://thetvdb.com/series/yatogame-chan-kansatsu-nikki/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "ara": "ياتوغامي-تشان كانساتسو نيكي"
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "7070328",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yatogame-chan-kansatsu-nikki/episodes/7070328",
+                    "Titles": {
+                        "eng": "Beginning",
+                        "jpn": "はじまり"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "7128952",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yatogame-chan-kansatsu-nikki/episodes/7128952",
+                    "Titles": {
+                        "eng": "Tokyoites",
+                        "jpn": "トーキョーもん"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "7148820",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yatogame-chan-kansatsu-nikki/episodes/7148820",
+                    "Titles": {
+                        "eng": "I'll Nyaa-ver Allow It",
+                        "jpn": "認めにゃあ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "7148821",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yatogame-chan-kansatsu-nikki/episodes/7148821",
+                    "Titles": {
+                        "eng": "No Good Pictures",
+                        "jpn": "撮れてにゃあ"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "7164106",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yatogame-chan-kansatsu-nikki/episodes/7164106",
+                    "Titles": {
+                        "eng": "Not Gonna Teach You",
+                        "jpn": "教えにゃあ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "7164109",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yatogame-chan-kansatsu-nikki/episodes/7164109",
+                    "Titles": {
+                        "eng": "Let's Go to Sugakiya",
+                        "jpn": "スガキヤいこみゃあ"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "7181507",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yatogame-chan-kansatsu-nikki/episodes/7181507",
+                    "Titles": {
+                        "eng": "Not Like That",
+                        "jpn": "そっちじゃにゃあ"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "7203762",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yatogame-chan-kansatsu-nikki/episodes/7203762",
+                    "Titles": {
+                        "eng": "This Ain't Akiba",
+                        "jpn": "アキバじゃにゃあ"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "7205246",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yatogame-chan-kansatsu-nikki/episodes/7205246",
+                    "Titles": {
+                        "eng": "Nothin' To Do With It",
+                        "jpn": "関係にゃあ"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "7226428",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yatogame-chan-kansatsu-nikki/episodes/7226428",
+                    "Titles": {
+                        "eng": "Just Gotta Put Some On",
+                        "jpn": "かけるしかにゃあ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "7236301",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yatogame-chan-kansatsu-nikki/episodes/7236301",
+                    "Titles": {
+                        "eng": "It Ain't Cool Here",
+                        "jpn": "涼しくにゃあ"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "7236302",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yatogame-chan-kansatsu-nikki/episodes/7236302",
+                    "Titles": {
+                        "eng": "See Y'all Again",
+                        "jpn": "また会おみゃあ"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
         "2": {
             "ID": "1808347",
             "URL": "https://thetvdb.com/series/yatogame-chan-kansatsu-nikki/seasons/official/2",
@@ -497,14 +641,5 @@
                 }
             }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "1"
-        ],
-        "Episodes": [
-            "7205246",
-            "7226428"
-        ]
     }
 }

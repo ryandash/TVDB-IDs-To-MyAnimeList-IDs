@@ -1,0 +1,1032 @@
+{
+    "URL": "https://thetvdb.com/series/black-butler",
+    "Genres": [
+        "Adaptation",
+        "Anime - Shonen",
+        "Dark Comedy",
+        "Urban"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt1316554/",
+        "https://www.kuroshitsuji.tv/",
+        "https://www.themoviedb.org/tv/50712"
+    ],
+    "Titles": {
+        "eng": "Black Butler",
+        "jpn": "黒執事"
+    },
+    "Aliases": [
+        "Black Butler 2",
+        "Black Butler II",
+        "Black Butler: Book of Circus",
+        "Black Butler: Public School Arc",
+        "Black Butler -Emerald Witch Arc-",
+        "黒執事 Book of Circus",
+        "黒執事Ⅱ",
+        "Kuroshitsuji: Midori no Majo Hen",
+        "Kuroshitsuji: Kishuku Gakkou-hen",
+        "Kuroshitsuji: Book of Circus",
+        "Kuroshitsuji II",
+        "Kuro Shitsuji",
+        "Kuroshitsuji"
+    ],
+    "Modified": "2026-06-30",
+    "Seasons": {
+        "0": {
+            "ID": "37878",
+            "URL": "https://thetvdb.com/series/black-butler/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 11,
+            "Episodes": {
+                "1": {
+                    "ID": "8253336",
+                    "TYPE": "Season Recaps",
+                    "CATEGORY": "Season Recaps",
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/8253336",
+                    "Titles": {
+                        "eng": "The Story Thus Far with Narration from Tanaka",
+                        "jpn": "黒執事 前半ダイジェスト"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "1685441",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/1685441",
+                    "Titles": {
+                        "eng": "His Butler, Performer",
+                        "jpn": "その執事、興行"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "3251261",
+                    "TYPE": "Episodic Special",
+                    "CATEGORY": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/3251261",
+                    "Titles": {
+                        "eng": "Ciel in Wonderland Part I",
+                        "jpn": "シエル・イン・ワンダーランド（前編）"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "4": {
+                    "ID": "3251281",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/3251281",
+                    "Titles": {
+                        "eng": "Welcome to the Phantomhives",
+                        "jpn": "ファントムハイヴ家へようこそ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "5": {
+                    "ID": "3281201",
+                    "TYPE": "Behind the Scenes/ Makings Of",
+                    "CATEGORY": "Behind the Scenes/ Makings Of",
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/3281201",
+                    "Titles": {
+                        "eng": "The Making of Black Butler II",
+                        "jpn": "Making of Kuroshitsuji II"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "6": {
+                    "ID": "3251271",
+                    "TYPE": "Episodic Special",
+                    "CATEGORY": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/3251271",
+                    "Titles": {
+                        "eng": "Ciel in Wonderland Part II",
+                        "jpn": "シエル・イン・ワンダーランド（後編）"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                },
+                "7": {
+                    "ID": "3281211",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/3281211",
+                    "Titles": {
+                        "eng": "The Story of Will the Reaper",
+                        "jpn": "死神ウィルの物語"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "8": {
+                    "ID": "3281221",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/3281221",
+                    "Titles": {
+                        "eng": "The Threads of the Spider’s Design",
+                        "jpn": "蜘蛛の意図"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "9": {
+                    "ID": "5180915",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/5180915",
+                    "Titles": {
+                        "eng": "Book of Murder: Part 1",
+                        "jpn": "Book of Murder 上"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "10": {
+                    "ID": "5180916",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/5180916",
+                    "Titles": {
+                        "eng": "Book of Murder: Part 2",
+                        "jpn": "Book of Murder 下"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                },
+                "11": {
+                    "ID": "5817566",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/5817566",
+                    "Titles": {
+                        "eng": "Book of the Atlantic",
+                        "jpn": "Book of the Atlantic"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "37879",
+            "URL": "https://thetvdb.com/series/black-butler/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 24,
+            "Episodes": {
+                "1": {
+                    "ID": "413360",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/413360",
+                    "Titles": {
+                        "eng": "His Butler, Able",
+                        "jpn": "その執事、有能"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "413361",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/413361",
+                    "Titles": {
+                        "eng": "His Butler, Strongest",
+                        "jpn": "その執事、最強"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "413362",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/413362",
+                    "Titles": {
+                        "eng": "His Butler, Omnipotent",
+                        "jpn": "その執事、万能"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "413363",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/413363",
+                    "Titles": {
+                        "eng": "His Butler, Capricious",
+                        "jpn": "その執事、酔狂"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "413364",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/413364",
+                    "Titles": {
+                        "eng": "His Butler, Chance Encounter",
+                        "jpn": "その執事、邂逅"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "413365",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/413365",
+                    "Titles": {
+                        "eng": "His Butler, at the Funeral",
+                        "jpn": "その執事、葬送"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "413366",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/413366",
+                    "Titles": {
+                        "eng": "His Butler, Merrymaking",
+                        "jpn": "その執事、遊興"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "413367",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/413367",
+                    "Titles": {
+                        "eng": "His Butler, Training",
+                        "jpn": "その執事、調教"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "413368",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/413368",
+                    "Titles": {
+                        "eng": "His Butler, Phantom Image",
+                        "jpn": "その執事、幻像"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "413369",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/413369",
+                    "Titles": {
+                        "eng": "His Butler, on Ice",
+                        "jpn": "その執事、氷上"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "413370",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/413370",
+                    "Titles": {
+                        "eng": "His Butler, However You Please",
+                        "jpn": "その執事、如何様"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "413371",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/413371",
+                    "Titles": {
+                        "eng": "His Butler, Forlorn",
+                        "jpn": "その執事、寂寥"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "422578",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/422578",
+                    "Titles": {
+                        "eng": "His Butler, Freeloader",
+                        "jpn": "その執事、居候"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "422579",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/422579",
+                    "Titles": {
+                        "eng": "His Butler, Supremely Talented",
+                        "jpn": "その執事、異能"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "431296",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/431296",
+                    "Titles": {
+                        "eng": "His Butler, Competing",
+                        "jpn": "その執事、競争"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "431297",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/431297",
+                    "Titles": {
+                        "eng": "His Butler, in an Isolated Castle",
+                        "jpn": "その執事、孤城"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "431298",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/431298",
+                    "Titles": {
+                        "eng": "His Butler, Offering",
+                        "jpn": "その執事、奉納"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "472711",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/472711",
+                    "Titles": {
+                        "eng": "His Butler, Transmitted",
+                        "jpn": "その執事、転送"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "472721",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/472721",
+                    "Titles": {
+                        "eng": "His Butler, Imprisoned",
+                        "jpn": "その執事、入牢"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "472731",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/472731",
+                    "Titles": {
+                        "eng": "His Butler, Escaping",
+                        "jpn": "その執事、脱走"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "472741",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/472741",
+                    "Titles": {
+                        "eng": "His Butler, Engaging Servants",
+                        "jpn": "その執事、雇傭"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "472751",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/472751",
+                    "Titles": {
+                        "eng": "His Butler, Dissolution",
+                        "jpn": "その執事、解消"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "472761",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/472761",
+                    "Titles": {
+                        "eng": "His Butler, Up in Flames",
+                        "jpn": "その執事、炎上"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "472771",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/472771",
+                    "Titles": {
+                        "eng": "His Butler, Fluent",
+                        "jpn": "その執事、滔滔"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "254831",
+            "URL": "https://thetvdb.com/series/black-butler/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "deu": "Black Butler II",
+                "fra": "Black Butler II"
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "2424621",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/2424621",
+                    "Titles": {
+                        "eng": "Clawed Butler",
+                        "jpn": "クロ執事"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2428501",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/2428501",
+                    "Titles": {
+                        "eng": "Solo Butler",
+                        "jpn": "単執事"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "2429141",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/2429141",
+                    "Titles": {
+                        "eng": "Wench Butler",
+                        "jpn": "女郎執事"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "2429151",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/2429151",
+                    "Titles": {
+                        "eng": "Terrorist Butler",
+                        "jpn": "テロ執事"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "2429161",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/2429161",
+                    "Titles": {
+                        "eng": "Beacon Butler",
+                        "jpn": "狼煙執事"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "2429171",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/2429171",
+                    "Titles": {
+                        "eng": "Bedewed Butler",
+                        "jpn": "夜露執事"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "2429181",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/2429181",
+                    "Titles": {
+                        "eng": "Deathly Butler",
+                        "jpn": "殺執事"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "2429191",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/2429191",
+                    "Titles": {
+                        "eng": "Divulging Butler",
+                        "jpn": "吐露執事"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "2429201",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/2429201",
+                    "Titles": {
+                        "eng": "Hollow Butler",
+                        "jpn": "虚執事"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "2429211",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/2429211",
+                    "Titles": {
+                        "eng": "Zero Butler",
+                        "jpn": "零執事"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "2429221",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/2429221",
+                    "Titles": {
+                        "eng": "Crossroads Butler",
+                        "jpn": "岐路執事"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "2429231",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/2429231",
+                    "Titles": {
+                        "eng": "Black Butler",
+                        "jpn": "黒執事"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "583263",
+            "URL": "https://thetvdb.com/series/black-butler/seasons/official/3",
+            "Titles": {
+                "eng": "Book of Circus",
+                "jpn": "Book of Circus",
+                "rus": "Темный дворецкий. Книга цирка",
+                "pt": "Book of Circus",
+                "deu": "Black Butler: Book of Circus",
+                "fra": "Book of Circus"
+            },
+            "# Episodes": 10,
+            "Episodes": {
+                "1": {
+                    "ID": "4860440",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/4860440",
+                    "Titles": {
+                        "eng": "His Butler, Presenting",
+                        "jpn": "その執事、披露"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4895073",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/4895073",
+                    "Titles": {
+                        "eng": "His Butler, Taking the Stage",
+                        "jpn": "その執事、壇上"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4895074",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/4895074",
+                    "Titles": {
+                        "eng": "His Butler, Hired",
+                        "jpn": "その執事、採用"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4895075",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/4895075",
+                    "Titles": {
+                        "eng": "His Butler, Colleague",
+                        "jpn": "その執事、同僚"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4895076",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/4895076",
+                    "Titles": {
+                        "eng": "His Butler, Taking Flight",
+                        "jpn": "その執事、飛翔"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4895077",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/4895077",
+                    "Titles": {
+                        "eng": "His Butler, Liaison",
+                        "jpn": "その執事、交渉"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4895078",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/4895078",
+                    "Titles": {
+                        "eng": "His Butler, Careful Tending",
+                        "jpn": "その執事、撫養"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4895079",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/4895079",
+                    "Titles": {
+                        "eng": "His Butler, Sneering",
+                        "jpn": "その執事、嘲笑"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4895080",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/4895080",
+                    "Titles": {
+                        "eng": "His Butler, Serene",
+                        "jpn": "その執事、従容"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4895081",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/4895081",
+                    "Titles": {
+                        "eng": "His Butler, Fulfilling His Duty",
+                        "jpn": "その執事、遂行"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "4": {
+            "ID": "2071833",
+            "URL": "https://thetvdb.com/series/black-butler/seasons/official/4",
+            "Titles": {
+                "eng": "Public School Arc",
+                "jpn": "寄宿学校編",
+                "pt": "-Public School Arc-",
+                "ita": "Black Butler: Public School Arc",
+                "deu": "Black Butler: Public School Arc",
+                "fra": "Public School Arc",
+                "spa": "Edición internado",
+                "rus": "Школа-интернат"
+            },
+            "# Episodes": 11,
+            "Episodes": {
+                "1": {
+                    "ID": "10026655",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/10026655",
+                    "Titles": {
+                        "eng": "His Butler, at School",
+                        "jpn": "その執事、登校"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10437514",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/10437514",
+                    "Titles": {
+                        "eng": "His Butler, in Disguise",
+                        "jpn": "その執事、偽装"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "10437515",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/10437515",
+                    "Titles": {
+                        "eng": "His Butler, Plotting",
+                        "jpn": "その執事、策謀"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "10437516",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/10437516",
+                    "Titles": {
+                        "eng": "His Butler, Colluding",
+                        "jpn": "その執事、談合"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "10437518",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/10437518",
+                    "Titles": {
+                        "eng": "His Butler, Gaining Admittance",
+                        "jpn": "その執事、入場"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "10437519",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/10437519",
+                    "Titles": {
+                        "eng": "His Butler, Scheming",
+                        "jpn": "その執事、策動"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "10437520",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/10437520",
+                    "Titles": {
+                        "eng": "His Butler, Final Match",
+                        "jpn": "その執事、決勝"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "10437521",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/10437521",
+                    "Titles": {
+                        "eng": "His Butler, Locking Up",
+                        "jpn": "その執事、施錠"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "10437522",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/10437522",
+                    "Titles": {
+                        "eng": "His Butler, Having a Laugh",
+                        "jpn": "その執事、朗笑"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "10437523",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/10437523",
+                    "Titles": {
+                        "eng": "His Butler, Assenting",
+                        "jpn": "その執事、賛同"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "10437524",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/10437524",
+                    "Titles": {
+                        "eng": "His Butler, Taking Off",
+                        "jpn": "その執事、滑走"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "5": {
+            "ID": "2135890",
+            "URL": "https://thetvdb.com/series/black-butler/seasons/official/5",
+            "Titles": {
+                "eng": "Emerald Witch Arc",
+                "jpn": "緑の魔女編",
+                "pt": "-Emerald Witch Arc-",
+                "fra": "Emerald Witch Arc",
+                "ita": "Emerald Witch Arc",
+                "rus": "Арка \"Изумрудная ведьма",
+                "deu": "Black Butler: Emerald Witch Arc"
+            },
+            "# Episodes": 13,
+            "Episodes": {
+                "1": {
+                    "ID": "10437525",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/10437525",
+                    "Titles": {
+                        "eng": "His Butler, Doing Fieldwork",
+                        "jpn": "その執事、探訪"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11068100",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/11068100",
+                    "Titles": {
+                        "eng": "His Butler, Sounding the Alarm",
+                        "jpn": "その執事、警鐘"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "11068101",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/11068101",
+                    "Titles": {
+                        "eng": "His Butler, On Loan",
+                        "jpn": "その執事、出向"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "11068102",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/11068102",
+                    "Titles": {
+                        "eng": "His Butler, Serving",
+                        "jpn": "その執事、奉公"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "11068103",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/11068103",
+                    "Titles": {
+                        "eng": "His Butler, Descending",
+                        "jpn": "その執事、下降"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "11068104",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/11068104",
+                    "Titles": {
+                        "eng": "His Butler, Despairing",
+                        "jpn": "その執事、失望"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "11068105",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/11068105",
+                    "Titles": {
+                        "eng": "His Butler, Encouraging",
+                        "jpn": "その執事、勧奨"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "11068106",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/11068106",
+                    "Titles": {
+                        "eng": "His Butler, Furious",
+                        "jpn": "その執事、狂暴"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "11068107",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/11068107",
+                    "Titles": {
+                        "eng": "His Butler, Crossing Paths",
+                        "jpn": "その執事、遭逢"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "11068108",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/11068108",
+                    "Titles": {
+                        "eng": "His Butler, Mopping Up",
+                        "jpn": "その執事、掃討"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "11068109",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/11068109",
+                    "Titles": {
+                        "eng": "His Butler, Much Unknown",
+                        "jpn": "その執事、不詳"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "11068110",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/11068110",
+                    "Titles": {
+                        "eng": "His Butler, Calling",
+                        "jpn": "その執事、尋訪"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "11170711",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/black-butler/episodes/11170711",
+                    "Titles": {
+                        "eng": "His Butler, Submerged",
+                        "jpn": "その執事、潜航"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

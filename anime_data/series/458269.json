@@ -1,0 +1,55 @@
+{
+    "URL": "https://thetvdb.com/series/yun-jie-nomi-gong-zeguy",
+    "Genres": [
+        "Anime"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0107345/",
+        "https://www.themoviedb.org/tv/116331"
+    ],
+    "Titles": {
+        "eng": "Mask of Zeguy",
+        "jpn": "雲界の迷宮ZEGUY"
+    },
+    "Aliases": [
+        "Cloud World Mystery",
+        "Labyrinth of the Cloud",
+        "Cloudworld Labyrinth"
+    ],
+    "Modified": "2026-05-16",
+    "Seasons": {
+        "1": {
+            "ID": "2162503",
+            "URL": "https://thetvdb.com/series/yun-jie-nomi-gong-zeguy/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "10874880",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yun-jie-nomi-gong-zeguy/episodes/10874880",
+                    "Titles": {
+                        "eng": "Part 1",
+                        "jpn": "前編"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10874881",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yun-jie-nomi-gong-zeguy/episodes/10874881",
+                    "Titles": {
+                        "eng": "Part 2",
+                        "jpn": "後編"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

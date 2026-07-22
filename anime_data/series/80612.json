@@ -1,0 +1,58 @@
+{
+    "URL": "https://thetvdb.com/series/miyuki-chan-in-wonderland",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0113833/",
+        "https://www.themoviedb.org/tv/67042"
+    ],
+    "Titles": {
+        "eng": "Miyuki-chan In Wonderland",
+        "jpn": "不思議の国の美幸ちゃん"
+    },
+    "Aliases": [
+        "Fushigi no Kuni no Miyuki-chan",
+        "Miyuki-chan im Wunderland"
+    ],
+    "Modified": "2026-06-21",
+    "Seasons": {
+        "1": {
+            "ID": "28699",
+            "URL": "https://thetvdb.com/series/miyuki-chan-in-wonderland/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "336941",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/miyuki-chan-in-wonderland/episodes/336941",
+                    "Titles": {
+                        "eng": "Miyuki-chan in Wonderland",
+                        "jpn": "～不思議の国の美幸ちゃん～"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "336942",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/miyuki-chan-in-wonderland/episodes/336942",
+                    "Titles": {
+                        "eng": "Miyuki-chan in Mirrorland",
+                        "jpn": "～鏡の国の美幸ちゃん～"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

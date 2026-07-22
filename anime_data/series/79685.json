@@ -1,0 +1,1509 @@
+{
+    "URL": "https://thetvdb.com/series/hajime-no-ippo",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Sport"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0481256/",
+        "https://www.ntv.co.jp/ippo/",
+        "https://www.themoviedb.org/tv/42705"
+    ],
+    "Titles": {
+        "eng": "Fighting Spirit",
+        "jpn": "はじめの一歩"
+    },
+    "Aliases": [
+        "Fighting Spirit TV",
+        "Hajime no Ippo: New Challenger",
+        "Hajime no Ippo: Rising",
+        "Hajime no Ippo: The Fighting! –Rising",
+        "Hajime no Ippo: The Fighting! - New Challenger",
+        "Hajime no Ippo: The Fighting!",
+        "hajime no ippo: boxer no kobushi"
+    ],
+    "Modified": "2026-04-16",
+    "Seasons": {
+        "0": {
+            "ID": "27099",
+            "URL": "https://thetvdb.com/series/hajime-no-ippo/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "1018061",
+                    "TYPE": "Episodic Special",
+                    "CATEGORY": "Episodic Special",
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/1018061",
+                    "Titles": {
+                        "eng": "The Boxer's Fist",
+                        "jpn": "ボクサーの拳"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "376893",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/376893",
+                    "Titles": {
+                        "eng": "Champion Road",
+                        "jpn": "はじめの一歩 Champion Road"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "376894",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/376894",
+                    "Titles": {
+                        "eng": "Tatsuya Kimura vs Ryo Mashiba",
+                        "jpn": "はじめの一歩 間柴vs木村 死刑執行"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "16955",
+            "URL": "https://thetvdb.com/series/hajime-no-ippo/seasons/official/1",
+            "Titles": {
+                "eng": "The First Step",
+                "jpn": "はじめの一歩",
+                "fra": "Ippo le Challenger",
+                "spa": "The First Step",
+                "deu": "Hajime no Ippo: The Fighting!"
+            },
+            "# Episodes": 75,
+            "Episodes": {
+                "1": {
+                    "ID": "316405",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/316405",
+                    "Titles": {
+                        "eng": "The First Step",
+                        "jpn": "The First Step"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "330722",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330722",
+                    "Titles": {
+                        "eng": "Fruits of Labor",
+                        "jpn": "努力の成果"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "330724",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330724",
+                    "Titles": {
+                        "eng": "Tears of Joy",
+                        "jpn": "うれし涙"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "330725",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330725",
+                    "Titles": {
+                        "eng": "Shadow Boxing",
+                        "jpn": "シャドーボクシング"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "330726",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330726",
+                    "Titles": {
+                        "eng": "3 Months to Counter",
+                        "jpn": "カウンターへの三ヶ月"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "330727",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330727",
+                    "Titles": {
+                        "eng": "The Opening Bell of the Rematch",
+                        "jpn": "再戦のゴング"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "330728",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330728",
+                    "Titles": {
+                        "eng": "The Destructive Force of 1cm",
+                        "jpn": "1cmの破壊力"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "330729",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330729",
+                    "Titles": {
+                        "eng": "Promise to Meet Again",
+                        "jpn": "再会の約束"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "330730",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330730",
+                    "Titles": {
+                        "eng": "C Class License",
+                        "jpn": "C級ライセンス"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "330731",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330731",
+                    "Titles": {
+                        "eng": "Debut Match!",
+                        "jpn": "デビュー戦！"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "330732",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330732",
+                    "Titles": {
+                        "eng": "Obsession for Victory",
+                        "jpn": "勝利への執念"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "330733",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330733",
+                    "Titles": {
+                        "eng": "Becoming a Bully's Buddy",
+                        "jpn": "手荒なダチ宣言"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "330734",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330734",
+                    "Titles": {
+                        "eng": "The Eastern Japan Rookie Championship Tournament Begins",
+                        "jpn": "開幕、東日本新人王戦"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "330735",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330735",
+                    "Titles": {
+                        "eng": "Powerful Arms! Hooks vs. Uppercut!",
+                        "jpn": "強腕!フックVSアッパー!"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "330736",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330736",
+                    "Titles": {
+                        "eng": "Test of Endurance",
+                        "jpn": "我慢くらべ"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "330737",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330737",
+                    "Titles": {
+                        "eng": "Anticipating a Fierce Fight",
+                        "jpn": "激戦の予感"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "330738",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330738",
+                    "Titles": {
+                        "eng": "Ippo on the Beach",
+                        "jpn": "イッポ・オン・ザ・ビーチ"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "330739",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330739",
+                    "Titles": {
+                        "eng": "Clinch",
+                        "jpn": "クリンチ"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "330740",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330740",
+                    "Titles": {
+                        "eng": "Dream of a KO",
+                        "jpn": "KOの夢"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "330741",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330741",
+                    "Titles": {
+                        "eng": "The Threat of Shotgun",
+                        "jpn": "ショットガンの脅威"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "330742",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330742",
+                    "Titles": {
+                        "eng": "The Way to Capture a Prodigy",
+                        "jpn": "天才攻略の道"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "330743",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330743",
+                    "Titles": {
+                        "eng": "Forward! Forward!",
+                        "jpn": "前へ!前へ!!"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "330744",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330744",
+                    "Titles": {
+                        "eng": "The Other Semi-Final",
+                        "jpn": "もう一つの準決勝"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "330745",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330745",
+                    "Titles": {
+                        "eng": "To the Promised Place...",
+                        "jpn": "約束の場所へ…"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "330746",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330746",
+                    "Titles": {
+                        "eng": "Grudges, Sorrows & Dreams",
+                        "jpn": "それぞれの想い"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "330747",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330747",
+                    "Titles": {
+                        "eng": "The Battle for Distance",
+                        "jpn": "距離の攻防"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "330748",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330748",
+                    "Titles": {
+                        "eng": "Death Match",
+                        "jpn": "死闘"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "330749",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330749",
+                    "Titles": {
+                        "eng": "Victory or Defeat",
+                        "jpn": "勝敗"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "330750",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330750",
+                    "Titles": {
+                        "eng": "Rocky of Naniwa",
+                        "jpn": "浪速のロッキー"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "330751",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330751",
+                    "Titles": {
+                        "eng": "To Enemy Ground",
+                        "jpn": "敵地へ"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "330752",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330752",
+                    "Titles": {
+                        "eng": "Traces of Intense Battles",
+                        "jpn": "激闘の足跡"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "330753",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330753",
+                    "Titles": {
+                        "eng": "Throw Your Right!",
+                        "jpn": "右を打て!"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "330754",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330754",
+                    "Titles": {
+                        "eng": "Smash Force",
+                        "jpn": "スマッシュの威圧"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "330755",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330755",
+                    "Titles": {
+                        "eng": "The Rookie King",
+                        "jpn": "新人王"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "330756",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330756",
+                    "Titles": {
+                        "eng": "The Continuing Journey",
+                        "jpn": "さらなる旅立ち"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "330757",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330757",
+                    "Titles": {
+                        "eng": "The Champ and I",
+                        "jpn": "王者との出会い"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "330758",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330758",
+                    "Titles": {
+                        "eng": "A Thing to Strive For",
+                        "jpn": "目指すもの"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "330759",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330759",
+                    "Titles": {
+                        "eng": "Two Rookies of the Year",
+                        "jpn": "二人の新人王"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "330760",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330760",
+                    "Titles": {
+                        "eng": "Challenge in a Foreign Land",
+                        "jpn": "異国での挑戦"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "330761",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330761",
+                    "Titles": {
+                        "eng": "A Counter to Surpass All Counters",
+                        "jpn": "カウンターを超えたカウンター"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "330762",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330762",
+                    "Titles": {
+                        "eng": "Barf-michi's Big Fight",
+                        "jpn": "ゲロ道の戦い"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "330763",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330763",
+                    "Titles": {
+                        "eng": "Sharing a Dream",
+                        "jpn": "夢への共感"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "330764",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330764",
+                    "Titles": {
+                        "eng": "The Speed Star",
+                        "jpn": "THE SPEED STAR"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "330765",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330765",
+                    "Titles": {
+                        "eng": "Blind Spot in the Ring",
+                        "jpn": "リングの死角"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "330766",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330766",
+                    "Titles": {
+                        "eng": "The White Fangs of the Wolf",
+                        "jpn": "狼の白い牙"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "330767",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330767",
+                    "Titles": {
+                        "eng": "Become a Gazelle",
+                        "jpn": "かもしかになれ!"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "330768",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330768",
+                    "Titles": {
+                        "eng": "The Fighting Spirit Within",
+                        "jpn": "秘められた闘志"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "330769",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330769",
+                    "Titles": {
+                        "eng": "The Red Wolf",
+                        "jpn": "赤い狼"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "330770",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330770",
+                    "Titles": {
+                        "eng": "The Courage to Believe",
+                        "jpn": "信頼する勇気"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "330771",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330771",
+                    "Titles": {
+                        "eng": "Something to Convey",
+                        "jpn": "伝えたいこと"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "330772",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330772",
+                    "Titles": {
+                        "eng": "The Group Date",
+                        "jpn": "合コン"
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "330773",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330773",
+                    "Titles": {
+                        "eng": "The Challenger",
+                        "jpn": "挑戦者"
+                    },
+                    "Aliases": []
+                },
+                "53": {
+                    "ID": "330774",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330774",
+                    "Titles": {
+                        "eng": "So That I Can Be Myself",
+                        "jpn": "俺が俺であるために"
+                    },
+                    "Aliases": []
+                },
+                "54": {
+                    "ID": "330775",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330775",
+                    "Titles": {
+                        "eng": "Fists of the Champ",
+                        "jpn": "王者の拳"
+                    },
+                    "Aliases": []
+                },
+                "55": {
+                    "ID": "330776",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330776",
+                    "Titles": {
+                        "eng": "The Japan Featherweight Title Match",
+                        "jpn": "日本フェザー級タイトルマッチ"
+                    },
+                    "Aliases": []
+                },
+                "56": {
+                    "ID": "330777",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330777",
+                    "Titles": {
+                        "eng": "The Power that Stands in the Way",
+                        "jpn": "立ちはだかる力"
+                    },
+                    "Aliases": []
+                },
+                "57": {
+                    "ID": "330778",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330778",
+                    "Titles": {
+                        "eng": "Conclusion",
+                        "jpn": "決着"
+                    },
+                    "Aliases": []
+                },
+                "58": {
+                    "ID": "330779",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330779",
+                    "Titles": {
+                        "eng": "Heartbroken",
+                        "jpn": "傷心"
+                    },
+                    "Aliases": []
+                },
+                "59": {
+                    "ID": "330780",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330780",
+                    "Titles": {
+                        "eng": "Look of Determination",
+                        "jpn": "決意のまなざし"
+                    },
+                    "Aliases": []
+                },
+                "60": {
+                    "ID": "330781",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330781",
+                    "Titles": {
+                        "eng": "Rival",
+                        "jpn": "ライバル"
+                    },
+                    "Aliases": []
+                },
+                "61": {
+                    "ID": "330782",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330782",
+                    "Titles": {
+                        "eng": "Comeback Anxiety",
+                        "jpn": "再起への不安"
+                    },
+                    "Aliases": []
+                },
+                "62": {
+                    "ID": "330783",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330783",
+                    "Titles": {
+                        "eng": "Revival",
+                        "jpn": "復活"
+                    },
+                    "Aliases": []
+                },
+                "63": {
+                    "ID": "330784",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330784",
+                    "Titles": {
+                        "eng": "Youth of Fire",
+                        "jpn": "炎の青春"
+                    },
+                    "Aliases": []
+                },
+                "64": {
+                    "ID": "330785",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330785",
+                    "Titles": {
+                        "eng": "Hot Rod Era",
+                        "jpn": "熱中時代"
+                    },
+                    "Aliases": []
+                },
+                "65": {
+                    "ID": "330786",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330786",
+                    "Titles": {
+                        "eng": "The Summer of the Kamogawa Corps",
+                        "jpn": "鴨川軍団の夏"
+                    },
+                    "Aliases": []
+                },
+                "66": {
+                    "ID": "330787",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330787",
+                    "Titles": {
+                        "eng": "Mr. Takamura's Tears",
+                        "jpn": "鷹村さんの涙"
+                    },
+                    "Aliases": []
+                },
+                "67": {
+                    "ID": "330788",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330788",
+                    "Titles": {
+                        "eng": "The Kamogawa Gym Swings into Action",
+                        "jpn": "動き出す鴨川ジム"
+                    },
+                    "Aliases": []
+                },
+                "68": {
+                    "ID": "330789",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330789",
+                    "Titles": {
+                        "eng": "The Chief's Peril",
+                        "jpn": "会長の危機"
+                    },
+                    "Aliases": []
+                },
+                "69": {
+                    "ID": "330790",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330790",
+                    "Titles": {
+                        "eng": "The Trap of the Southpaw",
+                        "jpn": "サウスポーの罠"
+                    },
+                    "Aliases": []
+                },
+                "70": {
+                    "ID": "330791",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330791",
+                    "Titles": {
+                        "eng": "The Young Punk",
+                        "jpn": "ごんたくれ"
+                    },
+                    "Aliases": []
+                },
+                "71": {
+                    "ID": "330792",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330792",
+                    "Titles": {
+                        "eng": "Time for the Showdown",
+                        "jpn": "決戦の刻"
+                    },
+                    "Aliases": []
+                },
+                "72": {
+                    "ID": "330793",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330793",
+                    "Titles": {
+                        "eng": "Lollapalooza",
+                        "jpn": "LALLAPALLOOZA"
+                    },
+                    "Aliases": []
+                },
+                "73": {
+                    "ID": "330794",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330794",
+                    "Titles": {
+                        "eng": "Surpass that Moment",
+                        "jpn": "あの時を超えろ"
+                    },
+                    "Aliases": []
+                },
+                "74": {
+                    "ID": "330795",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330795",
+                    "Titles": {
+                        "eng": "Mixup",
+                        "jpn": "ミックスアップ"
+                    },
+                    "Aliases": []
+                },
+                "75": {
+                    "ID": "330796",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/330796",
+                    "Titles": {
+                        "eng": "A Step Further",
+                        "jpn": "さらなる、一歩を"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "32717",
+            "URL": "https://thetvdb.com/series/hajime-no-ippo/seasons/official/2",
+            "Titles": {
+                "eng": "New Challenger",
+                "jpn": "はじめの一歩 New Challenger",
+                "fra": "New Challenger",
+                "spa": "New Challenger",
+                "deu": "Hajime no Ippo: The Fighting! - New Challenger"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "380974",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/380974",
+                    "Titles": {
+                        "eng": "The New Step",
+                        "jpn": "新たなる一歩"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "380975",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/380975",
+                    "Titles": {
+                        "eng": "Bloody Cross",
+                        "jpn": "BLOODY CROSS－血の十字架－"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "380976",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/380976",
+                    "Titles": {
+                        "eng": "To a Promise",
+                        "jpn": "約束の場所へ"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "380977",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/380977",
+                    "Titles": {
+                        "eng": "Towards The World",
+                        "jpn": "世界への胎動"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "432826",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/432826",
+                    "Titles": {
+                        "eng": "The Strength of the World",
+                        "jpn": "世界の力"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "380978",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/380978",
+                    "Titles": {
+                        "eng": "A Figure to Chase After",
+                        "jpn": "追い続ける背中"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "380979",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/380979",
+                    "Titles": {
+                        "eng": "The Advent of the Devil",
+                        "jpn": "悪魔の降臨"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "440428",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/440428",
+                    "Titles": {
+                        "eng": "Spirit For One Last Attack",
+                        "jpn": "魂の一撃"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "442043",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/442043",
+                    "Titles": {
+                        "eng": "Inheritance Qualifications",
+                        "jpn": "受け継ぐ資格"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "442044",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/442044",
+                    "Titles": {
+                        "eng": "Biting Dog",
+                        "jpn": "噛ませ犬"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "446665",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/446665",
+                    "Titles": {
+                        "eng": "Ippo vs. Hammer Nao",
+                        "jpn": "一歩VSハンマー・ナオ"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "446666",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/446666",
+                    "Titles": {
+                        "eng": "Requirements For A Pro",
+                        "jpn": "プロの条件"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "502661",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/502661",
+                    "Titles": {
+                        "eng": "Ippo At The Beach 2",
+                        "jpn": "イッポ・オン・ザ・ビーチ 2"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "542381",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/542381",
+                    "Titles": {
+                        "eng": "Two Spars",
+                        "jpn": "二つのスパーリング"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "542391",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/542391",
+                    "Titles": {
+                        "eng": "Itagaki`s Debut Fight!",
+                        "jpn": "板垣、デビュー戦"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "542401",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/542401",
+                    "Titles": {
+                        "eng": "The Two Hawks",
+                        "jpn": "二羽の鷹"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "602621",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/602621",
+                    "Titles": {
+                        "eng": "Wild Kid",
+                        "jpn": "野生児"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "634041",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/634041",
+                    "Titles": {
+                        "eng": "Extreme Weight Control",
+                        "jpn": "極限の減量"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "634051",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/634051",
+                    "Titles": {
+                        "eng": "Critical Situation",
+                        "jpn": "一触即発"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "673781",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/673781",
+                    "Titles": {
+                        "eng": "Junior Middleweight World Title Match",
+                        "jpn": "世界J・ミドル級タイトルマッチ"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "742611",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/742611",
+                    "Titles": {
+                        "eng": "Battle of Hawk",
+                        "jpn": "BATTLE OF HAWK！"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "742621",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/742621",
+                    "Titles": {
+                        "eng": "Brawl",
+                        "jpn": "ケンカバトル"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "758091",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/758091",
+                    "Titles": {
+                        "eng": "Supporting Hand",
+                        "jpn": "支える手"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "758101",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/758101",
+                    "Titles": {
+                        "eng": "The King",
+                        "jpn": "王様"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "889911",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/889911",
+                    "Titles": {
+                        "eng": "Please Accept This Bronze Statue",
+                        "jpn": "銅像をどうぞ"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "889921",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/889921",
+                    "Titles": {
+                        "eng": "New Challenger",
+                        "jpn": "NEW CHALLENGER"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "526307",
+            "URL": "https://thetvdb.com/series/hajime-no-ippo/seasons/official/3",
+            "Titles": {
+                "eng": "Rising",
+                "jpn": "はじめの一歩 Rising",
+                "fra": "Rising",
+                "spa": "Rising",
+                "deu": "Hajime no Ippo: The Fighting! - Rising"
+            },
+            "# Episodes": 25,
+            "Episodes": {
+                "1": {
+                    "ID": "4628176",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4628176",
+                    "Titles": {
+                        "eng": "The Strongest Challenger",
+                        "jpn": "最強の挑戦者"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "4684958",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4684958",
+                    "Titles": {
+                        "eng": "The Dempsey Roll Destroyed",
+                        "jpn": "デンプシーロール破り"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "4684968",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4684968",
+                    "Titles": {
+                        "eng": "A Woman's Battle",
+                        "jpn": "女の闘い"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "4684969",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4684969",
+                    "Titles": {
+                        "eng": "The Goddess of Victory",
+                        "jpn": "勝利の女神"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "4684970",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4684970",
+                    "Titles": {
+                        "eng": "100% Fake",
+                        "jpn": "100％のフェイク"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "4684971",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4684971",
+                    "Titles": {
+                        "eng": "The Distance Between Me and Glory",
+                        "jpn": "栄光までの距離"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "4684972",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4684972",
+                    "Titles": {
+                        "eng": "Cheese Champion",
+                        "jpn": "チーズチャンピオン"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "4684973",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4684973",
+                    "Titles": {
+                        "eng": "The Mad Dog and the Red Wolf",
+                        "jpn": "飢えた狂犬、赤い狼"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "4684974",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4684974",
+                    "Titles": {
+                        "eng": "A Savage Scenario",
+                        "jpn": "悪魔のシナリオ"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "4684975",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4684975",
+                    "Titles": {
+                        "eng": "The Face Of Determination",
+                        "jpn": "決断の表情（カオ）"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "4684976",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4684976",
+                    "Titles": {
+                        "eng": "Fearless Challenger",
+                        "jpn": "不敵な挑戦者"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "4684977",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4684977",
+                    "Titles": {
+                        "eng": "The Anti-Dempsey Perfected",
+                        "jpn": "完全なるデンプシー破り"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "4684978",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4684978",
+                    "Titles": {
+                        "eng": "A Fist That Picks You Up",
+                        "jpn": "活人の拳"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "4684979",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4684979",
+                    "Titles": {
+                        "eng": "Empowering Words",
+                        "jpn": "力の出る言葉"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "4684980",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4684980",
+                    "Titles": {
+                        "eng": "A Storm Descends on Makunouchi Fishing Boat",
+                        "jpn": "風雲！釣り船幕之内！！"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "4684981",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4684981",
+                    "Titles": {
+                        "eng": "Golden Eagle",
+                        "jpn": "黄金の鷲"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "4684982",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4684982",
+                    "Titles": {
+                        "eng": "Eleki's Shocker and Papaya's Coconut",
+                        "jpn": "デンゲキエレキとココナッツパパイヤ"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "4684983",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4684983",
+                    "Titles": {
+                        "eng": "The Unfinished New Counter",
+                        "jpn": "未完の新型カウンター"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "4684984",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4684984",
+                    "Titles": {
+                        "eng": "Hawk vs. Eagle",
+                        "jpn": "鷹VS鷲"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "4684985",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4684985",
+                    "Titles": {
+                        "eng": "A Lesson Never Forgotten",
+                        "jpn": "忘れられない教え"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "4684986",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4684986",
+                    "Titles": {
+                        "eng": "The End of the Death Match",
+                        "jpn": "死闘の果てに"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "4684987",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4684987",
+                    "Titles": {
+                        "eng": "Flower of Hope",
+                        "jpn": "希望の花"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "4684988",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4684988",
+                    "Titles": {
+                        "eng": "The Courage to Live",
+                        "jpn": "生きる勇気を"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "4684989",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4684989",
+                    "Titles": {
+                        "eng": "Iron Fist",
+                        "jpn": "鉄拳"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "4684990",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/hajime-no-ippo/episodes/4684990",
+                    "Titles": {
+                        "eng": "A Vow",
+                        "jpn": "誓い"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,835 @@
+{
+    "URL": "https://thetvdb.com/series/musashi-no-ken",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Sport"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/113056"
+    ],
+    "Titles": {
+        "eng": "Musashi no Ken",
+        "jpn": "六三四の剣"
+    },
+    "Aliases": [
+        "Musashi's Sword"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "411691",
+            "URL": "https://thetvdb.com/series/musashi-no-ken/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 49,
+            "Episodes": {
+                "1": {
+                    "ID": "3600881",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3600881",
+                    "Titles": {
+                        "eng": "I am MUSASHI !",
+                        "jpn": "オラは六三四だ!あばれ剣"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "3600891",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3600891",
+                    "Titles": {
+                        "eng": "Me and my Dad and Mt. IWATE",
+                        "jpn": "強敵めっけ!勝負すろ"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "3600901",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3600901",
+                    "Titles": {
+                        "eng": "I will be the best one in Japan",
+                        "jpn": "入門だ!町道場ケンカ剣"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "3600911",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3600911",
+                    "Titles": {
+                        "eng": "Fight at Morioka Castle",
+                        "jpn": "盛岡城の決闘!"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "3600921",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3600921",
+                    "Titles": {
+                        "eng": "Above of the above of the way of Sword",
+                        "jpn": "上には上の剣の道"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "3600931",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3600931",
+                    "Titles": {
+                        "eng": "Kid’s Kendo tournament",
+                        "jpn": "やるぞ チビッ子剣道大会"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "3600941",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3600941",
+                    "Titles": {
+                        "eng": "The tough opponent, Pretty girl Kenshi",
+                        "jpn": "強敵登場 美少女剣士"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "3600951",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3600951",
+                    "Titles": {
+                        "eng": "I am the best ! KYU Shinsa",
+                        "jpn": "オラが一番!昇級試合"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "3600961",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3600961",
+                    "Titles": {
+                        "eng": "I am undefeated , beat the  magnificent 4",
+                        "jpn": "オラは無敵だ 四天王やぶり"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "3600971",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3600971",
+                    "Titles": {
+                        "eng": "Thanks Ohishi, the training from the hell",
+                        "jpn": "地獄の特訓 ありがとう大石"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "3600981",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3600981",
+                    "Titles": {
+                        "eng": "Rival, Shyura",
+                        "jpn": "ライバル登場 その名は修羅"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "3600991",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3600991",
+                    "Titles": {
+                        "eng": "Musashi VS Shyura",
+                        "jpn": "対決!六三四VS修羅"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "3601001",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601001",
+                    "Titles": {
+                        "eng": "Our Tears",
+                        "jpn": "オラとアイツの涙"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "3601011",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601011",
+                    "Titles": {
+                        "eng": "Tthe way of sword",
+                        "jpn": "それぞれの道、剣の道"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "3601021",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601021",
+                    "Titles": {
+                        "eng": "If my Dad does it, I will do it too",
+                        "jpn": "父っちゃがやるならオラもやる"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "3601031",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601031",
+                    "Titles": {
+                        "eng": "Musashi training in the mountains",
+                        "jpn": "おしかけ六三四の山ごもり"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "3601041",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601041",
+                    "Titles": {
+                        "eng": "Opponent is TODO!",
+                        "jpn": "敵は東堂!親子剣!"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "3601051",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601051",
+                    "Titles": {
+                        "eng": "A New opponent!",
+                        "jpn": "幻の敵!新しい敵!"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "3601061",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601061",
+                    "Titles": {
+                        "eng": "Go Daddy, you are the best!",
+                        "jpn": "ゆけゆけ父っちゃ 日本一!"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "3601071",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601071",
+                    "Titles": {
+                        "eng": "Tough match! Calling hurricane to BUDOKAN",
+                        "jpn": "激戦!嵐よ 武道館"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "3601081",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601081",
+                    "Titles": {
+                        "eng": "Crash! Tiger from Iwate and Oni from Yagyu",
+                        "jpn": "激突!岩手の虎と柳生の鬼"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "3601091",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601091",
+                    "Titles": {
+                        "eng": "Episode 22",
+                        "jpn": "命を賭けた日本一!"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "3601101",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601101",
+                    "Titles": {
+                        "eng": "Get over the sadness, 1000 Suburi",
+                        "jpn": "哀しみをこえて!涙の千本素振り"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "3601111",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601111",
+                    "Titles": {
+                        "eng": "Musashi throw away Shinai",
+                        "jpn": "竹刀をすてた六三四"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "3601121",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601121",
+                    "Titles": {
+                        "eng": "Musashi  ‘s  deadly Tsuki",
+                        "jpn": "復活、六三四必殺の突き"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "3601131",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601131",
+                    "Titles": {
+                        "eng": "Shyoubu, Todo!",
+                        "jpn": "勝負だ東堂!決意の旅立ち"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "3601141",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601141",
+                    "Titles": {
+                        "eng": "Come back Musashi ! Great way of the sword",
+                        "jpn": "よみがえれ六三四!素晴らしき剣の道"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "3601161",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601161",
+                    "Titles": {
+                        "eng": "Pretty Girl Kenshi, Ranko Todoroki",
+                        "jpn": "再登場!美少女剣士 轟嵐子"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "3601171",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601171",
+                    "Titles": {
+                        "eng": "My pride, Ranko’s pride",
+                        "jpn": "オラの意地 嵐子の意地"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "3601181",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601181",
+                    "Titles": {
+                        "eng": "Semifinal match",
+                        "jpn": "気迫の準決勝"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "3601191",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601191",
+                    "Titles": {
+                        "eng": "Did you see my JODAN, Rank of The fire",
+                        "jpn": "見たか上段火の位!"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "3601201",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601201",
+                    "Titles": {
+                        "eng": "Fight 1 VS 4",
+                        "jpn": "四対一の大げんか"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "3601211",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601211",
+                    "Titles": {
+                        "eng": "My opponent, SHYURA!",
+                        "jpn": "敵は修羅!出るか必勝技"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "3601221",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601221",
+                    "Titles": {
+                        "eng": "Promise among the 5, night before the tournament",
+                        "jpn": "大会前夜 ちかいの五人!"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "3601231",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601231",
+                    "Titles": {
+                        "eng": "Budokan is on Fire!",
+                        "jpn": "燃える武道館!"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "3601241",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601241",
+                    "Titles": {
+                        "eng": "Budokan , exciting match",
+                        "jpn": "武道館、快進撃!"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "3601251",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601251",
+                    "Titles": {
+                        "eng": "Episode 37",
+                        "jpn": "火花散る宿命のライバル戦!"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "3601261",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601261",
+                    "Titles": {
+                        "eng": "Crash! Musashi VS Shyura",
+                        "jpn": "激突!六三四対修羅"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "3601271",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601271",
+                    "Titles": {
+                        "eng": "Target is BUDOKAN again!",
+                        "jpn": "めざせ ふたたび武道館!"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "3601281",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601281",
+                    "Titles": {
+                        "eng": "Tougher! Harder!",
+                        "jpn": "もっと強く!もっと激しく!"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "3601291",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601291",
+                    "Titles": {
+                        "eng": "Tearing up Dojo by Musashi",
+                        "jpn": "あばれ六三四の道場破り!"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "3601301",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601301",
+                    "Titles": {
+                        "eng": "Undefeated Jodan! My sword",
+                        "jpn": "無敵の上段!オラの剣"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "3601311",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601311",
+                    "Titles": {
+                        "eng": "Asyura’s sword",
+                        "jpn": "炎の道!阿修羅の剣!!"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "3601321",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601321",
+                    "Titles": {
+                        "eng": "I will be the tiger from Iwate",
+                        "jpn": "オラは岩手の虎になる!"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "3601331",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601331",
+                    "Titles": {
+                        "eng": "Kendo and friendship, Musashi and Ranko",
+                        "jpn": "剣と友情 六三四VS嵐子"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "3601341",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601341",
+                    "Titles": {
+                        "eng": "Beat Syura ! Match with rival again",
+                        "jpn": "打倒･修羅 ライバル再対決!"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "3601351",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601351",
+                    "Titles": {
+                        "eng": "Opponent is JODAN too! Musashi is in danger",
+                        "jpn": "敵も上段 危うし六三四!"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "3601361",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601361",
+                    "Titles": {
+                        "eng": "Exciting match, Musashi VS Syura",
+                        "jpn": "熱闘!六三四と修羅"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "3601371",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601371",
+                    "Titles": {
+                        "eng": "Way to go! Won the champion",
+                        "jpn": "やったぞ 優勝日本一!"
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "472143",
+            "URL": "https://thetvdb.com/series/musashi-no-ken/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 23,
+            "Episodes": {
+                "1": {
+                    "ID": "3601381",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601381",
+                    "Titles": {
+                        "eng": "Episode 50",
+                        "jpn": "青春編スペシャル 剣と青春のたびだち"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "3601391",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601391",
+                    "Titles": {
+                        "eng": "Episode 51",
+                        "jpn": "初試練･怒りの八幡宮!"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "3601401",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601401",
+                    "Titles": {
+                        "eng": "Episode 52",
+                        "jpn": "危機一髪･春のあらし!"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "3601411",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601411",
+                    "Titles": {
+                        "eng": "Episode 53",
+                        "jpn": "新人戦!しのびよる罠"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "3601421",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601421",
+                    "Titles": {
+                        "eng": "Episode 54",
+                        "jpn": "決勝戦!迷いの一撃"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "3601431",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601431",
+                    "Titles": {
+                        "eng": "Episode 55",
+                        "jpn": "新たなる旅立ち"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "3601441",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601441",
+                    "Titles": {
+                        "eng": "Episode 56",
+                        "jpn": "復活一番勝負!甦る六三四"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "3601451",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601451",
+                    "Titles": {
+                        "eng": "Episode 57",
+                        "jpn": "剛剣!示現流一の太刀"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "3601461",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601461",
+                    "Titles": {
+                        "eng": "Episode 58",
+                        "jpn": "二刀流･謎の刺客"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "3601471",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601471",
+                    "Titles": {
+                        "eng": "Episode 59",
+                        "jpn": "大あばれ!六三四と修羅"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "3601481",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601481",
+                    "Titles": {
+                        "eng": "Episode 60",
+                        "jpn": "覇者の剣･王者の剣"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "3601491",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601491",
+                    "Titles": {
+                        "eng": "Episode 61",
+                        "jpn": "師弟激突!それぞれの誓い"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "3601501",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601501",
+                    "Titles": {
+                        "eng": "Episode 62",
+                        "jpn": "より強く、より逞しく"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "3601511",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601511",
+                    "Titles": {
+                        "eng": "Episode 63",
+                        "jpn": "無冠の豪剣 六三四起つ"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "3601521",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601521",
+                    "Titles": {
+                        "eng": "Episode 64",
+                        "jpn": "青春ふたつ 剣ひとすじに"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "3601531",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601531",
+                    "Titles": {
+                        "eng": "Episode 65",
+                        "jpn": "執念の逆二刀 よみがえった狼!"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "3601541",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601541",
+                    "Titles": {
+                        "eng": "Episode 66",
+                        "jpn": "剣士たちの春秋"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "3601551",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601551",
+                    "Titles": {
+                        "eng": "Episode 67",
+                        "jpn": "母子剣･復活の鬼ユリ"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "3601581",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601581",
+                    "Titles": {
+                        "eng": "Episode 68",
+                        "jpn": "めざせ アベック優勝"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "3601601",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601601",
+                    "Titles": {
+                        "eng": "Episode 69",
+                        "jpn": "六三四の道･嵐子のこころ"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "3601631",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601631",
+                    "Titles": {
+                        "eng": "Episode 70",
+                        "jpn": "剣と青春の嵐"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "3601641",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601641",
+                    "Titles": {
+                        "eng": "Episode 71",
+                        "jpn": "熱剣!若き剣士たちの闘い"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "3601651",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/musashi-no-ken/episodes/3601651",
+                    "Titles": {
+                        "eng": "Episode 72",
+                        "jpn": "剣よ夢よ･栄光の六三四と修羅"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

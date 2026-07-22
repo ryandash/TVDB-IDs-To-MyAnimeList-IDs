@@ -1,0 +1,94 @@
+{
+    "URL": "https://thetvdb.com/series/yotoden-chronicle-of-the-warlord-period",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Fantasy"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt5317270/",
+        "https://www.themoviedb.org/tv/220575"
+    ],
+    "Titles": {
+        "eng": "Yotoden: Chronicle of the Warlord Period",
+        "jpn": "戦国奇譚妖刀伝"
+    },
+    "Aliases": [
+        "Yôtôden",
+        "妖刀伝"
+    ],
+    "Modified": "2026-01-22",
+    "Seasons": {
+        "0": {
+            "ID": "267451",
+            "URL": "https://thetvdb.com/series/yotoden-chronicle-of-the-warlord-period/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "kor": "전국기담 요도전 - 극장판"
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "2395001",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/yotoden-chronicle-of-the-warlord-period/episodes/2395001",
+                    "Titles": {
+                        "eng": "Wrath of the Ninja: The Yotoden Movie",
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "267461",
+            "URL": "https://thetvdb.com/series/yotoden-chronicle-of-the-warlord-period/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "2394971",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yotoden-chronicle-of-the-warlord-period/episodes/2394971",
+                    "Titles": {
+                        "eng": "Chapter I: Break Out",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "2394981",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yotoden-chronicle-of-the-warlord-period/episodes/2394981",
+                    "Titles": {
+                        "eng": "Chapter II: Demon's Cry",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "2394991",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yotoden-chronicle-of-the-warlord-period/episodes/2394991",
+                    "Titles": {
+                        "eng": "Chapter III: Flames of Anger",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

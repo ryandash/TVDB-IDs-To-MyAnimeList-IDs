@@ -1,0 +1,86 @@
+{
+    "URL": "https://thetvdb.com/series/birdy-the-mighty",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0160979/",
+        "https://www.themoviedb.org/tv/95916"
+    ],
+    "Titles": {
+        "eng": "Birdy the Mighty",
+        "jpn": "鉄腕バーディー"
+    },
+    "Aliases": [
+        "Birdy the Mighty OVA"
+    ],
+    "Modified": "2026-07-15",
+    "Seasons": {
+        "1": {
+            "ID": "29222",
+            "URL": "https://thetvdb.com/series/birdy-the-mighty/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "340702",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/birdy-the-mighty/episodes/340702",
+                    "Titles": {
+                        "eng": "2 Hearts in 1 Body",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "340703",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/birdy-the-mighty/episodes/340703",
+                    "Titles": {
+                        "eng": "Double Trouble",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "340704",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/birdy-the-mighty/episodes/340704",
+                    "Titles": {
+                        "eng": "Triangle Trial",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "340705",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/birdy-the-mighty/episodes/340705",
+                    "Titles": {
+                        "eng": "Final Force",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    },
+    "Failed": {
+        "Seasons": [
+            "0"
+        ],
+        "Episodes": []
+    }
+}

@@ -1,0 +1,607 @@
+{
+    "URL": "https://thetvdb.com/series/phantaman",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Fantasy",
+        "Horror"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0392141/"
+    ],
+    "Titles": {
+        "eng": "The Golden Bat",
+        "jpn": "黄金バット"
+    },
+    "Aliases": [
+        "Fantaman",
+        "Ogon Bat",
+        "Ougon Bat"
+    ],
+    "Modified": "2026-04-19",
+    "Seasons": {
+        "1": {
+            "ID": "163371",
+            "URL": "https://thetvdb.com/series/phantaman/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 52,
+            "Episodes": {
+                "1": {
+                    "ID": "1469011",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469011",
+                    "Titles": {
+                        "eng": "Fantomas The Warrior of Justice",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1469021",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469021",
+                    "Titles": {
+                        "eng": "Ghost Horror on Ice",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1469031",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469031",
+                    "Titles": {
+                        "eng": "The Invasion of Dr. Zero",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1469041",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469041",
+                    "Titles": {
+                        "eng": "The Giant Robot",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "1469051",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469051",
+                    "Titles": {
+                        "eng": "The Cariverous Plants",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "1469061",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469061",
+                    "Titles": {
+                        "eng": "The Mysterious Melon",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "1469071",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469071",
+                    "Titles": {
+                        "eng": "The African Mystery",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "1469081",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469081",
+                    "Titles": {
+                        "eng": "Fantasmagoric",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "1469091",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469091",
+                    "Titles": {
+                        "eng": "The Golden Worm",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "1469101",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469101",
+                    "Titles": {
+                        "eng": "The Battle of Uranium Island",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "1469111",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469111",
+                    "Titles": {
+                        "eng": "The Egyptian Treasure",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "1469121",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469121",
+                    "Titles": {
+                        "eng": "The Mysterious Mushroom",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "1469131",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469131",
+                    "Titles": {
+                        "eng": "The Snow Woman",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "1469141",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469141",
+                    "Titles": {
+                        "eng": "The Black cat",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "1469151",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469151",
+                    "Titles": {
+                        "eng": "The Flying Saucer",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "1469161",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469161",
+                    "Titles": {
+                        "eng": "Ghilton the Rockman",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "1469171",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469171",
+                    "Titles": {
+                        "eng": "Galgar the Monster",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "1469181",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469181",
+                    "Titles": {
+                        "eng": "Titan the Terrible",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "1469191",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469191",
+                    "Titles": {
+                        "eng": "Dr. Death",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "1469201",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469201",
+                    "Titles": {
+                        "eng": "The Magic Pearl",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "1469211",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469211",
+                    "Titles": {
+                        "eng": "The Queen of the Sigmanians",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "1469221",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469221",
+                    "Titles": {
+                        "eng": "The Hyper Meteroite",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "1469231",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469231",
+                    "Titles": {
+                        "eng": "The Black Mask",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "1469241",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469241",
+                    "Titles": {
+                        "eng": "The Atomic Pearl",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "1469251",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469251",
+                    "Titles": {
+                        "eng": "The Invasion of the Robots",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "1469261",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469261",
+                    "Titles": {
+                        "eng": "The Death Ray",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "1469271",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469271",
+                    "Titles": {
+                        "eng": "The Trap",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "1469281",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469281",
+                    "Titles": {
+                        "eng": "The Ghost Woman",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "1469291",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469291",
+                    "Titles": {
+                        "eng": "The Space Bat",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "1469301",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469301",
+                    "Titles": {
+                        "eng": "The Olympic Robots",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "1469311",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469311",
+                    "Titles": {
+                        "eng": "The Ghost",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "1469321",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469321",
+                    "Titles": {
+                        "eng": "Deadly Desert",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "1469331",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469331",
+                    "Titles": {
+                        "eng": "The Invisible Monster",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "1469341",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469341",
+                    "Titles": {
+                        "eng": "The Hands of Death",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "1469351",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469351",
+                    "Titles": {
+                        "eng": "The Volcano Monster",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "1469361",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469361",
+                    "Titles": {
+                        "eng": "The Volcano Factory",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "1469371",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469371",
+                    "Titles": {
+                        "eng": "The Sea Monster",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "1469381",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469381",
+                    "Titles": {
+                        "eng": "The Island of Terror",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "1469391",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469391",
+                    "Titles": {
+                        "eng": "The Deadly Jungle",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "1469401",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469401",
+                    "Titles": {
+                        "eng": "The Cursed Cloud",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "1469411",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469411",
+                    "Titles": {
+                        "eng": "The Secret of the Diamond",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "1469421",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469421",
+                    "Titles": {
+                        "eng": "The Witch",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "1469431",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469431",
+                    "Titles": {
+                        "eng": "The Cyclops",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "1469441",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469441",
+                    "Titles": {
+                        "eng": "The Lion Man",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "1469451",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469451",
+                    "Titles": {
+                        "eng": "The Monster Trainer",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "1469461",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469461",
+                    "Titles": {
+                        "eng": "The Witch and the Mosnter",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "1469471",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469471",
+                    "Titles": {
+                        "eng": "The Ambush",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "1469481",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469481",
+                    "Titles": {
+                        "eng": "The Society of Assasins",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "1469491",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469491",
+                    "Titles": {
+                        "eng": "The Vampire Man",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "1469501",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469501",
+                    "Titles": {
+                        "eng": "The Circus Monster",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "1469511",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469511",
+                    "Titles": {
+                        "eng": "Terry's Kidnapping",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "1469521",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/phantaman/episodes/1469521",
+                    "Titles": {
+                        "eng": "It's The End for Zero",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

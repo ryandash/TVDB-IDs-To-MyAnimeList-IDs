@@ -1,0 +1,57 @@
+{
+    "URL": "https://thetvdb.com/series/396707-",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0363903/"
+    ],
+    "Titles": {
+        "eng": "Power Dolls",
+        "jpn": "パワードール"
+    },
+    "Aliases": [
+        "Power Dolls",
+        "Powerdolls: Detachment of Limited Line Services"
+    ],
+    "Modified": "2026-07-02",
+    "Seasons": {
+        "1": {
+            "ID": "1901141",
+            "URL": "https://thetvdb.com/series/396707-/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "8201026",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396707-/episodes/8201026",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Omni History 2540"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "8201027",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/396707-/episodes/8201027",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Project Alpha"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

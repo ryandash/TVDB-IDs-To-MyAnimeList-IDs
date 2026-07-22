@@ -1,0 +1,51 @@
+{
+    "URL": "https://thetvdb.com/series/yotsunoha",
+    "Genres": [
+        "Animation",
+        "Romance"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/79764"
+    ],
+    "Titles": {
+        "eng": "Yotsunoha",
+        "jpn": "よつのは"
+    },
+    "Aliases": [],
+    "Modified": "2025-07-21",
+    "Seasons": {
+        "1": {
+            "ID": "114841",
+            "URL": "https://thetvdb.com/series/yotsunoha/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "1054441",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yotsunoha/episodes/1054441",
+                    "Titles": {
+                        "eng": "1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1054451",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yotsunoha/episodes/1054451",
+                    "Titles": {
+                        "eng": "2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

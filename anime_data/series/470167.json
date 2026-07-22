@@ -1,0 +1,919 @@
+{
+    "URL": "https://thetvdb.com/series/metalkadeubos",
+    "Genres": [
+        "Adventure",
+        "Animation",
+        "Children",
+        "Fantasy",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt32245465/",
+        "https://www.themoviedb.org/tv/223409",
+        "https://www.themoviedb.org/tv/223409",
+        "https://www.wikidata.org/wiki/Q117463058",
+        "https://en.wikipedia.org/wiki/Metal_Cardbot",
+        "https://www.youtube.com/c/@metalcardbotTV"
+    ],
+    "Titles": {
+        "eng": "Metal Cardbot",
+        "jpn": "メタルカードボット"
+    },
+    "Aliases": [],
+    "Modified": "2026-05-09",
+    "Seasons": {
+        "1": {
+            "ID": "2215301",
+            "URL": "https://thetvdb.com/series/metalkadeubos/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "11441720",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441720",
+                    "Titles": {
+                        "eng": "Mystery of the Police Car Robot!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11441721",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441721",
+                    "Titles": {
+                        "eng": "The Dancing Dump Truck",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "11441722",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441722",
+                    "Titles": {
+                        "eng": "Farewell, Blue Cop",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "11441723",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441723",
+                    "Titles": {
+                        "eng": "The Black Ambulance",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "11441724",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441724",
+                    "Titles": {
+                        "eng": "Fire Truck With a Phobia",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "11441725",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441725",
+                    "Titles": {
+                        "eng": "The Invisible Challenger",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "11441726",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441726",
+                    "Titles": {
+                        "eng": "Defeating the Heli-Tornado",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "11441727",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441727",
+                    "Titles": {
+                        "eng": "The Secret Is Out!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "11441728",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441728",
+                    "Titles": {
+                        "eng": "0 Seconds to Destruction",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "11441729",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441729",
+                    "Titles": {
+                        "eng": "Attack of the Final Boss!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "11441730",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441730",
+                    "Titles": {
+                        "eng": "The Mysterious Transfer Student",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "11441731",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441731",
+                    "Titles": {
+                        "eng": "Blue Cop's Special Training!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "11441732",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441732",
+                    "Titles": {
+                        "eng": "Guardian of the Forest",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "11441733",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441733",
+                    "Titles": {
+                        "eng": "Operation Underground Battle",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "11441734",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441734",
+                    "Titles": {
+                        "eng": "A Metal Cardbot from the Sky!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "11441735",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441735",
+                    "Titles": {
+                        "eng": "The Vagabond in the Sky",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "11441736",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441736",
+                    "Titles": {
+                        "eng": "Showdown Between Blue Cop and Wild Guardy!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "11441737",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441737",
+                    "Titles": {
+                        "eng": "The Great Showdown! Giant VS Giant!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "11441738",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441738",
+                    "Titles": {
+                        "eng": "The Hungry Metal Cardbot",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "11441739",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441739",
+                    "Titles": {
+                        "eng": "Metal Breath Gets Stolen",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "11441740",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441740",
+                    "Titles": {
+                        "eng": "Anna's Metal Breath",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "11441741",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441741",
+                    "Titles": {
+                        "eng": "Goodbye, Buffalo Crush",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "11441742",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441742",
+                    "Titles": {
+                        "eng": "Buster Gallon, the Betrayer",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "11441743",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441743",
+                    "Titles": {
+                        "eng": "Black Hook Strikes Back",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "11441744",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441744",
+                    "Titles": {
+                        "eng": "Heavy Battle",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "11441746",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441746",
+                    "Titles": {
+                        "eng": "The Final Battle",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "2": {
+            "ID": "2215307",
+            "URL": "https://thetvdb.com/series/metalkadeubos/seasons/official/2",
+            "Titles": {
+                "eng": "S",
+                "jpn": null,
+                "kor": "메탈카드봇S"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "11441749",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441749",
+                    "Titles": {
+                        "eng": "Metal Cardbot Awakens from the Stone Tablet?!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11441750",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441750",
+                    "Titles": {
+                        "eng": "Second Metal Card!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "11441751",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441751",
+                    "Titles": {
+                        "eng": "Threat From Above",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "11441752",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441752",
+                    "Titles": {
+                        "eng": "Cielo is Uncomfortable!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "11441753",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441753",
+                    "Titles": {
+                        "eng": "Scoop! Steel Reporter",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "11441766",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441766",
+                    "Titles": {
+                        "eng": "Musclehyde's Choice!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "11441770",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441770",
+                    "Titles": {
+                        "eng": "Cave Escape",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "11441771",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441771",
+                    "Titles": {
+                        "eng": "It's Okay, Rock Crush",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "11441772",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441772",
+                    "Titles": {
+                        "eng": "Reunion with Gigantrex",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "11441773",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441773",
+                    "Titles": {
+                        "eng": "The Strongest Power Awakened",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "11441775",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441775",
+                    "Titles": {
+                        "eng": "Red Blitz's Sincerity",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "11441776",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441776",
+                    "Titles": {
+                        "eng": "Can't Stop!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "11441777",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441777",
+                    "Titles": {
+                        "eng": "Fish! Outlaw of the Sea!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "11441778",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441778",
+                    "Titles": {
+                        "eng": "Help Me, Deep Bite!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "11441779",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441779",
+                    "Titles": {
+                        "eng": "Pure White Wings, Sky Gallop",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "11441780",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441780",
+                    "Titles": {
+                        "eng": "Midnight Ghost Train",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "11441781",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441781",
+                    "Titles": {
+                        "eng": "Runaway Locomotive Blastrain",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "11441782",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441782",
+                    "Titles": {
+                        "eng": "Exclusive! Steel Interview",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "11441783",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441783",
+                    "Titles": {
+                        "eng": "Fair and Square! Vector and Bit Brothers",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "11441784",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441784",
+                    "Titles": {
+                        "eng": "The True Master of the Metal Breath",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "11441785",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441785",
+                    "Titles": {
+                        "eng": "Glober's Last Stand",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "11441786",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441786",
+                    "Titles": {
+                        "eng": "Mukara'a Gift",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "11441787",
+                    "TYPE": "OVA",
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441787",
+                    "Titles": {
+                        "eng": "Resurrection of Flame Nova",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "11441788",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441788",
+                    "Titles": {
+                        "eng": "In Search of the Speranza",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "11441789",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441789",
+                    "Titles": {
+                        "eng": "Battle of the Red Ark",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "11441790",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441790",
+                    "Titles": {
+                        "eng": "The Return of Steel",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        },
+        "3": {
+            "ID": "2215308",
+            "URL": "https://thetvdb.com/series/metalkadeubos/seasons/official/3",
+            "Titles": {
+                "eng": "W",
+                "jpn": null,
+                "kor": "메탈카드봇W"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "11441745",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441745",
+                    "Titles": {
+                        "eng": "Era of Change",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11441765",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441765",
+                    "Titles": {
+                        "eng": "Wild Cardbot's Roar",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "11441767",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11441767",
+                    "Titles": {
+                        "eng": "Claws, Wings & Teeth",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "11784148",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11784148",
+                    "Titles": {
+                        "eng": "Capture",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "11784149",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11784149",
+                    "Titles": {
+                        "eng": "Again? The Mysterious Transfer Student",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "11784150",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11784150",
+                    "Titles": {
+                        "eng": "Taming the Tank",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "11784151",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11784151",
+                    "Titles": {
+                        "eng": "A Fantastic Combination",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "11784152",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11784152",
+                    "Titles": {
+                        "eng": "Soleil & Friends",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "11784153",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11784153",
+                    "Titles": {
+                        "eng": "A Lucky Person Who Knows How To Have Fun",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "11784154",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11784154",
+                    "Titles": {
+                        "eng": "Earth's Wrath",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "11784155",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11784155",
+                    "Titles": {
+                        "eng": "Power & Division",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "11784156",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11784156",
+                    "Titles": {
+                        "eng": "Restrictions Lifted",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "11784157",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11784157",
+                    "Titles": {
+                        "eng": "United Hearts",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "11784158",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11784158",
+                    "Titles": {
+                        "eng": "Flame of Unity",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "11784159",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11784159",
+                    "Titles": {
+                        "eng": "Shall We Head out to Sea to Hunt a Dragon?",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "11784160",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11784160",
+                    "Titles": {
+                        "eng": "The Strange Curse of Porcaca",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "11784161",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11784161",
+                    "Titles": {
+                        "eng": "The Contagious Red Shadow",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "11784162",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11784162",
+                    "Titles": {
+                        "eng": "The Uninvited Guest with Three Faces",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "11784163",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11784163",
+                    "Titles": {
+                        "eng": "I Can't Forgive You!",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "11784164",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11784164",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "11784165",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11784165",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "11784166",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11784166",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "11784167",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11784167",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "11784168",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11784168",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "11784169",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11784169",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "11784170",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/metalkadeubos/episodes/11784170",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "URL": "https://thetvdb.com/series/zaion-i-wish-you-were-here",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Science Fiction"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2321187/",
+        "https://www.themoviedb.org/tv/37561",
+        "https://www.themoviedb.org/tv/37561"
+    ],
+    "Titles": {
+        "eng": "Zaion: I Wish You Were Here",
+        "jpn": "i -wish you were here- ～あなたがここにいてほしい～"
+    },
+    "Aliases": [],
+    "Modified": "2026-06-20",
+    "Seasons": {
+        "0": {
+            "ID": "538959",
+            "URL": "https://thetvdb.com/series/zaion-i-wish-you-were-here/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "9446886",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/zaion-i-wish-you-were-here/episodes/9446886",
+                    "Titles": {
+                        "eng": "Zaion: I Wish You Were Here",
+                        "jpn": "あなたがここにいてほしい"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "47291",
+            "URL": "https://thetvdb.com/series/zaion-i-wish-you-were-here/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "494441",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/zaion-i-wish-you-were-here/episodes/494441",
+                    "Titles": {
+                        "eng": "Encounter",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "494451",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/zaion-i-wish-you-were-here/episodes/494451",
+                    "Titles": {
+                        "eng": "Farewell",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "494461",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/zaion-i-wish-you-were-here/episodes/494461",
+                    "Titles": {
+                        "eng": "Notice",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "494471",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/zaion-i-wish-you-were-here/episodes/494471",
+                    "Titles": {
+                        "eng": "Presence",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

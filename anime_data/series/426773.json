@@ -1,0 +1,54 @@
+{
+    "URL": "https://thetvdb.com/series/queens-blade-grimoire",
+    "Genres": [
+        "Anime - Seinen"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt14095038/",
+        "http://www.queensblade.net/grim/anime/anime.html",
+        "https://www.themoviedb.org/tv/108589",
+        "https://www.themoviedb.org/tv/108589",
+        "https://en.wikipedia.org/wiki/Queen's_Blade_Grimoire"
+    ],
+    "Titles": {
+        "eng": "Queen's Blade: Grimoire",
+        "jpn": "クイーンズブレイド グリムワール"
+    },
+    "Aliases": [],
+    "Modified": "2025-10-16",
+    "Seasons": {
+        "1": {
+            "ID": "2028272",
+            "URL": "https://thetvdb.com/series/queens-blade-grimoire/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "9512629",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/queens-blade-grimoire/episodes/9512629",
+                    "Titles": {
+                        "eng": "Awaken, Demon Hunter of Little Red Riding Hood",
+                        "jpn": "覚醒、赤頭巾の魔狩人"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "9512630",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/queens-blade-grimoire/episodes/9512630",
+                    "Titles": {
+                        "eng": "Round Dance, Dreaming Little Mermaid",
+                        "jpn": "輪舞、夢見る人魚姫"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

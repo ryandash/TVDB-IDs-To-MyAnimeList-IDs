@@ -1,0 +1,50 @@
+{
+    "URL": "https://thetvdb.com/series/tomoes-run",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Romance"
+    ],
+    "Other Sites": [],
+    "Titles": {
+        "eng": "Tomoe's Run",
+        "jpn": "巴がゆく!"
+    },
+    "Aliases": [],
+    "Modified": "2023-12-02",
+    "Seasons": {
+        "1": {
+            "ID": "623648",
+            "URL": "https://thetvdb.com/series/tomoes-run/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "5230653",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tomoes-run/episodes/5230653",
+                    "Titles": {
+                        "eng": "Selection Of Cherries",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5230654",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tomoes-run/episodes/5230654",
+                    "Titles": {
+                        "eng": "Selection Of Flames",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

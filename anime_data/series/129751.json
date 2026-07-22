@@ -1,0 +1,101 @@
+{
+    "URL": "https://thetvdb.com/series/10-tokyo-warriors",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt2670864/",
+        "https://www.themoviedb.org/tv/43214"
+    ],
+    "Titles": {
+        "eng": "10 Tokyo Warriors",
+        "jpn": "倒凶十将伝"
+    },
+    "Aliases": [
+        "Tokyo Juushouden",
+        "Ten Warriors of Tokyo",
+        "Tokyo Jushoden",
+        "Ten Tokyo Warriors",
+        "とうきょうじゅっしょうでん"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "161421",
+            "URL": "https://thetvdb.com/series/10-tokyo-warriors/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 6,
+            "Episodes": {
+                "1": {
+                    "ID": "1452571",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/10-tokyo-warriors/episodes/1452571",
+                    "Titles": {
+                        "eng": "Episode 1",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "1452581",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/10-tokyo-warriors/episodes/1452581",
+                    "Titles": {
+                        "eng": "Episode 2",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "1452591",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/10-tokyo-warriors/episodes/1452591",
+                    "Titles": {
+                        "eng": "Episode 3",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "1452601",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/10-tokyo-warriors/episodes/1452601",
+                    "Titles": {
+                        "eng": "Episode 4",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "1452611",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/10-tokyo-warriors/episodes/1452611",
+                    "Titles": {
+                        "eng": "Episode 5",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "1452621",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/10-tokyo-warriors/episodes/1452621",
+                    "Titles": {
+                        "eng": "Episode 6",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}
