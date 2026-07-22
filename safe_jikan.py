@@ -270,6 +270,9 @@ class SafeJikan:
         Perform a safe Jikan anime search with automatic rate limiting and retries.
         """
 
+        if query is not None and len(query.strip()) < 3:
+            return None
+
         if query is None and type_ is None and page is None:
             raise ValueError(
                 "search_anime() requires at least one of: query, type_, or page."
