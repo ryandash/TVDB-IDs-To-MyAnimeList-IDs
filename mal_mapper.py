@@ -56,7 +56,7 @@ def safe_load_json(path: Path) -> dict:
         return {}
 
 # Regex patterns
-NORMALIZE_REGEX = re.compile(r"\[.*?\]|\s*-\s*#?\d+.*|[:.!]")
+NORMALIZE_REGEX = re.compile(r"\[.*?\]|\s+-\s+#?\d+.*|[:.!]")
 
 def normalize_text(name: str) -> str:
     """Normalize anime title for better fuzzy matching."""
