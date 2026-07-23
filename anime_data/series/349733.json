@@ -1,0 +1,57 @@
+{
+    "URL": "https://thetvdb.com/series/yarichinbitch-bu",
+    "Genres": [
+        "Adaptation",
+        "Adult Animation",
+        "LGBTQ+"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt14605648/",
+        "http://yaribu.jp/",
+        "https://www.themoviedb.org/tv/99466",
+        "https://x.com/yaribu_anime"
+    ],
+    "Titles": {
+        "eng": "Yarichin Bitch Club",
+        "jpn": "ヤリチン☆ビッチ部"
+    },
+    "Aliases": [
+        "ヤリチンビッチぶ"
+    ],
+    "Modified": "2026-03-23",
+    "Seasons": {
+        "1": {
+            "ID": "778565",
+            "URL": "https://thetvdb.com/series/yarichinbitch-bu/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "6824721",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yarichinbitch-bu/episodes/6824721",
+                    "Titles": {
+                        "eng": "Episode 1",
+                        "jpn": "第1話"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "6824722",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yarichinbitch-bu/episodes/6824722",
+                    "Titles": {
+                        "eng": "Episode 2",
+                        "jpn": "第2話"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,352 @@
+{
+    "URL": "https://thetvdb.com/series/trigun",
+    "Genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Anime",
+        "Comedy",
+        "Drama",
+        "Science Fiction",
+        "Western"
+    ],
+    "Other Sites": [
+        "https://ui.eidr.org/view/content?id=10.5240/E1A4-9E21-E462-3DA1-C40B-N",
+        "https://www.imdb.com/title/tt0251439/",
+        "https://www.tvmaze.com/shows/4306/show-slug",
+        "https://www.themoviedb.org/tv/26453",
+        "https://www.wikidata.org/wiki/Q18575654",
+        "https://en.wikipedia.org/wiki/Trigun#Anime"
+    ],
+    "Titles": {
+        "eng": "Trigun",
+        "jpn": "TRIGUN"
+    },
+    "Aliases": [],
+    "Modified": "2026-05-31",
+    "Seasons": {
+        "0": {
+            "ID": "25137",
+            "URL": "https://thetvdb.com/series/trigun/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "fra": "Trigun Badlands Rumbles"
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "3389981",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/3389981",
+                    "Titles": {
+                        "eng": "Trigun the Movie: Badlands Rumble",
+                        "jpn": "劇場版「トライガン -Badlands Rumble-」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "13357",
+            "URL": "https://thetvdb.com/series/trigun/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "kor": "시즌 1"
+            },
+            "# Episodes": 26,
+            "Episodes": {
+                "1": {
+                    "ID": "254098",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254098",
+                    "Titles": {
+                        "eng": "The $$60,000,000,000.00 Man",
+                        "jpn": "600億$$の男"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "254099",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254099",
+                    "Titles": {
+                        "eng": "Truth of Mistake",
+                        "jpn": "TRUTH OF MISTAKE"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "254100",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254100",
+                    "Titles": {
+                        "eng": "Peace Maker",
+                        "jpn": "PEACE MAKER"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "254101",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254101",
+                    "Titles": {
+                        "eng": "Love & Peace",
+                        "jpn": "LOVE & PEACE"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "254102",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254102",
+                    "Titles": {
+                        "eng": "Hard Puncher",
+                        "jpn": "HARD PUNCHER"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "254103",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254103",
+                    "Titles": {
+                        "eng": "Lost July",
+                        "jpn": "LOST JULY"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "254104",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254104",
+                    "Titles": {
+                        "eng": "B.D.N.",
+                        "jpn": "B.D.N."
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "254105",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254105",
+                    "Titles": {
+                        "eng": "And Between the Wasteland and Sky",
+                        "jpn": "そして荒野と空の間を"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "254106",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254106",
+                    "Titles": {
+                        "eng": "Murder Machine",
+                        "jpn": "MURDER MACHINE"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "254107",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254107",
+                    "Titles": {
+                        "eng": "Quick Draw",
+                        "jpn": "QUICK DRAW"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "254108",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254108",
+                    "Titles": {
+                        "eng": "Escape from Pain",
+                        "jpn": "ESCAPE FROM PAIN"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "254109",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254109",
+                    "Titles": {
+                        "eng": "Diablo",
+                        "jpn": "DIABLO"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "254110",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254110",
+                    "Titles": {
+                        "eng": "Vash the Stampede",
+                        "jpn": "ヴァッシュ・ザ・スタンピード"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "254111",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254111",
+                    "Titles": {
+                        "eng": "Little Arcadia",
+                        "jpn": "LITTLE ARCADIA"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "254112",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254112",
+                    "Titles": {
+                        "eng": "Demon's Eye",
+                        "jpn": "DEMONS EYE"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "254113",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254113",
+                    "Titles": {
+                        "eng": "Fifth Moon",
+                        "jpn": "FIFTH MOON"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "254114",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254114",
+                    "Titles": {
+                        "eng": "Rem Saverem",
+                        "jpn": "レム・セイブレム"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "254115",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254115",
+                    "Titles": {
+                        "eng": "Goodbye for Now",
+                        "jpn": "今は、さよなら"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "254116",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254116",
+                    "Titles": {
+                        "eng": "Hang Fire",
+                        "jpn": "HANG FIRE"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "254117",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254117",
+                    "Titles": {
+                        "eng": "Flying Ship",
+                        "jpn": "FLYING SHIP"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "254118",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254118",
+                    "Titles": {
+                        "eng": "Out of Time",
+                        "jpn": "OUT OF TIME"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "254119",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254119",
+                    "Titles": {
+                        "eng": "Alternative",
+                        "jpn": "ALTERNATIVE"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "254120",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254120",
+                    "Titles": {
+                        "eng": "Paradise",
+                        "jpn": "楽園"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "254121",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254121",
+                    "Titles": {
+                        "eng": "Sin",
+                        "jpn": "罪"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "254122",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254122",
+                    "Titles": {
+                        "eng": "Live Through",
+                        "jpn": "LIVE THROUGH"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "254123",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/trigun/episodes/254123",
+                    "Titles": {
+                        "eng": "Under the Sky So Blue",
+                        "jpn": "こんなにも青い空の下で"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

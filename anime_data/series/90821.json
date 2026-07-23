@@ -1,0 +1,658 @@
+{
+    "URL": "https://thetvdb.com/series/the-wonderful-adventures-of-nils",
+    "Genres": [
+        "Adaptation"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt0296386/",
+        "https://www.themoviedb.org/tv/19521",
+        "https://www.wikidata.org/wiki/Q1072208"
+    ],
+    "Titles": {
+        "eng": "The Wonderful Adventures of Nils",
+        "jpn": "ニルスのふしぎな旅"
+    },
+    "Aliases": [
+        "Nils no Fushigi na Tabi",
+        "Nils's Fantastic Journey",
+        "Nirusu no Fushigi na Tabi"
+    ],
+    "Modified": "2026-05-15",
+    "Seasons": {
+        "0": {
+            "ID": "56011",
+            "URL": "https://thetvdb.com/series/the-wonderful-adventures-of-nils/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "783951",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/783951",
+                    "Titles": {
+                        "eng": "The Wonderful Adventures of Nils (The Movie)",
+                        "jpn": "劇場版　ニルスのふしぎな旅"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "4320515",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/4320515",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "99": {
+                    "ID": "4320513",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/4320513",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": null
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        },
+        "1": {
+            "ID": "56031",
+            "URL": "https://thetvdb.com/series/the-wonderful-adventures-of-nils/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null,
+                "nld": "De kabouter",
+                "afr": "Die Kaboutertjie"
+            },
+            "# Episodes": 52,
+            "Episodes": {
+                "1": {
+                    "ID": "566491",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566491",
+                    "Titles": {
+                        "eng": "Mischevious Nils",
+                        "jpn": "わんぱくニルス"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "566501",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566501",
+                    "Titles": {
+                        "eng": "Shrunken Nils",
+                        "jpn": "小さくなったニルス"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "566511",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566511",
+                    "Titles": {
+                        "eng": "Riding a goose",
+                        "jpn": "がちょうに乗って"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "566521",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566521",
+                    "Titles": {
+                        "eng": "SOS of the Forest Squirrels",
+                        "jpn": "森のリスのSOS"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "566531",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566531",
+                    "Titles": {
+                        "eng": "Morten`s big pinch",
+                        "jpn": "モルテンの大ピンチ"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "566541",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566541",
+                    "Titles": {
+                        "eng": "Bird Strength Contest",
+                        "jpn": "鳥の体力テスト"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "566551",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566551",
+                    "Titles": {
+                        "eng": "Battle of the Mice",
+                        "jpn": "ネズミの戦い"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "566561",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566561",
+                    "Titles": {
+                        "eng": "The Crane`s ball",
+                        "jpn": "ツルの舞踏会"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "566571",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566571",
+                    "Titles": {
+                        "eng": "Hungry Nils",
+                        "jpn": "はらぺこニルス"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "566581",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566581",
+                    "Titles": {
+                        "eng": "Rex`s Evil Scheme",
+                        "jpn": "レックスの悪だくみ"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "566591",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566591",
+                    "Titles": {
+                        "eng": "Walking Lead Statue",
+                        "jpn": "あるく銅像"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "566601",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566601",
+                    "Titles": {
+                        "eng": "Morten`s First Love",
+                        "jpn": "モルテンの初恋"
+                    },
+                    "Aliases": []
+                },
+                "13": {
+                    "ID": "566611",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566611",
+                    "Titles": {
+                        "eng": "Goats of Hell`s Valley",
+                        "jpn": "地獄谷の羊たち"
+                    },
+                    "Aliases": []
+                },
+                "14": {
+                    "ID": "566621",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566621",
+                    "Titles": {
+                        "eng": "Phantom Town Appearing on Moonlit Nights",
+                        "jpn": "月夜に浮かぶ幻の街"
+                    },
+                    "Aliases": []
+                },
+                "15": {
+                    "ID": "566631",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566631",
+                    "Titles": {
+                        "eng": "The Greedy Crow and the Coin Bowl",
+                        "jpn": "欲ばりカラスと金貨のつぼ"
+                    },
+                    "Aliases": []
+                },
+                "16": {
+                    "ID": "566641",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566641",
+                    "Titles": {
+                        "eng": "Choose a Crow Boss",
+                        "jpn": "カラスのボスを決めろ"
+                    },
+                    "Aliases": []
+                },
+                "17": {
+                    "ID": "566651",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566651",
+                    "Titles": {
+                        "eng": "Ransomed Duck Child",
+                        "jpn": "おとりにされた子ガモ"
+                    },
+                    "Aliases": []
+                },
+                "18": {
+                    "ID": "566661",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566661",
+                    "Titles": {
+                        "eng": "The Lake Disappears",
+                        "jpn": "湖がなくなる"
+                    },
+                    "Aliases": []
+                },
+                "19": {
+                    "ID": "566671",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566671",
+                    "Titles": {
+                        "eng": "Spoiled Fawn",
+                        "jpn": "あまえん坊の子ジカ"
+                    },
+                    "Aliases": []
+                },
+                "20": {
+                    "ID": "566681",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566681",
+                    "Titles": {
+                        "eng": "Snake`s Revenge",
+                        "jpn": "ヘビの仕かえし"
+                    },
+                    "Aliases": []
+                },
+                "21": {
+                    "ID": "566691",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566691",
+                    "Titles": {
+                        "eng": "A Testy Witch`s Prank",
+                        "jpn": "お天気魔女のいたずら"
+                    },
+                    "Aliases": []
+                },
+                "22": {
+                    "ID": "566701",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566701",
+                    "Titles": {
+                        "eng": "Bear Twins Who Prowl the Forest",
+                        "jpn": "森を追われるふたごのクマ"
+                    },
+                    "Aliases": []
+                },
+                "23": {
+                    "ID": "566711",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566711",
+                    "Titles": {
+                        "eng": "Flood of Swan Lake",
+                        "jpn": "大洪水 白鳥の湖"
+                    },
+                    "Aliases": []
+                },
+                "24": {
+                    "ID": "566721",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566721",
+                    "Titles": {
+                        "eng": "Operation Damn Watchdog Rex",
+                        "jpn": "くたばれレックス 番犬作戦"
+                    },
+                    "Aliases": []
+                },
+                "25": {
+                    "ID": "566731",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566731",
+                    "Titles": {
+                        "eng": "Rescue Party from the Sky",
+                        "jpn": "空からの救えん隊"
+                    },
+                    "Aliases": []
+                },
+                "26": {
+                    "ID": "566741",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566741",
+                    "Titles": {
+                        "eng": "Event on a Stormy Day",
+                        "jpn": "嵐の日の出来事"
+                    },
+                    "Aliases": []
+                },
+                "27": {
+                    "ID": "566751",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566751",
+                    "Titles": {
+                        "eng": "Morten`s Engagement",
+                        "jpn": "モルテンの婚約"
+                    },
+                    "Aliases": []
+                },
+                "28": {
+                    "ID": "566761",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566761",
+                    "Titles": {
+                        "eng": "Nils Singing on a Streetcorner",
+                        "jpn": "街角でうたうニルス"
+                    },
+                    "Aliases": []
+                },
+                "29": {
+                    "ID": "566771",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566771",
+                    "Titles": {
+                        "eng": "Arrested Eagle",
+                        "jpn": "捕われのオオワシ"
+                    },
+                    "Aliases": []
+                },
+                "30": {
+                    "ID": "566781",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566781",
+                    "Titles": {
+                        "eng": "The Taste of Freshly Baked Bread",
+                        "jpn": "焼きたてのパンの味"
+                    },
+                    "Aliases": []
+                },
+                "31": {
+                    "ID": "566791",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566791",
+                    "Titles": {
+                        "eng": "Monster of the Forest",
+                        "jpn": "森の妖怪"
+                    },
+                    "Aliases": []
+                },
+                "32": {
+                    "ID": "566801",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566801",
+                    "Titles": {
+                        "eng": "Look Out, Nils: A Mountain Fire",
+                        "jpn": "危いニルス 山火事だ"
+                    },
+                    "Aliases": []
+                },
+                "33": {
+                    "ID": "566811",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566811",
+                    "Titles": {
+                        "eng": "Patrol of Five",
+                        "jpn": "五羽のていさつ隊"
+                    },
+                    "Aliases": []
+                },
+                "34": {
+                    "ID": "566821",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566821",
+                    "Titles": {
+                        "eng": "Battle of the Spirits of Sun and Ice",
+                        "jpn": "太陽と氷の精の戦い"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "566831",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566831",
+                    "Titles": {
+                        "eng": "Goose Guard Child Looking for His Father",
+                        "jpn": "父をさがすガチョウ番の子"
+                    },
+                    "Aliases": []
+                },
+                "36": {
+                    "ID": "566841",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566841",
+                    "Titles": {
+                        "eng": "Bird Love",
+                        "jpn": "鳥たちの恋"
+                    },
+                    "Aliases": []
+                },
+                "37": {
+                    "ID": "566851",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566851",
+                    "Titles": {
+                        "eng": "Morten the Rookie Papa",
+                        "jpn": "しんまいパパのモルテン"
+                    },
+                    "Aliases": []
+                },
+                "38": {
+                    "ID": "566861",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566861",
+                    "Titles": {
+                        "eng": "Lapland, Land Where the Sun Never Sets",
+                        "jpn": "日が暮れないラプランド"
+                    },
+                    "Aliases": []
+                },
+                "39": {
+                    "ID": "566871",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566871",
+                    "Titles": {
+                        "eng": "Don`t Follow Me, Golgo",
+                        "jpn": "あとを追わないでゴルゴ"
+                    },
+                    "Aliases": []
+                },
+                "40": {
+                    "ID": "566881",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566881",
+                    "Titles": {
+                        "eng": "Wolf Attack",
+                        "jpn": "オオカミのしゅうげき"
+                    },
+                    "Aliases": []
+                },
+                "41": {
+                    "ID": "566891",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566891",
+                    "Titles": {
+                        "eng": "Lake Fire Festival",
+                        "jpn": "湖の火まつり"
+                    },
+                    "Aliases": []
+                },
+                "42": {
+                    "ID": "566901",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566901",
+                    "Titles": {
+                        "eng": "Big Man Who Built a Forest",
+                        "jpn": "森をつくった大男"
+                    },
+                    "Aliases": []
+                },
+                "43": {
+                    "ID": "566911",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566911",
+                    "Titles": {
+                        "eng": "Nils`s Lullabye",
+                        "jpn": "ニルスの子守"
+                    },
+                    "Aliases": []
+                },
+                "44": {
+                    "ID": "566921",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566921",
+                    "Titles": {
+                        "eng": "Bataki Shut In",
+                        "jpn": "閉じこめられたバタキ"
+                    },
+                    "Aliases": []
+                },
+                "45": {
+                    "ID": "566931",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566931",
+                    "Titles": {
+                        "eng": "Haunted House on a Full Moon",
+                        "jpn": "満月のゆうれい屋敷"
+                    },
+                    "Aliases": []
+                },
+                "46": {
+                    "ID": "566941",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566941",
+                    "Titles": {
+                        "eng": "Sea Shining Silver",
+                        "jpn": "銀いろに光る海"
+                    },
+                    "Aliases": []
+                },
+                "47": {
+                    "ID": "566951",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566951",
+                    "Titles": {
+                        "eng": "Main Event of the Village Festival",
+                        "jpn": "村まつりのよびもの"
+                    },
+                    "Aliases": []
+                },
+                "48": {
+                    "ID": "566961",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566961",
+                    "Titles": {
+                        "eng": "Rex`s New Journey",
+                        "jpn": "レックスの新しい旅立ち"
+                    },
+                    "Aliases": []
+                },
+                "49": {
+                    "ID": "566971",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566971",
+                    "Titles": {
+                        "eng": "Nils Discovers a Secret",
+                        "jpn": "秘密を知ったニルス"
+                    },
+                    "Aliases": []
+                },
+                "50": {
+                    "ID": "566981",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566981",
+                    "Titles": {
+                        "eng": "Wild Goose`s Present",
+                        "jpn": "ガンのプレゼント"
+                    },
+                    "Aliases": []
+                },
+                "51": {
+                    "ID": "566991",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/566991",
+                    "Titles": {
+                        "eng": "To My Old Home",
+                        "jpn": "なつかしいわが家へ"
+                    },
+                    "Aliases": []
+                },
+                "52": {
+                    "ID": "567001",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-wonderful-adventures-of-nils/episodes/567001",
+                    "Titles": {
+                        "eng": "Goodbye, Akka",
+                        "jpn": "さようならアッカ"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

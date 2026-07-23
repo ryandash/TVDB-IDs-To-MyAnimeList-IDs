@@ -1,0 +1,85 @@
+{
+    "URL": "https://thetvdb.com/series/ketaishao-nu",
+    "Genres": [
+        "Animation",
+        "Anime",
+        "Comedy"
+    ],
+    "Other Sites": [
+        "https://www.themoviedb.org/tv/53321"
+    ],
+    "Titles": {
+        "eng": "Keitai Shoujo",
+        "jpn": "ケータイ少女"
+    },
+    "Aliases": [],
+    "Modified": "2026-07-03",
+    "Seasons": {
+        "1": {
+            "ID": "2257761",
+            "URL": "https://thetvdb.com/series/ketaishao-nu/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 5,
+            "Episodes": {
+                "1": {
+                    "ID": "11869415",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ketaishao-nu/episodes/11869415",
+                    "Titles": {
+                        "eng": "Call 1: Mishima Ichiru",
+                        "jpn": "着信1 美島いちる"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11869416",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ketaishao-nu/episodes/11869416",
+                    "Titles": {
+                        "eng": "Call 2: Tomoe Sayo",
+                        "jpn": "着信2 巴沙代"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "11869417",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ketaishao-nu/episodes/11869417",
+                    "Titles": {
+                        "eng": "Call 3: Gotou Miya",
+                        "jpn": "着信3 後刀美弥"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "11869418",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ketaishao-nu/episodes/11869418",
+                    "Titles": {
+                        "eng": "Call 4: Fujimiya Momoka",
+                        "jpn": "着信4 藤宮桃香"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "11869419",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ketaishao-nu/episodes/11869419",
+                    "Titles": {
+                        "eng": "Call 5: Yamada Ayano",
+                        "jpn": "着信5 山田綾乃"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

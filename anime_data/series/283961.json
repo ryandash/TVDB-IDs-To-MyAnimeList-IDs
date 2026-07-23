@@ -1,0 +1,194 @@
+{
+    "URL": "https://thetvdb.com/series/gangsta",
+    "Genres": [
+        "Action",
+        "Animation",
+        "Anime",
+        "Crime",
+        "Drama"
+    ],
+    "Other Sites": [
+        "https://www.imdb.com/title/tt5025394/",
+        "http://gangsta-project.com",
+        "https://www.themoviedb.org/tv/66390",
+        "https://x.com/GANGSTA_Project"
+    ],
+    "Titles": {
+        "eng": "GANGSTA.",
+        "jpn": "GANGSTA."
+    },
+    "Aliases": [
+        "Gangsta",
+        "ギャングスタ"
+    ],
+    "Modified": "2026-01-12",
+    "Seasons": {
+        "0": {
+            "ID": "591568",
+            "URL": "https://thetvdb.com/series/gangsta/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "5319692",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/gangsta/episodes/5319692",
+                    "Titles": {
+                        "eng": "9.5 (Recap)",
+                        "jpn": "9.5（まとめ）"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
+        "1": {
+            "ID": "591569",
+            "URL": "https://thetvdb.com/series/gangsta/seasons/official/1",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 12,
+            "Episodes": {
+                "1": {
+                    "ID": "4937884",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gangsta/episodes/4937884",
+                    "Titles": {
+                        "eng": "Naughty Boys",
+                        "jpn": "NAUGHTY BOYS"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "5266419",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gangsta/episodes/5266419",
+                    "Titles": {
+                        "eng": "Hundemarken",
+                        "jpn": "HUNDEMARKEN"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "5268293",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gangsta/episodes/5268293",
+                    "Titles": {
+                        "eng": "Ergastulum",
+                        "jpn": "ERGASTULUM"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "5268294",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gangsta/episodes/5268294",
+                    "Titles": {
+                        "eng": "Nonconformist",
+                        "jpn": "NONCONFORMIST"
+                    },
+                    "Aliases": []
+                },
+                "5": {
+                    "ID": "5268295",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gangsta/episodes/5268295",
+                    "Titles": {
+                        "eng": "Sanctions",
+                        "jpn": "SANCTIONS"
+                    },
+                    "Aliases": []
+                },
+                "6": {
+                    "ID": "5268597",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gangsta/episodes/5268597",
+                    "Titles": {
+                        "eng": "Thorn",
+                        "jpn": "THORN"
+                    },
+                    "Aliases": []
+                },
+                "7": {
+                    "ID": "5268598",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gangsta/episodes/5268598",
+                    "Titles": {
+                        "eng": "Birth",
+                        "jpn": "BIRTH"
+                    },
+                    "Aliases": []
+                },
+                "8": {
+                    "ID": "5268599",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gangsta/episodes/5268599",
+                    "Titles": {
+                        "eng": "Evening Dress",
+                        "jpn": "EVENING DRESS"
+                    },
+                    "Aliases": []
+                },
+                "9": {
+                    "ID": "5268600",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gangsta/episodes/5268600",
+                    "Titles": {
+                        "eng": "Siblings",
+                        "jpn": "SIBLINGS"
+                    },
+                    "Aliases": []
+                },
+                "10": {
+                    "ID": "5268601",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gangsta/episodes/5268601",
+                    "Titles": {
+                        "eng": "Land of Confusion",
+                        "jpn": "LAND OF CONFUSION"
+                    },
+                    "Aliases": []
+                },
+                "11": {
+                    "ID": "5268602",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gangsta/episodes/5268602",
+                    "Titles": {
+                        "eng": "Absence",
+                        "jpn": "ABSENCE"
+                    },
+                    "Aliases": []
+                },
+                "12": {
+                    "ID": "5268603",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/gangsta/episodes/5268603",
+                    "Titles": {
+                        "eng": "Odds and Ends",
+                        "jpn": "ODDS AND ENDS"
+                    },
+                    "Aliases": []
+                }
+            }
+        }
+    }
+}

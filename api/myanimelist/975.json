@@ -1,0 +1,44 @@
+[
+    {
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/series/84509",
+        "myanimelist url": "https://myanimelist.net/anime/975",
+        "myanimelist": 975,
+        "thetvdb": 84509
+    },
+    {
+        "season": 1,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/season/39188",
+        "myanimelist url": "https://myanimelist.net/anime/975",
+        "myanimelist": 975,
+        "thetvdb": 39188,
+        "series id": 84509
+    },
+    {
+        "season": 1,
+        "episode": 1,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/422782",
+        "myanimelist url": "https://myanimelist.net/anime/975/Yokohama_Kaidashi_Kikou/episode/1",
+        "myanimelist": 975,
+        "thetvdb": 422782,
+        "series id": 84509,
+        "season id": 39188
+    },
+    {
+        "season": 1,
+        "episode": 2,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/422783",
+        "myanimelist url": "https://myanimelist.net/anime/975/Yokohama_Kaidashi_Kikou/episode/2",
+        "myanimelist": 975,
+        "thetvdb": 422783,
+        "series id": 84509,
+        "season id": 39188
+    },
+    {
+        "season": 2,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/season/39189",
+        "myanimelist url": "https://myanimelist.net/anime/975",
+        "myanimelist": 975,
+        "thetvdb": 39189,
+        "series id": 84509
+    }
+]
