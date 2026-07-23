@@ -91,7 +91,7 @@ class SafeJikan:
                     type=cached.get("type", ""),
                     titles=[TitleEntry(**t) for t in cached.get("titles", [])],
                     relations=cached.get("relations", []),
-                    episodes=cached.get("episodes") or 0
+                    episodes=cached.get("episodes") or 0,
                     url=cached.get("url"),
                     aired=cached.get("aired", {})
                 )
