@@ -7,6 +7,7 @@ from datetime import datetime, timezone, timedelta
 from dataclasses import dataclass, field, asdict
 import glob
 import orjson
+import aiohttp
 
 @dataclass
 class TitleEntry:
@@ -90,7 +91,7 @@ class SafeJikan:
                     type=cached.get("type", ""),
                     titles=[TitleEntry(**t) for t in cached.get("titles", [])],
                     relations=cached.get("relations", []),
-                    episodes=cached.get("episodes"),
+                    episodes=cached.get("episodes") or 0
                     url=cached.get("url"),
                     aired=cached.get("aired", {})
                 )
@@ -270,13 +271,19 @@ class SafeJikan:
         Perform a safe Jikan anime search with automatic rate limiting and retries.
         """
 
-        if query is not None and len(query.strip()) < 3:
-            return None
-
         if query is None and type_ is None and page is None:
             raise ValueError(
                 "search_anime() requires at least one of: query, type_, or page."
             )
+
+        if query is not None and len(query.strip()) < 3:
+            return None
+
+        if query is not None:
+            query = query.strip()
+
+            if len(query) > 180:
+                query = query[:180].rstrip()
 
         kwargs = {
             **({"q": query} if query else {}),
