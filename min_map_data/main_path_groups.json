@@ -171749,6 +171749,26 @@
           "type": "Default"
         }
       ]
+    },
+    {
+      "malId": 64726,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u9b54\u90fd\u7cbe\u5175\u306e\u30b9\u30ec\u30a4\u30d63",
+          "type": "Japanese"
+        },
+        {
+          "title": "Chained Soldier Season 3",
+          "type": "English"
+        },
+        {
+          "title": "Mato Seihei no Slave 3",
+          "type": "Default"
+        }
+      ]
     }
   ],
   [
@@ -198240,6 +198260,24 @@
         },
         {
           "title": "Isekai Gukbap Master",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64712,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u8ffd\u653e\u3055\u308c\u305f\u5546\u4eba\u306f\u91d1\u306e\u529b\u3067\u4e16\u754c\u3092\u6551\u3046",
+          "type": "Japanese"
+        },
+        {
+          "title": "Tsuihou sareta Shounin wa Kane no Chikara de Sekai wo Sukuu",
           "type": "Default"
         }
       ]
@@ -281341,6 +281379,64 @@
   ],
   [
     {
+      "malId": 64710,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 40,
+      "titles": [
+        {
+          "title": "\u592a\u53e4\u795e\u5c0a",
+          "type": "Japanese"
+        },
+        {
+          "title": "Primeval Overlord",
+          "type": "English"
+        },
+        {
+          "title": "Taigu Shen Zun",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64713,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u8c37\u96e8\u8857\u540e\u5df7",
+          "type": "Japanese"
+        },
+        {
+          "title": "Guyu Jie Hou Xiang",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64720,
+      "type": "ONA",
+      "year": 2023,
+      "episodes": 3,
+      "titles": [
+        {
+          "title": "\u4eca\u5929\u5c11\u4e3b\u4e0d\u5728\u5bb6 \u7279\u522b\u7bc7",
+          "type": "Japanese"
+        },
+        {
+          "title": "Jintian Shao Zhu Bu Zaijia: Tebie Pian",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 49,
       "type": "OVA",
       "year": 1993,
@@ -343089,6 +343185,26 @@
           "type": "Default"
         }
       ]
+    },
+    {
+      "malId": 64725,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "Fate/Grand Order \u85e4\u4e38\u7acb\u9999\u306f\u308f\u304b\u3089\u306a\u3044 Season4",
+          "type": "Japanese"
+        },
+        {
+          "title": "Fate/Grand Order: You've Lost Ritsuka Fujimaru Season 4",
+          "type": "English"
+        },
+        {
+          "title": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 4",
+          "type": "Default"
+        }
+      ]
     }
   ],
   [
@@ -345957,17 +346073,17 @@
   ],
   [
     {
-      "malId": 64712,
+      "malId": 64717,
       "type": "TV",
       "year": 0,
       "episodes": 0,
       "titles": [
         {
-          "title": "\u8ffd\u653e\u3055\u308c\u305f\u5546\u4eba\u306f\u91d1\u306e\u529b\u3067\u4e16\u754c\u3092\u6551\u3046",
+          "title": "\u3086\u3046\u3055\u3093\u3061\uff01from \u904a\u30cf\u3061",
           "type": "Japanese"
         },
         {
-          "title": "Tsuihou sareta Shounin wa Kane no Chikara de Sekai wo Sukuu",
+          "title": "Yuusanchi! from Yuu-hachi",
           "type": "Default"
         }
       ]
@@ -345975,21 +346091,17 @@
   ],
   [
     {
-      "malId": 64710,
-      "type": "ONA",
+      "malId": 64718,
+      "type": "TV",
       "year": 2026,
-      "episodes": 40,
+      "episodes": 0,
       "titles": [
         {
-          "title": "\u592a\u53e4\u795e\u5c0a",
+          "title": "\u3054\u30fc\u3059\u3068\u30fb\u307f\u30fc\u3064\u30fb\u304e\u3083\u308b\uff01",
           "type": "Japanese"
         },
         {
-          "title": "Primeval Overlord",
-          "type": "English"
-        },
-        {
-          "title": "Taigu Shen Zun",
+          "title": "Ghost Meets Gal!",
           "type": "Default"
         }
       ]
@@ -345997,35 +346109,39 @@
   ],
   [
     {
-      "malId": 64713,
+      "malId": 64696,
+      "type": "ONA",
+      "year": 2023,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "\u305d\u3053\u304c\u5909\u3060\u3088\uff01\u72ac\u732b\u88c1\u5224",
+          "type": "Japanese"
+        },
+        {
+          "title": "Soko ga Hen da yo! Inuneko Saiban",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64724,
       "type": "ONA",
       "year": 2026,
       "episodes": 0,
       "titles": [
         {
-          "title": "\u8c37\u96e8\u8857\u540e\u5df7",
+          "title": "1999\uff01\u795e\u79d8\u5b66\u5bf9\u7b56\u90e8",
           "type": "Japanese"
         },
         {
-          "title": "Guyu Jie Hou Xiang",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64720,
-      "type": "ONA",
-      "year": 2023,
-      "episodes": 3,
-      "titles": [
-        {
-          "title": "\u4eca\u5929\u5c11\u4e3b\u4e0d\u5728\u5bb6 \u7279\u522b\u7bc7",
-          "type": "Japanese"
+          "title": "1999! Arcane Incident Department",
+          "type": "English"
         },
         {
-          "title": "Jintian Shao Zhu Bu Zaijia: Tebie Pian",
+          "title": "1999! Shenmi Xue Duice Bu",
           "type": "Default"
         }
       ]
