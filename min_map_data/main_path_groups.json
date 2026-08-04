@@ -198285,6 +198285,42 @@
   ],
   [
     {
+      "malId": 64717,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u3086\u3046\u3055\u3093\u3061\uff01from \u904a\u30cf\u3061",
+          "type": "Japanese"
+        },
+        {
+          "title": "Yuusanchi! from Yuu-hachi",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64718,
+      "type": "TV",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u3054\u30fc\u3059\u3068\u30fb\u307f\u30fc\u3064\u30fb\u304e\u3083\u308b\uff01",
+          "type": "Japanese"
+        },
+        {
+          "title": "Ghost Meets Gal!",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -272195,6 +272231,22 @@
           "type": "Default"
         }
       ]
+    },
+    {
+      "malId": 64735,
+      "type": "ONA",
+      "year": 2025,
+      "episodes": 10,
+      "titles": [
+        {
+          "title": "\u5168\u804c\u9ad8\u624b\u8363\u8000\u5c0f\u5267\u573a \u7b2c\u4e8c\u5b63",
+          "type": "Japanese"
+        },
+        {
+          "title": "Quanzhi Gaoshou: Rongyao Xiao Juchang 2nd Season",
+          "type": "Default"
+        }
+      ]
     }
   ],
   [
@@ -281430,6 +281482,46 @@
         },
         {
           "title": "Jintian Shao Zhu Bu Zaijia: Tebie Pian",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64696,
+      "type": "ONA",
+      "year": 2023,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "\u305d\u3053\u304c\u5909\u3060\u3088\uff01\u72ac\u732b\u88c1\u5224",
+          "type": "Japanese"
+        },
+        {
+          "title": "Soko ga Hen da yo! Inuneko Saiban",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64724,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "1999\uff01\u795e\u79d8\u5b66\u5bf9\u7b56\u90e8",
+          "type": "Japanese"
+        },
+        {
+          "title": "1999! Arcane Incident Department",
+          "type": "English"
+        },
+        {
+          "title": "1999! Shenmi Xue Duice Bu",
           "type": "Default"
         }
       ]
@@ -346073,75 +346165,17 @@
   ],
   [
     {
-      "malId": 64717,
-      "type": "TV",
-      "year": 0,
-      "episodes": 0,
-      "titles": [
-        {
-          "title": "\u3086\u3046\u3055\u3093\u3061\uff01from \u904a\u30cf\u3061",
-          "type": "Japanese"
-        },
-        {
-          "title": "Yuusanchi! from Yuu-hachi",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64718,
-      "type": "TV",
-      "year": 2026,
-      "episodes": 0,
-      "titles": [
-        {
-          "title": "\u3054\u30fc\u3059\u3068\u30fb\u307f\u30fc\u3064\u30fb\u304e\u3083\u308b\uff01",
-          "type": "Japanese"
-        },
-        {
-          "title": "Ghost Meets Gal!",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64696,
+      "malId": 64734,
       "type": "ONA",
-      "year": 2023,
-      "episodes": 1,
+      "year": 2025,
+      "episodes": 20,
       "titles": [
         {
-          "title": "\u305d\u3053\u304c\u5909\u3060\u3088\uff01\u72ac\u732b\u88c1\u5224",
+          "title": "\u73b2\u73d1\u9ab0",
           "type": "Japanese"
         },
         {
-          "title": "Soko ga Hen da yo! Inuneko Saiban",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64724,
-      "type": "ONA",
-      "year": 2026,
-      "episodes": 0,
-      "titles": [
-        {
-          "title": "1999\uff01\u795e\u79d8\u5b66\u5bf9\u7b56\u90e8",
-          "type": "Japanese"
-        },
-        {
-          "title": "1999! Arcane Incident Department",
-          "type": "English"
-        },
-        {
-          "title": "1999! Shenmi Xue Duice Bu",
+          "title": "Linglong Tou",
           "type": "Default"
         }
       ]
