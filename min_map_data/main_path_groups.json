@@ -121999,6 +121999,26 @@
           "type": "Default"
         }
       ]
+    },
+    {
+      "malId": 64743,
+      "type": "TV",
+      "year": 0,
+      "episodes": 50,
+      "titles": [
+        {
+          "title": "\uc18c\ub144\uc7a5\uc218",
+          "type": "Japanese"
+        },
+        {
+          "title": "The Boy General",
+          "type": "English"
+        },
+        {
+          "title": "Sonyeonjangsu (2015)",
+          "type": "Default"
+        }
+      ]
     }
   ],
   [
@@ -281207,28 +281227,6 @@
   ],
   [
     {
-      "malId": 64571,
-      "type": "ONA",
-      "year": 2016,
-      "episodes": 1,
-      "titles": [
-        {
-          "title": "\u7b46\u58a8\u884c\u65c5",
-          "type": "Japanese"
-        },
-        {
-          "title": "Travelling Through Brush and Ink",
-          "type": "English"
-        },
-        {
-          "title": "Bimo Xinglu",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
       "malId": 64575,
       "type": "ONA",
       "year": 2018,
@@ -281616,6 +281614,42 @@
         },
         {
           "title": "Quanzhi Gaoshou 2: Q Ban Xiao Juchang",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64745,
+      "type": "ONA",
+      "year": 2020,
+      "episodes": 6,
+      "titles": [
+        {
+          "title": "\u4e00\u4eba\u4e4b\u4e0b\u624b\u6e38\u6ce1\u9762\u756a",
+          "type": "Japanese"
+        },
+        {
+          "title": "Yi Ren Zhi Xia Shou You: Pao Mian Fan",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64747,
+      "type": "ONA",
+      "year": 2020,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "\u8fc7\u5e74\u8005\u8054\u76df",
+          "type": "Japanese"
+        },
+        {
+          "title": "Guonian Zhe Lianmeng",
           "type": "Default"
         }
       ]
@@ -346259,17 +346293,17 @@
   ],
   [
     {
-      "malId": 64745,
-      "type": "ONA",
-      "year": 2020,
-      "episodes": 6,
+      "malId": 64744,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
       "titles": [
         {
-          "title": "\u4e00\u4eba\u4e4b\u4e0b\u624b\u6e38\u6ce1\u9762\u756a",
+          "title": "\u3058\u3087\u305b\u307e\u308b",
           "type": "Japanese"
         },
         {
-          "title": "Yi Ren Zhi Xia Shou You: Pao Mian Fan",
+          "title": "Josemaru",
           "type": "Default"
         }
       ]
@@ -346277,17 +346311,35 @@
   ],
   [
     {
-      "malId": 64747,
-      "type": "ONA",
-      "year": 2020,
-      "episodes": 1,
+      "malId": 64746,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
       "titles": [
         {
-          "title": "\u8fc7\u5e74\u8005\u8054\u76df",
+          "title": "\u3053\u307e\u3069\u308a \u30e2\u30d5\u30e2\u30d5\u30d1\u30ec\u30fc\u30c9",
           "type": "Japanese"
         },
         {
-          "title": "Guonian Zhe Lianmeng",
+          "title": "Komadori Mofmof Parade",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64751,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "Destiny Unchain Online",
+          "type": "Japanese"
+        },
+        {
+          "title": "Destiny Unchain Online",
           "type": "Default"
         }
       ]

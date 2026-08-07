@@ -26,8 +26,8 @@ https://github-checker-worker.ryandash0.workers.dev/
 
 - ✅ Mapped Movies: **1622**
 - ✅ Mapped Series: **5345**
-- ✅ Mapped Seasons: **7808**
-- ✅ Mapped Episodes: **176926**
+- ✅ Mapped Seasons: **7809**
+- ✅ Mapped Episodes: **176937**
 - ❌ Unmapped Series/Movies: **0**
 - ❌ Unmapped Seasons: **84**
 - ❌ Unmapped Episodes: **65444**
