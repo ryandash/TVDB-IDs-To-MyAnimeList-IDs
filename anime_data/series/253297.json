@@ -596,6 +596,61 @@
                     "Aliases": []
                 }
             }
+        },
+        "2": {
+            "ID": "2262414",
+            "URL": "https://thetvdb.com/series/canimals/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "11913290",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canimals/episodes/11913290",
+                    "Titles": {
+                        "eng": "Splash Into the Aquarium",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11913291",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canimals/episodes/11913291",
+                    "Titles": {
+                        "eng": "Bubble Traveling",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "11913292",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canimals/episodes/11913292",
+                    "Titles": {
+                        "eng": "Escape from Pottery",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "11913293",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/canimals/episodes/11913293",
+                    "Titles": {
+                        "eng": "Deserted Island,",
+                        "jpn": null
+                    },
+                    "Aliases": []
+                }
+            }
         }
     }
 }

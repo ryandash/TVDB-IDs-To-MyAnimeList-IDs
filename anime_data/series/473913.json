@@ -43,7 +43,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 1,
-                    "Num Episodes": 5
+                    "Num Episodes": 6
                 },
                 "2": {
                     "ID": "11877641",
@@ -56,7 +56,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 2,
-                    "Num Episodes": 5
+                    "Num Episodes": 6
                 },
                 "3": {
                     "ID": "11886642",
@@ -69,7 +69,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 3,
-                    "Num Episodes": 5
+                    "Num Episodes": 6
                 },
                 "4": {
                     "ID": "11895154",
@@ -82,7 +82,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 4,
-                    "Num Episodes": 5
+                    "Num Episodes": 6
                 },
                 "5": {
                     "ID": "11904608",
@@ -95,7 +95,20 @@
                     },
                     "Aliases": [],
                     "Episode #": 5,
-                    "Num Episodes": 5
+                    "Num Episodes": 6
+                },
+                "6": {
+                    "ID": "11914396",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/ushiro-no-shoumen-kamui-san/episodes/11914396",
+                    "Titles": {
+                        "eng": "Mini Anime Theater (6)",
+                        "jpn": "ミニアニメ劇場 その6"
+                    },
+                    "Aliases": [],
+                    "Episode #": 6,
+                    "Num Episodes": 6
                 }
             }
         },
@@ -242,11 +255,5 @@
                 }
             }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "0"
-        ],
-        "Episodes": []
     }
 }
