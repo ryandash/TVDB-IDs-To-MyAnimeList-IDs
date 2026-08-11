@@ -198439,6 +198439,24 @@
   ],
   [
     {
+      "malId": 64768,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u60aa\u5f79\u306e\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u306f\u6b7b\u306e\u307f / \uc545\uc5ed\uc758 \uc5d4\ub529\uc740 \uc8fd\uc74c\ubfd0",
+          "type": "Japanese"
+        },
+        {
+          "title": "Akuyaku no Ending wa Shi Nomi",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -346391,17 +346409,61 @@
   ],
   [
     {
-      "malId": 64768,
+      "malId": 64782,
       "type": "TV",
       "year": 0,
       "episodes": 0,
       "titles": [
         {
-          "title": "\u60aa\u5f79\u306e\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u306f\u6b7b\u306e\u307f / \uc545\uc5ed\uc758 \uc5d4\ub529\uc740 \uc8fd\uc74c\ubfd0",
+          "title": "\u8d64\u305a\u304d\u3093\u3001\u65c5\u306e\u9014\u4e2d\u3067\u6b7b\u4f53\u3068\u51fa\u4f1a\u3046\u3002",
           "type": "Japanese"
         },
         {
-          "title": "Akuyaku no Ending wa Shi Nomi",
+          "title": "Red Riding Hood: A Detective Story",
+          "type": "English"
+        },
+        {
+          "title": "Akazukin, Tabi no Tochuu de Shitai to Deau.",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64772,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 12,
+      "titles": [
+        {
+          "title": "\ub098\ub178\ub9ac\uc2a4\ud2b8",
+          "type": "Japanese"
+        },
+        {
+          "title": "Nano List",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64779,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 4,
+      "titles": [
+        {
+          "title": "\ub77c\uc628\uc758 \ub0a8\uc790",
+          "type": "Japanese"
+        },
+        {
+          "title": "Seeing Double",
+          "type": "English"
+        },
+        {
+          "title": "Seeing Double",
           "type": "Default"
         }
       ]
