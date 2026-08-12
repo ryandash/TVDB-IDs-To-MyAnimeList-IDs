@@ -198457,6 +198457,28 @@
   ],
   [
     {
+      "malId": 64782,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u8d64\u305a\u304d\u3093\u3001\u65c5\u306e\u9014\u4e2d\u3067\u6b7b\u4f53\u3068\u51fa\u4f1a\u3046\u3002",
+          "type": "Japanese"
+        },
+        {
+          "title": "Red Riding Hood: A Detective Story",
+          "type": "English"
+        },
+        {
+          "title": "Akazukin, Tabi no Tochuu de Shitai to Deau.",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -281773,6 +281795,46 @@
   ],
   [
     {
+      "malId": 64772,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 12,
+      "titles": [
+        {
+          "title": "\ub098\ub178\ub9ac\uc2a4\ud2b8",
+          "type": "Japanese"
+        },
+        {
+          "title": "Nano List",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64779,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 4,
+      "titles": [
+        {
+          "title": "\ub77c\uc628\uc758 \ub0a8\uc790",
+          "type": "Japanese"
+        },
+        {
+          "title": "Seeing Double",
+          "type": "English"
+        },
+        {
+          "title": "Seeing Double",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 49,
       "type": "OVA",
       "year": 1993,
@@ -346409,61 +346471,21 @@
   ],
   [
     {
-      "malId": 64782,
+      "malId": 64789,
       "type": "TV",
-      "year": 0,
+      "year": 2026,
       "episodes": 0,
       "titles": [
         {
-          "title": "\u8d64\u305a\u304d\u3093\u3001\u65c5\u306e\u9014\u4e2d\u3067\u6b7b\u4f53\u3068\u51fa\u4f1a\u3046\u3002",
+          "title": "\u306d\u305a\u307f\u304f\u3093\u306e\u30c1\u30e7\u30c3\u30ad \u7b2c\uff12\u671f",
           "type": "Japanese"
         },
         {
-          "title": "Red Riding Hood: A Detective Story",
+          "title": "Little Mouse's Red Vest Season 2",
           "type": "English"
         },
         {
-          "title": "Akazukin, Tabi no Tochuu de Shitai to Deau.",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64772,
-      "type": "ONA",
-      "year": 2026,
-      "episodes": 12,
-      "titles": [
-        {
-          "title": "\ub098\ub178\ub9ac\uc2a4\ud2b8",
-          "type": "Japanese"
-        },
-        {
-          "title": "Nano List",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64779,
-      "type": "ONA",
-      "year": 2026,
-      "episodes": 4,
-      "titles": [
-        {
-          "title": "\ub77c\uc628\uc758 \ub0a8\uc790",
-          "type": "Japanese"
-        },
-        {
-          "title": "Seeing Double",
-          "type": "English"
-        },
-        {
-          "title": "Seeing Double",
+          "title": "Nezumi-kun no Chokki (TV) Season 2",
           "type": "Default"
         }
       ]
