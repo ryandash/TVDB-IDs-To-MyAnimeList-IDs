@@ -198479,6 +198479,28 @@
   ],
   [
     {
+      "malId": 64789,
+      "type": "TV",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u306d\u305a\u307f\u304f\u3093\u306e\u30c1\u30e7\u30c3\u30ad \u7b2c\uff12\u671f",
+          "type": "Japanese"
+        },
+        {
+          "title": "Little Mouse's Red Vest Season 2",
+          "type": "English"
+        },
+        {
+          "title": "Nezumi-kun no Chokki (TV) Season 2",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -346471,21 +346493,17 @@
   ],
   [
     {
-      "malId": 64789,
-      "type": "TV",
-      "year": 2026,
-      "episodes": 0,
+      "malId": 64322,
+      "type": "TV Special",
+      "year": 1982,
+      "episodes": 1,
       "titles": [
         {
-          "title": "\u306d\u305a\u307f\u304f\u3093\u306e\u30c1\u30e7\u30c3\u30ad \u7b2c\uff12\u671f",
+          "title": "\u30aa\u30d0\u30b1",
           "type": "Japanese"
         },
         {
-          "title": "Little Mouse's Red Vest Season 2",
-          "type": "English"
-        },
-        {
-          "title": "Nezumi-kun no Chokki (TV) Season 2",
+          "title": "Obake",
           "type": "Default"
         }
       ]
