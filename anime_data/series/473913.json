@@ -43,7 +43,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 1,
-                    "Num Episodes": 6
+                    "Num Episodes": 7
                 },
                 "2": {
                     "ID": "11877641",
@@ -56,7 +56,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 2,
-                    "Num Episodes": 6
+                    "Num Episodes": 7
                 },
                 "3": {
                     "ID": "11886642",
@@ -69,7 +69,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 3,
-                    "Num Episodes": 6
+                    "Num Episodes": 7
                 },
                 "4": {
                     "ID": "11895154",
@@ -82,7 +82,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 4,
-                    "Num Episodes": 6
+                    "Num Episodes": 7
                 },
                 "5": {
                     "ID": "11904608",
@@ -95,7 +95,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 5,
-                    "Num Episodes": 6
+                    "Num Episodes": 7
                 },
                 "6": {
                     "ID": "11914396",
@@ -108,7 +108,20 @@
                     },
                     "Aliases": [],
                     "Episode #": 6,
-                    "Num Episodes": 6
+                    "Num Episodes": 7
+                },
+                "7": {
+                    "ID": "11922891",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/ushiro-no-shoumen-kamui-san/episodes/11922891",
+                    "Titles": {
+                        "eng": "Mini Anime Theater (7)",
+                        "jpn": "ミニアニメ劇場 その7"
+                    },
+                    "Aliases": [],
+                    "Episode #": 7,
+                    "Num Episodes": 7
                 }
             }
         },
@@ -255,11 +268,5 @@
                 }
             }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "0"
-        ],
-        "Episodes": []
     }
 }
