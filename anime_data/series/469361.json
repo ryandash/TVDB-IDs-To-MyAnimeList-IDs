@@ -14,6 +14,43 @@
     "Aliases": [],
     "Modified": "2026-04-25",
     "Seasons": {
+        "0": {
+            "ID": "2211924",
+            "URL": "https://thetvdb.com/series/kyoufu-shinbun-1991/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "11928296",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kyoufu-shinbun-1991/episodes/11928296",
+                    "Titles": {
+                        "eng": "Tsunoda Jirou`s Paranormal Report: Haunted Hotel Near Lake Biwa",
+                        "jpn": "つのだじろうの恐怖心霊レポート ~琵琶湖幽霊ホテル編~"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "2": {
+                    "ID": "11928297",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kyoufu-shinbun-1991/episodes/11928297",
+                    "Titles": {
+                        "eng": "Tsunoda Jirou`s Paranormal Report: Haunted Hotel Near Lake Biwa - Part 2",
+                        "jpn": "つのだじろうの恐怖心霊レポート ~琵琶湖幽霊ホテル編~ 其ノ二"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        },
         "1": {
             "ID": "2211925",
             "URL": "https://thetvdb.com/series/kyoufu-shinbun-1991/seasons/official/1",
