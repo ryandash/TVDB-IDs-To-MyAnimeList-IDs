@@ -18,6 +18,30 @@
     "Aliases": [],
     "Modified": "2026-03-23",
     "Seasons": {
+        "0": {
+            "ID": "534629",
+            "URL": "https://thetvdb.com/series/shamanic-princess/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11933282",
+                    "TYPE": "OVAs",
+                    "CATEGORY": "OVAs",
+                    "URL": "https://www.thetvdb.com/series/shamanic-princess/episodes/11933282",
+                    "Titles": {
+                        "eng": "Magic User’s Club! vs. Shamanic Princess",
+                        "jpn": "魔法使いTai! vs シャーマニックプリンセス"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
         "1": {
             "ID": "13312",
             "URL": "https://thetvdb.com/series/shamanic-princess/seasons/official/1",
