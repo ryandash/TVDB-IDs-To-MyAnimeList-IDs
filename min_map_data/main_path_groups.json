@@ -198519,6 +198519,68 @@
   ],
   [
     {
+      "malId": 64833,
+      "type": "TV",
+      "year": 2011,
+      "episodes": 26,
+      "titles": [
+        {
+          "title": "\ubcfc\uce20\uc640 \ube14\ub9bd",
+          "type": "Japanese"
+        },
+        {
+          "title": "Bolts & Blip",
+          "type": "English"
+        },
+        {
+          "title": "Bolts-wa Blip",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64844,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "Maiden Blood",
+          "type": "Japanese"
+        },
+        {
+          "title": "Maiden Blood",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64847,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "Fate/strange Fake \u65b0\u30b7\u30ea\u30fc\u30ba",
+          "type": "Japanese"
+        },
+        {
+          "title": "Fate/strange Fake",
+          "type": "English"
+        },
+        {
+          "title": "Fate/strange Fake (Shin Series)",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -267319,6 +267381,22 @@
           "type": "Default"
         }
       ]
+    },
+    {
+      "malId": 64848,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 4,
+      "titles": [
+        {
+          "title": "Duel Masters LOST \uff5e\u65ad\u7f6a\u306e\u5c11\u5e74\uff5e",
+          "type": "Japanese"
+        },
+        {
+          "title": "Duel Masters LOST: Danzai no Shounen",
+          "type": "Default"
+        }
+      ]
     }
   ],
   [
@@ -281910,6 +281988,24 @@
         },
         {
           "title": "Tekken! Yurutto Cartoon",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 64840,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "Angry Rabbit",
+          "type": "Japanese"
+        },
+        {
+          "title": "Angry Rabbit",
           "type": "Default"
         }
       ]
@@ -329991,6 +330087,28 @@
   ],
   [
     {
+      "malId": 64842,
+      "type": "OVA",
+      "year": 0,
+      "episodes": 12,
+      "titles": [
+        {
+          "title": "\u30de\u30b6\u30fc\u30fb\u30b0\u30fc\u30b9 \u30d3\u30c7\u30aa\u5358\u8a9e\u5e33",
+          "type": "Japanese"
+        },
+        {
+          "title": "Mother Goose Songs & Rhymes",
+          "type": "English"
+        },
+        {
+          "title": "Mother Goose Video Tango-chou",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 2302,
       "type": "Special",
       "year": 1988,
@@ -346600,108 +346718,6 @@
         },
         {
           "title": "Kerokero News Show",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64833,
-      "type": "TV",
-      "year": 2011,
-      "episodes": 26,
-      "titles": [
-        {
-          "title": "\ubcfc\uce20\uc640 \ube14\ub9bd",
-          "type": "Japanese"
-        },
-        {
-          "title": "Bolts & Blip",
-          "type": "English"
-        },
-        {
-          "title": "Bolts-wa Blip",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64844,
-      "type": "TV",
-      "year": 0,
-      "episodes": 0,
-      "titles": [
-        {
-          "title": "Maiden Blood",
-          "type": "Japanese"
-        },
-        {
-          "title": "Maiden Blood",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64847,
-      "type": "TV",
-      "year": 0,
-      "episodes": 0,
-      "titles": [
-        {
-          "title": "Fate/strange Fake \u65b0\u30b7\u30ea\u30fc\u30ba",
-          "type": "Japanese"
-        },
-        {
-          "title": "Fate/strange Fake",
-          "type": "English"
-        },
-        {
-          "title": "Fate/strange Fake (Shin Series)",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64840,
-      "type": "ONA",
-      "year": 2026,
-      "episodes": 1,
-      "titles": [
-        {
-          "title": "Angry Rabbit",
-          "type": "Japanese"
-        },
-        {
-          "title": "Angry Rabbit",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 64842,
-      "type": "OVA",
-      "year": 0,
-      "episodes": 12,
-      "titles": [
-        {
-          "title": "\u30de\u30b6\u30fc\u30fb\u30b0\u30fc\u30b9 \u30d3\u30c7\u30aa\u5358\u8a9e\u5e33",
-          "type": "Japanese"
-        },
-        {
-          "title": "Mother Goose Songs & Rhymes",
-          "type": "English"
-        },
-        {
-          "title": "Mother Goose Video Tango-chou",
           "type": "Default"
         }
       ]
