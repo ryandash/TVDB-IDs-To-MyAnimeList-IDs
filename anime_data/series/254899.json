@@ -747,6 +747,28 @@
                     "Aliases": []
                 }
             }
+        },
+        "5": {
+            "ID": "2267580",
+            "URL": "https://thetvdb.com/series/the-new-prince-of-tennis/seasons/official/5",
+            "Titles": {
+                "eng": null,
+                "jpn": "U-17 WORLD CUP 決勝メンバー決定戦"
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11969802",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/the-new-prince-of-tennis/episodes/11969802",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
         }
     }
 }

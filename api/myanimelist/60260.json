@@ -142,5 +142,23 @@
         "thetvdb": 11242352,
         "series id": 456463,
         "season id": 2154807
+    },
+    {
+        "season": 2,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/season/2208784",
+        "myanimelist url": "https://myanimelist.net/anime/60260",
+        "myanimelist": 60260,
+        "thetvdb": 2208784,
+        "series id": 456463
+    },
+    {
+        "season": 2,
+        "episode": 1,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/11365599",
+        "myanimelist url": "https://myanimelist.net/anime/60260/Hotel_Inhumans/episode/1",
+        "myanimelist": 60260,
+        "thetvdb": 11365599,
+        "series id": 456463,
+        "season id": 2208784
     }
 ]

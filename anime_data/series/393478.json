@@ -1184,14 +1184,39 @@
                     "Aliases": []
                 }
             }
+        },
+        "4": {
+            "ID": "2140136",
+            "URL": "https://thetvdb.com/series/tokyo-revengers/seasons/official/4",
+            "Titles": {
+                "eng": "War of the Three Titans Arc",
+                "jpn": "三天戦争編"
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "10624334",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tokyo-revengers/episodes/10624334",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "10651424",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/tokyo-revengers/episodes/10651424",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "4"
-        ],
-        "Episodes": [
-            "10651424"
-        ]
     }
 }

@@ -349,6 +349,28 @@
                     "Aliases": []
                 }
             }
+        },
+        "3": {
+            "ID": "2267583",
+            "URL": "https://thetvdb.com/series/umayuru/seasons/official/3",
+            "Titles": {
+                "eng": "Umayuru: Full Gate!",
+                "jpn": "うまゆるふるげ〜と!"
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11969835",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/umayuru/episodes/11969835",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
         }
     }
 }

@@ -21,6 +21,30 @@
     ],
     "Modified": "2026-02-14",
     "Seasons": {
+        "0": {
+            "ID": "2084262",
+            "URL": "https://thetvdb.com/series/bang-dream-ave-mujica/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11967650",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/bang-dream-ave-mujica/episodes/11967650",
+                    "Titles": {
+                        "eng": "Ave Mujica - Prima Aurora",
+                        "jpn": "BanG Dream! Ave Mujica prima aurora"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
         "1": {
             "ID": "2084263",
             "URL": "https://thetvdb.com/series/bang-dream-ave-mujica/seasons/official/1",
