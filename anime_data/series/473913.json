@@ -134,7 +134,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 1,
-                    "Num Episodes": 2
+                    "Num Episodes": 3
                 },
                 "9": {
                     "ID": "11950680",
@@ -160,7 +160,20 @@
                     },
                     "Aliases": [],
                     "Episode #": 2,
-                    "Num Episodes": 2
+                    "Num Episodes": 3
+                },
+                "11": {
+                    "ID": "11972545",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/ushiro-no-shoumen-kamui-san/episodes/11972545",
+                    "Titles": {
+                        "eng": "Snack Hazama (11) / Male Underground Idol (6)",
+                        "jpn": "スナックはざま⑪／メン地下アイドル⑥"
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 3
                 }
             }
         },
@@ -307,11 +320,5 @@
                 }
             }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "0"
-        ],
-        "Episodes": []
     }
 }
