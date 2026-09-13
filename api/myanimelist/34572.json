@@ -1712,5 +1712,33 @@
         "thetvdb": 8234549,
         "series id": 331753,
         "season id": 720595
+    },
+    {
+        "season": 2,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/season/2268253",
+        "myanimelist url": "https://myanimelist.net/anime/34572",
+        "myanimelist": 34572,
+        "thetvdb": 2268253,
+        "series id": 331753
+    },
+    {
+        "season": 2,
+        "episode": 1,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/11965847",
+        "myanimelist url": "https://myanimelist.net/anime/34572/Black_Clover/episode/1",
+        "myanimelist": 34572,
+        "thetvdb": 11965847,
+        "series id": 331753,
+        "season id": 2268253
+    },
+    {
+        "season": 2,
+        "episode": 2,
+        "thetvdb url": "https://www.thetvdb.com/dereferrer/episode/11975216",
+        "myanimelist url": "https://myanimelist.net/anime/34572/Black_Clover/episode/2",
+        "myanimelist": 34572,
+        "thetvdb": 11975216,
+        "series id": 331753,
+        "season id": 2268253
     }
 ]
