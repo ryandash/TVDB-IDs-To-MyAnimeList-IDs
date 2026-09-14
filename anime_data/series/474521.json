@@ -1000,6 +1000,50 @@
                     "Aliases": []
                 }
             }
+        },
+        "4": {
+            "ID": "2268392",
+            "URL": "https://thetvdb.com/series/fate-grand-order-you-ve-lost-ritsuka-fujimaru/seasons/official/4",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "11976824",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/fate-grand-order-you-ve-lost-ritsuka-fujimaru/episodes/11976824",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "空き部屋の使い道は…"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "11976825",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/fate-grand-order-you-ve-lost-ritsuka-fujimaru/episodes/11976825",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "大きい悩みは…"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "11976826",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/fate-grand-order-you-ve-lost-ritsuka-fujimaru/episodes/11976826",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "尊敬できる先輩は…"
+                    },
+                    "Aliases": []
+                }
+            }
         }
     }
 }
