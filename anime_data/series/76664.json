@@ -46,6 +46,136 @@
                     ],
                     "Episode #": 1,
                     "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "11976853",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/blue-gender/episodes/11976853",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Tokihanate Remix"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 10
+                },
+                "3": {
+                    "ID": "11976854",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/blue-gender/episodes/11976854",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Textless Opening Song"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 10
+                },
+                "4": {
+                    "ID": "11976855",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/blue-gender/episodes/11976855",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Textless Closing Song"
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 10
+                },
+                "6": {
+                    "ID": "11976857",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/blue-gender/episodes/11976857",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Armor Strike File"
+                    },
+                    "Aliases": [],
+                    "Episode #": 4,
+                    "Num Episodes": 10
+                },
+                "7": {
+                    "ID": "11976858",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/blue-gender/episodes/11976858",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Blue File 1"
+                    },
+                    "Aliases": [],
+                    "Episode #": 5,
+                    "Num Episodes": 10
+                },
+                "8": {
+                    "ID": "11976859",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/blue-gender/episodes/11976859",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Blue File 2"
+                    },
+                    "Aliases": [],
+                    "Episode #": 6,
+                    "Num Episodes": 10
+                },
+                "10": {
+                    "ID": "11976861",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/blue-gender/episodes/11976861",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "US Audio Commentary"
+                    },
+                    "Aliases": [],
+                    "Episode #": 7,
+                    "Num Episodes": 10
+                },
+                "11": {
+                    "ID": "11976862",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/blue-gender/episodes/11976862",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Rough Sketch Collection"
+                    },
+                    "Aliases": [],
+                    "Episode #": 8,
+                    "Num Episodes": 10
+                },
+                "12": {
+                    "ID": "11976863",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/blue-gender/episodes/11976863",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Break Free Extended"
+                    },
+                    "Aliases": [],
+                    "Episode #": 9,
+                    "Num Episodes": 10
+                },
+                "13": {
+                    "ID": "11976864",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/blue-gender/episodes/11976864",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Love Taught Me Extended"
+                    },
+                    "Aliases": [],
+                    "Episode #": 10,
+                    "Num Episodes": 10
                 }
             }
         },
@@ -346,11 +476,5 @@
                 }
             }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "0"
-        ],
-        "Episodes": []
     }
 }
