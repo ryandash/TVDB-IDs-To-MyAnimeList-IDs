@@ -174,6 +174,19 @@
                     "Aliases": [],
                     "Episode #": 3,
                     "Num Episodes": 3
+                },
+                "12": {
+                    "ID": "11987278",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/ushiro-no-shoumen-kamui-san/episodes/11987278",
+                    "Titles": {
+                        "eng": "Death Game (6) / Snack Hazama (12)",
+                        "jpn": "デスゲーム⑥／スナックはざま⑫"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
                 }
             }
         },
@@ -320,11 +333,5 @@
                 }
             }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "0"
-        ],
-        "Episodes": []
     }
 }
