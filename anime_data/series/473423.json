@@ -263,7 +263,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 1,
-                    "Num Episodes": 3
+                    "Num Episodes": 4
                 },
                 "19": {
                     "ID": "11972227",
@@ -276,7 +276,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 2,
-                    "Num Episodes": 3
+                    "Num Episodes": 4
                 },
                 "20": {
                     "ID": "11983753",
@@ -289,7 +289,20 @@
                     },
                     "Aliases": [],
                     "Episode #": 3,
-                    "Num Episodes": 3
+                    "Num Episodes": 4
+                },
+                "21": {
+                    "ID": "11995732",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/yani-neko/episodes/11995732",
+                    "Titles": {
+                        "eng": "\"Yani Neko\" Mini Anime #20",
+                        "jpn": "『ヤニねこ』ミニアニメ#20"
+                    },
+                    "Aliases": [],
+                    "Episode #": 4,
+                    "Num Episodes": 4
                 }
             }
         },
@@ -436,11 +449,5 @@
                 }
             }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "0"
-        ],
-        "Episodes": []
     }
 }

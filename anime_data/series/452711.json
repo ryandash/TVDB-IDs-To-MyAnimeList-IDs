@@ -296,6 +296,28 @@
                     "Aliases": []
                 }
             }
+        },
+        "2": {
+            "ID": "2269594",
+            "URL": "https://thetvdb.com/series/yomi-no-tsugai/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "11988850",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/yomi-no-tsugai/episodes/11988850",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
         }
     }
 }

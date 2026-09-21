@@ -282465,6 +282465,90 @@
   ],
   [
     {
+      "malId": 65004,
+      "type": "ONA",
+      "year": 2024,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u300a\u539f\u795e\u300b\u52a8\u753b\u77ed\u7247",
+          "type": "Japanese"
+        },
+        {
+          "title": "Genshin Impact: Animated Shorts",
+          "type": "English"
+        },
+        {
+          "title": "Yuanshen: Donghua Duanpian",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 65005,
+      "type": "ONA",
+      "year": 2024,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u300a\u7d55\u5340\u96f6\u300b\u89d2\u8272\u52d5\u756b\u77ed\u7247",
+          "type": "Japanese"
+        },
+        {
+          "title": "Zenless Zone Zero: Character Animated Short Films",
+          "type": "English"
+        },
+        {
+          "title": "Jue Qu Ling: Juese Donghua Duanpian",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 65006,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 7,
+      "titles": [
+        {
+          "title": "\u30a4\u30f3\u30b3\u30ab\u30e9\u30fc\u30bamini",
+          "type": "Japanese"
+        },
+        {
+          "title": "Inko Colors Mini",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 65029,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u7570\u74b0 \u89d2\u8272\u77ed\u7247",
+          "type": "Japanese"
+        },
+        {
+          "title": "NTE Character Animated Shorts",
+          "type": "English"
+        },
+        {
+          "title": "Yi Huan: Juese Duanpian",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 49,
       "type": "OVA",
       "year": 1993,
@@ -347221,21 +347305,21 @@
   ],
   [
     {
-      "malId": 65004,
+      "malId": 64996,
       "type": "ONA",
       "year": 2024,
-      "episodes": 0,
+      "episodes": 23,
       "titles": [
         {
-          "title": "\u300a\u539f\u795e\u300b\u52a8\u753b\u77ed\u7247",
+          "title": "\u53f6\u7f57\u4e3d\u65f6\u95f4\u96e8",
           "type": "Japanese"
         },
         {
-          "title": "Genshin Impact: Animated Shorts",
+          "title": "The Fairy Dream of Yeloli: Rain of Time",
           "type": "English"
         },
         {
-          "title": "Yuanshen: Donghua Duanpian",
+          "title": "Yeluoli: Shijian Yu",
           "type": "Default"
         }
       ]
@@ -347243,21 +347327,21 @@
   ],
   [
     {
-      "malId": 65005,
+      "malId": 64997,
       "type": "ONA",
-      "year": 2024,
-      "episodes": 0,
+      "year": 2023,
+      "episodes": 34,
       "titles": [
         {
-          "title": "\u300a\u7d55\u5340\u96f6\u300b\u89d2\u8272\u52d5\u756b\u77ed\u7247",
+          "title": "\u7cbe\u7075\u68a6\u53f6\u7f57\u4e3dX\u91d1\u82b1\u51a0",
           "type": "Japanese"
         },
         {
-          "title": "Zenless Zone Zero: Character Animated Short Films",
+          "title": "The Fairy Dream of Yeloli: Gold Wreath",
           "type": "English"
         },
         {
-          "title": "Jue Qu Ling: Juese Donghua Duanpian",
+          "title": "Jingling Meng Yeluoli x Jin Huaguan",
           "type": "Default"
         }
       ]
@@ -347265,17 +347349,65 @@
   ],
   [
     {
-      "malId": 65006,
+      "malId": 64998,
+      "type": "ONA",
+      "year": 2023,
+      "episodes": 20,
+      "titles": [
+        {
+          "title": "\u53f6\u7f57\u4e3d\u9ed8\u6c34\u8bed",
+          "type": "Japanese"
+        },
+        {
+          "title": "The Fairy Dream of Yeloli: Whisper of Silent Waters",
+          "type": "English"
+        },
+        {
+          "title": "Yeluoli: Mo Shui Yu",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 65000,
+      "type": "ONA",
+      "year": 2025,
+      "episodes": 23,
+      "titles": [
+        {
+          "title": "\u53f6\u7f57\u4e3d\u6708\u7075\u77f3",
+          "type": "Japanese"
+        },
+        {
+          "title": "The Fairy Dream of Yeloli: Moon Spirit Stone",
+          "type": "English"
+        },
+        {
+          "title": "Yeluoli: Yue Ling Shi",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 65001,
       "type": "ONA",
       "year": 2026,
-      "episodes": 7,
+      "episodes": 10,
       "titles": [
         {
-          "title": "\u30a4\u30f3\u30b3\u30ab\u30e9\u30fc\u30bamini",
+          "title": "\u53f6\u7f57\u4e3d\u91d1\u938f\u5fc3",
           "type": "Japanese"
         },
         {
-          "title": "Inko Colors Mini",
+          "title": "The Fairy Dream of Yeloli: Golden Heart",
+          "type": "English"
+        },
+        {
+          "title": "Yeluoli: Jin Liu Xin",
           "type": "Default"
         }
       ]
@@ -347283,21 +347415,61 @@
   ],
   [
     {
-      "malId": 65029,
+      "malId": 65002,
+      "type": "ONA",
+      "year": 2022,
+      "episodes": 23,
+      "titles": [
+        {
+          "title": "\u7cbe\u7075\u68a6\u53f6\u7f57\u4e3dX\u5149\u6d6e\u5c18",
+          "type": "Japanese"
+        },
+        {
+          "title": "The Fairy Dream of Yeloli: Light Dust",
+          "type": "English"
+        },
+        {
+          "title": "Jingling Meng Yeluoli x Guang Fuchen",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 65003,
+      "type": "ONA",
+      "year": 2021,
+      "episodes": 23,
+      "titles": [
+        {
+          "title": "\u7cbe\u7075\u68a6\u53f6\u7f57\u4e3dX\u51b0\u83b2\u82b1",
+          "type": "Japanese"
+        },
+        {
+          "title": "The Fairy Dream of Yeloli: Ice Lotus",
+          "type": "English"
+        },
+        {
+          "title": "Jingling Meng Yeluoli x Bing Lianhua",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 65026,
       "type": "ONA",
       "year": 2026,
       "episodes": 0,
       "titles": [
         {
-          "title": "\u7570\u74b0 \u89d2\u8272\u77ed\u7247",
+          "title": "Pro, Pro, Pro!!",
           "type": "Japanese"
         },
         {
-          "title": "NTE Character Animated Shorts",
-          "type": "English"
-        },
-        {
-          "title": "Yi Huan: Juese Duanpian",
+          "title": "Pro, Pro, Pro!!",
           "type": "Default"
         }
       ]

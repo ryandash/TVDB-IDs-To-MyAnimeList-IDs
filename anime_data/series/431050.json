@@ -15,6 +15,56 @@
     "Aliases": [],
     "Modified": "2026-03-23",
     "Seasons": {
+        "0": {
+            "ID": "2047267",
+            "URL": "https://thetvdb.com/series/431050-series/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 3,
+            "Episodes": {
+                "1": {
+                    "ID": "11994450",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/431050-series/episodes/11994450",
+                    "Titles": {
+                        "eng": "Behind the Scenes Extras",
+                        "jpn": "舞台裏"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "2": {
+                    "ID": "11994451",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/431050-series/episodes/11994451",
+                    "Titles": {
+                        "eng": "Interview with Shiho Kikuchi",
+                        "jpn": "菊池志穂さんインタビュー"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "3": {
+                    "ID": "11994452",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/431050-series/episodes/11994452",
+                    "Titles": {
+                        "eng": "Interview with Mami Kanetsuki",
+                        "jpn": "金月真美さんインタビュー"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
         "1": {
             "ID": "2047268",
             "URL": "https://thetvdb.com/series/431050-series/seasons/official/1",
