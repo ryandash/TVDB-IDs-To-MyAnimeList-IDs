@@ -26,6 +26,43 @@
     "Aliases": [],
     "Modified": "2026-01-11",
     "Seasons": {
+        "0": {
+            "ID": "535544",
+            "URL": "https://thetvdb.com/series/ergo-proxy/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 2,
+            "Episodes": {
+                "1": {
+                    "ID": "11995866",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ergo-proxy/episodes/11995866",
+                    "Titles": {
+                        "eng": "Exclusive Information Vol. 1",
+                        "jpn": "先行紹介 Vol.1"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "2": {
+                    "ID": "11995867",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/ergo-proxy/episodes/11995867",
+                    "Titles": {
+                        "eng": "Exclusive Information Vol. 2",
+                        "jpn": "先行紹介 Vol.2"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                }
+            }
+        },
         "1": {
             "ID": "16724",
             "URL": "https://thetvdb.com/series/ergo-proxy/seasons/official/1",
