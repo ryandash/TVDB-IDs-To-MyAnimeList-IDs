@@ -22,6 +22,30 @@
     ],
     "Modified": "2026-01-10",
     "Seasons": {
+        "0": {
+            "ID": "2144898",
+            "URL": "https://thetvdb.com/series/maebashi-witches/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "12000975",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/maebashi-witches/episodes/12000975",
+                    "Titles": {
+                        "eng": "Maebashi Witches: Emoemories - Blooming Witches",
+                        "jpn": "劇場版 前橋ウィッチーズ ～魔女見習いのエモエモリーズ～"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
         "1": {
             "ID": "2144899",
             "URL": "https://thetvdb.com/series/maebashi-witches/seasons/official/1",

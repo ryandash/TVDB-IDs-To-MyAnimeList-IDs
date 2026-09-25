@@ -25,6 +25,30 @@
     ],
     "Modified": "2026-07-12",
     "Seasons": {
+        "0": {
+            "ID": "2159806",
+            "URL": "https://thetvdb.com/series/takopii-no-genzai/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "12000965",
+                    "TYPE": "Movies",
+                    "CATEGORY": "Movies",
+                    "URL": "https://www.thetvdb.com/series/takopii-no-genzai/episodes/12000965",
+                    "Titles": {
+                        "eng": "Takopi’s Orignal Sin: Thank You, See You Tomorrow",
+                        "jpn": "Takopii no Genzai: Arigatou, Mata Ashita"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
         "1": {
             "ID": "2159807",
             "URL": "https://thetvdb.com/series/takopii-no-genzai/seasons/official/1",

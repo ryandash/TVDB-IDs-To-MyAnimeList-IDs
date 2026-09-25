@@ -567,14 +567,19 @@
                         "jpn": "49"
                     },
                     "Aliases": []
+                },
+                "50": {
+                    "ID": "12000893",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/ugoku-neko-mukashi-banashi/episodes/12000893",
+                    "Titles": {
+                        "eng": "The Creation of Cats",
+                        "jpn": "天地創造なねこ"
+                    },
+                    "Aliases": []
                 }
             }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "1"
-        ],
-        "Episodes": []
     }
 }
