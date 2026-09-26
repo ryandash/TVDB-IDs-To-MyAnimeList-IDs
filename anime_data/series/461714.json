@@ -164,6 +164,28 @@
                     "Aliases": []
                 }
             }
+        },
+        "2": {
+            "ID": "2270653",
+            "URL": "https://thetvdb.com/series/kore-kaite-shine/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "12001979",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/kore-kaite-shine/episodes/12001979",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
         }
     }
 }
