@@ -1379,14 +1379,19 @@
                         "jpn": "Recruit Chibi Mechagodzilla"
                     },
                     "Aliases": []
+                },
+                "10": {
+                    "ID": "12007802",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/434965-series/episodes/12007802",
+                    "Titles": {
+                        "eng": "CBGZ Personality Test",
+                        "jpn": "CBGZ 診断"
+                    },
+                    "Aliases": []
                 }
             }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "4"
-        ],
-        "Episodes": []
     }
 }

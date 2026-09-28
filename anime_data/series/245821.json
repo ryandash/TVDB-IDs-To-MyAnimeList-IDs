@@ -1259,6 +1259,19 @@
                     "Aliases": [],
                     "Episode #": 2,
                     "Num Episodes": 2
+                },
+                "96": {
+                    "ID": "12005491",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/cardfight-vanguard/episodes/12005491",
+                    "Titles": {
+                        "eng": "Ghost Meets Gal!: Survive! The Drill Sergeant's Dance Lesson",
+                        "jpn": "ごーすと・みーつ・ぎゃる！-生き残れ！鬼軍曹のダンスレッスン"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
                 }
             }
         },
@@ -8243,11 +8256,5 @@
                 }
             }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "0"
-        ],
-        "Episodes": []
     }
 }
