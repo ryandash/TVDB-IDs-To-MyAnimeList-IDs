@@ -199093,6 +199093,42 @@
   ],
   [
     {
+      "malId": 65078,
+      "type": "TV",
+      "year": 2027,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30b9\u30c8\u30e9\u30a4\u30af \u30e1\u30e9\u00d7\u30c7\u30b9 \u6b7b\u795e\u3068\u50d5\u306e\u7570\u5e38\u306a\u604b",
+          "type": "Japanese"
+        },
+        {
+          "title": "Monster Strike: Mera\u00d7Death - Shinigami to Boku no Ijou na Koi",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 65080,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u653e\u8ab2\u5f8c\u306e\u30a2\u30a4\u30c9\u30eb\u306b\u306f\u79d8\u5bc6\u304c\u3042\u308b",
+          "type": "Japanese"
+        },
+        {
+          "title": "Houkago no Idol ni wa Himitsu ga Aru",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -347845,17 +347881,21 @@
   ],
   [
     {
-      "malId": 65078,
-      "type": "TV",
-      "year": 2027,
+      "malId": 65079,
+      "type": "ONA",
+      "year": 2026,
       "episodes": 0,
       "titles": [
         {
-          "title": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30b9\u30c8\u30e9\u30a4\u30af \u30e1\u30e9\u00d7\u30c7\u30b9 \u6b7b\u795e\u3068\u50d5\u306e\u7570\u5e38\u306a\u604b",
+          "title": "\u5b50\u732b\u306e\u914d\u9054\u54e1\u3046\u30fc\u306b\u3083\u3093",
           "type": "Japanese"
         },
         {
-          "title": "Monster Strike: Mera\u00d7Death - Shinigami to Boku no Ijou na Koi",
+          "title": "Delivery Kitten Unyan",
+          "type": "English"
+        },
+        {
+          "title": "Koneko no Haitatsuin Uunyan (2026)",
           "type": "Default"
         }
       ]
@@ -347863,17 +347903,21 @@
   ],
   [
     {
-      "malId": 65080,
-      "type": "TV",
-      "year": 0,
-      "episodes": 0,
+      "malId": 65084,
+      "type": "ONA",
+      "year": 2018,
+      "episodes": 1,
       "titles": [
         {
-          "title": "\u653e\u8ab2\u5f8c\u306e\u30a2\u30a4\u30c9\u30eb\u306b\u306f\u79d8\u5bc6\u304c\u3042\u308b",
+          "title": "\u83ab\u6bd4\u4e4c\u65af\u73af",
           "type": "Japanese"
         },
         {
-          "title": "Houkago no Idol ni wa Himitsu ga Aru",
+          "title": "Mobius",
+          "type": "English"
+        },
+        {
+          "title": "Mo Bi Wu Si Huan",
           "type": "Default"
         }
       ]

@@ -321,6 +321,28 @@
                     "Aliases": []
                 }
             }
+        },
+        "2": {
+            "ID": "2271347",
+            "URL": "https://thetvdb.com/series/liar-game-2026/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "12008518",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/liar-game-2026/episodes/12008518",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
         }
     },
     "Failed": {
