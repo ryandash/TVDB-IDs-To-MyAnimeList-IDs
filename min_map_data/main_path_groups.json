@@ -194345,6 +194345,26 @@
           "type": "Default"
         }
       ]
+    },
+    {
+      "malId": 65083,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "LIAR GAME \u7b2c2\u671f",
+          "type": "Japanese"
+        },
+        {
+          "title": "Liar Game Season 2",
+          "type": "English"
+        },
+        {
+          "title": "Liar Game 2nd Season",
+          "type": "Default"
+        }
+      ]
     }
   ],
   [
@@ -196472,6 +196492,22 @@
         },
         {
           "title": "Thunder 3",
+          "type": "Default"
+        }
+      ]
+    },
+    {
+      "malId": 65092,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u30b5\u30f3\u30c0\u30fc3 SEASON\uff12",
+          "type": "Japanese"
+        },
+        {
+          "title": "Thunder 3 Season 2",
           "type": "Default"
         }
       ]
@@ -283125,6 +283161,50 @@
   ],
   [
     {
+      "malId": 65079,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u5b50\u732b\u306e\u914d\u9054\u54e1\u3046\u30fc\u306b\u3083\u3093",
+          "type": "Japanese"
+        },
+        {
+          "title": "Delivery Kitten Unyan",
+          "type": "English"
+        },
+        {
+          "title": "Koneko no Haitatsuin Uunyan (2026)",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 65084,
+      "type": "ONA",
+      "year": 2018,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "\u83ab\u6bd4\u4e4c\u65af\u73af",
+          "type": "Japanese"
+        },
+        {
+          "title": "Mobius",
+          "type": "English"
+        },
+        {
+          "title": "Mo Bi Wu Si Huan",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 49,
       "type": "OVA",
       "year": 1993,
@@ -347881,21 +347961,21 @@
   ],
   [
     {
-      "malId": 65079,
-      "type": "ONA",
-      "year": 2026,
+      "malId": 65087,
+      "type": "TV",
+      "year": 0,
       "episodes": 0,
       "titles": [
         {
-          "title": "\u5b50\u732b\u306e\u914d\u9054\u54e1\u3046\u30fc\u306b\u3083\u3093",
+          "title": "\u7cbe\u970a\u5e7b\u60f3\u8a183",
           "type": "Japanese"
         },
         {
-          "title": "Delivery Kitten Unyan",
+          "title": "Seirei Gensouki: Spirit Chronicles Season 3",
           "type": "English"
         },
         {
-          "title": "Koneko no Haitatsuin Uunyan (2026)",
+          "title": "Seirei Gensouki 3",
           "type": "Default"
         }
       ]
@@ -347903,21 +347983,17 @@
   ],
   [
     {
-      "malId": 65084,
-      "type": "ONA",
-      "year": 2018,
-      "episodes": 1,
+      "malId": 65094,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
       "titles": [
         {
-          "title": "\u83ab\u6bd4\u4e4c\u65af\u73af",
+          "title": "\u30e1\u30a4\u30c9\u306a\u3089\u5f53\u7136\u3067\u3059\u3002 \u6fe1\u308c\u8863\u3092\u7740\u305b\u3089\u308c\u305f\u4e07\u80fd\u30e1\u30a4\u30c9\u3055\u3093\u306f\u65c5\u306b\u51fa\u308b\u3053\u3068\u306b\u3057\u307e\u3057\u305f",
           "type": "Japanese"
         },
         {
-          "title": "Mobius",
-          "type": "English"
-        },
-        {
-          "title": "Mo Bi Wu Si Huan",
+          "title": "Maid nara Touzen desu.",
           "type": "Default"
         }
       ]

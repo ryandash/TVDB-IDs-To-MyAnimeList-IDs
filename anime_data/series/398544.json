@@ -710,6 +710,28 @@
                     "Aliases": []
                 }
             }
+        },
+        "3": {
+            "ID": "2271792",
+            "URL": "https://thetvdb.com/series/spirit-chronicles/seasons/official/3",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "12012327",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/spirit-chronicles/episodes/12012327",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
         }
     }
 }
