@@ -1390,14 +1390,19 @@
                         "jpn": "CBGZ 診断"
                     },
                     "Aliases": []
+                },
+                "11": {
+                    "ID": "12025012",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/434965-series/episodes/12025012",
+                    "Titles": {
+                        "eng": "Chibi Anguirus' Web Journal",
+                        "jpn": "ちびアンギラスのウェブ日記"
+                    },
+                    "Aliases": []
                 }
             }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "4"
-        ],
-        "Episodes": []
     }
 }
