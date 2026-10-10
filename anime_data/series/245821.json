@@ -1285,6 +1285,19 @@
                     "Aliases": [],
                     "Episode #": 1,
                     "Num Episodes": 1
+                },
+                "98": {
+                    "ID": "12027305",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/cardfight-vanguard/episodes/12027305",
+                    "Titles": {
+                        "eng": "Ghost Meets Gal!: Master of the Lunar Night",
+                        "jpn": "ごーすと・みーつ・ぎゃる！-月夜の支配者"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
                 }
             }
         },
@@ -8269,11 +8282,5 @@
                 }
             }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "0"
-        ],
-        "Episodes": []
     }
 }

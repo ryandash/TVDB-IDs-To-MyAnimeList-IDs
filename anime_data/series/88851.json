@@ -19,6 +19,30 @@
     ],
     "Modified": "2025-02-13",
     "Seasons": {
+        "0": {
+            "ID": "539038",
+            "URL": "https://thetvdb.com/series/bannertail-the-story-of-gray-squirrel/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "12025011",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/bannertail-the-story-of-gray-squirrel/episodes/12025011",
+                    "Titles": {
+                        "eng": "Bandi the Squirrel",
+                        "jpn": "N/A"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
         "1": {
             "ID": "50791",
             "URL": "https://thetvdb.com/series/bannertail-the-story-of-gray-squirrel/seasons/official/1",
