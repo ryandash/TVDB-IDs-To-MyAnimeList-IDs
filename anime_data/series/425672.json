@@ -885,6 +885,61 @@
                     "Aliases": []
                 }
             }
+        },
+        "4": {
+            "ID": "2273727",
+            "URL": "https://thetvdb.com/series/425672-/seasons/official/4",
+            "Titles": {
+                "eng": "Punirunes: Puni 4",
+                "jpn": "ぷにるんず ぷに4"
+            },
+            "# Episodes": 4,
+            "Episodes": {
+                "1": {
+                    "ID": "12032762",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/425672-/episodes/12032762",
+                    "Titles": {
+                        "eng": "Squishy Squishy Puni Puni Punirunes",
+                        "jpn": "ぷにぷにぷにぷに ぷにるんず♪"
+                    },
+                    "Aliases": []
+                },
+                "2": {
+                    "ID": "12032763",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/425672-/episodes/12032763",
+                    "Titles": {
+                        "eng": "Airune Becomes a Babyrune",
+                        "jpn": "あいるん べびるんになるん♪"
+                    },
+                    "Aliases": []
+                },
+                "3": {
+                    "ID": "12032764",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/425672-/episodes/12032764",
+                    "Titles": {
+                        "eng": "Puni School Is in Session",
+                        "jpn": "ぷにスクールはじまるん♪"
+                    },
+                    "Aliases": []
+                },
+                "4": {
+                    "ID": "9484919",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/425672-/episodes/9484919",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "Episode 4"
+                    },
+                    "Aliases": []
+                }
+            }
         }
     }
 }
