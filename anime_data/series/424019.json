@@ -395,6 +395,32 @@
                     "Aliases": [],
                     "Episode #": 1,
                     "Num Episodes": 1
+                },
+                "29": {
+                    "ID": "12035713",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/yozakura-san-chi-no-daisakusen/episodes/12035713",
+                    "Titles": {
+                        "eng": "Mission: Yozakura Family – Mini-Missions: Compilation of Missions 1–13",
+                        "jpn": "夜桜さんちのミニ作戦 さくせん1~13まとめ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 2
+                },
+                "30": {
+                    "ID": "12035714",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/yozakura-san-chi-no-daisakusen/episodes/12035714",
+                    "Titles": {
+                        "eng": "The Yozakura Family's Mini-Missions: Compilation of Missions 14–27",
+                        "jpn": "夜桜さんちのミニ作戦 さくせん14~27まとめ"
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
                 }
             }
         },
@@ -885,7 +911,6 @@
     },
     "Failed": {
         "Seasons": [
-            "0",
             "2"
         ],
         "Episodes": []
