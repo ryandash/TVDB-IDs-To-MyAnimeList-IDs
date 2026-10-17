@@ -283551,6 +283551,58 @@
   ],
   [
     {
+      "malId": 65178,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 10,
+      "titles": [
+        {
+          "title": "\u5b9d\u53ef\u68a6\u52a8\u753b\u56fe\u9274 \u4e0d\u671f\u800c\u9047",
+          "type": "Japanese"
+        },
+        {
+          "title": "Bao Ke Meng Donghua Tujian: Buqi Eryu",
+          "type": "Default"
+        }
+      ]
+    },
+    {
+      "malId": 65179,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 10,
+      "titles": [
+        {
+          "title": "\u5b9d\u53ef\u68a6\u52a8\u753b\u56fe\u9274 \u4e91\u5cab\u5bfb\u8e2a",
+          "type": "Japanese"
+        },
+        {
+          "title": "Bao Ke Meng Donghua Tujian: Yun Xiu Xun Zong",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 65196,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u51f6\u4e71\u4ee4\u5b22\u30cb\u30a2\u30fb\u30ea\u30b9\u30c8\u30f3 \u75c5\u5f31\u4ee4\u5b22\u306b\u8ee2\u751f\u3057\u305f\u795e\u6bba\u3057\u306e\u6b66\u4eba\u306e\u83ef\u9e97\u306a\u308b\u7121\u53cc\u9332 \u30df\u30cb\u30a2\u30cb\u30e1",
+          "type": "Japanese"
+        },
+        {
+          "title": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku Mini Anime",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 49,
       "type": "OVA",
       "year": 1993,
@@ -348347,33 +348399,17 @@
   ],
   [
     {
-      "malId": 65178,
-      "type": "ONA",
-      "year": 2026,
-      "episodes": 10,
+      "malId": 65205,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
       "titles": [
         {
-          "title": "\u5b9d\u53ef\u68a6\u52a8\u753b\u56fe\u9274 \u4e0d\u671f\u800c\u9047",
+          "title": "\u5e78\u305b\u30ab\u30ca\u30b3\u306e\u6bba\u3057\u5c4b\u751f\u6d3b",
           "type": "Japanese"
         },
         {
-          "title": "Bao Ke Meng Donghua Tujian: Buqi Eryu",
-          "type": "Default"
-        }
-      ]
-    },
-    {
-      "malId": 65179,
-      "type": "ONA",
-      "year": 2026,
-      "episodes": 10,
-      "titles": [
-        {
-          "title": "\u5b9d\u53ef\u68a6\u52a8\u753b\u56fe\u9274 \u4e91\u5cab\u5bfb\u8e2a",
-          "type": "Japanese"
-        },
-        {
-          "title": "Bao Ke Meng Donghua Tujian: Yun Xiu Xun Zong",
+          "title": "Shiawase Kanako no Koroshiya Seikatsu",
           "type": "Default"
         }
       ]
@@ -348381,17 +348417,21 @@
   ],
   [
     {
-      "malId": 65196,
-      "type": "ONA",
+      "malId": 65111,
+      "type": "TV Special",
       "year": 2026,
-      "episodes": 0,
+      "episodes": 1,
       "titles": [
         {
-          "title": "\u51f6\u4e71\u4ee4\u5b22\u30cb\u30a2\u30fb\u30ea\u30b9\u30c8\u30f3 \u75c5\u5f31\u4ee4\u5b22\u306b\u8ee2\u751f\u3057\u305f\u795e\u6bba\u3057\u306e\u6b66\u4eba\u306e\u83ef\u9e97\u306a\u308b\u7121\u53cc\u9332 \u30df\u30cb\u30a2\u30cb\u30e1",
+          "title": "\u5343\u6b73\u304f\u3093\u306f\u30e9\u30e0\u30cd\u74f6\u306e\u306a\u304b\u300c\u7279\u5225\u7dcf\u96c6\u7de8\u300d",
           "type": "Japanese"
         },
         {
-          "title": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku Mini Anime",
+          "title": "Chitose Is in the Ramune Bottle Recap",
+          "type": "English"
+        },
+        {
+          "title": "Chitose-kun wa Ramune Bin no Naka Recap",
           "type": "Default"
         }
       ]
