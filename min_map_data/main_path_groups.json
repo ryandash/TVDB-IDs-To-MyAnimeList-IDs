@@ -199421,6 +199421,24 @@
   ],
   [
     {
+      "malId": 65205,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u5e78\u305b\u30ab\u30ca\u30b3\u306e\u6bba\u3057\u5c4b\u751f\u6d3b",
+          "type": "Japanese"
+        },
+        {
+          "title": "Shiawase Kanako no Koroshiya Seikatsu",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -348399,24 +348417,6 @@
   ],
   [
     {
-      "malId": 65205,
-      "type": "TV",
-      "year": 0,
-      "episodes": 0,
-      "titles": [
-        {
-          "title": "\u5e78\u305b\u30ab\u30ca\u30b3\u306e\u6bba\u3057\u5c4b\u751f\u6d3b",
-          "type": "Japanese"
-        },
-        {
-          "title": "Shiawase Kanako no Koroshiya Seikatsu",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
       "malId": 65111,
       "type": "TV Special",
       "year": 2026,
@@ -348432,6 +348432,28 @@
         },
         {
           "title": "Chitose-kun wa Ramune Bin no Naka Recap",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 65209,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 3,
+      "titles": [
+        {
+          "title": "\u4e07\u5723\u8857 \u7279\u522b\u7bc7 \u53e4\u5821\u7684\u79d8\u5bc6",
+          "type": "Japanese"
+        },
+        {
+          "title": "All Saints Street Special: The Secret of the Old Castle",
+          "type": "English"
+        },
+        {
+          "title": "Wan Sheng Jie: Gubao de Mimi",
           "type": "Default"
         }
       ]

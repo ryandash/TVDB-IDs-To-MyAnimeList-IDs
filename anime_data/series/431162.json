@@ -685,7 +685,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 1,
-                    "Num Episodes": 1
+                    "Num Episodes": 2
                 },
                 "51": {
                     "ID": "11896238",
@@ -695,6 +695,32 @@
                     "Titles": {
                         "eng": null,
                         "jpn": "劇場版 薬屋のひとりごと 亡妃の秘宝"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "52": {
+                    "ID": "12040547",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/kusuriya-no-hitorigoto/episodes/12040547",
+                    "Titles": {
+                        "eng": "Maomao's Diaries 49 (Locusts)",
+                        "jpn": "猫猫のひとりごと 第49話 \"蝗\""
+                    },
+                    "Aliases": [],
+                    "Episode #": 2,
+                    "Num Episodes": 2
+                },
+                "53": {
+                    "ID": "12040557",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/kusuriya-no-hitorigoto/episodes/12040557",
+                    "Titles": {
+                        "eng": "Maomao's Diaries 50 (Fireproof Cloth)",
+                        "jpn": "猫猫のひとりごと第 第50話 \"火浣布\""
                     },
                     "Aliases": [],
                     "Episode #": 1,
@@ -1530,7 +1556,6 @@
     },
     "Failed": {
         "Seasons": [
-            "0",
             "3"
         ],
         "Episodes": []
