@@ -13809,6 +13809,17 @@
                     },
                     "Aliases": []
                 },
+                "32": {
+                    "ID": "12041270",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/detective-conan/episodes/12041270",
+                    "Titles": {
+                        "eng": "A Paw-sitively Wonderful Investigation",
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                },
                 "99": {
                     "ID": "11967261",
                     "TYPE": null,
@@ -13825,8 +13836,7 @@
     },
     "Failed": {
         "Seasons": [
-            "0",
-            "34"
+            "0"
         ],
         "Episodes": []
     }
