@@ -199439,6 +199439,42 @@
   ],
   [
     {
+      "malId": 65211,
+      "type": "TV",
+      "year": 0,
+      "episodes": 90,
+      "titles": [
+        {
+          "title": "\u3048\u3044\u3054\u3075\u3060",
+          "type": "Japanese"
+        },
+        {
+          "title": "Eigo Fuda",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 65214,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u306c\u308b\u3081\u305f",
+          "type": "Japanese"
+        },
+        {
+          "title": "NullMeta",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -348454,42 +348490,6 @@
         },
         {
           "title": "Chitose-kun wa Ramune Bin no Naka Recap",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 65211,
-      "type": "TV",
-      "year": 0,
-      "episodes": 90,
-      "titles": [
-        {
-          "title": "\u3048\u3044\u3054\u3075\u3060",
-          "type": "Japanese"
-        },
-        {
-          "title": "Eigo Fuda",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 65214,
-      "type": "TV",
-      "year": 0,
-      "episodes": 0,
-      "titles": [
-        {
-          "title": "\u306c\u308b\u3081\u305f",
-          "type": "Japanese"
-        },
-        {
-          "title": "NullMeta",
           "type": "Default"
         }
       ]
