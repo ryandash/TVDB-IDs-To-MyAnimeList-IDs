@@ -725,6 +725,19 @@
                     "Aliases": [],
                     "Episode #": 1,
                     "Num Episodes": 1
+                },
+                "54": {
+                    "ID": "12045512",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/kusuriya-no-hitorigoto/episodes/12045512",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "ミニアニメ「猫猫のひとりごと」第51話“麦角”"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
                 }
             }
         },
@@ -1556,8 +1569,7 @@
     },
     "Failed": {
         "Seasons": [
-            "3",
-            "0"
+            "3"
         ],
         "Episodes": []
     }
