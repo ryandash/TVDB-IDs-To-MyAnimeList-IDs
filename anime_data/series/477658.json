@@ -38,7 +38,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 1,
-                    "Num Episodes": 2
+                    "Num Episodes": 3
                 },
                 "2": {
                     "ID": "12036287",
@@ -51,7 +51,20 @@
                     },
                     "Aliases": [],
                     "Episode #": 2,
-                    "Num Episodes": 2
+                    "Num Episodes": 3
+                },
+                "3": {
+                    "ID": "12047705",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/kanotomo-anime/episodes/12047705",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "くじ引き怪談①／先輩社員！タケルくん②"
+                    },
+                    "Aliases": [],
+                    "Episode #": 3,
+                    "Num Episodes": 3
                 }
             }
         },
@@ -201,8 +214,7 @@
     },
     "Failed": {
         "Seasons": [
-            "1",
-            "0"
+            "1"
         ],
         "Episodes": []
     }
