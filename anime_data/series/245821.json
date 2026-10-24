@@ -1298,6 +1298,32 @@
                     "Aliases": [],
                     "Episode #": 1,
                     "Num Episodes": 1
+                },
+                "99": {
+                    "ID": "12050560",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/cardfight-vanguard/episodes/12050560",
+                    "Titles": {
+                        "eng": "Ghost Meets Gal!: Giants, Cannonballs, and the Disciplinary Committee",
+                        "jpn": "ごーすと・みーつ・ぎゃる！-巨人、砲弾、風紀委員"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "100": {
+                    "ID": "12050565",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/cardfight-vanguard/episodes/12050565",
+                    "Titles": {
+                        "eng": "Ghost Meets Gal!: Path to the Live Concert",
+                        "jpn": "ごーすと・みーつ・ぎゃる！-ライブへの道"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
                 }
             }
         },
@@ -8282,11 +8308,5 @@
                 }
             }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "0"
-        ],
-        "Episodes": []
     }
 }
