@@ -171,6 +171,28 @@
                     "Aliases": []
                 }
             }
+        },
+        "2": {
+            "ID": "2275684",
+            "URL": "https://thetvdb.com/series/koukaku-kidoutai/seasons/official/2",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "12052321",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/koukaku-kidoutai/episodes/12052321",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": []
+                }
+            }
         }
     }
 }

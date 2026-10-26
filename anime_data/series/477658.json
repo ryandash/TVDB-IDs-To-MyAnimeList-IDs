@@ -38,7 +38,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 1,
-                    "Num Episodes": 3
+                    "Num Episodes": 4
                 },
                 "2": {
                     "ID": "12036287",
@@ -51,7 +51,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 2,
-                    "Num Episodes": 3
+                    "Num Episodes": 4
                 },
                 "3": {
                     "ID": "12047705",
@@ -64,7 +64,20 @@
                     },
                     "Aliases": [],
                     "Episode #": 3,
-                    "Num Episodes": 3
+                    "Num Episodes": 4
+                },
+                "4": {
+                    "ID": "12052138",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/kanotomo-anime/episodes/12052138",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": [],
+                    "Episode #": 4,
+                    "Num Episodes": 4
                 }
             }
         },
@@ -214,8 +227,7 @@
     },
     "Failed": {
         "Seasons": [
-            "1",
-            "0"
+            "1"
         ],
         "Episodes": []
     }
