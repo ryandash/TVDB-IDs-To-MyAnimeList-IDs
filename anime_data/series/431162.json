@@ -738,6 +738,19 @@
                     "Aliases": [],
                     "Episode #": 1,
                     "Num Episodes": 1
+                },
+                "55": {
+                    "ID": "12063994",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/kusuriya-no-hitorigoto/episodes/12063994",
+                    "Titles": {
+                        "eng": "Maomao's Diaries 52 (Liandan-Shu)",
+                        "jpn": "猫猫のひとりごと 第52話 \"錬丹術”"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
                 }
             }
         },
@@ -1569,7 +1582,6 @@
     },
     "Failed": {
         "Seasons": [
-            "0",
             "3"
         ],
         "Episodes": []

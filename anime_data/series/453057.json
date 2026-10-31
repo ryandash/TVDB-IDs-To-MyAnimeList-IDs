@@ -109,7 +109,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 1,
-                    "Num Episodes": 12
+                    "Num Episodes": 13
                 },
                 "7": {
                     "ID": "11973109",
@@ -122,7 +122,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 2,
-                    "Num Episodes": 12
+                    "Num Episodes": 13
                 },
                 "8": {
                     "ID": "11973110",
@@ -135,7 +135,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 3,
-                    "Num Episodes": 12
+                    "Num Episodes": 13
                 },
                 "9": {
                     "ID": "11973125",
@@ -148,7 +148,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 4,
-                    "Num Episodes": 12
+                    "Num Episodes": 13
                 },
                 "10": {
                     "ID": "11973126",
@@ -161,7 +161,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 5,
-                    "Num Episodes": 12
+                    "Num Episodes": 13
                 },
                 "11": {
                     "ID": "11973127",
@@ -174,7 +174,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 6,
-                    "Num Episodes": 12
+                    "Num Episodes": 13
                 },
                 "12": {
                     "ID": "11973128",
@@ -187,7 +187,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 7,
-                    "Num Episodes": 12
+                    "Num Episodes": 13
                 },
                 "13": {
                     "ID": "11973129",
@@ -200,7 +200,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 8,
-                    "Num Episodes": 12
+                    "Num Episodes": 13
                 },
                 "14": {
                     "ID": "11973130",
@@ -213,7 +213,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 9,
-                    "Num Episodes": 12
+                    "Num Episodes": 13
                 },
                 "15": {
                     "ID": "11973150",
@@ -239,7 +239,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 10,
-                    "Num Episodes": 12
+                    "Num Episodes": 13
                 },
                 "17": {
                     "ID": "12040760",
@@ -252,7 +252,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 11,
-                    "Num Episodes": 12
+                    "Num Episodes": 13
                 },
                 "18": {
                     "ID": "12050255",
@@ -265,7 +265,20 @@
                     },
                     "Aliases": [],
                     "Episode #": 12,
-                    "Num Episodes": 12
+                    "Num Episodes": 13
+                },
+                "19": {
+                    "ID": "12065065",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/chitose-kun-wa-ramune-bin-no-naka/episodes/12065065",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "エクストラストーリー#16「その答え」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 13,
+                    "Num Episodes": 13
                 }
             }
         },
@@ -558,7 +571,6 @@
     },
     "Failed": {
         "Seasons": [
-            "0",
             "1"
         ],
         "Episodes": []

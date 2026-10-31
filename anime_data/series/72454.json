@@ -13820,6 +13820,17 @@
                     },
                     "Aliases": []
                 },
+                "33": {
+                    "ID": "12065530",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/detective-conan/episodes/12065530",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "お断りの多い喫茶店"
+                    },
+                    "Aliases": []
+                },
                 "99": {
                     "ID": "11967261",
                     "TYPE": null,
@@ -13836,8 +13847,7 @@
     },
     "Failed": {
         "Seasons": [
-            "0",
-            "34"
+            "0"
         ],
         "Episodes": []
     }
