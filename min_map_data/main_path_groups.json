@@ -199553,6 +199553,50 @@
   ],
   [
     {
+      "malId": 65288,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u67ca\u3055\u3093\u3061\u306e\u5438\u8840\u4e8b\u60c5",
+          "type": "Japanese"
+        },
+        {
+          "title": "Hiragi-san's House of Vampires",
+          "type": "English"
+        },
+        {
+          "title": "Hiiragi-san Chi no Kyuuketsu Jijou",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 65298,
+      "type": "TV",
+      "year": 0,
+      "episodes": 12,
+      "titles": [
+        {
+          "title": "\u30ed\u30e1\u30ea\u30a2\u6226\u8a18 \u7b2cII\u30af\u30fc\u30eb",
+          "type": "Japanese"
+        },
+        {
+          "title": "Romelia War Chronicle Part 2",
+          "type": "English"
+        },
+        {
+          "title": "Romelia Senki Part 2",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -348865,21 +348909,21 @@
   ],
   [
     {
-      "malId": 65288,
+      "malId": 65300,
       "type": "TV",
       "year": 0,
       "episodes": 0,
       "titles": [
         {
-          "title": "\u67ca\u3055\u3093\u3061\u306e\u5438\u8840\u4e8b\u60c5",
+          "title": "\u30b7\u30d0\u3064\u304d\u7269\u4ef6",
           "type": "Japanese"
         },
         {
-          "title": "Hiragi-san's House of Vampires",
+          "title": "Shiba Inu Rooms",
           "type": "English"
         },
         {
-          "title": "Hiiragi-san Chi no Kyuuketsu Jijou",
+          "title": "Shibatsuki Bukken",
           "type": "Default"
         }
       ]
@@ -348887,21 +348931,17 @@
   ],
   [
     {
-      "malId": 65298,
-      "type": "TV",
-      "year": 0,
-      "episodes": 12,
+      "malId": 65299,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 0,
       "titles": [
         {
-          "title": "\u30ed\u30e1\u30ea\u30a2\u6226\u8a18 \u7b2cII\u30af\u30fc\u30eb",
+          "title": "Hello! Pikmin",
           "type": "Japanese"
         },
         {
-          "title": "Romelia War Chronicle Part 2",
-          "type": "English"
-        },
-        {
-          "title": "Romelia Senki Part 2",
+          "title": "Hello! Pikmin",
           "type": "Default"
         }
       ]

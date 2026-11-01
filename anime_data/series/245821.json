@@ -1324,6 +1324,19 @@
                     "Aliases": [],
                     "Episode #": 1,
                     "Num Episodes": 1
+                },
+                "101": {
+                    "ID": "12065222",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/cardfight-vanguard/episodes/12065222",
+                    "Titles": {
+                        "eng": "Ghost Meets Gal!: Dragon Gal VS Dragon Princess",
+                        "jpn": "ごーすと・みーつ・ぎゃる！-ドラゴンギャルvsドラゴンプリンセス"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
                 }
             }
         },
@@ -8308,11 +8321,5 @@
                 }
             }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "0"
-        ],
-        "Episodes": []
     }
 }
