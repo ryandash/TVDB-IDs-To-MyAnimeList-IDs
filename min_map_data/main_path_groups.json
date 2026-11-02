@@ -199597,6 +199597,28 @@
   ],
   [
     {
+      "malId": 65300,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u30b7\u30d0\u3064\u304d\u7269\u4ef6",
+          "type": "Japanese"
+        },
+        {
+          "title": "Shiba Inu Rooms",
+          "type": "English"
+        },
+        {
+          "title": "Shibatsuki Bukken",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -283857,6 +283879,24 @@
   ],
   [
     {
+      "malId": 65299,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "Hello! Pikmin",
+          "type": "Japanese"
+        },
+        {
+          "title": "Hello! Pikmin",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 49,
       "type": "OVA",
       "year": 1993,
@@ -348909,21 +348949,21 @@
   ],
   [
     {
-      "malId": 65300,
+      "malId": 65312,
       "type": "TV",
       "year": 0,
       "episodes": 0,
       "titles": [
         {
-          "title": "\u30b7\u30d0\u3064\u304d\u7269\u4ef6",
+          "title": "\u8840\u306b\u98e2\u3048\u305f\u82b1\u5ac1\u306f\u738b\u3092\u55b0\u3089\u3046",
           "type": "Japanese"
         },
         {
-          "title": "Shiba Inu Rooms",
+          "title": "The Bloodthirsty Bride Devours the King",
           "type": "English"
         },
         {
-          "title": "Shibatsuki Bukken",
+          "title": "Chi ni Ueta Hanayome wa Ou wo Kurau",
           "type": "Default"
         }
       ]
@@ -348931,17 +348971,17 @@
   ],
   [
     {
-      "malId": 65299,
+      "malId": 65301,
       "type": "ONA",
-      "year": 2026,
-      "episodes": 0,
+      "year": 2025,
+      "episodes": 1,
       "titles": [
         {
-          "title": "Hello! Pikmin",
+          "title": "Pikmin Close to you",
           "type": "Japanese"
         },
         {
-          "title": "Hello! Pikmin",
+          "title": "Pikmin Close to You",
           "type": "Default"
         }
       ]
