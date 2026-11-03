@@ -751,6 +751,19 @@
                     "Aliases": [],
                     "Episode #": 1,
                     "Num Episodes": 1
+                },
+                "56": {
+                    "ID": "12068549",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/kusuriya-no-hitorigoto/episodes/12068549",
+                    "Titles": {
+                        "eng": "Maomao's Diaries 52 (Mercury)",
+                        "jpn": "猫猫のひとりごと 第53話 \"水銀”"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
                 }
             }
         },
@@ -1582,8 +1595,7 @@
     },
     "Failed": {
         "Seasons": [
-            "3",
-            "0"
+            "3"
         ],
         "Episodes": []
     }

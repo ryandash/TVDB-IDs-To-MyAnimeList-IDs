@@ -199619,6 +199619,28 @@
   ],
   [
     {
+      "malId": 65312,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u8840\u306b\u98e2\u3048\u305f\u82b1\u5ac1\u306f\u738b\u3092\u55b0\u3089\u3046",
+          "type": "Japanese"
+        },
+        {
+          "title": "The Bloodthirsty Bride Devours the King",
+          "type": "English"
+        },
+        {
+          "title": "Chi ni Ueta Hanayome wa Ou wo Kurau",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -283897,6 +283919,24 @@
   ],
   [
     {
+      "malId": 65301,
+      "type": "ONA",
+      "year": 2025,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "Pikmin Close to you",
+          "type": "Japanese"
+        },
+        {
+          "title": "Pikmin Close to You",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 49,
       "type": "OVA",
       "year": 1993,
@@ -348942,46 +348982,6 @@
         },
         {
           "title": "Chitose-kun wa Ramune Bin no Naka Recap",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 65312,
-      "type": "TV",
-      "year": 0,
-      "episodes": 0,
-      "titles": [
-        {
-          "title": "\u8840\u306b\u98e2\u3048\u305f\u82b1\u5ac1\u306f\u738b\u3092\u55b0\u3089\u3046",
-          "type": "Japanese"
-        },
-        {
-          "title": "The Bloodthirsty Bride Devours the King",
-          "type": "English"
-        },
-        {
-          "title": "Chi ni Ueta Hanayome wa Ou wo Kurau",
-          "type": "Default"
-        }
-      ]
-    }
-  ],
-  [
-    {
-      "malId": 65301,
-      "type": "ONA",
-      "year": 2025,
-      "episodes": 1,
-      "titles": [
-        {
-          "title": "Pikmin Close to you",
-          "type": "Japanese"
-        },
-        {
-          "title": "Pikmin Close to You",
           "type": "Default"
         }
       ]
