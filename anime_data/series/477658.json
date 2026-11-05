@@ -78,6 +78,19 @@
                     "Aliases": [],
                     "Episode #": 4,
                     "Num Episodes": 4
+                },
+                "5": {
+                    "ID": "12072635",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/kanotomo-anime/episodes/12072635",
+                    "Titles": {
+                        "eng": "Kaoguya-hime / Kaori's Desert Island Diary (3)",
+                        "jpn": "カオぐや姫／カオリの無人島日記③"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
                 }
             }
         },
@@ -227,7 +240,6 @@
     },
     "Failed": {
         "Seasons": [
-            "0",
             "1"
         ],
         "Episodes": []
