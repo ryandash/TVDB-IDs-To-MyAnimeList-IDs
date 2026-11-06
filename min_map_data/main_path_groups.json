@@ -199663,6 +199663,24 @@
   ],
   [
     {
+      "malId": 65323,
+      "type": "TV",
+      "year": 0,
+      "episodes": 18,
+      "titles": [
+        {
+          "title": "\u30b9\u30d4\u30ea\u30c3\u30c8\u30b5\u30fc\u30af\u30eb",
+          "type": "Japanese"
+        },
+        {
+          "title": "Spirit Circle",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -349011,17 +349029,21 @@
   ],
   [
     {
-      "malId": 65323,
+      "malId": 65325,
       "type": "TV",
       "year": 0,
-      "episodes": 18,
+      "episodes": 0,
       "titles": [
         {
-          "title": "\u30b9\u30d4\u30ea\u30c3\u30c8\u30b5\u30fc\u30af\u30eb",
+          "title": "\u30ab\u30e9\u30c0\u306b\u30a4\u30a4\u7537",
           "type": "Japanese"
         },
         {
-          "title": "Spirit Circle",
+          "title": "He Does a Body Good",
+          "type": "English"
+        },
+        {
+          "title": "Karada ni Ii Otoko",
           "type": "Default"
         }
       ]
