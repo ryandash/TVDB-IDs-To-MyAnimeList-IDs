@@ -316,6 +316,19 @@
                     "Aliases": [],
                     "Episode #": 5,
                     "Num Episodes": 5
+                },
+                "23": {
+                    "ID": "12077871",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/yani-neko/episodes/12077871",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "『ヤニねこ』ミニアニメ#22"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
                 }
             }
         },
@@ -462,11 +475,5 @@
                 }
             }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "0"
-        ],
-        "Episodes": []
     }
 }

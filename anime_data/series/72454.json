@@ -13831,6 +13831,28 @@
                     },
                     "Aliases": []
                 },
+                "34": {
+                    "ID": "12077585",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/detective-conan/episodes/12077585",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "女子会ミステリー5 (前編)"
+                    },
+                    "Aliases": []
+                },
+                "35": {
+                    "ID": "12077586",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/detective-conan/episodes/12077586",
+                    "Titles": {
+                        "eng": "Girls Day Mystery 5 (Part Two)",
+                        "jpn": "女子会ミステリー5 （下集）"
+                    },
+                    "Aliases": []
+                },
                 "99": {
                     "ID": "11967261",
                     "TYPE": null,
@@ -13847,7 +13869,6 @@
     },
     "Failed": {
         "Seasons": [
-            "34",
             "0"
         ],
         "Episodes": []
