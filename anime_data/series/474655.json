@@ -384,14 +384,19 @@
                         "jpn": "おねがいかなえチャンネル！"
                     },
                     "Aliases": []
+                },
+                "33": {
+                    "ID": "12080314",
+                    "TYPE": null,
+                    "CATEGORY": null,
+                    "URL": "https://www.thetvdb.com/series/onegai-aipri/episodes/12080314",
+                    "Titles": {
+                        "eng": "My First Request",
+                        "jpn": "さいしょのおねがい"
+                    },
+                    "Aliases": []
                 }
             }
         }
-    },
-    "Failed": {
-        "Seasons": [
-            "1"
-        ],
-        "Episodes": []
     }
 }

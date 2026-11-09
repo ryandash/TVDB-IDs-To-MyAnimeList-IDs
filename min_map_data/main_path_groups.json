@@ -199761,6 +199761,24 @@
   ],
   [
     {
+      "malId": 65350,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "SPY\u00d7FAMILY Season 4",
+          "type": "Japanese"
+        },
+        {
+          "title": "Spy x Family Season 4",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -284057,6 +284075,28 @@
   ],
   [
     {
+      "malId": 65346,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "Damage",
+          "type": "Japanese"
+        },
+        {
+          "title": "Damage",
+          "type": "English"
+        },
+        {
+          "title": "Damage",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 49,
       "type": "OVA",
       "year": 1993,
@@ -349109,17 +349149,17 @@
   ],
   [
     {
-      "malId": 65350,
-      "type": "TV",
-      "year": 0,
-      "episodes": 0,
+      "malId": 65343,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 1,
       "titles": [
         {
-          "title": "SPY\u00d7FAMILY Season 4",
-          "type": "Japanese"
+          "title": "Beach Therapy",
+          "type": "English"
         },
         {
-          "title": "Spy x Family Season 4",
+          "title": "Beach Therapy",
           "type": "Default"
         }
       ]
@@ -349127,21 +349167,65 @@
   ],
   [
     {
-      "malId": 65346,
+      "malId": 65344,
       "type": "ONA",
       "year": 2026,
       "episodes": 1,
       "titles": [
         {
-          "title": "Damage",
+          "title": "Warning",
           "type": "Japanese"
         },
         {
-          "title": "Damage",
+          "title": "Warning",
           "type": "English"
         },
         {
-          "title": "Damage",
+          "title": "Warning",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 65345,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "The Bullet",
+          "type": "Japanese"
+        },
+        {
+          "title": "The Bullet",
+          "type": "English"
+        },
+        {
+          "title": "The Bullet",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 65347,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 1,
+      "titles": [
+        {
+          "title": "New Style",
+          "type": "Japanese"
+        },
+        {
+          "title": "New Style",
+          "type": "English"
+        },
+        {
+          "title": "New Style",
           "type": "Default"
         }
       ]
