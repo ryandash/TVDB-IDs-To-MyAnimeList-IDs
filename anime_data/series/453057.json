@@ -109,7 +109,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 1,
-                    "Num Episodes": 13
+                    "Num Episodes": 14
                 },
                 "7": {
                     "ID": "11973109",
@@ -122,7 +122,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 2,
-                    "Num Episodes": 13
+                    "Num Episodes": 14
                 },
                 "8": {
                     "ID": "11973110",
@@ -135,7 +135,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 3,
-                    "Num Episodes": 13
+                    "Num Episodes": 14
                 },
                 "9": {
                     "ID": "11973125",
@@ -148,7 +148,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 4,
-                    "Num Episodes": 13
+                    "Num Episodes": 14
                 },
                 "10": {
                     "ID": "11973126",
@@ -161,7 +161,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 5,
-                    "Num Episodes": 13
+                    "Num Episodes": 14
                 },
                 "11": {
                     "ID": "11973127",
@@ -174,7 +174,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 6,
-                    "Num Episodes": 13
+                    "Num Episodes": 14
                 },
                 "12": {
                     "ID": "11973128",
@@ -187,7 +187,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 7,
-                    "Num Episodes": 13
+                    "Num Episodes": 14
                 },
                 "13": {
                     "ID": "11973129",
@@ -200,7 +200,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 8,
-                    "Num Episodes": 13
+                    "Num Episodes": 14
                 },
                 "14": {
                     "ID": "11973130",
@@ -213,7 +213,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 9,
-                    "Num Episodes": 13
+                    "Num Episodes": 14
                 },
                 "15": {
                     "ID": "11973150",
@@ -239,7 +239,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 10,
-                    "Num Episodes": 13
+                    "Num Episodes": 14
                 },
                 "17": {
                     "ID": "12040760",
@@ -252,7 +252,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 11,
-                    "Num Episodes": 13
+                    "Num Episodes": 14
                 },
                 "18": {
                     "ID": "12050255",
@@ -265,7 +265,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 12,
-                    "Num Episodes": 13
+                    "Num Episodes": 14
                 },
                 "19": {
                     "ID": "12065065",
@@ -278,7 +278,20 @@
                     },
                     "Aliases": [],
                     "Episode #": 13,
-                    "Num Episodes": 13
+                    "Num Episodes": 14
+                },
+                "20": {
+                    "ID": "12082758",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/chitose-kun-wa-ramune-bin-no-naka/episodes/12082758",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "エクストラストーリー#17「多分、友達の好きな人」"
+                    },
+                    "Aliases": [],
+                    "Episode #": 14,
+                    "Num Episodes": 14
                 }
             }
         },
@@ -571,7 +584,6 @@
     },
     "Failed": {
         "Seasons": [
-            "0",
             "1"
         ],
         "Episodes": []

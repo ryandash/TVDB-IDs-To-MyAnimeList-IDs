@@ -764,6 +764,19 @@
                     "Aliases": [],
                     "Episode #": 1,
                     "Num Episodes": 1
+                },
+                "57": {
+                    "ID": "12082028",
+                    "TYPE": null,
+                    "CATEGORY": "Uncategorized",
+                    "URL": "https://www.thetvdb.com/series/kusuriya-no-hitorigoto/episodes/12082028",
+                    "Titles": {
+                        "eng": "Maomao's Diaries 54 (How to Distinguish)",
+                        "jpn": "猫猫のひとりごと 第54話 \"見分け方”"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
                 }
             }
         },
@@ -1595,8 +1608,7 @@
     },
     "Failed": {
         "Seasons": [
-            "3",
-            "0"
+            "3"
         ],
         "Episodes": []
     }

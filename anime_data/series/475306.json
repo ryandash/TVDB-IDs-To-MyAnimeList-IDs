@@ -20,6 +20,30 @@
     ],
     "Modified": "2026-07-21",
     "Seasons": {
+        "0": {
+            "ID": "2238809",
+            "URL": "https://thetvdb.com/series/tengobu-anime/seasons/official/0",
+            "Titles": {
+                "eng": null,
+                "jpn": null
+            },
+            "# Episodes": 1,
+            "Episodes": {
+                "1": {
+                    "ID": "12081466",
+                    "TYPE": "Season Recaps",
+                    "CATEGORY": "Season Recaps",
+                    "URL": "https://www.thetvdb.com/series/tengobu-anime/episodes/12081466",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "前半振り返るけど質問ある？"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                }
+            }
+        },
         "1": {
             "ID": "2238810",
             "URL": "https://thetvdb.com/series/tengobu-anime/seasons/official/1",
