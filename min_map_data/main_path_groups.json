@@ -199797,6 +199797,42 @@
   ],
   [
     {
+      "malId": 65409,
+      "type": "TV",
+      "year": 2026,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u30b2\u30eb\u3074\u3088",
+          "type": "Japanese"
+        },
+        {
+          "title": "Gelpiyo 2nd Season",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 65412,
+      "type": "TV",
+      "year": 0,
+      "episodes": 0,
+      "titles": [
+        {
+          "title": "\u4e03\u3064\u5c4b \u5fd7\u306e\u3076\u306e\u5b9d\u77f3\u5323",
+          "type": "Japanese"
+        },
+        {
+          "title": "Nanatsuya: Shinobu no Housekibako",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
       "malId": 574,
       "type": "ONA",
       "year": 2005,
@@ -349269,17 +349305,17 @@
   ],
   [
     {
-      "malId": 65409,
+      "malId": 65423,
       "type": "TV",
-      "year": 2026,
+      "year": 0,
       "episodes": 0,
       "titles": [
         {
-          "title": "\u30b2\u30eb\u3074\u3088",
+          "title": "\u30da\u30ed\u30da\u30ed\u2605\u30b9\u30d1\uff5e\u30af\u30eb\u30ba",
           "type": "Japanese"
         },
         {
-          "title": "Gelpiyo 2nd Season",
+          "title": "Peropero\u2605Sparkles",
           "type": "Default"
         }
       ]
@@ -349287,17 +349323,35 @@
   ],
   [
     {
-      "malId": 65412,
-      "type": "TV",
-      "year": 0,
+      "malId": 65422,
+      "type": "ONA",
+      "year": 2026,
       "episodes": 0,
       "titles": [
         {
-          "title": "\u4e03\u3064\u5c4b \u5fd7\u306e\u3076\u306e\u5b9d\u77f3\u5323",
+          "title": "WONDERING MATE",
           "type": "Japanese"
         },
         {
-          "title": "Nanatsuya: Shinobu no Housekibako",
+          "title": "Wondering Mate",
+          "type": "Default"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "malId": 65425,
+      "type": "ONA",
+      "year": 2026,
+      "episodes": 20,
+      "titles": [
+        {
+          "title": "\u304a\u3084\u3064\u3057\u3070",
+          "type": "Japanese"
+        },
+        {
+          "title": "Oyatsushiba",
           "type": "Default"
         }
       ]

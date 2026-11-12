@@ -38,7 +38,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 1,
-                    "Num Episodes": 4
+                    "Num Episodes": 10
                 },
                 "2": {
                     "ID": "12036287",
@@ -51,7 +51,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 2,
-                    "Num Episodes": 4
+                    "Num Episodes": 10
                 },
                 "3": {
                     "ID": "12047705",
@@ -64,7 +64,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 3,
-                    "Num Episodes": 4
+                    "Num Episodes": 10
                 },
                 "4": {
                     "ID": "12052138",
@@ -77,7 +77,7 @@
                     },
                     "Aliases": [],
                     "Episode #": 4,
-                    "Num Episodes": 4
+                    "Num Episodes": 10
                 },
                 "5": {
                     "ID": "12072635",
@@ -91,6 +91,97 @@
                     "Aliases": [],
                     "Episode #": 1,
                     "Num Episodes": 1
+                },
+                "6": {
+                    "ID": "12084974",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/kanotomo-anime/episodes/12084974",
+                    "Titles": {
+                        "eng": "Random Word Ghost Story (2) / Takeru's Special Feast (1)",
+                        "jpn": "くじ引き怪談② ／タケルのグルメ①"
+                    },
+                    "Aliases": [],
+                    "Episode #": 1,
+                    "Num Episodes": 1
+                },
+                "7": {
+                    "ID": "12084975",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/kanotomo-anime/episodes/12084975",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": [],
+                    "Episode #": 5,
+                    "Num Episodes": 10
+                },
+                "8": {
+                    "ID": "12084976",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/kanotomo-anime/episodes/12084976",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": [],
+                    "Episode #": 6,
+                    "Num Episodes": 10
+                },
+                "9": {
+                    "ID": "12084977",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/kanotomo-anime/episodes/12084977",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": [],
+                    "Episode #": 7,
+                    "Num Episodes": 10
+                },
+                "10": {
+                    "ID": "12084978",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/kanotomo-anime/episodes/12084978",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": [],
+                    "Episode #": 8,
+                    "Num Episodes": 10
+                },
+                "11": {
+                    "ID": "12084979",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/kanotomo-anime/episodes/12084979",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": [],
+                    "Episode #": 9,
+                    "Num Episodes": 10
+                },
+                "12": {
+                    "ID": "12084980",
+                    "TYPE": "Webisodes and Shorts",
+                    "CATEGORY": "Webisodes and Shorts",
+                    "URL": "https://www.thetvdb.com/series/kanotomo-anime/episodes/12084980",
+                    "Titles": {
+                        "eng": null,
+                        "jpn": "TBA"
+                    },
+                    "Aliases": [],
+                    "Episode #": 10,
+                    "Num Episodes": 10
                 }
             }
         },
@@ -240,8 +331,7 @@
     },
     "Failed": {
         "Seasons": [
-            "1",
-            "0"
+            "1"
         ],
         "Episodes": []
     }
